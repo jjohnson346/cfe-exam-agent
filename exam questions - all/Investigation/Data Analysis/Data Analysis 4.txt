@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Steve, a fraud examiner, believes that a payroll scheme may be occurring. He wants to analyze the payroll records by looking for payees with post office boxes or duplicate addresses. Steve should use which of the following programs to accomplish this?
+
+Options=ACL | i2 Analyst's Notebook | Stego Suite | EnCase
+
+CorrectResponse=0
+
+Explanation=ACL is a data analysis, audit, and reporting software which performs a number of functions on data, including sorting and searches for duplicate data fields. EnCase and Stego Suite are computer forensics programs. The i2 Analyst's Notebook program is used to organize and categorize investigative data. Of these 4 programs, ACL would be the best program to accomplish the task.See page(s) 3.616, 3.631-3.632 in the Fraud Examiner's Manual

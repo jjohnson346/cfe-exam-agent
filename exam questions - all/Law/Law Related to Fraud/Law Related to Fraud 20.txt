@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=To be actionable under Rule 10b-5 of the federal securities law, the misstatement (false statement) generally must be:
+
+Options=Material | Outrageous | Aggravated | None of the above
+
+CorrectResponse=0
+
+Explanation=To allow action, a false statement must be material. The test for materiality is whether there is a substantial likelihood under all the circumstances that a reasonable investor would have considered the misstated or omitted facts significant in deciding whether to invest. Materiality is most often expressed in dollar terms or in terms of its effect on financial statements, but it also may relate to serious questions of management's integrity regardless of the dollar amount involved.See page(s) 2.255 in the Fraud Examiner's Manual

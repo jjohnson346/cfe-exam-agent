@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Tracing the proceeds of a loan is generally much more difficult than tracing deposit transactions.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Tracing the disposition of loan proceeds is similar to tracing deposit transactions. The proceeds could have been deposited within the bank into the subject‰??s account or someone else's account, or they might be used to purchase a certificate of deposit. The funds might have been sent to the wire transfer department for transmittal to another bank. More commonly, the proceeds will be given to the customer in the form of a bank check. The bank should be able to trace the check to determine where it was deposited or cashed. The loan proceeds might have been used to finance an asset, the down payment for which came from illegal funds.See page(s) 3.821 in the Fraud Examiner's Manual

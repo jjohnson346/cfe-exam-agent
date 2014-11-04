@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, the median loss for occupational fraud schemes committed in the largest companies (more than 10,000 employees) is over three times as high as the median loss for occupational fraud schemes committed in the smallest companies (fewer than 100 employees).
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Continuing the trend we have seen in our previous studies, small businesses‰??defined as those with less than 100 employees‰??suffered both a greater percentage of frauds (31%) and a slightly lower median loss ($155,000) than their larger counterparts. These findings accentuate the unique problems in combating fraud‰??primarily the limited amount of fiscal and human resources available for anti-fraud efforts‰??frequently faced by small organizations.See page(s) 4.632 in the Fraud Examiner's Manual

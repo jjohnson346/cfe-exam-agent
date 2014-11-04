@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Blue, a Certified Fraud Examiner, had a moral dilemma. The lowest level of reference for moral decisions is:
+
+Options=The law | Individual standards | Philosophical principles | None of the above
+
+CorrectResponse=0
+
+Explanation=When faced with an ethics-related problem, it is tempting and appropriate to begin the analysis of a possible action by asking: "Is it legal?" The law deals with actions that are permitted and prohibited. With all due respect to the law, it is nevertheless the lowest level of reference for moral decisions. It happens, for example (though not frequently) that a law may permit an action that is prohibited by a profession's code of ethics.See page(s) 4.904 in the Fraud Examiner's Manual

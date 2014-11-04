@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which of the following is NOT subject to Fourth Amendment protections against unreasonable searches and seizures?
+
+Options=Search an abandoned vehicle | Search of a bedroom | Monitoring of a telephone call | Search of a safety deposit box
+
+CorrectResponse=0
+
+Explanation=Under Katz vs. United States, 389 US 347 (1967), the Supreme Court held that the Fourth Amendment protects "people, not places" meaning that its provisions extend beyond the property line of the citizen. Thus, the police normally would have to obtain a warrant not only to search a bedroom, but to intercept calls from a public phone booth, or inspect the contents of a safe deposit box. or to otherwise intrude into the matters which society would reasonably consider to be private. However, if property is clearly abandoned, then, presumably, the owner would have no expectation of privacy in abandoned property.See page(s) 2.417-2.418 in the Fraud Examiner's Manual

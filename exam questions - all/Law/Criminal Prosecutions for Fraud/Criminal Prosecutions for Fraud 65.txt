@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=An immunized witness cannot be compelled to testify.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If an immunized v/itness refuses to testify, out of fear of reprisals or for any other reason, he or she may be held in contempt, and jailed until he or she agrees to testify, or until the grand jury expires.See page(s) 2.507-2.508 in the Fraud Examiner's Manual

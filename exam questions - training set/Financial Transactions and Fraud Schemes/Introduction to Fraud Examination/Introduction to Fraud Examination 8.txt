@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=According to Corporate Fraud Handbook, fraudsters generally prefer to steal:
+
+Options=Inventory | Currency | Checks | Fixtures
+
+CorrectResponse=1
+
+Explanation=When cash is stolen, the intelligent fraudster will generally prefer to steal currency rather than checks if given the opportunity. The first reason for this preference is that currency is harder to trace than a check. A cashed check eventually returns to the person v/ho wrote it and may provide evidence of who cashed it or where it was spent. Endorsements, bank stamps, and so forth may indicate the identity of the thief. Currency, however, disappears into the economy once it is stolen. One twenty dollar bill is as good as another, and unless the victim has recorded the serial numbers of the money, there is no way to determine where it has gone once someone steals it. The second reason that currency is preferable to a check is the difficulty in converting the check. When currency is stolen it can immediately be spent. A check, however, must be endorsed and cashed or deposited before the thief can put his hands on the funds it represents.See page(s) 84 in the Corporate Fraud Handbook

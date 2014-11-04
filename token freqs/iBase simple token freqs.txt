@@ -1,0 +1,25 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+is                                     2
+users                                  1
+it                                     1
+store                                  1
+investigative                          1
+a                                      2
+controlled                             1
+data                                   3
+perform                                1
+analysis                               1
+in                                     1
+database                               1
+and                                    1
+ibase                                  2
+that                                   1
+environment                            1
+allows                                 1
+capture                                1
+configure                              1
+i2                                     1
+
+Totals:                     21        26

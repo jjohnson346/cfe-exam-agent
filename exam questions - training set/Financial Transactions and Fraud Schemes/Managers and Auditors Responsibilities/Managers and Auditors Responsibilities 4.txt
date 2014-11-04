@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The primary purpose of AU 316 is to:
+
+Options=Establish standards and provide guidance to auditors in fulfilling their responsibility as it relates to fraud, in conducting a financial statement audit | Place the primary responsibility of preventing fraud on to auditors and fraud examiners	| Make auditors aware of the possibility of fraud | All of the above
+
+CorrectResponse=0
+
+Explanation=Auditors have the responsibility to plan and perform an audit to obtain reasonable assurance about whether the financial statements are free of material misstatement whether caused by error or fraud. SAS No. 99, issued January 2003, supersedes SAS No. 82 and is codified in AU 316, Consideration of Fraud in a Financial Statement Audit. AU 316 establishes standards and provides guidance to auditors in fulfilling that responsibility, as it relates to fraud, in conducting a financial statement audit. While SAS 99 focuses on the auditor's consideration of fraud in an audit of financial statements, management is responsible for the prevention and detection of fraud.

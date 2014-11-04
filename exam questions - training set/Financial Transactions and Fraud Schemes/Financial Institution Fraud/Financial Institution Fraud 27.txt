@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=B.J., a Certified Fraud Examiner, is evaluating a portfolio of loans for his client, ABC Bank. ABC Bank recently acquired a new portfolio of consumer loans. B.J. notices that the loan package was sold without recourse to the broker, the brokerage fee v/as high relative to other purchases, and the broker is no longer in business. This particular loan portfolio is experiencing a higher than normal default rate. What type of scheme might B.J have uncovered?
+
+Options=Letter of credit fraud | Securities fraud | Brokered loan fraud | Money transfer fraud
+
+CorrectResponse=2
+
+Explanation=Loan brokering applies to either packages of individual residential (consumer) loans or single commercial loans. A variation of a brokered loan is the loan participation, where the purchaser participates in the loan but does not purchase the entire loan. The fraud schemes associated with brokered or participated loans generally involve selling phony loans (packages) or selling participations in loans that have not been properly underwritten Generally, a large fee is charged for these brokered loans. With residential loan packages, the broker sells the package, takes the money and disappears. Brokered loans are generally not sold with any recourse to the broker. Therefore, the purchaser must look to the borrower and the underlying collateral for debt satisfaction. With loan participations, the lead bank generally performs the underwriting. However, this does not relieve the participating bank from its obligation to perform its ov/n due diligence.See page(s) 1.938-1 939 in the Fraud Examiner's Manual

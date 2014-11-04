@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Although a hard shutdown of a computer system for forensic review is generally preferred, there may be times when a graceful shutdown of a computer is necessary.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=There are two methods for shutting down a running system, a hard shutdown and a graceful shutdown. Generally, the hard shutdown is preferred. There may be extenuating circumstances that would lead the investigator to perform a graceful shutdown, so it is important to evaluate the best shutdown option based on the type of data being preserved and the possible ramifications of a hard shutdown based on the type of operating system installed. A hard shutdown is basically pulling the power cord from the back of the PC.See page(s) 3.718 in the Fraud Examiner's Manual

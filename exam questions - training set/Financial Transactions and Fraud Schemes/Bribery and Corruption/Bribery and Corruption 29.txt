@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following questions generally is asked when preparing a business profile?
+
+Options=Is there a fraud policy in place? | Who are the key personnel associated with the enterprise? | Does most of the decision-making authority rest at the top? | Is there a system of internal control?
+
+CorrectResponse=1
+
+Explanation=The business profile is designed to identify prospective witnesses and targets, relevant documents and transactions, and provide leads as to whether an on-book or off-book scheme is being used. The profile is divided into six main categories or questions: (1) How is the business organized, legally and structurally? (2) Who are the key personnel associated with the enterprise? (3) What is the money flow pattern involved in the suspect transaction? (4) Where are the suspected bank accounts? (5) What is the financial condition of the business? and (6) What is the company's record keeping system?See page(s) 1.720-1.722 in the Fraud Examiner's Manual

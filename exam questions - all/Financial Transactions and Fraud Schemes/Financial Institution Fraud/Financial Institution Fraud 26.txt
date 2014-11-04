@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A person gives the loan officer at a financial institution $10,000 in assistance for the officer procuring a $1,000,000 loan. Which of the following is true?
+
+Options=Both the customer and the officer have committed a federal crime | The customer, but not the officer, has committed a federal crime | The officer, but not the customer, has committed a federal crime | Neither has committed a crime
+
+CorrectResponse=0
+
+Explanation=Section 215 of Title 18, U.S. Code, "Receipt of Commissions or Gifts for Procuring Loans," prohibits the corrupt giving or receiving of any thing of value to influence an officer, director, employee, agent, or attorney of a financial institution. Therefore, both the officer and the customer can be prosecuted under federal law. Violations are punishable by fines of the greater of three times the value of the thing given or no more than $1 million and/or up to 30 years of imprisonment. Therefore, both the officer and the customer can be prosecuted under federal law.See page(s) 1.945-1.946 in the Fraud Examiner's Manual

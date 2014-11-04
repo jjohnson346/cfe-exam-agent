@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Which of the following usually represents the highest risk for fraud in financial institutions?
+
+Options=Loan fraud | False statements | Embezzlement | Teller fraud
+
+CorrectResponse=0
+
+Explanation=Loan fraud is a multifaceted activity that includes several types of criminal activities. Larger loan fraud schemes often involve real estate lending and collusion between insiders and outsiders. Loan fraud represents the highest risk area for financial institutions. Although the number of occurrences may be small, the dollar amount per occurrence tends to be large.See page(s) 1.903 in the Fraud Examiner's Manual

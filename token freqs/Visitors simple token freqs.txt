@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+allowed                                1
+to                                     1
+might                                  1
+they                                   1
+by                                     1
+where                                  1
+must                                   1
+times                                  1
+required                               1
+monitored                              1
+all                                    1
+sensitive                              1
+be                                     5
+information                            1
+host                                   1
+logbook                                1
+visitors                               2
+a                                      1
+into                                   1
+at                                     1
+access                                 1
+in                                     2
+should                                 3
+visitor                                1
+and                                    3
+sign                                   1
+not                                    1
+escorted                               1
+there                                  1
+areas                                  1
+their                                  1
+out                                    1
+closely                                1
+
+Totals:                     33        43

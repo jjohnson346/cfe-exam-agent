@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Lane, a Certified Fraud Examiner, conducted an examination of the Blue Corp. Betty was a prime suspect in the disappearance of money, but Lane could not prove it. Later, he discovered Betty had been recently hired by the Red Corp., another client of his. Under the Certified Fraud Examiner Code of Professional Ethics, Lane must:
+
+Options=Inform the Red Corp. | Inform the Red Corp. if the evidence is clear and convincing | Not inform the Red Corp. | None of the above
+
+CorrectResponse=2
+
+Explanation=Article VI says that: "A CFE shall not reveal any confidential information obtained during a professional engagement without proper authorization." Under this scenario, the Certified Fraud Examiner may not disclose the fact of Betty's employment at the Blue Corp., or that she was a suspect in the disappearance of money without the authorization of the Blue Corp. However, even if that authorization was received, the Certified Fraud Examiner is limited as to what can be disclosed. Betty was a suspect; she did not confess nor was she convicted of a crime. If the Certified Fraud Examiner does disclose this information, he could run the risk of serious legal problems.See page(s) 4.1001 in the Fraud Examiner’s Manual

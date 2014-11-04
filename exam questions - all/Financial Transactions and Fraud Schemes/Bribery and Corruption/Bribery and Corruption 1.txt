@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Success in identifying and tracing off-book payments largely depends on which of the following?
+
+Options=Identifying the source of funds or accounts | Focusing on the point of receipt | Using an inside witness | Any of the above
+
+CorrectResponse=3
+
+Explanation=Identifying and tracing off-book payments usually is more difficult than on-book schemes. Success generally depends on identifying the source of the funds or accounts (from which payments can be traced), using an inside witness, or focusing on the point of receipt The source of off-book funds may be located through (1) indirect evidence of unrecorded sales on the suspect company's books and records, (2) unbalanced ratios of cost of sales, and (3) investigation in the marketplace.See page(s) 1.727-1.728 in the Fraud Examiner's Manual

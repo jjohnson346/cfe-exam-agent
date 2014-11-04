@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=XYZ Company deposits an extra $20,000 a month in its bank account although there are no recorded sales for that amount. At the end of the year, the company has an extra $240,000 in its account. This type of money laundering scheme is most properly referred to as:
+
+Options=Overstatement of reported expenses | Balance sheet laundering | Overstatement of reported revenues | Smurfing
+
+CorrectResponse=1
+
+Explanation=Rather than attempting to disguise money as normal business revenue, excess funds can simply be deposited into the bank account of the business. This technique is known as "balance sheet laundering" because it is independent of the money that flows in and out of the business. Overstatement of reported revenues involves actually reporting the illicit income as a "legitimate" sale.See page(s) 1.1604-1.1605 in the Fraud Examiner's Manual

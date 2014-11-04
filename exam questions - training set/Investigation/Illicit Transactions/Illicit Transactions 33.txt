@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Safe-deposit box records usually will show all of the following EXCEPT
+
+Options=The renter's identity | The contents of the box | Visits which correlate with other evidence of currency payments | None of the above
+
+CorrectResponse=1
+
+Explanation=Banks keep no record of safe-deposit box contents and rarely know what the boxes contain. The rental contract records identify the renters, the person or people who have access to the boxes, their signatures, and the dates of the original agreements and later renewals. They also might contain other identifying information, including the name of the initiating bank officer. The officer‰??s name could be significant if the subject (who might have used an alias in renting the box) must be identified. Records showing access to the boxes vary from bank to bank. They contain the signatures of the people entering the boxes and usually the dates and times of entry. The entry records are filed in box-number order. The frequency of entry and the times and dates of entries might be significant and might correspond to the times and dates of deposits or withdrawals from other accounts or to the purchases and sales of securities, property, and in other situations.See page(s) 3.823 in the Fraud Examiner's Manual

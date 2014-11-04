@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Under the Federal Rules of Evidence, an expert's opinion at trial may only be based on the evidence that has already been presented.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Rule 703 says that an expert may testify based on facts that are disclosed at or before the hearing in which the expert testifies. The facts need not themselves be admissible in evidence if they are of “a type reasonably relied upon by experts in a particular field." This rule allows an expert to employ data usually used by experts in the field, though the data itself may not be admissible. An example might be a table of interest rates taken from a Department of Commerce publication. Some data might be considered hearsay; an accountant, for example, as an expert witness may rely on private sources in forming an opinion if such sources normally are relied upon by accountants. If the accountant has been declared an expert witness, he may use any trustworthy data source in forming an opinion. The Federal Rule provides that if the facts or data are of a type reasonably relied upon by experts in the particular field in forming opinions, they need not be admissible in evidence.See page(s) 2.814-2.815 in the Fraud Examiner's Manual

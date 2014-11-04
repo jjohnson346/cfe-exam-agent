@@ -1,0 +1,21 @@
+Token                          Frequency
+-----------------------------  ---------
+mileage                                1
+ambulance                              2
+can                                    1
+trips                                  2
+for                                    4
+or                                     1
+incurred                               1
+transportation                         2
+fraudulent                             1
+include                                1
+billing                                1
+never                                  1
+more                                   1
+than                                   1
+noncovered                             1
+taken                                  1
+bills                                  1
+
+Totals:                     17        23

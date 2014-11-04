@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A draw request should be accompanied by all of the following EXCEPT:
+
+Options=Expenses from similar contracts | Canceled checks from the previous draw(s) | Change orders, if applicable | Lien releases from subcontractors
+
+CorrectResponse=0
+
+Explanation=Generally, a draw request is made once a month and is verified by a quantity surveyor or other authorized entity as agreed to by the financial institution. The request should be accompanied by the following documents:•	Paid invoices for raw materials•	Lien releases from each subcontractor•	Inspection reports•	Canceled checks from previous draw requests•	Bank reconciliation for construction draw account for previous month•	Loan balancing form demonstrating that the loan remains in balance•	Change orders, if applicableSee page(s) 1.906 in the Fraud Examiner's Manual

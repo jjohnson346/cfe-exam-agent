@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In interview situations, admission-seeking questions do not ask, "Why did you do it?" They ask, "Did you do it?".
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=People generally will not confess if they believe that there is doubt in the mind of the accuser regarding their guilt. The interviewer must convey absolute confidence in the accusation—even if not fully convinced. The interviewer must make the accusation in the form of a statement of fact. Accusatory questions do not ask: "Did you do it?" They ask: "Why did you do it?"See page(s) 3.251 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=A company can avoid liability for the acts of its employees by claiming that it did not know what its employee was engaged in.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A company cannot seek to avoid vicarious liability for the acts of its employees by simply claiming that it did not know what was going on. Legally speaking, an organization is deemed to have knowledge of all facts known by its officers and employees That is, if the government can prove that an officer or employee knew of conduct that raised a question as to the company's liability, and the government can show that the company willfully failed to act to correct the situation, then the company may be held liable, even if senior management had no knowledge or suspicion of the wrongdoing.See page(s) 4.701 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interviews, the interviewer generally should attempt to get information without giving information in return.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Information exchange is the central purpose of the interview. The word "exchange" reminds us that the flow of information in an interview goes both ways. Too frequently, interviewers become so concerned with the information they wish to obtain that they do not properly exchange information with the respondent. Although details of what the interviewer says should be carefully measured, don't be cagey. This tactic rarely works. Two basic problems occur in the exchange of information. First, the information sought by the interviewer is not of equal importance to the respondent. Second, there is often a communication barrier between people of diverse backgrounds. These barriers are common between people who don’t know one another.See page(s) 3.207 in the Fraud Examiner's Manual

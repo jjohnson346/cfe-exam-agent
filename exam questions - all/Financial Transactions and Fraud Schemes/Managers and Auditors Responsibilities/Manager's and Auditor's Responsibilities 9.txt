@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to The Institute of Internal Auditors’ International Standards for the Professional Practice of Internal Auditing, the internal audit activity must evaluate the potential for the occurrence of fraud and how the organization manages fraud risk.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=According to The Institute of Internal Auditors' International Standards for the Professional Practice of Internal Auditing, the internal audit activity must evaluate the potential for the occurrence of fraud and how the organization manages fraud risk.See page(s) 1.244 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The Treasury Department prohibits financial institutions from sharing customer information with one another.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Pursuant to Section 314(b) of the USA PATRIOT Act, the Treasury Department issued a rule allowing financial institutions to share customer information v/ith one another. The term ‰??financial institution" includes any entity that is required to have an anti-money laundering program under the Bank Secrecy Act. In order to share information with another financial institution, the sharing institution must file a prescribed notice form with FinCEN stating that it intends to share customer information.See page(s) 1.1619 in the Fraud Examiner‰??s Manual

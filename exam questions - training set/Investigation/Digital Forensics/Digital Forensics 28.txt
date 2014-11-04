@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Before removing a computer for forensic examination, it is usually best to review the files that may be of interest to make sure that they are contained on this particular computer.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=One rule of securing computers is, don't peek through the files. If a system is running, the examiner may be tempted to click on the My Computer icon to look for evidence and/ or copy files to a flash or optical storage device. This should never be done, because each file the investigator touches will have its original time stamps changed; once this is done the original time stamps cannot be recovered. It will be obvious to the forensic examiner that this has occurred.See page(s) 3.718 in the Fraud Examiner's Manual

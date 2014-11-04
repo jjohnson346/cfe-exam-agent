@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Because they generally do not have access to a large amount of funds, unemployed people are rarely targeted by telemarketing fraudsters.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The unemployed are another favorite target for sweepstakes pitches and job search services. Whereas “the system" has left the jobless without hope, the telemarketer offers a way around official channels. People with bad credit pay telemarketers to “repair their credit record or get a major card. Instead, they get a list of banks which offer credit cards, commonly published in newspapers, or an application for a card which requires a security deposit for activation, usually several hundred or a thousand dollars. These people are also targeted by advance-fee loan scams, which promise loans in exchange for a fee.See page(s) 1.1713 in the Fraud Examiner’s Manual

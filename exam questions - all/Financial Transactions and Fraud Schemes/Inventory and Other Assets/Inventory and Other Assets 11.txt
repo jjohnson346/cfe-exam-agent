@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=There is generally no benefit in committing a simple misclassification of assets into general ledger accounts. As long as the item is recorded into any asset account, the miscoding will have no effect.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In order to meet budget requirements, and for various other reasons, assets are sometimes misclassified into general ledger accounts in which they don't belong. The manipulation can skew financial ratios and help comply with loan covenants or other borrowing requirements.See page(s) 380 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Sue, a Certified Fraud Examiner and internal auditor for an insurance company, has been asked to review the company's system of internal controls in the claims processing area. Sue has decided to present the management of the unit with a list of general indicators for fraud which are applicable to many insurance fraud schemes. All of the following would be included on Sue‰??s list EXCEPT:
+
+Options=Pressure by claimant to pay a claim quickly | Individuals who mail their claim and ask for their claim check to be mailed back to them | Threats of legal action when a claim is not paid quickly | Anonymous telephone inquiries regarding the status of a pending claim
+
+CorrectResponse=1
+
+Explanation=A fraud examiner should be aware of these fraud indicators:‰?¢	Pressure by a claimant to pay a claim quickly‰?¢	Individuals who hand-deliver their claim and insist on picking up their claim check‰?¢	Threats of legal action if a claim is not paid quickly‰?¢	Anonymous telephone inquiries regarding the status of a pending claimOf course, everyone wants his claim paid as soon as possible. Red flags don‰??t arise unless the person continually pressures for payment or continually threatens legal See page(s) 1.1230 in the Fraud Examiner's Manual

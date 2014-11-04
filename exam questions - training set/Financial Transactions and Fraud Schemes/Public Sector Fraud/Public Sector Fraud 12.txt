@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=When information comes to the auditor's attention indicating fraud may have occurred, the auditor should consider the significance the fraud may have on the audit results. If it could have a significant effect, the auditor should not extend the steps, but rather stop the audit and contact the Inspector General's office for a criminal investigation.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=According to Government Auditing Standards, paragraph 7.32, "When information comes to the auditors' attention (through audit procedures, allegations received through fraud hotlines, or other means) indicating that fraud that is significant within the context of audit objectives may have occurred, auditors should extend the audit steps and procedures, as necessary, to (1) determine whether fraud likely has occurred and (2) if so, determine its effect on the audit findings. If the fraud that may have occurred is not significant within the context of the audit objectives, the auditors may conduct additional audit v/ork as a separate engagement, or refer the matter to other parties with oversight responsibility or jurisdiction.''See page(s) 1.1909 in the Fraud Examiner‰??s Manual

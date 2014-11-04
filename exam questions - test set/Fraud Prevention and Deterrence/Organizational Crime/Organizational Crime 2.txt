@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Clinard and Yeager, in their studies, found that illegal behavior by a corporation is most often suppressed by consumer pressure.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If illegal behavior resulted in decreased patronage or even consumer boycotts, consumer pressure would be an effective tool in the control of illegal corporate behavior. However, say Clinard and Yeager, it appears to not be very effective. Consumers often are unaware when a corporation's products are unsafe or when it has been violating antitrust laws or polluting the environment. Without organized behavior, a consumer‰??s withdrawal of individual patronage generally is ineffective.See page(s) 4.514 in the Fraud Examiner's Manual

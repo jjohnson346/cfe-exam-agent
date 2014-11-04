@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Common services that are not generally covered by insurance or health care providers, and therefore are often fraudulently manipulated, include:
+
+Options=School physicals | Stop-smoking programs | Weight-loss programs | All of the above
+
+CorrectResponse=3
+
+Explanation=When a provider knows that a service is not covered, by using false diagnoses and covered procedure codes manipulation he will generally get the claim paid. In addition, before ordering expensive laboratory x-rays or other similar services, physicians justify the ordering of such procedures by documenting that a need exists to make such diagnostic inquiries. The services are rendered, but because false information on a claim is used to deceive the insurance company, the claim could be considered fraudulent. Examples of common services not covered are:Annual physical examinationSchool physicalsWeight-loss programsStop-smoking programsInvestigational or experimental proceduresSee page(s) 1.1222 in the Fraud Examiner‰??s Manual

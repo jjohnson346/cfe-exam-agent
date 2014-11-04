@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=During a fraud risk assessment, the assessment team should first consider fraud risks to the organization on an inherent basis, without consideration of known controls.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Assessing the likelihood and significance of each potential fraud risk is a subjective process that allows the organization to manage its fraud risks and apply preventive and detective controls rationally. The fraud risk assessment team should first consider fraud risks to the organization on an inherent basis, or without consideration of known controls. By approaching the assessment in this manner, the team will be better able to consider all relevant fraud risks and then evaluate and design controls to address the risks.See page(s) 4.816 in the Fraud Examiner's Manual

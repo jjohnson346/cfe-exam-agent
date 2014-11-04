@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following steps is used in preparing a financial profile of a suspect?
+
+Options=Identify all significant assets | Identify all significant liabilities | Identify all expenditures | All of the above
+
+CorrectResponse=3
+
+Explanation=The financial/behavioral profile of the suspect is essentially a financial statement with certain modifications and additions that shows what the defendant owns, owes, earns, and spends at any given point or over a period of time. The profile might yield direct evidence of illegal income or hidden assets, or circumstantial evidence thereof, by showing that the suspect's expenditures exceeded known sources of income. The financial profile will identify most illicit funds that are deposited to accounts or expended in significant amounts. It will not catch relatively small currency transactions, particularly if they v/ere for concealed activities, consumables, or for unusual one-time expenses such as medical bills. The steps in the financial profile are: (1) identify all significant assets held by the suspect, (2) identify all significant liabilities, (3) identify all sources of income during the relevant time period, (4) identify all significant expenses incurred during the relevant period, and (5) analyze the collected information.See page(s) 3.835-3.837 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=As a general proposition, the government must disclose information helpful to the defense prior to trial. This information is known as:
+
+Options=Greene material | Brady material | Katz material | Merkley material
+
+CorrectResponse=1
+
+Explanation=The prosecutor has ethical responsibilities not to use evidence that is false and must correct testimony that he knows is false. In 1963, the Supreme Court (in the case of Brady v. Maryland. 373 U.S. 83) expanded the prosecution’s duty further. Under Brady, the prosecution must disclose all evidence requested by the defendant that is material to guilt or punishment (i.e., evidence that would tend to exculpate him or reduce his penalty). The government is expressly forbidden to conceal evidence that would call the charges into question.See page(s) 2.515-2.516 in the Fraud Examiner's Manual

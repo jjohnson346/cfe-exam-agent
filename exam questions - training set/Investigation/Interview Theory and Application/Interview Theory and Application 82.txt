@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Often, it may be necessary to interview several witnesses at once so as to get a more accurate picture of the event in question.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=One of the basic rules of interviewing is to question only one person at a time. The testimony of one respondent will invariably influence the testimony of another. There are few hard and fast rules, but this is one of them.See page(s) 3.220 in the Fraud Examiner's Manual

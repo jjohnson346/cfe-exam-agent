@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=According to the court in Smith v. Commissioner, the failure to know the rules of first-in, first-out (FIFO) was sufficient to sustain a fraud charge.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In Smith v. Commissioner, the court held that the failure to know and understand the rules of first-in, first-out (FIFO) is not sufficient to sustain a fraud charge. There was no indication in this case that the taxpayer misrepresented any fact, withheld any information, or resisted or prevented the discovery by the Commissioner of any pertinent data. Therefore, fraud is more than a mistake in judgment.See page(s) 1.1402 in the Fraud Examiner’s Manual

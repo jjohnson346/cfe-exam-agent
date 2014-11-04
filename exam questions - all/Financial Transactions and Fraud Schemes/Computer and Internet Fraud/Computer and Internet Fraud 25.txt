@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=A control technique commonly used in computerized systems that checks each source document against a detailed list processed by the computer is referred to as:
+
+Options=Computer sequence checking | Computer matching | One-for-one checking | None of the above
+
+CorrectResponse=2
+
+Explanation=One-for-one checking consists of checking each source document against a detailed list processed by the computer. This technique is normally used for low volume input because of the cost and time involved.See page(s) 1.1846 in the Fraud Examiner's Manual

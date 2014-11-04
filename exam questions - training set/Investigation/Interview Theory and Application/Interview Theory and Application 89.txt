@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, closing questions are used for certain distinct purposes. Which of the following is NOT one of the purposes of closing questions?
+
+Options=To obtain additional information | To swear testimony under oath | Reconfirm facts | To maintain goodwill
+
+CorrectResponse=1
+
+Explanation=In routine interviews, certain questions are asked at closing for the purpose of reconfirming the facts, obtaining previously undiscovered information, seeking new evidence, and maintaining goodwill.See page(s) 3.203 in the Fraud Examiner's Manual

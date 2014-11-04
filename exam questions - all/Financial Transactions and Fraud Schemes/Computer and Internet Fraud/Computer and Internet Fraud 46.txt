@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Most mainframe security systems allow for three levels of security. The three levels are:
+
+Options=Access code, passwords, and user ID | Defined passwords, warn, and system alert | Sign-on, access password, and log-off | Log, warn, and fail
+
+CorrectResponse=3
+
+Explanation=Most mainframe security packages allow a minimum of three levels of security. Log mode merely logs all system access to defined programs and data files. Warn mode tells the user if he is accessing a program or file that is not authorized for the password he has employed; activity is also logged. Fail mode will not allow a user to access defined data files and programs without the proper password. This is the highest level of security and the only one that provides adequate protection.See page(s) 1.1845 in the Fraud Examiner's Manual

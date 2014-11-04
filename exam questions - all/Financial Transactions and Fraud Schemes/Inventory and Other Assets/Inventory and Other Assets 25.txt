@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=If the cost of goods sold increases by a disproportionate amount relative to sales, and no changes occur in the purchase prices, quantities purchased, or quality of products purchased, what does this indicate?r
+
+Options=Neither ending inventory has been depleted by theft nor inventory has been charged with embezzlement | Ending inventory has been depleted by theft | Inventory has been charged with embezzlement | Either ending inventory has been depleted by theft or inventory has been charged with embezzlement
+
+CorrectResponse=3
+
+Explanation=By using an analytical review, inventory fraud may be detected because certain trends become immediately clear. For example, if the cost of goods sold increases by a disproportionate amount relative to sales, and no changes occur in the purchase prices, quantities purchased, or quality of products purchased, the cause of the disproportionate increase in cost of goods sold might be one of two things: the ending inventory has been depleted by theft, or inventory has been charged with embezzlement.See page(s) 268 in the Corporate Fraud Handbook

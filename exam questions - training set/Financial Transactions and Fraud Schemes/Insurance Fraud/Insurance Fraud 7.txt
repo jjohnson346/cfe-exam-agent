@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Because phony death certificates usually are not difficult to obtain, false death claims on life insurance policies are often paid relatively easily.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=To obtain reimbursement for life insurance, a death certificate is required. However phony death certificates are not that difficult to obtain. The person might be very much alive and missing, or the person might be dead and the death past posted. With small settlements, death claims are not closely scrutinized and are paid relatively easily.See page(s) 1.1109 in the Fraud Examiner's Manual

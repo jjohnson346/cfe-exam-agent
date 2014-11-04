@@ -1,0 +1,10 @@
+Section=Contract and Procurement Fraud
+
+Stem=Labor costs are more susceptible to mischarging in a contract scheme than are material costs.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Labor costs are perhaps more susceptible to mischarging than are material costs because employee labor can readily be charged to any contract. The only way to ensure that labor costs are charged to the correct account is to actually observe the work of each employee (to determine the contract on which he is working), then determine from the accounting records that the employee's cost is charged to the proper contract.
+See page(s) 1.2008 in the Fraud Examiner’s Manual

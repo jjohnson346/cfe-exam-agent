@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a fraud suspect, has decided to confess to Red, a Certified Fraud Examiner. In obtaining a verbal confession from Blue, Red should obtain the following items of information EXCEPT:
+
+Options=The location of any assets | That Blue knew the conduct was wrong | A general estimate of the amount of money involved | That Blue's conduct was an accident
+
+CorrectResponse=3
+
+Explanation=Certain things should be included in the written confession: (1) that the accused knew the conduct was wrong; (2) facts known only to the confessor; (3) an estimate of the number of instances and amounts involved: (4) the motive for the offense; (5) when the offense commenced and terminated; (6) obtain physical evidence; (7) the disposition of the proceeds; (8) the location of any assets; and (9) the specifics of each offense. Intent is required in all matters involving fraud. Not only must the confessor have committed the act, he must have intended to commit it.See page(s) 3.265-3.271 in the Fraud Examiner's Manual

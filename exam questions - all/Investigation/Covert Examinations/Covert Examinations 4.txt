@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=A suspect's Social Security number can most easily be obtained through which of the following online searches?
+
+Options=Credit bureau header search | Voter registration search | Motor vehicle record search | Court judgment search
+
+CorrectResponse=0
+
+Explanation=Of the searches listed, the only one that typically contains a Social Security number is the credit bureau header search.See page(s) 3.518 in the Fraud Examiner's Manual

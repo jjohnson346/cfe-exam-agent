@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In conducting interviews, there are five general types of questions that can be asked. Which of the following is/are types?
+
+Options=Informational | Introductory | Admission-seeking | All of the above are types of questions
+
+CorrectResponse=3
+
+Explanation=An interviewer can ask five general types of questions: introductory, informational, assessment, closing, and admission-seeking. In routine interview situations, where the object is to gather information from neutral or corroborative witnesses, only three of the five types normally will be asked: introductory, informational, and closing questions. If the interviewer has reasonable cause to believe the respondent is not being truthful, assessment questions can be asked. Finally, if the interviewer decides with reasonable cause that the respondent is responsible for misdeeds, then admission-seeking questions can be posed.See page(s) 3.202 in the Fraud Examiner's Manual

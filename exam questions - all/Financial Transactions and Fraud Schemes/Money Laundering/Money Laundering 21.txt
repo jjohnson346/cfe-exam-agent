@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Baker owns a U.S. corporation. Approximately 20 percent of his sales occur in Australia. To avoid paying taxes on these overseas funds, the money is sent directly from Australia to a bank account in the Cayman Islands. The overseas account is in Baker's name, not the corporation's, and he is a signatory on the account. The account balance is approximately S75.000. Which of the following statements is true?
+
+Options=Baker is required to file a Currency Transaction Report | Baker is required to file a Report of Foreign Bank and Financial Accounts | Baker is not required to report anything until the account balance is over $100,000 | Baker is not required to report the funds in the account until he brings the money into the United States
+
+CorrectResponse=1
+
+Explanation=The regulations require citizens of the United States and resident aliens to file a Report of Foreign Bank and Financial Accounts (FBAR) (Treasury Form 90-22.1) when they maintain a financial interest or signature authority over a foreign bank account with a balance of more than S10,000 during the calendar year. Accounts in different foreign countries have to be aggregated.See page(s) 1.1625 in the Fraud Examiner’s Manual

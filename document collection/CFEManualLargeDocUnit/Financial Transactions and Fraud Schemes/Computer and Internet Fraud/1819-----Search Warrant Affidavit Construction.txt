@@ -1,0 +1,166 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Conducting an Investigation Regarding Computer Crimes/Search Warrant Affidavit Construction
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Search Warrant Affidavit Construction 
+The construction of search warrants has been affected by both advancements in technology 
+and the evolving nature of criminal law. Fraud examiners must now consider several 
+problems not encountered before. For example, the fraud examiner must know how to write 
+a warrant to seize tangible property that contains intangible evidence. Further, the fraud 
+examiner must be allowed to convert that evidence into a human-readable form (i.e., 
+computer storage devices such as disks or CD-ROMs, which contain information that 
+cannot be viewed without the aid of some electronic device).  
+ 
+The warrant must allow for such contingencies as the ability to seize data files pertinent to 
+the case that are mixed with data files that have nothing to do with the case but reside on the 
+same storage device. The warrant must be broad enough to defend the search and seizure of 
+all computer evidence relevant to the investigation, but narrow enough to exclude all 
+material that is not. This can be an extremely difficult standard to meet at times and might 
+depend on the magistrate to whom the affidavit is presented. 
+ 
+To satisfy the “particularity” requirements of the Fourth Amendment, the fraud examiner 
+must be able to justify each and every item that might contain evidence. For example, stating 
+that “all printers” should be seized might be considered to be overly broad unless the fraud 
+examiner can justify the need for each specific printer. 
+ 
+However, with some thought fraud examiners should be able to justify the search and 
+seizure for everything that they need to complete the search for evidence. Items to be seized 
+might contain any or all of the following, depending upon the nature of the fraud case: 
+• Computers 
+• Computer components 
+• Computer peripherals 
+• Word processing equipment 
+• Modems 
+• Monitors 
+• Printers 
+• Plotters 
+• Optical scanners 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1853 
+• Data storage devices 
+? Magnetic 
+? Laser 
+? Optical 
+? Tape 
+? PCMCIA 
+? ZIP or JAZ drives 
+• Cables, wiring, cords 
+• Storage media 
+? Floppy disks 
+? Hard disks 
+? Magnetic tape (reels) 
+? PCMCIA RAM cards 
+? CD-ROM 
+? Magnetic/Optical disks 
+? Digital Audio Tape (DAT) 
+? Personal data managers 
+? Flash RAM cards (consider digital camera storage) 
+? USB thumb drives 
+• Computer programs 
+? Operating systems 
+? Application software 
+? Utility programs 
+? Compilers 
+? Interpreters 
+• Documents 
+• Manuals 
+• Printouts 
+• File listings 
+ 
+All related documentation should be covered by the wording of the search warrant and 
+seized along with the computer system. This documentation could be critical in the analysis 
+of the system hardware and software. Documents could indicate changes that have been 
+made to the system that will help the fraud examiner avoid damaging the system. The fact 
+that access control products have been added to the system might be a helpful piece of 
+information for the fraud examiner. 
+Computer and Internet Fraud  Financial Transactions   
+1.1854                           2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+search warrant affidavit construct
+the construct of search warrant ha been affect by both advanc in technolog
+and the evolv natur of crimin law fraud examin must now consid sever
+problem not encount befor for exampl the fraud examin must know how to write
+a warrant to seiz tangibl properti that contain intang evid further the fraud
+examin must be allow to convert that evid into a humanread form ie
+comput storag devic such as disk or cdrom which contain inform that
+cannot be view without the aid of some electron devic
+the warrant must allow for such conting as the abil to seiz data file pertin to
+the case that ar mix with data file that have noth to do with the case but resid on the
+same storag devic the warrant must be broad enough to defend the search and seizur of
+all comput evid relev to the investig but narrow enough to exclud all
+materi that is not thi can be an extrem difficult standard to meet at time and might
+depend on the magistr to whom the affidavit is present
+to satisfi the particular requir of the fourth amend the fraud examin
+must be abl to justifi each and everi item that might contain evid for exampl state
+that all printer should be seiz might be consid to be overli broad unless the fraud
+examin can justifi the need for each specif printer
+howev with some thought fraud examin should be abl to justifi the search and
+seizur for everyth that thei need to complet the search for evid item to be seiz
+might contain ani or all of the follow depend upon the natur of the fraud case
+comput
+comput compon
+comput peripher
+word process equip
+modem
+monitor
+printer
+plotter
+optic scanner
+financi transact comput and internet fraud
+2011 fraud examin manual 11853
+data storag devic
+magnet
+laser
+optic
+tape
+pcmcia
+zip or jaz drive
+cabl wire cord
+storag media
+floppi disk
+hard disk
+magnet tape reel
+pcmcia ram card
+cdrom
+magneticopt disk
+digit audio tape dat
+person data manag
+flash ram card consid digit camera storag
+usb thumb drive
+comput program
+oper system
+applic softwar
+util program
+compil
+interpret
+document
+manual
+printout
+file list
+all relat document should be cover by the word of the search warrant and
+seiz along with the comput system thi document could be critic in the analysi
+of the system hardwar and softwar document could indic chang that have been
+made to the system that will help the fraud examin avoid damag the system the fact
+that access control product have been ad to the system might be a help piec of
+inform for the fraud examin
+comput and internet fraud financi transact
+11854 2011 fraud examin manual

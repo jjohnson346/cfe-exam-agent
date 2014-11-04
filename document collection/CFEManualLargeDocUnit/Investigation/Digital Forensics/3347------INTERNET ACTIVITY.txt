@@ -1,0 +1,37 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Computer-created Files/INTERNET ACTIVITY
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+INTERNET ACTIVITY 
+Web browsers create temporary files that store information about websites that a user has 
+visited. These files can show websites that were recently visited and usually include time and 
+date information relevant to the visit; they ca n also show images previously viewed online. 
+This information allows the examiner to recover websites and images previously viewed by 
+the system’s users. 
+ 
+
+
+
+:
+
+
+internet activ
+web browser creat temporari file that store inform about websit that a user ha
+visit these file can show websit that were recent visit and usual includ time and
+date inform relev to the visit thei ca n also show imag previous view onlin
+thi inform allow the examin to recov websit and imag previous view by
+the system user

@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+they                                   1
+using                                  1
+can                                    1
+have                                   2
+sometimes                              1
+pull                                   1
+change                                 1
+data                                   1
+fraud                                  1
+generally                              1
+someone                                1
+adjust                                 1
+employee                               1
+forms                                  1
+claims                                 4
+contract                               2
+or                                     1
+number                                 1
+the                                    3
+access                                 1
+and                                    2
+processed                              1
+claim                                  3
+claimant                               1
+employees                              1
+
+Totals:                     26        36

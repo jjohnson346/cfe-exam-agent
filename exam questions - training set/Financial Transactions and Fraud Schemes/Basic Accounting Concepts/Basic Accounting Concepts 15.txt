@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Green, a Certified Fraud Examiner and expert accounting witness, told the jury that the concept of consistency does not preclude a change in an accounting principle previously employed. Green's statement is:
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Entities should employ consistent accounting procedures from period to period. However, the concept of consistency does not completely prohibit changes in the accounting principles used. Changes are permissible when it is believed that the use of a different principle v/ill more fairly state net income and financial position. Examples of changes in accounting principles include a change in the method of inventory pricing, a change in the depreciation method for previously recorded assets, and a change in the method of accounting for long-term construction contracts. The disclosure for a change in accounting principles should include the justification for the change, and should explain why the newly adopted principle is preferable.See page(s) 1.116 in the Fraud Examiner's Manual

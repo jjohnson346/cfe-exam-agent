@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Examples of fraud schemes perpetrated by health care institutions and their employees include all of the following EXCEPT:
+
+Options=DRG creep | Improper contractual relationships | Unintentional misrepresentation of the diagnosis | Billing for experimental procedures
+
+CorrectResponse=2
+
+Explanation=Fraud schemes perpetrated by institutions and their employees include those commonly used by doctors and other providers. However, the more common schemes in which institutions are primarily involved include: filing of false cost reports, DRG creep, billing for experimental procedures, improper contractual and other improper relationships with physicians, and revenue recovery firms billing for extra charges.See page(s) 1.1231 in the Fraud Examiner’s Manual

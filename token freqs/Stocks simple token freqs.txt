@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+different                              1
+transactions                           1
+equity                                 1
+1.1516                                 1
+common                                 1
+fraud                                  2
+corporation                            1
+stocks                                 1
+of                                     1
+stock                                  1
+are                                    1
+2011                                   1
+right                                  1
+financial                              1
+classes                                1
+is                                     1
+a                                      3
+restricted                             1
+in                                     1
+preferred                              1
+and                                    1
+manual                                 1
+many                                   1
+that                                   1
+represents                             1
+including                              1
+ownership                              1
+non-voting                             1
+an                                     1
+there                                  1
+examiners                              1
+securities                             1
+
+Totals:                     32        35

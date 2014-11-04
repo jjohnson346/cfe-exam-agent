@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=An illegal gratuity requires proof of an intent to influence.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Illegal gratuities are similar to bribery schemes except there is not necessarily an intent to influence a particular business decision before the fact. In the typical illegal gratuities scenario, a decision is made which happens to benefit a certain person or company. The party who benefited from the decision then gives a gift to the person who made the decision. The gift could be anything of value. An illegal gratuity does not require proof of an intent to influence.See page(s) 1.713 in the Fraud Examiner's Manual

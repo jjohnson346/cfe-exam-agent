@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=The typical inside computer fraudster tends to have all of the following characteristics EXCEPT:
+
+Options=Hard worker | Seldom takes time off | Small ego | Bored with the job
+
+CorrectResponse=2
+
+Explanation=The characteristics of the traditional inside computer fraudster are very similar to those of the hacker or other computer criminal: intelligent, hard worker, seldom takes time off, bored with the routine of the job, and has very large ego. Many computer technicians have demonstrated a greater loyalty to the technology than to the organization for which they v/ork. This technology loyalty can create an attitude that any behavior is acceptable if it is in the name of technology.See page(s) 1.1838 in the Fraud Examiner's Manual

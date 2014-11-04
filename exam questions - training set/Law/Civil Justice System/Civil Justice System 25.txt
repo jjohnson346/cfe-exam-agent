@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Black, a Certified Fraud Examiner, is assisting an attorney in defending a federal civil fraud action against a corporation. After reviewing the evidence. Black recommends the attorney move for a judgment on the case. The attorney will probably file a:
+
+Options=Motion for demurrer | Motion for summary judgment | Motion to dismiss | None of the above
+
+CorrectResponse=1
+
+Explanation=In filing a motion for summary judgment, the attorney asks a judge to decide the case, without a trial, on the basis of the evidence in the complaint and answer. Judges also may consider affidavits or declarations (sworn written statements), contracts, or other materials in reaching their summary decision. Either side in a lawsuit can file a motion for summary judgment. The motion is granted unless it can be shown that some of the facts as presented are in dispute. In a motion to dismiss, on the other hand, the judge is asked to throw out the complaint as being legally unsound.See page(s) 2.612 in the Fraud Examiner's Manual

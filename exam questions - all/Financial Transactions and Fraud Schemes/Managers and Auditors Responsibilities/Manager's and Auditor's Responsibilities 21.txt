@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=PCAOB Auditing Standard No. 5 provides guidance for auditors on:
+
+Options=Determining whether an entity's financial statements are affected by fraud  | Evaluating management's discussion and analysis | Performing an audit of internal control over financial reporting | None of the above	
+
+CorrectResponse=2
+
+Explanation=In May 2007, the PCAOB adopted Auditing Standard No. 5, An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements, as a replacement to Auditing Standard No. 2, An Audit of Internal Control Over Financial Reporting Performed in Conjunction With an Audit of Financial Statements, the previous standard governing audits of internal control over financial reporting (ICOFR) as mandated by the Sarbanes-Oxley Act. Auditing Standard No. 5 lays out the requirements and provides guidance for auditors who are engaged to perform an audit of management’s assessment of the internal controls that is integrated with an audit of the financial statements.See page(s) 1.235 in the Fraud Examiner's Manual

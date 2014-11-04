@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Fraudsters generally prefer to steal currency rather than checks for which of the following reasons?
+
+Options=Checks are harder to convert | Currency is harder to trace and checks are harder to convert | Currency is harder to trace | Fraudsters DO NOT prefer to steal currency rather than checks
+
+CorrectResponse=1
+
+Explanation=The fraudster will generally prefer to steal currency rather than checks if given the opportunity, and there are two main reasons why. The first reason is that currency is harder to trace than a check. A cashed check eventually returns to the person who wrote it and may provide evidence of who cashed it or where it was spent. Endorsements, bank stamps, and so forth may indicate the identity of the thief. Currency, however, disappears into the economy once it is stolen. One twenty dollar bill is as good as another, and unless the victim has recorded the serial numbers of his money, there is no way to determine where it has gone once someone steals it. The second reason that currency is preferable to a check is the difficulty in converting the check. When currency is stolen it can immediately be spent. A check, however, must be endorsed and cashed or deposited before the thief can put his hands on the funds it represents.See page(s) 84 in the Corporate Fraud Handbook

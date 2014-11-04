@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which of the following is NOT a plea a defendant may enter at an arraignment?
+
+Options=Guilty | Not guilty | Nolo contendere | Innocent
+
+CorrectResponse=3
+
+Explanation=A defendant named in an indictment, if not already in custody, may be arrested on a warrant. Or, more often in white-collar crime cases, is summoned to appear before a magistrate at a stated time and place to be arraigned. The arraignment must take place in open court, and consists of reading of the indictment or information to the defendant and calling on him to plead. The defendant may plead guilty, not guilty, or nolo contendere. A plea of nolo contendere means the defendant does not contest the charges, without formally admitting or denying them. A defendant may plead nolo only with the consent of the court. If accepted, a nolo plea is the same as a plea of guilty for purposes of punishment, but cannot be used as a formal admission of guilt. This makes it a favored plea for corporate defendants facing subsequent civil litigation.See page(s) 2.508 in the Fraud Examiner's Manual

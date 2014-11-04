@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=The book value of capital assets should be increased if the market value of the asset increases over time.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under the "lower of cost or market value" rule, where an asset's cost exceeds its current market value (as happens often with obsolete technology), it must be written down to market value. With the exception of certain securities, asset values are not increased to reflect current market value.See page(s) 375-376 in the Corporate Fraud Handbook

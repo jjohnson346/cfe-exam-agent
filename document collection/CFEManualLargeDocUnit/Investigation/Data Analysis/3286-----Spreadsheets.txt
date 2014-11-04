@@ -1,0 +1,102 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Reporting and Case Management Software/Spreadsheets
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Spreadsheets 
+When a CaseMap file is created, the program auto matically sets up a series of spreadsheets 
+used to organize critical case knowledge. These spreadsheets can be used to organize 
+information about the facts, documents, characters, issues, and case law in every case.  
+ 
+ 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.634   2011 Fraud Examiners Manual  
+ 
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.635 
+FACTS SPREADSHEET 
+The facts spreadsheets include a case chronology in which the investigator can enter facts, 
+dates, times, and the source of each piece of information. Investigators can also distinguish 
+between disputed and undisputed facts and keep track of the status of each item. 
+ 
+ 
+ 
+OBJECTS SPREADSHEET 
+The objects spreadsheet allows investigators to organize the cast of characters—a list of the 
+individuals and organizations involved in the case, and it should also catalog key documents 
+and other important pieces of physical evidence.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.636   2011 Fraud Examiners Manual  
+ 
+ 
+ISSUE SPREADSHEET 
+The issue spreadsheet provides an outline of the issues, including both legal claims and 
+critical factual disputes. The outline can be any number of levels deep.  
+ 
+QUESTION SPREADSHEET 
+Because many questions occur during the early stages of an investigation, the question 
+spreadsheet allows users to filter and sort their open items using various criteria.  
+ 
+RESEARCH SPREADSHEETS 
+CaseMap has three research spreadsheets: Authorities, Extracts from Authorities and a 
+combination of Authorities and Extracts. The research spreadsheets will organize and 
+explore the user’s knowledge about the precedents and statutes relevant to their case, and it 
+include links to actual case law using the authorities and extracts. The authorities spreadsheet 
+can be used to manage top-level information about precedents, statutes, and other types of 
+case research. The extracts spreadsheet can be used to capture details about particular 
+sections of interest excerpted from important case law and statutes.  
+ 
+
+
+
+:
+
+
+spreadsheet
+when a casemap file is creat the program auto matic set up a seri of spreadsheet
+us to organ critic case knowledg these spreadsheet can be us to organ
+inform about the fact document charact issu and case law in everi case
+data analysi and report tool investig
+3634 2011 fraud examin manual
+investig data analysi and report tool
+2011 fraud examin manual 3635
+fact spreadsheet
+the fact spreadsheet includ a case chronolog in which the investig can enter fact
+date time and the sourc of each piec of inform investig can also distinguish
+between disput and undisput fact and keep track of the statu of each item
+object spreadsheet
+the object spreadsheet allow investig to organ the cast of charactersa list of the
+individu and organ involv in the case and it should also catalog kei document
+and other import piec of physic evid
+data analysi and report tool investig
+3636 2011 fraud examin manual
+issu spreadsheet
+the issu spreadsheet provid an outlin of the issu includ both legal claim and
+critic factual disput the outlin can be ani number of level deep
+question spreadsheet
+becaus mani question occur dure the earli stage of an investig the question
+spreadsheet allow user to filter and sort their open item us variou criteria
+research spreadsheet
+casemap ha three research spreadsheet author extract from author and a
+combin of author and extract the research spreadsheet will organ and
+explor the user knowledg about the preced and statut relev to their case and it
+includ link to actual case law us the author and extract the author spreadsheet
+can be us to manag toplevel inform about preced statut and other type of
+case research the extract spreadsheet can be us to captur detail about particular
+section of interest excerpt from import case law and statut

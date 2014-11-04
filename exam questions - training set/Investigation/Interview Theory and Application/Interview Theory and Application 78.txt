@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=The verbal and nonverbal clues to deception are produced primarily by stress.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=It is said that everyone lies and does so for one of two reasons: to receive rewards or to avoid punishment. In most people, lying produces stress. The human body will attempt to relieve this stress (even in practiced liars) through verbal and nonverbal clues. Conclusions concerning behavior must be tempered by a number of factors. The physical environment in which the interview is conducted can affect behavior. If the respondent is comfortable, fewer behavior quirks may be exhibited. The more intelligent the respondent, the more reliable verbal and nonverbal clues will be. If the respondent is biased toward the interviewer, or vice versa, this will affect behavior.See page(s) 3.238 in the Fraud Examiner's Manual

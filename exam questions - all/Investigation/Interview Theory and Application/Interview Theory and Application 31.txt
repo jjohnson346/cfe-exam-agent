@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interviews, there are four main purposes of introductory questions. Which of the following is one of these purposes?
+
+Options=Establishing the interview theme | Providing an introduction | Establishing rapport | All of the above
+
+CorrectResponse=3
+
+Explanation=Introductory questions have four main purposes: to provide the introduction; to establish rapport; to establish the interview theme; and to observe the reactions of the respondent. The introduction to an interview is often one of the most difficult parts of the interview. The introduction also determines whether the interview ultimately will be a success.See page(s) 3.214 in the Fraud Examiner's Manual

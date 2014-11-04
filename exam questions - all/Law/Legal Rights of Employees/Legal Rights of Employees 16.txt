@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=The Privacy Act of 1974 restricts information about individuals that might be gathered by:
+
+Options=Private employers | Government agencies | Private investigators | None of the above
+
+CorrectResponse=1
+
+Explanation=The Privacy Act of 1974 restricts information about individuals, both employees and non-employees, that might be gathered by government agencies. An agency might maintain records about a person containing information that is relevant and necessary to accomplish a purpose of the agency. This information might include a person’s education, finances, medical history, criminal history, employment history, and identifying information (fingerprint, voice print, or photograph). The employee might have access to the information unless it is investigatory material compiled for law enforcement purposes, statistical records, or material compiled solely for determining suitability, eligibility, or qualification for federal service or promotion.See page(s) 2.438-2.439 in the Fraud Examiner's Manual

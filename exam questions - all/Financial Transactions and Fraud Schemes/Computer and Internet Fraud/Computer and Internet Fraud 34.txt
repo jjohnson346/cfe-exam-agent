@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Computer crimes can be categorized into two types: computer-assisted crimes (schemes perpetrated by using the computer) and information crimes (using the computer as a weapon).
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Computer crime can be categorized into two groups—computer-assisted and information crimes. Computer-assisted crimes involve the use of computers instead of other means to break the law. In some cases these traditionally illegal acts can yield more loot by recourse to the high speed of the computer. These are in reality computer-assisted crimes, and the existing criminal statutes can be appropriately applied to them. In information crimes, the computer is an active weapon. These kinds of cases are termed information crimes, the crime would not be possible without computer technology. Examples of information crimes include the theft of computer time, software, and data.See page(s) 1.1805 in the Fraud Examiner's Manual

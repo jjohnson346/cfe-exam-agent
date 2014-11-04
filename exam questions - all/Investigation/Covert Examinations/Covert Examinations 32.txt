@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Covert operations have traditionally worked well in which of the following situations?
+
+Options=When it is desirable to compare actual practices with supposed or required practices | Where there is reliable information of illegal activity but insufficient detail | To obtain information in an indirect manner from people believed to possess it | All of the above
+
+CorrectResponse=3
+
+Explanation=Covert operations have traditionally worked well in the following situations: (1) When there is reliable information about criminal activity or asset losses, but insufficient detail for prevention or apprehension (2) When losses are known to be occurring in an area, but there is no information as to how they are occurring or who is responsible. (3) When it is desirable to gather information concerning personal relationships or to identify the contacts made with or by certain people. (4) When it is desirable to compare actual practices with supposed or required practices. (5) When it is important to obtain information in an indirect manner from people believed to possess it.See page(s) 3.302-3.303 in the Fraud Examiner's Manual

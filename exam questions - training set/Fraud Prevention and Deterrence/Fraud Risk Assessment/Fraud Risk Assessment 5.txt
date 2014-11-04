@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Which of the following is NOT true regarding the fraud risk assessment team?
+
+Options=The team should consist of three or four individuals. | The team members might include both internal and external resources. | The team should consist of individuals with diverse knowledge, skills, and perspectives | The team members should have experience in gathering and eliciting information.
+
+CorrectResponse=0
+
+Explanation=Before conducting the fraud risk assessment, the organization should build a fraud risk assessment team consisting of individuals with diverse knowledge, skills, and perspectives that will lead and conduct the fraud risk assessment. The size of the team will depend on the size of the organization and the methods used to conduct the assessment. The team should have individuals who are credible and who have experience in gathering and eliciting information. The team members might include internal and external resources, such as accounting and finance personnel, operations personnel, members of the legal department, internal auditors, external consultants with fraud and risk expertise, and any business leader with direct accountability for the effectiveness of the organization‰??s fraud risk management efforts.See page(s) 4.809 in the Fraud Examiner's Manual

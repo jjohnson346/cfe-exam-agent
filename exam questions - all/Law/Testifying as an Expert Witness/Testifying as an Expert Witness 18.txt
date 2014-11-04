@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Bailey, a Certified Fraud Examiner, is being cross-examined in court on his expert opinion relating to a fraud matter Darwin, a defense attorney, is attempting to trap Bailey on a number of "what if" scenarios which would cause a distortion of Bailey's opinion. What should Bailey do?
+
+Options=Point out to Darwin that he is not being fair | Object and refuse to answer | Ask that the question be rephrased | Any of the above
+
+CorrectResponse=2
+
+Explanation=Generally, it is a rule of thumb that free information should not be given away or volunteered. During the answer, it often might be extremely difficult to avoid getting trapped in various assumptions, “what if scenarios, and generalities presented by counsel during cross-examination. If this occurs, retrench by asking for a question to be rephrased in smaller components.See page(s) 2.821 in the Fraud Examiner's Manual

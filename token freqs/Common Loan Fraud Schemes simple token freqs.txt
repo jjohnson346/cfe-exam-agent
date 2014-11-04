@@ -1,0 +1,8 @@
+Token                          Frequency
+-----------------------------  ---------
+schemes                                1
+common                                 1
+fraud                                  1
+loan                                   1
+
+Totals:                      4         4

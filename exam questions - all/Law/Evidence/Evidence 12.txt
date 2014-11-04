@@ -1,0 +1,10 @@
+Section=Evidence
+
+Stem=Testimony in court that repeats what some other person has said outside of court is known as:
+
+Options=Hearsay testimony | Third-hand testimony | Prejudicial testimony | None of the above
+
+CorrectResponse=0
+
+Explanation=Rule 801(c) of the Federal Rules of Evidence defines hearsay as "a statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted." This sets apart virtually anything said outside the courtroom, or outside an officially designated function of the court like a deposition. Excluding hearsay on one level means witnesses can’t say: “He said ... she said.” Each person testifies to his own experience. This is designed to protect the credibility and condition of testimony, and to preserve each side s right to cross-examine witnesses. See page(s) 2.717 in the Fraud Examiner's Manual
+

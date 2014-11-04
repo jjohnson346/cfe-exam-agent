@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, a(n)________________________ is any social-psychological barrier that impedes the flow of relevant information by making the respondent unwilling or unable to provide information to the interviewer.
+
+Options=Facilitator | Repression | Inhibitor | None of the above
+
+CorrectResponse=2
+
+Explanation=To be an effective interviewer, one must understand that certain matters inhibit communication, while others facilitate it. It is the interviewer's task to minimize inhibitors and maximize facilitators. An "inhibitor" is any social-psychological barrier that impedes the flow of relevant information by making the respondent unable or unwilling to provide the information to the interviewer.See page(s) 3.207 in the Fraud Examiner's Manual

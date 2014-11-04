@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Evidence which would indirectly show culpability is referred to as:
+
+Options=Direct evidence | Demonstrative evidence | Circumstantial evidencex | None of the above
+
+CorrectResponse=2
+
+Explanation=Circumstantial evidence is that which would indirectly show culpability. For example, in the case of a kickback allegation, cash deposits of unknown origin deposited to the account of the target around the time of the suspect transaction could be circumstantial evidence.See page(s) 3.102 in the Fraud Examiner's Manual

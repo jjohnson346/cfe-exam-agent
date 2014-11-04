@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Blue has been retained to testify as an expert in an insurance fraud trial. The Federal Rules of Civil Procedure require that, prior to trial, she prepare a report for the other party in which she discloses certain information about herself and her testimony. What must Blue include in her report?
+
+Options=The basis for all the opinions she will express | A complete statement of all opinions she will express | A list of all the publications she has authored in the preceding ten years | All of the above
+
+CorrectResponse=3
+
+Explanation=Rule 26 of the Federal Rules of Civil Procedure requires certain disdosures concerning people who may be used as expert witnesses at trial. The rule applies to experts who have been retained specifically for a given case, and it includes employees of a party if part of the employees' duties involves giving expert testimony. A written report must be produced for each expert witness The report must be prepared and signed by the witness and must include the following:‰?¢	A complete statement of all opinions to be expressed and the basis and reasons for such opinions‰?¢	The data or other information considered by the witness in forming the opinion‰?¢	Any exhibits to be used as a summary of or in support for the opinions‰?¢	The qualifications of the witness, including a list of all publications authored by the witness within the preceding 10 years‰?¢	The compensation to be paid for the witness' study and testimonySee page(s) 2.806 in the Fraud Examiner's Manual

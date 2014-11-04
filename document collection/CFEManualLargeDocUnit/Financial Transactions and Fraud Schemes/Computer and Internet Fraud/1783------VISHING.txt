@@ -1,0 +1,88 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Internet Fraud/Phishing/VISHING
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+VISHING 
+Voice phishing, or Vishing, is the act of leveraging Voice over Internet Protocol (VoIP) 
+technology in using the telephone system to falsely claim to be a legitimate enterprise in an 
+attempt to scam users (both consumers and businesses) into disclosing personal information. 
+Government, financial institutions, as well as online auctions and their payment services, can 
+be targets of voice phishing. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1831 
+A vishing scheme is generally transmitted as an incoming recorded telephone message that 
+uses a spoofed (fraudulent) caller ID matching the identity of a misrepresented organization. 
+The message uses an urgent pretext to direct unsuspecting users to another telephone 
+number. The victim is invited to punch their personal information on their telephone 
+keypad. The criminals capture the key tones and convert them back to numerical format. 
+There are several types of information at risk from this type of scheme. This can include any 
+numerical personal information: payment card information (numbers, expiration dates, and 
+the last three digits printed on the signature panel), PIN (personal identification number), 
+Social Security number, date of birth, bank account numbers, and passport number. 
+ 
+Security experts have seen another variation of vishing where the criminals will leave a 
+voicemail message or make telephone calls directing people to the bogus phone number. 
+With Voice over Internet Protocol (VoIP) and other Internet-based telephone technology, 
+criminals can now make calls inexpensively and can mask their identity and their location 
+and even make it look like they are calling from a legitimate company on caller displays. 
+ 
+Some potential uses of the personal information that is gathered from victims includes 
+control of the victim’s financial accounts; opening new bank accounts; transferring bank 
+balances; applying for loans, credit cards, and other goods/services; making luxury 
+purchases; hiding criminal activities; receiving government benefits; and obtaining a 
+passport. 
+ 
+Another version of vishing involves the sending of text messages to cell phones claiming the 
+recipient’s online bank account has expired. The message instructs the recipient to renew 
+their online bank account by using the link provided. 
+ 
+
+
+
+:
+
+
+vish
+voic phish or vish is the act of leverag voic over internet protocol voip
+technolog in us the telephon system to fals claim to be a legitim enterpris in an
+attempt to scam user both consum and busi into disclos person inform
+govern financi institut as well as onlin auction and their payment servic can
+be target of voic phish
+financi transact comput and internet fraud
+2011 fraud examin manual 11831
+a vish scheme is gener transmit as an incom record telephon messag that
+us a spoof fraudul caller id match the ident of a misrepres organ
+the messag us an urgent pretext to direct unsuspect user to anoth telephon
+number the victim is invit to punch their person inform on their telephon
+keypad the crimin captur the kei tone and convert them back to numer format
+there ar sever type of inform at risk from thi type of scheme thi can includ ani
+numer person inform payment card inform number expir date and
+the last three digit print on the signatur panel pin person identif number
+social secur number date of birth bank account number and passport number
+secur expert have seen anoth variat of vish where the crimin will leav a
+voicemail messag or make telephon call direct peopl to the bogu phone number
+with voic over internet protocol voip and other internetbas telephon technolog
+crimin can now make call inexpens and can mask their ident and their locat
+and even make it look like thei ar call from a legitim compani on caller displai
+some potenti us of the person inform that is gather from victim includ
+control of the victim financi account open new bank account transfer bank
+balanc appli for loan credit card and other goodsservic make luxuri
+purchas hide crimin activ receiv govern benefit and obtain a
+passport
+anoth version of vish involv the send of text messag to cell phone claim the
+recipi onlin bank account ha expir the messag instruct the recipi to renew
+their onlin bank account by us the link provid

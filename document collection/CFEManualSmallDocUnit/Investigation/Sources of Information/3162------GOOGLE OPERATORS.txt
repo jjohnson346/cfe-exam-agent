@@ -1,0 +1,144 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/A Guide to Successful Internet Searching/Specific Search Operators/GOOGLE OPERATORS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+GOOGLE OPERATORS 
+In addition to the basic Boolean operators discussed above, several operators can smarten 
+up a Google search and return the right link faster.  
+ 
+Operators Search Results Example  
+~ Searches for synonyms of a given 
+word 
+[ automobiles ~glossary ]   will 
+find pages with automobiles  as well 
+as words like dictionaries, glossary, 
+encyclopedia, etc. 
+define: Returns definitions from websites for 
+the particular term 
+[ define:fraud ] will show 
+definitions for fraud.  
+site: Returns search results from only one 
+website 
+[ site:virtuallibrarian.com fraud ] 
+will find all fraud-related pages on  
+virtuallibrarian.com. 
+filetype: Searches for items with a particular 
+filetype 
+[ filetype:doc ] will restrict the 
+results to MS Word files matching 
+specified search terms.   
+link: Returns pages that  link to a particular 
+website 
+[ link:virtuallibrarian.com ] will 
+return pages with links to 
+virtuallibrarian.com.  
+Accessing Information Online  Investigation 
+3.514   2011 Fraud Examiners Manual  
+allintitle: Restricts results to those containing 
+all the search terms specified in the 
+title 
+[ allintitle: mortgage fraud ] will 
+return only documents that 
+contain the words mortgage  and 
+fraud in the title. 
+allintext: Returns documents containing all the 
+search terms in their text 
+[ allintext: fraud skimming 
+materiality ] will return only pages 
+in which the words fraud, skimming, 
+and materiality  appear in the text of 
+the page. 
+* Treated as a placeholder for one or 
+more words 
+[ “fraud * alert” ] tells Google to 
+find pages containing a phrase that 
+starts with fraud  followed by one or 
+more words, followed by alert. 
+ 
+In addition, Google operators can be combined. For example, the query [site:hp.com 
+filetype:pdf “5010 LaserJet” printer FAQ] will search for an Adobe Acrobat PDF file of 
+frequently asked questions regarding the 5010 LaserJet printer located on the Hewlett 
+Packard website. 
+ 
+There are numerous other operators and search techniques that work with each Google 
+search service. A good resource for less-known Google operators and search tips is 
+www.googleguide.com. 
+ 
+
+
+
+:
+
+
+googl oper
+in addit to the basic boolean oper discuss abov sever oper can smarten
+up a googl search and return the right link faster
+oper search result exampl
+search for synonym of a given
+word
+automobil glossari will
+find page with automobil as well
+as word like dictionari glossari
+encyclopedia etc
+defin return definit from websit for
+the particular term
+definefraud will show
+definit for fraud
+site return search result from onli on
+websit
+sitevirtuallibrariancom fraud
+will find all fraudrel page on
+virtuallibrariancom
+filetyp search for item with a particular
+filetyp
+filetypedoc will restrict the
+result to ms word file match
+specifi search term
+link return page that link to a particular
+websit
+linkvirtuallibrariancom will
+return page with link to
+virtuallibrariancom
+access inform onlin investig
+3514 2011 fraud examin manual
+allintitl restrict result to those contain
+all the search term specifi in the
+titl
+allintitl mortgag fraud will
+return onli document that
+contain the word mortgag and
+fraud in the titl
+allintext return document contain all the
+search term in their text
+allintext fraud skim
+materi will return onli page
+in which the word fraud skim
+and materi appear in the text of
+the page
+treat as a placehold for on or
+more word
+fraud alert tell googl to
+find page contain a phrase that
+start with fraud follow by on or
+more word follow by alert
+in addit googl oper can be combin for exampl the queri sitehpcom
+filetypepdf 5010 laserjet printer faq will search for an adob acrobat pdf file of
+frequent ask question regard the 5010 laserjet printer locat on the hewlett
+packard websit
+there ar numer other oper and search techniqu that work with each googl
+search servic a good resourc for lessknown googl oper and search tip is
+wwwgoogleguidecom

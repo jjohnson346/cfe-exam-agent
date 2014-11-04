@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is the definition of the computer manipulation technique known as "data diddling"?
+
+Options=Changing data before or during entry into the computer system | Gaining information about a system using deception such as someone else's password | Searching for valid access codes or trap doors | Toggling back and forth between benign activity and hacking
+
+CorrectResponse=0
+
+Explanation=Data diddling is the changing of data before or during entry into the computer system. Examples include forging or counterfeiting documents used for data entry and exchanging valid disks and tapes with modified replacements.See page(s) 1.1808 in the Fraud Examiner's Manual

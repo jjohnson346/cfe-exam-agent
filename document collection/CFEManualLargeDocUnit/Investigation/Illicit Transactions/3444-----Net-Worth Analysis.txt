@@ -1,0 +1,339 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Indirect Methods of Tracing Financial Transactions/Net-Worth Analysis
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+Net-Worth Analysis 
+Any recipient of funds, whether honest or suspect, has only four ways of disposing of 
+income: save it, buy assets, pay off debts, or spend it. 
+ 
+Net-worth analysis begins with the completion of a suspect’s financial profile. Through 
+identification of the suspect’s assets, liabilities, income, and expenses, a net-worth statement 
+can be determined. Once a net-worth statement is completed through the identification of a 
+suspect’s assets, liabilities, income, and expenses, changes in the suspect’s net worth can be 
+compared to his known income, and differences can be inferred to be from unknown 
+sources. 
+ 
+COMPARATIVE NET WORTH: ASSET METHOD  
+Again, the asset method is advisable when it is suspected that the subject has purchased 
+assets or otherwise increased his net worth. It can be applied for any number of years, but, 
+ideally, it is best to start with the year before the suspected fraudulent activity began. The 
+formula is: 
+ 
+ Assets 
+– Liabilities 
+= Net worth 
+– Prior year’s net worth 
+= Net worth increase 
++ Living expenses 
+= Income (or expenditures) 
+– Funds from known sources 
+= Funds from unknown sources 
+ 
+In computing the comparative net worth, these issues should be considered: 
+• All assets should be valued at cost, not fair market value. Subsequent appreciation or 
+depreciation of assets is ignored. 
+• The amount of funds available to the subject from legitimate sources should be 
+estimated or computed generously. The amount of the subject’s expenditures, 
+Tracing Illicit Transactions  Investigation 
+3.840   2011 Fraud Examiners Manual  
+particularly hard-to-document living costs, such as food and entertainment, should be 
+estimated conservatively to give the subject the benefit of any doubt. In attempting to 
+estimate personal living expenses, you should consult the U.S. Bureau of Labor Statistics. 
+This agency publishes an annual table that details personal living expenses such as 
+utilities, food, and gas. 
+• Always attempt to interview the subject to identify all alleged sources of funds and to 
+negate defenses that he might raise later. 
+ 
+To compute the comparative net worth using the asset method, perform the following steps: 
+• Establish the starting point, generally the year before the target’s illegal activities begin. 
+This will be referred to as “year one” in the following computations. 
+• Compute the target’s net worth at the end of year one. Identify all assets held by the 
+subject, valued at cost, including assets acquired earlier, and the amount of current 
+liabilities. 
+ 
+The difference between the value of the assets and the liabilities is the target’s net worth at 
+year one, or “opening net worth.” 
+ 
+EXAMPLE 
+Year One 
+Assets at Cost               Liabilities 
+Residence $100,000  Mort gage balance $ 90,000 
+Stocks and bonds 30,000  Automobile loan  
+Automobile 20,000  balance 10,000 
+ TOTAL $150,000  TOTAL $100,000 
+ 
+Assets $150,000
+ Liabilities -100,000
+ Net Worth $50,000
+  
+Compute the target’s net worth for year two, using the same method. 
+ 
+  
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.841 
+EXAMPLE 
+Year Two 
+                     Assets at Cost                                          Liabilities 
+Residence $100,000  Mortgage balance $50,000 
+Stocks and bonds 30,000    
+Automobile 20,000  Automobile loan  
+CD 50,000  balance  0  
+ TOTAL $200,000  TOTAL $50,000  
+ 
+Assets $200,000
+ Liabilities -50,000
+ Net Worth $150,000
+  
+Note that in the example the target’s net wo rth increased by $100,000 during year two. 
+To determine the source of such an increase, determine the target’s known income, 
+during year two, and subtract known expenses for year two. 
+ 
+EXAMPLE 
+Year Two 
+               Income                            Expenses 
+Salary $30,000  Mortgage interest 
+payments 
+ 
+$20,000 
+Commissions 20,000  Living expenses 10,000  
+ TOTAL $50,000  TOTAL $30,000 
+   
+The difference between the target’s income and expenses equals the increase (or decrease) in 
+net worth from year one to year two, which can be attributed to known sources. Here it is 
+$20,000. Subtract the increase in net worth fr om known sources from the total increase in 
+net worth to determine the amount from unknown sources. 
+ 
+EXAMPLE 
+ Total increase in net worth $100,000 
+ Increase attributed to known sources <20,000>  
+ Dollars from unknown sources $80,000 
+ 
+Repeat the above steps for subsequent years as necessary.  
+Tracing Illicit Transactions  Investigation 
+3.842   2011 Fraud Examiners Manual  
+EXPENDITURES METHOD 
+The expenditures method (also known as the sources and application of funds method) 
+compares the suspect’s known expenditures and known sources of funds during a given 
+period of time. Any excess expenditures must be the result of income from unknown 
+sources. It is closely related to the net-worth analysis, accounting variations of the same 
+principle. 
+ 
+The table below illustrates the formula used to compute net worth using the expenditures 
+method. The steps are discussed in greater detail below  
+ 
+Expenditures  (Application of Funds)  
+– Known source of funds  
+= Funds from unknown sources  
+ 
+To compute the subject’s net worth using the expenditures method, follow three steps. First, 
+establish the subject’s known expenditures for the relevant year. Expenditures include the 
+use or application of funds for any purpose, including deposits to bank accounts, purchase 
+of major assets, travel and entertainment expenses, and payment of loan and credit card 
+debts. Second, identify all sources of funds available to the subject, including loans and gifts, 
+as well as cash on hand from previous years. Third, compute the difference between the 
+amount of the suspect’s expenditures and his known income to determine the amount 
+attributed to unknown sources. 
+  
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.843 
+EXAMPLE 
+Subject   Year One  Year Two  
+Application of funds:  
+ Increase in bank balance  $2,000 $10,000 
+ Down payment on residence    ——  10,000  
+ Purchase of automobile  10,000  ——— 
+ Mortgage payments  8,000  20,000 
+ Credit card payments  5,000  10,000 
+ Other expenses  15,000  30,000 
+ TOTAL  $40,000 $ 80,000 
+Less: known sources of funds  
+   Cash on hand 1,000  
+   Salary 30,000 38,000 
+   Interest earned on savings  
+   Account 1,000 2,000 
+   Loan proceeds 8,000  
+ TOTAL $40,000 $ 40,000 
+Funds from unk nown or illegal sources   0 $40,000 
+ 
+The following example demonstrates how a net-worth analysis assisted prosecutors in their 
+amended complaint against a fraud suspect. 
+ 
+EXAMPLE 
+R. Peery, age 40, the executive director of a five-state commission planning a low-level 
+radioactive waste dump was charged with two ne w charges of felony theft. Peery was also 
+charged with one federal count of wire fraud. 
+ 
+Peery was accused of wiring $115,000 to a personal account in Georgia, and prosecutors 
+said they suspected him of taking $600,000. He was also charged with  two counts of using 
+commission funds in Nebraska to buy cars, a 1990 BMW valued  at $67,000 and a 
+1991 BMW valued at $92,000. 
+ 
+Peery was paid $52,000 annually. He lived in a house valued at $305,000 and at the 
+time of his arrest had six luxury cars, including Jaguars, Mercedes-Benzes, and BMWs.  
+ 
+Tracing Illicit Transactions  Investigation 
+3.844   2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+networth analysi
+ani recipi of fund whether honest or suspect ha onli four wai of dispos of
+incom save it bui asset pai off debt or spend it
+networth analysi begin with the complet of a suspect financi profil through
+identif of the suspect asset liabil incom and expens a networth statement
+can be determin onc a networth statement is complet through the identif of a
+suspect asset liabil incom and expens chang in the suspect net worth can be
+compar to hi known incom and differ can be infer to be from unknown
+sourc
+compar net worth asset method
+again the asset method is advis when it is suspect that the subject ha purchas
+asset or otherwis increas hi net worth it can be appli for ani number of year but
+ideal it is best to start with the year befor the suspect fraudul activ began the
+formula is
+asset
+liabil
+net worth
+prior year net worth
+net worth increas
+live expens
+incom or expenditur
+fund from known sourc
+fund from unknown sourc
+in comput the compar net worth these issu should be consid
+all asset should be valu at cost not fair market valu subsequ appreci or
+depreci of asset is ignor
+the amount of fund avail to the subject from legitim sourc should be
+estim or comput gener the amount of the subject expenditur
+trace illicit transact investig
+3840 2011 fraud examin manual
+particularli hardtodocu live cost such as food and entertain should be
+estim conserv to give the subject the benefit of ani doubt in attempt to
+estim person live expens you should consult the us bureau of labor statist
+thi agenc publish an annual tabl that detail person live expens such as
+util food and ga
+alwai attempt to interview the subject to identifi all alleg sourc of fund and to
+negat defens that he might rais later
+to comput the compar net worth us the asset method perform the follow step
+establish the start point gener the year befor the target illeg activ begin
+thi will be refer to as year on in the follow comput
+comput the target net worth at the end of year on identifi all asset held by the
+subject valu at cost includ asset acquir earlier and the amount of current
+liabil
+the differ between the valu of the asset and the liabil is the target net worth at
+year on or open net worth
+exampl
+year on
+asset at cost liabil
+resid 100000 mort gage balanc 90000
+stock and bond 30000 automobil loan
+automobil 20000 balanc 10000
+total 150000 total 100000
+asset 150000
+liabil 100000
+net worth 50000
+comput the target net worth for year two us the same method
+investig trace illicit transact
+2011 fraud examin manual 3841
+exampl
+year two
+asset at cost liabil
+resid 100000 mortgag balanc 50000
+stock and bond 30000
+automobil 20000 automobil loan
+cd 50000 balanc 0
+total 200000 total 50000
+asset 200000
+liabil 50000
+net worth 150000
+note that in the exampl the target net wo rth increas by 100000 dure year two
+to determin the sourc of such an increas determin the target known incom
+dure year two and subtract known expens for year two
+exampl
+year two
+incom expens
+salari 30000 mortgag interest
+payment
+20000
+commiss 20000 live expens 10000
+total 50000 total 30000
+the differ between the target incom and expens equal the increas or decreas in
+net worth from year on to year two which can be attribut to known sourc here it is
+20000 subtract the increas in net worth fr om known sourc from the total increas in
+net worth to determin the amount from unknown sourc
+exampl
+total increas in net worth 100000
+increas attribut to known sourc 20000
+dollar from unknown sourc 80000
+repeat the abov step for subsequ year as necessari
+trace illicit transact investig
+3842 2011 fraud examin manual
+expenditur method
+the expenditur method also known as the sourc and applic of fund method
+compar the suspect known expenditur and known sourc of fund dure a given
+period of time ani excess expenditur must be the result of incom from unknown
+sourc it is close relat to the networth analysi account variat of the same
+principl
+the tabl below illustr the formula us to comput net worth us the expenditur
+method the step ar discuss in greater detail below
+expenditur applic of fund
+known sourc of fund
+fund from unknown sourc
+to comput the subject net worth us the expenditur method follow three step first
+establish the subject known expenditur for the relev year expenditur includ the
+us or applic of fund for ani purpos includ deposit to bank account purchas
+of major asset travel and entertain expens and payment of loan and credit card
+debt second identifi all sourc of fund avail to the subject includ loan and gift
+as well as cash on hand from previou year third comput the differ between the
+amount of the suspect expenditur and hi known incom to determin the amount
+attribut to unknown sourc
+investig trace illicit transact
+2011 fraud examin manual 3843
+exampl
+subject year on year two
+applic of fund
+increas in bank balanc 2000 10000
+down payment on resid 10000
+purchas of automobil 10000
+mortgag payment 8000 20000
+credit card payment 5000 10000
+other expens 15000 30000
+total 40000 80000
+less known sourc of fund
+cash on hand 1000
+salari 30000 38000
+interest earn on save
+account 1000 2000
+loan proce 8000
+total 40000 40000
+fund from unk nown or illeg sourc 0 40000
+the follow exampl demonstr how a networth analysi assist prosecutor in their
+amend complaint against a fraud suspect
+exampl
+r peeri ag 40 the execut director of a fivest commiss plan a lowlevel
+radioact wast dump wa charg with two ne w charg of feloni theft peeri wa also
+charg with on feder count of wire fraud
+peeri wa accus of wire 115000 to a person account in georgia and prosecutor
+said thei suspect him of take 600000 he wa also charg with two count of us
+commiss fund in nebraska to bui car a 1990 bmw valu at 67000 and a
+1991 bmw valu at 92000
+peeri wa paid 52000 annual he live in a hous valu at 305000 and at the
+time of hi arrest had six luxuri car includ jaguar mercedesbenz and bmw
+trace illicit transact investig
+3844 2011 fraud examin manual

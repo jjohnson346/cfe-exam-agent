@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Unfortunately for fraud examiners, non-cash larceny schemes are often very complicated.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Most non-cash larceny schemes are not very complicated. They are typically committed by employees (warehouse personnel, inventory clerks, shipping clerks, etc.) with access to inventory or supplies. Many employees simply carry company assets away in open view of other employees. People tend to assume that their friends and acquaintances are acting honestly. When they see a trusted co-worker taking something out of the workplace, most people assume that the culprit has a legitimate reason for doing so.See page(s) 1.603 in the Fraud Examiner's Manual

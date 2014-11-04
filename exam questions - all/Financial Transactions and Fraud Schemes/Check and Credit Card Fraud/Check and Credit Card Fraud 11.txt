@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Persons who are expert at passing phony checks are sometimes called:
+
+Options=Paperhangers | Phonies | Launderers | Checksters
+
+CorrectResponse=0
+
+Explanation=Paperhangers are the experts of phony check passing. They frequently pick a particular establishment or store and observe its security methods. Any store which actually appears to scrutinize check writers’ identification is not a good target for a paperhanger. However, they will observe and select the least experienced or most lackadaisical of store employees to pass the check to. The paperhanger will then ask the clerk for cash back from the transaction and make the check out for an amount greater than the price of the purchase. A variation of this scam is making a fraudulent deposit at a bank and asking for cash back.See page(s) 1.1003 in the Fraud Examiner's Manual

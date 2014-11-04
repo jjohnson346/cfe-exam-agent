@@ -1,0 +1,712 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS/Financial Statements
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Basic Accounting Concepts
+
+
+:
+
+
+Financial Statements 
+The results of the accounting process are reports, or financial statements, that exemplify the 
+financial position and operating results of an entity. Financial statements are often the 
+vehicles through which fraud occurs. 
+ 
+According to AU section 623, Special Reports, promulgated by the AICPA’s Auditing 
+Standards Board, financial statements include presentations of financial data and 
+accompanying notes prepared in conformity with either generally accepted accounting 
+principles or some other comprehensive basis of accounting. The following is a list of such 
+financial statements: 
+• Balance sheet 
+• Statement of income or statement of operations 
+• Statement of retained earnings 
+• Statement of cash flows 
+• Statement of changes in owners’ equity 
+• Statement of assets and liabilities that does not include owners’ equity accounts 
+• Statement of revenue and expenses 
+• Summary of operations 
+• Statement of operations by product lines 
+• Statement of cash receipts and disbursements 
+ 
+Although not specifically noted in AU section 623, financial statements may also include 
+other financial data presentations, such as: 
+• Prospective financial information (forecasts) 
+Accounting Concepts  Financial Transactions   
+1.106                         2011 Fraud Examiners Manual  
+• Proxy statements 
+• Interim financial information (for example, quarterly financial statements) 
+• Current value financial presentations 
+• Personal financial statements (current or present value) 
+• Bankruptcy financial statements 
+• Registration statement disclosures (Securities Act of 1933) 
+ 
+Other comprehensive bases of accounting, according to AU section 623, include: 
+• Government or regulatory agency accounting 
+• Tax-basis accounting 
+• Cash receipts and disbursements, or modified cash receipts and disbursements 
+• Any other basis with a definite set of criteria applied to all material items, such as the 
+price-level basis of accounting 
+ 
+Consequently, the term financial statements  includes almost any financial data presentation 
+prepared in accordance with generally accepted accounting principles or another 
+comprehensive basis of accounting. Throughout this section, the term financial statements 
+will include the above forms of reporting financial data, including the accompanying 
+footnotes and management’s discussion. For most companies, however, a full set of financial 
+statements comprises a balance sheet, a statement of income, a statement of owners’ equity 
+or a statement of retained earnings, and a statement of cash flows. Therefore, fraud 
+examiners should be familiar with the purpose and components of each of these financial 
+statements.  
+ 
+Balance Sheet 
+The balance sheet shows a “snapshot” of a company’s financial situation at a specific point in 
+time, generally the last day of the accounting period. The balance sheet is an expansion of 
+the accounting equation, assets = liabilities + owners’ equity. That is, it lists a company’s assets 
+on one side and its liabilities and owners’ equity on the other side. The nature of the 
+accounting equation means that the two sides of the statement should balance, hence the 
+name “balance sheet.”  
+ 
+The following balance sheet, derived from the journal entries in the above example, shows 
+the financial position of XYZ Company on the last day of its first year of operations.  
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.107 
+XYZ Company 
+Balance Sheet  
+December 31, 20XX 
+      
+      
+Assets     Liabilities    
+Current Assets    Current Liabilities   
+Cash  $  198,000    Accounts Payable  $    11,000   
+Accounts Receivable 25,000   Total Current Liabilities   $    11,000 
+Total Current Assets   $  223,000     
+    Long-term Liabilities   
+Fixed Assets    Notes Payable 75,000   
+Equipment 70,000   
+Total Long-term 
+Liabilities  75,000 
+Less: Accum. Depreciation (7,000)   Total Liabilities  86,000 
+Total Fixed Assets  63,000     
+    Owners’ Equity    
+    Common Stock 192,000   
+    Retained Earnings 8,000   
+    Total Owners’ Equity  200,000 
+       
+Total Assets   $  286,000  
+Total Liabilities and 
+Equity   $  286,000 
+ 
+As mentioned, assets are the resources owned by a company. Generally, assets are presented 
+on the balance sheet in order of liquidity, or how soon they are expected to be converted to 
+cash. The first section on the assets side, current assets, includes all those assets that are 
+expected to be converted to cash, sold, or used up within one year. This category usually 
+includes cash, accounts receivable (the amount owed to a company by customers for sales 
+on credit), inventory, and prepaid items. Following the current assets are the long-term assets, 
+or those assets that will likely not be converted to cash in the near future, such as fixed assets 
+(e.g., land, buildings, equipment) and intangible assets (e.g., patents, trademarks, goodwill). A 
+company’s fixed assets are presented net of accumulated depreciation, an amount that 
+represents the cumulative expense taken for wear-and-tear on a company’s property. 
+Likewise, intangible assets are presented net of accumulated amortization, an amount that 
+represents the collective expense taken for declines in value of the intangible property. 
+ 
+Liabilities are presented in order of maturity. Like current assets, current liabilities  are those 
+obligations that are expected to be paid within one year, such as accounts payable (the 
+amount owed to vendors by a company for purchases on credit), accrued expenses (e.g., 
+taxes payable or salaries payable), and the portion of long-term debts that will come due 
+Accounting Concepts  Financial Transactions   
+1.108                         2011 Fraud Examiners Manual  
+within the next year. Those liabilities that are not due for more than a year are listed under 
+the heading long-term liabilities. The most common liabilities in this group are bonds, notes, 
+and mortgages payable. The total balance of the note payable is listed under long-term 
+liabilities on XYZ Company’s balance sheet, indicating that it does not have to make any 
+payments on the note during the next year. However, if a $5,000 payment was required 
+during the next year, the company would have to reclassify $5,000 of the note balance to the 
+current liabilities section and show the remaining $70,000 as a long-term liability. This 
+adjustment would not change the total amount of the outstanding liability that was shown — all 
+$75,000 would still appear on the balance sheet - but it would allow financial statement 
+users to know that the company had an obligation to pay $5,000 during the next year rather 
+than at some unspecified time in the future.  
+ 
+The owners’ equity in a firm generally represents amounts from two sources — owner 
+contributions (usually referred to as common or capital stock, and paid-in capital) and 
+undistributed earnings (usually referred to as retained earnings). The balance in the capital stock 
+account increases when the owners of a company invest in it through the purchase of 
+company stock. The retained earnings balance increases when a company has earnings and 
+decreases when a company has losses. The retained earnings account is also decreased when 
+earnings are distributed to a company’s owners in the form of dividends, or when a company 
+has losses. XYZ Company’s balance sheet shows that the company’s owners have 
+contributed $192,000 to the company and that the company has retained $8,000 of earnings 
+as of December 31, 20XX.  
+ 
+Income Statement 
+Whereas the balance sheet shows a company’s financial position at a specific point in time, 
+the income statement details how much profit (or loss) a company earned during a period of 
+time, such as a quarter or a year. The accounts reflected on the income statement are 
+temporary; at the end of each fiscal year, they are reduced to a zero balance (closed), with the 
+resulting net income (or loss) added to (or subtracted from) retained earnings on the balance 
+sheet.  
+ 
+Below is the income statement for XYZ Company for its first year of operations based on 
+the sample transactions above. 
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.109 
+XYZ Company 
+Statement of Income 
+For the Year Ended December 31, 20 X X  
+   
+Revenue   
+Net Sales  $             40,000  
+Less: Cost of Goods Sold  25,000  
+Gross Profit   $             15,000 
+   
+Operating Expenses    
+Depreciation 7,000  
+Total Operating Expenses  7,000 
+   
+Net Income   $               8,000 
+ 
+Two basic types of accounts are reported on the income statement - revenues  and expenses. 
+Revenues represent amounts received from the sale of goods or services during the 
+accounting period. Most companies present net sales  or net service revenues  as the first line item 
+on the income statement. The term “net” means that the amount shown is the company’s 
+total sales minus any sales refunds, returns, discounts, or allowances.  
+ 
+From net sales, an expense titled cost of goods sold  or cost of sales  is deducted. Regardless of 
+industry, this expense denotes the amount a company spent (in past, present, and/or future 
+accounting periods) to produce the goods or services that were sold during the current 
+period. For a company that manufactures goods, cost of goods sold signifies the amount the 
+company spent on materials, labor, and overhead expenses to produce the goods that were 
+sold during the accounting period. For a merchandise reseller, this expense is the amount the 
+company has paid to purchase the goods that were resold during the period. For a service 
+company, the cost of sales is typically the amount of salaries paid to the employees who 
+performed the services that were sold. The difference between net sales and cost of goods 
+sold is called gross profit  or gross margin, which represents the amount left over from sales to 
+pay the company’s operating expenses.  
+ 
+Operating expenses are those costs that a company incurs to support and sustain its business 
+operations. Generally, these expenses include items such as advertising, management’s 
+salaries, office supplies, repairs and maintenance, rent, utilities, depreciation, interest, and 
+Accounting Concepts  Financial Transactions   
+1.110                         2011 Fraud Examiners Manual  
+taxes. Accrual accounting requires that these items be included on the income statement in 
+the period in which they are incurred, regardless of when they are paid.  
+ 
+After subtracting operating expenses from gross profit, a company’s net income or net earnings 
+for the period is determined. If a company’s total expenses were greater than its total 
+revenues and the bottom line is negative, then it had a net loss  for the period. Commonly, a 
+profitable company will distribute some of its net income to its owners in the form of 
+dividends. Whatever income is not distributed is transferred to the retained earnings account 
+on the balance sheet. In the case of XYZ Company, net income for the year was $8,000. The 
+company did not distribute any of these earnings, so the total amount — $8,000 — is shown 
+on the balance sheet as retained earnings. If the company is also profitable during its next 
+year of operations, any net income that is not distributed as dividends will be added to the 
+$8,000 balance in retained earnings. If expenses outpace revenues and XYZ Company shows 
+a loss for its second year, that loss will be deducted from the $8,000 retained earnings 
+balance at the end of the second year.  
+ 
+To summarize, the income statement ties to the balance sheet through the retained earnings 
+account as follows: 
+ 
+ 
+ 
+Statement of Owners’ Equity 
+The statement of owners’ equity details the changes in the total owners’ equity amount listed 
+on the balance sheet. Because it shows how the amounts on the income statement flow 
+through to the balance sheet, it acts as the connecting link between the two statements. The 
+balance of the owners’ equity at the beginning of the year is the starting point for the 
+statement. The transactions that affect owners’ equity are listed next and added together. 
+The result is added to (or subtracted from, if negative) the beginning-of-the-year balance, 
+which provides the end-of-the-year balance for total owners’ equity.  
+Assets Liabilities + Owners’ Equity =  
+Common Stock Retained Earnings
+ Dividends Net  Income
+ Revenue Expenses 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.111 
+The statement of owners’ equity for XYZ Company would appear as follows:  
+ 
+XYZ Company 
+Statement of Owners’ Equity 
+For the Year Ended December 31, 20XX  
+  
+Owners’ equity, January 1, 20XX  $              -  
+Investment by owners during the year  $      192,000  
+Net income for the year 8,000  
+Increase in owners’ equity 200,000  
+Owners’ equity, December 31, 20XX  $      200,000  
+ 
+XYZ Company completed two types of transactions that affected the owners’ equity during 
+20XX: the $192,000 invested by the company’s shareholders, and the revenue and expenses 
+that resulted in the net income of $8,000. Had the company distributed any money to the 
+shareholders in the form of dividends, that amount would be listed on the statement of 
+owners’ equity as well. Notice that the $8,000 ties directly to the bottom line of the income 
+statement, and the $200,000 owners’ equity ties to the “total owners’ equity” amount on the 
+balance sheet.  
+ 
+Some companies present a statement of retained earnings rather than a statement of owners’ 
+equity. Similar to the statement of owners’ equity,  the statement of retained earnings starts 
+with the retained earnings balance at the beginning of the year. All transactions affecting the 
+retained earnings account are then listed and added to the beginning balance to arrive at the 
+ending balance in the retained earnings account. Below is an example of the statement of 
+retained earnings for XYZ Company:  
+ 
+XYZ Company 
+Statement of Retained Earnings 
+For the Year Ended December 31, 20XX  
+   
+Retained earnings, January 1, 20XX  $              -   
+Net income for the year  $         8,000  
+Increase in owners’ equity 8,000  
+Retained earnings, December 31, 20XX  $         8,000  
+ 
+Accounting Concepts  Financial Transactions   
+1.112                         2011 Fraud Examiners Manual  
+Statement of Cash Flows 
+The statement of cash flows reports a company’s sources and uses of cash during the 
+accounting period. This statement is often used by potential investors and other interested 
+parties in tandem with the income statement to determine the true financial performance of 
+a company during the period being reported. The nature of accrual accounting allows (and 
+often requires) the income statement to contain many non-cash items and subjective 
+estimates that make it difficult to fully and clearly interpret a company’s operating results. 
+However, it is much harder to distort the amount of cold, hard cash that was received and 
+paid during the year, so the statement of cash flows adds to the transparency of the financial 
+statements.  
+ 
+The following is the statement of cash flows for XYZ Company:  
+ 
+XYZ Company 
+Statement of Cash Flows — Direct Method 
+For the Year Ended December 31, 20 X X  
+   
+Cash flows from operating activities   
+Cash received from customers  $       15,000  
+Cash paid for merchandise (14,000)  
+Net cash flows from operating activities  $         1,000  
+  
+Cash flows from investing activities  
+Cash paid for purchase of equipment (70,000)  
+Net cash flows from investing activities (70,000) 
+  
+Cash flows from financing activities  
+Cash received as owners’ investment 192,000  
+Cash received from issuing note payable 80,000  
+Cash paid on note payable (5,000)  
+Net cash flows from financing activities 267,000  
+  
+Increase in cash 198,000  
+Cash balance at the beginning of the year           0  
+Cash balance at the end of the year  $      198,000  
+ 
+The statement of cash flows is broken down into three sections: cash flows from operating 
+activities, cash flows from investing activities, and cash flows from financing activities.  
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.113 
+Cash Flows from Operations 
+The cash flows from operations section summarizes a company’s cash receipts and payments 
+arising from its normal business operations. Cash inflows included in this category 
+commonly consist of payments received from customers for sales, and cash outflows include 
+payments to vendors for merchandise and operating expenses and to employees for wages.  
+ 
+This category can also be summarized as those cash transactions that ultimately affect a 
+company’s operating income; therefore, it is often considered the most important of the 
+three categories of cash flows. If a company continually shows large profits per its income 
+statement, but cannot generate positive cash flows from operations, then questionable 
+accounting practices might be to blame. On the other hand, net income that is supported by 
+positive and increasing net cash flows from operations is generally considered an indicator of 
+a strong company. 
+ 
+There are two methods of reporting cash flows from operations. In the above example, 
+XYZ Company’s statement of cash flows is presented using the direct method. This method 
+lists the sources of operating cash flows and the uses of operating cash flows, with the 
+difference between them being the net cash flow from operating activities.  
+ 
+In contrast, the indirect method  reconciles net income per the income statement with net cash 
+flows from operating activities; that is, accrual-basis net income is adjusted for non-cash 
+revenues and expenses to arrive at net cash flows from operations. Below is an example of 
+XYZ Company’s cash flows from operations using the indirect method:  
+ 
+XYZ Company 
+Statement of Cash Flows — Indirect Method 
+For the Year Ended December 31, 20 X X  
+Cash flows from operating activities   
+Net income, per income statement   $         8,000  
+Add:  Depreciation  $         7,000  
+  Increase in accounts payable 11,000 18,000  
+  26,000  
+Subtract:  Increase in accounts receivable (25,000) (25,000) 
+Net cash flows from operating activities  1,000  
+ 
+Accounting Concepts  Financial Transactions   
+1.114                         2011 Fraud Examiners Manual  
+Note that the net cash flows from operating activities is the same amount - in this case, 
+$1,000 — regardless of the method that is used.  The indirect method is usually easier to 
+compute and provides a comparison of a company’s operating results under the accrual and 
+cash methods of accounting. As a result, most companies choose to use the indirect method, 
+but either method is acceptable.  
+ 
+Cash Flows from Investing Activities 
+Cash inflows from investing activities usually arise from the sale of fixed assets (e.g., 
+property and equipment), investments (e.g., the stocks and bonds of other companies), or 
+intangible assets (e.g., patents and trademarks). Similarly, cash outflows from investing 
+activities include any cash paid for the purchase of fixed assets, investments, or intangible 
+assets.  
+ 
+Cash Flows from Financing Activities 
+Cash flows from financing activities involve the cash received or paid in connection with 
+issuing debt and equity securities. Cash inflows in this category occur when a company sells 
+its own stock, issues bonds, or takes out a loan. A company’s cash outflows from financing 
+activities include paying cash dividends to shareholders, acquiring shares of its own stock 
+(called treasury stock), and repaying debt.  
+  
+The total cash flows from all three categories are combined to arrive at the net increase or 
+decrease in cash for the year. This total is then added to or subtracted from the cash balance 
+at the beginning of the year to arrive at the cash balance at the end of the year, which ties 
+back to the amount of cash reported on the balance sheet.  
+ 
+Users of Financial Statements 
+Financial statement fraud schemes are most often perpetrated by management against 
+potential users of the statements. These users of financial statements include company 
+ownership and management, lending organizations, investors, regulating bodies, vendors, 
+and customers. The production of truthful financial statements plays an important role in 
+the continued success of an organization. However, fraudulent statements can be used for a 
+number of reasons. The most common use is to increase the apparent prosperity of an 
+organization in the eyes of potential and current investors. (For more information, see the 
+chapter on “Financial Statement Fraud.”)  
+ 
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.115 
+
+
+
+:
+
+
+financi statement
+the result of the account process ar report or financi statement that exemplifi the
+financi posit and oper result of an entiti financi statement ar often the
+vehicl through which fraud occur
+accord to au section 623 special report promulg by the aicpa audit
+standard board financi statement includ present of financi data and
+accompani note prepar in conform with either gener accept account
+principl or some other comprehens basi of account the follow is a list of such
+financi statement
+balanc sheet
+statement of incom or statement of oper
+statement of retain earn
+statement of cash flow
+statement of chang in owner equiti
+statement of asset and liabil that doe not includ owner equiti account
+statement of revenu and expens
+summari of oper
+statement of oper by product line
+statement of cash receipt and disburs
+although not specif note in au section 623 financi statement mai also includ
+other financi data present such as
+prospect financi inform forecast
+account concept financi transact
+1106 2011 fraud examin manual
+proxi statement
+interim financi inform for exampl quarterli financi statement
+current valu financi present
+person financi statement current or present valu
+bankruptci financi statement
+registr statement disclosur secur act of 1933
+other comprehens base of account accord to au section 623 includ
+govern or regulatori agenc account
+taxbasi account
+cash receipt and disburs or modifi cash receipt and disburs
+ani other basi with a definit set of criteria appli to all materi item such as the
+pricelevel basi of account
+consequ the term financi statement includ almost ani financi data present
+prepar in accord with gener accept account principl or anoth
+comprehens basi of account throughout thi section the term financi statement
+will includ the abov form of report financi data includ the accompani
+footnot and manag discuss for most compani howev a full set of financi
+statement compris a balanc sheet a statement of incom a statement of owner equiti
+or a statement of retain earn and a statement of cash flow therefor fraud
+examin should be familiar with the purpos and compon of each of these financi
+statement
+balanc sheet
+the balanc sheet show a snapshot of a compani financi situat at a specif point in
+time gener the last dai of the account period the balanc sheet is an expans of
+the account equat asset liabil owner equiti that is it list a compani asset
+on on side and it liabil and owner equiti on the other side the natur of the
+account equat mean that the two side of the statement should balanc henc the
+name balanc sheet
+the follow balanc sheet deriv from the journal entri in the abov exampl show
+the financi posit of xyz compani on the last dai of it first year of oper
+financi transact account concept
+2011 fraud examin manual 1107
+xyz compani
+balanc sheet
+decemb 31 20xx
+asset liabil
+current asset current liabil
+cash 198000 account payabl 11000
+account receiv 25000 total current liabil 11000
+total current asset 223000
+longterm liabil
+fix asset note payabl 75000
+equip 70000
+total longterm
+liabil 75000
+less accum depreci 7000 total liabil 86000
+total fix asset 63000
+owner equiti
+common stock 192000
+retain earn 8000
+total owner equiti 200000
+total asset 286000
+total liabil and
+equiti 286000
+as mention asset ar the resourc own by a compani gener asset ar present
+on the balanc sheet in order of liquid or how soon thei ar expect to be convert to
+cash the first section on the asset side current asset includ all those asset that ar
+expect to be convert to cash sold or us up within on year thi categori usual
+includ cash account receiv the amount ow to a compani by custom for sale
+on credit inventori and prepaid item follow the current asset ar the longterm asset
+or those asset that will like not be convert to cash in the near futur such as fix asset
+eg land build equip and intang asset eg patent trademark goodwil a
+compani fix asset ar present net of accumul depreci an amount that
+repres the cumul expens taken for wearandtear on a compani properti
+likewis intang asset ar present net of accumul amort an amount that
+repres the collect expens taken for declin in valu of the intang properti
+liabil ar present in order of matur like current asset current liabil ar those
+oblig that ar expect to be paid within on year such as account payabl the
+amount ow to vendor by a compani for purchas on credit accru expens eg
+tax payabl or salari payabl and the portion of longterm debt that will come due
+account concept financi transact
+1108 2011 fraud examin manual
+within the next year those liabil that ar not due for more than a year ar list under
+the head longterm liabil the most common liabil in thi group ar bond note
+and mortgag payabl the total balanc of the note payabl is list under longterm
+liabil on xyz compani balanc sheet indic that it doe not have to make ani
+payment on the note dure the next year howev if a 5000 payment wa requir
+dure the next year the compani would have to reclassifi 5000 of the note balanc to the
+current liabil section and show the remain 70000 as a longterm liabil thi
+adjust would not chang the total amount of the outstand liabil that wa shown all
+75000 would still appear on the balanc sheet but it would allow financi statement
+user to know that the compani had an oblig to pai 5000 dure the next year rather
+than at some unspecifi time in the futur
+the owner equiti in a firm gener repres amount from two sourc owner
+contribut usual refer to as common or capit stock and paidin capit and
+undistribut earn usual refer to as retain earn the balanc in the capit stock
+account increas when the owner of a compani invest in it through the purchas of
+compani stock the retain earn balanc increas when a compani ha earn and
+decreas when a compani ha loss the retain earn account is also decreas when
+earn ar distribut to a compani owner in the form of dividend or when a compani
+ha loss xyz compani balanc sheet show that the compani owner have
+contribut 192000 to the compani and that the compani ha retain 8000 of earn
+as of decemb 31 20xx
+incom statement
+wherea the balanc sheet show a compani financi posit at a specif point in time
+the incom statement detail how much profit or loss a compani earn dure a period of
+time such as a quarter or a year the account reflect on the incom statement ar
+temporari at the end of each fiscal year thei ar reduc to a zero balanc close with the
+result net incom or loss ad to or subtract from retain earn on the balanc
+sheet
+below is the incom statement for xyz compani for it first year of oper base on
+the sampl transact abov
+financi transact account concept
+2011 fraud examin manual 1109
+xyz compani
+statement of incom
+for the year end decemb 31 20 x x
+revenu
+net sale 40000
+less cost of good sold 25000
+gross profit 15000
+oper expens
+depreci 7000
+total oper expens 7000
+net incom 8000
+two basic type of account ar report on the incom statement revenu and expens
+revenu repres amount receiv from the sale of good or servic dure the
+account period most compani present net sale or net servic revenu as the first line item
+on the incom statement the term net mean that the amount shown is the compani
+total sale minu ani sale refund return discount or allow
+from net sale an expens titl cost of good sold or cost of sale is deduct regardless of
+industri thi expens denot the amount a compani spent in past present andor futur
+account period to produc the good or servic that were sold dure the current
+period for a compani that manufactur good cost of good sold signifi the amount the
+compani spent on materi labor and overhead expens to produc the good that were
+sold dure the account period for a merchandis resel thi expens is the amount the
+compani ha paid to purchas the good that were resold dure the period for a servic
+compani the cost of sale is typic the amount of salari paid to the employe who
+perform the servic that were sold the differ between net sale and cost of good
+sold is call gross profit or gross margin which repres the amount left over from sale to
+pai the compani oper expens
+oper expens ar those cost that a compani incur to support and sustain it busi
+oper gener these expens includ item such as advertis manag
+salari offic suppli repair and mainten rent util depreci interest and
+account concept financi transact
+1110 2011 fraud examin manual
+tax accrual account requir that these item be includ on the incom statement in
+the period in which thei ar incur regardless of when thei ar paid
+after subtract oper expens from gross profit a compani net incom or net earn
+for the period is determin if a compani total expens were greater than it total
+revenu and the bottom line is neg then it had a net loss for the period commonli a
+profit compani will distribut some of it net incom to it owner in the form of
+dividend whatev incom is not distribut is transfer to the retain earn account
+on the balanc sheet in the case of xyz compani net incom for the year wa 8000 the
+compani did not distribut ani of these earn so the total amount 8000 is shown
+on the balanc sheet as retain earn if the compani is also profit dure it next
+year of oper ani net incom that is not distribut as dividend will be ad to the
+8000 balanc in retain earn if expens outpac revenu and xyz compani show
+a loss for it second year that loss will be deduct from the 8000 retain earn
+balanc at the end of the second year
+to summar the incom statement ti to the balanc sheet through the retain earn
+account as follow
+statement of owner equiti
+the statement of owner equiti detail the chang in the total owner equiti amount list
+on the balanc sheet becaus it show how the amount on the incom statement flow
+through to the balanc sheet it act as the connect link between the two statement the
+balanc of the owner equiti at the begin of the year is the start point for the
+statement the transact that affect owner equiti ar list next and ad togeth
+the result is ad to or subtract from if neg the beginningoftheyear balanc
+which provid the endoftheyear balanc for total owner equiti
+asset liabil owner equiti
+common stock retain earn
+dividend net incom
+revenu expens
+financi transact account concept
+2011 fraud examin manual 1111
+the statement of owner equiti for xyz compani would appear as follow
+xyz compani
+statement of owner equiti
+for the year end decemb 31 20xx
+owner equiti januari 1 20xx
+invest by owner dure the year 192000
+net incom for the year 8000
+increas in owner equiti 200000
+owner equiti decemb 31 20xx 200000
+xyz compani complet two type of transact that affect the owner equiti dure
+20xx the 192000 invest by the compani sharehold and the revenu and expens
+that result in the net incom of 8000 had the compani distribut ani monei to the
+sharehold in the form of dividend that amount would be list on the statement of
+owner equiti as well notic that the 8000 ti directli to the bottom line of the incom
+statement and the 200000 owner equiti ti to the total owner equiti amount on the
+balanc sheet
+some compani present a statement of retain earn rather than a statement of owner
+equiti similar to the statement of owner equiti the statement of retain earn start
+with the retain earn balanc at the begin of the year all transact affect the
+retain earn account ar then list and ad to the begin balanc to arriv at the
+end balanc in the retain earn account below is an exampl of the statement of
+retain earn for xyz compani
+xyz compani
+statement of retain earn
+for the year end decemb 31 20xx
+retain earn januari 1 20xx
+net incom for the year 8000
+increas in owner equiti 8000
+retain earn decemb 31 20xx 8000
+account concept financi transact
+1112 2011 fraud examin manual
+statement of cash flow
+the statement of cash flow report a compani sourc and us of cash dure the
+account period thi statement is often us by potenti investor and other interest
+parti in tandem with the incom statement to determin the true financi perform of
+a compani dure the period be report the natur of accrual account allow and
+often requir the incom statement to contain mani noncash item and subject
+estim that make it difficult to fulli and clearli interpret a compani oper result
+howev it is much harder to distort the amount of cold hard cash that wa receiv and
+paid dure the year so the statement of cash flow add to the transpar of the financi
+statement
+the follow is the statement of cash flow for xyz compani
+xyz compani
+statement of cash flow direct method
+for the year end decemb 31 20 x x
+cash flow from oper activ
+cash receiv from custom 15000
+cash paid for merchandis 14000
+net cash flow from oper activ 1000
+cash flow from invest activ
+cash paid for purchas of equip 70000
+net cash flow from invest activ 70000
+cash flow from financ activ
+cash receiv as owner invest 192000
+cash receiv from issu note payabl 80000
+cash paid on note payabl 5000
+net cash flow from financ activ 267000
+increas in cash 198000
+cash balanc at the begin of the year 0
+cash balanc at the end of the year 198000
+the statement of cash flow is broken down into three section cash flow from oper
+activ cash flow from invest activ and cash flow from financ activ
+financi transact account concept
+2011 fraud examin manual 1113
+cash flow from oper
+the cash flow from oper section summar a compani cash receipt and payment
+aris from it normal busi oper cash inflow includ in thi categori
+commonli consist of payment receiv from custom for sale and cash outflow includ
+payment to vendor for merchandis and oper expens and to employe for wage
+thi categori can also be summar as those cash transact that ultim affect a
+compani oper incom therefor it is often consid the most import of the
+three categori of cash flow if a compani continu show larg profit per it incom
+statement but cannot gener posit cash flow from oper then question
+account practic might be to blame on the other hand net incom that is support by
+posit and increas net cash flow from oper is gener consid an indic of
+a strong compani
+there ar two method of report cash flow from oper in the abov exampl
+xyz compani statement of cash flow is present us the direct method thi method
+list the sourc of oper cash flow and the us of oper cash flow with the
+differ between them be the net cash flow from oper activ
+in contrast the indirect method reconcil net incom per the incom statement with net cash
+flow from oper activ that is accrualbasi net incom is adjust for noncash
+revenu and expens to arriv at net cash flow from oper below is an exampl of
+xyz compani cash flow from oper us the indirect method
+xyz compani
+statement of cash flow indirect method
+for the year end decemb 31 20 x x
+cash flow from oper activ
+net incom per incom statement 8000
+add depreci 7000
+increas in account payabl 11000 18000
+26000
+subtract increas in account receiv 25000 25000
+net cash flow from oper activ 1000
+account concept financi transact
+1114 2011 fraud examin manual
+note that the net cash flow from oper activ is the same amount in thi case
+1000 regardless of the method that is us the indirect method is usual easier to
+comput and provid a comparison of a compani oper result under the accrual and
+cash method of account as a result most compani choos to us the indirect method
+but either method is accept
+cash flow from invest activ
+cash inflow from invest activ usual aris from the sale of fix asset eg
+properti and equip invest eg the stock and bond of other compani or
+intang asset eg patent and trademark similarli cash outflow from invest
+activ includ ani cash paid for the purchas of fix asset invest or intang
+asset
+cash flow from financ activ
+cash flow from financ activ involv the cash receiv or paid in connect with
+issu debt and equiti secur cash inflow in thi categori occur when a compani sell
+it own stock issu bond or take out a loan a compani cash outflow from financ
+activ includ pai cash dividend to sharehold acquir share of it own stock
+call treasuri stock and repai debt
+the total cash flow from all three categori ar combin to arriv at the net increas or
+decreas in cash for the year thi total is then ad to or subtract from the cash balanc
+at the begin of the year to arriv at the cash balanc at the end of the year which ti
+back to the amount of cash report on the balanc sheet
+user of financi statement
+financi statement fraud scheme ar most often perpetr by manag against
+potenti user of the statement these user of financi statement includ compani
+ownership and manag lend organ investor regul bodi vendor
+and custom the product of truth financi statement plai an import role in
+the continu success of an organ howev fraudul statement can be us for a
+number of reason the most common us is to increas the appar prosper of an
+organ in the ey of potenti and current investor for more inform see the
+chapter on financi statement fraud
+financi transact account concept
+2011 fraud examin manual 1115

@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=The users of financial statements include company ownership and management, lending organizations, and investors.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Financial statement fraud schemes are perpetrated most often by management against potential users of the statements. These users of financial statements include company ownership and management, lending organizations, and investors.

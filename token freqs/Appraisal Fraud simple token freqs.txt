@@ -1,0 +1,6 @@
+Token                          Frequency
+-----------------------------  ---------
+fraud                                  1
+appraisal                              1
+
+Totals:                      2         2

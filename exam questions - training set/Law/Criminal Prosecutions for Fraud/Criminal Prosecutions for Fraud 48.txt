@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which of the following is NOT a common pre-trial motion in criminal trials?
+
+Options=Motion for selective relief | Motion for a change of venue | Motion for severance | Motion to suppress evidence
+
+CorrectResponse=0
+
+Explanation=Criminal trials, like civil proceedings, often begin with pre-trial motions. Some of these are the same regardless of the type of court (civil or criminal). For example, both criminal and civil defendants can make motions in limine to exclude certain evidence, can ask that the charge or complaint be made more definite and certain, or can request a postponement of the trial date. Other motions are particular to the criminal process. Some pre-trial motions typically used in criminal trials are listed below:Motion for severance Motion to suppress evidence Motion for a change of venueSee page(s) 2.511 -2.513 in the Fraud Examiner's Manual

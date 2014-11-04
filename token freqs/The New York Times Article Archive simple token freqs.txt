@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     3
+can                                    1
+contains                               2
+of                                     1
+sections                               1
+more                                   1
+complete                               1
+times                                  3
+file                                   1
+york                                   3
+all                                    1
+be                                     1
+www.nytimes.com                        1
+is                                     1
+it                                     2
+articles                               1
+1851                                   1
+at                                     1
+back                                   1
+the                                    5
+in                                     2
+and                                    2
+present                                1
+two                                    1
+1980                                   1
+new                                    3
+1981                                   1
+13-million                             1
+article                                2
+than                                   1
+divided                                1
+archive                                3
+searched                               1
+
+Totals:                     33        52

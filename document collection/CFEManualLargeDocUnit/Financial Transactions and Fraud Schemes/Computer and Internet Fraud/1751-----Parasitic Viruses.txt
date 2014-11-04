@@ -1,0 +1,45 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Parasitic Viruses
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Parasitic Viruses 
+Parasitic viruses attach themselves to programs known as executables. When a user launches 
+a program that has a parasitic virus, the virus is surreptitiously launched first. To cloak its 
+presence from the user, the virus then triggers the original program to open. The parasitic 
+virus, because the operating system understands it to be part of the program, is given the 
+same rights as the program to which the virus is attached. These rights allow the virus to 
+replicate, install itself into memory, or release its payload. In the absence of antivirus 
+software, only the payload might raise the normal user’s suspicions. A famous parasitic virus 
+called Jerusalem has a payload of slowing down the sy stem and eventually deleting every 
+program the user launches. 
+ 
+
+
+
+:
+
+
+parasit virus
+parasit virus attach themselv to program known as execut when a user launch
+a program that ha a parasit viru the viru is surreptiti launch first to cloak it
+presenc from the user the viru then trigger the origin program to open the parasit
+viru becaus the oper system understand it to be part of the program is given the
+same right as the program to which the viru is attach these right allow the viru to
+replic instal itself into memori or releas it payload in the absenc of antiviru
+softwar onli the payload might rais the normal user suspicion a famou parasit viru
+call jerusalem ha a payload of slow down the sy stem and eventu delet everi
+program the user launch

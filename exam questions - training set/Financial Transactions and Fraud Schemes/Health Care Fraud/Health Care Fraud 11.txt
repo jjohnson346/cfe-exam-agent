@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Because it is difficult to determine whether a person is in need of hospitalization for psychiatric treatment, psychiatric hospitals are susceptible to health care fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Psychiatric hospitals are susceptible to fraud because of the nature of mental health problems and the manner in which they are diagnosed and treated. Unlike the acute care field, it can be difficult to determine whether a person is in need of hospitalization for psychiatric treatment.See page(s) 1.1239 in the Fraud Examiner‰??s Manual

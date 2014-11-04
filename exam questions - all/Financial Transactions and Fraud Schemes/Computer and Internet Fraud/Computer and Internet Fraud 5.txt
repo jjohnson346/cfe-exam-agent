@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is the definition of the computer manipulation technique known as a "Trojan horse"?
+
+Options=Searching for valid access codes or trap doors | Using several networks in a series in order to avoid detection | Covert placement of instructions which causes the computer to perform unauthorized functions but allows other programs to work normally✓  | Gaining information about a system using deception, such as someone else's password
+
+CorrectResponse=2
+
+Explanation=A Trojan horse is the covert placement of instructions in a program which causes the computer to perform unauthorized functions but usually still allows the program to perform its intended purpose. This is the most common method used in computer-based frauds and sabotage.See page(s) 1.1807 in the Fraud Examiner's Manual

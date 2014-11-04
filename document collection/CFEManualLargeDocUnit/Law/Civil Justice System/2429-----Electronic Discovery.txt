@@ -1,0 +1,223 @@
+2011 Fraud Examiners Manual/Law/THE CIVIL JUSTICE SYSTEM/Civil Litigation/Electronic Discovery
+
+
+:
+
+
+Law
+
+
+:
+
+
+Civil Justice System
+
+
+:
+
+
+Electronic Discovery 
+Electronic discovery (e-discovery) refers to the legal discovery process that deals with 
+electronically stored information (ESI). ESI is different from paper information because it 
+can be stored in larger volumes and in more locations. It is also more volatile. In addition, 
+electronic documents usually contain metadata (data about data), which is rarely found in 
+paper documents.  
+ 
+Because of ESI’s uniqueness, e-discovery poses additional challenges to the legal process. 
+ 
+PRESERVATION 
+The commencement of litigation creates a discovery-related obligation on the parties to 
+preserve relevant information whenever litigation is reasonably anticipated. And although the 
+duty to preserve is not unique to ESI, electronic information is often difficult to preserve 
+The Civil Justice System  Law 
+2.608  2011 Fraud Examiners Manual  
+because of its volatile nature. Also, parties who fail to properly preserve evidence (spoliation) 
+may be subject to adverse consequences. Thus, it is important to consider the basic 
+characteristics of the obligation to preserve information and examine the relevant 
+obligations, especially those concerning the preservation of ESI.  
+ 
+To avoid any adverse consequences, companies should establish policies and procedures 
+governing the maintenance, storage, and production of ESI. 
+ 
+DOCUMENT RETENTION POLICIES  
+Document retention policies that instruct employees on which documents to preserve or 
+destroy are an important component of any risk management program. For this reason, 
+organizations should adopt such policies, and management must effectively monitor and 
+revise them. This is especially important given the growing amount, locations, and formats 
+of ESI in today’s environment, which create additional risks and costs for companies that do 
+not have such policies for both physical and digital data. 
+ 
+LITIGATION HOLD PROCEDURES  
+Organizations should also create litigation hold procedures, which provide a process whereby a 
+company issues a litigation hold communication that notifies employees to suspend the 
+destruction of potentially relevant records when the duty to preserve relevant information 
+arises. The duty to preserve relevant data begins when a lawsuit is “reasonably anticipated.”  
+ 
+There are, however, certain attributes of ESI that make executing a timely litigation hold 
+difficult, including: (1) ESI may only be available for a temporary time period, (2) business 
+practices are often designed to free up storage space, and (3) ESI is particularly problematic 
+because of its sheer volume.  
+ 
+Timely imposing a litigation hold is necessary to avoid sanctions, including monetary fines 
+and sanctions, adverse inference jury instruction sanctions, or dismissal of claims or 
+defenses.  
+ 
+SAFE HARBOR 
+FRCP 37 allows courts to order sanctions for a party’s failure to make disclosures or to 
+cooperate in discovery, but, as amended, Rule 37 contains a “safe harbor” provision, 
+providing that courts cannot impose sanctions on a company for failing to provide ESI that 
+was lost because of routine data management practices. Nevertheless, it is important to note 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.609 
+that ignorance is no defense against how a party’s electronic information is stored. 
+ 
+INADVERTENT PRODUCTION OF PRIVILEGED ESI 
+FRCP 26 provides that if a party has inadvertently produced ESI that is later determined to 
+be privileged, the receiving party must destroy and refrain from using any protected 
+information until any dispute is resolved. This rule recognizes that reviewing large volumes 
+of ESI for attorney-client privileged material is generally more costly and time consuming 
+than traditional document recovery. This rule, however, does not provide guidance for 
+determining whether or not producing the material waives the privilege.  
+ 
+On September 19, 2008, President Bush signed into law a bill adding Evidence Rule 502 to 
+the Federal Rules of Evidence. This rule protects against the inadvertent waiver of the 
+attorney-client privilege or the work product protection. See the “Basic Principles of 
+Evidence” chapter below for further discussion of this rule.  
+ 
+ESI FROM SOURCES THAT ARE NOT REASONABLY ACCESSIBLE 
+FRCP 26 also makes a distinction between ESI that is reasonably accessible and that which 
+is not. The relevant provision states that a party need not provide discovery of ESI “from 
+sources that the party identifies as ‘not reasonably accessible’ because of undue burden or 
+cost.”  
+ 
+The rule, however, does not define what is reasonably accessible. Accordingly, disputes will 
+continue to center on how “accessible” the information is and what constitutes “undue 
+burden or cost.” Thus, at the outset of fores eeable litigation, parties should understand the 
+scope and sources of their electronic information that may be related to the case, as well as 
+the information’s location and format. Thereafter, it will be the court’s responsibility to 
+reconcile disagreements between the parties as to what electronic information is and is not 
+reasonably accessible. 
+ 
+THE FORM OF PRODUCTION 
+FRCP 34 also provides procedures for resolving any form of production issues. Specifically, 
+Rule 34 requires that, where a party objects to the form for producing the electronic 
+information, or if no form is specified in a request for information, “the responding party 
+must state the form or forms it intends to use.” Furthermore, if a request does not specify a 
+form for producing the electronic information, the “responding party must produce the 
+information in a form or forms in which it is ordinarily maintained … or that are reasonably 
+The Civil Justice System  Law 
+2.610  2011 Fraud Examiners Manual  
+usable.” Given the specificity of Rule 34, parties should decide the format they need prior to 
+requesting electronic information from the opponent. 
+ 
+BECOMING LITIGATION READY 
+The recent amendments to the Federal Rules of Civil Procedure concerning the discovery of 
+ESI are exposing companies to further liabilities and costs during litigation because they 
+require organizations to adapt how they manage, retain, store, and deliver ESI during legal 
+proceedings. The amendments provide that, in most circumstances, parties must voluntarily 
+turn over (i.e., without awaiting a discovery request by the other party) a copy, or a 
+description by category and location, of all ESI to the other party within 14 days of the pre-
+ trial conference. Therefore, it is essential that parties (or organizations) be prepared for the 
+advent of electronic discovery prior to a case being filed, or in other words, companies must 
+be litigation ready. To be litigation ready, parties (or organizations) must know the scope of 
+their ESI, the location of their ESI, the storage format of their ESI, the length of time ESI is 
+stored, and whether their ESI is readily accessible. 
+ 
+
+
+
+:
+
+
+electron discoveri
+electron discoveri ediscoveri refer to the legal discoveri process that deal with
+electron store inform esi esi is differ from paper inform becaus it
+can be store in larger volum and in more locat it is also more volatil in addit
+electron document usual contain metadata data about data which is rare found in
+paper document
+becaus of esi uniqu ediscoveri pose addit challeng to the legal process
+preserv
+the commenc of litig creat a discoveryrel oblig on the parti to
+preserv relev inform whenev litig is reason anticip and although the
+duti to preserv is not uniqu to esi electron inform is often difficult to preserv
+the civil justic system law
+2608 2011 fraud examin manual
+becaus of it volatil natur also parti who fail to properli preserv evid spoliat
+mai be subject to advers consequ thu it is import to consid the basic
+characterist of the oblig to preserv inform and examin the relev
+oblig especi those concern the preserv of esi
+to avoid ani advers consequ compani should establish polici and procedur
+govern the mainten storag and product of esi
+document retent polici
+document retent polici that instruct employe on which document to preserv or
+destroi ar an import compon of ani risk manag program for thi reason
+organ should adopt such polici and manag must effect monitor and
+revis them thi is especi import given the grow amount locat and format
+of esi in todai environ which creat addit risk and cost for compani that do
+not have such polici for both physic and digit data
+litig hold procedur
+organ should also creat litig hold procedur which provid a process wherebi a
+compani issu a litig hold commun that notifi employe to suspend the
+destruct of potenti relev record when the duti to preserv relev inform
+aris the duti to preserv relev data begin when a lawsuit is reason anticip
+there ar howev certain attribut of esi that make execut a time litig hold
+difficult includ 1 esi mai onli be avail for a temporari time period 2 busi
+practic ar often design to free up storag space and 3 esi is particularli problemat
+becaus of it sheer volum
+time impos a litig hold is necessari to avoid sanction includ monetari fine
+and sanction advers infer juri instruct sanction or dismiss of claim or
+defens
+safe harbor
+frcp 37 allow court to order sanction for a parti failur to make disclosur or to
+cooper in discoveri but as amend rule 37 contain a safe harbor provis
+provid that court cannot impos sanction on a compani for fail to provid esi that
+wa lost becaus of routin data manag practic nevertheless it is import to note
+law the civil justic system
+2011 fraud examin manual 2609
+that ignor is no defens against how a parti electron inform is store
+inadvert product of privileg esi
+frcp 26 provid that if a parti ha inadvert produc esi that is later determin to
+be privileg the receiv parti must destroi and refrain from us ani protect
+inform until ani disput is resolv thi rule recogn that review larg volum
+of esi for attorneycli privileg materi is gener more costli and time consum
+than tradit document recoveri thi rule howev doe not provid guidanc for
+determin whether or not produc the materi waiv the privileg
+on septemb 19 2008 presid bush sign into law a bill ad evid rule 502 to
+the feder rule of evid thi rule protect against the inadvert waiver of the
+attorneycli privileg or the work product protect see the basic principl of
+evid chapter below for further discuss of thi rule
+esi from sourc that ar not reason access
+frcp 26 also make a distinct between esi that is reason access and that which
+is not the relev provis state that a parti need not provid discoveri of esi from
+sourc that the parti identifi as not reason access becaus of undu burden or
+cost
+the rule howev doe not defin what is reason access accordingli disput will
+continu to center on how access the inform is and what constitut undu
+burden or cost thu at the outset of fore eeabl litig parti should understand the
+scope and sourc of their electron inform that mai be relat to the case as well as
+the inform locat and format thereaft it will be the court respons to
+reconcil disagr between the parti as to what electron inform is and is not
+reason access
+the form of product
+frcp 34 also provid procedur for resolv ani form of product issu specif
+rule 34 requir that where a parti object to the form for produc the electron
+inform or if no form is specifi in a request for inform the respond parti
+must state the form or form it intend to us furthermor if a request doe not specifi a
+form for produc the electron inform the respond parti must produc the
+inform in a form or form in which it is ordinarili maintain or that ar reason
+the civil justic system law
+2610 2011 fraud examin manual
+usabl given the specif of rule 34 parti should decid the format thei need prior to
+request electron inform from the oppon
+becom litig readi
+the recent amend to the feder rule of civil procedur concern the discoveri of
+esi ar expos compani to further liabil and cost dure litig becaus thei
+requir organ to adapt how thei manag retain store and deliv esi dure legal
+proceed the amend provid that in most circumst parti must voluntarili
+turn over ie without await a discoveri request by the other parti a copi or a
+descript by categori and locat of all esi to the other parti within 14 dai of the pre
+trial confer therefor it is essenti that parti or organ be prepar for the
+advent of electron discoveri prior to a case be file or in other word compani must
+be litig readi to be litig readi parti or organ must know the scope of
+their esi the locat of their esi the storag format of their esi the length of time esi is
+store and whether their esi is readili access

@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=The Uniform Crime Reports are compiled and issued by the Federal Bureau of Investigation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Federal Bureau of Investigation (FBI) compiles statistics on the extent of crime in the United States in a document called the Uniform Crime Report (UCR). The report is put together on the basis of information voluntarily submitted by more than 15.000 law enforcement departments. This includes virtually every significant public policing agency in the country.See page(s) 4.315 in the Fraud Examiner's Manual

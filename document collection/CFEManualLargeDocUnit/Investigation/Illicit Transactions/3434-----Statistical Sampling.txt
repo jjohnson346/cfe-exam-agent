@@ -1,0 +1,180 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Indirect Methods of Tracing Financial Transactions/Statistical Sampling
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+Statistical Sampling 
+If an anomaly is found in the financial statements and transactions and further investigation 
+is desired, it might be appropriate to pull a statistical sample. By using statistical sampling, 
+the examiner can look at fewer transactions rather than the entire population.  
+ 
+There are two basic risks associated with statistical sampling: sampling risk and nonsampling 
+risk. Sampling risk  is the probability that the sample is not representative of the population; 
+nonsampling risk  is the possibility of making the wrong decision. Nonsampling risk cannot be 
+quantified. However, fraud examiners can control it through adequate planning and 
+supervision of audit engagements. 
+ 
+When using statistical sampling, you must draw a random sample. That is, each member of 
+the population must have an equal chance of being selected. There are two primary types of 
+statistical sampling: attribute and discovery. 
+ 
+SAMPLING FOR ATTRIBUTES 
+Sampling for attributes is used by auditors or fraud examiners looking for a deviation 
+occurrence rate (deviations, errors, and exceptions  are synonyms). When performing this type of 
+sampling, you are looking for the presence or absence of a defined condition. 
+ 
+EXAMPLE 
+For each sales invoice in the sample, is there a corresponding shipping order? The answer to the 
+question can only be “yes” or “no.” If the control condition is that each sales invoice is not 
+recorded until there has been a shipping order attached, then any “no” response for a booked 
+sale would represent an error. 
+ 
+DISCOVERY SAMPLING 
+This is the best type of sampling for auditing for fraud because it is sampling until one 
+occurrence is found. Discovery sampling deals with the probability of discovering at least 
+one error in a given sample size if the population error is a certain percentage. This type of 
+sampling is directed toward a specific objective, such as: 
+ 
+EXAMPLE 
+“If I believe some kind of error or irregularity might exist in the records, what sample size will I have to 
+audit to have assurance of finding at least one example?” 
+ 
+Tracing Illicit Transactions  Investigation 
+3.832   2011 Fraud Examiners Manual  
+Discovery sampling is best used when looking for things such as forged checks or 
+intercompany sales that have been improperly classified as sales to outsiders. 
+ 
+RANDOM SAMPLES 
+When using the discovery-sampling technique, the selection of samples should be done 
+randomly. For a sample to be random, every member of the population must have an equal 
+opportunity of being selected.  
+ 
+Items in the population can be numbered and selected by reference to a random number 
+table. Or if the items in the population already have numbers (such as check numbers or 
+invoice numbers) then a random sample can be selected by using a random number 
+generator from a computer software program. To select a random sample, (1) identify a 
+number for every item in the population, (2) correspond the random numbers with each 
+item in the population, (3) select the route through the random number table, and (4) select 
+the sample.  
+ 
+Additionally, make sure that you consistently follow the pattern picked for corresponding 
+random numbers to items in the population and that you document the random number 
+selection process in the event the sample needs rechecking or additional sample items need 
+to be selected for testing. If the sample is selected randomly and the sample is large enough, 
+then the sample should represent the population.  
+ 
+DOCUMENTS 
+Fraud will often be concealed in questionable documents. Missing or altered documents are 
+some of the principal indicators of fraud, and such occurrences should be thoroughly 
+investigated. Certain documents are a natural part of the accounting system. However, when 
+a pattern of these documents occurs, or an unusual quantity of these documents is noted, 
+further examination might be warranted. 
+ 
+The common-sense test should be applied to any document that appears to have 
+questionable features under the circumstances, such as amounts too high or too low; odd 
+names, times, and places; and identical names and addresses. Fraud can often involve 
+questionable journal entries in the records, such as inappropriate charges to expense 
+accounts or inventory. For example, large journal entries in the inventory accounts near the 
+end of the year might point to a cover-up of inventory theft. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.833 
+An overabundant number of voids might mean that a fraudster is voiding legitimate sales 
+and pocketing the proceeds. Excessive credit memos might also signal the reversal of 
+legitimate sales and the diversion of cash. Too many late charges might indicate that an 
+account receivable is delinquent because it is a fictitious account and, therefore, will never be 
+paid. Stale items on any reconciliation bear watching. For example, stale outstanding checks 
+may indicate attempted concealment of embezzlement losses or diverted cash. Original 
+documents, such as invoices, should be used to authorize transactions because photocopied 
+or duplicate documents can be subject to manipulation and alteration. 
+ 
+
+
+
+:
+
+
+statist sampl
+if an anomali is found in the financi statement and transact and further investig
+is desir it might be appropri to pull a statist sampl by us statist sampl
+the examin can look at fewer transact rather than the entir popul
+there ar two basic risk associ with statist sampl sampl risk and nonsampl
+risk sampl risk is the probabl that the sampl is not repres of the popul
+nonsampl risk is the possibl of make the wrong decis nonsampl risk cannot be
+quantifi howev fraud examin can control it through adequ plan and
+supervis of audit engag
+when us statist sampl you must draw a random sampl that is each member of
+the popul must have an equal chanc of be select there ar two primari type of
+statist sampl attribut and discoveri
+sampl for attribut
+sampl for attribut is us by auditor or fraud examin look for a deviat
+occurr rate deviat error and except ar synonym when perform thi type of
+sampl you ar look for the presenc or absenc of a defin condit
+exampl
+for each sale invoic in the sampl is there a correspond ship order the answer to the
+question can onli be ye or no if the control condit is that each sale invoic is not
+record until there ha been a ship order attach then ani no respons for a book
+sale would repres an error
+discoveri sampl
+thi is the best type of sampl for audit for fraud becaus it is sampl until on
+occurr is found discoveri sampl deal with the probabl of discov at least
+on error in a given sampl size if the popul error is a certain percentag thi type of
+sampl is direct toward a specif object such as
+exampl
+if i believ some kind of error or irregular might exist in the record what sampl size will i have to
+audit to have assur of find at least on exampl
+trace illicit transact investig
+3832 2011 fraud examin manual
+discoveri sampl is best us when look for thing such as forg check or
+intercompani sale that have been improperli classifi as sale to outsid
+random sampl
+when us the discoverysampl techniqu the select of sampl should be done
+randomli for a sampl to be random everi member of the popul must have an equal
+opportun of be select
+item in the popul can be number and select by refer to a random number
+tabl or if the item in the popul alreadi have number such as check number or
+invoic number then a random sampl can be select by us a random number
+gener from a comput softwar program to select a random sampl 1 identifi a
+number for everi item in the popul 2 correspond the random number with each
+item in the popul 3 select the rout through the random number tabl and 4 select
+the sampl
+addition make sure that you consist follow the pattern pick for correspond
+random number to item in the popul and that you document the random number
+select process in the event the sampl need recheck or addit sampl item need
+to be select for test if the sampl is select randomli and the sampl is larg enough
+then the sampl should repres the popul
+document
+fraud will often be conceal in question document miss or alter document ar
+some of the princip indic of fraud and such occurr should be thoroughli
+investig certain document ar a natur part of the account system howev when
+a pattern of these document occur or an unusu quantiti of these document is note
+further examin might be warrant
+the commonsens test should be appli to ani document that appear to have
+question featur under the circumst such as amount too high or too low odd
+name time and place and ident name and address fraud can often involv
+question journal entri in the record such as inappropri charg to expens
+account or inventori for exampl larg journal entri in the inventori account near the
+end of the year might point to a coverup of inventori theft
+investig trace illicit transact
+2011 fraud examin manual 3833
+an overabund number of void might mean that a fraudster is void legitim sale
+and pocket the proce excess credit memo might also signal the revers of
+legitim sale and the divers of cash too mani late charg might indic that an
+account receiv is delinqu becaus it is a fictiti account and therefor will never be
+paid stale item on ani reconcili bear watch for exampl stale outstand check
+mai indic attempt conceal of embezzl loss or divert cash origin
+document such as invoic should be us to author transact becaus photocopi
+or duplic document can be subject to manipul and alter

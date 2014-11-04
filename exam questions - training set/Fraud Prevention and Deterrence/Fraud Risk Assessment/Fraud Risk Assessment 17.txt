@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Which of the following individuals would generally be the best choice for a sponsor for a fraud risk assessment?
+
+Options=A CFO who has been known to command the use of extremely aggressive earnings-management practices | An independent audit committee member | A mid-level sales manager | A staff accountant
+
+CorrectResponse=1
+
+Explanation=Having the right sponsor for a fraud risk assessment is extremely important in ensuring its success and effectiveness. The sponsor must be senior enough in the organization and command the respect of the employees to elicit full cooperation in the process. The sponsor has to be someone who is committed to learning the truth about where the company‰??s fraud vulnerabilities really are. He can't be someone who is prone to rationalization or denial; he must be a truth seeker. In the ideal situation, the sponsor would be an independent board director or audit committee member. However, a good CEO or other internal senior leader can be equally as effectiveSee page(s) 4.805 in the Fraud Examiner's Manual

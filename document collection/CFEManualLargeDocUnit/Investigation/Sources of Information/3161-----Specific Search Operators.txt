@@ -1,0 +1,241 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/A Guide to Successful Internet Searching/Specific Search Operators
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+Specific Search Operators 
+Online researchers rely on search engines to search Web pages for specified keywords and 
+return a list of the Web pages containing the keywords. Although these engines return 
+results instantly and with little effort, the simplicity of these tools often removes the benefits 
+of more complex searching techniques. To determine a search engine or database’s abilities, 
+consult the service’s FAQ or search help page. 
+ 
+This section examines the advanced search features of the Google and Bing because they 
+provide some of the most robust and useful tools for experts conducting searches. 
+ 
+GOOGLE OPERATORS 
+In addition to the basic Boolean operators discussed above, several operators can smarten 
+up a Google search and return the right link faster.  
+ 
+Operators Search Results Example  
+~ Searches for synonyms of a given 
+word 
+[ automobiles ~glossary ]   will 
+find pages with automobiles  as well 
+as words like dictionaries, glossary, 
+encyclopedia, etc. 
+define: Returns definitions from websites for 
+the particular term 
+[ define:fraud ] will show 
+definitions for fraud.  
+site: Returns search results from only one 
+website 
+[ site:virtuallibrarian.com fraud ] 
+will find all fraud-related pages on  
+virtuallibrarian.com. 
+filetype: Searches for items with a particular 
+filetype 
+[ filetype:doc ] will restrict the 
+results to MS Word files matching 
+specified search terms.   
+link: Returns pages that  link to a particular 
+website 
+[ link:virtuallibrarian.com ] will 
+return pages with links to 
+virtuallibrarian.com.  
+Accessing Information Online  Investigation 
+3.514   2011 Fraud Examiners Manual  
+allintitle: Restricts results to those containing 
+all the search terms specified in the 
+title 
+[ allintitle: mortgage fraud ] will 
+return only documents that 
+contain the words mortgage  and 
+fraud in the title. 
+allintext: Returns documents containing all the 
+search terms in their text 
+[ allintext: fraud skimming 
+materiality ] will return only pages 
+in which the words fraud, skimming, 
+and materiality  appear in the text of 
+the page. 
+* Treated as a placeholder for one or 
+more words 
+[ “fraud * alert” ] tells Google to 
+find pages containing a phrase that 
+starts with fraud  followed by one or 
+more words, followed by alert. 
+ 
+In addition, Google operators can be combined. For example, the query [site:hp.com 
+filetype:pdf “5010 LaserJet” printer FAQ] will search for an Adobe Acrobat PDF file of 
+frequently asked questions regarding the 5010 LaserJet printer located on the Hewlett 
+Packard website. 
+ 
+There are numerous other operators and search techniques that work with each Google 
+search service. A good resource for less-known Google operators and search tips is 
+www.googleguide.com. 
+ 
+BING OPERATORS 
+Although Bing and Google share some of the same search resources, Bing has search 
+operators that are unique to its search engine.  
+ 
+Operators Search Results Example  
+contains: Searches for pages where there’s a 
+hyperlink to a file with the extension  
+[swimming dolphin 
+contains:wmv] will find wmv 
+clips of dolphins swimming.    
+inanchor: Returns pages that contain the specified 
+terms in the link anchors of Web pages 
+[inanchor: useful fraud sites] 
+searches for pages that are called 
+useful fraud sites by others. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.515 
+inbody: Restricts results to those containing all 
+the search terms specified in the body 
+[inbody: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their body.  
+intitle: Restricts results to those containing all 
+the search terms specified in the title 
+[intitle: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their title. 
+ip: Finds websites hosted by a specific IP 
+address 
+[ IP:198.46.34.22 ] finds 
+websites hosted by the specified 
+IP address.  
+prefer: Adds emphasis to a search term to help 
+focus the search results 
+[fraud prefer:Ponzi] specifies the 
+type of fraud that the user wants 
+to find.  
+ 
+ 
+
+
+
+:
+
+
+specif search oper
+onlin research reli on search engin to search web page for specifi keyword and
+return a list of the web page contain the keyword although these engin return
+result instantli and with littl effort the simplic of these tool often remov the benefit
+of more complex search techniqu to determin a search engin or databas abil
+consult the servic faq or search help page
+thi section examin the advanc search featur of the googl and bing becaus thei
+provid some of the most robust and us tool for expert conduct search
+googl oper
+in addit to the basic boolean oper discuss abov sever oper can smarten
+up a googl search and return the right link faster
+oper search result exampl
+search for synonym of a given
+word
+automobil glossari will
+find page with automobil as well
+as word like dictionari glossari
+encyclopedia etc
+defin return definit from websit for
+the particular term
+definefraud will show
+definit for fraud
+site return search result from onli on
+websit
+sitevirtuallibrariancom fraud
+will find all fraudrel page on
+virtuallibrariancom
+filetyp search for item with a particular
+filetyp
+filetypedoc will restrict the
+result to ms word file match
+specifi search term
+link return page that link to a particular
+websit
+linkvirtuallibrariancom will
+return page with link to
+virtuallibrariancom
+access inform onlin investig
+3514 2011 fraud examin manual
+allintitl restrict result to those contain
+all the search term specifi in the
+titl
+allintitl mortgag fraud will
+return onli document that
+contain the word mortgag and
+fraud in the titl
+allintext return document contain all the
+search term in their text
+allintext fraud skim
+materi will return onli page
+in which the word fraud skim
+and materi appear in the text of
+the page
+treat as a placehold for on or
+more word
+fraud alert tell googl to
+find page contain a phrase that
+start with fraud follow by on or
+more word follow by alert
+in addit googl oper can be combin for exampl the queri sitehpcom
+filetypepdf 5010 laserjet printer faq will search for an adob acrobat pdf file of
+frequent ask question regard the 5010 laserjet printer locat on the hewlett
+packard websit
+there ar numer other oper and search techniqu that work with each googl
+search servic a good resourc for lessknown googl oper and search tip is
+wwwgoogleguidecom
+bing oper
+although bing and googl share some of the same search resourc bing ha search
+oper that ar uniqu to it search engin
+oper search result exampl
+contain search for page where there a
+hyperlink to a file with the extens
+swim dolphin
+containswmv will find wmv
+clip of dolphin swim
+inanchor return page that contain the specifi
+term in the link anchor of web page
+inanchor us fraud site
+search for page that ar call
+us fraud site by other
+investig access inform onlin
+2011 fraud examin manual 3515
+inbodi restrict result to those contain all
+the search term specifi in the bodi
+inbodi secur fraud will
+return onli document that
+contain the word secur and
+fraud in their bodi
+intitl restrict result to those contain all
+the search term specifi in the titl
+intitl secur fraud will
+return onli document that
+contain the word secur and
+fraud in their titl
+ip find websit host by a specif ip
+address
+ip198463422 find
+websit host by the specifi
+ip address
+prefer add emphasi to a search term to help
+focu the search result
+fraud preferponzi specifi the
+type of fraud that the user want
+to find

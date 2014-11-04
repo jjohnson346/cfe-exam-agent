@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Billing for a higher level of medical service than was actually rendered is called which of the following?
+
+Options=Global service period violation | Fragmenting | Upcoding | Uplinking
+
+CorrectResponse=2
+
+Explanation=Upcoding is billing a higher level of service than the actual service rendered. One common form of upcoding is in the form of generic substitution‰??filling a prescription with a less expensive drug, while billing for the more expensive form of the drug.See page(s) 1.1227 in the Fraud Examiner‰??s Manual

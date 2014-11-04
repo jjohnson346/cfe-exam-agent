@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=White, an employee of ABC Corporation, intentionally issued two payments for the same invoice. After the disbursements had been mailed, White called the vendor and explained that a double payment had been made by mistake. She asked the vendor to return one of the checks to her attention When the vendor returned the check, White took it and cashed it. According to Corporate Fraud Handbook, this is an example of:
+
+Options=A receivables skimming scheme | A pay-and-retum scheme | A shell company scheme | A pass-through scheme
+
+CorrectResponse=1
+
+Explanation=In pay-and-retum schemes, employees intentionally mishandle payments which are owed to legitimate vendors. One way to do this is to purposely double-pay an invoice. For example, in one case a secretary was responsible for opening mail, processing claims, and authorizing payments. She intentionally paid some bills twice, then requested the recipients to return one of the checks. She would intercept these returned checks and deposit them into her own account.See page(s) 191-192 in the Corporate Fraud Handbook

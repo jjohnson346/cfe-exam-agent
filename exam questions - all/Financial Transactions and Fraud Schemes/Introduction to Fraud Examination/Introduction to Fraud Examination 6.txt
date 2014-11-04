@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=When interviewing a person during a fraud examination, the "tough" approach is usually best.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The examiner's attitude toward others affects their attitude toward him. A hostile attitude will create anxiety in the respondents, thereby causing them to become withdrawn and protective, even if there is no reason to do so. Contrary to lore, the successful investigator is rarely “tough," except when the need arises and toughness has been carefully planned and evaluated.See page(s) I-6 in the Fraud Examiner's Manual

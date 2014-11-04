@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Blue, a fraud suspect, has just given Red, a Certified Fraud Examiner, a written statement admitting embezzlement. After the statement was signed by Blue, he remembered a significant detail that should have been included in the written statement. How should Red handle this?
+
+Options=Add an addendum to the existing statement | Omit the significant detail | Destroy the old statement and prepare a new one | Any of the above, depending on the circumstances
+
+CorrectResponse=0
+
+Explanation=There should not be more than one written statement for each offense. If facts are inadvertently omitted, they can later be added to the original statement as an addendum. For legal purposes, prepare separate statements for unrelated offenses. This rule applies because the target may be tried more than once; once for each offense. Preserve all notes taken during an interview, especially those concerning a confession. Having access to pertinent notes can aid in a cross-examination regarding the validity of a signed statement. Stenographic notes, if any, also should be preserved Once a confession is obtained, substantiate it through additional investigation, if necessary. Don't destroy the statement once it has been signed.See page(s) 3.922 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The federal wire fraud statute requires ______________________ communication for a violation.  
+
+Options=Foreign | Interstate | Intrastate | Interstate or foreign
+
+CorrectResponse=3
+
+Explanation=Unlike mail fraud, the wire fraud statute requires an interstate or foreign communication for a violation.  See page(s) 2.232 in the Fraud Examiner's ManualAnswered this question (3567VPreviousr

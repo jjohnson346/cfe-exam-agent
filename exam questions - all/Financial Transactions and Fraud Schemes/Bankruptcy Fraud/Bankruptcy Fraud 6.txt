@@ -1,0 +1,11 @@
+Section=Bankruptcy Fraud
+
+Stem=Bankrupcy cases can be filed at either the federal or state level.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=All bankruptcy cases are filed in the local district of the United States Bankruptcy Court. Bankruptcy judges hear all cases involving debtors’ and creditors’ rights, approve plans of reorganization, award fees to professionals, and conduct hearings and trials when necessary to resolve disputes.
+See page(s) 1.1301 in the Fraud Examiner's Manual
+

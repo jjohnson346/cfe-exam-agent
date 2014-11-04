@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=After a civil jury trial, only the losing side may appeal from an adverse verdict.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Both sides may appeal from an adverse verdict, either as to liability or damages. As in the criminal system, the appellate court is largely limited to reviewing the legal decision of the court rather than the factual determination of the jury. The appeals court may reverse and remand for a new trial on some or all of the issues, may order that a certain portion of the awarded damages be remitted, or may enter final judgment, if legal grounds are clear, in favor of either party.See page(s) 2.615-2.616 in the Fraud Examiner's Manual

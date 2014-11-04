@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Off-book sales of goods always cause shrinkage.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Off-book sales of goods will always leave an inventory shortage and a corresponding rise in the cost of goods sold. When a sale of goods is made, the physical inventory is reduced by the amount of merchandise sold. If a retailer sells a pair of shoes, for instance, it has one less pair of shoes in the stock room. However, if this sale is unrecorded, the shoes remain on the inventory records. Thus, there is one less pair of shoes on hand than the records indicate. Such a reduction in the physical inventory without a corresponding reduction in the perpetual inventory is known as ‰??shrinkage.‰??See page(s) 92 in the Corporate Fraud Handbook

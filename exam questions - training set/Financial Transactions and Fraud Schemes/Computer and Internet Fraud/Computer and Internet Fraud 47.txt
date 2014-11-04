@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Logical access into a computer system refers to which of the following?
+
+Options=Physical security over the equipment and information | Application security over the software and libraries | Access to a computer system from any location where someone can sign on | Access to a computer system through the use of a mainframe
+
+CorrectResponse=2
+
+Explanation=In the 1960s and 1970s, access controls meant ensuring that there was a lock on the computer room door. As online systems were implemented, the definition of access evolved to mean logical access. Logical access refers to any location where someone can sign on to the system. That sign-on access can be a direct connection or a dial-up. In today's online, real-time, and interconnected world, it is easy to forget physical guards over computer equipment.See page(s) 1.1844 in the Fraud Examiner's Manual

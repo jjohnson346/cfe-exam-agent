@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=If the fraud examiner tests her hypothesis and finds that all the facts do not fit a particular scenario, the examiner should then
+
+Options=Look for a different suspect | Bring in a consultant | Revise and retest the hypothesis | Assume no fraud was committed
+
+CorrectResponse=2
+
+Explanation=In testing the hypothesis, the fraud examiner might find that all facts do not fit a particular scenario. If such is the case, the hypothesis should be revised and retested. (Obviously, if the known facts are tested with negative results, it could be that a fraud is not present, or it could indicate that the fraud cannot be proved.)See page(s) 1-10 in the Fraud Examiner's Manual

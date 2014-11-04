@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+total                                  1
+to                                     2
+result                                 1
+yield                                  1
+well                                   1
+from                                   1
+deposits                               3
+net                                    2
+of                                     1
+are                                    3
+would                                  1
+income                                 1
+redeposited                            1
+bank                                   1
+between                                1
+all                                    1
+these                                  1
+exchanges                              1
+transfers                              1
+accounts                               1
+or                                     1
+as                                     2
+in                                     1
+non-income                             1
+and                                    1
+that                                   1
+failure                                1
+funds                                  1
+items                                  2
+an                                     1
+overstatement                          1
+subtracted                             1
+eliminate                              1
+
+Totals:                     33        41

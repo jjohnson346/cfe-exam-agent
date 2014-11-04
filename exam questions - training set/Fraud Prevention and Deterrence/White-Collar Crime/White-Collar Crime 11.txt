@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=White-collar defendants are less likely to insist on a trial than other offenders.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=White-collar defendants are more likely to insist on a trial than other offenders. In at least 90 percent of federal cases, defendants will plead guilty, avoiding the expense and effort of a trial. But. over 18 percent of defendants in one notable study (as opposed to the usual 10 percent) pled ‰??Not Guilty." In cases like bank embezzlement, usually 'simple cases with clear evidence,‰?? plea bargains are easily negotiated and ‰??prosecutors may actively seek guilty pleas.‰??See page(s) 4.411 in the Fraud Examiner's Manual

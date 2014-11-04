@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Evidence which proves or disproves facts by inference is called direct evidence.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Direct evidence includes testimony that tends to prove or disprove a fact in issue directly, such as eyewitness testimony or a confession. Circumstantial evidence is evidence that tends to prove or disprove facts in issue indirectly, by inference.See page(s) 2.702 in the Fraud Examiner's Manual

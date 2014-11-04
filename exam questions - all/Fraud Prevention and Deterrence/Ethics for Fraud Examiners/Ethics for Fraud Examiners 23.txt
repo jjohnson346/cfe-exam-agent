@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Black, a Certified Fraud Examiner, was hired to conduct a fraud examination. He did not find fraud, but in Black's opinion, the controls he examined were deficient. Under the Certified Fraud Examiner Code of Professional Ethics, Black is not permitted to express his opinion on the deficient controls.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Article V of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE, in conducting examinations, will obtain evidence or other documentation to establish a reasonable basis for any opinion rendered. No opinion shall be expressed regarding the guilt or innocence of any person or party." Opinions, under Article V, may be given if there is a reasonable basis for it. The only opinions strictly not allowed are those regarding the guilt or innocence of any person or party.See page(s) 4.1001 in the Fraud Examiner’s Manual

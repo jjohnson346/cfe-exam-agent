@@ -1,0 +1,241 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/THEFT OF INTELLECTUAL PROPERTY/Social Engineering
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Theft of Intellectual Property
+
+
+:
+
+
+Social Engineering 
+In a social engineering scheme, the information thief manipulates people into handing over 
+secret information through use of trickery, persuasion, threats, or cajolery. The social 
+engineer usually, though not always, operates by phone or e-mail. In some cases, the social 
+engineer obtains direct information from her victim about a company’s business operations, 
+contracts, customer lists, or so on. In other cases, a hacker uses social engineering to obtain 
+passwords or otherwise gain access to a computer system. Social engineering is thought to 
+play at least some part in most computer system penetrations.  
+Theft of Intellectual Property  Financial Transactions   
+1.848                         2011 Fraud Examiners Manual  
+There are a wide variety of social engineering techniques; the only common denominator 
+being that the spy attempts to extract confidential information from an employee of the 
+target company through some form of trickery or deceit. Some of the more common 
+schemes are described in the following sections.  
+ 
+The Neophyte
+In one of the most common social engineering schemes, the spy calls the help desk of a 
+target company and claims to be a new employee on his first day at work. The spy complains 
+that he has not yet been given a password and so he has been unable to start his computer 
+and begin working. The help desk employee gives the spy a password, thereby enabling him 
+to enter the company’s system. Typically, the spy does not call the help desk directly in this 
+type of scheme. Instead, he calls another department and asks to be transferred to the help 
+desk so the call appears to be internal.  
+ 
+The Power Broker 
+In another common scheme, the attacker contacts the help desk and claims to be a high-
+ ranking company official, an influential client, or some other imposing figure. Background 
+searches of securities filings, government filings, company websites, or annual reports are 
+used to choose the fake identity the spy will use. The spy uses his false credentials to bully 
+the help desk into handing out passwords, remote-access software, or even some key piece 
+of business information.  
+ 
+The Systems Administrator  
+In this scheme, an information thief contacts a computer user in an organization and claims 
+to be an IT employee of the company. He tells the user that a “network problem” has been 
+identified with the user’s computer. The spy asks for the password the user logged on with 
+so he can fix the problem. Most employees are willing to give their password out to a 
+systems administrator when requested, making this technique very effective. In a similar 
+scheme, the spy will pass out a memo on customer letterhead asking users to verify their log-
+ on information for “security reasons.”   
+ 
+Fraudulent Surveys 
+Fake surveys are another common social engineering scheme. Posing as survey takers, either 
+in person or over the Internet, spies gather information from people about their names, 
+nicknames, ages, birth dates, names and birthdays of spouses or children, pets, favorite 
+hobbies, favorite song, favorite movie, and dozens of other personal preferences and 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.849 
+attributes. The theory is that most people choose a password that has some level of personal 
+importance. The spies take the responses from their “surveys” and try them as passwords 
+when they attempt to break into a system.  
+ 
+Fake Prizes 
+Finally, fake gift certificates or sweepstakes can be used to get access to a person’s password. 
+For instance, an employee of a target company is sent an e-mail gift certificate from a fake 
+vendor the spy has set up. The employee might be told the gift certificate is a prize, or that it 
+was purchased for them by a “secret admirer.” In any event, the employee only has to access 
+the vendor’s website in order to select the me rchandise he wants to buy with his gift 
+certificate. Of course, in order to make the purc hase he has to log onto a special area of the 
+website, which requires a user ID and password. The spy in this scheme is betting that the 
+employee will use the same user ID and password that he uses at work.  
+ 
+Reverse Social Engineering 
+Reverse social engineering creates the impression in the target’s mind that the spy is 
+someone who can help them. It is actually a form of false flag recruitment. The scam can be 
+perpetrated by telephone, e-mail, or regular mail. In a typical scheme, the spy poses as a 
+representative of some software company. He sends a message to the target indicating that a 
+software product (Product X) that the target owns has a possible defect. The target is 
+instructed to call the software company (the spy) with his user ID and password in order to 
+receive the fix. When the target calls, the spy obtains his access codes and then pronounces 
+that his edition of the product is okay. Now the spy has access to that software product (for 
+instance, a sensitive database) to use at will. 
+ 
+Countering Social Engineering 
+There are a number of security measures organizations can adopt to counteract social 
+engineering schemes. While a few technical solutions may help, the majority of controls for 
+this type of attack involve training employees to be aware of how social engineering works, 
+the data that spies will seek, and the information that employees are allowed to disseminate.  
+ 
+Help desk employees should be trained to ask specific, identifying questions before giving 
+out any information over the phone. The organization should clearly explain the minimum 
+identification requirements that callers must meet before information can be distributed. A 
+two-factor authentication rule should be mandatory. If a caller fails to identify himself 
+Theft of Intellectual Property  Financial Transactions   
+1.850                         2011 Fraud Examiners Manual  
+according to the authentication rule, the person taking the call should report this incident to 
+the security group as an unauthorized intrusion attempt.  
+ 
+When information is given out, it should be harmless, boilerplate information. Passwords or 
+personal identification numbers should never be distributed over the phone without 
+concrete proof of the caller’s identity. References to key administrative, technical, and billing 
+contacts for the corporate Internet domain should also be as anonymous as possible. If a 
+company does not list its domain administrator by title, then a spy may not know exactly 
+whom to impersonate when he calls the help desk. Techniques already discussed such as 
+properly disposing of confidential trash will also help prevent dumpster divers from coming 
+up with contact information that they can use to trick employees. 
+ 
+Employee awareness is another key to fighting social engineering. Employees may be told 
+what information to give out and what authentication factors to require, but it is another 
+thing to get them to follow these procedures. One of the most effective ways to promote 
+compliance with security policies is to make people aware of threats and actual instances of 
+social engineering attacks. Some organizations maintain internal websites or distribute 
+employee newsletters with stories about security breaches, along with prevention tips and 
+information.  
+ 
+An even more effective awareness method is to selectively test employees’ security readiness. 
+For instance, security personnel should call their own organization’s help desk to see what 
+information they can obtain without identifying themselves. It is also a good idea to run the 
+“systems administrator” scam on employees six months after they have started, to see if they 
+remember not to give out their passwords to random MIS calls. If employees give up 
+information without following procedures, they should get a stern warning about their 
+security responsibilities. This type of reminder will be remembered far longer than a  
+training session.  
+ 
+ 
+
+
+
+:
+
+
+social engin
+in a social engin scheme the inform thief manipul peopl into hand over
+secret inform through us of trickeri persuas threat or cajoleri the social
+engin usual though not alwai oper by phone or email in some case the social
+engin obtain direct inform from her victim about a compani busi oper
+contract custom list or so on in other case a hacker us social engin to obtain
+password or otherwis gain access to a comput system social engin is thought to
+plai at least some part in most comput system penetr
+theft of intellectu properti financi transact
+1848 2011 fraud examin manual
+there ar a wide varieti of social engin techniqu the onli common denomin
+be that the spy attempt to extract confidenti inform from an employe of the
+target compani through some form of trickeri or deceit some of the more common
+scheme ar describ in the follow section
+the neophyt
+in on of the most common social engin scheme the spy call the help desk of a
+target compani and claim to be a new employe on hi first dai at work the spy complain
+that he ha not yet been given a password and so he ha been unabl to start hi comput
+and begin work the help desk employe give the spy a password therebi enabl him
+to enter the compani system typic the spy doe not call the help desk directli in thi
+type of scheme instead he call anoth depart and ask to be transfer to the help
+desk so the call appear to be intern
+the power broker
+in anoth common scheme the attack contact the help desk and claim to be a high
+rank compani offici an influenti client or some other impos figur background
+search of secur file govern file compani websit or annual report ar
+us to choos the fake ident the spy will us the spy us hi fals credenti to bulli
+the help desk into hand out password remoteaccess softwar or even some kei piec
+of busi inform
+the system administr
+in thi scheme an inform thief contact a comput user in an organ and claim
+to be an it employe of the compani he tell the user that a network problem ha been
+identifi with the user comput the spy ask for the password the user log on with
+so he can fix the problem most employe ar will to give their password out to a
+system administr when request make thi techniqu veri effect in a similar
+scheme the spy will pass out a memo on custom letterhead ask user to verifi their log
+on inform for secur reason
+fraudul survei
+fake survei ar anoth common social engin scheme pose as survei taker either
+in person or over the internet spi gather inform from peopl about their name
+nicknam ag birth date name and birthdai of spous or children pet favorit
+hobbi favorit song favorit movi and dozen of other person prefer and
+financi transact theft of intellectu properti
+2011 fraud examin manual 1849
+attribut the theori is that most peopl choos a password that ha some level of person
+import the spi take the respons from their survei and try them as password
+when thei attempt to break into a system
+fake prize
+final fake gift certif or sweepstak can be us to get access to a person password
+for instanc an employe of a target compani is sent an email gift certif from a fake
+vendor the spy ha set up the employe might be told the gift certif is a prize or that it
+wa purchas for them by a secret admir in ani event the employe onli ha to access
+the vendor websit in order to select the me rchandis he want to bui with hi gift
+certif of cours in order to make the purc hase he ha to log onto a special area of the
+websit which requir a user id and password the spy in thi scheme is bet that the
+employe will us the same user id and password that he us at work
+revers social engin
+revers social engin creat the impress in the target mind that the spy is
+someon who can help them it is actual a form of fals flag recruit the scam can be
+perpetr by telephon email or regular mail in a typic scheme the spy pose as a
+repres of some softwar compani he send a messag to the target indic that a
+softwar product product x that the target own ha a possibl defect the target is
+instruct to call the softwar compani the spy with hi user id and password in order to
+receiv the fix when the target call the spy obtain hi access code and then pronounc
+that hi edit of the product is okai now the spy ha access to that softwar product for
+instanc a sensit databas to us at will
+counter social engin
+there ar a number of secur measur organ can adopt to counteract social
+engin scheme while a few technic solut mai help the major of control for
+thi type of attack involv train employe to be awar of how social engin work
+the data that spi will seek and the inform that employe ar allow to dissemin
+help desk employe should be train to ask specif identifi question befor give
+out ani inform over the phone the organ should clearli explain the minimum
+identif requir that caller must meet befor inform can be distribut a
+twofactor authent rule should be mandatori if a caller fail to identifi himself
+theft of intellectu properti financi transact
+1850 2011 fraud examin manual
+accord to the authent rule the person take the call should report thi incid to
+the secur group as an unauthor intrus attempt
+when inform is given out it should be harmless boilerpl inform password or
+person identif number should never be distribut over the phone without
+concret proof of the caller ident refer to kei administr technic and bill
+contact for the corpor internet domain should also be as anonym as possibl if a
+compani doe not list it domain administr by titl then a spy mai not know exactli
+whom to imperson when he call the help desk techniqu alreadi discuss such as
+properli dispos of confidenti trash will also help prevent dumpster diver from come
+up with contact inform that thei can us to trick employe
+employe awar is anoth kei to fight social engin employe mai be told
+what inform to give out and what authent factor to requir but it is anoth
+thing to get them to follow these procedur on of the most effect wai to promot
+complianc with secur polici is to make peopl awar of threat and actual instanc of
+social engin attack some organ maintain intern websit or distribut
+employe newslett with stori about secur breach along with prevent tip and
+inform
+an even more effect awar method is to select test employe secur readi
+for instanc secur personnel should call their own organ help desk to see what
+inform thei can obtain without identifi themselv it is also a good idea to run the
+system administr scam on employe six month after thei have start to see if thei
+rememb not to give out their password to random mi call if employe give up
+inform without follow procedur thei should get a stern warn about their
+secur respons thi type of remind will be rememb far longer than a
+train session

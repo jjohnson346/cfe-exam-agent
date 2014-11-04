@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Smith, a Certified Fraud Examiner for the ABC Corp., is in the process of interviewing Alfred, a parts clerk, about a theft of inventory. Smith is unsure if Alfred is involved in the theft. At the conclusion of the interview Smith should:
+
+Options=Review the key points discussed during the interview to ensure he has understood everything Alfred has said | Tell Alfred that he could be considered a suspect in the theft and observe his reaction | Not review the key points, thereby preventing Alfred from knowing what Smith considers important | None of the above
+
+CorrectResponse=0
+
+Explanation=When closing the interview, the examiner should go over the key points discussed during the body of the interview. The purpose of doing so is to make sure the examiner has the facts straight and the witness agrees with the examiner's summation. The examiner may also think of other questions to ask the witness which are related to the key points.See page(s) 3.234-3.235 in the Fraud Examiner's Manual

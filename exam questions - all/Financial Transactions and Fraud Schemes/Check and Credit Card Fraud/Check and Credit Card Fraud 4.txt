@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=One recent innovation has significantly reduced the incidence of check fraud among banks. This technique is which of the following?
+
+Options=Signature analysis | Electrostatic detection apparatus | Video spectral comparator | Inkless fingerprints
+
+CorrectResponse=3
+
+Explanation=A biometric fingerprint identifier requires the check writer to match fingerprints with the account holder’s, v/hich are on file. Banks reported reductions in check fraud of 40 percent after the machine was introduced in the mid-1990s. Non-account holders who want checks cashed at banks that have implemented this system are required to put an inkless fingerprint on their check. If the check does prove false, law enforcement will already have evidence regarding the fraudster's identity. The cost to a bank of implementing the inkless fingerprint system could be redeemed by preventing a single instance of check fraud. Banks throughout the nation now use this technique to cut fraud losses.See page(s) 1.1012 in the Fraud Examiner's Manual

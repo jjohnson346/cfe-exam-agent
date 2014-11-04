@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is the best description of what effective computer security systems are designed to accomplish?
+
+Options=Ensure accurate data to meet an organization's needs at a cost commensurate with the risks involved | Maintain data integrity and protect against inadvertent alterations | Ensure accurate data to meet an organization's needs and maintain confidentiality | Maintain data integrity and confidentiality
+
+CorrectResponse=0
+
+Explanation=Effective computer security ensures the availability of accurate data in time to meet an organization’s needs at a cost that is commensurate with the risks involved. Key elements include: protecting data and programs from intentional or inadvertent unauthorized alteration or destruction; maintaining the confidentiality, integrity, and availability of data: protecting the data center from physical threats such as fire, flood, and intentional destruction; and having the capability to restore data center operations in case of complete destruction.See page(s) 1.1839 in the Fraud Examiner's Manual

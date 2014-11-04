@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is NOT an example of a data analysis function that can be performed to detect fraud through examination of accounts receivable?
+
+Options=Generate depreciation-to-cost reports | Identify gaps in sequential forms such as invoices | Compare customer credit limits and current and past balances | Age accounts receivable in various formats
+
+CorrectResponse=0
+
+Explanation=The following are typical examples of data analysis queries that can be performed by data analysis software on accounts receivable:‰?¢	Create a list of customer limit increases and decreases‰?¢	Age accounts receivable in various formats‰?¢	Identify gaps in sequential forms such as invoices‰?¢	Identify duplicate invoices or customer account number entries‰?¢	Show specified reports on credits taken by customers‰?¢	Report customer summaries by invoice, product, etc.‰?¢	Identify customer activity by age, product, etc.‰?¢	Compare customer credit limits and current or past balancesSee page(s) 3.612 in the Fraud Examiner's Manual

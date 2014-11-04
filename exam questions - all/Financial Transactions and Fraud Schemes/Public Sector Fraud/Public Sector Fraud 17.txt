@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Which of the following is NOT one of the obstacles a government auditor might face when working with investigators from a government agency?
+
+Options=Investigators often have more cases than they can handle | Investigators are often reluctant to investigate cases they don't think will be prosecutedF | Investigators only investigate civil cases | Investigators might not be familiar with accounting concepts
+
+CorrectResponse=2
+
+Explanation=Government auditors frequently work with investigators from government agencies. Some of the investigators are specialists, while others handle a variety of cases. In addition, some investigators are assigned to civil cases, while others specialize in criminal activity. In working with the investigators, the auditors face the following challenges, the investigators might not be familiar with accounting concepts or terminology; the investigators are often reluctant to investigate cases they don’t think will be prosecuted; the investigators often have more cases than they can handle; and, given the wide case load many investigators handle, they might not be familiar with the auditor’s particular type of case.See page(s) 1.1923-1.1924 in the Fraud Examiner's Manual

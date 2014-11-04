@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Rogers, a Certified Fraud Examiner, is attempting to determine the owner of a building. Which of the following would be the best way for Rogers to find the owner?
+
+Options=Review the UCC filings at the secretary of state's office | Review the corporate charter located at the secretary of state's office | Review the city or county tax assessor's records	| Review the Fictitious Name Index located at the county courthouse
+
+CorrectResponse=2
+
+Explanation=A city tax assessor's office maintains maps of real property in the city, including a property’s dimensions, address, owner, taxable value, and improvements. A city tax collector's office maintains the following information:Names and addresses of payers of property taxes, even if the taxes were paid by individuals other than the apparent ownersLegal descriptions of propertyAmounts of taxes paid on real and personal propertyDelinquency status of taxesNames of former property ownersSee page(s) 3.413 in the Fraud Examiner's Manual

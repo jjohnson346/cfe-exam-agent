@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+total                                  1
+north                                  1
+descriptions                           1
+of                                     3
+stock                                  1
+officer                                1
+traded                                 1
+sales                                  1
+american                               1
+industry                               1
+annual                                 1
+symbol                                 1
+provides                               1
+companies                              2
+number                                 1
+assignments                            1
+and                                    1
+register                               2
+system                                 1
+naics                                  1
+including                              1
+names                                  1
+classification                         1
+public                                 1
+this                                   1
+publicly                               1
+brief                                  1
+employees                              1
+
+Totals:                     28        32

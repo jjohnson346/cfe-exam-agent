@@ -1,0 +1,26 @@
+Token                          Frequency
+-----------------------------  ---------
+financial                              1
+might                                  1
+holder                                 1
+deposit                                2
+associates                             1
+identify                               1
+the                                    3
+checks                                 2
+deposits                               2
+date                                   1
+currency                               1
+and                                    2
+of                                     5
+amounts                                1
+slips                                  1
+account                                3
+drawee                                 1
+records                                2
+also                                   1
+checking                               1
+reflect                                1
+banks                                  1
+
+Totals:                     22        35

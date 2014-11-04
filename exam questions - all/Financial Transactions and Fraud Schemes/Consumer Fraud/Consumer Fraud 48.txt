@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In a telemarketing scam, the person who reads vague words about the deal and records the victim's agreement is known as the:
+
+Options=Fronter | Verifier | Closer | None of the above
+
+CorrectResponse=1
+
+Explanation=The caller is passed to a verifier, who reads some vague words about the deal and records the person's agreement. These recordings are intentionally vague, leaving out the pitch and key details, essentially recording only the customer's consent. Verifiers also stall customers who call back to complain (heat calls), finding reasons why a little more patience will solve the problem, and in some cases, convincing the person to send a little more money to help the process along.See page(s) 1.1709-1.1710 in the Fraud Examiner's Manual

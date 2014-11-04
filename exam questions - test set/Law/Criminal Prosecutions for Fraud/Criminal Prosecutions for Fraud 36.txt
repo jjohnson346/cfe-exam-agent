@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under the Federal Rules of Criminal Procedure, the defendant in a U.S. criminal trial has the right to see copies of ___________________ prior to the time the defendant testifies.
+
+Options=All statements of witnesses made against him/her | All statements, regardless of who made them | All relevant statements made by him/her | None of the above
+
+CorrectResponse=2
+
+Explanation=The defendant may see, prior to trial, all relevant statements made by him/her. The defendant does not have the right, however, to see copies of statements of witnesses against him until after the witness testifies. In many cases, however, including fraud prosecutions in which there is little risk of reprisals or tampering with witnesses, the government may voluntarily produce these statement before trial.See page(s) 2.513 in the Fraud Examiner's Manual

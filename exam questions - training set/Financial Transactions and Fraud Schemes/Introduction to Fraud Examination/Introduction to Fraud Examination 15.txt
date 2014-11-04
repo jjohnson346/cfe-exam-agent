@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Which of the following is a common element of a white-collar crime?
+
+Options=Misrepresentation necessary to accomplish the scheme | Intent to commit a wrongful act | Concealment of the crime | All of the above are elements of white-collar crime
+
+CorrectResponse=3
+
+Explanation=While it is not possible or necessary to list every variation of white-collar crime and fraud, all have common elements, such as:‰?¢	Intent‰??knowingly to commit a wrongful act or to achieve a purpose inconsistent with law or public policy‰?¢	Disguise of purpose‰??falsities and misrepresentations employed to accomplish the scheme‰?¢	Reliance‰??by the offender on the ignorance or carelessness of the victim‰?¢	Voluntary victim action‰??to assist the offender‰?¢	Concealment‰??of the offenseSee page(s) 1-15 in the Fraud Examiner's Manual

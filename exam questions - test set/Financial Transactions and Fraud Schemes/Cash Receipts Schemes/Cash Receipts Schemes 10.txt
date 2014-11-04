@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Blue, a manager for a retail store, suspects his register employees of skimming off-book sales. Blue will be able to detect this kind of scheme by comparing their register tape totals to the amount of money in their cash drawers.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=When an employee skims money by making off-book sales of merchandise, it is impossible to detect theft by comparing the register tape to the cash drawer because the sale was not recorded on the register.See page(s) 74 in the Corporate Fraud Handbook

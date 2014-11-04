@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The U.S. Office of the Comptroller of the Currency regulates national banks and maintains information concerning them.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Office of the Comptroller of the Currency, which is within the U.S. Department of the Treasury, regulates national banks and maintains information concerning them. National bank examinations are made to determine banks' financial positions and to evaluate bank assets. Bank examiners' reports contain information about bank records, loans, and operations. In view of their purpose and the basis on which they are obtained, reports of national bank examinations, as well as related correspondence and papers, are considered confidential. Requests for these documents should include the subject's name and address, the information desired, the reason it is needed, and the intended use.See page(s) 3.477 in the Fraud Examiner's Manual

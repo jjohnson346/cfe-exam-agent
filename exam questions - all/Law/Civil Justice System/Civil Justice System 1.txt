@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=A civil lawsuit begins with the following action:
+
+Options=Filing of a complaint | Filing a discovery motion | Conducting an investigation | None of the above
+
+CorrectResponse=0
+
+Explanation=A civil action begins with the filing of a complaint in the appropriate court, usually in the jurisdiction in which the defendant resides, the plaintiff resides, or where the claim arose. A complaint is a short statement showing the court's jurisdiction, the grounds for relief, and a demand for judgment.See page(s) 2.601 in the Fraud Examiner's Manual

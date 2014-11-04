@@ -1,0 +1,749 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/What Constitutes a Security?
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+What Constitutes a Security? 
+The definition of securities in both state and federal law includes instruments that can easily 
+be identified as securities. These more traditional securities are usually easy to spot.  
+ 
+Traditional Securities 
+Types of investments most commonly recognized as securities include: 
+ 
+Stocks 
+A stock is an equity that represents a right of ownership in a corporation. There are many 
+different classes including common, preferred, non-voting, and restricted. 
+ 
+Securities Fraud  Financial Transactions   
+1.1516                           2011 Fraud Examiners Manual  
+Bonds 
+A bond is a debt instrument. Examples include treasury bills, corporate bonds, municipal 
+bonds, and junk bonds. Although the term junk bonds has a very negative connotation, they 
+are simply high-risk, below-investment-grade, commercial bonds. 
+ 
+Certificates of Deposit 
+A certificate of deposit (CD) is acknowledgement by a bank of the receipt of money with a 
+promise to repay it with interest. 
+ 
+Less obvious, but still clearly securities are: 
+ 
+Futures 
+A future is a contract agreeing to buy or sell a specified quantity of something (such as foreign 
+currency or commodities) at some future time at a price agreed upon now. In futures 
+contracts, the delivery or sale of the product is assumed, and the investor has an obligation 
+to fulfill the contract. Note that in reality, few futures contracts actually result in delivery. 
+Usually, the investor will enter into offsetting futures contracts prior to the delivery date. As 
+futures contracts are freely transferable, the two transactions can offset each other. 
+ 
+Options 
+An investor can purchase an option to buy (known as a “call”) or sell (known as a “put”) an 
+asset (such as stocks, bonds, commodities, or real estate) on or before a future date at a price 
+agreed upon now. With an option, the investor buys the right, but not the obligation, to 
+perform the contract. The price paid for the option is known as the option premium. The 
+price at which the option may be exercised is known as the strike price. Of course, once an 
+option has expired it ceases to have any value whatsoever. 
+ 
+Futures and options are essentially methods of managing price risk, often called “hedging.” 
+They can be used, for example, by farmers or international manufacturing companies as a 
+form of insurance against adverse price or currency exchange rate changes. They are 
+examples of derivatives. Many esoteric types of  investment vehicles have been created, often 
+using complex mathematical models. These derivative products allow trading to take place in 
+various indices (for example the Dow Jones Industrial Index or the Standard and Poor’s 500) 
+and also in securities known as strips, collateralized mortgage obligations, and leaps. 
+ 
+Futures and options are discussed in more detail below. 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1517 
+Investment Contracts 
+Other transactions are less obviously securities, but fall under the catch-all category of an 
+“investment contract.” Unfortunately, the term “investment contract” is not usually defined 
+by statute, and it is, therefore, necessary to look to case law to determine whether a particular 
+transaction may constitute an investment contract. Many fraudulent schemes involving 
+exotic investments can be argued to constitute the offer or sale of investment contracts. 
+ 
+The Howey Test 
+In the case SEC v. Howey Co., 328 U.S. 293, 299 (1946), a company was selling subdivided 
+sections of a Florida orange orchard that were to be managed by a subsidiary company. In its 
+opinion in the case, the U.S. Supreme Court outlined a four-element test to determine if an 
+investment contract was present. In essence, the Supreme Court stated that there must be: 
+• An investment  of money or other asset.  
+• A common enterprise.  In very general terms, the common enterprise requirement means the 
+success of the investor is dependent on the efforts and success of those seeking the 
+investment of third parties (typically the promoter). The third party, who provides the 
+entrepreneurial skill, shares in the profits (or losses) with the investor. Usually, the 
+common enterprise requirement will be met where “the fortunes of the investor are 
+interwoven with and dependent upon the efforts and success of those seeking the 
+investment or a third-party.” See SEC v. Glenn W. Turn er Enterprises, Inc.,  474 F.2nd 476, 
+482 n.7 (9th Circuit, 1973). 
+• An expectation of profits. Profit is generally defined to be either money received for the use 
+of capital or capital appreciation. In United Housing Foundation, Inc. v. Forman, 421 U.S. 837 
+(1975), stock sold to potential apartment renters, which would be applied to their 
+security deposit, was not held to be an investment contract because the individuals were 
+attracted solely by the prospect of somewhere to live, not financial return on their 
+money. 
+• Profit must be generated solely from the efforts of others.  The essential managerial efforts, which 
+affect the success or failure of the enterprise, come from the third party (the promoter) 
+not the investor. In Howey, the subsidiary company was to plant, cultivate, and harvest 
+the oranges. As a general rule, the more actively involved an investor is in the enterprise, 
+the less likely it is that an investment contract will be held to exist. Subsequent case law 
+has diluted “solely” to “primarily” or “substantially” from the efforts of others. 
+Nevertheless, if the investor’s efforts  are significant in the success of the enterprise, an 
+investment contract will not be found to exist. For example, in the Forman case 
+mentioned above, the court stated “an in vestment contract is the presence of an 
+Securities Fraud  Financial Transactions   
+1.1518                           2011 Fraud Examiners Manual  
+investment in a common venture premised on a reasonable expectation of profits to be 
+derived from the entrepreneurial or managerial efforts of others.” 
+ 
+Risk Capital Test  
+As an alternative to the Howey Test many state and federal courts are using the so-called 
+“Risk Capital Test.” This “test” allows the invest or to play a more active role if the funds he 
+contributes are part of the “risk capital” of the business. A person entrusts money or other 
+capital to another with the expectation of deriving a profit. The failure or success of the 
+venture is dependent upon the managerial efforts of the other person. Several states have 
+formally adopted this test, sometimes known as the Hawaii Market Test, as an alternative 
+definition of investment contract. However, the Supreme Court has expressly declined to 
+decide if this test should be used. 
+ 
+Examples of Investment Contracts 
+Following are types of investments that frequently qualify as “investment contracts” and are, 
+therefore, considered securities. Several types of related frauds are also listed to demonstrate 
+the broad and expansive nature of investment contract schemes. More information about 
+these schemes can also be found in the Consumer Fraud section. 
+ 
+PONZI SCHEMES 
+A Ponzi scheme is named after Charles Ponzi who, in the early 1920s, persuaded tens of 
+thousands of Bostonians to invest over $10 million. He created an entity, aptly named the 
+Securities and Exchange Company, and issued investors a promissory note guaranteeing a 50 
+percent return in 90 days on every $1,000 invested. 
+ 
+The scheme involved the alleged buying of international postal reply coupons in Europe 
+using foreign currencies, which had depreciated substantially against the dollar in the years 
+after World War I. Ponzi claimed that these coupons, bought at a discount, could then be 
+redeemed at full face value, yielding a substantial profit. 
+ 
+There were two main problems. First, although Ponzi claimed to be trading over $10 million 
+worth of postal reply coupons, only a few hundred thousand dollars worth actually existed. 
+A more fatal flaw was the fact that the scheme relied on new investor funds to pay returns to 
+earlier investors. In August 1920, after the inevitable collapse of his scheme, Ponzi was 
+arrested for mail fraud and larceny. Ponzi served jail time and was later deported to his 
+native Italy. 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1519 
+Of course, the most infamous and costly Ponzi scheme was that of Bernard Madoff. In 
+2009, Madoff pleaded guilty to eleven felonies, including one count of securities fraud, one 
+count of wire fraud, one count of mail fraud, and three counts of money laundering. He was 
+sentenced to 150 years in prison. He has also been ordered to forfeit $170 billion dollars (the 
+amount prosecutors say flowed through his business).  
+ 
+Madoff told his clients that he generated such high returns by employing a “split-strike 
+conversion” investment strategy, which is a fairly common approach that involves a 
+combination of stocks and options. Under this strategy, an investor attempts to generate 
+predicable returns and reduce volatility by holding a portfolio of stocks closely correlated to 
+an index while concurrently selling options on a stock index and buying put options on the 
+same index. 
+ 
+In reality, however, Madoff did not invest any of his clients’ money. According to Irving 
+Picard, the trustee overseeing the liquidation of Madoff’s assets, there was “no evidence to 
+indicate securities were purchased for customer accounts.” Instead, Madoff simply deposited 
+his clients’ money into his business account, which he then used to pay clients who 
+requested withdrawals. In other words, Madoff was running a Ponzi scheme.  
+ 
+Unfortunately for Madoff, his scheme began to unravel in December 2008, when the 
+financial crisis caused an increasing demand of cash withdrawals from his clients. The 
+increase in redemptions caused his scheme to collapse when there were not enough funds 
+from new investments to pay them off, and so, like all Ponzi schemes, it collapsed. The 
+“Consumer Fraud” chapter contains more detail about the Madoff case. 
+ 
+PYRAMID SCHEMES 
+These typically involve a scheme whereby fees or dues paid by a member to join an 
+organization are to be paid to another member and there is a provision for increasing 
+membership through a chain process of new members bringing in other new members. The 
+members make money not by commission on the bona fide retail sale of a legitimate 
+product, but by signing up new people. An organizational structure that, like the Ponzi 
+scheme, relies on bringing in new people must eventually collapse. Although all pyramid 
+schemes are fraudulent, and in many states specifically deemed illegal, not all pyramid 
+schemes necessarily meet the Howey Test.   
+  
+Securities Fraud  Financial Transactions   
+1.1520                           2011 Fraud Examiners Manual  
+WORM, RABBIT, AND OSTRICH FARMS 
+Although sometimes amusing when viewed objectively by the investigator, many investors 
+have been defrauded by being persuaded to invest in exactly these types of opportunities. 
+Fraud examiners can practice applying the Howey Test to these types of cases in an attempt 
+to determine whether an investment contract exists. What, if anything, does the investor 
+need to do in order to get the promised return? If, for example, the investor’s involvement is 
+purely passive, then an investment contract will be held to exist. However, where the 
+investor is involved in feeding the ostriches and marketing the meat, then the last element of 
+the Howey Test fails. 
+ 
+PRIME BANK FRAUD 
+These schemes involve the issuance and purported trading of so-called “prime bank” notes 
+or other high-yield investment opportunities. Investors are often told that they can obtain 
+returns exceeding several hundred percent per year when their funds are placed in an off-
+ shore trading program. Excessive complexity and secrecy generally characterize these 
+fraudulent programs. Investors are usually told that this opportunity is only available to a 
+select few and the signing of non-disclosure agreements is mandatory. Typically the 
+explanation of how the program actually works is full of obscure terminology and makes 
+reference to legitimate banks or organizations such as the International Monetary Fund 
+(IMF) to lend credibility. Often, investors are told that there is little or no risk of losing their 
+principal. Despite warnings published by the state regulators, the SEC, the IMF, the 
+International Chamber of Commerce, and the World Bank, this type of fraud continues to 
+fleece millions of dollars from investors worldwide. 
+ 
+PRECIOUS METAL SCHEMES 
+Typically these involve the purchase of interests in gold or silver coins, bullion, diamonds, 
+and other precious or semi-precious stones.  
+ 
+VIATICALS 
+A viatical settlement involves the sale by a terminally ill person, at a discount, of the right to 
+death benefits from the proceeds of their life insurance policy. In and of itself, this does not 
+constitute the offer or sale of a security. However, an industry has evolved to buy these 
+rights and then sell fractional interests in them to investors. Frequently, these policy rights 
+are pooled and the investors are sold an interest in the pool. Investor returns increase 
+according to how deeply the policy is discounted and are inversely related to how long the 
+beneficiary survives. Whether such investments constitute securities is a matter of 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1521 
+considerable debate. In July 1996, the Circuit Court of Appeals for the District of Columbia 
+held that viatical settlements sold by Life Pa rtners were not securities because the profits do 
+not predominantly derive from the efforts of a party other than the investor. See, SEC v. Life 
+Partners, Inc. 87 F. 3d 536 (D.C. Cir 1996). The appellate court ruled, in essence, that the 
+ministerial functions performed by Life Partners did not have an impact on the profits of the 
+investor and therefore that the last part of the Howey Test was not met. 
+ 
+PARTNERSHIPS 
+Interests in limited partnerships are generally held to be securities because this type of 
+structure conforms closely to Howey. General partnerships will not usually be held to be 
+securities. This is normally because in a true general partnership the partners take an active 
+role in the operation of the business. However, be warned that some promoters will try to 
+disguise an investment contract as a general partnership. It is important to look beyond the 
+surface wrapping and determine if the partners really take an active role in operating the 
+entity. Some investment opportunities involving wireless cable and pay telephone leasing are 
+good examples of this tactic.  
+  
+JOINT VENTURES 
+Interests in a joint venture will often be found to be securities. The Howey Test should be 
+applied and, as with partnership interests, careful attention should be paid to the extent to 
+which the investor actively participates in the management or operation of the business.  
+ 
+OIL, GAS, AND MINERAL INTERESTS 
+Usually the sale of fractional ownership of oil and gas wells, or mineral rights constitutes the 
+sale of a security. The misrepresentations and omissions found in oil and gas scams are often 
+repeated in other mineral mining schemes, such as gold or coal. Investors have a right to be 
+advised of the risks inherent in a securities investment and oil/gas opportunities are 
+traditionally very high risk. If investors have been assured or guaranteed of success in 
+striking oil, fraud examiners should consider that a red flag. Naturally, as in all cases of 
+securities fraud, one should look for discrepancies in promoters’ credentials, business 
+history, and commission. The following types of misrepresentations and omissions are often 
+encountered: 
+• Drilling and completion costs — Costs are often hugely inflated to bilk the investor. 
+• Lease — Promoters frequently do not have a valid mineral rights lease. 
+  
+Securities Fraud  Financial Transactions   
+1.1522                           2011 Fraud Examiners Manual  
+• Discovery and production potential — The investor may be misled regarding the 
+likelihood of striking oil and the amount produced. This information is usually contained 
+in the geologist’s report. 
+• Wells — The promoter may exaggerate the number and depth of wells, thus inflating the 
+operating costs paid by investors. 
+• Self-dealing — The promoter may declare a good well dry in order to reap the benefits of 
+a productive well later when the investors have given up. 
+• Dry holes — Often these are completed by the promoter solely to improve his 
+completion record and collect completion funds from investors. 
+• Royalties — Insiders may be assigned the majority of royalties while investors receive only 
+a small portion. 
+• Number of partners — Promoters are likely to oversell the well, i.e., 99/64ths. 
+ 
+Occasionally, the investment may be a complete fabrication. This is even more likely in 
+overseas mineral investments. Geologists’ re ports may be falsified or promoters may  
+rely on investors’ reluctance to travel to remote spots in order to see their well or mine  
+for themselves.  
+ 
+EXAMPLE 
+A good example of this is the Bre-X gold scandal that occurred in the spring of 1997. The 
+Canadian mining company claimed to have found the largest gold deposit discovered in the 
+twentieth century in Busang, on the island of Borneo. Share pric es of the before unheard of, 
+penny-stock company skyrocketed as rumors of the tremendous discovery circulated. 
+Optimistic investors largely ignored the red flags that began to emerge. The initial concern 
+that most had was that the mine was located in Indonesia, creating potential difficulties due 
+to poor U.S. relations with that country.  
+ 
+Not to be deterred by proximity or diplomatic difficulties, investors continued to avidly 
+acquire stock in the former junior mining company. Bre-X geological reports of as many as 
+5.68 grams of gold per ton continued the trend. Then, however, a multitude of problems 
+seemed to arise. 
+ 
+The accuracy of the sampling began to come into question. Instead of preserving parts of the 
+core samples for verification, Bre-X allowed them to be crushed. And soon after, a fire 
+destroyed the geologists’ records, further casting the veracity of the discovery into doubt. 
+Insiders began surreptitiously selling off large amounts of their shares. News that the 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1523 
+Indonesian government had withheld key permits was concealed from investors. After the 
+exploration manager’s mysterious death (he supposedly committed suicide by jumping out of 
+a helicopter), share prices plunged from approximately C$100 to around C$2. Bre-X’s 
+market value declined by 90 percent. The Ontario Municipal Employees Retirement 
+System lost C$45 million and Canada’s Caisse de dépôt et placement du Québec recorded 
+a loss of C$70 million. The core samples, it was later revealed, had been “salted.” 
+ 
+The most disturbing aspect of this case is the severe handicap investigators faced caused by 
+jurisdictional questions. “This could be a monumental scam that will be nearly impossible 
+to prosecute,” said a private investigator wo rking on the case. He explains some of the 
+difficulties, “No one really has jurisdiction. The salting [of the gold samples] took place in 
+Indonesia, but what laws were really broken in that country? The law against salting? 
+There is none. The law against deceiving shareholders? That happened in Canada and the 
+U.S. Most of the main suspects probably disappeared in the Philippines. But what law did 
+they break in the Philippines? Are they fugitives? No. Can a prosecutor in Canada get a 
+warrant for those guys in the Philippines for what they did in Indonesia? Very tricky.” 
+ 
+In Indonesia, no extradition or law-enforcement cooperation agreements exist with Canada 
+or the U.S., which means the criminal investigation is being handled by the Indonesians 
+themselves. Likewise, though the U.S. Embassy in Jakarta has been asked by 
+Washington to look into the Busang fraud, the U.S. and Indonesia have a poor track 
+record of cooperating in criminal matters.  
+ 
+Investors in such ventures can easily find themselves with no legal recourse if things go 
+wrong. Obviously, different countries have varying laws regarding investor rights. Naturally, 
+this makes investigating a case such as this quite difficult. The principals of Bre-X claimed 
+not to have known about sample salting. They portrayed themselves as victims and blamed 
+the geologists for the fraudulent samples. The geologists, however, were Philippine nationals 
+and retreated to their homeland, further complicating the investigation. The Philippine 
+government suspects foul play in the death of the head geologist, Michael de Guzman, and is 
+more concerned with the Indonesian inquiry into the matter than with turning over their 
+countrymen for questioning. 
+ 
+When examining the case from a “follow the money” standpoint, the trail seems to lead to 
+Bre-X insiders. Even as they concealed news of  permits being withheld by the Indonesian 
+government, insiders secretly sold off huge amounts of stock at great profit. According to 
+Securities Fraud  Financial Transactions   
+1.1524                           2011 Fraud Examiners Manual  
+the Wall Street Journal, Bre-X Chairman David Walsh, Vice Chairman and Chief Geologist 
+John Felderhof, and two other executives sold nearly C$38 million of stock. 
+ 
+HEDGE FUNDS 
+Although there is no statutory or regulatory definition of “hedge fund,” the term typically 
+refers to private pooled investment vehicles managed by advisers who generally have a very 
+large financial interest in the funds based on a management fee that includes a percentage of 
+the fund’s performance. Hedge funds employ various speculative and aggressive strategies 
+that are not commonly available to mutual funds. They often combine traditional 
+investments with short sales, leveraging, and arbitrage strategies to maximize returns.  
+ 
+In the past few years, the U.S. securities market has seen a significant growth in the number 
+and size of hedge funds. According to the SEC, assets under management by hedge funds 
+have grown dramatically and are now estimated to exceed $2 trillion. This is a massive jump 
+from the $38 billion hedge fund industry in 1990. Consequently, hedge fund fraud has grown 
+substantially enough for the SEC to take extraordinary measures to regulate it. Between 2000 
+and 2004, the SEC brought 51 cases against hedge fund advisers for defrauding hedge fund 
+investors or using the funds to defraud others. In 2005, the SEC brought 11 hedge fund 
+fraud cases and had several investigations underway. In 2007, the SEC created a hedge fund 
+working group within the Division of Enforcement. Working with other federal law 
+enforcement agencies and self-regulatory organizations, the group leads agency efforts to 
+combat hedge fund insider trading. In the most significant insider trading case in 20 years, 
+the SEC filed charges in 2007 against 14 defendants in a scheme involving hedge funds that 
+netted more than $15 million in illegal profits on thousands of trades, using information 
+stolen from UBS Securities LLC and Morgan Stanley.    
+ 
+With the enormous growth in the hedge fund industry, advisers are becoming more 
+aggressive and less meticulous in their transactions. Typical hedge fund fraud by investors 
+includes: 
+• Theft of investor assets;  
+• Late trading;  
+• Insider trading;  
+• Overvaluation of portfolios;  
+• Entering into inappropriate timing arrangements;  
+• Exploitation of mutual fund investors for private gain;  
+• Entering into inappropriate arrangements with mutual fund advisers in which the mutual 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1525 
+fund advisers waive restrictions on market timing in exchange for placement of other 
+assets by the hedge fund adviser in funds managed by a mutual fund adviser; and  
+• Conspiring with intermediaries to identify hedge funds from mutual fund personnel. 
+ 
+PROMISSORY NOTES 
+A note is defined as a security, but in practice, the law is more complicated than that. Under 
+certain circumstances, promissory notes are not held to be securities. A note is presumed to 
+be a security unless it bears a strong resemblance to a category of instruments that are not 
+securities. Generally, longer-term commercial paper is similar in many respects to a bond and 
+may be held to be a security unless it relates to such transactions as consumer finance or 
+residential mortgages. For example, in the case of a residential mortgage, the note you sign is 
+simply a promise to repay, not a method to raise capital for some business venture.  
+ 
+With notes and other potential securities it is often helpful to apply the family resemblance 
+test and look at three things: 
+ 
+MOTIVE AND EXPECTATION  
+What is the issuer’s primary motive? If it is to raise money for the general use of a business 
+enterprise then a security may be held to exist. What is the buyer’s primary motive? Is it 
+really a loan or an investment-type transaction? What is a reasonable investor thinking? What 
+are his expectations? 
+ 
+PLAN OF DISTRIBUTION   
+Is there some form of common trading? If so, a security probably exists. 
+ 
+REGULATION  
+Is there some other regulatory system that significantly reduces the risk of the transaction 
+thereby rendering the application of the securities laws unnecessary? If the transaction is 
+deemed appropriately regulated in ways other than through the application of the securities 
+laws, then it is less likely that securities laws will be brought to bear. 
+ 
+ 
+
+
+
+:
+
+
+what constitut a secur
+the definit of secur in both state and feder law includ instrument that can easili
+be identifi as secur these more tradit secur ar usual easi to spot
+tradit secur
+type of invest most commonli recogn as secur includ
+stock
+a stock is an equiti that repres a right of ownership in a corpor there ar mani
+differ class includ common prefer nonvot and restrict
+secur fraud financi transact
+11516 2011 fraud examin manual
+bond
+a bond is a debt instrument exampl includ treasuri bill corpor bond municip
+bond and junk bond although the term junk bond ha a veri neg connot thei
+ar simpli highrisk belowinvestmentgrad commerci bond
+certif of deposit
+a certif of deposit cd is acknowledg by a bank of the receipt of monei with a
+promis to repai it with interest
+less obviou but still clearli secur ar
+futur
+a futur is a contract agre to bui or sell a specifi quantiti of someth such as foreign
+currenc or commod at some futur time at a price agre upon now in futur
+contract the deliveri or sale of the product is assum and the investor ha an oblig
+to fulfil the contract note that in realiti few futur contract actual result in deliveri
+usual the investor will enter into offset futur contract prior to the deliveri date as
+futur contract ar freeli transfer the two transact can offset each other
+option
+an investor can purchas an option to bui known as a call or sell known as a put an
+asset such as stock bond commod or real estat on or befor a futur date at a price
+agre upon now with an option the investor bui the right but not the oblig to
+perform the contract the price paid for the option is known as the option premium the
+price at which the option mai be exercis is known as the strike price of cours onc an
+option ha expir it ceas to have ani valu whatsoev
+futur and option ar essenti method of manag price risk often call hedg
+thei can be us for exampl by farmer or intern manufactur compani as a
+form of insur against advers price or currenc exchang rate chang thei ar
+exampl of deriv mani esoter type of invest vehicl have been creat often
+us complex mathemat model these deriv product allow trade to take place in
+variou indic for exampl the dow jone industri index or the standard and poor 500
+and also in secur known as strip collater mortgag oblig and leap
+futur and option ar discuss in more detail below
+financi transact secur fraud
+2011 fraud examin manual 11517
+invest contract
+other transact ar less obvious secur but fall under the catchal categori of an
+invest contract unfortun the term invest contract is not usual defin
+by statut and it is therefor necessari to look to case law to determin whether a particular
+transact mai constitut an invest contract mani fraudul scheme involv
+exot invest can be argu to constitut the offer or sale of invest contract
+the howei test
+in the case sec v howei co 328 us 293 299 1946 a compani wa sell subdivid
+section of a florida orang orchard that were to be manag by a subsidiari compani in it
+opinion in the case the us suprem court outlin a fourel test to determin if an
+invest contract wa present in essenc the suprem court state that there must be
+an invest of monei or other asset
+a common enterpris in veri gener term the common enterpris requir mean the
+success of the investor is depend on the effort and success of those seek the
+invest of third parti typic the promot the third parti who provid the
+entrepreneuri skill share in the profit or loss with the investor usual the
+common enterpris requir will be met where the fortun of the investor ar
+interwoven with and depend upon the effort and success of those seek the
+invest or a thirdparti see sec v glenn w turn er enterpris inc 474 f2nd 476
+482 n7 9th circuit 1973
+an expect of profit profit is gener defin to be either monei receiv for the us
+of capit or capit appreci in unit hous foundat inc v forman 421 us 837
+1975 stock sold to potenti apart renter which would be appli to their
+secur deposit wa not held to be an invest contract becaus the individu were
+attract sole by the prospect of somewher to live not financi return on their
+monei
+profit must be gener sole from the effort of other the essenti manageri effort which
+affect the success or failur of the enterpris come from the third parti the promot
+not the investor in howei the subsidiari compani wa to plant cultiv and harvest
+the orang as a gener rule the more activ involv an investor is in the enterpris
+the less like it is that an invest contract will be held to exist subsequ case law
+ha dilut sole to primarili or substanti from the effort of other
+nevertheless if the investor effort ar signific in the success of the enterpris an
+invest contract will not be found to exist for exampl in the forman case
+mention abov the court state an in vestment contract is the presenc of an
+secur fraud financi transact
+11518 2011 fraud examin manual
+invest in a common ventur premis on a reason expect of profit to be
+deriv from the entrepreneuri or manageri effort of other
+risk capit test
+as an altern to the howei test mani state and feder court ar us the socal
+risk capit test thi test allow the invest or to plai a more activ role if the fund he
+contribut ar part of the risk capit of the busi a person entrust monei or other
+capit to anoth with the expect of deriv a profit the failur or success of the
+ventur is depend upon the manageri effort of the other person sever state have
+formal adopt thi test sometim known as the hawaii market test as an altern
+definit of invest contract howev the suprem court ha expressli declin to
+decid if thi test should be us
+exampl of invest contract
+follow ar type of invest that frequent qualifi as invest contract and ar
+therefor consid secur sever type of relat fraud ar also list to demonstr
+the broad and expans natur of invest contract scheme more inform about
+these scheme can also be found in the consum fraud section
+ponzi scheme
+a ponzi scheme is name after charl ponzi who in the earli 1920 persuad ten of
+thousand of bostonian to invest over 10 million he creat an entiti aptli name the
+secur and exchang compani and issu investor a promissori note guarante a 50
+percent return in 90 dai on everi 1000 invest
+the scheme involv the alleg bui of intern postal repli coupon in europ
+us foreign currenc which had depreci substanti against the dollar in the year
+after world war i ponzi claim that these coupon bought at a discount could then be
+redeem at full face valu yield a substanti profit
+there were two main problem first although ponzi claim to be trade over 10 million
+worth of postal repli coupon onli a few hundr thousand dollar worth actual exist
+a more fatal flaw wa the fact that the scheme reli on new investor fund to pai return to
+earlier investor in august 1920 after the inevit collaps of hi scheme ponzi wa
+arrest for mail fraud and larceni ponzi serv jail time and wa later deport to hi
+nativ itali
+financi transact secur fraud
+2011 fraud examin manual 11519
+of cours the most infam and costli ponzi scheme wa that of bernard madoff in
+2009 madoff plead guilti to eleven feloni includ on count of secur fraud on
+count of wire fraud on count of mail fraud and three count of monei launder he wa
+sentenc to 150 year in prison he ha also been order to forfeit 170 billion dollar the
+amount prosecutor sai flow through hi busi
+madoff told hi client that he gener such high return by emploi a splitstrik
+convers invest strategi which is a fairli common approach that involv a
+combin of stock and option under thi strategi an investor attempt to gener
+predic return and reduc volatil by hold a portfolio of stock close correl to
+an index while concurr sell option on a stock index and bui put option on the
+same index
+in realiti howev madoff did not invest ani of hi client monei accord to irv
+picard the truste overse the liquid of madoff asset there wa no evid to
+indic secur were purchas for custom account instead madoff simpli deposit
+hi client monei into hi busi account which he then us to pai client who
+request withdraw in other word madoff wa run a ponzi scheme
+unfortun for madoff hi scheme began to unravel in decemb 2008 when the
+financi crisi caus an increas demand of cash withdraw from hi client the
+increas in redempt caus hi scheme to collaps when there were not enough fund
+from new invest to pai them off and so like all ponzi scheme it collaps the
+consum fraud chapter contain more detail about the madoff case
+pyramid scheme
+these typic involv a scheme wherebi fee or due paid by a member to join an
+organ ar to be paid to anoth member and there is a provis for increas
+membership through a chain process of new member bring in other new member the
+member make monei not by commiss on the bona fide retail sale of a legitim
+product but by sign up new peopl an organiz structur that like the ponzi
+scheme reli on bring in new peopl must eventu collaps although all pyramid
+scheme ar fraudul and in mani state specif deem illeg not all pyramid
+scheme necessarili meet the howei test
+secur fraud financi transact
+11520 2011 fraud examin manual
+worm rabbit and ostrich farm
+although sometim amus when view object by the investig mani investor
+have been defraud by be persuad to invest in exactli these type of opportun
+fraud examin can practic appli the howei test to these type of case in an attempt
+to determin whether an invest contract exist what if anyth doe the investor
+need to do in order to get the promis return if for exampl the investor involv is
+pure passiv then an invest contract will be held to exist howev where the
+investor is involv in feed the ostrich and market the meat then the last element of
+the howei test fail
+prime bank fraud
+these scheme involv the issuanc and purport trade of socal prime bank note
+or other highyield invest opportun investor ar often told that thei can obtain
+return exceed sever hundr percent per year when their fund ar place in an off
+shore trade program excess complex and secreci gener character these
+fraudul program investor ar usual told that thi opportun is onli avail to a
+select few and the sign of nondisclosur agreement is mandatori typic the
+explan of how the program actual work is full of obscur terminolog and make
+refer to legitim bank or organ such as the intern monetari fund
+imf to lend credibl often investor ar told that there is littl or no risk of lose their
+princip despit warn publish by the state regul the sec the imf the
+intern chamber of commerc and the world bank thi type of fraud continu to
+fleec million of dollar from investor worldwid
+preciou metal scheme
+typic these involv the purchas of interest in gold or silver coin bullion diamond
+and other preciou or semipreci stone
+viatic
+a viatic settlement involv the sale by a termin ill person at a discount of the right to
+death benefit from the proce of their life insur polici in and of itself thi doe not
+constitut the offer or sale of a secur howev an industri ha evolv to bui these
+right and then sell fraction interest in them to investor frequent these polici right
+ar pool and the investor ar sold an interest in the pool investor return increas
+accord to how deepli the polici is discount and ar invers relat to how long the
+beneficiari surviv whether such invest constitut secur is a matter of
+financi transact secur fraud
+2011 fraud examin manual 11521
+consider debat in juli 1996 the circuit court of appeal for the district of columbia
+held that viatic settlement sold by life pa rtner were not secur becaus the profit do
+not predominantli deriv from the effort of a parti other than the investor see sec v life
+partner inc 87 f 3d 536 dc cir 1996 the appel court rule in essenc that the
+ministeri function perform by life partner did not have an impact on the profit of the
+investor and therefor that the last part of the howei test wa not met
+partnership
+interest in limit partnership ar gener held to be secur becaus thi type of
+structur conform close to howei gener partnership will not usual be held to be
+secur thi is normal becaus in a true gener partnership the partner take an activ
+role in the oper of the busi howev be warn that some promot will try to
+disguis an invest contract as a gener partnership it is import to look beyond the
+surfac wrap and determin if the partner realli take an activ role in oper the
+entiti some invest opportun involv wireless cabl and pai telephon leas ar
+good exampl of thi tactic
+joint ventur
+interest in a joint ventur will often be found to be secur the howei test should be
+appli and as with partnership interest care attent should be paid to the extent to
+which the investor activ particip in the manag or oper of the busi
+oil ga and miner interest
+usual the sale of fraction ownership of oil and ga well or miner right constitut the
+sale of a secur the misrepresent and omiss found in oil and ga scam ar often
+repeat in other miner mine scheme such as gold or coal investor have a right to be
+advis of the risk inher in a secur invest and oilga opportun ar
+tradition veri high risk if investor have been assur or guarante of success in
+strike oil fraud examin should consid that a red flag natur as in all case of
+secur fraud on should look for discrep in promot credenti busi
+histori and commiss the follow type of misrepresent and omiss ar often
+encount
+drill and complet cost cost ar often huge inflat to bilk the investor
+leas promot frequent do not have a valid miner right leas
+secur fraud financi transact
+11522 2011 fraud examin manual
+discoveri and product potenti the investor mai be misl regard the
+likelihood of strike oil and the amount produc thi inform is usual contain
+in the geologist report
+well the promot mai exagger the number and depth of well thu inflat the
+oper cost paid by investor
+selfdeal the promot mai declar a good well dry in order to reap the benefit of
+a product well later when the investor have given up
+dry hole often these ar complet by the promot sole to improv hi
+complet record and collect complet fund from investor
+royalti insid mai be assign the major of royalti while investor receiv onli
+a small portion
+number of partner promot ar like to oversel the well ie 9964th
+occasion the invest mai be a complet fabric thi is even more like in
+oversea miner invest geologist re port mai be falsifi or promot mai
+reli on investor reluct to travel to remot spot in order to see their well or mine
+for themselv
+exampl
+a good exampl of thi is the brex gold scandal that occur in the spring of 1997 the
+canadian mine compani claim to have found the largest gold deposit discov in the
+twentieth centuri in busang on the island of borneo share pric es of the befor unheard of
+pennystock compani skyrocket as rumor of the tremend discoveri circul
+optimist investor larg ignor the red flag that began to emerg the initi concern
+that most had wa that the mine wa locat in indonesia creat potenti difficulti due
+to poor us relat with that countri
+not to be deter by proxim or diplomat difficulti investor continu to avidli
+acquir stock in the former junior mine compani brex geolog report of as mani as
+568 gram of gold per ton continu the trend then howev a multitud of problem
+seem to aris
+the accuraci of the sampl began to come into question instead of preserv part of the
+core sampl for verif brex allow them to be crush and soon after a fire
+destroi the geologist record further cast the verac of the discoveri into doubt
+insid began surreptiti sell off larg amount of their share new that the
+financi transact secur fraud
+2011 fraud examin manual 11523
+indonesian govern had withheld kei permit wa conceal from investor after the
+explor manag mysteri death he supposedli commit suicid by jump out of
+a helicopt share price plung from approxim c100 to around c2 brex
+market valu declin by 90 percent the ontario municip employe retir
+system lost c45 million and canada caiss de dpt et placement du qubec record
+a loss of c70 million the core sampl it wa later reveal had been salt
+the most disturb aspect of thi case is the sever handicap investig face caus by
+jurisdict question thi could be a monument scam that will be nearli imposs
+to prosecut said a privat investig wo rking on the case he explain some of the
+difficulti no on realli ha jurisdict the salt of the gold sampl took place in
+indonesia but what law were realli broken in that countri the law against salt
+there is none the law against deceiv sharehold that happen in canada and the
+us most of the main suspect probabl disappear in the philippin but what law did
+thei break in the philippin ar thei fugit no can a prosecutor in canada get a
+warrant for those gui in the philippin for what thei did in indonesia veri tricki
+in indonesia no extradit or lawenforc cooper agreement exist with canada
+or the us which mean the crimin investig is be handl by the indonesian
+themselv likewis though the us embassi in jakarta ha been ask by
+washington to look into the busang fraud the us and indonesia have a poor track
+record of cooper in crimin matter
+investor in such ventur can easili find themselv with no legal recours if thing go
+wrong obvious differ countri have vari law regard investor right natur
+thi make investig a case such as thi quit difficult the princip of brex claim
+not to have known about sampl salt thei portrai themselv as victim and blame
+the geologist for the fraudul sampl the geologist howev were philippin nation
+and retreat to their homeland further complic the investig the philippin
+govern suspect foul plai in the death of the head geologist michael de guzman and is
+more concern with the indonesian inquiri into the matter than with turn over their
+countrymen for question
+when examin the case from a follow the monei standpoint the trail seem to lead to
+brex insid even as thei conceal new of permit be withheld by the indonesian
+govern insid secretli sold off huge amount of stock at great profit accord to
+secur fraud financi transact
+11524 2011 fraud examin manual
+the wall street journal brex chairman david walsh vice chairman and chief geologist
+john felderhof and two other execut sold nearli c38 million of stock
+hedg fund
+although there is no statutori or regulatori definit of hedg fund the term typic
+refer to privat pool invest vehicl manag by advis who gener have a veri
+larg financi interest in the fund base on a manag fee that includ a percentag of
+the fund perform hedg fund emploi variou specul and aggress strategi
+that ar not commonli avail to mutual fund thei often combin tradit
+invest with short sale leverag and arbitrag strategi to maxim return
+in the past few year the us secur market ha seen a signific growth in the number
+and size of hedg fund accord to the sec asset under manag by hedg fund
+have grown dramat and ar now estim to exce 2 trillion thi is a massiv jump
+from the 38 billion hedg fund industri in 1990 consequ hedg fund fraud ha grown
+substanti enough for the sec to take extraordinari measur to regul it between 2000
+and 2004 the sec brought 51 case against hedg fund advis for defraud hedg fund
+investor or us the fund to defraud other in 2005 the sec brought 11 hedg fund
+fraud case and had sever investig underwai in 2007 the sec creat a hedg fund
+work group within the divis of enforc work with other feder law
+enforc agenc and selfregulatori organ the group lead agenc effort to
+combat hedg fund insid trade in the most signific insid trade case in 20 year
+the sec file charg in 2007 against 14 defend in a scheme involv hedg fund that
+net more than 15 million in illeg profit on thousand of trade us inform
+stolen from ub secur llc and morgan stanlei
+with the enorm growth in the hedg fund industri advis ar becom more
+aggress and less meticul in their transact typic hedg fund fraud by investor
+includ
+theft of investor asset
+late trade
+insid trade
+overvalu of portfolio
+enter into inappropri time arrang
+exploit of mutual fund investor for privat gain
+enter into inappropri arrang with mutual fund advis in which the mutual
+financi transact secur fraud
+2011 fraud examin manual 11525
+fund advis waiv restrict on market time in exchang for placement of other
+asset by the hedg fund advis in fund manag by a mutual fund advis and
+conspir with intermediari to identifi hedg fund from mutual fund personnel
+promissori note
+a note is defin as a secur but in practic the law is more complic than that under
+certain circumst promissori note ar not held to be secur a note is presum to
+be a secur unless it bear a strong resembl to a categori of instrument that ar not
+secur gener longerterm commerci paper is similar in mani respect to a bond and
+mai be held to be a secur unless it relat to such transact as consum financ or
+residenti mortgag for exampl in the case of a residenti mortgag the note you sign is
+simpli a promis to repai not a method to rais capit for some busi ventur
+with note and other potenti secur it is often help to appli the famili resembl
+test and look at three thing
+motiv and expect
+what is the issuer primari motiv if it is to rais monei for the gener us of a busi
+enterpris then a secur mai be held to exist what is the buyer primari motiv is it
+realli a loan or an investmenttyp transact what is a reason investor think what
+ar hi expect
+plan of distribut
+is there some form of common trade if so a secur probabl exist
+regul
+is there some other regulatori system that significantli reduc the risk of the transact
+therebi render the applic of the secur law unnecessari if the transact is
+deem appropri regul in wai other than through the applic of the secur
+law then it is less like that secur law will be brought to bear

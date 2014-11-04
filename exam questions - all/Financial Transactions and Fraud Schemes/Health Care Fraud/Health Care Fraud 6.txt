@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Insurance companies can be fined or made to pay damages for not paying a claim in a timely manner.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=The insurance company or carrier is required to pay any claim that is properly submitted, contains all required the information, absent of fraud, and has benefits available. An insurance company might commit fraud when claims are consistently rejected even though the required information has been submitted. Many states have regulations regarding the amount of time an insurance company has to pay a â€œcleanâ€? claim, one which has all the needed information. Even if an insured has committed fraud in the past, and for some reason or another is still an insured, the insurance company must still adjudicate a valid claim.See page(s) 1.1211 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=White booked a flight for a business trip with his company's travel agent. He filled out two expense reports for this trip, and on each report he requested reimbursement for the cost of the ticket. On one report, he attached his airline stub as support for the expense. On the other report he attached the travel agency's invoice as support. According to Corporate Fraud Handbook, what kind of scheme was White attempting?
+
+Options=A mischaracterized expense scheme | An overstated expense scheme | A false billing scheme | None of the above
+
+CorrectResponse=3
+
+Explanation=White was attempting a multiple reimbursement scheme. This type of fraud involves the submission of a single expense several times to receive multiple reimbursements. The most frequent example of a duplicate reimbursement scheme is the submission of several types of support for the same expense.See page(s) 237 in the Corporate Fraud Handbook

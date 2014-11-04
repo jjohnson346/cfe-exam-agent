@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If a taxpayer uses reliance on an attorney or accountant as a defense to a fraud charge, which of the following conditions must be met? I.	The reliance must be specific II.	The court will determine the qualifications of the attorney ("expert") based on all the facts and circumstances III.	The attorney must be well versed in tax fraud IV.	The taxpayer must have disclosed all the facts to the "expert"14	of 21r
+
+Options=I, II, and IV | III and IV only | II and III only | I, II, III, and IV
+
+CorrectResponse=0
+
+Explanation=One can assert a defense of reliance on an attorney or accountant if all of the following conditions are met:‰?¢	Reliance must be specific‰?¢	The qualification of the expert is a facts and circumstances test.‰?¢	Full disclosure to the expert is required.See page(s) 1.1411 in the Fraud Examiner's Manual

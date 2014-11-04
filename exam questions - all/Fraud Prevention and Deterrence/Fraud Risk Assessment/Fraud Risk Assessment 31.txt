@@ -1,0 +1,10 @@
+Section=Fraud Risk Assessment
+
+Stem=The risk that an organization may be victimized by an individual who is able to overcome the three elements of the fraud triangle is called
+
+Options=Environmental risk | Audit risk | Fraud risk | Insider Risk
+
+CorrectResponse=2
+
+Explanation=Cressey’s Fraud Triangle teaches us that there are three interrelated elements that enable someone to commit fraud: the motive that drives a person to want to commit the fraud, the opportunity that enables him to commit the fraud, and the ability to rationalize the fraudulent behavior. The vulnerability that an organization has to those capable of overcoming all three elements of the fraud triangle is fraud risk. Fraud risk can come from sources both internal and external to the organization. See page(s) 4.801 in the Fraud Examiner's Manual
+

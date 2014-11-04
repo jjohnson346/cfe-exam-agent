@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Delta, a Certified Fraud Examiner and expert accounting witness, was explaining to the jury that a company's financial statements must include information on changes in accounting methods, contingent liabilities, significant subsequent events, and all other information necessary for users to make valid, informed decisions. Delta was explaining the concept of:
+
+Options=Matching | Application of judgment | Full disclosure | None of the above
+
+CorrectResponse=2
+
+Explanation=The accounting principle of full disclosure requires the financial statements of an entity to include all information necessary for the formation of valid decisions by the users. The statements should not include too much information, but are required to include enough information so that the user is not misled. Supplemental notes to the financial statements are often required to meet these criteria.See page(s) 1.116 in the Fraud Examiner's Manual

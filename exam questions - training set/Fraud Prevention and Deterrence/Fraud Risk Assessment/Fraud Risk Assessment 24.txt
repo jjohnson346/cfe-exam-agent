@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Theft of competitor trade secrets, anti-competitive practices, environmental violations, and trade and customs regulations in areas of import and export are all fraud risks pertaining to:
+
+Options=Asset misappropriation | Fraudulent financial reporting | Regulatory and legal misconduct | Reputation risk
+
+CorrectResponse=2
+
+Explanation=Regulatory and legal misconduct includes a wide range of risks, such as conflicts of interest, insider trading, theft of competitor trade secrets, anti-competitive practices, environmental violations, and trade and customs regulations in areas of import and export. Depending on the particular organization and the nature of its business, some or all of these risks may be applicable and should be considered in the fraud risk assessment process.See page(s) 4.815 in the Fraud Examiner's Manual

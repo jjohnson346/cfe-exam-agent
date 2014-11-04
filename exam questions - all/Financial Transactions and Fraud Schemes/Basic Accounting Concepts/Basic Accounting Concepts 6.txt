@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Revenue should not be recognized for work that is to be performed in subsequent accounting periods, even though the work may currently be under contract.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=In general, revenue is recognized or recorded when it becomes realized or realizable, and earned. These criteria are considered to be met when:•	Persuasive evidence of an arrangement exists;•	Delivery has occurred or services have been rendered;•	The seller’s price to the buyer is fixed or determinable; and•	Collectability is reasonably assured.Therefore, revenue should not be recognized for work that is to be performed in subsequent accounting periods, even though the work may currently be under contract The revenue should be recognized in the period in which the work is performed.See page(s) 1.116 in the Fraud Examiner's Manual

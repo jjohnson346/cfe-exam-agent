@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Net worth can be defined as the difference between assets and liabilities at a particular point in time.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Net worth can be defined as the difference between assets and liabilities at a particular point in time. By comparing the subject s net worth at the beginning and end of a period, usually a calendar year, the economic crime investigator can determine the increase or decrease in net worth. Adjustments are then made for living expenses to arrive at income. Income includes receipts derived from all sources. Thus, by subtracting funds from known sources (salary, v/ages, interest, or dividends, for example), funds from unknown or illegal sources can be calculated.See page(s) 3.833 in the Fraud Examiner's Manual

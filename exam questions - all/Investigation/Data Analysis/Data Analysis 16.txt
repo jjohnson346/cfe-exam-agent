@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is an example of a data analysis function that can be performed to help detect fraud through examination of asset accounts?
+
+Options=Recalculate expense and reserve amounts using replacement costs | Sort asset values by asset type or dollar amount | Compare book and tax depreciation and indicate variances | All of the above
+
+CorrectResponse=3
+
+Explanation=The following are examples of data analysis queries that can be performed by data analysis software on asset accounts to help detect fraud:Generate depreciation to cost reportsCompare book and tax depreciation and indicate variancesSort asset values by asset type or dollar amountSelect samples for asset existence verificationRecalculate expense and reserve amounts using replacement costsSee page(s) 3.612 in the Fraud Examiner's Manual

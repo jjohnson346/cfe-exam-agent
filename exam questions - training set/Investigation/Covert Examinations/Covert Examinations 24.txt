@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Google, Bing, and AltaVista are all types of what?
+
+Options=Internet providers | Internet search engines | Public record databases | None of the above
+
+CorrectResponse=1
+
+Explanation=Search engines are website tools that allow you to type in keywords describing the subject in which you are interested. The search engine will then scour the pages of the Internet and attempt to locate pages that may have pertinent information. Google, Bing, and AltaVista are all types of Internet search engines.See page(s) 3.502-3.503 in the Fraud Examiner's Manual

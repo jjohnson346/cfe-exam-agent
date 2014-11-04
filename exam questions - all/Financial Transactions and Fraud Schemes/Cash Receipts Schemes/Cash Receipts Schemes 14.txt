@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Green, an insurance salesman, sold insurance policies but did not file those policies with the carrier. When his customers made payments on their policies. Green simply kept the money. The carrier did not know the policies existed, and the customers did not know that they were not really insured. According to Corporate Fraud Handbook, Green's scheme can be classified as:t7
+
+Options=A skimming scheme | A forged endorsement scheme | A commission scheme | A cash larceny scheme
+
+CorrectResponse=0
+
+Explanation=Green's scheme is an unrecorded sales skimming scheme. Independent salespersons are in a good position to skim sales. A prime example is the insurance agent who sells policies but does not file them with the carrier. Most customers do not want to file claims on a policy, especially early in the term, for fear that their premiums v/ill rise. Knowing this, the agent keeps all documentation on the policies instead of turning it in to the carrier. The agent can then collect and keep the payments made on the policy because the carrier does not know the policy exists. The customer continues to make his payments, thinking that he is insured, when in fact the policy is a ruse. Should a claim eventually be filed by the customer, some agents are able to backdate the false policies and submit them to the carrier, then file the claim so that the fraud will remain hidden.See page(s) 73-74 in the Corporate Fraud Handbook

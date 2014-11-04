@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a red flag of fraudulent register disbursements?
+
+Options=Personal checks from cashier found in register | Gaps in the sequence of transactions on register tape | Multiple cashiers operate from a single cash drawer with separate access codes | Multiple refunds or voids for amounts just under the review limit
+
+CorrectResponse=2
+
+Explanation=Register Scheme Red Flags:‰?¢	Inappropriate employee segregation of duties. For example, register counting and reconciling should not be done by the cashier.‰?¢	Cashiers, rather than supervisors, have access to the control keys which are necessary for refunds and voids.‰?¢	Register employee has authority to void own transactions.‰?¢	Register refunds are not methodically reviewed.‰?¢	Multiple cashiers operate from a single cash drawer without separate access codes.‰?¢	Personal checks from cashier found in register.‰?¢	Voided transactions are not properly documented or not approved by a supervisor.‰?¢	Voided cash receipt forms (manual systems) or supporting documents for voided transactions (cash register systems) are not retained on file.See page(s) 174 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=GAGAS field work standards for performance audits contain standards in all of the following areas EXCEPT	
+
+Options=Audit documentation | Evidence | Continuing education | Staff supervision
+
+CorrectResponse=2
+
+Explanation=The four field work standards for performance audits according to GAGAS include: (1) planning, (2) supervision, (3) evidence, and (4) audit documentation.See page(s) 1.256-1.257 in the Fraud Examiner's Manual

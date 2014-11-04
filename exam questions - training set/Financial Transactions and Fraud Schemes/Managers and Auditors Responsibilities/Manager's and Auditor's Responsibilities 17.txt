@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The Sarbanes-Oxley Act provides both civil and criminal penalties for retaliating against corporate whistleblowers.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Sarbanes-Oxley Act contains two provisions that establish broad protections for corporate whistleblowers. Section 806 creates a civil liability for an employer who retaliates against an employee who provided information or assisted in an investigation of fraudulent activity or violation of securities laws and regulations. This provision only covers employees of publicly traded companies. Section 1107 establishes criminal sanctions for anyone who intentionally retaliates against another party for providing information regarding an alleged federal offense to a law enforcement officer.See page(s) 1.216-1.217 in the Fraud Examiner's Manual

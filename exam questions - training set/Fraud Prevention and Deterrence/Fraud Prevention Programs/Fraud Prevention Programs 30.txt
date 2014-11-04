@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=A corporation cannot be held criminally liable for the actions of its employees if management had no knowledge or participation in the criminal events.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The corporation can be held criminally responsible even if those in management had no knowledge or participation in the underlying criminal events and even if there were specific policies or instructions prohibiting the activity undertaken by the employees. The acts of any employee, from the lowest clerk on up to the CEO. can impute liability upon a corporation.See page(s) 4.701 in the Fraud Examiner's Manual

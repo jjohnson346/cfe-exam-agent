@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=When making a payment to a confidential informant, the examiner should hold the funds until the informant's information has been verified.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If a payment is to be made to an informant, it should be made on a COD basis. The information should be furnished and verified before turning over any money. If not, the examiner might become the victim of a scam.See page(s) 3.317 in the Fraud Examiner's Manual

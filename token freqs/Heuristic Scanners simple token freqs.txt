@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+they                                   1
+might                                  1
+macros                                 1
+using                                  1
+examine                                1
+for                                    1
+behavior                               1
+executable                             1
+virus                                  1
+indicate                               1
+would                                  1
+algorithms                             1
+these                                  1
+files                                  1
+detect                                 1
+identify                               1
+code                                   1
+scanners                               2
+unknown                                1
+that                                   1
+an                                     1
+virus-like                             1
+operations                             1
+heuristic                              1
+also                                   1
+inspect                                1
+
+Totals:                     27        29

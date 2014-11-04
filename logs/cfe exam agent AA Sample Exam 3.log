@@ -1,0 +1,138 @@
+Exam Agent initializing...
+Loading cfe manual...
+CFE manual load complete.
+CFE Exam Agent initialization complete.
+CFE EXAM:  exams\AA Sample Exam 3.txt
+EXECUTION MODE:  Interactive
+
+Press Enter to continue.
+
+1. Basic Accounting Concepts 1
+
+Basic Accounting Concepts
+
+Which GAAP principle requires corresponding expenses and revenue to be recorded in the same accounting period?
+
+a) Consistency
+b) Full disclosure
+c) Matching
+d) Conservatism
+
+Agent response:  c) Matching -- CORRECT.
+
+2. Basic Accounting Concepts 2
+
+Basic Accounting Concepts
+
+The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:
+
+a) Objective evidence
+b) Going concern
+c) Materiality
+d) Cost
+
+Agent response:  d) Cost -- INCORRECT. (Correct answer:  b) Going concern)
+
+3. Basic Accounting Concepts 5
+
+Basic Accounting Concepts
+
+All of the following statements are true, EXCEPT:
+
+a) Asset accounts are increased with debits
+b) Revenue accounts are decreased with debits
+c) Expense accounts are decreased with debits
+d) Liability accounts are increased with credits
+
+Agent response:  b) Revenue accounts are decreased with debits -- INCORRECT. (Correct answer:  c) Expense accounts are decreased with debits)
+
+4. Basic Accounting Concepts 6
+
+Basic Accounting Concepts
+
+Revenue should not be recognized for work that is to be performed in subsequent accounting periods, even though the work may currently be under contract.
+
+a) True
+b) False
+
+Agent response:  a) True -- CORRECT.
+
+5. Bankruptcy Fraud 1
+
+Bankruptcy Fraud
+
+A person who holds a perfected security interest against a person filing bankruptcy is referred to as which of the following?
+
+a) Secured creditor
+b) Judgment debtor
+c) Judgment creditor
+d) Unsecured creditor
+
+Agent response:  a) Secured creditor -- CORRECT.
+
+6. Bankruptcy Fraud 2
+
+Bankruptcy Fraud
+
+The most common bankruptcy-related crime is:
+
+a) Concealment of assets
+b) A planned bustout
+c) Multiple filing
+d) A petition mill
+
+Agent response:  a) Concealment of assets -- CORRECT.
+
+7. Bankruptcy Fraud 3
+
+Bankruptcy Fraud
+
+Which of the following is an acceptable defense to bankruptcy crime?
+
+a) Concealment of assets was not from all creditors
+b) Creditors had actual knowledge of concealed assets
+c) Concealed assets were returned to the estate
+d) None of the above choices are acceptable
+
+Agent response:  a) Concealment of assets was not from all creditors -- INCORRECT. (Correct answer:  d) None of the above choices are acceptable)
+
+8. Check and Credit Card Fraud 1
+
+Check and Credit Card Fraud
+
+A form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder is called which of the following?
+
+a) Credit doctor fraud
+b) True name fraud
+c) Non-receipt fraud
+d) None of the above
+
+Agent response:  b) True name fraud -- INCORRECT. (Correct answer:  c) Non-receipt fraud)
+
+9. Check and Credit Card Fraud 2
+
+Check and Credit Card Fraud
+
+A customer buys a big screen television. Although the store offers free delivery and can deliver the TV that afternoon, the customer insists on taking the television with him. In fact, he has a U-Haul trailer in the parking lot, ready to go. The customer is paying by credit card. As the security manager of the store, which of the following do you think is the most likely scenario?
+
+a) The customer does not want his wife to know about his purchase
+b) The customer is laundering money
+c) The customer is probably paying for the item with a counterfeit or stolen credit card
+d) The customer wants to watch a big game right away on television
+
+Agent response:  c) The customer is probably paying for the item with a counterfeit or stolen credit card -- CORRECT.
+
+10. Check and Credit Card Fraud 3
+
+Check and Credit Card Fraud
+
+The process whereby acid-based chemicals are used to erase amount and payee information on a check is called:
+
+a) Frying
+b) Scanning
+c) Acid washing
+d) Check washing
+
+Agent response:  d) Check washing -- CORRECT.
+
+EXAM COMPLETE. Score:  6 out of 10

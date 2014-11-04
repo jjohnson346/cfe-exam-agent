@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=When confessing to fraud, most people tend to underestimate the amount of money they have taken.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In fraud matters especially, it is common for the accused to underestimate the amount of funds involved as well as the number of instances. This is probably because of a natural tendency of the human mind to block out unpleasant matters. Take the figures with a grain of salt. If the accused's response is "I don't know," start high with the amounts and gradually come down.See page(s) 3.266 in the Fraud Examiner's Manual

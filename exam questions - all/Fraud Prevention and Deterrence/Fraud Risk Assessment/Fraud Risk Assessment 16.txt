@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The sponsor of a fraud risk assessment should be:
+
+Options=Senior enough in the organization to command the respect of employees | Independent and open in his evaluation of the fraud risks facing the company | Open and willing to hear the truth about the company's fraud vulnerabilities | All of the above
+
+CorrectResponse=3
+
+Explanation=Having the right sponsor for a fraud risk assessment is extremely important in ensuring its success and effectiveness. The sponsor must be senior enough in the organization and command the respect of the employees to elicit full cooperation in the process. The sponsor has to be someone who is committed to learning the truth about where the company’s fraud vulnerabilities really are. He can't be someone who is prone to rationalization or denial; he must be a truth seeker. In the ideal situation, the sponsor would be an independent board director or audit committee member. However, a good CEO or other internal senior leader can be equally as effective The right sponsor is someone who is open and willing to hear the good, the bad. and the ugly. Additionally, for the assessment to be fully effective, the sponsor needs to be independent and open in his evaluation of the situation and, most importantly, appropriate in his response to the situation.See page(s) 4.805 in the Fraud Examiner's Manual

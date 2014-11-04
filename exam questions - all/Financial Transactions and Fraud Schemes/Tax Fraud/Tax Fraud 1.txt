@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=As part of the IRS Restructuring and Reform Act signed in 1998, the IRS enjoys the presumption of correctness if it alleges a tax deficiency.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In July of 1998, President Clinton signed into law the IRS Restructuring and Reform Act. This act made sv/eeping changes in the structure and procedures of the IRS. One of the most important changes involves the shift of the burden of proof in civil cases. The general rule prior to the Act was that the taxpayer bears the burden of proof at trial in civil proceedings. The Statutory Notice of Deficiency (90-day letter) enjoyed the presumption of correctness. The presumption of correctness in favor of the IRS required the taxpayer to go forward with prima facie evidence to disprove the IRS's determination. After successfully rebutting the presumption of correctness, taxpayers had the burden of proving their case by at least a preponderance of the evidence The new rule established under the Reform Act states that the IRS has the burden of proof in civil court proceedings on income, gift, estate, or generation-skipping tax liability with respect to factual issues that are relevant to determining the taxpayer's tax liability, provided the taxpayer: (i) provides credible evidence on the factual issue; (ii) keeps records and backs up items as presently required under the Code and regulations; and (iii) cooperates with IRS in regard to reasonable requests for meetings, interviews, witnesses, information, and documents.See page(s) 1.1403 in the Fraud Examiner’s Manual

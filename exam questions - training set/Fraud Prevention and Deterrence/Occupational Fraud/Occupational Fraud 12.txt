@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, which of the following categories of fraudulent disbursement is the most common?
+
+Options=Check tampering schemes | Cash register disbursement schemes | Payroll schemes | Billing schemes
+
+CorrectResponse=3
+
+Explanation=Among the fraudulent disbursement categories, billing schemes were most commonly reported in the 2010 survey. Of the fraud cases reported to us, 26 percent involved billing fraud, while 13 percent involved check tampering, 9 percent involved a payroll scheme, and less than 3 percent involved fraudulent cash register disbursements.See page(s) 4.625-4.626 in the Fraud Examiner's Manual

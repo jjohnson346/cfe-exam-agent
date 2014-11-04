@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Cases or "precedents" stretching back hundreds of years in United States and English courts form the basis for:
+
+Options=Common law | Original law | Consensus law | None of the above
+
+CorrectResponse=0
+
+Explanation=The common law is based not on statutes passed by the legislatures but upon ‰??precedent" established by previously decided cases stretching back hundreds of years in United States and English courts. The decision in an individual case binds judges in later cases of a similar nature, until or unless the rule of law established is overturned by a higher court or the legislature. Although most civil actions are based on the common law, there are an increasing number of civil statutes in the fraud area, including the federal Civil RICO and Civil False Claims statutes.See page(s) 2.103 in the Fraud Examiner's Manual

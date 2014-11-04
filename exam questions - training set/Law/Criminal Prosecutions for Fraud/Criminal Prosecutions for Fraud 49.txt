@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A defendant at a criminal trial always has the right to testify on his or her own behalf.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If the defendant elects to testify, he is subject to cross-examination, and the prosecution may impeach the defendant‰??s credibility by showing prior convictions. This usually is a death blow to the defense and is the reason many defendants do not testify. The judge may exclude such evidence even then as unduly prejudicial, particularly if the prior crime is remote in time or did not involve dishonesty or false statements.See page(s) 2.519 in the Fraud Examiner's Manual

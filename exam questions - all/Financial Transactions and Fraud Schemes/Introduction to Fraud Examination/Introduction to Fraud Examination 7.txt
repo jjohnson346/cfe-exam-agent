@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Which of the following is NOT part of the fraud examination process? 
+
+Options=Writing reports | Punishing the offender | Obtaining evidence  | Testifying to findings
+
+CorrectResponse=1
+
+Explanation=Fraud examination is a methodology for resolving fraud allegations from inception to disposition. More specifically, fraud examination involves obtaining evidence and taking statements, writing reports, testifying to findings, and assisting in the detection and prevention of fraud.See page(s) 1-1 in the Fraud Examiner's Manual

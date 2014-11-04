@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=An excellent method for uncovering fraud within an organization is to ask the organization's employees about possible fraudulent activities.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraud Assessment Questioning is a nonaccusatory interview technique used as a part of a normal audit. It operates on the theory that employees' attitudes are a good indicator of potential problems, and that one of the most effective ways to deal with fraud is to ask about it.See page(s) 4.718 in the Fraud Examiner's Manual

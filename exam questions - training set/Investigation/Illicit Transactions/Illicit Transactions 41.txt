@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following is a reason that a loan file might provide good information that will assist in the preparation of the financial profile?
+
+Options=The loan file may contain a financial statement | The loan file may provide information about the subject's payment history and outstanding debt | The loan file may contain information about the subject's assets | All of the above
+
+CorrectResponse=3
+
+Explanation=Loan records can provide important information regarding a subject. With loan records, the collateral that secures them, and the results of (bank) credit investigations, a bank has a wealth of information. When a bank makes a commercial loan to an individual, it requires detailed statements of assets and liabilities from the borrower. The loan file also might include the results of credit inquiries regarding paying habits, loan amounts, and present unpaid balances. A bank credit department generally maintains the following basic records:‰?¢	The credit or loan file: This file includes the loan application, financial statement, and general economic history of the customer‰?¢	The liability ledger: The customer‰??s liability to the bank both at the present time and in the past. These sheets also contain information such as the loan date, note number, amount of the loan, interest rate, due date, and payments.‰?¢	The collateral file: A complete description of the items pledged as security for loans. Records of such collateral can provide valuable information about a subject‰??s assets.See page(s) 3.820-3.821 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Harold wants to conduct an analysis of his company's accounts payable. Which of the following is NOT a typical data analysis query that one would perform on accounts payable?
+
+Options=Identify debits to expense accounts outside of set default accounts | Compare customer credit limits and current or past balances | Review recurring monthly expenses and compare to posted/paid invoices | Create vendor detail and summary analysis reports
+
+CorrectResponse=1
+
+Explanation=The following are typical examples of data analysis queries that can be performed by data analysis software on accounts payable records:‰?¢	Audit paid invoices for manual comparison with actual invoices‰?¢	Summarize large invoices by amount, vendor, etc.‰?¢	Identify debits to expense accounts outside of set default accounts‰?¢	Reconcile check registers to disbursements by vendor invoice‰?¢	Verify vendor 1099 requirements‰?¢	Create vendor detail and summary analysis reports‰?¢	Review recurring monthly expenses and compare to posted/paid invoicesSee page(s) 3.612 in the Fraud Examiner's Manual

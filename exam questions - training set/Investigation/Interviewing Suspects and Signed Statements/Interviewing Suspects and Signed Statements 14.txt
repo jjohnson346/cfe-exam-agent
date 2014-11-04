@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Once a suspect has confessed in an interview, it is important to learn what happened to the proceeds of the fraud. The best way to find this out is simply to ask, "Is there anything left?".
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In appropriate situations, the interviewer will want to find out if there are residual assets that the confessor can use to reduce losses. Rather than ask the accused ‰??Is there anything left?" the question should be phrased as ‰??What's left?‰??See page(s) 3.270 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=As a very general proposition, suspected on-book schemes are best approached from the point of payment. Off-book or other cash schemes are easier to detect at the suspected point of receipt.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=As a very general proposition, suspected on-book schemes are best approached from the point of payment, and off-book or other cash schemes are easier to detect at the suspected point of receipt. Usually some sort of audit trail exists for the on-book scheme; therefore, detection from the point of payment (disbursement) will be easier Seldom does the recipient reflect the receipt of an illicit payment on the books and records of the company.See page(s) 1.720 in the Fraud Examiner's Manual

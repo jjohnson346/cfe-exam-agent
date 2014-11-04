@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Fred is an employee of a state agency. Although Fred is not suspected of criminal activity, it is believed that he may have knowledge of the criminal activity of a supervisor. Can Fred be fired if he refuses to answer questions regarding his supervisor?
+
+Options=Yes | No
+
+CorrectResponse=0
+
+Explanation=As long as Fred is not suspected of any criminal wrongdoing himself, he can be compelled to provide information. In fact, most agencies have a provision in their policies and procedures manual that mandates cooperation. Job protections and the prohibition on compelled testimony only come into play if the person being compelled could face criminal prosecution.See page(s) 1.1926 in the Fraud Examiner’s Manual

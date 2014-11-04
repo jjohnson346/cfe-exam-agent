@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Roger has just completed a fraud examination report for ABC, Inc., a client. He received a call from a special agent with the FBI requesting a copy of the report. Which of the following statements is NOT true?
+
+Options=Roger can turn over the report without any repercussions. | Roger can turn over the report if his client consents. | Roger can turn over the report if it is subpoenaed. | Roger cannot turn over the report because the report is considered confidential.
+
+CorrectResponse=0
+
+Explanation=Confidential information, for all practical purposes, is any and all information a Certified Fraud Examiner might obtain in the course of work, whether it be from the company or client for whom an investigation is performed or from any other source consulted during the work. However, there is no legal privilege that exists between a CFE and his client. That means that although the CFE is not allowed to reveal confidential information without authorization from the client, if the information is subject to a subpoena or search warrant, the CFE must turn it over.See page(s) 4.1016 in the Fraud Examiner’s Manual

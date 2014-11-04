@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Civil actions for fraudulent conduct are often filed as ___________________ claims.
+
+Options=Misprision | Misrepresentation | Mistake | None of the above
+
+CorrectResponse=1
+
+Explanation=Civil actions to recover damages for fraud, or to enjoin further fraudulent activity may be filed by private plaintiffs in state or federal courts. Most "common-law" fraud actions, usually styled "misrepresentation" claims, are filed in state courts.See page(s) 2.601 in the Fraud Examiner's Manual

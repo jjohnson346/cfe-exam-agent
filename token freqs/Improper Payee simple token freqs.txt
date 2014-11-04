@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+other                                  1
+inserts                                1
+checks                                 1
+are                                    1
+her                                    1
+improper                               2
+claims                                 1
+payment                                1
+overrides                              1
+approver                               2
+a                                      2
+submitted                              1
+payee                                  2
+as                                     1
+son                                    1
+daughter-in-law                        1
+payees                                 1
+the                                    2
+and                                    2
+system                                 1
+insured                                1
+address                                1
+than                                   1
+pays                                   1
+claim                                  3
+out                                    1
+
+Totals:                     27        36

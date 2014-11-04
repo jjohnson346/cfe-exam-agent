@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=A fraud examiner who conducts an interview may expose himself to a false imprisonment claim if he closes or locks the interview room, behaves violently, yells or pounds on furniture, or otherwise physically or psychologically detains the suspect.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=False imprisonment is restraint by one person of the physical liberty of another without consent or legal justification. A claim of false imprisonment might be made if an employee is detained in any way during a search either of the employee or of the employee's desk, locker, etc. Generally an employer is entitled to question an employee at work about a violation of company policy without incurring liability as long as the employee submits to the questioning voluntarily; that is, not as a result of threats or force. However, the length, nature, and manner of the interview will determine whether liability arises. False imprisonment factors include:‰?¢	Size and nature of the room where an interview takes place (small, windowless, not easily accessible is a negative)‰?¢	Lighting in room‰??soft versus severe‰?¢	Requiring the employee‰??s presence or continued presence by any amount of force, including holding the employee s arm to escort him‰?¢	Violent behavior of any kind during the interview, including yelling, pounding on desk, kicking furniture or walls‰?¢	Refusing to allow the employee to leave the room, such as by pushing the employee into a chair, locking the door‰?¢	The number of people involved in the interview.See page(s) 2.416 in the Fraud Examiner's Manual

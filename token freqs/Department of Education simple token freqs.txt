@@ -1,0 +1,28 @@
+Token                          Frequency
+-----------------------------  ---------
+financial                              1
+earnings                               1
+students                               1
+parents                                1
+applying                               1
+pell                                   1
+inspector                              1
+neral                                  1
+for                                    1
+department                             2
+ge                                     1
+the                                    1
+from                                   1
+education                              2
+and                                    1
+of                                     3
+opportunity                            1
+formerly                               1
+basic                                  1
+statements                             1
+called                                 1
+maintains                              1
+educational                            1
+grants                                 2
+
+Totals:                     24        29

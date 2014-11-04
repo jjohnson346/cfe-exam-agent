@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Which of the following must be disclosed in an organization's financial statements?	 \r\rI. Changes in estimates	 \rII. Changes in accounting principles	 \rIII. Changes in reporting entities
+
+Options=I and III | I and II | I, II, and III | II and III
+
+CorrectResponse=2
+
+Explanation=In general, three types of accounting changes must be disclosed to avoid misleading the user of financial statements: changes in accounting principles, changes in estimates, and changes in reporting entities. Although the required treatment for each type of change is different, they are all susceptible to manipulation by determined fraudsters. For example, fraudsters may fail to properly retroactively restate financial statements for a change in accounting principle if the change causes the company’s financial statements to appear weaker. Likewise, they may fail to disclose significant changes in estimates such as the useful lives and estimated salvage values of depreciable assets, or the estimates underlying the determination of warranty or other liabilities. They may even secretly change the reporting entity, by adding entities owned privately by management or excluding certain company-owned units, in order to improve reported results.See page(s) 1.328-1.329 in the Fraud Examiner's Manual

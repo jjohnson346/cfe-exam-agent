@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Generally, who is permitted to appeal a criminal conviction?
+
+Options=The prosecution or the defendant | Any party to the proceedings | The prosecution | The defendant
+
+CorrectResponse=3
+
+Explanation=Generally, because of the double jeopardy provisions of the Fifth Amendment, only a convicted defendant can appeal a verdict. The government cannot appeal an acquittal no matter how egregious the decision. The prosecution, however, may appeal adverse pre-trial rulings on the admissibility of evidence and certain other matters which may terminate in a prosecution temporarily, but do not result in a decision on the merits in favor of the defendant.See page(s) 2.109 in the Fraud Examiner's Manual

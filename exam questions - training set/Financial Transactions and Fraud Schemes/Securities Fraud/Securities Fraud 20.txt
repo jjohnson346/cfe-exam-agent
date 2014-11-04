@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Under the SEC rules related to Section 802 of the Sarbanes-Oxley Act, accountants who perform audits on publicly traded companies must maintain all audit or review work papers for a period of _________ years.
+
+Options=Fifteen | Seven | Ten | Three
+
+CorrectResponse=1
+
+Explanation=The final rules adopted by the SEC under Section 802 specifically require that accountants who perform audits on publicly traded companies maintain all audit or review work papers for a period of seven years. Although the original provisions of Section 802 only required a retention period of five years, the SEC extended the requirement to be consistent with the seven-year retention period required under the new Auditing Standards promulgated by the PCAOB per Section 103 of the Act. Violations of the final SEC rules may be punished by fines up to 5250,000 and up to 10 years in jail for individuals, or fines up to 5500,000 for corporations.See page(s) 1.1511-1.1512 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In admission-seeking interviews, there are several explanations employees give for their criminal behavior. Which of the following is NOT usually one of them?
+
+Options=Financial problems | Aberration of conduct | Inadequate recognition | Defective moral values
+
+CorrectResponse=3
+
+Explanation=There are numerous rationalizations used by employees to explain away criminal misconduct and fraud: unfair treatment, inadequate recognition, financial problems, aberration of conduct, family problems, accuser's actions, stress, drugs, alcohol, revenge, depersonalizing the victim, minor moral infraction, altruism, and genuine need The accused v/ill use almost any rationalization that does not portray him as a "bad person."See page(s) 3.255-3.257 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Green, a Certified Fraud Examiner has gotten Red, a fraud suspect, to confess and furnish a written statement. In order to find out if there are any remaining proceeds from the fraud. Green should ask the following question:
+
+Options="Did you spend everything?" | "What do you have left?" | "Is there anything left?" | None of the above
+
+CorrectResponse=1
+
+Explanation=In appropriate situations, the interviewer will want to find out if there are residual assets that the confessor can use to reduce losses. Rather than ask the accused "Is there anything left?" the question should be phrased as "What's left?"See page(s) 3.270 in the Fraud Examiner's Manual

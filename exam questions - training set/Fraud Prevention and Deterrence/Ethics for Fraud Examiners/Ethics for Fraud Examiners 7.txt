@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Article V of the Certified Fraud Examiner Code of Professional Ethics states in part that, "No opinion should be expressed regarding the guilt or innocence of any person or party." During an accusatory interview of Black, a Certified Fraud Examiner accused Black of having committed a fraud This examiner is in violation of Article V.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Article V of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE, in conducting examination, will obtain evidence or other documentation to establish a reasonable basis for any opinion rendered. No opinion shall be expressed regarding the guilt or innocence of any person or party." Although it does not specifically state such, the above Article really applies to statements made to third parties. If the Certified Fraud Examiner v/as interviewing a suspect whose guilt was highly probable, the Code would not prohibit the examiner from making accusations. The admission-seeking process, used extensively by Certified Fraud Examiners, requires accusations be made of the probable guilty party. As long as these accusations are not communicated to third parties, the Certified Fraud Examiner v/ould not be in violation of the Code.See page(s) 4.1014-4.1015 in the Fraud Examiner's Manual

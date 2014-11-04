@@ -1,0 +1,86 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security/Logs and History Files
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Logs and History Files 
+Computer systems maintain a variety of history files or logs. These logs record activity in the 
+following areas: 
+• Mainframe activity 
+? Programs executed 
+? Data files accessed 
+? Date, time, and duration 
+? User IDs that initiated a particular action 
+? Error messages 
+? Equipment malfunctions 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1845 
+• Communications activity 
+? User ID 
+? Terminal identifier 
+? Dial-in port identifier 
+? Date, time, and duration 
+? Error messages 
+? Equipment malfunctions 
+• Security software activity 
+? User ID 
+? Unsuccessful log-in attempts 
+? Modifications to the password files and access capability 
+ 
+These logs were originally designed to help in troubleshooting the system and correcting 
+errors. These files contain a very valuable audit and fraud examination trail of system 
+activity, and are now used for internal control functions. The logs should be reviewed by a 
+responsible data center official and evidence should exist of this review. Many of the history 
+files have a limited capacity and can be forced into wrapping if not printed periodically. 
+Wrapping forces the software to record at the beginning of the file if the file is full and not 
+printed out.  
+ 
+
+
+
+:
+
+
+log and histori file
+comput system maintain a varieti of histori file or log these log record activ in the
+follow area
+mainfram activ
+program execut
+data file access
+date time and durat
+user id that initi a particular action
+error messag
+equip malfunct
+financi transact comput and internet fraud
+2011 fraud examin manual 11845
+commun activ
+user id
+termin identifi
+dialin port identifi
+date time and durat
+error messag
+equip malfunct
+secur softwar activ
+user id
+unsuccess login attempt
+modif to the password file and access capabl
+these log were origin design to help in troubleshoot the system and correct
+error these file contain a veri valuabl audit and fraud examin trail of system
+activ and ar now us for intern control function the log should be review by a
+respons data center offici and evid should exist of thi review mani of the histori
+file have a limit capac and can be forc into wrap if not print period
+wrap forc the softwar to record at the begin of the file if the file is full and not
+print out

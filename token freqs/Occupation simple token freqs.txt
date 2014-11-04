@@ -1,0 +1,21 @@
+Token                          Frequency
+-----------------------------  ---------
+occupations                            1
+occupation                             3
+•                                      7
+employment                             1
+prior                                  1
+and                                    1
+present                                2
+of                                     1
+time                                   1
+address                                1
+additional                             1
+spouse                                 1
+company                                1
+name                                   1
+length                                 1
+salary                                 1
+employed                               1
+
+Totals:                     17        26

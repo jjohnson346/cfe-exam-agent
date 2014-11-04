@@ -1,0 +1,2023 @@
+2011 Fraud Examiners Manual/Law/TESTIFYING AS AN EXPERT WITNESS
+
+
+:
+
+
+Law
+
+
+:
+
+
+Testifying as an Expert Witness
+
+
+:
+
+
+TESTIFYING AS AN EXPERT WITNESS 
+ 
+Introduction 
+Certified Fraud Examiners, accountants, and auditors often are called upon to provide 
+testimony in criminal and civil prosecutions where their services can be used to support 
+investigations of matters such as financial frauds, embezzlements, misapplication of funds, 
+arson for profit, bankruptcy fraud, improper accounting practices, and tax evasion. Fraud 
+examiners may also be used as defense witnesses or to support the defendant’s counsel on 
+matters that involve accounting or audit issues. 
+ 
+Experts can serve one of two roles in the trial process: testifying expert or consulting expert. 
+Testifying expert witnesses give opinion testimony when specialized knowledge is needed to help 
+the jury understand evidence or determine a fact in issue. Conversely, consulting experts typically 
+do not testify at trial. Instead, they are hired to provide technical assistance to the attorney in 
+preparing the case. Generally, both testifying and consulting experts play an ongoing part with 
+the litigation process.  
+ 
+Although experts serve one of two roles, they can perform various functions throughout the 
+litigation process. Lawyers often count on testifying experts to help crystallize the judge or 
+jury’s understanding of the case. In his book, Effective Expert Witnessing, author Jack V. Matson 
+lists the four main functions of all expert testimony and offers advice on fulfilling each 
+assigned duty: 
+• Establish the facts. You must first develop a strategy to collect and examine the 
+documentation in the case. The discovery process, which is a mechanism for full 
+disclosure of all knowledge pertinent to the case, usually yields a vast amount of paper, 
+which the expert then must sift through to make a preliminary classification of relevance. 
+• Interpret the facts. Tie together cause and effect relationships with the data and the facts for 
+the technical basis of your case. Do not be fooled by correlation that seemingly links cause 
+and effect but holds no theoretical justification. 
+• Comment on the opposing expert’s facts and opinions. Develop a good understanding of the 
+opposing experts by reviewing their educational background and experience. Read their 
+publications. Probe for weaknesses that your side might exploit. Oftentimes trials become 
+a battle of the experts. Prepare for the battle with as much intelligence as you can muster. 
+Take apart the opposition’s expert report, which represents the other side’s best case, 
+piece by piece. Your attorney needs to know the most intimate details about the facts and 
+opinions contained in that report. 
+Testifying as an Expert Witness  Law 
+2.802  2011 Fraud Examiners Manual  
+• Define the professional standards in the particular area of your opponent’s expertise. One of the most 
+critically important ways an expert is used in trial is to define the “standard of care” 
+exercised by fellow professionals in the field. Standard of care has been traditionally 
+defined on the basis of judgment normally exercised by professionals in good standing. 
+Additionally, the professional must be informed or aware of current practices and 
+promulgation. Obsolete practices are now considered by the court to be negligent 
+practices. Thus, professionals must exercise reasonable, informed judgment in carrying out 
+their duties. You, as the expert, will be called upon to define the professional standard and 
+to measure that against the standard of care exercised by the professional(s) on the other 
+side. 
+ 
+If called by the prosecution, examiners might testify to their findings, and if called by the 
+defense, they might testify regarding opinions expressed by the prosecution’s expert — to 
+create doubt in the jury’s mind about the credibility or weight to be given to that expert. 
+ 
+Alternatively, an examiner might be called upon to give an opinion different from that reached 
+by an equally credible expert on the other side. This might be due to different interpretations 
+of the facts of the case. In some instances, given equally plausible alternatives, the case might 
+be decided on whichever side has the most credible expert witness. 
+ 
+Additionally, effective expert witnesses frequently share certain characteristics. Credibility is 
+one such feature. To become a “credible” expert witness, one must be a member in good 
+standing of the profession and usually be recognized as an authority in that profession or 
+some specialized aspect of practice within it. 
+ 
+Similarly, an expert witness in the area of accounting must have a thorough knowledge not 
+only of generally accepted accounting principles, but also of current promulgations. The 
+expert’s expertise often might involve special knowledge of a specific industry. In this case, 
+the expert should be aware of recent developments and any important issues within that area. 
+ 
+The expert also must be analytical and be able to work with incomplete data. The expert, 
+however, might not always be able to recognize when data is incomplete. As a result, the 
+expert might make assumptions that will then be open for interpretation or attack. If all data 
+have not been made available, then the opposing counsel might be able to offer alternate 
+scenarios that are more plausible under the circumstances, thus discrediting the expert. 
+ 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.803 
+Pre-trial Preparation 
+Pre-trial preparation remains key to becoming a successful expert witness, and success often 
+depends on full inquiry and thorough investigation. Following the initial complaint and 
+answer, the discovery process usually begins with one side giving the other a set of written 
+questions, called interrogatories. An expert’s assistance may begin by composing the questions 
+or by providing the replies, depending on your side of engagement. Both sides then submit 
+requests to the other for production of records pertinent to the case. A financial expert is 
+often expected to educate a lawyer on the types of documents typically available. Most 
+everything — from a single deposit slip to continuous ATM videotapes to voluminous 
+accounting ledgers — is subject to discovery. 
+ 
+Many times financial crime experts on the prosecutor’s side must scale a mountain of 
+documents or scroll through a heap of computer files to find the core facts that show criminal 
+intent or behavior. The defense may bury the other side in paper or electronic documents to 
+hide or trivialize vital documentation. Because an efficient search saves time and money, 
+successful experts develop an early strategy and tick off a detailed checklist to achieve their 
+goals within a specific time frame. 
+ 
+When testifying as an expert, it often is useful to have a list of all other witnesses, including 
+those for the other side. This is important so that the expert is not surprised by the existence 
+of other experts or reports. One can then determine if it is necessary to be present for the 
+testimony of those witnesses and can obtain the necessary court approval. If another expert 
+will be present, then it becomes incumbent upon the expert witness to examine the alternate 
+reports and to assess whether or not reasonable points are brought up by the other side that 
+might affect the credibility of the expert’s report. 
+ 
+ 
+Conflicts of Interest 
+When retained, experts must quickly determine if any conflicts of interest exist — or even 
+appear to exist — in a particular case because a conflict might preclude participation. A conflict 
+of interest exists when an expert’s ability to objectively evaluate and present an issue for a 
+client will be impaired by any current, prior, or future relationship with parties to the litigation. 
+ 
+There are several actions an expert can take to determine if any conflicts of interest exist. 
+Before engagement, ask for the names of all parties involved. Review the names with your 
+associates as well, requesting full disclosure of any connections, however remote. Prior or 
+Testifying as an Expert Witness  Law 
+2.804  2011 Fraud Examiners Manual  
+ongoing relationships may suggest to others that the expert could not provide undivided 
+loyalty to the cause and your client.  
+ 
+Penalties for consulting or acting as an expert in a conflict of interest include expert 
+disqualification, attorney disqualification, and inadmissibility of expert testimony. 
+ 
+ 
+Preparing a Report 
+Careful consideration should be given to the preparation of an expert report, which 
+documents your findings and opinions for both sides. It puts your reputation on the line. A 
+well-written report that lays out a strong case might even prompt an early settlement. 
+However, it also lets the opposition see the strengths and weaknesses of your case and better 
+prepares them for your deposition and trial testimony.  
+ 
+Keep the following six tips in mind when preparing an expert report: 
+• Be brief 
+• Avoid ambiguity or inexact language 
+• Avoid generalizations; be specific 
+• Add charts or graphs where appropriate 
+• Reference your work 
+• Meticulously check the report for accuracy and neatness 
+ 
+An important problem in the preparation of reports and accounting summaries arises from 
+the delegation of tasks to subordinates. If the person giving evidence has not had direct 
+knowledge or has not examined the specific documents or prepared the summaries, the expert 
+might be trapped under the hearsay rule. If tasks are delegated, it is important that the review 
+process entails comparison of all original work documentation. 
+ 
+It also is important to know the effect of other assumptions on the conclusion or opinion 
+reached in the report. It often is possible to trap an expert into giving alternate opinions based 
+upon assumptions that had not been considered. Generally, working papers and schedules 
+supporting the report should not show contradictory conclusions as they may be produced in 
+court. This is not to advocate that working papers should be deleted or amended subsequent 
+to preparation; rather, it is a caution that these papers should be prepared with the precept 
+that they could ultimately be submitted to the court. Thus, the work papers should be 
+appropriately prepared.  
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.805 
+Once they accept a case, many experts immediately start assembling a narrative version of the 
+events. This detailed summary of the facts of the case serves as the raw material for rendering 
+an official opinion. It is important that the text be written with care and professionalism — as 
+the discussion below outlines, the text may (and probably will) have to be produced during 
+discovery. Additionally, a well-written narrative helps the attorney in preparing and executing 
+the case at trial. 
+ 
+What to Include in an Expert Witness Report  
+The requirements for an expert report differ depending on whether a case is pending in 
+federal or state court. Federal Rule of Civil Procedure 26(a)(2), which applies to civil cases in 
+federal court, requires expert witnesses to prepare reports and provide them to the opposing 
+parties, although this requirement may be waived if directed by the court or agreed to by the 
+principle parties involved. The rule applies to experts who have been retained specifically for a 
+given case, and it includes employees of a party if part of the employees’ duties involves giving 
+expert testimony. A written report, often called a Rule 26 report, must be produced for each 
+expert witness.  
+ 
+Conversely, some state courts do not require written expert reports but may require another 
+form of mandatory disclosures. Unfortunately, the requirements of all fifty states are beyond 
+the scope of this manual. Therefore, experts should check with counsel prior to issuing their 
+written report to make sure that the report will comply with any applicable standards or 
+requirements under state law. 
+ 
+Consult with Counsel 
+Generally, experts should coordinate with counsel to ensure that their reports comply with all 
+applicable legal standards. Failure to comply could result in a disposition of a claim by 
+summary judgment or an order precluding an expert from testifying. 
+ 
+Generally, Include Only What Is Necessary 
+If a written report is requested, include only what is necessary. Avoid gratuitous and 
+unimportant comments. At a minimum, an expert witness report should do the following: 
+• Identify the reason for the report and provide the matter to be explored by the report 
+• Provide the expert witness’s observations and opinions, including the basis, rationale, data, 
+or other information used to reach the opinions 
+• List any exhibits used as a summary of or in support of the provided opinions, including 
+all charts or graphs 
+Testifying as an Expert Witness  Law 
+2.806  2011 Fraud Examiners Manual  
+• State any conclusions the witness may have reached based on the observations and 
+information 
+• Provide all sources, including individuals, articles, sources, documents, and books that the 
+expert consulted 
+• Cite specific tests that support the expert’s conclusion and list the standards or test 
+methods used by the expert 
+ 
+Rule 26 Reports and Disclosure Requirements Under the Federal Rules of Civil Procedures 
+As noted above, expert reports in all civil actions in federal court must comply with Rule 26 of 
+the Federal Rules of Civil Procedure. Rule 26 states that testifying experts must prepare a 
+written report and make certain disclosures about their opinions and supporting grounds. 
+Specifically, the expert report, which must be prepared and signed by the expert witness, must 
+include the following: 
+• A complete statement of all expert opinions to be expressed and the basis and reasons for 
+such opinions 
+• The data or other information considered by the witness in forming the opinion 
+• Any exhibits to be used as support for or as a summary of the opinions 
+• The qualifications of the expert witness 
+• All publications authored by the expert in the preceding 10 years 
+• A list of all other cases in which the expert has testified as an expert at trial or at 
+deposition within the preceding four years 
+• The expert’s compensation for his review and testimony 
+ 
+The Federal Rules of Civil Procedure also impose time limits concerning Rule 26 Reports. The 
+rules require that the identity and report of the expert must be disclosed at least 90 days before 
+trial. But the disclosure of an expert whose testimony is intended solely to contradict or rebut 
+another witness’s testimony must be disclosed within 30 days after the other witness’ 
+disclosure. Additionally, an expert must supplement the written report or deposition 
+testimony at least 30 days before trial if he becomes aware that previous disclosures might 
+have been materially incomplete or incorrect. 
+ 
+If a court finds that an expert report fails to satisfy the Rule 26 requirements, it may strike the 
+expert designation and prohibit the expert from testifying. A sample format for an expert 
+report is included at the end of this chapter. 
+ 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.807 
+Note that under the Federal Rules of Civil Procedure, the expert witness must turn over 
+anything he used in forming his opinion. Thus, if an expert uses privileged or confidential 
+documents, those documents must be given to the opposing party. 
+ 
+Moreover, draft reports are also discoverable. Therefore, experts should never destroy drafts, 
+notes, recordings, or any other form of documentation used to form the expert’s opinion. Any 
+action to do so may result in permanent loss of the expert’s credibility. In fact, the best 
+practice to prevent discovery of draft reports is not to create draft reports in the first place. 
+ 
+These mandatory disclosure requirements remain controversial. Attorneys and judges cannot 
+agree on whether the requirements add unnecessary expense or whether they promote 
+uniformity and fairness. At least one of those goals, uniformity, has not been realized. Rule 26 
+provides that the disclosure requirements are mandatory unless a particular district court 
+provides otherwise by order or local rule. Several district courts have elected not to adopt Rule 
+26 and have written their own local rules in its place. Accordingly, instead of providing a 
+uniform system of disclosing information, the amendments have led to a system of different 
+rules for different districts. 
+ 
+Disclosure Requirements Under the Federal Rules of Criminal Procedure 
+Lawyers and expert witnesses must also mind the rules regarding expert disclosures in criminal 
+cases, which are different from those required in criminal cases. In criminal cases, pretrial 
+expert disclosure is only triggered if the defendant requests it from the government. When this 
+happens, the government must produce a written summary of any testimony that it intends to 
+use during its case-in-chief at trial. The summary must describe the witness’s opinions, the 
+bases and reasons for those opinions, and the witness’s qualifications. If the government 
+complies and requests reciprocal disclosure, the defendant must also provide a summary of 
+any expert testimony he intends to use at trial.  
+ 
+Expert Witness Discovery 
+Concerning expert witnesses, discovery is the process by which the opposing side finds out an 
+expert’s opinions and underlying rationales. Caution is the by-word for expert witnesses at 
+every step of the legal process.  
+ 
+In general, everything that a expert witness creates or uses is discoverable. According to FRCP 
+26, which applies to civil cases in federal court, everything the expert receives, reviews, relies, 
+produces, and says about the case after being hired is subject to discovery by opposing 
+Testifying as an Expert Witness  Law 
+2.808  2011 Fraud Examiners Manual  
+counsel. That means everything: narrative versions of the case, comments to the press or law 
+enforcement, hypothetical reconstructions, draft reports, and even notes can be demanded 
+and used by the opposing party. A shrewd attorney can use an expert’s notebook — which 
+contains “dry runs” at an opinion and other purely deliberative information — to call the 
+witness’s testimony into question. The only exception, as discussed below, is when the expert 
+is hired by the attorney purely on a consulting basis. 
+ 
+Because all “data or other information considered by the witness in forming the opinions” is 
+admissible in federal court, experts should never destroy drafts, notes, recordings, or any other 
+form of documentation used to form the expert’s opinion (Federal Rules of Civil Procedure, 
+Rule 26(a)). 
+ 
+In legalese, an expert witness has no privilege. The principle of privilege exists to protect certain 
+core societal relationships (attorney-client, husband-wife), but the expert witness’s relationship 
+with clients is not among those protected. If the expert’s opinions will be presented in court, 
+everything related to the expert’s opinion is discoverable.  
+ 
+In fact, anything an expert carries into a deposition — sworn testimony given by a party or 
+witness upon questioning by counsel for one of the parties before trial and outside of court — 
+is subject to discovery. Attorneys have been known to request a search of someone’s attaché 
+case to get at important materials. This sharp edge of discovery is why experts insist on being 
+deposed away from their own workplace; if they did not, their entire files would be subject to 
+discovery.  
+ 
+The Consulting Expert Exception 
+Although everything a expert witness receives, reviews, relies, produces, and says is generally 
+discoverable, there is an exception of course: The rules of discovery generally protect 
+communications between a consulting expert, the attorney, and the party from disclosure to 
+adversaries.  
+ 
+Specifically, the work of a consulting expert is generally not discoverable because it typically 
+falls under the protection of the work product doctrine. To review, the work product doctrine 
+prevents compelled disclosure of documents and tangible things prepared in anticipation of 
+litigation. And because its protection extends to information prepared by or for a party or the 
+party’s representative, including consultants, the work of a consulting expert is generally not 
+discoverable. But otherwise protected materials may become discoverable through waiver, and 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.809 
+the general test for waiver is whether the materials at issue have been disclosed in a manner 
+inconsistent with keeping it from an adversary. 
+ 
+The distinction between the protection afforded to consulting and testifying experts is 
+something like this: when acting as “witnesses,” experts are bringing official information to 
+the court and thus must disclose any contact with the case; when experts act as “consultants” 
+or “associates” for attorneys or law enforcement, they are only assisting the attorney and do 
+not have to disclose their involvement in the case. 
+ 
+There is, of course, one trap for the unwary: Protection of work product performed by a 
+consulting expert may be lost when a testifying expert reviews the work of a consulting expert. 
+The rule is that if an expert will testify at trial, everything he does regarding the case must be 
+turned over to the other side. If an expert works only as a consultant to the attorney, then his 
+work product is not discoverable. But if a testifying  expert reviews the work of a consulting  
+expert, then the work of the consultant expert will be discoverable. Just remember this: If you 
+are hired to testify at trial, anything you used to form your opinion will be subject to review by 
+the opposing party. This includes notes from other experts, documents received from the 
+plaintiff or defendant, and any documents or notes from the attorney. Be sure to consult with 
+the attorney before you review anything. If a document was given to you by someone other 
+than the attorney, ask before you read it. Otherwise, you may inadvertently destroy the 
+confidentiality or privilege of the material. 
+ 
+Keeping Good Files 
+The best way to protect the confidentiality of information is to keep good files. Dan Poynter 
+reports that experts routinely “reduce their files to useful reports only” once they have been 
+officially engaged as a witness for trial. No one is recommending that files be sanitized, 
+Poynter adds, just updated. The difference may be subject to abuse, but it is simple: Any 
+materials that serve as the basis for an expert’s opinion must be in the file. Notes, documents, 
+or tests that serve as background or that represent unfruitful lines of investigation do not have 
+to be included and probably should not be. The attorney trying the case doesn’t want an 
+expert having to answer about dead ends or exploratory jaunts; a shrewd cross-examiner can 
+turn a hastily scribbled hypothetical into just enough “reasonable doubt” to avert a conviction. 
+So, in the best case scenario, an expert presents to the court an opinion and its basis — nothing 
+more, nothing less.  
+                                                 
+7 Poynter, Dan.  The Expert Witness Handbook.  Santa Barbara: Para Publishing, 1997: p. 82. 
+Testifying as an Expert Witness  Law 
+2.810  2011 Fraud Examiners Manual  
+Proposed Changes to Expert Witness Rules Related to Expert Witness Discovery 
+Recently, the Judicial Conference of the United States’ Advisory Committee on Federal Rules 
+of Civil Procedures proposed significant amendments to Rule 26. If adopted, the amendments 
+would significantly change the discoverability of the data or information considered by a 
+testifying expert. This section examines the proposals.  
+ 
+Although almost everything a testifying expert says or writes is subject to discovery by 
+opposing counsel under current law, the revisions would prohibit the discovery of draft expert 
+reports and limit discovery of attorney-expert communications. More specifically, the 
+amendments would, among other things, make the following three changes: 
+• Communications between counsel and retained testifying experts would generally be 
+protected from disclosure or discovery. This amendment would offer work product 
+protections similar to those already available to consulting experts.  
+• Draft reports and disclosures required by Rule 26(a)(2) of any testifying expert would no 
+longer be discoverable.  
+• Rule 26 reports produced by a testifying expert would only need to include the “facts or 
+data considered” by the expert. Currently, Rule 26(a)(2) reads “data or other information 
+considered,” which courts have interpreted to include everything communicated by 
+counsel to the expert. Thus, the amendment emphasizes that experts should only include 
+factual information in their reports.  
+ 
+These amendments are expected to be adopted and become effective on Dec. 1, 2010, as 
+amended. 
+ 
+ 
+Qualifying to Testify as an Expert Witness 
+Just what constitutes expert status? Generally, the term expert witness refers to someone 
+whose education and professional credentials establish their knowledge of a particular set of 
+practices. As with introducing exhibits in trial, counsel must lay a foundation for the expert’s 
+testimony. This means showing that by formal education, advanced study, or experience, the 
+witness is sufficiently knowledgeable on the subject at hand. That is, a witness must be 
+qualified to testify as an expert. The foundation may be established during the pre-trial stage 
+or during direct examination.  
+ 
+Unfortunately, it is becoming increasingly difficult to testify in federal courts as an expert and 
+to understand the standards and rules to qualify as an expert. 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.811 
+Rule 702 of the Federal Rules of Evidence governs the admissibility of expert testimony in 
+federal court. Rule 702 provides that a witness qualified as an expert by “knowledge, skill, 
+experience, training, or education” may testify in the form of an opinion or otherwise to 
+“scientific, technical, or other specialized knowledge” if such testimony will “assist the trier of 
+fact to understand the evidence or to determine the fact in issue.” 
+ 
+In Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993), the Supreme Court stated that 
+judges should act as “gatekeepers” and keep out scientific testimony that is not based on the 
+methods of science. In a related case titled Kumho Tire Co. v. Carmichael, 526 U.S. 137 (1999),  
+the Supreme Court stated that the judge’s gate-keeping function applies not just in cases 
+dealing with scientific evidence, but in any case involving testimony based on “technical” and 
+“other specialized knowledge.”Taken together, these cases mean that expert testimony given 
+by Certified Fraud Examiners, accountants, or other experts must be judged against the 
+standards set forth by the Supreme Court in the Daubert case.  
+ 
+In response to these cases, Rule 702 of the Federal Rules of Evidence was modified to 
+specifically include the standards set forth by the Supreme Court in Daubert and Kumho Tire. 
+Rule 702 now reads: 
+ 
+If scientific, technical, or other specialized knowledge will assist the trier of fact to understand the 
+evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, 
+experience, training, or education, may testify thereto in the form of an opinion or otherwise, if (1) 
+the testimony is based upon sufficient facts or data, (2) the testimony is the product of reliable 
+principles and methods, and (3) the witness has ap plied the principles and methods reliably to the 
+facts of the case. 
+ 
+Simply put, Rule 702 provides that the judge must make three determinations before allowing 
+an expert to testify before the jury:  
+• Is the person qualified as an expert witness?  
+• Will the expertise of the witness assist the jury in understanding the evidence or 
+determining a fact at issue? In other words, is  the testimony relevant to the facts of the 
+case? 
+• Is the testimony reliable? 
+ 
+Qualifications 
+Before admitting expert testimony, the judge must determine that the expert is a qualified 
+Testifying as an Expert Witness  Law 
+2.812  2011 Fraud Examiners Manual  
+practitioner. This element addresses whether the individual is qualified to assist the trier of 
+fact. For a witness to qualify as an expert, counsel must establish that the witness is sufficiently 
+knowledgeable on the subject at hand by showing formal education, skill, or experience. The 
+determination of whether a witness is qualified as an expert or whether expert testimony is 
+needed is left to the discretion of the trial judge.  
+ 
+The process of evaluating whether an expert is qualified mainly centers on the candidate’s 
+formal education and work experience — whether that includes 30 years in law enforcement or 
+10 years in a large accounting firm. But there is no particular educational requirement for 
+expert testimony; a witness with no formal education may be qualified based on training or 
+experience. Some other factors that may be considered include the candidate’s: 
+• Awards and honors 
+• Licensing or certification 
+• Technical training 
+• Published books and journal articles 
+• Positions in professional associations, societies, and organizations 
+ 
+In addition to being qualified as an expert, the expert’s qualifications must be relevant to the 
+particular issue(s) in the case at hand. But the important thing to remember is that a person 
+can be qualified as an expert based on either special training or experience. A person does not 
+have to be a CFE to testify as an expert on fraud detection techniques if that person has 
+sufficient practical experience in those techniques. The CFE designation is important because 
+it serves as a recognition of the special skills that those holding the designation have 
+demonstrated to become a CFE. 
+ 
+Although designations are important, it is most helpful to have prior experience as an expert 
+with litigation or criminal matters. This is primarily because of what is learned during the 
+experience of testifying. Further, it often is helpful to have been accepted as an expert in other 
+cases thereby easing current acceptance. A danger exists, however, of appearing to be a 
+“professional witness.” 
+ 
+The counsel introducing the witness often will read the expert’s qualifications or ask specific 
+questions to establish the witness’s credentials. Smart defense lawyers are not likely to 
+challenge the credentials of experts, assuming they meet at least minimum standards of 
+professional competence. To do so may give these experts an opportunity to fully highlight 
+their professional credentials and perhaps make a greater impression on the jury or judge, thus 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.813 
+adding more weight to their testimony. Although the expert’s qualifications are not often 
+contested, it does happen. Beyond being accepted by both parties, the expert witness most 
+importantly must be accepted by the court. 
+ 
+Testimony 
+After determining that a witness is a qualified expert, the trial judge must determine that the 
+testimony offered by the expert is relevant to the facts of the case and reliable. These two 
+questions focus on what opinions the expert will actually testify to in court.  
+ 
+Relevant testimony will assist the jury in understanding the evidence or determining a fact at 
+issue. To be relevant, the proposed testimony must be “sufficiently tied to the facts of the case 
+that it will aid the jury in resolving a factual dispute.” Specifically, the court must determine 
+whether the expert’s opinion has any tenden cy to make the existence of any fact more 
+probable than it would be without the evidence. Testimony is not relevant if the jury can make 
+its own determination without expert testimony. 
+ 
+To be reliable, the testimony must be based on sufficient facts and data, and it must be the 
+product of reliable methodology that has been reliably applied  to the facts of the case. This 
+assures that an expert’s opinions are not mere speculation.  
+ 
+In Daubert v. Merrell Dow Pharmaceuticals, Inc., the Supreme Court set forth the following non-exclusive 
+list of factors to assess reliability: 
+• Whether the expert’s theory or technique can be or has been tested 
+• Whether the expert’s theory or technique has been subjected to peer review and 
+publication 
+• Whether the expert’s theory or technique enjoys general acceptance within the relevant 
+scientific community 
+• Whether there are standards governing the method used by the expert 
+• Whether the expert’s technique has a high error rate 
+ 
+Accordingly, CFEs should be sure to fully cover the rationale for their assumptions and 
+determine whether the assumptions are supported by the facts presented during discovery. In 
+fact, courts often find that assumptions not supported by evidence render expert opinions 
+insufficient, thus causing the judge to exclude the expert’s testimony. For example, in Target 
+Market Publishing, Inc. v. ADVO, Inc., a breach of contract case arising from a joint venture to 
+produce advertising publications, a well-qualified accountant and business appraiser concluded 
+Testifying as an Expert Witness  Law 
+2.814  2011 Fraud Examiners Manual  
+that, had the defendant performed its contractual obligations, the joint venture would have 
+earned $1.4 million in profits. To reach this conclusion, the expert assumed the joint venture 
+would have successfully entered 49 marketing zones at the time of the breach. But the joint 
+venture had only entered into two marketing zones and was unprofitable in both. The 
+appellate court affirmed the exclusion of the expert’s opinion as to the value of a contract 
+because the methodology underlying the opinion was based upon subjective belief and 
+speculation, including unsupported assumptions.  
+ 
+When preparing an expert report or testimony, examiners should keep in mind the Daubert 
+factors set forth above. Examiners should document their conclusions, how they reached 
+those conclusions, what evidence they based the conclusions on, and what professional 
+techniques or knowledge they used. It would also be a good idea to keep a list of professional 
+books or journals that advocate or sanction whatever principles were used in drawing the 
+conclusions. 
+ 
+Daubert Challenges 
+A Daubert challenge is a motion raised, either before or during trial, to exclude an expert 
+witness from presenting evidence. This motion is used to exclude the testimony of an expert 
+who lacks sufficient expertise or uses questionable methods. 
+ 
+Basis of Expert Testimony 
+Rule 703 of the Federal Rules of Evidence governs the sources on which experts may base 
+their testimony. It provides that experts may rely on facts or data made known to the expert at 
+or before the hearing: 
+ 
+The facts or data in the particular case upon which an expert bases an opinion or inference may 
+be those perceived by or made known to the expert at or before the hearing. If of a type reasonably 
+relied upon by experts in the particular field in forming opinions or inferences upon the subject, the 
+facts or data need not be admissible in evidence in order for the opinion or inference to be 
+admitted.  
+ 
+Therefore, under Rule 703, an expert may base an opinion on:  
+• Firsthand observations 
+• Facts, data, or opinions presented at trial 
+• Facts, data, or opinions conveyed outside of court  
+ 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.815 
+In addition, under Rule 703, experts can rely on inadmissible hearsay or other inadmissible 
+evidence as long as it is the type reasonably relied upon by experts in the particular field — a 
+determination that is left to the discretion of the trial judge. This rule allows an expert to 
+employ data usually used by experts in the field, though the data itself may not be admissible. 
+An example might be a table of interest rates taken from a Department of Commerce 
+publication. Similarly, an accountant serving as an expert witness may rely on private sources 
+in forming an opinion if such sources normally are relied upon by accountants.  
+ 
+The majority of states, however, follow the common law rule, which permits a more limited 
+basis for expert testimony. Most states require the expert to predicate testimony on firsthand 
+perception, or in the alternative, information “admitted in evidence at the hearing” at which 
+he is called to testify. 
+ 
+ 
+Preparing to Testify 
+The majority of cases filed will not go to trial. They will be resolved through either a 
+settlement agreement or a plea bargain. Therefore, most experts’ experience in testifying 
+comes through having their depositions taken.  
+ 
+Depositions of Expert Witnesses 
+A deposition is sworn testimony given by a party or witness upon questioning by counsel for 
+one of the parties before trial and outside of court. A deposition serves as a powerful 
+discovery device that may be used to compel anyone associated with the case to give oral 
+testimony under oath. Although you cannot decline to testify, an expert may be allowed to 
+specify a convenient time and place.  
+ 
+Sometimes the party requesting the deposition pays the opposing expert’s fee — which consists 
+of the time spent giving the deposition at his standard hourly rate or in half-day or full-day 
+increments, plus travel time. This usually occurs in federal court. Most state courts require 
+each side to pay the expenses of the expert’s they hire. An expert charges his client for the 
+time spent preparing for deposition and for testifying. 
+ 
+In addition to the required court reporter, the proceeding may be recorded by a camera or a 
+voice recorder. A judge is not present during this question-and-answer session. For skilled 
+investigators, deposition provides a golden opportunity to hear the other side’s case aloud. 
+The opposition may set ulterior goals as well, including: 
+Testifying as an Expert Witness  Law 
+2.816  2011 Fraud Examiners Manual  
+• To learn new information or confirm existing facts 
+• To appraise the expert’s ability as a witness 
+• To lock the expert into a hard-to-defend position 
+• To create a written record for future impeachment 
+ 
+Before testifying at a deposition or at trial, the expert should ensure that required graphic 
+displays are ready and available, that all important discussions with the lawyer have been held, 
+and that the expert has a complete understanding of the report and other relevant issues. The 
+expert should ensure that he has agreement with counsel as to the sequence of evidence and 
+the strategy for presenting it. It often is useful to have a “dry run” at the direct testimony, with 
+all the questions posed by the counsel to the expert, to avoid surprises during trial. 
+ 
+At pre-testimony meetings, it is appropriate to discuss the qualifications of the witness again 
+to ensure that they are current, to discuss the strengths and weaknesses of the case, and to 
+discuss and agree on what parts of the expert’s reports, if any, are to be entered as exhibits. 
+ 
+Appearance 
+The appearance of the expert witness often lends itself to an assessment of the credibility of 
+that witness. It is recommended that the witness wear conservative business attire, be well-groomed, 
+and neatly dressed.  
+ 
+It is also important that the witness maintain a professional demeanor. In the witness box, the 
+witness should maintain a poised, alert appearance, stand firmly, and be ready to take the oath. 
+The witness should not smile gratuitously at the judge, jury, or the lawyers. Also, it is 
+important that the witness keep control of his hands, to avoid fidgeting. And witness should 
+maintain eye contact with the questioner as much as possible; he should not stare off into 
+space, at the floor, or at the ceiling. 
+ 
+As the judge will be taking notes, the witness should speak slowly to ensure that the judge 
+does not fall behind. The answers should be directed to the questioner. The witness’s voice 
+should be strong, clear, and audible. Thus, before answering each question, the witness should 
+pause before answering and carefully consider the answer; he should also respond in a slow 
+and deliberate manner. 
+ 
+Do's and Don'ts 
+There are other considerations in making an expert a credible witness. Some tips are: 
+• Exude an alert and confident attitude. 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.817 
+• Maintain professional pride and integrity throughout. 
+• Tell the truth; be honest and avoid bias. 
+• Use simple rather than complex terms, and refrain from using professional jargon. 
+• Explain complex concepts in a layperson’s terms. 
+• Be friendly and polite to all parties present. 
+• Be alert.  
+• Correct any misstatements as soon as they are detected. 
+• Listen carefully and answer the specific questions—do not go off on tangents or volunteer 
+more than the question requires. 
+• Do not verbally fence with the attorney. 
+• Do not try to be humorous or hip. 
+• Be calm and deliberate in responding to questions—think before you speak. 
+• Plan your testimony in advance and know your material thoroughly.  
+• Use graphs, charts, and other visual aids if they help to clarify a point. 
+• Do not read from notes if you can avoid it (the opposition lawyer will probably demand to 
+see such notes, and the witness will then look like he rehearsed his testimony). 
+• Prepare your material completely. If you have documents to introduce, have them 
+organized so that you can quickly retrieve them when asked to do so. 
+• Do not “hem and haw” or stammer; recover your composure when a tough or complex 
+question is posed. 
+• Ask for a question to be repeated or clarified if not fully comprehended. 
+• If an answer is not known, say so; do not guess. 
+• Do not invent and do not inflate. 
+• In cross-examination, do not respond too quickly because counsel might wish to object to 
+the question. 
+• Do not be evasive. 
+ 
+Several other things should also be avoided. These range from drinking five cups of coffee 
+immediately prior to testimony or chewing bubble gum while giving evidence, to small 
+physical mannerisms that might affect your appearance. These physical mannerisms, which 
+might be as simple as rubbing one’s hands together continually, looking down at one’s hands, 
+fidgeting on the stand, or jingling coins in a pocket, could become irritating to the judge and 
+jury. 
+ 
+Similar to trial proceedings, the opposition commonly drills an expert about his credentials, his 
+methodology, and his conclusions pertaining to the case. Unlike in a trial, the expert quite 
+Testifying as an Expert Witness  Law 
+2.818  2011 Fraud Examiners Manual  
+often answers tersely, giving only a straight “yes” or “no.” For inquiries that require more, you 
+should respond directly and precisely and refrain from volunteering any information. It is not 
+your duty to educate the other side at deposition. You may ask for a recess or a break if 
+needed. 
+ 
+Pour over the written transcription of your deposition afterward to ensure accuracy, 
+immediately correcting any omissions or errors, whether made by you or the stenographer. 
+Notify your lawyer if your opinion has changed since deposition. If you are present at the 
+deposition of the opposing expert, you may be asked to summarize your impressions 
+afterward and note any gray areas that call for further lines of inquiry. 
+ 
+ 
+Direct Examination  
+Direct examinations are conducted by the attorney who retained the expert. Because experts 
+are hired for their opinions, they are not subject to the usual restrictions about statements of 
+judgment. Experts also have other leeway not given to ordinary witnesses. They may rely on 
+documents or exchanges that would otherwise be inadmissible as hearsay. This allows them to 
+use articles, academic papers, professional texts, and consultations in rendering their opinions 
+of the case. These materials are admissible as long as they were used by the expert in 
+developing his opinion.  
+ 
+Presenting Expert Testimony 
+Expert witnesses present their findings in various ways such as narrative questions, 
+hypotheticals, specialized materials, and special exhibits. Experts are commonly asked to 
+answer narrative questions, which are all but forbidden to lay witnesses. Narrative questions are 
+broad, open-ended questions that allow experts to present their opinions in their own words 
+with minimal prompting from the lawyer. Fraud cases, with their divergent paths of activity 
+and intrigue, can require complex summarizing in order for the facts to make any sense. The 
+average group of jurors has never considered how someone could manipulate store 
+inventories to drive up the company’s stock price and then make millions on the phony surge. 
+The expert witness in cases like this often will begin testimony by recounting the narrative 
+background of a case, the tests and experiments that were performed during the investigation, 
+and a summary of the findings based on his professional expertise.  
+ 
+Expert witnesses also are allowed to demonstrate their findings by using hypotheticals: fictional 
+situations, analogous to the act in question, which clarify and highlight particular aspects of 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.819 
+the dispute. But to be effective, hypotheticals must be constructed exquisitely. Appeals courts 
+have been adamant that the facts of the case being tried have to be reflected directly in the 
+hypothetical situation; there must be no exaggeration or obscuring in the presentation.  
+ 
+Moreover, experts sometimes use specialized ma terials in reaching and communicating their 
+opinions. Professional publications and sources of information that normally are used in the 
+course of business may be produced as part of the trial. Federal rules require only that the 
+source be “generally used and relied on” by people in that field.  
+ 
+Finally, experts may use special exhibits to demonstrate facts about the case or some aspect of 
+their opinion. These exhibits may include charts, diagrams, annotated documents, or photos. 
+If the exhibit is offered to prove a fact, it must satisfy the rules applicable to any other piece of 
+evidence in the case. In demonstrating a professional opinion, the role of the exhibit must be 
+clear and its applicability to the present case justified, if necessary.  
+ 
+Direct Testimony Considerations 
+The purpose of direct examination is to enable counsel for the side you represent to draw out 
+the evidence to prove the case. Most likely, this will only be a reiteration of what previously 
+has been discussed with your counsel outside the courtroom. It is still very important, 
+however, to refresh your memory beforehand by reference to anything you may have read, 
+written, or given in evidence on the case. 
+ 
+Direct examination is the most organized aspect of the trial; it is the stage in which the 
+expert’s credibility must be established with the judge or jury. According to the concept of the 
+primary memory, people remember best what they hear first and last. This often is a useful 
+idea to employ in giving or structuring evidence. Another noteworthy point is that the jurors 
+often have limited attention spans in a long trial; thus, it is often useful to use a 
+“grab/give/conclude” method of presenting evidence. 
+ 
+To a witness, the interpretation of questions and the ability to listen are crucial skills. Even 
+though the witness might already have gone through a mock direct examination, it is critical 
+that each question be carefully evaluated again — the witness should reflect upon the questions 
+asked and not anticipate them (they might have been changed, anyway, since the time of 
+rehearsal). 
+ 
+The answers to all questions should be clear and concise, and, where complex terms are used, 
+Testifying as an Expert Witness  Law 
+2.820  2011 Fraud Examiners Manual  
+they should be clarified. Similarly, explain complex concepts in a layperson’s terms and avoid 
+professional jargon because the fact finders might not be familiar with esoteric or technical 
+terminology. 
+ 
+Use of notes should be limited as much as possible to maintain eye contact. 
+ 
+Schedules, if any, should be described accurately and succinctly in easily understood terms. 
+Schedules are, by their nature, concise documents and should be described in that manner.  
+ 
+If opinions are given, they should be stated with conviction. 
+ 
+Certain standards for Certified Fraud Examiners are found in the Code of Professional Ethics 
+(please see the Fraud Prevention and Deterrence section of the Fraud Examiners Manual). 
+Specifically, Certified Fraud Examiners are prohibited from expressing opinions as to the guilt 
+or innocence of any person or party. This is not to say that the expert witness cannot testify to 
+the badges, hallmarks, or characteristics of fraud found in the case. It also does not mean that 
+the Certified Fraud Examiner cannot testify that, based on the evidence, he believes the 
+accused might have committed the offense. However, the ultimate guilt or innocence of any 
+person or party is the sole responsibility of the judge and jury. The Certified Fraud Examiner 
+typically will not be permitted to testify to the ultimate fact questions. 
+ 
+ 
+Cross-Examination 
+Cross-examination is truly the highlight of the adversary court system. It is geared to allow 
+counsel either to clarify or to make points at the witness’s expense. It generally is the most 
+difficult part of the trial process for any witness. Anything can turn up that might refute or 
+embarrass the witness. The witness’s credibility is constantly called into question. 
+ 
+The goals of the opposing counsel during cross-examination are threefold. The first goal is to 
+diminish the importance of the expert testimony just presented. The second goal is to have 
+the expert testify in support of the opposing position by providing a series of assumptions. 
+The third goal is to attack the opinion itself or to show the inadequacies in the expert’s 
+opinion, thereby discrediting the opinion, the report, and the witness. 
+ 
+The opposing counsel can attack or question anything that has been said or entered into court. 
+This includes notes, working papers, affidavits, will-says, reports, and preliminary trial or 
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.821 
+discovery transcripts. Often, cross-examination creates an atmosphere of confrontation and 
+contradiction.  
+ 
+The witness must not take attacks or attempts to discredit personally. There are many ways to 
+discredit an expert witness. Throughout the process, it is important for the witness to maintain 
+pride and professional integrity. An adage to remember is that “even mud can be worn well.” 
+ 
+Opposing counsel wants to reduce or limit the impact of the witness’s evidence — it is natural 
+to feel a certain amount of apprehension, and this might do a great deal to keep the witness 
+alert. The jury often watches the judge, and thus the expert often can take a clue as to the 
+tempo and reaction of the jury and the judge to the evidence being presented. Slight changes 
+in style and presentation could be made accordingly. 
+ 
+The opposing counsel usually has a plan of cross-examination in mind and an expert witness 
+should be able to anticipate this direction to prevent falling into a trap. A danger to this, of 
+course, is that the witness will spend as much time planning ahead as answering the questions, 
+and might not be giving appropriate attention to the immediate questions. Further, in 
+attempting to anticipate a question, the witness might misunderstand what is actually asked. 
+ 
+Generally, it is a rule of thumb that a witness should not volunteer or freely give information.  
+ 
+During the answer, it often might be extremely difficult to avoid getting trapped in various 
+assumptions, “what if” scenarios, and generalities presented by counsel during cross-examination. 
+If this occurs, or if asked a long or imprecise question, retrench by asking for a 
+question to be rephrased in smaller components. 
+ 
+It is critical never to underestimate the expertise of the opposing counsel. Often, opposing 
+counsel will be underplaying its understanding of the issues to lull the expert into a sense of 
+security. This can lead the expert into a difficult situation. Opposing counsel’s golden rule is to 
+cross-examine only if it would benefit the case. In asking questions of the witness, opposing 
+counsel generally either will ask short questions in plain words or will ask leading questions. 
+Usually counsel knows the answers to the questions. 
+   
+The opposing counsel generally will evaluate answers and then take a specific approach that 
+furthers the argument. Generally, the witness will not be allowed to explain or elaborate on 
+the question as that would allow the witness to alter the thrust of a carefully orchestrated 
+Testifying as an Expert Witness  Law 
+2.822  2011 Fraud Examiners Manual  
+cross-examination. Opposing counsel will continually question or evaluate how the last 
+question and answer could be used against the witness. 
+ 
+Furthermore, opposing counsel often will prepare by researching the expert. For example, it is 
+likely that counsel will read all earlier testimony and publications of the witness. Opposing 
+counsel also might speak to other lawyers as to the witness’s capabilities in court if the lawyers 
+have had experience with the witness. If weaknesses are discovered, the questioning probably 
+will be directed to that area. 
+ 
+Opposing counsel also might attempt to take psychological control of a witness by: 
+• Using physical presence to intimidate 
+• Making nonstop eye contact 
+• Challenging space of the witness 
+• Asking questions at a fast pace to confuse the witness 
+• Not allowing the expert to explain or deviate from the exact question 
+ 
+Physical domination often is used by opposing counsel. Opposing counsel will quickly 
+discover the response pattern of the expert and might take an aggressive stance to lead the 
+expert to the point where he is unsure. 
+ 
+Counsel may employ the following strategic methods to discredit a witness or to diminish the 
+importance of a witness’s testimony. These methods could be used alone or in conjunction 
+with one another and are not an all-encompassing list. A good counsel in cross-examination 
+will quickly discover the witness’s weak areas and employ any possible techniques to achieve 
+its goal. 
+ 
+Myopic Vision 
+Myopic vision entails getting the expert to admit to a great amount of time being spent in the 
+investigation of a matter, then selecting an area to highlight about which the expert is unsure 
+or has not done much work. This area might not be central to the issues in the case, but it 
+must be relevant to the conclusions reached. Then the opposing counsel will make a large 
+issue of it and prove that the expert’s vision is myopic in that the work was limited in extent 
+or scope and, as such, substandard. At the same time, the matter of fees could be drawn in to 
+show that large sums were expended to have this “obviously incomplete” work done. 
+ 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.823 
+Safety 
+This approach involves lulling the expert into a feeling of false security by not attacking him. 
+After the expert feels secure, the opposing counsel might find a small hole in the expert’s 
+testimony that can be enlarged quickly. This approach often is characterized by being friendly 
+and conciliatory, by which the jury is made sympathetic to the cause of the opposing counsel. 
+Opposing counsel also might attempt to achieve a certain amount of association with the 
+witness that will make the witness want to help the opposing counsel to bring out 
+information. Doing so may result in the witness giving information that otherwise would not 
+have been given. With this additional information, it might be possible to find a chink or hole 
+in the evidence and open it further. 
+ 
+Contradiction 
+Opposing counsel might use leading questions to force the witness into a hard or 
+contradictory position. Alternately, counsel can establish the credibility in court of a 
+potentially contradicting document or quote from other articles written by experts in the field. 
+If these documents or articles are in contradiction to the expert, then an admission can be 
+obtained from the expert as to that contradiction. If a contradiction exits, the expert might be 
+drawn into an argument as to who is the most appropriate or experienced person. Instances 
+also occur in which a witness has contradicted himself or his own article written several years 
+prior merely because of his lack of memory or confusion due to the attack. 
+ 
+New Information 
+Opposing counsel may introduce new information of which the expert might not be aware. 
+This normally is done to introduce confusion in the witness’s mind in the hope that the 
+witness might contradict himself or develop a series of alternate scenarios given the new 
+information to show that the existing report and opinions are no longer of value. 
+ 
+Support Opposing Side’s Theory 
+This approach recognizes an expert’s qualifications and evidence. The same information used 
+by the expert is then interpreted by opposing counsel in a different fashion to support an 
+alternate theory. By getting the expert to agree to the alternate interpretation of the facts and 
+the alternate theory, the opposing counsel, in effect, has made the expert a witness for the 
+other side. This technique is useful to obtain concessions from the witness that would damage 
+his conclusions and, ultimately, his credibility. 
+ 
+Testifying as an Expert Witness  Law 
+2.824  2011 Fraud Examiners Manual  
+Bias 
+This method draws the expert’s counsel and the expert together to show possible collusion as 
+to the evidence being presented, and hence to demonstrate bias. This can be shown if the 
+opposing counsel can determine that the expert’s  counsel had instructed the witness as to 
+what to say or by limiting the expert’s scope and thus his conclusions. This approach also can 
+focus on the question of whether or not the expert was told by his client what to do and look 
+for. With this approach, opposing counsel might attempt to show that the expert overlooked 
+important documentation in an effort to assist his client. 
+ 
+Confrontation 
+This method involves the use of a confrontation of wills to put the witness into a situation in 
+which he might lose emotional control and show anger. Once a witness has exploded, 
+credibility normally disappears. 
+ 
+Sounding Board 
+This method uses the witness as a sounding board to reacquaint the jury with the favorable 
+aspects (to opposing counsel) of the case. This technique often uses the “is it not true?” and 
+“would you agree with me?” approach. Constant agreement is useful to browbeat the expert. 
+In the eyes of the judge and jury, agreement with various questions raised by the opposing 
+counsel also might be assumed to be a general concurrence with the position of the opposing 
+counsel. 
+ 
+Fees 
+This method attacks the witness on the basis of taking an inordinate amount of time for the 
+result given. The attack might indicate a lack of complete work and be correlated to the fee 
+charged. This method often is related to “bias” and “myopic vision.” It might be suggested 
+that the witness and his opinion are, in fact, biased. This technique often builds to a 
+conclusion in which the opposing counsel arrives at the idea that the work was superficial and 
+unprofessional, yet a great deal of money was received by the expert for this and other areas 
+of service to the client. The inference is that the testimony was purchased or that the expert 
+was paid to overlook facts contradictory to the conclusions reached. 
+ 
+Terms of Engagement 
+This technique normally is employed by obtaining the original engagement letter and 
+examining the terms of engagement. Opposing counsel can then show that the expert 
+intended to look only at various items in support of his client and glossed over alternative 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.825 
+theories, generally to the detriment of the opposition. As such, the witness could be portrayed 
+as partial.  
+ 
+Discrediting the Witness 
+Discrediting the witness is based on proving that the expert is unworthy to be a credible 
+witness instructor to the court. This often can be accomplished by showing that the expert is 
+currently or has previously been grossly biased, prejudiced, or corrupt; been convicted of 
+criminal activities; been shown to engage in immoral activities; made inconsistent statements; 
+acquired a reputation for a lack of veracity; or exaggerated his qualifications. Discrediting also 
+could consist of looking at the quality of the expert’s educational background to reveal any 
+other unusual activities that might bias the witness or exclude him from the court as an expert. 
+ 
+Personal Attacks 
+Another cross-examination tactic often used by attorneys is to “kill the messenger.” These 
+attacks are of a more personal nature and generally include some of the following: 
+• The witness is unqualified. 
+• The witness displayed unprofessional behavior during the examination (such as asking 
+personal or sexual questions during interviews). 
+• The witness had a conflict of interest. 
+• The witness was harassing (phone calls at home, threatening voice mails, etc.). 
+ 
+Failure to Follow the Standards of the Profession 
+Additionally, the attorney may attempt to discredit experts by trying to show that they failed to 
+follow the standards, best practices, or professional conduct rules set forth by their profession, 
+such as the ACFE for fraud examiners or other professional bodies such as the AICPA, the 
+IIA, or state bar associations. 
+ 
+For CFEs, it is extremely important to be familiar with the tools and techniques set forth in 
+the Fraud Examiners Manual. There have been cases where enterprising defense attorneys have 
+obtained copies of the Manual and quizzed the fraud examiner about whether or not the 
+methods set forth in the Manual were followed. Likewise, attorneys will often question CFEs 
+about the ACFE Code of Professional Ethics, particularly regarding the prohibition against 
+stating an opinion of guilt or innocence (which is discussed below). 
+ 
+It is important to understand that the Fraud Examiners Manual does not set forth standards. 
+The Manual provides the CFE with information, suggestions, and methods for conducting a 
+Testifying as an Expert Witness  Law 
+2.826  2011 Fraud Examiners Manual  
+fraud examination. A CFE is always required to follow the Code of Professional Ethics, but 
+he is not required to follow what is set forth in the Fraud Examiners Manual.  
+ 
+However, if a fraud examiner deviates from the normal investigative methods set forth in the 
+Manual, he should have an explanation as to why it was appropriate and explain that the 
+Manual is only provided as guidance. 
+ 
+ 
+Expressing an Opinion on Guilt 
+As previously discussed, testifying expert witnesses give opinion testimony, which is based 
+upon their specialized knowledge and experience about case issues, but experts may only give 
+opinion testimony in areas that will aid the jurors in reaching their verdict. Additionally, 
+experts may give opinion testimony on ultimate issues (i.e., the basic conclusions upon which 
+the outcome of a case depends), but they cannot offer legal conclusions or educate the jury on 
+the principles of law.  
+ 
+Moreover, article five of the ACFE Code of Professional Ethics prohibits opinions regarding 
+the guilt or innocence of any person or party:  
+ 
+A fraud examiner, in conducting examinations, will obtain evidence or other documentation to 
+establish a reasonable basis for any opinion rendered. No opinion shall be expressed regarding the 
+guilt or innocence of any person or party.  
+ 
+This rule is a rule of prudence. For example, it is prudent for a Certified Fraud Examiner to 
+refrain from usurping the role of jury. In a courtroom, no good attorney would ask a Certified 
+Fraud Examiner for such a conclusion, and no alert judge would allow such testimony.  
+ 
+The fraud examiner’s job is to present the evidence in his report. Such evidence might 
+constitute a convincing case pointing to the guilt or innocence of a person. However, a clear 
+line should be drawn between a report that essentially says “Here is the evidence,” and one 
+that steps over the line and says “He is the guilty (innocent) person.” Nevertheless, there is a 
+fine line between recommending action — forwarding the evidence to a law enforcement 
+agency or filing a complaint or lawsuit — and giving an opinion on guilt or innocence. Certified 
+Fraud Examiners might make such recommendations because they think the evidence is 
+strong enough to support a case. They might even have a conclusion about whether the 
+suspect committed a crime. The rule does not prohibit the Certified Fraud Examiner, under 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.827 
+the proper circumstances, from accusing the person under investigation. However, the 
+ultimate decision of whether a person is “guilty” or “innocent” is for a jury to determine. The 
+CFE is free to report the facts and the conclusions that can be drawn from those facts, but the 
+decision as to whether or not a person is guilty of a crime is a decision for the judge or jury. 
+ 
+ 
+Witness Immunity for Experts 
+Generally, federal and state courts grant fact witnesses immunity for their testimony at trial. 
+There are three commonly cited public policy rationales for granting this immunity. First, the 
+immunity rule prevents self-censorship of the witness. Second, without immunity, witnesses 
+may be inclined to distort their testimony in fear of a retaliatory suit. Third, the cross-examination 
+process ensures truthful and reliable testimony.  
+ 
+Furthermore, courts have extended witness immunity to include adverse expert witnesses and 
+court-appointed expert witnesses. This immunity generally applies to trial testimony, 
+deposition testimony, and report preparation. Courts grant immunity to adverse and court-appointed 
+experts for numerous reasons, including the long-standing common law witness 
+immunity doctrine, the prevention of witness self-censorship, and the belief that the judicial 
+system adequately ensures truthful and reliable testimony. However, even though immunity is 
+the general rule for adverse and court-appointed experts, courts have denied immunity and 
+permitted negligence claims where testifying experts breach their professional duty to act 
+within the standard of care.  
+ 
+Despite the witness immunity discussed above, recent cases indicate that expert witnesses may 
+be liable to their retaining party for their pre-trial work or testimony, ruling that expert 
+witnesses should not be immune from liability from their own clients. In fact, a growing 
+number of states have allowed parties to sue their own experts for negligent testimony, 
+including California, Connecticut, Louisiana, Massachusetts, Missouri, New Jersey, and 
+Pennsylvania.  
+ 
+The underlying bases for denying immunity to friendly experts are generally founded on the 
+following rationales: (1) the common law grou nds for immunity are narrow; (2) potential 
+liability encourages total and honest testimony; (3) experts should be held to the standard of 
+their profession; (4) the role of the paid advisor and advocate warrants allowing claims; and (5) 
+the judicial system does not adequately ensure truthful and reliable testimony from friendly 
+experts.  
+Testifying as an Expert Witness  Law 
+2.828  2011 Fraud Examiners Manual  
+Expert witnesses should be aware that the witness immunity defense for experts is eroding, 
+and as a result, suits alleging that expert witnesses committed fraud or negligence are 
+increasing. Moreover, the presence of expert witnesses in the legal system will not decrease in 
+the near future. Therefore, it is important that expert witnesses understand the liabilities and 
+protections placed upon them.  
+ 
+ 
+Summary 
+In his book Succeeding As an Expert Witness, Harold A. Feder suggests keeping the following in 
+mind while you are working on a particular case: 
+• Keep an open mind. 
+• Do not approach a case with predetermined conclusions as to causation, culpability, fault, 
+or damage. 
+• Remember that attorneys and clients come to you with facts that might be slanted, either 
+accidentally or purposefully. 
+• Carefully follow your own well-established investigative steps; develop forms, procedures, 
+and processes that will ensure that you do not overlook evidence. 
+ 
+One of the best things you can do is to stay current about new developments in your field. It 
+takes a concerted effort to stay on top of changes and advances in any industry, as well as the 
+latest forensic investigation methods. To be a successful expert witness in any area of 
+accounting, for instance, you must have a thorough knowledge of not only generally accepted 
+accounting principles, but also current promulgation. For cases involving credit card fraud, 
+you must have a basic understanding of your nation’s electronic banking system. While active 
+practice in your field of expertise — in other words, experience — remains your single most 
+valuable source of knowledge, other sources abound. 
+ 
+Actions, which maintain and improve your current credentials and make you a better expert 
+witness, include: 
+• Pursuing continuing education and training opportunities 
+• Reading trade journals and publications 
+• Joining and participating in professional societies and associations 
+• Teaching, lecturing, and holding seminars 
+• Attending specialized seminars and workshops 
+• Writing for trade journals and publications 
+• Taking advanced computer courses 
+Law  Testifyin g as an Expert Witness  
+2011 Fraud Examiners Manual    2.829 
+You can practice your oral delivery skills, and hence improve your credibility, by actively 
+pursuing public speaking engagements and opportunities.  
+ 
+Similarly, to feel more comfortable on the legal stage, you may wish to visit your local 
+courtroom to observe another financial expert giving testimony in similar cases. Cable 
+television, especially local government shows and the Court-TV channel, also offer a chance 
+to see other experts in action in a variety of situations. 
+ 
+2011 Fraud Examiners Manual    3.101
+
+
+
+
+:
+
+
+testifi as an expert wit
+introduct
+certifi fraud examin account and auditor often ar call upon to provid
+testimoni in crimin and civil prosecut where their servic can be us to support
+investig of matter such as financi fraud embezzl misappl of fund
+arson for profit bankruptci fraud improp account practic and tax evas fraud
+examin mai also be us as defens wit or to support the defend counsel on
+matter that involv account or audit issu
+expert can serv on of two role in the trial process testifi expert or consult expert
+testifi expert wit give opinion testimoni when special knowledg is need to help
+the juri understand evid or determin a fact in issu convers consult expert typic
+do not testifi at trial instead thei ar hire to provid technic assist to the attornei in
+prepar the case gener both testifi and consult expert plai an ongo part with
+the litig process
+although expert serv on of two role thei can perform variou function throughout the
+litig process lawyer often count on testifi expert to help crystal the judg or
+juri understand of the case in hi book effect expert wit author jack v matson
+list the four main function of all expert testimoni and offer advic on fulfil each
+assign duti
+establish the fact you must first develop a strategi to collect and examin the
+document in the case the discoveri process which is a mechan for full
+disclosur of all knowledg pertin to the case usual yield a vast amount of paper
+which the expert then must sift through to make a preliminari classif of relev
+interpret the fact tie togeth caus and effect relationship with the data and the fact for
+the technic basi of your case do not be fool by correl that seemingli link caus
+and effect but hold no theoret justif
+comment on the oppos expert fact and opinion develop a good understand of the
+oppos expert by review their educ background and experi read their
+public probe for weak that your side might exploit oftentim trial becom
+a battl of the expert prepar for the battl with as much intellig as you can muster
+take apart the opposit expert report which repres the other side best case
+piec by piec your attornei need to know the most intim detail about the fact and
+opinion contain in that report
+testifi as an expert wit law
+2802 2011 fraud examin manual
+defin the profession standard in the particular area of your oppon expertis on of the most
+critic import wai an expert is us in trial is to defin the standard of care
+exercis by fellow profession in the field standard of care ha been tradition
+defin on the basi of judgment normal exercis by profession in good stand
+addition the profession must be inform or awar of current practic and
+promulg obsolet practic ar now consid by the court to be neglig
+practic thu profession must exercis reason inform judgment in carri out
+their duti you as the expert will be call upon to defin the profession standard and
+to measur that against the standard of care exercis by the profession on the other
+side
+if call by the prosecut examin might testifi to their find and if call by the
+defens thei might testifi regard opinion express by the prosecut expert to
+creat doubt in the juri mind about the credibl or weight to be given to that expert
+altern an examin might be call upon to give an opinion differ from that reach
+by an equal credibl expert on the other side thi might be due to differ interpret
+of the fact of the case in some instanc given equal plausibl altern the case might
+be decid on whichev side ha the most credibl expert wit
+addition effect expert wit frequent share certain characterist credibl is
+on such featur to becom a credibl expert wit on must be a member in good
+stand of the profess and usual be recogn as an author in that profess or
+some special aspect of practic within it
+similarli an expert wit in the area of account must have a thorough knowledg not
+onli of gener accept account principl but also of current promulg the
+expert expertis often might involv special knowledg of a specif industri in thi case
+the expert should be awar of recent develop and ani import issu within that area
+the expert also must be analyt and be abl to work with incomplet data the expert
+howev might not alwai be abl to recogn when data is incomplet as a result the
+expert might make assumpt that will then be open for interpret or attack if all data
+have not been made avail then the oppos counsel might be abl to offer altern
+scenario that ar more plausibl under the circumst thu discredit the expert
+law testifi as an expert wit
+2011 fraud examin manual 2803
+pretrial prepar
+pretrial prepar remain kei to becom a success expert wit and success often
+depend on full inquiri and thorough investig follow the initi complaint and
+answer the discoveri process usual begin with on side give the other a set of written
+question call interrogatori an expert assist mai begin by compos the question
+or by provid the repli depend on your side of engag both side then submit
+request to the other for product of record pertin to the case a financi expert is
+often expect to educ a lawyer on the type of document typic avail most
+everyth from a singl deposit slip to continu atm videotap to volumin
+account ledger is subject to discoveri
+mani time financi crime expert on the prosecutor side must scale a mountain of
+document or scroll through a heap of comput file to find the core fact that show crimin
+intent or behavior the defens mai buri the other side in paper or electron document to
+hide or trivial vital document becaus an effici search save time and monei
+success expert develop an earli strategi and tick off a detail checklist to achiev their
+goal within a specif time frame
+when testifi as an expert it often is us to have a list of all other wit includ
+those for the other side thi is import so that the expert is not surpris by the exist
+of other expert or report on can then determin if it is necessari to be present for the
+testimoni of those wit and can obtain the necessari court approv if anoth expert
+will be present then it becom incumb upon the expert wit to examin the altern
+report and to assess whether or not reason point ar brought up by the other side that
+might affect the credibl of the expert report
+conflict of interest
+when retain expert must quickli determin if ani conflict of interest exist or even
+appear to exist in a particular case becaus a conflict might preclud particip a conflict
+of interest exist when an expert abil to object evalu and present an issu for a
+client will be impair by ani current prior or futur relationship with parti to the litig
+there ar sever action an expert can take to determin if ani conflict of interest exist
+befor engag ask for the name of all parti involv review the name with your
+associ as well request full disclosur of ani connect howev remot prior or
+testifi as an expert wit law
+2804 2011 fraud examin manual
+ongo relationship mai suggest to other that the expert could not provid undivid
+loyalti to the caus and your client
+penalti for consult or act as an expert in a conflict of interest includ expert
+disqualif attornei disqualif and inadmiss of expert testimoni
+prepar a report
+care consider should be given to the prepar of an expert report which
+document your find and opinion for both side it put your reput on the line a
+wellwritten report that lai out a strong case might even prompt an earli settlement
+howev it also let the opposit see the strength and weak of your case and better
+prepar them for your deposit and trial testimoni
+keep the follow six tip in mind when prepar an expert report
+be brief
+avoid ambigu or inexact languag
+avoid gener be specif
+add chart or graph where appropri
+refer your work
+meticul check the report for accuraci and neat
+an import problem in the prepar of report and account summari aris from
+the deleg of task to subordin if the person give evid ha not had direct
+knowledg or ha not examin the specif document or prepar the summari the expert
+might be trap under the hearsai rule if task ar deleg it is import that the review
+process entail comparison of all origin work document
+it also is import to know the effect of other assumpt on the conclus or opinion
+reach in the report it often is possibl to trap an expert into give altern opinion base
+upon assumpt that had not been consid gener work paper and schedul
+support the report should not show contradictori conclus as thei mai be produc in
+court thi is not to advoc that work paper should be delet or amend subsequ
+to prepar rather it is a caution that these paper should be prepar with the precept
+that thei could ultim be submit to the court thu the work paper should be
+appropri prepar
+law testifi as an expert wit
+2011 fraud examin manual 2805
+onc thei accept a case mani expert immedi start assembl a narr version of the
+event thi detail summari of the fact of the case serv as the raw materi for render
+an offici opinion it is import that the text be written with care and profession as
+the discuss below outlin the text mai and probabl will have to be produc dure
+discoveri addition a wellwritten narr help the attornei in prepar and execut
+the case at trial
+what to includ in an expert wit report
+the requir for an expert report differ depend on whether a case is pend in
+feder or state court feder rule of civil procedur 26a2 which appli to civil case in
+feder court requir expert wit to prepar report and provid them to the oppos
+parti although thi requir mai be waiv if direct by the court or agre to by the
+principl parti involv the rule appli to expert who have been retain specif for a
+given case and it includ employe of a parti if part of the employe duti involv give
+expert testimoni a written report often call a rule 26 report must be produc for each
+expert wit
+convers some state court do not requir written expert report but mai requir anoth
+form of mandatori disclosur unfortun the requir of all fifti state ar beyond
+the scope of thi manual therefor expert should check with counsel prior to issu their
+written report to make sure that the report will compli with ani applic standard or
+requir under state law
+consult with counsel
+gener expert should coordin with counsel to ensur that their report compli with all
+applic legal standard failur to compli could result in a disposit of a claim by
+summari judgment or an order preclud an expert from testifi
+gener includ onli what is necessari
+if a written report is request includ onli what is necessari avoid gratuit and
+unimport comment at a minimum an expert wit report should do the follow
+identifi the reason for the report and provid the matter to be explor by the report
+provid the expert witnesss observ and opinion includ the basi rational data
+or other inform us to reach the opinion
+list ani exhibit us as a summari of or in support of the provid opinion includ
+all chart or graph
+testifi as an expert wit law
+2806 2011 fraud examin manual
+state ani conclus the wit mai have reach base on the observ and
+inform
+provid all sourc includ individu articl sourc document and book that the
+expert consult
+cite specif test that support the expert conclus and list the standard or test
+method us by the expert
+rule 26 report and disclosur requir under the feder rule of civil procedur
+as note abov expert report in all civil action in feder court must compli with rule 26 of
+the feder rule of civil procedur rule 26 state that testifi expert must prepar a
+written report and make certain disclosur about their opinion and support ground
+specif the expert report which must be prepar and sign by the expert wit must
+includ the follow
+a complet statement of all expert opinion to be express and the basi and reason for
+such opinion
+the data or other inform consid by the wit in form the opinion
+ani exhibit to be us as support for or as a summari of the opinion
+the qualif of the expert wit
+all public author by the expert in the preced 10 year
+a list of all other case in which the expert ha testifi as an expert at trial or at
+deposit within the preced four year
+the expert compens for hi review and testimoni
+the feder rule of civil procedur also impos time limit concern rule 26 report the
+rule requir that the ident and report of the expert must be disclos at least 90 dai befor
+trial but the disclosur of an expert whose testimoni is intend sole to contradict or rebut
+anoth witnesss testimoni must be disclos within 30 dai after the other wit
+disclosur addition an expert must supplement the written report or deposit
+testimoni at least 30 dai befor trial if he becom awar that previou disclosur might
+have been materi incomplet or incorrect
+if a court find that an expert report fail to satisfi the rule 26 requir it mai strike the
+expert design and prohibit the expert from testifi a sampl format for an expert
+report is includ at the end of thi chapter
+law testifi as an expert wit
+2011 fraud examin manual 2807
+note that under the feder rule of civil procedur the expert wit must turn over
+anyth he us in form hi opinion thu if an expert us privileg or confidenti
+document those document must be given to the oppos parti
+moreov draft report ar also discover therefor expert should never destroi draft
+note record or ani other form of document us to form the expert opinion ani
+action to do so mai result in perman loss of the expert credibl in fact the best
+practic to prevent discoveri of draft report is not to creat draft report in the first place
+these mandatori disclosur requir remain controversi attornei and judg cannot
+agre on whether the requir add unnecessari expens or whether thei promot
+uniform and fair at least on of those goal uniform ha not been realiz rule 26
+provid that the disclosur requir ar mandatori unless a particular district court
+provid otherwis by order or local rule sever district court have elect not to adopt rule
+26 and have written their own local rule in it place accordingli instead of provid a
+uniform system of disclos inform the amend have led to a system of differ
+rule for differ district
+disclosur requir under the feder rule of crimin procedur
+lawyer and expert wit must also mind the rule regard expert disclosur in crimin
+case which ar differ from those requir in crimin case in crimin case pretrial
+expert disclosur is onli trigger if the defend request it from the govern when thi
+happen the govern must produc a written summari of ani testimoni that it intend to
+us dure it caseinchief at trial the summari must describ the witnesss opinion the
+base and reason for those opinion and the witnesss qualif if the govern
+compli and request reciproc disclosur the defend must also provid a summari of
+ani expert testimoni he intend to us at trial
+expert wit discoveri
+concern expert wit discoveri is the process by which the oppos side find out an
+expert opinion and underli rational caution is the byword for expert wit at
+everi step of the legal process
+in gener everyth that a expert wit creat or us is discover accord to frcp
+26 which appli to civil case in feder court everyth the expert receiv review reli
+produc and sai about the case after be hire is subject to discoveri by oppos
+testifi as an expert wit law
+2808 2011 fraud examin manual
+counsel that mean everyth narr version of the case comment to the press or law
+enforc hypothet reconstruct draft report and even note can be demand
+and us by the oppos parti a shrewd attornei can us an expert notebook which
+contain dry run at an opinion and other pure delib inform to call the
+witnesss testimoni into question the onli except as discuss below is when the expert
+is hire by the attornei pure on a consult basi
+becaus all data or other inform consid by the wit in form the opinion is
+admiss in feder court expert should never destroi draft note record or ani other
+form of document us to form the expert opinion feder rule of civil procedur
+rule 26a
+in legales an expert wit ha no privileg the principl of privileg exist to protect certain
+core societ relationship attorneycli husbandwif but the expert witnesss relationship
+with client is not among those protect if the expert opinion will be present in court
+everyth relat to the expert opinion is discover
+in fact anyth an expert carri into a deposit sworn testimoni given by a parti or
+wit upon question by counsel for on of the parti befor trial and outsid of court
+is subject to discoveri attornei have been known to request a search of someon attach
+case to get at import materi thi sharp edg of discoveri is why expert insist on be
+depos awai from their own workplac if thei did not their entir file would be subject to
+discoveri
+the consult expert except
+although everyth a expert wit receiv review reli produc and sai is gener
+discover there is an except of cours the rule of discoveri gener protect
+commun between a consult expert the attornei and the parti from disclosur to
+adversari
+specif the work of a consult expert is gener not discover becaus it typic
+fall under the protect of the work product doctrin to review the work product doctrin
+prevent compel disclosur of document and tangibl thing prepar in anticip of
+litig and becaus it protect extend to inform prepar by or for a parti or the
+parti repres includ consult the work of a consult expert is gener not
+discover but otherwis protect materi mai becom discover through waiver and
+law testifi as an expert wit
+2011 fraud examin manual 2809
+the gener test for waiver is whether the materi at issu have been disclos in a manner
+inconsist with keep it from an adversari
+the distinct between the protect afford to consult and testifi expert is
+someth like thi when act as wit expert ar bring offici inform to
+the court and thu must disclos ani contact with the case when expert act as consult
+or associ for attornei or law enforc thei ar onli assist the attornei and do
+not have to disclos their involv in the case
+there is of cours on trap for the unwari protect of work product perform by a
+consult expert mai be lost when a testifi expert review the work of a consult expert
+the rule is that if an expert will testifi at trial everyth he doe regard the case must be
+turn over to the other side if an expert work onli as a consult to the attornei then hi
+work product is not discover but if a testifi expert review the work of a consult
+expert then the work of the consult expert will be discover just rememb thi if you
+ar hire to testifi at trial anyth you us to form your opinion will be subject to review by
+the oppos parti thi includ note from other expert document receiv from the
+plaintiff or defend and ani document or note from the attornei be sure to consult with
+the attornei befor you review anyth if a document wa given to you by someon other
+than the attornei ask befor you read it otherwis you mai inadvert destroi the
+confidenti or privileg of the materi
+keep good file
+the best wai to protect the confidenti of inform is to keep good file dan poynter
+report that expert routin reduc their file to us report onli onc thei have been
+offici engag as a wit for trial no on is recommend that file be sanit
+poynter add just updat the differ mai be subject to abus but it is simpl ani
+materi that serv as the basi for an expert opinion must be in the file note document
+or test that serv as background or that repres unfruit line of investig do not have
+to be includ and probabl should not be the attornei try the case doesnt want an
+expert have to answer about dead end or exploratori jaunt a shrewd crossexamin can
+turn a hastili scribbl hypothet into just enough reason doubt to avert a convict
+so in the best case scenario an expert present to the court an opinion and it basi noth
+more noth less
+7 poynter dan the expert wit handbook santa barbara para publish 1997 p 82
+testifi as an expert wit law
+2810 2011 fraud examin manual
+propos chang to expert wit rule relat to expert wit discoveri
+recent the judici confer of the unit state advisori committe on feder rule
+of civil procedur propos signific amend to rule 26 if adopt the amend
+would significantli chang the discover of the data or inform consid by a
+testifi expert thi section examin the propos
+although almost everyth a testifi expert sai or write is subject to discoveri by
+oppos counsel under current law the revis would prohibit the discoveri of draft expert
+report and limit discoveri of attorneyexpert commun more specif the
+amend would among other thing make the follow three chang
+commun between counsel and retain testifi expert would gener be
+protect from disclosur or discoveri thi amend would offer work product
+protect similar to those alreadi avail to consult expert
+draft report and disclosur requir by rule 26a2 of ani testifi expert would no
+longer be discover
+rule 26 report produc by a testifi expert would onli need to includ the fact or
+data consid by the expert current rule 26a2 read data or other inform
+consid which court have interpret to includ everyth commun by
+counsel to the expert thu the amend emphas that expert should onli includ
+factual inform in their report
+these amend ar expect to be adopt and becom effect on dec 1 2010 as
+amend
+qualifi to testifi as an expert wit
+just what constitut expert statu gener the term expert wit refer to someon
+whose educ and profession credenti establish their knowledg of a particular set of
+practic as with introduc exhibit in trial counsel must lai a foundat for the expert
+testimoni thi mean show that by formal educ advanc studi or experi the
+wit is suffici knowledg on the subject at hand that is a wit must be
+qualifi to testifi as an expert the foundat mai be establish dure the pretrial stage
+or dure direct examin
+unfortun it is becom increasingli difficult to testifi in feder court as an expert and
+to understand the standard and rule to qualifi as an expert
+law testifi as an expert wit
+2011 fraud examin manual 2811
+rule 702 of the feder rule of evid govern the admiss of expert testimoni in
+feder court rule 702 provid that a wit qualifi as an expert by knowledg skill
+experi train or educ mai testifi in the form of an opinion or otherwis to
+scientif technic or other special knowledg if such testimoni will assist the trier of
+fact to understand the evid or to determin the fact in issu
+in daubert v merrel dow pharmaceut 509 us 579 1993 the suprem court state that
+judg should act as gatekeep and keep out scientif testimoni that is not base on the
+method of scienc in a relat case titl kumho tire co v carmichael 526 us 137 1999
+the suprem court state that the judg gatekeep function appli not just in case
+deal with scientif evid but in ani case involv testimoni base on technic and
+other special knowledgetaken togeth these case mean that expert testimoni given
+by certifi fraud examin account or other expert must be judg against the
+standard set forth by the suprem court in the daubert case
+in respons to these case rule 702 of the feder rule of evid wa modifi to
+specif includ the standard set forth by the suprem court in daubert and kumho tire
+rule 702 now read
+if scientif technic or other special knowledg will assist the trier of fact to understand the
+evid or to determin a fact in issu a wit qualifi as an expert by knowledg skill
+experi train or educ mai testifi thereto in the form of an opinion or otherwis if 1
+the testimoni is base upon suffici fact or data 2 the testimoni is the product of reliabl
+principl and method and 3 the wit ha ap pli the principl and method reliabl to the
+fact of the case
+simpli put rule 702 provid that the judg must make three determin befor allow
+an expert to testifi befor the juri
+is the person qualifi as an expert wit
+will the expertis of the wit assist the juri in understand the evid or
+determin a fact at issu in other word is the testimoni relev to the fact of the
+case
+is the testimoni reliabl
+qualif
+befor admit expert testimoni the judg must determin that the expert is a qualifi
+testifi as an expert wit law
+2812 2011 fraud examin manual
+practition thi element address whether the individu is qualifi to assist the trier of
+fact for a wit to qualifi as an expert counsel must establish that the wit is suffici
+knowledg on the subject at hand by show formal educ skill or experi the
+determin of whether a wit is qualifi as an expert or whether expert testimoni is
+need is left to the discret of the trial judg
+the process of evalu whether an expert is qualifi mainli center on the candid
+formal educ and work experi whether that includ 30 year in law enforc or
+10 year in a larg account firm but there is no particular educ requir for
+expert testimoni a wit with no formal educ mai be qualifi base on train or
+experi some other factor that mai be consid includ the candid
+award and honor
+licens or certif
+technic train
+publish book and journal articl
+posit in profession associ societi and organ
+in addit to be qualifi as an expert the expert qualif must be relev to the
+particular issu in the case at hand but the import thing to rememb is that a person
+can be qualifi as an expert base on either special train or experi a person doe not
+have to be a cfe to testifi as an expert on fraud detect techniqu if that person ha
+suffici practic experi in those techniqu the cfe design is import becaus
+it serv as a recognit of the special skill that those hold the design have
+demonstr to becom a cfe
+although design ar import it is most help to have prior experi as an expert
+with litig or crimin matter thi is primarili becaus of what is learn dure the
+experi of testifi further it often is help to have been accept as an expert in other
+case therebi eas current accept a danger exist howev of appear to be a
+profession wit
+the counsel introduc the wit often will read the expert qualif or ask specif
+question to establish the witnesss credenti smart defens lawyer ar not like to
+challeng the credenti of expert assum thei meet at least minimum standard of
+profession compet to do so mai give these expert an opportun to fulli highlight
+their profession credenti and perhap make a greater impress on the juri or judg thu
+law testifyin g as an expert wit
+2011 fraud examin manual 2813
+ad more weight to their testimoni although the expert qualif ar not often
+contest it doe happen beyond be accept by both parti the expert wit most
+importantli must be accept by the court
+testimoni
+after determin that a wit is a qualifi expert the trial judg must determin that the
+testimoni offer by the expert is relev to the fact of the case and reliabl these two
+question focu on what opinion the expert will actual testifi to in court
+relev testimoni will assist the juri in understand the evid or determin a fact at
+issu to be relev the propos testimoni must be suffici ti to the fact of the case
+that it will aid the juri in resolv a factual disput specif the court must determin
+whether the expert opinion ha ani tenden cy to make the exist of ani fact more
+probabl than it would be without the evid testimoni is not relev if the juri can make
+it own determin without expert testimoni
+to be reliabl the testimoni must be base on suffici fact and data and it must be the
+product of reliabl methodolog that ha been reliabl appli to the fact of the case thi
+assur that an expert opinion ar not mere specul
+in daubert v merrel dow pharmaceut inc the suprem court set forth the follow nonexclus
+list of factor to assess reliabl
+whether the expert theori or techniqu can be or ha been test
+whether the expert theori or techniqu ha been subject to peer review and
+public
+whether the expert theori or techniqu enjoi gener accept within the relev
+scientif commun
+whether there ar standard govern the method us by the expert
+whether the expert techniqu ha a high error rate
+accordingli cfe should be sure to fulli cover the rational for their assumpt and
+determin whether the assumpt ar support by the fact present dure discoveri in
+fact court often find that assumpt not support by evid render expert opinion
+insuffici thu caus the judg to exclud the expert testimoni for exampl in target
+market publish inc v advo inc a breach of contract case aris from a joint ventur to
+produc advertis public a wellqualifi account and busi apprais conclud
+testifi as an expert wit law
+2814 2011 fraud examin manual
+that had the defend perform it contractu oblig the joint ventur would have
+earn 14 million in profit to reach thi conclus the expert assum the joint ventur
+would have successfulli enter 49 market zone at the time of the breach but the joint
+ventur had onli enter into two market zone and wa unprofit in both the
+appel court affirm the exclus of the expert opinion as to the valu of a contract
+becaus the methodolog underli the opinion wa base upon subject belief and
+specul includ unsupport assumpt
+when prepar an expert report or testimoni examin should keep in mind the daubert
+factor set forth abov examin should document their conclus how thei reach
+those conclus what evid thei base the conclus on and what profession
+techniqu or knowledg thei us it would also be a good idea to keep a list of profession
+book or journal that advoc or sanction whatev principl were us in draw the
+conclus
+daubert challeng
+a daubert challeng is a motion rais either befor or dure trial to exclud an expert
+wit from present evid thi motion is us to exclud the testimoni of an expert
+who lack suffici expertis or us question method
+basi of expert testimoni
+rule 703 of the feder rule of evid govern the sourc on which expert mai base
+their testimoni it provid that expert mai reli on fact or data made known to the expert at
+or befor the hear
+the fact or data in the particular case upon which an expert base an opinion or infer mai
+be those perceiv by or made known to the expert at or befor the hear if of a type reason
+reli upon by expert in the particular field in form opinion or infer upon the subject the
+fact or data need not be admiss in evid in order for the opinion or infer to be
+admit
+therefor under rule 703 an expert mai base an opinion on
+firsthand observ
+fact data or opinion present at trial
+fact data or opinion convei outsid of court
+law testifi as an expert wit
+2011 fraud examin manual 2815
+in addit under rule 703 expert can reli on inadmiss hearsai or other inadmiss
+evid as long as it is the type reason reli upon by expert in the particular field a
+determin that is left to the discret of the trial judg thi rule allow an expert to
+emploi data usual us by expert in the field though the data itself mai not be admiss
+an exampl might be a tabl of interest rate taken from a depart of commerc
+public similarli an account serv as an expert wit mai reli on privat sourc
+in form an opinion if such sourc normal ar reli upon by account
+the major of state howev follow the common law rule which permit a more limit
+basi for expert testimoni most state requir the expert to predic testimoni on firsthand
+percept or in the altern inform admit in evid at the hear at which
+he is call to testifi
+prepar to testifi
+the major of case file will not go to trial thei will be resolv through either a
+settlement agreement or a plea bargain therefor most expert experi in testifi
+come through have their deposit taken
+deposit of expert wit
+a deposit is sworn testimoni given by a parti or wit upon question by counsel for
+on of the parti befor trial and outsid of court a deposit serv as a power
+discoveri devic that mai be us to compel anyon associ with the case to give oral
+testimoni under oath although you cannot declin to testifi an expert mai be allow to
+specifi a conveni time and place
+sometim the parti request the deposit pai the oppos expert fee which consist
+of the time spent give the deposit at hi standard hourli rate or in halfdai or fulldai
+increment plu travel time thi usual occur in feder court most state court requir
+each side to pai the expens of the expert thei hire an expert charg hi client for the
+time spent prepar for deposit and for testifi
+in addit to the requir court report the proceed mai be record by a camera or a
+voic record a judg is not present dure thi questionandansw session for skill
+investig deposit provid a golden opportun to hear the other side case aloud
+the opposit mai set ulterior goal as well includ
+testifi as an expert wit law
+2816 2011 fraud examin manual
+to learn new inform or confirm exist fact
+to apprais the expert abil as a wit
+to lock the expert into a hardtodefend posit
+to creat a written record for futur impeach
+befor testifi at a deposit or at trial the expert should ensur that requir graphic
+displai ar readi and avail that all import discuss with the lawyer have been held
+and that the expert ha a complet understand of the report and other relev issu the
+expert should ensur that he ha agreement with counsel as to the sequenc of evid and
+the strategi for present it it often is us to have a dry run at the direct testimoni with
+all the question pose by the counsel to the expert to avoid surpris dure trial
+at pretestimoni meet it is appropri to discuss the qualif of the wit again
+to ensur that thei ar current to discuss the strength and weak of the case and to
+discuss and agre on what part of the expert report if ani ar to be enter as exhibit
+appear
+the appear of the expert wit often lend itself to an assess of the credibl of
+that wit it is recommend that the wit wear conserv busi attir be wellgroom
+and neatli dress
+it is also import that the wit maintain a profession demeanor in the wit box the
+wit should maintain a pois alert appear stand firmli and be readi to take the oath
+the wit should not smile gratuit at the judg juri or the lawyer also it is
+import that the wit keep control of hi hand to avoid fidget and wit should
+maintain ey contact with the question as much as possibl he should not stare off into
+space at the floor or at the ceil
+as the judg will be take note the wit should speak slowli to ensur that the judg
+doe not fall behind the answer should be direct to the question the witnesss voic
+should be strong clear and audibl thu befor answer each question the wit should
+paus befor answer and carefulli consid the answer he should also respond in a slow
+and deliber manner
+do and dont
+there ar other consider in make an expert a credibl wit some tip ar
+exud an alert and confid attitud
+law testifyin g as an expert wit
+2011 fraud examin manual 2817
+maintain profession pride and integr throughout
+tell the truth be honest and avoid bia
+us simpl rather than complex term and refrain from us profession jargon
+explain complex concept in a layperson term
+be friendli and polit to all parti present
+be alert
+correct ani misstat as soon as thei ar detect
+listen carefulli and answer the specif questionsdo not go off on tangent or volunt
+more than the question requir
+do not verbal fenc with the attornei
+do not try to be humor or hip
+be calm and deliber in respond to questionsthink befor you speak
+plan your testimoni in advanc and know your materi thoroughli
+us graph chart and other visual aid if thei help to clarifi a point
+do not read from note if you can avoid it the opposit lawyer will probabl demand to
+see such note and the wit will then look like he rehears hi testimoni
+prepar your materi complet if you have document to introduc have them
+organ so that you can quickli retriev them when ask to do so
+do not hem and haw or stammer recov your composur when a tough or complex
+question is pose
+ask for a question to be repeat or clarifi if not fulli comprehend
+if an answer is not known sai so do not guess
+do not invent and do not inflat
+in crossexamin do not respond too quickli becaus counsel might wish to object to
+the question
+do not be evas
+sever other thing should also be avoid these rang from drink five cup of coffe
+immedi prior to testimoni or chew bubbl gum while give evid to small
+physic manner that might affect your appear these physic manner which
+might be as simpl as rub on hand togeth continu look down at on hand
+fidget on the stand or jingl coin in a pocket could becom irrit to the judg and
+juri
+similar to trial proceed the opposit commonli drill an expert about hi credenti hi
+methodolog and hi conclus pertain to the case unlik in a trial the expert quit
+testifi as an expert wit law
+2818 2011 fraud examin manual
+often answer ters give onli a straight ye or no for inquiri that requir more you
+should respond directli and precis and refrain from volunt ani inform it is not
+your duti to educ the other side at deposit you mai ask for a recess or a break if
+need
+pour over the written transcript of your deposit afterward to ensur accuraci
+immedi correct ani omiss or error whether made by you or the stenograph
+notifi your lawyer if your opinion ha chang sinc deposit if you ar present at the
+deposit of the oppos expert you mai be ask to summar your impress
+afterward and note ani grai area that call for further line of inquiri
+direct examin
+direct examin ar conduct by the attornei who retain the expert becaus expert
+ar hire for their opinion thei ar not subject to the usual restrict about statement of
+judgment expert also have other leewai not given to ordinari wit thei mai reli on
+document or exchang that would otherwis be inadmiss as hearsai thi allow them to
+us articl academ paper profession text and consult in render their opinion
+of the case these materi ar admiss as long as thei were us by the expert in
+develop hi opinion
+present expert testimoni
+expert wit present their find in variou wai such as narr question
+hypothet special materi and special exhibit expert ar commonli ask to
+answer narr question which ar all but forbidden to lai wit narr question ar
+broad openend question that allow expert to present their opinion in their own word
+with minim prompt from the lawyer fraud case with their diverg path of activ
+and intrigu can requir complex summar in order for the fact to make ani sens the
+averag group of juror ha never consid how someon could manipul store
+inventori to drive up the compani stock price and then make million on the phoni surg
+the expert wit in case like thi often will begin testimoni by recount the narr
+background of a case the test and experi that were perform dure the investig
+and a summari of the find base on hi profession expertis
+expert wit also ar allow to demonstr their find by us hypothet fiction
+situat analog to the act in question which clarifi and highlight particular aspect of
+law testifyin g as an expert wit
+2011 fraud examin manual 2819
+the disput but to be effect hypothet must be construct exquisit appeal court
+have been adam that the fact of the case be tri have to be reflect directli in the
+hypothet situat there must be no exagger or obscur in the present
+moreov expert sometim us special ma terial in reach and commun their
+opinion profession public and sourc of inform that normal ar us in the
+cours of busi mai be produc as part of the trial feder rule requir onli that the
+sourc be gener us and reli on by peopl in that field
+final expert mai us special exhibit to demonstr fact about the case or some aspect of
+their opinion these exhibit mai includ chart diagram annot document or photo
+if the exhibit is offer to prove a fact it must satisfi the rule applic to ani other piec of
+evid in the case in demonstr a profession opinion the role of the exhibit must be
+clear and it applic to the present case justifi if necessari
+direct testimoni consider
+the purpos of direct examin is to enabl counsel for the side you repres to draw out
+the evid to prove the case most like thi will onli be a reiter of what previous
+ha been discuss with your counsel outsid the courtroom it is still veri import
+howev to refresh your memori beforehand by refer to anyth you mai have read
+written or given in evid on the case
+direct examin is the most organ aspect of the trial it is the stage in which the
+expert credibl must be establish with the judg or juri accord to the concept of the
+primari memori peopl rememb best what thei hear first and last thi often is a us
+idea to emploi in give or structur evid anoth noteworthi point is that the juror
+often have limit attent span in a long trial thu it is often us to us a
+grabgiveconclud method of present evid
+to a wit the interpret of question and the abil to listen ar crucial skill even
+though the wit might alreadi have gone through a mock direct examin it is critic
+that each question be carefulli evalu again the wit should reflect upon the question
+ask and not anticip them thei might have been chang anywai sinc the time of
+rehears
+the answer to all question should be clear and concis and where complex term ar us
+testifi as an expert wit law
+2820 2011 fraud examin manual
+thei should be clarifi similarli explain complex concept in a layperson term and avoid
+profession jargon becaus the fact finder might not be familiar with esoter or technic
+terminolog
+us of note should be limit as much as possibl to maintain ey contact
+schedul if ani should be describ accur and succinctli in easili understood term
+schedul ar by their natur concis document and should be describ in that manner
+if opinion ar given thei should be state with convict
+certain standard for certifi fraud examin ar found in the code of profession ethic
+pleas see the fraud prevent and deterr section of the fraud examin manual
+specif certifi fraud examin ar prohibit from express opinion as to the guilt
+or innoc of ani person or parti thi is not to sai that the expert wit cannot testifi to
+the badg hallmark or characterist of fraud found in the case it also doe not mean that
+the certifi fraud examin cannot testifi that base on the evid he believ the
+accus might have commit the offens howev the ultim guilt or innoc of ani
+person or parti is the sole respons of the judg and juri the certifi fraud examin
+typic will not be permit to testifi to the ultim fact question
+crossexamin
+crossexamin is truli the highlight of the adversari court system it is gear to allow
+counsel either to clarifi or to make point at the witnesss expens it gener is the most
+difficult part of the trial process for ani wit anyth can turn up that might refut or
+embarrass the wit the witnesss credibl is constantli call into question
+the goal of the oppos counsel dure crossexamin ar threefold the first goal is to
+diminish the import of the expert testimoni just present the second goal is to have
+the expert testifi in support of the oppos posit by provid a seri of assumpt
+the third goal is to attack the opinion itself or to show the inadequaci in the expert
+opinion therebi discredit the opinion the report and the wit
+the oppos counsel can attack or question anyth that ha been said or enter into court
+thi includ note work paper affidavit willsai report and preliminari trial or
+law testifi as an expert wit
+2011 fraud examin manual 2821
+discoveri transcript often crossexamin creat an atmospher of confront and
+contradict
+the wit must not take attack or attempt to discredit person there ar mani wai to
+discredit an expert wit throughout the process it is import for the wit to maintain
+pride and profession integr an adag to rememb is that even mud can be worn well
+oppos counsel want to reduc or limit the impact of the witnesss evid it is natur
+to feel a certain amount of apprehens and thi might do a great deal to keep the wit
+alert the juri often watch the judg and thu the expert often can take a clue as to the
+tempo and reaction of the juri and the judg to the evid be present slight chang
+in style and present could be made accordingli
+the oppos counsel usual ha a plan of crossexamin in mind and an expert wit
+should be abl to anticip thi direct to prevent fall into a trap a danger to thi of
+cours is that the wit will spend as much time plan ahead as answer the question
+and might not be give appropri attent to the immedi question further in
+attempt to anticip a question the wit might misunderstand what is actual ask
+gener it is a rule of thumb that a wit should not volunt or freeli give inform
+dure the answer it often might be extrem difficult to avoid get trap in variou
+assumpt what if scenario and gener present by counsel dure crossexamin
+if thi occur or if ask a long or imprecis question retrench by ask for a
+question to be rephras in smaller compon
+it is critic never to underestim the expertis of the oppos counsel often oppos
+counsel will be underplai it understand of the issu to lull the expert into a sens of
+secur thi can lead the expert into a difficult situat oppos counsel golden rule is to
+crossexamin onli if it would benefit the case in ask question of the wit oppos
+counsel gener either will ask short question in plain word or will ask lead question
+usual counsel know the answer to the question
+the oppos counsel gener will evalu answer and then take a specif approach that
+further the argument gener the wit will not be allow to explain or elabor on
+the question as that would allow the wit to alter the thrust of a carefulli orchestr
+testifi as an expert wit law
+2822 2011 fraud examin manual
+crossexamin oppos counsel will continu question or evalu how the last
+question and answer could be us against the wit
+furthermor oppos counsel often will prepar by research the expert for exampl it is
+like that counsel will read all earlier testimoni and public of the wit oppos
+counsel also might speak to other lawyer as to the witnesss capabl in court if the lawyer
+have had experi with the wit if weak ar discov the question probabl
+will be direct to that area
+oppos counsel also might attempt to take psycholog control of a wit by
+us physic presenc to intimid
+make nonstop ey contact
+challeng space of the wit
+ask question at a fast pace to confus the wit
+not allow the expert to explain or deviat from the exact question
+physic domin often is us by oppos counsel oppos counsel will quickli
+discov the respons pattern of the expert and might take an aggress stanc to lead the
+expert to the point where he is unsur
+counsel mai emploi the follow strateg method to discredit a wit or to diminish the
+import of a witnesss testimoni these method could be us alon or in conjunct
+with on anoth and ar not an allencompass list a good counsel in crossexamin
+will quickli discov the witnesss weak area and emploi ani possibl techniqu to achiev
+it goal
+myopic vision
+myopic vision entail get the expert to admit to a great amount of time be spent in the
+investig of a matter then select an area to highlight about which the expert is unsur
+or ha not done much work thi area might not be central to the issu in the case but it
+must be relev to the conclus reach then the oppos counsel will make a larg
+issu of it and prove that the expert vision is myopic in that the work wa limit in extent
+or scope and as such substandard at the same time the matter of fee could be drawn in to
+show that larg sum were expend to have thi obvious incomplet work done
+law testifyin g as an expert wit
+2011 fraud examin manual 2823
+safeti
+thi approach involv lull the expert into a feel of fals secur by not attack him
+after the expert feel secur the oppos counsel might find a small hole in the expert
+testimoni that can be enlarg quickli thi approach often is character by be friendli
+and conciliatori by which the juri is made sympathet to the caus of the oppos counsel
+oppos counsel also might attempt to achiev a certain amount of associ with the
+wit that will make the wit want to help the oppos counsel to bring out
+inform do so mai result in the wit give inform that otherwis would not
+have been given with thi addit inform it might be possibl to find a chink or hole
+in the evid and open it further
+contradict
+oppos counsel might us lead question to forc the wit into a hard or
+contradictori posit altern counsel can establish the credibl in court of a
+potenti contradict document or quot from other articl written by expert in the field
+if these document or articl ar in contradict to the expert then an admiss can be
+obtain from the expert as to that contradict if a contradict exit the expert might be
+drawn into an argument as to who is the most appropri or experienc person instanc
+also occur in which a wit ha contradict himself or hi own articl written sever year
+prior mere becaus of hi lack of memori or confus due to the attack
+new inform
+oppos counsel mai introduc new inform of which the expert might not be awar
+thi normal is done to introduc confus in the witnesss mind in the hope that the
+wit might contradict himself or develop a seri of altern scenario given the new
+inform to show that the exist report and opinion ar no longer of valu
+support oppos side theori
+thi approach recogn an expert qualif and evid the same inform us
+by the expert is then interpret by oppos counsel in a differ fashion to support an
+altern theori by get the expert to agre to the altern interpret of the fact and
+the altern theori the oppos counsel in effect ha made the expert a wit for the
+other side thi techniqu is us to obtain concess from the wit that would damag
+hi conclus and ultim hi credibl
+testifi as an expert wit law
+2824 2011 fraud examin manual
+bia
+thi method draw the expert counsel and the expert togeth to show possibl collus as
+to the evid be present and henc to demonstr bia thi can be shown if the
+oppos counsel can determin that the expert counsel had instruct the wit as to
+what to sai or by limit the expert scope and thu hi conclus thi approach also can
+focu on the question of whether or not the expert wa told by hi client what to do and look
+for with thi approach oppos counsel might attempt to show that the expert overlook
+import document in an effort to assist hi client
+confront
+thi method involv the us of a confront of will to put the wit into a situat in
+which he might lose emot control and show anger onc a wit ha explod
+credibl normal disappear
+sound board
+thi method us the wit as a sound board to reacquaint the juri with the favor
+aspect to oppos counsel of the case thi techniqu often us the is it not true and
+would you agre with me approach constant agreement is us to browbeat the expert
+in the ey of the judg and juri agreement with variou question rais by the oppos
+counsel also might be assum to be a gener concurr with the posit of the oppos
+counsel
+fee
+thi method attack the wit on the basi of take an inordin amount of time for the
+result given the attack might indic a lack of complet work and be correl to the fee
+charg thi method often is relat to bia and myopic vision it might be suggest
+that the wit and hi opinion ar in fact bias thi techniqu often build to a
+conclus in which the oppos counsel arriv at the idea that the work wa superfici and
+unprofession yet a great deal of monei wa receiv by the expert for thi and other area
+of servic to the client the infer is that the testimoni wa purchas or that the expert
+wa paid to overlook fact contradictori to the conclus reach
+term of engag
+thi techniqu normal is emploi by obtain the origin engag letter and
+examin the term of engag oppos counsel can then show that the expert
+intend to look onli at variou item in support of hi client and gloss over altern
+law testifyin g as an expert wit
+2011 fraud examin manual 2825
+theori gener to the detriment of the opposit as such the wit could be portrai
+as partial
+discredit the wit
+discredit the wit is base on prove that the expert is unworthi to be a credibl
+wit instructor to the court thi often can be accomplish by show that the expert is
+current or ha previous been grossli bias prejud or corrupt been convict of
+crimin activ been shown to engag in immor activ made inconsist statement
+acquir a reput for a lack of verac or exagger hi qualif discredit also
+could consist of look at the qualiti of the expert educ background to reveal ani
+other unusu activ that might bia the wit or exclud him from the court as an expert
+person attack
+anoth crossexamin tactic often us by attornei is to kill the messeng these
+attack ar of a more person natur and gener includ some of the follow
+the wit is unqualifi
+the wit displai unprofession behavior dure the examin such as ask
+person or sexual question dure interview
+the wit had a conflict of interest
+the wit wa harass phone call at home threaten voic mail etc
+failur to follow the standard of the profess
+addition the attornei mai attempt to discredit expert by try to show that thei fail to
+follow the standard best practic or profession conduct rule set forth by their profess
+such as the acf for fraud examin or other profession bodi such as the aicpa the
+iia or state bar associ
+for cfe it is extrem import to be familiar with the tool and techniqu set forth in
+the fraud examin manual there have been case where enterpris defens attornei have
+obtain copi of the manual and quizz the fraud examin about whether or not the
+method set forth in the manual were follow likewis attornei will often question cfe
+about the acf code of profession ethic particularli regard the prohibit against
+state an opinion of guilt or innoc which is discuss below
+it is import to understand that the fraud examin manual doe not set forth standard
+the manual provid the cfe with inform suggest and method for conduct a
+testifi as an expert wit law
+2826 2011 fraud examin manual
+fraud examin a cfe is alwai requir to follow the code of profession ethic but
+he is not requir to follow what is set forth in the fraud examin manual
+howev if a fraud examin deviat from the normal investig method set forth in the
+manual he should have an explan as to why it wa appropri and explain that the
+manual is onli provid as guidanc
+express an opinion on guilt
+as previous discuss testifi expert wit give opinion testimoni which is base
+upon their special knowledg and experi about case issu but expert mai onli give
+opinion testimoni in area that will aid the juror in reach their verdict addition
+expert mai give opinion testimoni on ultim issu ie the basic conclus upon which
+the outcom of a case depend but thei cannot offer legal conclus or educ the juri on
+the principl of law
+moreov articl five of the acf code of profession ethic prohibit opinion regard
+the guilt or innoc of ani person or parti
+a fraud examin in conduct examin will obtain evid or other document to
+establish a reason basi for ani opinion render no opinion shall be express regard the
+guilt or innoc of ani person or parti
+thi rule is a rule of prudenc for exampl it is prudent for a certifi fraud examin to
+refrain from usurp the role of juri in a courtroom no good attornei would ask a certifi
+fraud examin for such a conclus and no alert judg would allow such testimoni
+the fraud examin job is to present the evid in hi report such evid might
+constitut a convinc case point to the guilt or innoc of a person howev a clear
+line should be drawn between a report that essenti sai here is the evid and on
+that step over the line and sai he is the guilti innoc person nevertheless there is a
+fine line between recommend action forward the evid to a law enforc
+agenc or file a complaint or lawsuit and give an opinion on guilt or innoc certifi
+fraud examin might make such recommend becaus thei think the evid is
+strong enough to support a case thei might even have a conclus about whether the
+suspect commit a crime the rule doe not prohibit the certifi fraud examin under
+law testifyin g as an expert wit
+2011 fraud examin manual 2827
+the proper circumst from accus the person under investig howev the
+ultim decis of whether a person is guilti or innoc is for a juri to determin the
+cfe is free to report the fact and the conclus that can be drawn from those fact but the
+decis as to whether or not a person is guilti of a crime is a decis for the judg or juri
+wit immun for expert
+gener feder and state court grant fact wit immun for their testimoni at trial
+there ar three commonli cite public polici rational for grant thi immun first the
+immun rule prevent selfcensorship of the wit second without immun wit
+mai be inclin to distort their testimoni in fear of a retaliatori suit third the crossexamin
+process ensur truth and reliabl testimoni
+furthermor court have extend wit immun to includ advers expert wit and
+courtappoint expert wit thi immun gener appli to trial testimoni
+deposit testimoni and report prepar court grant immun to advers and courtappoint
+expert for numer reason includ the longstand common law wit
+immun doctrin the prevent of wit selfcensorship and the belief that the judici
+system adequ ensur truth and reliabl testimoni howev even though immun is
+the gener rule for advers and courtappoint expert court have deni immun and
+permit neglig claim where testifi expert breach their profession duti to act
+within the standard of care
+despit the wit immun discuss abov recent case indic that expert wit mai
+be liabl to their retain parti for their pretrial work or testimoni rule that expert
+wit should not be immun from liabil from their own client in fact a grow
+number of state have allow parti to sue their own expert for neglig testimoni
+includ california connecticut louisiana massachusett missouri new jersei and
+pennsylvania
+the underli base for deni immun to friendli expert ar gener found on the
+follow rational 1 the common law grou nd for immun ar narrow 2 potenti
+liabil encourag total and honest testimoni 3 expert should be held to the standard of
+their profess 4 the role of the paid advisor and advoc warrant allow claim and 5
+the judici system doe not adequ ensur truth and reliabl testimoni from friendli
+expert
+testifi as an expert wit law
+2828 2011 fraud examin manual
+expert wit should be awar that the wit immun defens for expert is erod
+and as a result suit alleg that expert wit commit fraud or neglig ar
+increas moreov the presenc of expert wit in the legal system will not decreas in
+the near futur therefor it is import that expert wit understand the liabil and
+protect place upon them
+summari
+in hi book succeed as an expert wit harold a feder suggest keep the follow in
+mind while you ar work on a particular case
+keep an open mind
+do not approach a case with predetermin conclus as to causat culpabl fault
+or damag
+rememb that attornei and client come to you with fact that might be slant either
+accident or purposefulli
+carefulli follow your own wellestablish investig step develop form procedur
+and process that will ensur that you do not overlook evid
+on of the best thing you can do is to stai current about new develop in your field it
+take a concert effort to stai on top of chang and advanc in ani industri as well as the
+latest forens investig method to be a success expert wit in ani area of
+account for instanc you must have a thorough knowledg of not onli gener accept
+account principl but also current promulg for case involv credit card fraud
+you must have a basic understand of your nation electron bank system while activ
+practic in your field of expertis in other word experi remain your singl most
+valuabl sourc of knowledg other sourc abound
+action which maintain and improv your current credenti and make you a better expert
+wit includ
+pursu continu educ and train opportun
+read trade journal and public
+join and particip in profession societi and associ
+teach lectur and hold seminar
+attend special seminar and workshop
+write for trade journal and public
+take advanc comput cours
+law testifyin g as an expert wit
+2011 fraud examin manual 2829
+you can practic your oral deliveri skill and henc improv your credibl by activ
+pursu public speak engag and opportun
+similarli to feel more comfort on the legal stage you mai wish to visit your local
+courtroom to observ anoth financi expert give testimoni in similar case cabl
+televis especi local govern show and the courttv channel also offer a chanc
+to see other expert in action in a varieti of situat
+2011 fraud examin manual 3101

@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Theta, a Certified Fraud Examiner is investigating a case of high-level management fraud at ABC Company. He heard that the company experienced a serious financial setback when it was cited by the federal government for violations of the Occupational Safety Health Act. Where might records of these alleged violations be located at the federal level?
+
+Options=Department of Justice | Department of Treasury | Department of Commerce | None of the above
+
+CorrectResponse=3
+
+Explanation=The Department of Labor has information about the Federal Employees Compensation Act the Job Partnership Training Act, the Occupational Safety Health Act, and the Mine Safety Health Act. The Department retains substantial data on businesses that have special work programs affiliated with it.See page(s) 3.437 in the Fraud Examiner's Manual

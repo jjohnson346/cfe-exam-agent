@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=If a subject has deposited a large number of bank checks, each for less than $10,000. this could be an indication of which of the following?
+
+Options=Counterfeit checks scheme | "Smurfing" operation | Entrapment scheme | All of the above
+
+CorrectResponse=1
+
+Explanation=Bank checks (such as cashier s checks and money orders) could be an indication of smurfing operations. Smurfing is the process by which a subject structures a deposit into several transactions, each less than 510,000. to avoid filing a currency transaction report as required under the Bank Secrecy Act. As the video portion of this course makes clear, smurfing is a very common technique for avoiding reporting requirements. Look for large numbers of cashier‰??s checks in even amounts deposited on a regular basis.See page(s) 3.816-3.817 in the Fraud Examiner's Manual

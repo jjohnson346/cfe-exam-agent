@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The sale of securities is governed by federal law only.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although there is some commonality between federal and state laws regarding the regulation of the securities industry, there exists a complex web of laws from 50 states in addition to federal regulation. Each state has its own securities laws and even where the law is similar, interpretation and rules may differ markedly. Regulation of securities transactions covers not only their sale, but also their offering to the public.See page(s) 1.1501 in the Fraud Examiner’s Manual

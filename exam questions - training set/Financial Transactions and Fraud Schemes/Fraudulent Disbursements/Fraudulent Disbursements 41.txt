@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Baker, the managing partner in a small law firm, is the authorized signer on all company checks. When his personal phone bill arrived last month, Baker prepared and signed a company check to pay the bill. He did not disclose this payment to his partners. According to Corporate Fraud Handbook, Baker committed:
+
+Options=A forged maker scheme | An authorized maker scheme | A false billing scheme | None of the above
+
+CorrectResponse=1
+
+Explanation=An authorized maker scheme is a type of check tampering fraud in which an employee with signature authority on a company account writes fraudulent checks for his own benefit and signs his own name as the maker. The most common example occurs when a majority owner or sole shareholder uses his company as a sort of alter ego, paying personal expenses directly out of company accounts. Baker's scheme is not a billing scheme, because he wrote the check himself and there is no indication that he submitted the phone bill to the firm's regular payment cycle.See page(s) 141-142 m the Corporate Fraud Handbook

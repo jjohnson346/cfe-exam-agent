@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=When examining a suspect's expenses for a period of time, you notice that no check was written during the month of May for the mortgage payment. The suspect normally is very prompt in making the mortgage payment and subsequent payments are recorded. This causes you to pause. Which of the following is the MOST likely reason for the missing payment?
+
+Options=The payment was made in cash (currency) | The suspect sold the house | The suspect was overpaid previously | None of the above
+
+CorrectResponse=0
+
+Explanation=The absence of a check for a recurring payment for a particular month might indicate a cash payment, which in turn would indicate possible undisclosed cash income.See page(s) 3.811 in the Fraud Examiner's Manual

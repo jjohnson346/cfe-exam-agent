@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=In a financial misstatement scheme in which capital expenditures are recorded as income statement items, the transactions will have the following effect on the organizations financial statements:
+
+Options=Sales revenue will be overstated | Total assets will be understated | Net income will be overstated | All of the above
+
+CorrectResponse=1
+
+Explanation=Just as capitalizing expenses is improper, so is expensing costs that should be capitalized. The organization may want to minimize its net income due to tax considerations. Expensing an item that should be depreciated over a period of time would help accomplish just that—net income would be lower and so would taxes. The result for the current accounting period is that total assets will be understated and expenses will be overstated.See page(s) 1.325 in the Fraud Examiner's Manual

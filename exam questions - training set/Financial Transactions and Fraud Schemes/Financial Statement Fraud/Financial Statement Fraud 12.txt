@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=The kinds of frauds and misstatements connected with liabilities generally are problems of understatement.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The understatement of liabilities and expenses is one of the ways financial statements can be manipulated to make a company appear more profitable. The preferred and easiest method of concealing liabilities or expenses is to simply fail to record them.See page(s) 1.322 in the Fraud Examiner's Manual

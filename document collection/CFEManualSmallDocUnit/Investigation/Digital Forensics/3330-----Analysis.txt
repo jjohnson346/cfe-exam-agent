@@ -1,0 +1,84 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Analysis
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Analysis 
+The analysis phase is arguably the most time-consuming phase, especially for a financial 
+crime or fraud investigation. This phase involves the use of specialized software designed to 
+give the examiner the means to locate and extract artifacts that will be used as evidence in 
+the investigation. The evidence can serve to incriminate the subject of the investigation or it 
+can be exculpatory by disproving the subject’s involvement. 
+ 
+The primary concern when analyzing electronically stored information (ESI) is to maintain 
+its integrity. Examiners must be careful with computer equipment because a careless 
+investigator may inadvertently alter important evidence. Therefore, it is helpful to develop 
+procedures to prevent the opposing party from raising allegations that the methodology used 
+to collect or analyze data was improper and could have damaged or altered the evidence. It 
+may also be helpful to use a hardware-based write-blocking device to protect the integrity of 
+digital evidence. 
+ 
+One method to help ensure the integrity of digi tal evidence is to maintain a chain of custody 
+for all evidence gathered and analyzed. The chain of custody  is both a process and a document 
+that memorializes (1) who has had possession of an object, and (2) what they have done with 
+it; it is simply a means of establishing that there has not been a material change or alteration 
+to a piece of evidence. Gaps in the chain of custody (e.g., when it is not clear what occurred 
+with a set of records) or outright mishandling (e.g., a group of questioned documents was 
+not properly sealed) can harm a case.  
+ 
+At a minimum, the following chain of custody procedures should be followed for digital 
+evidence: 
+• Identify each item that contains relevant information.  
+• Document each item, who it was received from, who authorized its removal, the location 
+of the item, and the date and time the item was received.  
+• Maintain a continuous record of the item’s custody as it changes hands.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.721 
+
+
+
+:
+
+
+analysi
+the analysi phase is arguabl the most timeconsum phase especi for a financi
+crime or fraud investig thi phase involv the us of special softwar design to
+give the examin the mean to locat and extract artifact that will be us as evid in
+the investig the evid can serv to incrimin the subject of the investig or it
+can be exculpatori by disprov the subject involv
+the primari concern when analyz electron store inform esi is to maintain
+it integr examin must be care with comput equip becaus a careless
+investig mai inadvert alter import evid therefor it is help to develop
+procedur to prevent the oppos parti from rais alleg that the methodolog us
+to collect or analyz data wa improp and could have damag or alter the evid it
+mai also be help to us a hardwarebas writeblock devic to protect the integr of
+digit evid
+on method to help ensur the integr of digi tal evid is to maintain a chain of custodi
+for all evid gather and analyz the chain of custodi is both a process and a document
+that memori 1 who ha had possess of an object and 2 what thei have done with
+it it is simpli a mean of establish that there ha not been a materi chang or alter
+to a piec of evid gap in the chain of custodi eg when it is not clear what occur
+with a set of record or outright mishandl eg a group of question document wa
+not properli seal can harm a case
+at a minimum the follow chain of custodi procedur should be follow for digit
+evid
+identifi each item that contain relev inform
+document each item who it wa receiv from who author it remov the locat
+of the item and the date and time the item wa receiv
+maintain a continu record of the item custodi as it chang hand
+investig digit forens
+2011 fraud examin manual 3721

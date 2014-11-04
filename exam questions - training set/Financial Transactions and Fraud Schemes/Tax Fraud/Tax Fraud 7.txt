@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If the Internal Revenue Service sends a deficiency notice that includes an allegation of fraud, who has the presumption of correctness with regard to the fraud allegation?
+
+Options=The government prosecutor | The IRS auditor assigned to the case | The Internal Revenue Service | None of the above
+
+CorrectResponse=3
+
+Explanation=Even under the old IRS code, there was no presumption of correctness of the IRS when fraud was involved. Therefore, the IRS had the burden of proving fraud [Armstrong v. U.S., 354 F 2d 274 (1965)]. If the fraud claim is for more than one year, the IRS must show that some part of the underpayment was due to fraud for each year that the penalty is added [Professional Services v. Commissioner, 79 TC 888 (1982)]. First, there must be a deficiency and second, the deficiency must be substantial [U.S. v. Morse, 491 F.2d 149; 74 1 USTC 9228 (1st Cir 1974)].See page(s) 1.1404 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=In order to tell if an investment contract can be considered a "security" subject to registration, a court might apply the _____________ test.
+
+Options=Blue Sky | Howey | Huey | None of the above
+
+CorrectResponse=1
+
+Explanation=In the case SEC v. Howey Co., 328 U.S. 293, 299 (1946), a company was selling subdivided sections of a Florida orange orchard that were to be managed by a subsidiary company. In its opinion in the case, the U.S. Supreme Court outlined a four-element test to determine if an investment contract was present. In essence, the Supreme Court stated that, in order for an investment contract to be present, there must be:‰?¢	An investment of money or other asset‰?¢	A common enterprise‰?¢	An expectation of profits‰?¢	Profit generated solely from the efforts of othersCourts often apply this four-part test (called the Howey test) to determine if an investment should be treated as a security for registration purposes.See page(s) 1.1517-1.1518 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Two criminologists conducted a comprehensive study of Fortune 500 companies. They discovered that 60 percent of the firms had at least one white-collar crime case filed against them in the two-year period of the study. These two criminologists are:
+
+Options=Clinard and Yeager | Weisburd and Bode | Hagan and Nagel | Albonetti and Wheeler
+
+CorrectResponse=0
+
+Explanation=In a comprehensive study of corporate law-breaking, Marshall Clinard (a recipient of the Association's Donald Cressey Award) and Peter Yeager found that 1,553 white-collar crime cases had been filed against the 562 Fortune 500 businesses whose records they scrutinized for a two-year period. Some 60 percent of the firms had at least one case against them; for those companies the average number of violations was 4.4.See page(s) 4.504 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The major distinction between larceny and embezzlement lies in the issue of:
+
+Options=Whether the thief had been legally entrusted with the stolen items | Whether the property was valued at $5,000 or more | Whether the crime involved money or property | None of the above
+
+CorrectResponse=0
+
+Explanation=The issue of embezzlement has nothing to do with whether the crime involved money or property; some wrongfully assume that larceny involves property and embezzlement involves money. The difference is that embezzlement is distinguished by legal possession of the property. Embezzlement is the wrongful appropriation of money or property by a person to whom it has been lawfully entrusted. Embezzlement implicitly involves a breach of trust, although it is not necessary to show a fiduciary relationship between the parties. The elements of embezzlement vary somewhat by jurisdiction, but generally are:The defendant took or converted;Without the knowledge or consent of the owner; Money or property of another;That was properly entrusted to the defendant.See page(s) 2.209 in the Fraud Examiner's Manual

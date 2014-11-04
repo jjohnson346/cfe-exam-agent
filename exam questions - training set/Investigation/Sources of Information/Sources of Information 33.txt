@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Investigators can determine the ownership of real estate by reviewing which of the following?
+
+Options=Public school records | Real property records maintained by the county recorder's office | Health and fire department records | None of the above
+
+CorrectResponse=1
+
+Explanation=Real estate records usually are found in the county in which the land is located. When an individual purchases real estate, he becomes a taxpayer and a registrant in the real property records maintained by the county recorder‰??s office. An individual who purchases real estate also becomes a registrant in the following county records: property tax records and tax assessor records.See page(s) 3.417-3.420 in the Fraud Examiner's Manual

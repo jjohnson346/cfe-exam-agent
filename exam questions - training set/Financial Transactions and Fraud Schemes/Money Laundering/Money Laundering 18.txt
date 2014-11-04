@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Treasury regulations now require certain businesses to adopt a Bank Secrecy Act (BSA) compliance program. Which of the following is NOT a minimum requirement of such a program?
+
+Options=Provide training on an ongoing basis for all personnel | Establish a system of internal controls to ensure ongoing BSA compliance | Provide for the immediate termination of any employee involved in avoiding BSA reporting requirements | Provide for independent testing of compliance by internal auditors and/or outside examiners
+
+CorrectResponse=2
+
+Explanation=Treasury regulations provide that, at a minimum, a written BSA compliance program should be adopted that (1) establishes a system of internal controls to ensure ongoing BSA compliance; (2) provides for independent testing of compliance by internal auditors and/or outside examiners; (3) designates a compliance officer(s) to ensure day-to-day compliance with BSA: and (4) provides training on an ongoing basis for all personnel.See page(s) 1.1640 in the Fraud Examiner‰??s Manual

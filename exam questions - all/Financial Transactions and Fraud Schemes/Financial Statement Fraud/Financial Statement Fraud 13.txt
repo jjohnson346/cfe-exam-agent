@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=________________ is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressingcomponents as percentages.
+
+Options=Ratio analysis | Vertical analysis | Horizontal analysis | None of the above
+
+CorrectResponse=1
+
+Explanation=There are traditionally two methods of percentage analysis of financial statements. Vertical analysis is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressing components as percentages. Horizontal analysis is a technique for analyzing the percentage change in individual financial statement items from one year to the next. Ratio analysis is a means of measuring the relationship between two different financial statement amounts. The relationship and comparison are the keys to the analysis.See page(s) 1.335 in the Fraud Examiner's Manual

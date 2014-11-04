@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Which of the following is an example of a frivolous tax return that might be subject to the Section 6702 Frivolous Return Policy?
+
+Options=The return is mailed to the wrong address | The return is completed in Roman numerals | The return is not signed | The return is not filed
+
+CorrectResponse=1
+
+Explanation=If a taxpayer files a frivolous return—one that is incorrect on its face or one that does not contain enough information to determine the tax liability—the government may impose a separate $5,000 civil penalty. An example of a frivolous return is one written in Roman numerals rather than Arabic numbers.See page(s) 1.1405 in the Fraud Examiner’s Manual

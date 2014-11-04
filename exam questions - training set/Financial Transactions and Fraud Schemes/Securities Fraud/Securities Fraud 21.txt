@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Under the Sarbanes-Oxiey Act, which of the following is responsible for establishing procedures for receiving and dealing with complaints and anonymous employee tips regarding irregularities in the company's accounting methods, internal controls, or auditing matters?
+
+Options=Internal auditor | Board of directors | Chief executive officer | Audit committee
+
+CorrectResponse=3
+
+Explanation=Under the Sarbanes-Oxley Act, the audit committee is required to establish procedures (such as a hotline) for receiving and dealing with complaints and anonymous employee tips regarding irregularities in the company's accounting methods, internal controls, or auditing matters.See page(s) 1.1507 in the Fraud Examiner‰??s Manual

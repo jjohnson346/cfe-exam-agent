@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Which of the following financial instruments can be used as a front for a pyramid scheme?
+
+Options=Investment pools | Borrower's certificates | Stocks | All of the above can be used as fronts
+
+CorrectResponse=3
+
+Explanation=Financial instruments—such as stocks, borrower's certificates, currency exchanges, loan scams, and investment pools—are perfect tools for the Ponzi artist Charles Ponzi's victims in 1920 thought they were investing in postal reply coupons which, Ponzi assured everyone, yielded whopping profits by playing off the exchange rates of international currency. In our own time, as legal tender in Mexico, Brazil, and Asia roller-coasters from one extreme to the next, the currency exchange still makes an ideal Ponzi front.See page(s) 1.1746 in the Fraud Examiner’s Manual

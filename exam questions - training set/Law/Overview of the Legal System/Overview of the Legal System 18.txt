@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=The U.S. Constitution supersedes decisions by lesser bodies, including acts by the U.S. Congress.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Constitution is the supreme lav/ of the land. It supersedes decisions made by lesser bodies, and even acts of the U.S. Congress. The legislature may not properly pass, the executive branch enforce, nor the judiciary uphold, any lav/ or action that violates its provisions.See page(s) 2.101 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Section 402 of the Sarbanes-Oxley Act makes it illegal for public companies to make personal loans or otherwise extend credit to any director or executive officer unless the loan is secured by an equal amount of stock.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Section 402 of the Sarbanes-Oxley Act makes it illegal for public companies to make personal loans or otherwise extend credit, either directly or indirectly, to or for any director or executive officer. It does not matter whether or not the loan is secured by stock. There is an exception that applies to consumer lenders if the loans are consumer loans of the type the company normally makes to the public, and on the same terms.See page(s) 1.1508 in the Fraud Examiner’s Manual

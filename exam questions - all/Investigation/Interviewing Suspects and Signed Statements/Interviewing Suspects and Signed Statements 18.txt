@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Delta, a Certified Fraud Examiner, is conducting an admission-seeking interview of Gamma, a fraud suspect. Delta presents Gamma with this alternative question: "Did you plan this deliberately, or did it just happen?" If Gamma is silent, what should Delta do next?
+
+Options=Accept the silence as guilt | Repeat the question | Terminate the interview | None of the above
+
+CorrectResponse=1
+
+Explanation=Should the accused still not respond to the alternative question with the benchmark admission, the interviewer should repeat the question or variations thereof until the benchmark admission is made. It is important for the interviewer to get a response which is tantamount to a commitment to confess. Because only a commitment is sought at this point, the questions for the benchmark admission should be constructed as leading questions, so they can be answered "yes" or "no," rather than requiring any sort of explanation. That will come later.See page(s) 3.264 in the Fraud Examiner's Manual

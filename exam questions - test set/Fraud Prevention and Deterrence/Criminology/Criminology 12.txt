@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=According to the social control theory, the more important that social relationships are to a person, the less likely it is that the person will commit crimes.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The social control theory suggests that persons confronted with the possibility of behaving in a law-violating manner are likely to ask of themselves: "What will my wife‰??or my mother and father‰??think if they find out?" To the extent that persons believe that other people whose opinions are important to them will be disappointed or ashamed, and to the extent that they care deeply that these persons will feel so, they will be constrained from engaging in the sanctioned behavior.See page(s) 4.210 in the Fraud Examiner's Manual

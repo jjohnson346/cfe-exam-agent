@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Federal court is preferred over state court by most plaintiffs in larger civil actions for several reasons. Which of the following is NOT one of those reasons?
+
+Options=Easier to obtain documents | Federal courts are speedier | Easier access to witnesses | None of the choices are correct
+
+CorrectResponse=1
+
+Explanation=Civil actions to recover damages for fraud or to enjoin further fraudulent activity can be filed by private plaintiffs in state or federal courts. Most common-law fraud actions, usually styled misrepresentation claims, are filed in state courts. Federal court generally is preferred by plaintiffs in larger civil cases because of the easier access to witnesses and documents located in different states, which the federal rules provide. One drawback of federal courts, however, is that it usually takes longer for a case to go to trial in federal court.See page(s) 2.601 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Black, an accounts receivable clerk, stole customer A's monthly payment instead of posting it to A's account. When customer B's payment arrived a few days later, Black posted that payment to A's account so that it would not become delinquent. When C’s payment arrived a few days after that, Black posted the payment to B's account, which was in danger of becoming past due. Black's method of crediting one account with money taken from another account is known as:
+
+Options=Padding | Account rigging | Lapping | Check tampering
+
+CorrectResponse=2
+
+Explanation=Lapping customer payments is one of the most common methods of concealing skimming and may be particularly useful to employees who skim receivables. Lapping is the crediting of one account through the abstraction of money from another account. It is the fraudster’s version of “robbing Peter to pay Paul.�? Suppose a company has three customers: A, B, and C. When A’s payment is received, the fraudster takes it for himself instead of posting it to As account. Customer A expects that his account will be credited with the payment he has made, but this payment has actually been stolen. When A:s next statement arrives, he will see that his check was not applied to his account and will complain. To avoid this, some action must be taken to make it appear that the payment was posted. When Bs check arrives, the fraudster takes this money and posts it to A’s account. Payments now appear to be up-to-date on As account, but B s account is short. When C’s payment is received, the perpetrator applies it to B’s account. This process continues indefinitely until one of three things happens: (1) someone discovers the scheme, (2) restitution is made to the accounts, or (3) some concealing entry is made to adjust the accounts receivable balancesSee page(s) 88 in the Corporate Fraud Handbook

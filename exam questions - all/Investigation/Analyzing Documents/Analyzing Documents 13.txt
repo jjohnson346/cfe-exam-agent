@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Indented writing on a pad of paper should be developed by shading with a pencil.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Never attempt to develop indented writings by shading or scratching on the surface of a sheet of paper with a pencil. This will reveal deep indentations, but it will not reveal the faint ones and will permanently prevent expert examinations from developing them. Other types of technical examinations might also be prevented by this defacing of the document.See page(s) 3.120 in the Fraud Examiner's Manual

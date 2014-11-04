@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+generic                                1
+for                                    2
+common                                 1
+prescription                           1
+one                                    1
+higher                                 1
+expensive                              2
+was                                    1
+while                                  1
+of                                     3
+more                                   1
+level                                  1
+less                                   1
+drug                                   2
+upcoding                               3
+is                                     1
+involves                               1
+substitution—filling                   1
+with                                   1
+form                                   2
+a                                      3
+the                                    2
+rendered                               1
+billing                                2
+than                                   1
+service                                1
+
+Totals:                     26        38

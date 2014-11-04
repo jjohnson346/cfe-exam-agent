@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=If a securities offense is egregious, the SEC will usually prosecute offenders criminally.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although there are criminal penalties attached to violations of the federal securities laws, the Securities and Exchange Commission does not have the power to take criminal action. SEC investigations that disclose potentially criminal violations are usually referred to the Federal Bureau of Investigation.See page(s) 1.1503 in the Fraud Examiner‰??s Manual

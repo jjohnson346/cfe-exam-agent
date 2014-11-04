@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=A chain of custody should be maintained for every piece of physical evidence and all electronically stored information (ESI) evidence gathered and analyzed in an investigation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Chain of custody issues affect physical evidence as well as electronically stored information. To prove the integrity of the evidence was maintained, a chain of custody must be established. Since ESI evidence can be easily altered or destroyed, chain of custody documentation is especially crucial with investigations concerning ESI.See page(s) 2.715-2.716 in the Fraud Examiner's Manual

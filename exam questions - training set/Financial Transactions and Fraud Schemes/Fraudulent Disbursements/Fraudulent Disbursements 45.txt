@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Green, a payroll accountant, listed both his wife and his girlfriend on his employer's payroll. This caused fraudulent paychecks to be issued to both women. The wife and the girlfriend are:
+
+Options=Ghost employees | Bogus vendors | Engaging in a conflict of interest | None of the above
+
+CorrectResponse=0
+
+Explanation=A ghost employee is not always a fictitious person It may, instead, be a real person who is conspiring with the perpetrator to defraud the company. When real persons conspiring with the fraudster are falsely included on the payroll, the perpetrator typically sees to it that checks are sent to the homes or accounts of these persons. In this way, the fraudster avoids the problem of duplicating addresses on the payroll.See page(s) 214 in the Corporate Fraud Handbook

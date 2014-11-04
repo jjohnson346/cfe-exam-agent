@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In a directory advertising scheme, the con man sells advertising space in a non-existent magazine or directory.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The essence of directory advertising schemes is the sale of advertising in a non-existent magazine or directory. A fake (or, in some cases, a real) directory is shown to the potential victim. The victim contracts and pays for display or classified advertising that is to appear some months in the future. By that time, the fraudster has disappeared.See page(s) 1.1703 in the Fraud Examiner’s Manual

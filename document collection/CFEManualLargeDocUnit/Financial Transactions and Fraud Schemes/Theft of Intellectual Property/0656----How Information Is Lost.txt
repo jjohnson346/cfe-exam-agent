@@ -1,0 +1,441 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/THEFT OF INTELLECTUAL PROPERTY/How Information Is Lost
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Theft of Intellectual Property
+
+
+:
+
+
+How Information Is Lost 
+Information thieves utilize a wide variety of methods—some legal, some not—to gain access 
+to an organization’s business secrets. There are seven common ways for information to fall 
+into the wrong hands. They are:   
+• Accident  
+• Poor information security procedures   
+• Recruited spies  
+• Deception techniques 
+• Physical penetration of the company   
+• Surveillance 
+• Computer system penetrations  
+ 
+Accident  
+Accidental losses of information are fairly common and occur in a number of ways. 
+Publications such as newsletters or reports to shareholders that are printed by a company 
+can inadvertently provide valuable information to its competitors. Also, speeches or papers 
+that are presented at conferences are a danger point. Organizations should implement a 
+system of review whereby technical and/or security staff review in advance all works up for 
+publication or presentation. Another common source of accidental leaks is the press. 
+Executives eager to brag about their companies often reveal more than they should about 
+research, new products, sales levels, and so on. 
+ 
+A company’s website may also be a source of accidental leaks. Corporate spies frequently 
+visit the websites of their targets to gather information that these companies have 
+unknowingly assembled for them. Information such as employee telephone and e-mail 
+directories, financial information, biographical data on key employees, product features and 
+release dates, details on research and development, and job postings can all be found on 
+many corporate websites. In some cases this information gives an information thief direct 
+access to company secrets; in other instances it helps the spy build a profile of his target that 
+will be the basis of an intelligence campaign. Businesses should pay attention to the 
+information that is placed on their websites and in other marketing materials. As a general 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.823 
+rule of thumb, anything that does not forward the marketing mission of an organization 
+should be removed.  
+ 
+Poor Information Security Procedures 
+Companies that do not have a system in place for protecting and disposing of confidential 
+information leave themselves wide open to attack by corporate spies. An information thief 
+will generally attack one or more of the following areas: manual systems (hardcopy 
+documents), computer-based systems (electronic files), or personnel (people employed by a 
+company or associates of the business). Below are a number of techniques that companies 
+should implement to protect manual and electronic information.  
+ 
+On-Site Materials that Are Targeted 
+Spies attempt to gather manual systems information by gaining surreptitious access to a 
+target’s premises. Common methods include posing as a temporary employee, as a vendor, 
+or as a visitor on a plant tour. Materials that these spies generally target include the 
+following:   
+• Archives (financial, sales data, marketing) 
+? In print form 
+? Stored on computer media 
+• Draft documents, formal documents, and internal correspondence lying on desks 
+• Scrap paper in wastepaper baskets and by copying machines 
+• Minutes of meetings 
+• Legal and regulatory filings 
+• Computer printouts 
+• Travel documents and receipts 
+• Patent documents 
+• Pending lawsuits 
+• Papers pertaining to mergers and acquisitions 
+• Licensing and franchise agreements 
+• Special management reports 
+• Audits of Internet access 
+• Billings for database access 
+ 
+Theft of Intellectual Property  Financial Transactions   
+1.824                         2011 Fraud Examiners Manual  
+ARCHIVES 
+Archives provide a view of the target’s performance over time. They offer an excellent 
+source for trend analysis. Even if a visitor on a plant tour is not able to handle documents, 
+he can note their location and availability for a later penetration. 
+ 
+DRAFT DOCUMENTS 
+Draft documents, internal correspondence, and resulting formal documents may reveal the 
+evolution of products, designs, and marketing plans within a company. 
+ 
+SCRAP PAPER 
+Paper thrown away often contains valuable information about preliminary plans and reports. 
+Hackers “dumpster dive” for this sort of information all the time. Often in the form of 
+manuals, technical specifications, and instructions, these discarded documents can provide a 
+road map to penetrate computer systems. They can also provide insight into evolving 
+products or business plans of a target.  
+ 
+MINUTES OF MEETINGS 
+Records of high-level meetings can provide key insight on corporate strategies, investment 
+policies, product development plans, marketing plans, and other crucial information about a 
+business’s direction. They can also help the spy identify key employees; possibly even those 
+who are unhappy with the current direction of their own company or careers and who, 
+therefore, might be potential recruits as spies.  
+ 
+LEGAL DOCUMENTS AND REGULATORY FILINGS 
+Legal documents range from trade secrets to pe nding litigation to summaries of regulatory 
+problems the company faces. Pending lawsuits often detail problems with the company’s 
+products, services, or operations. 
+ 
+Papers pertaining to mergers and acquisitions have obvious commercial value. The same 
+goes for licensing and franchise agreements. Special management reports document myriad 
+challenges the target faces. For example, a report may examine what is wrong with the 
+company’s inventory control system or that the base of parts suppliers is inadequate.  
+ 
+AUDITS OF INTERNET ACCESS AND BILLINGS FOR DATABASE ACCESS 
+Audit reports on Internet access, usually from a proxy server log, can tell a spy what topics 
+and sites a company researches and which employees are doing it. Billings for database 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.825 
+access of services like D&B, Dialog, or LexisN exis reveal companies the target is checking 
+out and doing business with, plus topics they’re investigating. 
+ 
+In addition, these audit reports often reveal if employees are stealing computer resources for 
+their own personal ends. Undetected activity over a period of time indicates a lack of security 
+oversight. These employees may be candidates for recruitment as inside spies. 
+ 
+Guarding Manual Systems 
+Manual systems are all human-readable files and documents. These include commonly 
+overlooked items like rolodexes and calendars. Attacks on these systems range from pilfering 
+trash to infiltrating a company in the guise of a cleaning crew or vendors to outright theft or 
+burglary. Reasonable measures to protect documents include the following: 
+1. Place sensitive documents in high - grade locked filing cabinets. It might also be 
+advisable to lock sensitive documents in a safe when not in use and at the end of the day. 
+Locks or safes should be able to withstand a physical attack of at least one to two hours. 
+2. Use a shredder for sensitive documentary waste. In the alternative, organizations 
+may opt to have sensitive trash disposed of by a bonded waste-disposal company. If so, 
+the trash should be securely stored until it is collected by that company.  
+3. Receive and send mail at a secure site. Options include mail drops, post office boxes, 
+or locked mailboxes. The key is that the site remains secure. 
+4. Provide reasonable perimeter security for offices. Use an alarm system, add secure 
+locks to doors and windows, or employ both. 
+5. Pay attention to securing auxiliary materials such as: 
+? Calendars (they may note key events in a sensitive matter). 
+? Specialized internal telephone directories. 
+? Notebooks and expense logs from sensitive cases. 
+? Works in progress such as reports, notes, and graphics on sensitive cases. 
+? Mailing lists. All such lists that have proprietary value should have trapped names 
+placed on them as a safeguard. A trapped name is a fictitious one with an address 
+that the organization controls. If mail is ever delivered to the trapped name, it will be 
+apparent that the list has been compromised. Furthermore, the nature of the mailing 
+will probably indicate who bought the list, and may help the victim determine where 
+the security breach occurred.  
+? Index cards and Rolodexes (if they contain sensitive information.) 
+Theft of Intellectual Property  Financial Transactions   
+1.826                         2011 Fraud Examiners Manual  
+? Blackboards, as well as diagrams and charts on easel pads (If they cannot be easily 
+locked up, take a Polaroid photo of them and then erase the original. Secure these 
+photographs.) 
+? Computer-paper carbons and writing tablets that have impressions from notes on 
+sensitive topics. (Shred them every day.) 
+? Computer printouts of sensitive data (Keep them locked up and use a shredder to 
+dispose of them.) 
+ 
+Organizations concerned about the possibility of corporate espionage should establish 
+procedures for classifying and marking sensitive items and should have provisions for their 
+short-term and long-term storage, as well as their disposal or destruction. Large offices 
+should have a structured log-out procedure for sensitive files so it is always possible to 
+determine who had what document, as well as where and when they had it.  
+ 
+Guarding Information Stored in Electronic Format 
+Electronic data presents security problems that do not exist with manual documents. A 
+small, high-density 1.2 MB computer disk can hold the equivalent of more than two regular 
+size novels; CDs, USB flash drives, and other electronic storage devices can hold even more. 
+With a single CD, a spy can walk out of a building with thousands of sensitive files tucked 
+into his shirt pocket. Furthermore, it is fairly quick and simple to copy even large files from a 
+hard drive to a CD or thumb drive. Employees seeking to remove sensitive data can even e-
+ mail it to an external address so that they never have to physically carry secret information 
+out of the premises.  
+ 
+Since, CDs, flash drives, and other electronic storage devices have extreme portability, 
+organizations must take rigid measures to protect them and prevent unauthorized copying of 
+sensitive files onto them. The following guidelines will help organizations maintain control 
+over data stored on electronic media: 
+• Write sensitive data files to portable disks.  Back them up with another disk. Lock up 
+originals on-site and securely store backups off-site. Furthermore, secured storage areas 
+should blend into their surroundings as much as possible in order to make the 
+information thief’s job that much more difficult.  
+• Label sensitive magnetic media.  This should include both an external label and an 
+internal electronic label designating the file’s classification. (The Label command in the 
+Properties Section of Windows can do this.) 
+• Guard against accidental erasure. Files should be set so that accidental erasures 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.827 
+cannot occur. This will also prohibit a technique used by some corporate spies whereby a 
+sensitive disk is deleted, then the disk, which appears to be blank, is taken off-site. Once 
+off-site, the targeted files are undeleted.  
+• Employ password security on sensitive files.  Many word processors can place 
+password protection on files. Combined with other security measures, this provides a 
+fairly good perimeter of security for files. Software that encrypts entire files can also be 
+purchased.  
+• Have a consistent backup procedure for all files. Backup sensitive files onto disks 
+designated and labeled for that purpose. 
+• Do not leave disks containing sensitive files unattended or unsecured. In large 
+offices, require authorized users of classified disks to sign them in and out from a 
+designated librarian. 
+• Scan outgoing disks to ensure they have no deleted but recoverable sensitive files. 
+If a disk does contain such files, reformat the disk, and then write the non-sensitive files 
+onto the disk. 
+• Before disposing of disks, cut them up. For damaged disks containing highly 
+sensitive files, it may be advisable to use a degausser on the disks first. A degausser 
+removes all data from the disk so its contents cannot be retrieved, even by “undelete” 
+programs.  
+ 
+Organizations should also make sure that sensitive files are not kept on hard drives. In 
+addition, employees should be trained to not leave computers unattended if they have 
+sensitive information on them. Before employees go to lunch or on break, they should be 
+required to place their computers in a secure state.  
+ 
+To prevent spies from finding valuable information in the organization’s trash, sensitive 
+computer printouts should be shredded and mixed with non-sensitive shredded documents 
+before disposal. 
+ 
+Access to sensitive information must be limited to a need-to-know basis. Organizations 
+should maintain a system such as a supervised access log that enables security to track the 
+information that each person has handled. If sensitive information is to be transmitted over 
+a modem, the files should be encrypted, not just password-protected. Although employees 
+might appreciate the convenience, they should not be allowed to dial into company 
+computers that contain sensitive information from their homes. Any system containing 
+sensitive information should be isolated.  
+Theft of Intellectual Property  Financial Transactions   
+1.828                         2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+how inform is lost
+inform thiev util a wide varieti of methodssom legal some notto gain access
+to an organ busi secret there ar seven common wai for inform to fall
+into the wrong hand thei ar
+accid
+poor inform secur procedur
+recruit spi
+decept techniqu
+physic penetr of the compani
+surveil
+comput system penetr
+accid
+accident loss of inform ar fairli common and occur in a number of wai
+public such as newslett or report to sharehold that ar print by a compani
+can inadvert provid valuabl inform to it competitor also speech or paper
+that ar present at confer ar a danger point organ should implement a
+system of review wherebi technic andor secur staff review in advanc all work up for
+public or present anoth common sourc of accident leak is the press
+execut eager to brag about their compani often reveal more than thei should about
+research new product sale level and so on
+a compani websit mai also be a sourc of accident leak corpor spi frequent
+visit the websit of their target to gather inform that these compani have
+unknowingli assembl for them inform such as employe telephon and email
+directori financi inform biograph data on kei employe product featur and
+releas date detail on research and develop and job post can all be found on
+mani corpor websit in some case thi inform give an inform thief direct
+access to compani secret in other instanc it help the spy build a profil of hi target that
+will be the basi of an intellig campaign busi should pai attent to the
+inform that is place on their websit and in other market materi as a gener
+financi transact theft of intellectu properti
+2011 fraud examin manual 1823
+rule of thumb anyth that doe not forward the market mission of an organ
+should be remov
+poor inform secur procedur
+compani that do not have a system in place for protect and dispos of confidenti
+inform leav themselv wide open to attack by corpor spi an inform thief
+will gener attack on or more of the follow area manual system hardcopi
+document computerbas system electron file or personnel peopl emploi by a
+compani or associ of the busi below ar a number of techniqu that compani
+should implement to protect manual and electron inform
+onsit materi that ar target
+spi attempt to gather manual system inform by gain surreptiti access to a
+target premis common method includ pose as a temporari employe as a vendor
+or as a visitor on a plant tour materi that these spi gener target includ the
+follow
+archiv financi sale data market
+in print form
+store on comput media
+draft document formal document and intern correspond ly on desk
+scrap paper in wastepap basket and by copi machin
+minut of meet
+legal and regulatori file
+comput printout
+travel document and receipt
+patent document
+pend lawsuit
+paper pertain to merger and acquisit
+licens and franchis agreement
+special manag report
+audit of internet access
+bill for databas access
+theft of intellectu properti financi transact
+1824 2011 fraud examin manual
+archiv
+archiv provid a view of the target perform over time thei offer an excel
+sourc for trend analysi even if a visitor on a plant tour is not abl to handl document
+he can note their locat and avail for a later penetr
+draft document
+draft document intern correspond and result formal document mai reveal the
+evolut of product design and market plan within a compani
+scrap paper
+paper thrown awai often contain valuabl inform about preliminari plan and report
+hacker dumpster dive for thi sort of inform all the time often in the form of
+manual technic specif and instruct these discard document can provid a
+road map to penetr comput system thei can also provid insight into evolv
+product or busi plan of a target
+minut of meet
+record of highlevel meet can provid kei insight on corpor strategi invest
+polici product develop plan market plan and other crucial inform about a
+businesss direct thei can also help the spy identifi kei employe possibl even those
+who ar unhappi with the current direct of their own compani or career and who
+therefor might be potenti recruit as spi
+legal document and regulatori file
+legal document rang from trade secret to pe nding litig to summari of regulatori
+problem the compani face pend lawsuit often detail problem with the compani
+product servic or oper
+paper pertain to merger and acquisit have obviou commerci valu the same
+goe for licens and franchis agreement special manag report document myriad
+challeng the target face for exampl a report mai examin what is wrong with the
+compani inventori control system or that the base of part supplier is inadequ
+audit of internet access and bill for databas access
+audit report on internet access usual from a proxi server log can tell a spy what topic
+and site a compani research and which employe ar do it bill for databas
+financi transact theft of intellectu properti
+2011 fraud examin manual 1825
+access of servic like db dialog or lexisn exi reveal compani the target is check
+out and do busi with plu topic theyr investig
+in addit these audit report often reveal if employe ar steal comput resourc for
+their own person end undetect activ over a period of time indic a lack of secur
+oversight these employe mai be candid for recruit as insid spi
+guard manual system
+manual system ar all humanread file and document these includ commonli
+overlook item like rolodex and calendar attack on these system rang from pilfer
+trash to infiltr a compani in the guis of a clean crew or vendor to outright theft or
+burglari reason measur to protect document includ the follow
+1 place sensit document in high grade lock file cabinet it might also be
+advis to lock sensit document in a safe when not in us and at the end of the dai
+lock or safe should be abl to withstand a physic attack of at least on to two hour
+2 us a shredder for sensit documentari wast in the altern organ
+mai opt to have sensit trash dispos of by a bond wastedispos compani if so
+the trash should be secur store until it is collect by that compani
+3 receiv and send mail at a secur site option includ mail drop post offic box
+or lock mailbox the kei is that the site remain secur
+4 provid reason perimet secur for offic us an alarm system add secur
+lock to door and window or emploi both
+5 pai attent to secur auxiliari materi such as
+calendar thei mai note kei event in a sensit matter
+special intern telephon directori
+notebook and expens log from sensit case
+work in progress such as report note and graphic on sensit case
+mail list all such list that have proprietari valu should have trap name
+place on them as a safeguard a trap name is a fictiti on with an address
+that the organ control if mail is ever deliv to the trap name it will be
+appar that the list ha been compromis furthermor the natur of the mail
+will probabl indic who bought the list and mai help the victim determin where
+the secur breach occur
+index card and rolodex if thei contain sensit inform
+theft of intellectu properti financi transact
+1826 2011 fraud examin manual
+blackboard as well as diagram and chart on easel pad if thei cannot be easili
+lock up take a polaroid photo of them and then eras the origin secur these
+photograph
+computerpap carbon and write tablet that have impress from note on
+sensit topic shred them everi dai
+comput printout of sensit data keep them lock up and us a shredder to
+dispos of them
+organ concern about the possibl of corpor espionag should establish
+procedur for classifi and mark sensit item and should have provis for their
+shortterm and longterm storag as well as their dispos or destruct larg offic
+should have a structur logout procedur for sensit file so it is alwai possibl to
+determin who had what document as well as where and when thei had it
+guard inform store in electron format
+electron data present secur problem that do not exist with manual document a
+small highdens 12 mb comput disk can hold the equival of more than two regular
+size novel cd usb flash drive and other electron storag devic can hold even more
+with a singl cd a spy can walk out of a build with thousand of sensit file tuck
+into hi shirt pocket furthermor it is fairli quick and simpl to copi even larg file from a
+hard drive to a cd or thumb drive employe seek to remov sensit data can even e
+mail it to an extern address so that thei never have to physic carri secret inform
+out of the premis
+sinc cd flash drive and other electron storag devic have extrem portabl
+organ must take rigid measur to protect them and prevent unauthor copi of
+sensit file onto them the follow guidelin will help organ maintain control
+over data store on electron media
+write sensit data file to portabl disk back them up with anoth disk lock up
+origin onsit and secur store backup offsit furthermor secur storag area
+should blend into their surround as much as possibl in order to make the
+inform thief job that much more difficult
+label sensit magnet media thi should includ both an extern label and an
+intern electron label design the file classif the label command in the
+properti section of window can do thi
+guard against accident erasur file should be set so that accident erasur
+financi transact theft of intellectu properti
+2011 fraud examin manual 1827
+cannot occur thi will also prohibit a techniqu us by some corpor spi wherebi a
+sensit disk is delet then the disk which appear to be blank is taken offsit onc
+offsit the target file ar undelet
+emploi password secur on sensit file mani word processor can place
+password protect on file combin with other secur measur thi provid a
+fairli good perimet of secur for file softwar that encrypt entir file can also be
+purchas
+have a consist backup procedur for all file backup sensit file onto disk
+design and label for that purpos
+do not leav disk contain sensit file unattend or unsecur in larg
+offic requir author user of classifi disk to sign them in and out from a
+design librarian
+scan outgo disk to ensur thei have no delet but recover sensit file
+if a disk doe contain such file reformat the disk and then write the nonsensit file
+onto the disk
+befor dispos of disk cut them up for damag disk contain highli
+sensit file it mai be advis to us a degauss on the disk first a degauss
+remov all data from the disk so it content cannot be retriev even by undelet
+program
+organ should also make sure that sensit file ar not kept on hard drive in
+addit employe should be train to not leav comput unattend if thei have
+sensit inform on them befor employe go to lunch or on break thei should be
+requir to place their comput in a secur state
+to prevent spi from find valuabl inform in the organ trash sensit
+comput printout should be shred and mix with nonsensit shred document
+befor dispos
+access to sensit inform must be limit to a needtoknow basi organ
+should maintain a system such as a supervis access log that enabl secur to track the
+inform that each person ha handl if sensit inform is to be transmit over
+a modem the file should be encrypt not just passwordprotect although employe
+might appreci the conveni thei should not be allow to dial into compani
+comput that contain sensit inform from their home ani system contain
+sensit inform should be isol
+theft of intellectu properti financi transact
+1828 2011 fraud examin manual

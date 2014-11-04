@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=When testifying in court, the use of notes by expert witnesses should be limited as much as possible so that the witness can maintain eye contact with the jury.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When testifying in court, the use of notes by the witness should be limited as much as possible in order to maintain eye contact with the jury.See page(s) 2.820 in the Fraud Examiner's Manual

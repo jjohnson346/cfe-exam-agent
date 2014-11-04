@@ -1,0 +1,1246 @@
+2011 Fraud Examiners Manual/Introduction/INTRODUCTION
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Introduction to Fraud Examination
+
+
+:
+
+
+INTRODUCTION 
+Fraud Examination Defined 
+Fraud examination  is a methodology for resolving fraud allegations from inception to 
+disposition. More specifically, fraud examination involves obtaining evidence and taking 
+statements, writing reports, testifying to findings, and assisting in the detection and 
+prevention of fraud. 
+ 
+Obtaining Evidence and Taking Statements 
+Evidence of fraud usually takes the form of documents or statements by witnesses. 
+Accordingly, the fraud examiner must know how to properly and legally obtain evidence, as 
+well as how to conduct interviews of witnesses and related parties. 
+ 
+Writing Reports 
+Once evidence has been obtained and the appropriate witnesses have been interviewed, the 
+fraud examiner is responsible for writing clear, accurate, and unbiased reports reflecting the 
+fraud examination results. These reports ultimately might be used by management, attorneys, 
+prosecutors, and others to determine the facts. The fraud examiner is a gatherer of 
+evidence — not the ultimate judge thereof. Opinions in fraud examination matters are 
+generally avoided. 
+ 
+Testifying to Findings 
+Once a fraud examination has been completed, the evidence assembled, and the written 
+report prepared, the fraud examiner often is called upon to testify before judicial authorities 
+regarding the findings. Fraud examiners are expected to testify truthfully to matters relevant 
+to the examination and to do so in a clear, and succinct manner. 
+ 
+Assisting in the Detection and Prevention of Fraud 
+The responsibility for the prevention of fraud lies with management or other appropriate 
+authority. However, the fraud examiner is expected to actively pursue and recommend 
+appropriate policies and procedures to prevent fraud. 
+ 
+The detection of fraud within organizations is the primary responsibility of internal and 
+external auditors. However, once evidence of fraud is presented, the fraud examiner is 
+expected to perform sufficient procedures, as set forth in this manual, to resolve the issue. 
+Allegations must be resolved in a legal and professional manner. 
+ 
+INTRODUCTION 
+Many fraud examiners have an accounting background. Indeed, some fraud examiners are 
+employed primarily in the audit function of their organizations. Although fraud examination 
+and auditing are related, they are not the same discipline. The following table lists some of 
+the principal differences. 
+ 
+ 
+Auditing vs. Fraud Examination 
+ 
+Issue  Auditing  Fraud Examination  
+ 
+Timing 
+ 
+Recurring 
+ 
+Non Recurring 
+Audits are conducted on a regular, recurring basis. Fraud examinations are non-recurring. 
+They are conducted only with sufficient predication. 
+ 
+Scope 
+ 
+General 
+ 
+Specific 
+The scope of the audit is a general examination of financial data.  
+The fraud examination is conducted to resolve specific allegations. 
+ 
+Objective  
+ 
+Opinion  
+ 
+Affix Blame 
+An audit is generally conducted for 
+the purpose of expressing an 
+opinion on the financial statements 
+or related information. 
+The fraud examination’s goal is to determine 
+whether fraud has/is occurring, and to 
+determine who is responsible. 
+ 
+Relationship 
+ 
+Non Adversarial 
+ 
+Adversarial 
+The audit process is non-adversarial in nature. 
+Fraud examinations, because they involve 
+efforts to affix blame, are adversarial in nature. 
+ 
+Methodology  
+ 
+Audit Techniques 
+ 
+Fraud Examination Techniques 
+Audits are conducted primarily by 
+examining financial data. 
+Fraud examinations are conducted by (1) 
+document examination; (2) review of outside 
+data such as public records; and (3) interviews.  
+ 
+Presumption 
+ 
+Professional Skepticism 
+ 
+Proof 
+Auditors are required to approach 
+audits with professional skepticism. 
+Fraud examiners approach the resolution of a 
+fraud by attempting to establish sufficient proof 
+to support or refute an allegation of fraud. 
+ 
+Techniques for the examination of fraud issues differ considerably from other disciplines. 
+Because of fraud’s fundamental elements, several axioms must be considered, regardless of 
+the nature or extent of the fraud. 
+ 
+Fraud Examination and Forensic Accounting 
+Forensic accounting and fraud examination are different but related. Forensic accounting 
+work is done by accountants in anticipation of litigation and can include fraud, valuation, 
+I-2     2011 Fraud Examiners Manual    
+INTRODUCTION 
+bankruptcy, and a host of other professional services. Fraud examinations can be conducted 
+by either accountants or nonaccountants and refer only to anti-fraud matters.  
+ 
+Forensic accounting is the use of professional accounting skills in matters involving potential 
+or actual civil or criminal litigation. The word forensic  is defined by Black’s Law Dictionary  as 
+“used in or suitable to courts of law or public debate.” Therefore, forensic accounting  is actually 
+litigation support involving accounting.  
+ 
+Accordingly, most fraud examinations involve forensic accounting but not all forensic 
+accounting is fraud examination. For example, the valuation of a property in a minority 
+shareholder derivative suit would be included under forensic accounting but may not 
+necessarily involve fraud. 
+ 
+Fraud examinations will generally fall under the category of forensic accounting because the 
+majority of examinations, investigations, and reports regarding fraud are done with “an eye 
+toward litigation.” In other words, fraud examiners are taught to conduct their examination 
+with the assumption that the case may end in litigation. 
+ 
+ 
+Axioms of Fraud Examination 
+ 
+Fraud Is Hidden 
+Unlike other offenses, part of the method of fraud is to conceal its existence. A bank robber 
+uses threats or force, while a bank embezzler not only steals money, but also covers up the 
+theft. As a result, no opinion should be given to any person that fraud does or does not exist within a 
+specific environment. The methods for concealing fraud are so numerous and sometimes 
+ingenious that almost anyone — even the examiner — might be defrauded. Offering opinions 
+might leave the examiner personally vulnerable to legal problems. 
+ 
+Reverse Proof 
+The examination of fraud matters is approached from two perspectives. To prove that a 
+fraud has occurred, the proof must include attempts to prove it has not occurred. The reverse 
+is also true. In attempting to prove fraud has not occurred, that proof must also attempt to 
+prove that it has. The reason is that both sides of fraud must be examined. Under the law, proof 
+of fraud must preclude any explanation other than guilt.  
+ 
+2011 Fraud Examiners Manual   I-3  
+INTRODUCTION 
+Existence of Fraud 
+The existence of fraud is solely the purview of the courts and juries. The examiner must not 
+express opinions on the guilt or innocence of any person or party. In resolving fraud issues, the 
+examiner must postulate a theory — guilt or innocence — in order to attempt to prove that 
+theory. Any discussion of guilt or innocence is only a part of that theory; the examiner must 
+not make statements that could be construed to be conclusive in regard to the theory. 
+ 
+ 
+Assembling the Fraud Team 
+Fraud examinations usually require a cooperative effort among different disciplines. A typical 
+investigation team might include the following: 
+ 
+Certified Fraud Examiners 
+A CFE is trained to conduct a complex fraud case from inception to conclusion. 
+ 
+Auditors 
+Internal auditors often are used to review internal documentary evidence, evaluate tips or 
+complaints, schedule losses, and provide assistance in technical areas of the company’s 
+operations. 
+ 
+Security 
+Security department investigators often are assigned the “field work” stage of the 
+investigation, including interviewing outside witnesses and obtaining public records and 
+other documents from third parties. 
+ 
+Human Resources Personnel 
+The human resources department should be consulted to ensure that the laws governing the 
+rights of employees in the workplace are not violated. Such involvement will lessen the 
+possibility of a wrongful discharge suit or other civil action by the employee. Advice from a 
+human resources specialist might also be needed. Normally this person would not directly 
+participate in the investigation. 
+ 
+Management Representative
+A representative of management, or in significant cases, the audit committee of the Board of 
+Directors, should be kept informed of the progress of the investigation, and be available to 
+I-4     2011 Fraud Examiners Manual    
+INTRODUCTION 
+lend the necessary assistance. A sensitive employee investigation has virtually no hope of 
+success without strong management support. 
+ 
+Outside Consultant 
+In some cases, particularly when the suspect employee is particularly powerful or popular, it 
+might be useful to employ outside specialists who are relatively immune from company 
+politics or threats of reprisals. Such experts might also have greater experience and 
+investigative contacts than insiders. 
+ 
+Legal Counsel 
+It is necessary to have counsel involved in, and in most cases, “directing” the investigation, 
+at least as far as the legal aspects are concerned. 
+ 
+ 
+Characteristics of a Fraud Examiner 
+Fraud examiners should have unique abilities. In addition to technical skills, the successful 
+examiner has the ability to elicit facts from numerous witnesses in a fair, impartial, lawful, 
+and accurate manner, and to report the examination results accurately and completely. The 
+ability to ascertain the facts and to report them accurately are of equal importance. The fraud 
+examiner is part lawyer, part accountant, part criminologist, and part detective or 
+investigator. 
+ 
+Allan Pinkerton, one of the first successful private investigators, stated what qualities a 
+detective should possess: 
+ 
+The detective must possess certain qualifications of prudence, secrecy, inventiveness, persistency, 
+personal courage, and above all other things, honesty; while he must add to these the same 
+quality of reaching out and be coming possessed of that almost boundless information which will 
+permit of the immediate and effective application of his detective talent in whatever degree that 
+might be possessed. 
+ 
+The ability to deal effectively with people is paramount for fraud examiners. The examiner 
+typically meets people for a short period of time and with a specific purpose: to obtain 
+information. Ideally, the examiner has the personality to attract and motivate people to be 
+helpful. 
+ 
+2011 Fraud Examiners Manual   I-5  
+INTRODUCTION 
+The examiner’s attitude toward others affects their attitude toward him. A hostile attitude 
+will create anxiety in the respondents, thereby causing them to become withdrawn and 
+protective, even if there is no reason to do so. Contrary to lore, the successful investigator is 
+rarely “tough,” except when the need arises and toughness has been carefully planned and 
+evaluated. 
+ 
+Art Buckwalter says, “The secret is for each private investigator to be the kind of person 
+others will want to deal with.”  Examiners who mislead others will often themselves be 
+misled. For each guilty person an examiner  encounters, he will deal with many innocent 
+witnesses. Those innocent witnesses, and the examiner’s ability to draw them out, are 
+indispensable to fraud examination methodology. Because an examiner deals with people 
+from all walks of life, being able to establish rapport with strangers is vital.       
+ 
+Because no two people are alike, the fraud examiner must be able to communicate in the 
+respondent’s language. A college graduate will not be questioned exactly the same way as a 
+ninth-grade dropout; someone with a technical  vocabulary won’t respond in the same 
+manner as a person with an artistic background. As each case differs, so will the examiner’s 
+approach. 
+ 
+The fraud examiner must have the technical ability to understand financial concepts, and the 
+ability to draw inferences from them. A unique feature of fraud cases is that, unlike 
+traditional property crimes, the perpetrator’s identity usually is known. In a bank robbery, for 
+example, the issue is not whether a crime was committed, but rather who committed the 
+crime. In fraud cases, the issue usually is not the identity of the culprit, but whether or not 
+the conduct constitutes fraud.  
+ 
+It is important that the examiner be able to simplify financial concepts so that others 
+comprehend them. Fraud cases often involve issues that appear complicated, but in reality 
+most fraud is rather simple; the concealment methods make it appear complex.  
+ 
+ 
+Fraud Examination Methodology 
+Fraud examination methodology requires that all fraud allegations be handled in a uniform, 
+legal fashion and be resolved on a timely basis. Assuming there is sufficient reason 
+(predication) to conduct a fraud examination, specific examination steps usually are 
+employed. At each step of the fraud examination process, the evidence obtained and the 
+I-6     2011 Fraud Examiners Manual    
+INTRODUCTION 
+fraud theory approach continually is assessed. That is to say, the suspect (subject) of the 
+inquiry typically would be interviewed last, only after the fraud examiner has obtained 
+enough general and specific information to address the allegations adequately. 
+ 
+The fraud examination methodology gathers evidence from the general to the specific. 
+Because of the legal ramifications of fraud examiners’ actions, the rights of all individuals 
+must be observed throughout. 
+ 
+Predication 
+Investigation of fraud consists of the multitude of steps necessary to resolve allegations of 
+fraud — interviewing witnesses, assembling evidence, writing reports, and dealing with 
+prosecutors and the courts. The investigation of fraud, because it deals with the individual 
+rights of others, must be conducted only with adequate cause or predication. 
+ 
+Predication is the totality of circumstances that would lead a reasonable, professionally trained, 
+and prudent individual to believe a fraud has occurred, is occurring, and/or will occur. 
+Predication is the basis upon which an examination is commenced. Fraud examinations 
+should not be conducted without proper predication.  
+ 
+Fraud Theory Approach 
+Each fraud examination begins with the proposition that all cases will end in litigation. 
+To solve a fraud 
+without complete evidence, the examiner must make certain assumptions. This is not unlike 
+the scientist who postulates a theory based on observation and then tests it. In the case of 
+complex fraud, fraud theory is almost indispensable. Fraud theory begins with the 
+assumption, based on the known facts, of what might have occurred. Then that assumption 
+is tested to determine whether it is provable. The fraud theory approach involves the 
+following steps, in the order of their occurrence: 
+• Analyze available data 
+• Create a hypothesis 
+• Test the hypothesis 
+• Refine and amend the hypothesis 
+ 
+A case study on internal fraud that is based on an actual incident, and one that is common in 
+the commercial and governmental environment, illustrates the concepts involved in the 
+fraud examination process. The names and certain other facts have been changed for 
+purposes of illustration. 
+2011 Fraud Examiners Manual   I-7  
+INTRODUCTION 
+LINDA REED COLLINS CASE STUDY 
+Linda Reed Collins is purchasing manager for Bailey Books Incorporated in St. Augustine, 
+Florida. Bailey, with $226 million in annual sales, is one of the country’s leading producers of 
+textbooks for the college and university market as well as technical manuals for the medical and 
+dental professions. 
+ 
+Bailey’s headquarters consists of 126 employees, plus numerous sales personnel in the field. 
+Because of the competitive nature of the textbook business, their profit margins are quite thin. 
+Bailey’s purchases average about $75 million annually, consisting mostly of paper stock and 
+covering used in the manufacturing process. The great majority of the manufacturing is done in 
+Mexico through contracts with the Mexican government. 
+ 
+The purchasing function is principally handled by three purchasing agents. Linda Reed Collins 
+is the purchasing manager and has two other buyers who report to her, plus another 18 clerical 
+and support personnel. 
+ 
+Because Bailey Books is required by investors and lenders to have audited annual financial 
+statements, Bailey employs a large regional CPA firm to conduct its annual audit, and has a 
+staff of five internal auditors. All internal fraud matters within the company are referred to 
+Loren D. Bridges, a Certified Fraud Examiner. The typical internal frauds at Bailey involve 
+defalcations by their cashiers, as well as a constant stream of complaints concerning alleged fraud 
+by Bailey Books’ salespeople and distributors. 
+ 
+On January 28, Bridges was referred a telephone call. The male caller advised that he did not 
+wish to disclose his identity. However, he claimed to have been a “long-term” supplier to Bailey 
+in the area of books and sundries, and magazines.  The caller said that ever since Linda Collins 
+took over as purchasing manager for Bailey several years ago, he has been systematically 
+“squeezed out” of doing business with Bailey. Although Bridges queried the caller for additional 
+information, the person hung up the telephone. 
+ 
+There could be many legitimate reasons why a vendor would feel unfairly treated. To use the 
+fraud theory approach, the Certified Fraud Examiner, in this case Bridges, must analyze the 
+available data before coming to any preliminary hypothesis as to what has occurred. 
+ 
+I-8     2011 Fraud Examiners Manual    
+INTRODUCTION 
+Analyzing Available Data 
+If an audit of the entire purchasing function is deemed warranted, it would be conducted at 
+this time and would specifically keep in mind the possibility of fraud resulting from the 
+anonymous allegation. 
+ 
+Creating a Hypothesis 
+The hypothesis is invariably a “worst-case” scenario. That is, based on the allegation, what is 
+the worst possible outcome? In this case, for Bailey Books, it would be that one of its 
+purchasing agents was accepting kickbacks to steer business to a particular vendor. A 
+hypothesis can be created for any specific allegation, i.e., a bribery or kickback scheme, 
+embezzlement, conflict of interest, financial statement fraud, etc. In furtherance of the 
+hypotheses, fraud examiners know that each specific scheme has its own unique 
+characteristics that constitute the badges or “red flags” of fraud. 
+ 
+Testing the Hypothesis 
+Testing a hypothesis involves creating a “what-if” scenario. If, as part of the hypothesis, a 
+bribery of a purchasing agent existed, the fraud examiner likely would find some or all of the 
+following facts: 
+• A personal relationship between the buyer and vendor 
+• Ability of the purchasing agent to steer business toward a favored vendor 
+• Higher prices and/or lower quality for the product or service being purchased 
+• Excessive spending by the purchasing agent 
+ 
+In the hypothetical case of Linda Reed Collins, the Certified Fraud Examiner—using Bailey 
+Books’ own records—can readily establish whether or not one vendor is receiving a larger 
+proportional share of the business than similar vendors. Bridges could ascertain whether or 
+not Bailey Books was paying too much for a particular product, such as paper, by simply 
+calling other vendors and determining competitive pricing. A personal relationship with any 
+suspected vendor and the buyer could be confirmed by discreet observation or inquiry. 
+Whether or not a particular purchasing agent had the ability to steer business toward a 
+favored vendor could be determined by reviewing the company’s internal controls to 
+ascertain who is involved in the decision-making process. The purchasing agent’s lifestyle 
+could be discreetly determined through examination of public documents such as real estate 
+records and vehicle titles. 
+ 
+2011 Fraud Examiners Manual   I-9  
+INTRODUCTION 
+Refining and Amending the Hypothesis 
+In testing the hypothesis, the fraud examiner might find that all facts do not fit a particular 
+scenario. If such is the case, the hypothesis should be revised and retested. (Obviously, if the 
+known facts are tested with negative results, it could be that a fraud is not present, or it 
+could indicate that the fraud cannot be proved.) In the Linda Reed Collins example, a 
+discreet inquiry might determine that Collins did not have an excessive lifestyle but rather 
+significant personal indebtedness. The fraud theory could then be appropriately revised. 
+ 
+Following is a flow chart setting forth how the fraud examination process is used to resolve 
+allegations. 
+I-10     2011 Fraud Examiners Manual    
+INTRODUCTION 
+Evaluate relationship between
+ sales and cost of sales on the
+ financial statements
+ What are the normal internal controls?
+ Are there instances when normal internal controls
+  are not followed?
+ Who are the personnel involved in the processes?
+ Have there been any changes in personnel or
+     processes?
+ Is predication
+ sufficient?
+ No
+ Yes
+ Cost of sales is too high?
+ Initial Predication
+ Tips
+ Complaints
+ Accounting
+ Clues
+ Other
+ Sources
+ Evaluate
+ Tips
+ Review Financial
+ Relationships
+ Stop
+ Go
+  
+2011 Fraud Examiners Manual   I-11  
+INTRODUCTION 
+Complete the investigation
+ through:
+ Interviews
+ Is evidence sufficent to proceed?
+ DiscontinueYes
+ No
+ Develop fraud theory:
+ -  Who might be involved?
+ -  What might have happened?
+ -  Why might the allegation be true?
+ -  Where are the possible concealment places or
+         methods?
+ -  When did this take place (past, present, or
+         future)?
+  -  How is the fraud being perpetrated ?
+ Determine where the evidence is likely to be:
+ -  On-book vs. Off-book
+ -  Direct or circumstantial
+ -  Identify potential witnesses
+ What evidence is necessary to prove intent?
+ -  Number of occurrences
+ -  Other areas of impropriety
+ -  Witnesses
+ Revise fraud theory
+ Prepare chart linking people and evidence
+ Determine defenses to allegations
+ Document Examination
+ Observations
+  
+I-12     2011 Fraud Examiners Manual    
+INTRODUCTION 
+The Fraud Examiner’s Tool Kit 
+Essentially three tools are available to the fraud examiner regardless of the nature of the 
+fraud examination. First is interviewing, which is the process of obtaining relevant information 
+about the matter from those with knowledge of it. For example, in developing 
+information about Linda Reed Collins, it might be necessary to interview her co-workers, 
+superiors, and subordinates. 
+ 
+Second, the fraud examiner must be skilled in the examination of financial statements, books 
+and records, and supporting documents. The examiner must know the legal ramifications of 
+evidence and how to maintain the chain of custody over documents. For example, checks 
+and other financial records to prove the case must be lawfully obtained, analyzed, and 
+conclusions must be drawn, if it is determined that Linda Reed Collins was taking payoffs 
+from a supplier. 
+ 
+Finally, fraud examiners are often placed in a position where they must observe behavior, 
+search for displays of wealth, and in some instances, observe specific offenses. A Certified 
+Fraud Examiner, for example, might recommend a video surveillance of a company’s 
+cashiers department to witness a defalcation being committed. Or, the fraud examiner might 
+establish a visual surveillance in a public place to determine the patterns or activities of the 
+subject. 
+ 
+Interviewing 
+If it appears that the fraud theory is still applicable after the fraud examiner analyzes the 
+documents, the examiner proceeds to the next step: interviews of neutral third-party 
+witnesses. 
+ 
+Neutral Third-Party Witnesses 
+A neutral third-party witness is a person not involved in a specific instance of fraud. For 
+example, if the fraud examination of Lind a Reed Collins progressed past the stage of 
+analyzing documents, it would be common for the fraud examiner to interview the personnel 
+officer at Bailey Books Incorporated regarding Collins’ personnel file. 
+ 
+Corroborative Witnesses 
+Corroborative witnesses are those who can corroborate facts relating to a specific offense. 
+These witnesses might be cooperative or uncooperative, but they are not directly related to 
+the offense involved. Collins’ co-workers or subordinates at Bailey Books Inc. could be 
+2011 Fraud Examiners Manual   I-13  
+INTRODUCTION 
+corroborative witnesses. Interviews with witnesses to corroborate facts should be done after 
+interviewing neutral third-party witnesses. 
+ 
+Co-Conspirators 
+If after examining documents, neutral third-party witnesses, and corroborative witnesses, it 
+still appears that further work is warranted, the fraud examiner typically would interview 
+co-conspirators to the alleged offense. In the case of Linda Reed Collins, if it were determined 
+that a vendor was paying Collins kickbacks, that vendor typically would be interviewed prior 
+to contacting Collins. People suspected of complicity generally are interviewed in the order 
+of those thought to be least culpable to those thought to be most culpable. In criminal 
+prosecutions, law enforcement officers and prosecutors can sometimes promise leniency to 
+co-conspirators in return for their cooperation. These individuals are called “inside 
+witnesses” and will be discussed in detail later. Such promises by private sector fraud 
+examiners are not permitted, and might legally invalidate any admissions that are made. 
+ 
+Subject 
+In general, the subject (also called the suspect or accused) is interviewed last, after all facts 
+necessary to resolve the allegation are obtained. Even if it is felt that the subject will not 
+offer a confession, an interview is usually scheduled; in many instances it can be used later 
+for impeachment. An interview might also give the examiner a good idea of what defenses 
+the subject might raise. 
+ 
+ 
+Purpose of the Fraud Examination 
+The purpose of the fraud examination is to prove or disprove the legal elements of the 
+offense. Each and every element must be proven (1) beyond a reasonable doubt in criminal 
+cases, and (2) by a preponderance of the evidence in civil cases. To do this, it is necessary to 
+understand certain objectives common to white-collar cases. Because investigations of fraud 
+often involve an extensive array of information, the fraud examiner can lose sight of the 
+objectives. According to Herbert Edelhertz: 
+ 
+One of the characteristics that most distinguishes the investigation of white-collar crime from that 
+of common crimes is the necessity  for the investigator to establish the intent and underlying 
+motives of the subject by placing together jigsaw puzzle pieces of apparently legitimate activities 
+to add up to a picture of illegitimacy — rather than by a simple showing of one event which by 
+itself flatly demonstrates wrongful intent. 
+I-14     2011 Fraud Examiners Manual    
+INTRODUCTION 
+Elements of White-Collar Offenses 
+While it is not possible or necessary to list every variation of white-collar crime and fraud, all 
+have common elements, such as: 
+• Intent — knowingly to commit a wrongful act or to achieve a purpose inconsistent with 
+law or public policy 
+• Disguise of purpose — falsities and misrepresentations employed to accomplish the 
+scheme 
+• Reliance — by the offender on the ignorance or carelessness of the victim 
+• Voluntary victim action — to assist the offender 
+• Concealment — of the offense 
+ 
+Intent  
+Intent must be shown in fraud matters. Intent rarely is self-evident, but must rather be 
+demonstrated by showing a pattern of activity. Some of the more common ways to show 
+intent include proof that the accused: 
+• Had no legitimate motive for the activities 
+• Repeatedly engaged in the same or similar activity of an apparent wrongful nature 
+• Made conflicting statements 
+• Made admissions 
+• Acted to impede the investigation of the offense 
+• Made statements the offender clearly knew to be false 
+ 
+Disguise and Misrepresentation  
+Misrepresentation usually is shown by the facts that the representation was made and that it 
+was false, either by omission or commission. 
+  
+Voluntary Victim Action to Assist the Offender 
+Proof that the victim assisted the offender usually is not difficult to obtain from the victim. 
+It is important for the fraud examiner to ascertain the exact circumstances regarding the 
+fraud from the victim, clearly drawing out what made the fraud possible. In the case of 
+employee thefts, for example, the victim (the company) entrusted the care of assets to the 
+subject. That fiduciary capacity must be established.  
+ 
+Concealment 
+Concealment is a cornerstone of fraud. As opposed to traditional crimes, where there is no 
+effort to conceal, fraud perpetrators take steps to keep the victim ignorant. Acts in fraud 
+2011 Fraud Examiners Manual   I-15  
+INTRODUCTION 
+schemes designed to conceal include committing offenses too small to be recognized as 
+fraud by the victim. In embezzlement cases, for example, the amount of money taken at any 
+one time usually is small relative to the total company assets. By demonstrating a continuing 
+pattern of thefts, the concealment aspect can be shown.  
+ 
+To hide their actions, fraud perpetrators often create complex financial trails. The more 
+obscure the act, the greater likelihood that it will not be detected. Some fraud cases involve 
+fraudulent invoices and journal entries. Concealment in these types of cases often can be 
+proven by the fact that the entries made had no purpose other than to conceal. 
+ 
+ 
+Proof Stages in Fraud Cases 
+Proof in most complex white-collar cases usually proceeds through three basic stages. First, 
+the fraud examiner builds the circumstantial case through interviews of cooperative 
+witnesses and review of available documentation. Then the examiner uses the circumstantial 
+evidence to identify and persuade an inside witness who can provide direct evidence against 
+the defendant. Then the case is sealed, defenses are identified and rebutted, and intent is 
+proved through examination of the subject. 
+ 
+Stage One: Building the Circumstantial Case 
+As used here, circumstantial evidence  means all proof other than direct admission of  
+wrongdoing by the subject or a co-conspirator. In a fraud case, it is the proof of the 
+defendant’s representations, evidence of their falsity and intent. In a  corruption case, it is 
+evidence of the standard behavior, the defendant’s breach, and the illegal payments. The 
+circumstantial case also might include “similar act evidence” to show a common scheme or 
+plan, lack of  mistake or accident, modus operandi, and most commonly, intent. 
+  
+Circumstantial evidence might be all that is available. It must be complete with no gaps, 
+consistent (tending to prove a single point), and must exclude all explanations other than 
+guilt. Collecting this type of evidence can be very difficult. Many complex cases lose 
+direction during the circumstantial stage when the examiner becomes overwhelmed by the 
+mass of accumulated detail and documents. To avoid getting bogged down, consider the 
+following: 
+ 
+I-16     2011 Fraud Examiners Manual    
+INTRODUCTION 
+Keep an Eye on the Ball 
+Examiners must remember the importance of the fraud theory and keep in mind exactly 
+what they are attempting to prove at all times. If examiners lose track of the objective, they 
+should review and reorganize the evidence, develop an alternate theory, and refocus efforts. 
+The examiner always is trying to prove or disprove something — even if merely a hunch — 
+but never merely collecting information. 
+ 
+Simplify the Case 
+If the case starts to sink under its own weight, the fraud examiner might look for a less 
+demanding legal theory, break the case down into smaller components (e.g., prove one set of 
+charges against one set of defendants before pursuing the other), or look for an informant or 
+inside witness. The objective in every complex case is to break it down to its essentials and 
+make it as simple and clear as possible. 
+ 
+Stage Two: Obtaining Direct Evidence 
+In many cases cooperation from a co-conspirator or other insider is a necessity, either 
+because the case is so complicated that it is otherwise unmanageable, or a key element — such 
+as cash payments in a corruption case or the full extent of wrongdoing or intent in a fraud 
+case — cannot be proved circumstantially. In some cases, the objective of the circumstantial 
+stage is not so much to obtain evidence to convict the ultimate defendant, but rather to 
+identify and turn an inside witness. 
+  
+Ideally, the least culpable witness should be approached first. In a corruption case, this might 
+be the “bag man,” a subordinate. Or, if the only choice is the payer or taker, usually the 
+payer is the better choice. A jury will react negatively if its members believe that the witness 
+is more culpable than the defendant. A decision must also be made about how to convince 
+the witness to assist. Ideally, to preserve the witness’ credibility, the fewer concessions the 
+better. Remember that immunity might be given only with the consent of the court.  
+  
+Remember, too, that even the most self-incriminating testimony of a co-conspirator must be 
+corroborated. Testimony from the insider should mesh with and augment the circumstantial 
+evidence, not replace it. The credibility of a turned witness can become  the central issue in 
+the case and distract the jury from the strength of the circumstantial evidence. If 
+nonessential testimony from a co-conspirator cannot be corroborated, don’t use it. 
+ 
+2011 Fraud Examiners Manual   I-17  
+INTRODUCTION 
+I-18     2011 Fraud Examiners Manual    
+Be aware that cooperating, culpable witnesses in a white-collar case often minimize their role 
+to avoid embarrassment, even if protected from legal consequences, and are prone to 
+describe themselves more as observers than participants. This is very damaging to credibility, 
+and must be overcome before such witnesses can be perceived as believable. 
+ 
+Stage Three: Sealing the Case through Examination of the Subject 
+Circumstantial evidence might be explained away, and direct testimony impeached or 
+rebutted. The best witness against the suspect might be himself. The suspect’s admissions 
+might provide otherwise missing elements. “False exculpatories” — lies offered to explain or 
+justify conduct — might be the best evidence of intent. False denials of cash deposits in a 
+corruption case might indicate an illicit source; false explanations for fraudulent 
+representations might help prove that the original misstatements were intentional. 
+ 
+To be effective, impeachment must show real, not apparent or explainable contradictions, 
+and must focus on central, not tangential or trivial points. Attempted impeachment fails 
+many times because the plaintiff  has not laid a sufficient foundation to show that the 
+defendant’s statements were knowingly false. 
+ 
+To adequately prepare the fraud examiner to understand and respond to the complex nature 
+of fraud, the remaining material is divided into four sections: Financial Transactions and 
+Fraud Schemes, Law, Investigation, and Fraud Prevention and Deterrence. 
+
+2011 Fraud Examiners Manual   1.101 
+
+
+
+
+:
+
+
+introduct
+fraud examin defin
+fraud examin is a methodolog for resolv fraud alleg from incept to
+disposit more specif fraud examin involv obtain evid and take
+statement write report testifi to find and assist in the detect and
+prevent of fraud
+obtain evid and take statement
+evid of fraud usual take the form of document or statement by wit
+accordingli the fraud examin must know how to properli and legal obtain evid as
+well as how to conduct interview of wit and relat parti
+write report
+onc evid ha been obtain and the appropri wit have been interview the
+fraud examin is respons for write clear accur and unbias report reflect the
+fraud examin result these report ultim might be us by manag attornei
+prosecutor and other to determin the fact the fraud examin is a gather of
+evid not the ultim judg thereof opinion in fraud examin matter ar
+gener avoid
+testifi to find
+onc a fraud examin ha been complet the evid assembl and the written
+report prepar the fraud examin often is call upon to testifi befor judici author
+regard the find fraud examin ar expect to testifi truthfulli to matter relev
+to the examin and to do so in a clear and succinct manner
+assist in the detect and prevent of fraud
+the respons for the prevent of fraud li with manag or other appropri
+author howev the fraud examin is expect to activ pursu and recommend
+appropri polici and procedur to prevent fraud
+the detect of fraud within organ is the primari respons of intern and
+extern auditor howev onc evid of fraud is present the fraud examin is
+expect to perform suffici procedur as set forth in thi manual to resolv the issu
+alleg must be resolv in a legal and profession manner
+introduct
+mani fraud examin have an account background inde some fraud examin ar
+emploi primarili in the audit function of their organ although fraud examin
+and audit ar relat thei ar not the same disciplin the follow tabl list some of
+the princip differ
+audit vs fraud examin
+issu audit fraud examin
+time
+recur
+non recur
+audit ar conduct on a regular recur basi fraud examin ar nonrecur
+thei ar conduct onli with suffici predic
+scope
+gener
+specif
+the scope of the audit is a gener examin of financi data
+the fraud examin is conduct to resolv specif alleg
+object
+opinion
+affix blame
+an audit is gener conduct for
+the purpos of express an
+opinion on the financi statement
+or relat inform
+the fraud examin goal is to determin
+whether fraud hasi occur and to
+determin who is respons
+relationship
+non adversari
+adversari
+the audit process is nonadversari in natur
+fraud examin becaus thei involv
+effort to affix blame ar adversari in natur
+methodolog
+audit techniqu
+fraud examin techniqu
+audit ar conduct primarili by
+examin financi data
+fraud examin ar conduct by 1
+document examin 2 review of outsid
+data such as public record and 3 interview
+presumpt
+profession skeptic
+proof
+auditor ar requir to approach
+audit with profession skeptic
+fraud examin approach the resolut of a
+fraud by attempt to establish suffici proof
+to support or refut an alleg of fraud
+techniqu for the examin of fraud issu differ consider from other disciplin
+becaus of fraud fundament element sever axiom must be consid regardless of
+the natur or extent of the fraud
+fraud examin and forens account
+forens account and fraud examin ar differ but relat forens account
+work is done by account in anticip of litig and can includ fraud valuat
+i2 2011 fraud examin manual
+introduct
+bankruptci and a host of other profession servic fraud examin can be conduct
+by either account or nonaccount and refer onli to antifraud matter
+forens account is the us of profession account skill in matter involv potenti
+or actual civil or crimin litig the word forens is defin by black law dictionari as
+us in or suitabl to court of law or public debat therefor forens account is actual
+litig support involv account
+accordingli most fraud examin involv forens account but not all forens
+account is fraud examin for exampl the valuat of a properti in a minor
+sharehold deriv suit would be includ under forens account but mai not
+necessarili involv fraud
+fraud examin will gener fall under the categori of forens account becaus the
+major of examin investig and report regard fraud ar done with an ey
+toward litig in other word fraud examin ar taught to conduct their examin
+with the assumpt that the case mai end in litig
+axiom of fraud examin
+fraud is hidden
+unlik other offens part of the method of fraud is to conceal it exist a bank robber
+us threat or forc while a bank embezzl not onli steal monei but also cover up the
+theft as a result no opinion should be given to ani person that fraud doe or doe not exist within a
+specif environ the method for conceal fraud ar so numer and sometim
+ingeni that almost anyon even the examin might be defraud offer opinion
+might leav the examin person vulner to legal problem
+revers proof
+the examin of fraud matter is approach from two perspect to prove that a
+fraud ha occur the proof must includ attempt to prove it ha not occur the revers
+is also true in attempt to prove fraud ha not occur that proof must also attempt to
+prove that it ha the reason is that both side of fraud must be examin under the law proof
+of fraud must preclud ani explan other than guilt
+2011 fraud examin manual i3
+introduct
+exist of fraud
+the exist of fraud is sole the purview of the court and juri the examin must not
+express opinion on the guilt or innoc of ani person or parti in resolv fraud issu the
+examin must postul a theori guilt or innoc in order to attempt to prove that
+theori ani discuss of guilt or innoc is onli a part of that theori the examin must
+not make statement that could be constru to be conclus in regard to the theori
+assembl the fraud team
+fraud examin usual requir a cooper effort among differ disciplin a typic
+investig team might includ the follow
+certifi fraud examin
+a cfe is train to conduct a complex fraud case from incept to conclus
+auditor
+intern auditor often ar us to review intern documentari evid evalu tip or
+complaint schedul loss and provid assist in technic area of the compani
+oper
+secur
+secur depart investig often ar assign the field work stage of the
+investig includ interview outsid wit and obtain public record and
+other document from third parti
+human resourc personnel
+the human resourc depart should be consult to ensur that the law govern the
+right of employe in the workplac ar not violat such involv will lessen the
+possibl of a wrong discharg suit or other civil action by the employe advic from a
+human resourc specialist might also be need normal thi person would not directli
+particip in the investig
+manag repres
+a repres of manag or in signific case the audit committe of the board of
+director should be kept inform of the progress of the investig and be avail to
+i4 2011 fraud examin manual
+introduct
+lend the necessari assist a sensit employe investig ha virtual no hope of
+success without strong manag support
+outsid consult
+in some case particularli when the suspect employe is particularli power or popular it
+might be us to emploi outsid specialist who ar rel immun from compani
+polit or threat of repris such expert might also have greater experi and
+investig contact than insid
+legal counsel
+it is necessari to have counsel involv in and in most case direct the investig
+at least as far as the legal aspect ar concern
+characterist of a fraud examin
+fraud examin should have uniqu abil in addit to technic skill the success
+examin ha the abil to elicit fact from numer wit in a fair imparti law
+and accur manner and to report the examin result accur and complet the
+abil to ascertain the fact and to report them accur ar of equal import the fraud
+examin is part lawyer part account part criminologist and part detect or
+investig
+allan pinkerton on of the first success privat investig state what qualiti a
+detect should possess
+the detect must possess certain qualif of prudenc secreci invent persist
+person courag and abov all other thing honesti while he must add to these the same
+qualiti of reach out and be come possess of that almost boundless inform which will
+permit of the immedi and effect applic of hi detect talent in whatev degre that
+might be possess
+the abil to deal effect with peopl is paramount for fraud examin the examin
+typic meet peopl for a short period of time and with a specif purpos to obtain
+inform ideal the examin ha the person to attract and motiv peopl to be
+help
+2011 fraud examin manual i5
+introduct
+the examin attitud toward other affect their attitud toward him a hostil attitud
+will creat anxieti in the respond therebi caus them to becom withdrawn and
+protect even if there is no reason to do so contrari to lore the success investig is
+rare tough except when the need aris and tough ha been carefulli plan and
+evalu
+art buckwalt sai the secret is for each privat investig to be the kind of person
+other will want to deal with examin who mislead other will often themselv be
+misl for each guilti person an examin encount he will deal with mani innoc
+wit those innoc wit and the examin abil to draw them out ar
+indispens to fraud examin methodolog becaus an examin deal with peopl
+from all walk of life be abl to establish rapport with stranger is vital
+becaus no two peopl ar alik the fraud examin must be abl to commun in the
+respond languag a colleg graduat will not be question exactli the same wai as a
+ninthgrad dropout someon with a technic vocabulari wont respond in the same
+manner as a person with an artist background as each case differ so will the examin
+approach
+the fraud examin must have the technic abil to understand financi concept and the
+abil to draw infer from them a uniqu featur of fraud case is that unlik
+tradit properti crime the perpetr ident usual is known in a bank robberi for
+exampl the issu is not whether a crime wa commit but rather who commit the
+crime in fraud case the issu usual is not the ident of the culprit but whether or not
+the conduct constitut fraud
+it is import that the examin be abl to simplifi financi concept so that other
+comprehend them fraud case often involv issu that appear complic but in realiti
+most fraud is rather simpl the conceal method make it appear complex
+fraud examin methodolog
+fraud examin methodolog requir that all fraud alleg be handl in a uniform
+legal fashion and be resolv on a time basi assum there is suffici reason
+predic to conduct a fraud examin specif examin step usual ar
+emploi at each step of the fraud examin process the evid obtain and the
+i6 2011 fraud examin manual
+introduct
+fraud theori approach continu is assess that is to sai the suspect subject of the
+inquiri typic would be interview last onli after the fraud examin ha obtain
+enough gener and specif inform to address the alleg adequ
+the fraud examin methodolog gather evid from the gener to the specif
+becaus of the legal ramif of fraud examin action the right of all individu
+must be observ throughout
+predic
+investig of fraud consist of the multitud of step necessari to resolv alleg of
+fraud interview wit assembl evid write report and deal with
+prosecutor and the court the investig of fraud becaus it deal with the individu
+right of other must be conduct onli with adequ caus or predic
+predic is the total of circumst that would lead a reason profession train
+and prudent individu to believ a fraud ha occur is occur andor will occur
+predic is the basi upon which an examin is commenc fraud examin
+should not be conduct without proper predic
+fraud theori approach
+each fraud examin begin with the proposit that all case will end in litig
+to solv a fraud
+without complet evid the examin must make certain assumpt thi is not unlik
+the scientist who postul a theori base on observ and then test it in the case of
+complex fraud fraud theori is almost indispens fraud theori begin with the
+assumpt base on the known fact of what might have occur then that assumpt
+is test to determin whether it is provabl the fraud theori approach involv the
+follow step in the order of their occurr
+analyz avail data
+creat a hypothesi
+test the hypothesi
+refin and amend the hypothesi
+a case studi on intern fraud that is base on an actual incid and on that is common in
+the commerci and government environ illustr the concept involv in the
+fraud examin process the name and certain other fact have been chang for
+purpos of illustr
+2011 fraud examin manual i7
+introduct
+linda reed collin case studi
+linda reed collin is purchas manag for bailei book incorpor in st augustin
+florida bailei with 226 million in annual sale is on of the countri lead produc of
+textbook for the colleg and univers market as well as technic manual for the medic and
+dental profess
+bailei headquart consist of 126 employe plu numer sale personnel in the field
+becaus of the competit natur of the textbook busi their profit margin ar quit thin
+bailei purchas averag about 75 million annual consist mostli of paper stock and
+cover us in the manufactur process the great major of the manufactur is done in
+mexico through contract with the mexican govern
+the purchas function is princip handl by three purchas agent linda reed collin
+is the purchas manag and ha two other buyer who report to her plu anoth 18 cleric
+and support personnel
+becaus bailei book is requir by investor and lender to have audit annual financi
+statement bailei emploi a larg region cpa firm to conduct it annual audit and ha a
+staff of five intern auditor all intern fraud matter within the compani ar refer to
+loren d bridg a certifi fraud examin the typic intern fraud at bailei involv
+defalc by their cashier as well as a constant stream of complaint concern alleg fraud
+by bailei book salespeopl and distributor
+on januari 28 bridg wa refer a telephon call the male caller advis that he did not
+wish to disclos hi ident howev he claim to have been a longterm supplier to bailei
+in the area of book and sundri and magazin the caller said that ever sinc linda collin
+took over as purchas manag for bailei sever year ago he ha been systemat
+squeez out of do busi with bailei although bridg queri the caller for addit
+inform the person hung up the telephon
+there could be mani legitim reason why a vendor would feel unfairli treat to us the
+fraud theori approach the certifi fraud examin in thi case bridg must analyz the
+avail data befor come to ani preliminari hypothesi as to what ha occur
+i8 2011 fraud examin manual
+introduct
+analyz avail data
+if an audit of the entir purchas function is deem warrant it would be conduct at
+thi time and would specif keep in mind the possibl of fraud result from the
+anonym alleg
+creat a hypothesi
+the hypothesi is invari a worstcas scenario that is base on the alleg what is
+the worst possibl outcom in thi case for bailei book it would be that on of it
+purchas agent wa accept kickback to steer busi to a particular vendor a
+hypothesi can be creat for ani specif alleg ie a briberi or kickback scheme
+embezzl conflict of interest financi statement fraud etc in further of the
+hypothes fraud examin know that each specif scheme ha it own uniqu
+characterist that constitut the badg or red flag of fraud
+test the hypothesi
+test a hypothesi involv creat a whatif scenario if as part of the hypothesi a
+briberi of a purchas agent exist the fraud examin like would find some or all of the
+follow fact
+a person relationship between the buyer and vendor
+abil of the purchas agent to steer busi toward a favor vendor
+higher price andor lower qualiti for the product or servic be purchas
+excess spend by the purchas agent
+in the hypothet case of linda reed collin the certifi fraud examinerus bailei
+book own recordscan readili establish whether or not on vendor is receiv a larger
+proport share of the busi than similar vendor bridg could ascertain whether or
+not bailei book wa pai too much for a particular product such as paper by simpli
+call other vendor and determin competit price a person relationship with ani
+suspect vendor and the buyer could be confirm by discreet observ or inquiri
+whether or not a particular purchas agent had the abil to steer busi toward a
+favor vendor could be determin by review the compani intern control to
+ascertain who is involv in the decisionmak process the purchas agent lifestyl
+could be discreetli determin through examin of public document such as real estat
+record and vehicl titl
+2011 fraud examin manual i9
+introduct
+refin and amend the hypothesi
+in test the hypothesi the fraud examin might find that all fact do not fit a particular
+scenario if such is the case the hypothesi should be revis and retest obvious if the
+known fact ar test with neg result it could be that a fraud is not present or it
+could indic that the fraud cannot be prove in the linda reed collin exampl a
+discreet inquiri might determin that collin did not have an excess lifestyl but rather
+signific person indebted the fraud theori could then be appropri revis
+follow is a flow chart set forth how the fraud examin process is us to resolv
+alleg
+i10 2011 fraud examin manual
+introduct
+evalu relationship between
+sale and cost of sale on the
+financi statement
+what ar the normal intern control
+ar there instanc when normal intern control
+ar not follow
+who ar the personnel involv in the process
+have there been ani chang in personnel or
+process
+is predic
+suffici
+no
+ye
+cost of sale is too high
+initi predic
+tip
+complaint
+account
+clue
+other
+sourc
+evalu
+tip
+review financi
+relationship
+stop
+go
+2011 fraud examin manual i11
+introduct
+complet the investig
+through
+interview
+is evid suffic to proce
+discontinuey
+no
+develop fraud theori
+who might be involv
+what might have happen
+why might the alleg be true
+where ar the possibl conceal place or
+method
+when did thi take place past present or
+futur
+how is the fraud be perpetr
+determin where the evid is like to be
+onbook vs offbook
+direct or circumstanti
+identifi potenti wit
+what evid is necessari to prove intent
+number of occurr
+other area of improprieti
+wit
+revis fraud theori
+prepar chart link peopl and evid
+determin defens to alleg
+document examin
+observ
+i12 2011 fraud examin manual
+introduct
+the fraud examin tool kit
+essenti three tool ar avail to the fraud examin regardless of the natur of the
+fraud examin first is interview which is the process of obtain relev inform
+about the matter from those with knowledg of it for exampl in develop
+inform about linda reed collin it might be necessari to interview her cowork
+superior and subordin
+second the fraud examin must be skill in the examin of financi statement book
+and record and support document the examin must know the legal ramif of
+evid and how to maintain the chain of custodi over document for exampl check
+and other financi record to prove the case must be lawfulli obtain analyz and
+conclus must be drawn if it is determin that linda reed collin wa take payoff
+from a supplier
+final fraud examin ar often place in a posit where thei must observ behavior
+search for displai of wealth and in some instanc observ specif offens a certifi
+fraud examin for exampl might recommend a video surveil of a compani
+cashier depart to wit a defalc be commit or the fraud examin might
+establish a visual surveil in a public place to determin the pattern or activ of the
+subject
+interview
+if it appear that the fraud theori is still applic after the fraud examin analyz the
+document the examin proce to the next step interview of neutral thirdparti
+wit
+neutral thirdparti wit
+a neutral thirdparti wit is a person not involv in a specif instanc of fraud for
+exampl if the fraud examin of lind a reed collin progress past the stage of
+analyz document it would be common for the fraud examin to interview the personnel
+offic at bailei book incorpor regard collin personnel file
+corrobor wit
+corrobor wit ar those who can corrobor fact relat to a specif offens
+these wit might be cooper or uncoop but thei ar not directli relat to
+the offens involv collin cowork or subordin at bailei book inc could be
+2011 fraud examin manual i13
+introduct
+corrobor wit interview with wit to corrobor fact should be done after
+interview neutral thirdparti wit
+coconspir
+if after examin document neutral thirdparti wit and corrobor wit it
+still appear that further work is warrant the fraud examin typic would interview
+coconspir to the alleg offens in the case of linda reed collin if it were determin
+that a vendor wa pai collin kickback that vendor typic would be interview prior
+to contact collin peopl suspect of complic gener ar interview in the order
+of those thought to be least culpabl to those thought to be most culpabl in crimin
+prosecut law enforc offic and prosecutor can sometim promis lenienc to
+coconspir in return for their cooper these individu ar call insid
+wit and will be discuss in detail later such promis by privat sector fraud
+examin ar not permit and might legal invalid ani admiss that ar made
+subject
+in gener the subject also call the suspect or accus is interview last after all fact
+necessari to resolv the alleg ar obtain even if it is felt that the subject will not
+offer a confess an interview is usual schedul in mani instanc it can be us later
+for impeach an interview might also give the examin a good idea of what defens
+the subject might rais
+purpos of the fraud examin
+the purpos of the fraud examin is to prove or disprov the legal element of the
+offens each and everi element must be proven 1 beyond a reason doubt in crimin
+case and 2 by a preponder of the evid in civil case to do thi it is necessari to
+understand certain object common to whitecollar case becaus investig of fraud
+often involv an extens arrai of inform the fraud examin can lose sight of the
+object accord to herbert edelhertz
+on of the characterist that most distinguish the investig of whitecollar crime from that
+of common crime is the necess for the investig to establish the intent and underli
+motiv of the subject by place togeth jigsaw puzzl piec of appar legitim activ
+to add up to a pictur of illegitimaci rather than by a simpl show of on event which by
+itself flatli demonstr wrong intent
+i14 2011 fraud examin manual
+introduct
+element of whitecollar offens
+while it is not possibl or necessari to list everi variat of whitecollar crime and fraud all
+have common element such as
+intent knowingli to commit a wrong act or to achiev a purpos inconsist with
+law or public polici
+disguis of purpos falsiti and misrepresent emploi to accomplish the
+scheme
+relianc by the offend on the ignor or careless of the victim
+voluntari victim action to assist the offend
+conceal of the offens
+intent
+intent must be shown in fraud matter intent rare is selfevid but must rather be
+demonstr by show a pattern of activ some of the more common wai to show
+intent includ proof that the accus
+had no legitim motiv for the activ
+repeatedli engag in the same or similar activ of an appar wrong natur
+made conflict statement
+made admiss
+act to imped the investig of the offens
+made statement the offend clearli knew to be fals
+disguis and misrepresent
+misrepresent usual is shown by the fact that the represent wa made and that it
+wa fals either by omiss or commiss
+voluntari victim action to assist the offend
+proof that the victim assist the offend usual is not difficult to obtain from the victim
+it is import for the fraud examin to ascertain the exact circumst regard the
+fraud from the victim clearli draw out what made the fraud possibl in the case of
+employe theft for exampl the victim the compani entrust the care of asset to the
+subject that fiduciari capac must be establish
+conceal
+conceal is a cornerston of fraud as oppos to tradit crime where there is no
+effort to conceal fraud perpetr take step to keep the victim ignor act in fraud
+2011 fraud examin manual i15
+introduct
+scheme design to conceal includ commit offens too small to be recogn as
+fraud by the victim in embezzl case for exampl the amount of monei taken at ani
+on time usual is small rel to the total compani asset by demonstr a continu
+pattern of theft the conceal aspect can be shown
+to hide their action fraud perpetr often creat complex financi trail the more
+obscur the act the greater likelihood that it will not be detect some fraud case involv
+fraudul invoic and journal entri conceal in these type of case often can be
+proven by the fact that the entri made had no purpos other than to conceal
+proof stage in fraud case
+proof in most complex whitecollar case usual proce through three basic stage first
+the fraud examin build the circumstanti case through interview of cooper
+wit and review of avail document then the examin us the circumstanti
+evid to identifi and persuad an insid wit who can provid direct evid against
+the defend then the case is seal defens ar identifi and rebut and intent is
+prove through examin of the subject
+stage on build the circumstanti case
+as us here circumstanti evid mean all proof other than direct admiss of
+wrongdo by the subject or a coconspir in a fraud case it is the proof of the
+defend represent evid of their falsiti and intent in a corrupt case it is
+evid of the standard behavior the defend breach and the illeg payment the
+circumstanti case also might includ similar act evid to show a common scheme or
+plan lack of mistak or accid modu operandi and most commonli intent
+circumstanti evid might be all that is avail it must be complet with no gap
+consist tend to prove a singl point and must exclud all explan other than
+guilt collect thi type of evid can be veri difficult mani complex case lose
+direct dure the circumstanti stage when the examin becom overwhelm by the
+mass of accumul detail and document to avoid get bog down consid the
+follow
+i16 2011 fraud examin manual
+introduct
+keep an ey on the ball
+examin must rememb the import of the fraud theori and keep in mind exactli
+what thei ar attempt to prove at all time if examin lose track of the object thei
+should review and reorgan the evid develop an altern theori and refocu effort
+the examin alwai is try to prove or disprov someth even if mere a hunch
+but never mere collect inform
+simplifi the case
+if the case start to sink under it own weight the fraud examin might look for a less
+demand legal theori break the case down into smaller compon eg prove on set of
+charg against on set of defend befor pursu the other or look for an inform or
+insid wit the object in everi complex case is to break it down to it essenti and
+make it as simpl and clear as possibl
+stage two obtain direct evid
+in mani case cooper from a coconspir or other insid is a necess either
+becaus the case is so complic that it is otherwis unmanag or a kei element such
+as cash payment in a corrupt case or the full extent of wrongdo or intent in a fraud
+case cannot be prove circumstanti in some case the object of the circumstanti
+stage is not so much to obtain evid to convict the ultim defend but rather to
+identifi and turn an insid wit
+ideal the least culpabl wit should be approach first in a corrupt case thi might
+be the bag man a subordin or if the onli choic is the payer or taker usual the
+payer is the better choic a juri will react neg if it member believ that the wit
+is more culpabl than the defend a decis must also be made about how to convinc
+the wit to assist ideal to preserv the wit credibl the fewer concess the
+better rememb that immun might be given onli with the consent of the court
+rememb too that even the most selfincrimin testimoni of a coconspir must be
+corrobor testimoni from the insid should mesh with and augment the circumstanti
+evid not replac it the credibl of a turn wit can becom the central issu in
+the case and distract the juri from the strength of the circumstanti evid if
+nonessenti testimoni from a coconspir cannot be corrobor dont us it
+2011 fraud examin manual i17
+introduct
+i18 2011 fraud examin manual
+be awar that cooper culpabl wit in a whitecollar case often minim their role
+to avoid embarrass even if protect from legal consequ and ar prone to
+describ themselv more as observ than particip thi is veri damag to credibl
+and must be overcom befor such wit can be perceiv as believ
+stage three seal the case through examin of the subject
+circumstanti evid might be explain awai and direct testimoni impeach or
+rebut the best wit against the suspect might be himself the suspect admiss
+might provid otherwis miss element fals exculpatori li offer to explain or
+justifi conduct might be the best evid of intent fals denial of cash deposit in a
+corrupt case might indic an illicit sourc fals explan for fraudul
+represent might help prove that the origin misstat were intent
+to be effect impeach must show real not appar or explain contradict
+and must focu on central not tangenti or trivial point attempt impeach fail
+mani time becaus the plaintiff ha not laid a suffici foundat to show that the
+defend statement were knowingli fals
+to adequ prepar the fraud examin to understand and respond to the complex natur
+of fraud the remain materi is divid into four section financi transact and
+fraud scheme law investig and fraud prevent and deterr
+2011 fraud examin manual 1101

@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Which of the following should government auditors consider during the planning stage of a performance audit?
+
+Options=The nature and profile of the programs being audited | Internal controls | The results of previous audits | All of the above
+
+CorrectResponse=3
+
+Explanation=According to Government Auditing Standards, paragraph 7.11," During planning auditors should assess risk and significance by considering: a. the nature and profile of the programs and the needs of potential users of the audit report; b. internal control as it relates to the specific objectives and scope of the audit: c. information systems controls for purposes of assessing audit risk and planning the audit: d. legal and regulatory requirements, contract provisions, or grant agreements, potential fraud, or abuse that are significant within the context of the audit objectives; and e. the results of previous audits and attestation engagements that directly relate to the current audit objectives."See page(s) 1.1908 in the Fraud Examiner’s Manual

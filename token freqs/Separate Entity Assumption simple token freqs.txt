@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+transactions                           1
+other                                  1
+for                                    1
+entity                                 4
+from                                   1
+business                               2
+of                                     3
+personal                               2
+operators                              1
+activity                               1
+kept                                   1
+be                                     2
+financial                              1
+reports                                1
+separate                               2
+or                                     2
+the                                    2
+should                                 2
+entities                               1
+in                                     1
+economic                               1
+not                                    1
+an                                     2
+assumption                             1
+example                                1
+included                               1
+owners                                 1
+
+Totals:                     27        40

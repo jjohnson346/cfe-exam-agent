@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Most experts believe that offering rewards in exchange for information about criminal events is an effective fraud prevention technique only if the reward exceeds $5,000.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Some companies have a policy of rewarding information that leads to the recovery of merchandise, property, or money. Others offer rewards upon the criminal conviction of the person(s) involved. If a reward policy exists, strict criteria should establish reward payments, and such proposed policies should be reviewed and approved by counsel. The amount of reward paid by companies varies from fixed fees to a percentage of the recovery. Studies indicate that rewards should not exceed a few thousand dollars.See page(s) 4.723 in the Fraud Examiner's Manual

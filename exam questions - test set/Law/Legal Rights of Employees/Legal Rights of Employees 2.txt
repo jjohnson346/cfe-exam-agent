@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=White, a Certified Fraud Examiner was asked by the ABC Company whether or not prospective employees could be required to take a polygraph before being hired. White should advise the company that pre-employment polygraphs:
+
+Options=Cannot be given to prospective employees | Can be given to prospective employees | Cannot be given unless the employee consents | None of the above
+
+CorrectResponse=0
+
+Explanation=The Employee Polygraph Protection Act prohibits the use of polygraphs by most private employers unless the employer is engaged in an ongoing investigation involving economic loss or injury to the employer in the employer‰??s business and has a reasonable suspicion that the employee is involved in the incident. "Reasonable suspicion" is an observable, articulated basis in fact. It is most similar to predication. Private employers cannot use polygraphs to screen applicants for employment. Employers cannot discharge an employee for refusing to take an exam. This act does not protect government employeesSee page(s) 2.437 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Which of the following federal government agencies can provide specific information regarding an individual's income and bank accounts to the public?
+
+Options=Internal Revenue Service | Treasury Department | Bureau of Census | None of the above
+
+CorrectResponse=3
+
+Explanation=According to the Freedom of Information Act. records regarding an individual's income and banking information generally are not available to the publicSee page(s) 3.404 in the Fraud Examiner's Manual

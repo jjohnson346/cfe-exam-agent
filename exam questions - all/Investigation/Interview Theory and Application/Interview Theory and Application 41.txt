@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interviewing, _______________________________ communication refers to the use of time in interpersonal relationships to convey meaning, attitudes, and desires.
+
+Options=Chronemic | Proxemic | Kinetic | None of the above
+
+CorrectResponse=0
+
+Explanation="Chronemic communication" refers to the use of time in interpersonal relationships to convey meaning, attitudes, and desires. If the respondent is late in keeping an appointment, for example, this may convey a lack of interest in or an avoidance of the interview. The most important chronemic technique used by interviewers is in the timing of questions. The interviewer can control the length of pauses and the rate of his speech. This is called "pacing." The interviewer can also control the length of time after the respondent has finished a sentence before another question is posed. This is called the "silent probe."See page(s) 3.218 in the Fraud Examiner's Manual

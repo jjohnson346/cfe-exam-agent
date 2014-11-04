@@ -1,0 +1,11 @@
+Token                          Frequency
+-----------------------------  ---------
+accounts                               1
+withdrawals                            2
+from                                   1
+customer                               1
+unauthorized                           2
+make                                   1
+employees                              1
+
+Totals:                      7         9

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a type of expense reimbursement scheme identified by Corporate Fraud Handbook?
+
+Options=Mischaracterized expenses | Skimmed reimbursements | Multiple reimbursements | Overstated expenses
+
+CorrectResponse=1
+
+Explanation=The four types of expense reimbursement schemes identified by Corporate Fraud Handbook are:•	Mischaracterized expenses•	Overstated expenses•	Fictitious expenses•	Multiple reimbursementsSee page(s) 226 in the Corporate Fraud Handbook

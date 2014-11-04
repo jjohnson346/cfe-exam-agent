@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=According to Corporate Fraud Handbook, which of the following is NOT a method that is used to conceal inventory shrinkage?
+
+Options=Writing off stolen inventory as scrap | Forced reconciliation of the inventory records | Selling merchandise without recording the sale | Physical padding
+
+CorrectResponse=2
+
+Explanation=Some fraudsters try to make it appear that there are more assets present in the warehouse or stockroom than there actually are by physically padding the inventory. In one case, employees stole liquor from their stockroom and restacked the containers for the missing merchandise. This made it appear that the missing inventory was present when in fact there were really empty boxes on the stockroom shelves. One of the simplest methods for concealing shrinkage is to change the perpetual inventory record so that it will match the physical inventory count. This is also known as a forced reconciliation of the account Basically, the perpetrator just changes the numbers in the perpetual inventory to make them match the amount of inventory on hand. Writing off inventory and other assets is a relatively common way for fraudsters to remove assets from the books before or after they are stolen. This is beneficial to the fraudster because it eliminates the problem of shrinkage that inherently exists in every case of noncash asset misappropriation. Selling merchandise without recording the sale would actually increase the amount of shrinkage on a company's books, because the physical inventory would be depleted without a corresponding adjustment to the perpetual inventory.See page(s) 265-266 in the Corporate Fraud Handbook

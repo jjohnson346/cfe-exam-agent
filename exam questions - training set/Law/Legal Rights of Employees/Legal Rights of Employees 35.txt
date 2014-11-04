@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which of the following is NOT an element of defamation?
+
+Options=A highly offensive statement | Publication to one or more persons | A false statement of fact | Harm to the plaintiff s reputation
+
+CorrectResponse=0
+
+Explanation=The four elements of defamation are:‰?¢	A false statement of fact‰?¢	Tending to subject the person to whom it referred to ill will or disrepute‰?¢	Published to one or more persons‰?¢	Made without privilegeSee page(s) 2.414-2.415 in the Fraud Examiner's Manual

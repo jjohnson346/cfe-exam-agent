@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=In a construction loan, developer overhead is a ripe area for abuse. The purpose of developer overhead is to provide:
+
+Options=Labor reimbursements | Budget shortfall	| Profit margin | Operating capital
+
+CorrectResponse=3
+
+Explanation=It is not uncommon in construction financing to have a budget line item for developer overhead. This is a ripe area for abuse. The purpose of developer overhead is to supply the developer with operating capital while the project is under construction. This overhead allocation should not include a profit percentage, as the developer realizes profit upon completion.See page(s) 1.906 in the Fraud Examiner's Manual

@@ -1,0 +1,1640 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/FINANCIAL STATEMENT FRAUD/Financial Statement Fraud Schemes
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Financial Statement Fraud
+
+
+:
+
+
+Financial Statement Fraud Schemes 
+Fraud in financial statements typically takes the form of: 
+• Overstated assets or revenue 
+• Understated liabilities and expenses 
+ 
+Overstating assets and revenues falsely reflects a financially stronger company by inclusion 
+of fictitious asset costs or artificial revenues. Understated liabilities and expenses are shown 
+through exclusion of costs or financial obligations. Both methods result in increased equity 
+and net worth for the company. This manipulation results in increased earnings per share or 
+partnership profit interests, or a more stable picture of the company’s true situation.  
+ 
+However, in government contracts, just the opposite may be true: 
+• Assets and revenues are understated. 
+• Liabilities and expenses are overstated. 
+ 
+Why? As explained by government auditors, entities may rely on understated revenues or 
+overstated expenses to get more money for a project or contract. However, such schemes 
+are by far the minority of financial statement fraud cases. 
+ 
+To demonstrate the over- and understatements typically used to fraudulently enhance the 
+financial statements, the schemes have been divided into five classes. Because the maintenance 
+of financial records involves a double-entry system, fraudulent accounting entries always affect 
+at least two accounts and, therefore, at least two categories on the financial statements. While 
+the areas described below reflect their financial statement classifications, keep in mind that the 
+other side of the fraudulent transaction exists elsewhere. It is common for schemes to involve 
+a combination of several methods. The five classifications of financial statement schemes are: 
+• Fictitious revenues 
+• Timing differences  
+• Improper asset valuations 
+• Concealed liabilities and expenses 
+• Improper disclosures 
+ 
+Financial Statement Fraud  Financial Transactions   
+1.310                         2011 Fraud Examiners Manual  
+Fictitious Revenues  
+Fictitious or fabricated revenues involve the recording of sales of goods or services that did 
+not occur. Fictitious sales most often involve fake or phantom customers, but can also 
+involve legitimate customers. For example, a fictitious invoice can be prepared (but not 
+mailed) for a legitimate customer although the goods are not delivered or the services are not 
+rendered. At the beginning of the next accounting period, the sale might be reversed to help 
+conceal the fraud, but this may lead to a revenue shortfall in the new period, creating the 
+need for more fictitious sales. Another method is to use legitimate customers and artificially 
+inflate or alter invoices reflecting higher amounts or quantities than are actually sold.  
+ 
+Generally speaking, revenue is recognized when it is (1) realized or realizable, and (2) earned. 
+The Securities and Exchange Commission (SEC) issued Staff Accounting Bulletin (SAB) 
+Topic 13, Revenue Recognition (now codified in FASB ASC 605-10-S99), to provide additional 
+guidance on revenue recognition criteria and to rein in some of the inappropriate practices 
+that had been observed. FASB ASC 605-10-S99 states that revenue is typically considered 
+realized or realizable, and earned when all of the following criteria are met: 
+• Persuasive evidence of an arrangement exists; 
+• Delivery has occurred or services have been rendered; 
+• The seller’s price to the buyer is fixed or determinable; and 
+• Collectibility is reasonably assured. 
+ 
+EXAMPLE OF FICTITIOUS REVENUES 
+In one case, a foreign subsidiary of a U.S. company recorded several large fictitious sales to 
+a series of companies. They invoiced the sa les but did not collect any of the accounts 
+receivable, which became severely past due. The manager of the foreign subsidiary arranged 
+for false confirmations of  the accounts receivable for audit purposes and even hired actors to 
+pretend to be the customers during a visit fr om U.S. management. Background checks on 
+the customers would have revealed that some of the companies were fictitious while others 
+either were undisclosed related parties or operated in industries that would have no need for 
+the goods supposedly supplied. An investigation  revealed that the manager of the foreign 
+subsidiary directed the scheme to record fictitious revenues in order to meet unrealistic 
+revenue goals set by U.S. management.  
+ 
+In some cases, companies go to great lengths to conceal fictitious sales. A sample journal 
+entry from such a case is detailed below. A fictional entry is made to record a purported 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.311 
+purchase of fixed assets. This entry debits fixed assets for the amount of the alleged 
+purchase and the credit is to cash for the payment: 
+ 
+Date Description Ref. Debit Credit 
+12/01/X1 Fixed Assets 104 350,000  
+ Cash 101  350,000 
+ 
+A fictitious sales entry is then made for the same amount as the false purchase, debiting 
+accounts receivable and crediting the sales account. The cash outflow that supposedly paid 
+for the fixed assets is “returned” as payment on the receivable account, though in practice 
+the cash might never have moved if the fraudsters didn’t bother to falsify that extra 
+documentary support. 
+ 
+Date Description Ref. Debit Credit 
+12/01/X1 Accounts Rec 120 350,000  
+ Sales 400  350,000 
+12/15/X1 Cash 101 350,000  
+ Accounts Rec 120  350,000 
+ 
+The result of this completely fabricated sequence of events is an increase in both fixed assets 
+and revenue. The debit could alternatively have been directed to other accounts, such as 
+inventory or accounts payable, or simply left in accounts receivable if the fraud were 
+committed close to the year’s end and the receivable could be left outstanding without 
+attracting undue attention. 
+ 
+Sales with Conditions  
+Sales with conditions are those that have terms that have not been completed and the rights 
+and risks of ownership have not passed to the purchaser. They do not qualify for recording 
+as revenue. These types of sales are similar to schemes involving the recognition of revenue 
+in improper periods, since the conditions for sale may become satisfied in the future, at 
+which point revenue recognition would become appropriate. The recognition of revenue in 
+improper periods is discussed further in the next section.  
+ 
+What Red Flags Are Associated with Fictitious Revenues? 
+The following red flags are associated with fictitious revenues:  
+• Rapid growth or unusual profitability, especially compared to that of other companies in 
+the same industry.  
+Financial Statement Fraud  Financial Transactions   
+1.312                         2011 Fraud Examiners Manual  
+• Recurring negative cash flows from operations or an inability to generate positive cash 
+flows from operations while reporting earnings and earnings growth.  
+• Significant transactions with related parties or special purpose entities not in the ordinary 
+course of business or where those entities are not audited or are audited by a separate 
+firm.  
+• Significant, unusual, or highly complex transactions, especially those close to the period’s 
+end that pose difficult “substance over form” questions. 
+• Unusual growth in the days’ sales in receivables ratio (receivables/average daily sales). 
+• A significant volume of sales to entities whose substance and ownership is not known. 
+• An unusual surge in sales by a minority of units within a company, or in sales recorded 
+by corporate headquarters. 
+ 
+Timing Differences (Including Premature Revenue Recognition)  
+Financial statement fraud might also involve timing differences, that is, the recording of 
+revenues or expenses in improper periods. This can be done to shift revenues or expenses 
+between one period and the next, increasing or decreasing earnings as desired. 
+ 
+Premature Revenue Recognition 
+As previously mentioned, revenue should be recognized in the accounting records when the 
+following four criteria as set out in FASB ASC 605-10-S99 have been satisfied: 
+• Persuasive evidence of an arrangement exists; 
+• Delivery has occurred or services have been rendered; 
+• The seller’s price to the buyer is fixed or determinable; and 
+• Collectibility is reasonably assured. 
+ 
+One or more of these criteria is typically  not met when managers recognize revenues 
+prematurely. Examples of common problems with premature revenue recognition are set 
+out below. 
+ 
+PERSUASIVE EVIDENCE OF AN ARRANGEMENT DOES NOT EXIST 
+• No written or verbal agreement exists. 
+• A verbal agreement exists but a written agreement is customary. 
+• A written order exists but is conditional upon sale to end users (such as a consignment 
+sale). 
+• A written order exists but contains a right of return. 
+• A written order exists but a side letter alters the terms in ways that eliminate the required 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.313 
+elements for an agreement. 
+• The transaction is with a related party, which has not been disclosed. 
+ 
+DELIVERY HAS NOT OCCURRED OR SERVICES HAVE NOT BEEN RENDERED 
+• Shipment has not been made and the criteria for recognizing revenue on “bill-and-hold” 
+transactions set out in FASB ASC 605-10-S99 have not been met. 
+• Shipment has been made not to the customer but to the seller’s agent, an installer, or to a 
+public warehouse. 
+• Some, but not all, of the components required for operation were shipped. 
+• Items of the wrong specification were shipped. 
+• Delivery is not complete until installation, customer testing, and customer acceptance 
+has occurred. 
+• Services have not been provided at all. 
+• Services are being performed over an extended period and only a portion of the service 
+revenues should have been recognized in the current period. 
+• The mix of goods and services in a contract has been misstated in order to improperly 
+accelerate revenue recognition. 
+ 
+THE SELLER’S PRICE TO THE BUYER IS NOT FIXED OR DETERMINABLE 
+• The price is contingent upon some future events. 
+• A service or membership fee is subject to unpredictable cancellation during the contract 
+period. 
+• The transaction includes an option to exchange the product for others. 
+• Payment terms are extended for a substantial period and additional discounts or 
+upgrades may be required to induce continued use and payment instead of switching to 
+alternative products. 
+ 
+COLLECTIBILITY IS NOT REASONABLY ASSURED 
+• Collection is contingent upon a future event, such as resale of the product, receipt of 
+additional funding, or litigation. 
+• The customer does not have the ability to pay; for example, it is financially troubled, it 
+has purchased far more than it can afford, or it is a shell company with minimal assets. 
+ 
+EXAMPLE 
+ABC, Inc. sells products that require engineering and adapting work before they are 
+acceptable to customers. However, the company records sales revenue before completing the 
+Financial Statement Fraud  Financial Transactions   
+1.314                         2011 Fraud Examiners Manual  
+engineering, testing, evaluation, and customer acceptance stages of production. In some cases, 
+sales do not take place for weeks or months.  In other cases, the sales are specifically 
+contingent upon the customer’s trial and acceptance of the product.  
+ 
+EXAMPLE 
+Another company is engaged in the design, development, manufacture, marketing, and 
+servicing of computer peripheral subsystems. The company recognized revenue prior to a time 
+when collection of the sales price was reasonably assured and at  a time prior to completion 
+of the underlying sales transaction. 
+ 
+It was the company’s policy to recognize revenue  when the products we re shipped. However, 
+the sales were not complete as of the time of shipment because customers were not obligated 
+to pay for the equipment until it had been installed; the company had substantial 
+obligations to the customers for installation  and adjustments; and there remained major 
+uncertainties concerning the customers’ true willingness to complete the transaction because 
+of the volatile nature of the high-tech product. 
+ 
+Long-Term Contracts 
+Long-term contracts pose special problems for revenue recognition. Long-term construction 
+contracts, for example, use either the completed-contract method or the percentage-of-completion 
+method, depending partly on the circumstances. The completed-contract 
+method does not record revenue until the project is 100 percent complete. Construction 
+costs are held in an inventory account until completion of the project. The percentage-of-completion 
+method recognizes revenues and expenses as measurable progress on a project is 
+made, but this method is particularly vulnerable to manipulation. Managers can often easily 
+manipulate the percentage-of-completion and the estimated costs to complete a construction 
+project in order to recognize revenues prematurely and conceal contract overruns.  
+ 
+Multiple Deliverables 
+Product and service sales sometimes involve multiple deliverables (or multiple-element 
+arrangements). For example, a cell phone company provides a discounted or free cell phone 
+to a customer who signs up for a two-year service agreement; in this situation, the 
+deliverables include both the product (cell phone) and the service, which spans two years. In 
+multiple-element arrangements, the seller completes the earnings process—and thus must 
+recognize revenue—over a period of time.  
+ 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.315 
+Under FASB ASC 605-25, Revenue Recognition—Multiple-Element Arrangements, companies are 
+required to estimate the price of the individual components in a multiple-element sale. 
+Companies must then recognize the revenue related to each of the components as they are 
+delivered. The inherent inexact nature of the estimates involved in this process leaves this 
+revenue recognition method vulnerable to fraud as managers can manipulate the estimated 
+price of the individual components in order to delay or accelerate revenue recognition. 
+ 
+Channel-Stuffing 
+A challenging area of revenue recognition that has attracted the attention of the SEC is 
+known as “channel-stuffing.” Channel-stuffing refers to the sale of an unusually large 
+quantity of a product to distributors who are encouraged to overbuy through the use of deep 
+discounts or extended payment terms. This practice is especially attractive to industries with 
+high gross margins, such as tobacco, pharmaceuticals, perfume, soda concentrate, and 
+branded consumer goods, because it can increase short-term earnings. On the downside, 
+however, stealing from future periods’ sales makes it harder to achieve sales goals in those 
+future periods. The pressure to meet sales goals can, in turn, lead to increasingly disruptive 
+levels of channel-stuffing and, ultimately, to a restatement. Although orders are received, the 
+terms of the order might raise questions about the collectibility of the accounts receivable, 
+and any existing side agreements that grant a right of return may, effectively, turn the sales 
+into consignment sales. Also, there might be a greater risk of returns for certain products if 
+they cannot be sold before their shelf life ends.  
+ 
+In recent years, the SEC has brought enforcement actions or charges related to channel-stuffing 
+against a number of major U.S. corporations, including McAfee, Inc. and The Coca-Cola 
+Company. In 2006, the SEC released a press release stating that McAfee agreed to settle 
+the proceedings and pay a $50 million penalty after being charged by the SEC with 
+accounting fraud (http://www.sec.gov/news/press/2006-3.htm). According to the press 
+release, the accounting fraud charges included allegations that “McAfee used a variety of 
+undisclosed ploys during [the years 1998 throug h 2000] to aggressively oversell its products 
+to distributors in amounts that far exceeded the public’s demand for the products.” The 
+SEC alleged that, as part of this channel-stuffing scheme, McAfee: 
+• Improperly recorded the sales to distributors as revenue; 
+• Offered its distributors lucrative sales incentives, including deep price discounts and 
+rebates, in an effort to persuade the distributors to continue to buy and stockpile 
+McAfee products; 
+• Secretly paid distributors millions of dollars to hold the excess inventory rather than 
+Financial Statement Fraud  Financial Transactions   
+1.316                         2011 Fraud Examiners Manual  
+return it to McAfee for a refund and consequent reduction in McAfee’s revenues; 
+• Used an undisclosed, wholly-owned subsidiary, Net Tools, Inc. to repurchase inventory 
+that McAfee had oversold to its distributors; and, 
+• Took action to conceal the fraud from investors by, among other things, wrongly 
+recording in its books the payments and discounts that it offered to distributors, and 
+improperly manipulating reserve accounts to increase inadequate sales reserves and cover 
+the costs of the distributor payments. 
+ 
+In 2005, the SEC issued a press release announcing an enforcement action against The 
+Coca-Cola Company relating to its channel-stuffing practice in Japan known as “gallon 
+pushing” ( http://www.sec.gov/news/press/2005-58.htm). According to the press release, 
+the SEC found that, from 1997 through 1999, Coca-Cola failed to disclose certain end-of-
+ quarter sales practices used to meet earnings expectations. Specifically, Coca-Cola was 
+alleged by the SEC to have offered extended credit to Japanese bottlers to induce them to 
+purchase quantities of beverage concentrate the bottlers otherwise would not have 
+purchased until a following period. Although Coca-Cola’s accounting treatment for sales 
+made in connection with gallon pushing was found to be without issue, the SEC did find 
+that Coca-Cola’s failure to disclose the impact of gallon pushing on current and future 
+earnings, as well as related false statements and omissions within a pertinent Form 8-K, 
+violated the antifraud and periodic reporting requirements of the federal securities laws.  
+ 
+Recording Expenses in the Wrong Period 
+The timely recording of expenses is often compromised due to pressures to meet budget 
+projections and goals, or due to lack of proper accounting controls. As the expensing of 
+certain costs is pushed into periods other than the ones in which they actually occur, they are 
+not properly matched against the income that they help produce. For example, revenue may 
+be recognized on the sale of certain items, but the cost of goods and services that went into 
+the items sold might intentionally not be recorded in the accounting system until the 
+subsequent period. This might make the sales revenue from the transaction almost pure 
+profit, inflating earnings. In the next period, earnings would be depressed by a similar 
+amount. 
+ 
+What Red Flags Are Associated with Timing Differences (Including Premature Revenue Recognition)? 
+• Rapid growth or unusual profitability, especially compared to that of other companies in 
+the same industry.  
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.317 
+• Recurring negative cash flows from operations or an inability to generate positive cash 
+flows from operations while reporting earnings and earnings growth.  
+• Significant, unusual, or highly complex transactions, especially those close to the period’s 
+end that pose difficult “substance over form” questions. 
+• Unusual increase in gross margin or gross margin in excess of industry peers. 
+• Unusual growth in the days’ sales in receivables ratio (receivables/average daily sales). 
+• Unusual decline in the days’ purchases in accounts payable ratio (accounts 
+payable/average daily purchases). 
+ 
+Improper Asset Valuation 
+Under the “lower of cost or market value” ru le, where an asset’s  cost exceeds its current 
+market value (as happens often with obsolete technology), the asset must be written down to 
+market value. With the exception of certain securities, asset values are generally not increased 
+to reflect current market value. It is often necessary to use estimates in accounting. For 
+example, estimates are used in determining the residual value and the useful life of a 
+depreciable asset, the uncollectible portion of accounts receivable, or the excess or obsolete 
+portion of inventory. Whenever estimates are used, there is an additional opportunity for 
+fraud by manipulating those estimates.  
+ 
+Many schemes are used to inflate current assets  at the expense of long-term assets. The net 
+effect is seen in the current ratio. The misclassification of long-term assets as current assets 
+can be of critical concern to lending institutions that often require the maintenance of 
+certain financial ratios. This is of particular consequence when the loan covenants are on 
+unsecured or under-secured lines of credit and other short-term borrowings. Sometimes 
+these misclassifications are referred to as “window dressing.” 
+ 
+Most improper asset valuations involve the fraudulent overstatement of inventory or 
+receivables. Other improper asset valuations include manipulation of the allocation of the 
+purchase price of an acquired business in order to inflate future earnings, misclassification of 
+fixed and other assets, or improper capitalization of inventory or start-up costs.  
+ 
+Improper asset valuations usually take the form of one of the following classifications:  
+• Inventory valuation 
+• Accounts receivable 
+• Business combinations 
+• Fixed assets 
+Financial Statement Fraud  Financial Transactions   
+1.318                         2011 Fraud Examiners Manual  
+Inventory Valuation 
+Inventory should be recorded at the lower of cost or market value. This means that 
+inventory must be valued at its acquisition cost, except when the cost is determined to be 
+higher than the current market value, in which case it should be written down to its current 
+value, or written off altogether if it has no value. Failing to write down inventory results in 
+overstated assets and the mismatching of cost of goods sold with revenues. Other methods 
+by which inventory can be improperly stated include manipulation of the physical inventory 
+count, inflation of the unit costs used to price out inventory, and failure to relieve inventory 
+for the costs of goods sold. Fictitious inventory schemes usually involve the creation of fake 
+documents, such as inventory count sheets and receiving reports. Companies have even 
+programmed special computer reports of inventory for auditors that incorrectly added up 
+the line item values so as to inflate the overall inventory balance. Computer-assisted audit 
+techniques can significantly help auditors to detect many of these inventory fraud 
+techniques. 
+ 
+In some instances, friendly coconspirators claim to be holding inventory for companies in 
+question. Other times, companies falsely report large values of inventory in transit (perhaps 
+in the middle of the Pacific Ocean), knowing that the auditors will have a difficult time 
+observing it. “Bill and hold” items that have already been recorded as sales might be 
+included in the physical inventory count, as might goods owned by third parties but held by 
+companies on consignment or for storage. Companies have even made up pallets of 
+inventory with hollow centers, placed bricks in sealed boxes instead of high value products, 
+and shuttled inventory overnight between locations being observed by auditors on different 
+days so as to double count the inventory. Finally, it is also common for companies to insert 
+phony count sheets during the inventory observation or change the quantities on the  
+count sheets. 
+ 
+Accounts Receivable  
+Accounts receivable are subject to manipulation in the same manner as sales and inventory, 
+and in many cases, the schemes are conducted together. The two most common schemes 
+involving accounts receivable are fictitious receivables and failure to write off accounts 
+receivable as bad debts (or failure to establish an adequate allowance for bad debts). 
+Fictitious receivables commonly arise from fictitious revenues, which were discussed earlier. 
+Accounts receivable should be reported at net realizable value, that is, the amount of the 
+receivable less the amount expected not to be collected.  
+ 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.319 
+FICTITIOUS ACCOUNTS RECEIVABLE  
+Fictitious accounts receivable are common among companies with financial problems, as 
+well as with managers who receive a commission based on sales. The typical entry under 
+fictitious accounts receivable is to debit (increase) accounts receivable and credit (increase) 
+sales. Of course, these schemes are more common around the end of the accounting period, 
+since accounts receivable are expected to be paid in cash within a reasonable time. 
+Fraudsters commonly attempt to conceal fictitious accounts receivable by providing false 
+confirmations of balances to auditors. They get the audit confirmations because the mailing 
+address they provide for the phony customers is typically either a mailbox under their 
+control, a home address, or the business address of a coconspirator. Such schemes can be 
+detected by using business credit reports, public records, or even the telephone book, to 
+identify significant customers with no physical existence or no apparent business need for 
+the product sold to them. 
+ 
+FAILURE TO WRITE DOWN 
+Companies are required to accrue losses on uncollectible receivables when the criteria in 
+Financial Accounting Standards Board Statement No. 5, Accounting for Contingencies, are met. 
+Companies struggling for profits and income may be tempted to omit the recognition of 
+such losses because of their negative impact on income.  
+ 
+Business Combinations 
+Companies are required to allocate the purchase price they have paid to acquire another 
+business to the tangible and intangible assets of that business. Any excess of the purchase 
+price over the value of the acquired assets is treated as goodwill. Current standards 
+governing goodwill accounting have decreased the incentive for companies to minimize the 
+amount allocated to goodwill that previously was required to be amortized against future 
+earnings. However, companies may still be tempted to over-allocate the purchase price to in-
+ process research and development assets, in order to then write them off immediately. Or 
+they may establish excessive reserves for various expenses at the time of acquisition, 
+intending to quietly release those excess reserves into earnings at a future date.  
+ 
+Fixed Assets  
+Bogus fixed assets can be created by a variety of methods. They are subject to manipulation 
+through several different schemes. Some of the more common schemes are booking 
+fictitious assets, misrepresenting asset valuation, and capitalizing non-asset costs. 
+ 
+Financial Statement Fraud  Financial Transactions   
+1.320                         2011 Fraud Examiners Manual  
+BOOKING FICTITIOUS ASSETS 
+One of the easiest methods of asset misrepresentation is the recording of fictitious assets. 
+This false creation of assets affects account totals on a company’s balance sheet. The 
+corresponding account commonly used is the owners’ equity account. Because company 
+assets are often physically found in many different locations, this fraud can sometimes be 
+easily overlooked. One of the most common fictitious asset schemes is to simply create 
+fictitious documents. In other instances, the equipment is leased, not owned, and this fact is 
+not disclosed during the audit of fixed assets. Bogus fixed assets can sometimes be detected 
+because the fixed asset addition makes no business sense. 
+ 
+MISREPRESENTING THE VALUE OF FIXED ASSETS 
+Fixed assets should be recorded at cost. Although assets may appreciate in value, this 
+increase in value should not be recognized on company financial statements. Many financial 
+statement frauds have involved the reporting of fixed assets at market values instead of the 
+lower acquisition costs, or at even higher inflated values with phony valuations to support 
+them. Further, companies may falsely inflate the value of fixed assets by failing to record 
+impairments of long-lived assets (as required by FASB ASC 350-30-35) and of goodwill (as 
+required by FASB ASC 350-20-35). Misrepresentat ion of asset values frequently goes hand 
+in hand with other schemes.  
+ 
+EXAMPLE 
+In October 2002, the SEC filed a civil enforcement action against former Enron CFO 
+Andrew S. Fastow, who also faced criminal charges, relating to an alleged self-enriching 
+scheme to defraud Enron’s security holders through the use of  certain off-balance-sheet 
+entities. One of the six transactions in the SEC’s complaint against Andrew Fastow 
+involved Raptor I and Avici. According to the complaint, Enron and the Fastow-
+ controlled partnership LJM2 engaged in complex transactions with an entity called Raptor 
+I. Raptor I was used to manipulate Enron’s balance sheet and income statement and to 
+generate profits for LJM2 and Fastow at Enron’s expense. In September 2000, Fastow 
+and others used Raptor I to effectuate a fraudulent hedging transact ion and thus avoid a 
+decrease in the value of Enron’s investment in  the stock of a public company called Avici 
+Systems Inc. Specifically, Fastow and others back-dated documents to make it appear that 
+Enron had locked in the value of its investment in Avici in August of 2000, when Avici’s 
+stock was trading at its all time high price. 
+ 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.321 
+CAPITALIZING NON-ASSET COSTS 
+Excluded from the cost of a purchased asset are interest and finance charges incurred in the 
+purchase. For example, when a company finances a capital equipment purchase, monthly 
+payments include both principal liability reduction and interest payments. On initial 
+purchase, only the original cost of the asset should be capitalized. The subsequent interest 
+payments should be charged to interest expense and not to the asset. Without a reason for 
+intensive review, fraud of this type can go unchecked.  
+ 
+Understating Assets 
+In some cases, as with some government-related or -regulated companies, it is advantageous 
+to understate assets. Additional funding is often based on asset amounts. This 
+understatement can be done directly or through improper depreciation. 
+ 
+Misclassifying Assets 
+In order to meet budget requirements, and for various other reasons, assets are sometimes 
+misclassified into general ledger accounts in which they don’t belong. For example, fixed 
+assets may be fraudulently reclassified as current assets. The manipulation can skew financial 
+ratios and help the company comply with loan covenants or other borrowing requirements.  
+ 
+What Red Flags Are Associated with Improper Asset Valuation? 
+• Recurring negative cash flows from operations or an inability to generate positive cash 
+flows from operations while reporting earnings and earnings growth. 
+• Significant declines in customer demand and increasing business failures in either the 
+industry or the overall economy. 
+• Assets, liabilities, revenues, or expenses based on significant estimates that involve 
+subjective judgments or uncertainties that are difficult to support. 
+• Non-financial management’s excessive part icipation in or preoccupation with the 
+selection of accounting principles or the determination of significant estimates.  
+• Unusual increase in gross margin or margin in excess of industry peers. 
+• Unusual growth in the number of days’ sales in receivables ratio. 
+• Unusual growth in the number of days’ purchases in inventory ratio. 
+• Reduction in allowances for bad debts, excess inventory, obsolete inventory, etc., 
+especially if relevant ratios are out of line with those of industry peers. 
+• Unusual change in the relationship between fixed assets and depreciation. 
+• Adding to assets while competitors are reducing capital tied up in assets. 
+ 
+Financial Statement Fraud  Financial Transactions   
+1.322                         2011 Fraud Examiners Manual  
+Concealed Liabilities and Expenses 
+Understating liabilities and expenses is one of the ways financial statements can be 
+manipulated to make a company appear more profitable than it actually is. Because pre-tax 
+income will increase by the full amount of the expense or liability not recorded, this financial 
+statement fraud method can have a significant impact on reported earnings with relatively 
+little effort by the fraudster. It is much easier to commit than falsifying sales transactions. 
+Missing transactions can also be harder for auditors to detect than improperly recorded ones 
+since the missing transactions leave no audit trail. 
+ 
+There are three common methods for concealing liabilities and expenses:  
+• Liability/expense omissions 
+• Capitalized expenses 
+• Failure to disclose warranty costs and liabilities 
+ 
+Liability/Expense Omissions  
+The preferred and easiest method of concealing liabilities or expenses is to simply fail to 
+record them. Multi-million-dollar judgments ag ainst a company from a recent court decision 
+might be conveniently ignored. Vendor invoices might be thrown away or stuffed into 
+drawers rather than posted into the accounts payable system, thereby increasing reported 
+earnings by the full amount of the invoices. In a retail environment, debit memos might be 
+created for chargebacks to vendors, supposedly to claim permitted rebates or allowances but 
+sometimes solely to create additional income. Whether or not these items are properly 
+recorded in a subsequent accounting period does not change the fraudulent nature of the 
+current financial statements. 
+ 
+Often, perpetrators of liability and expense omissions believe they can conceal their frauds in 
+future periods. They frequently plan to compensate for their omitted liabilities with visions 
+of other income sources such as profits from future price increases. 
+ 
+Just as they are easy to conceal, omitted lia bilities are probably one of the most difficult 
+schemes to uncover. A thorough review of all post-financial-statement-date transactions, 
+such as accounts payable increases and decreases, can aid in the discovery of omitted 
+liabilities in financial statements, as can a computerized analysis of expense records. 
+Additionally, if the auditor requested and was granted unrestricted access to the client’s files, 
+a physical search could turn up concealed invoices and unposted liabilities. Probing 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.323 
+interviews of accounts payable and other personnel can reveal unrecorded or delayed items 
+too.  
+ 
+EXAMPLE 
+In July 2002, the SEC filed suit in the United States Dis trict Court for the Southern 
+District of New York, charging major cable television producer Adelphia Communications 
+Corporation (“the Company” or “Adelphia”); its founder John J. Rigas; his three sons, 
+Timothy J. Rigas, Michael J. Rigas, and James P. Rigas; and two senior executives at 
+Adelphia, James R. Brown and Michael C. Mulcahey, in one of the most extensive 
+financial frauds ever to take place at a public company. The SEC charged that Adelphia, 
+at the direction of the individual defendants (1) fraudulently excluded over $2.3 billion in 
+liabilities from its consolidated financial statements by hiding them in off balance sheet 
+affiliates; (2) falsified operations statistics and inflated Adelphia’s earnings to meet Wall 
+Street’s expectations; and (3) concealed rampant self-dealing by the Rigas Family, 
+including the undisclosed use of corporate fu nds for Rigas Family stock purchases and the 
+acquisition of luxury condominiums in New York and elsewhere. 
+ 
+With respect to the concealed liabilities, the complaint alleged that between mid-1999 and 
+the end of 2001, John J. Rigas, Timothy J. Ri gas, Michael J. Rigas, James P. Rigas, and 
+James R. Brown, with the assistance of Michael C. Mulcahey, caused Adelphia to 
+fraudulently exclude from the Company’s a nnual and quarterly consolidated financial 
+statements over $2.3 billion in bank debt by deliberately shifting those liabilities onto the 
+books of Adelphia’s off balance sheet, unconsolidated affiliates. Failure to record this debt 
+violated GAAP requirements and precipitated a series of misrepresentations about those 
+liabilities by Adelphia and the defendants, including the creation of (1) sham transactions 
+backed by fictitious documents to give the false appearance that Adelphia had actually 
+repaid debts when, in truth, it had simply shi fted them to unconsoli dated Rigas-controlled 
+entities, and (2) misleading financial statements  by giving the false impression through the 
+use of footnotes that liabilities listed in the Company’s financials included all outstanding 
+bank debt. 
+ 
+In November 2002, in exchange for his testimony against the Rigas men, James Brown 
+was released from prosecution by  consenting to an entry of a permanent injunction against 
+him for federal securities law violations. Additionally, Brown has been permanently barred 
+from becoming an officer or director of a public corporation.  
+ 
+Financial Statement Fraud  Financial Transactions   
+1.324                         2011 Fraud Examiners Manual  
+In July 2004, after a three-month trial, a federal jury convicted John and Timothy Rigas of 
+conspiracy, securities fraud, and bank fraud. John Rigas received a 15-year prison sentence 
+and was fined $2,300, and Timothy Rigas was sentenced to 20 years in prison. James 
+Rigas was never criminally charged by the Court. In November 2005, Michael Rigas 
+pleaded guilty to a charge of making a false entry in a financial record. 
+ 
+In April 2005, the SEC filed permanent injunctions against John, Timothy, Michael, 
+and James Rigas, as well as James Brown, Michael Mulcahey, and Adelphia 
+Communications Corporation. The defendants were charged with violating anti-fraud, 
+periodic reporting, record keep ing, and internal control provisions of federal securities laws. 
+In addition, the Rigas family members were barred from ever holding officer or director 
+positions in a public company.  
+ 
+Capitalized Expenses  
+Capitalizing expenses is another way to increase income and assets because capitalized items 
+are depreciated or amortized over a period of years rather than expensed immediately. If 
+expenditures are capitalized as assets and not expensed during the current period, income 
+will be overstated. As the assets are depreciated, income in subsequent periods will be 
+understated.  
+ 
+EXAMPLE 
+In November 2002, the SEC filed an am ended complaint against WorldCom, Inc., 
+broadening its charges to allege that WorldCom  misled investors from at least as early as 
+1999 through the first quarter of 2002. The complaint stated that the company had 
+acknowledged that during that period Worl dCom materially overstated the income it 
+reported on its financial statements by approx imately $9 billion, main ly using two methods. 
+First, WorldCom reduced its operating expenses  by improperly releasing as a credit to 
+operating expenses certain provisions previously established for line costs and for taxes. 
+Second, the company improperly reduced its operating expenses by recharacterizing certain 
+expenses as capital assets. Much  of the $9 billion related to  improper accounting for “line 
+costs,” which were among WorldCom’s major operating expenses. The SEC complaint 
+alleges that, in a scheme directed and approved by members of senior management, 
+WorldCom concealed the true extent of its “l ine costs.” By improperly reducing provisions 
+held against “line costs” and by transferring  certain “line costs” to its capital asset 
+accounts, WorldCom falsely portrayed itself as a profitable business when it was not and 
+concealed large losses. These improp er accounting practices were designed to and did inflate 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.325 
+income to correspond with estimates by Wall Street analysts and to support the price of 
+WorldCom’s stock. 
+ 
+In March 2005, former WorldCom CEO Bernard Ebbers was convicted of one count of 
+conspiracy, one count of securities fraud, and seven counts of false regulatory filing, and was 
+later sentenced to 25 years in prison. He also agreed to forfeit nearly all of his personal 
+assets to settle a civil suit filed by aggrieved WorldCom investors.  
+ 
+Scott Sullivan, the former CFO under Ebbers and “the architect” behind the fraud 
+scheme, pled guilty to fraud charges and agreed to testify against Ebbers. Due to his 
+cooperation during the investigation, he was sentenced to only five years in prison. He also 
+agreed to forfeit the proceeds from the sale of his $10 million home, along with his 401(k) 
+holdings, to settle the civil suit brought by shareholders.  
+ 
+Former WorldCom Controller David F. Myers and former Director of General 
+Accounting Buford “Buddy” Yates, Jr., pled gu ilty to criminal charges prosecuted by the 
+U.S. Attorney’s Office for the Southern District of New York. Myers received a sentence  
+of one year and one day in prison. Yates was also sentenced to one year and one day in 
+prison and ordered to pay a $5,000 fine. Additionally, each man was permanently 
+enjoined from acting as an officer or director  of any public company and was suspended from 
+practicing before the SEC as an accountan t, under Rule 102(2) of the Commission’s 
+Rules of Practice.  
+ 
+The SEC also brought civil actions against former members of the WorldCom General 
+Accounting Department, Betty L. Vinson, CPA and Troy M. Normand. Both were 
+permanently enjoined from securities violation s. Vinson was suspended from appearing or 
+practicing before the SEC as an accountant. In addition, she pled guilty to one count of 
+securities fraud and one count of conspiracy to commit securities fraud and was sentenced to 
+five months in prison and five  months of house arrest. Norm and pled guilty to similar 
+charges and received three years of probation for his role in the fraud.  
+ 
+EXPENSING CAPITAL EXPENDITURES 
+Just as capitalizing expenses is improper, so is expensing costs that should be capitalized. 
+The organization may want to minimize its net income due to tax considerations, or to 
+increase earnings in future periods. Expensing an item that should be depreciated over a 
+period of time helps to accomplish just that—net income is lower and, therefore, so are 
+taxes.  
+Financial Statement Fraud  Financial Transactions   
+1.326                         2011 Fraud Examiners Manual  
+Returns and Allowances and Warranties   
+Improper recording of sales returns and allowances occurs when a company fails to properly 
+record or present the expense associated with sales returns and customer allowances 
+stemming from customer dissatisfaction. It is inevitable that a certain percentage of products 
+sold will, for one reason or another, be returned. When this happens, management must 
+record the related expense as a contra-sales account, which reduces the amount of net sales 
+presented on the company’s income statement.  
+ 
+Likewise, when a company offers a warranty on product sales, it must estimate the amount 
+of warranty expense it reasonably expects to incur over the warranty period and accrue a 
+liability for that amount. In warranty liability fraud, the warranty liability is usually either 
+omitted altogether or substantially understated. Another similar area is the liability resulting 
+from defective products (product liability). 
+ 
+What Red Flags Are Associated with Concealed Liabilities and Expenses? 
+• Recurring negative cash flows from operations or an inability to generate positive cash 
+flows from operations while reporting earnings and earnings growth. 
+• Assets, liabilities, revenues, or expenses based on significant estimates that involve 
+subjective judgments or uncertainties that are difficult to support. 
+• Non-financial management’s excessive part icipation in or preoccupation with the 
+selection of accounting principles or the determination of significant estimates. 
+• Unusual increase in gross margin or margin in excess of industry peers. 
+• Allowances for sales returns, warranty claims, etc., that are shrinking in percentage terms 
+or are otherwise out of line with industry peers. 
+• Unusual reduction in the number of days’ purchases in accounts payable ratio. 
+• Reducing accounts payable while competitors are stretching out payments to vendors. 
+ 
+Improper Disclosures 
+Accounting principles require that financial statements include all the information necessary 
+to prevent a reasonably discerning user of the financial statements from being misled. The 
+notes should include narrative disclosures, supporting schedules, and any other information 
+required to avoid misleading potential investors, creditors, or any other users of the financial 
+statements.  
+ 
+Management has an obligation to disclose all significant information appropriately in the 
+financial statements and in management’s discussion and analysis. In addition, the disclosed 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.327 
+information must not be misleading. Improper disclosures relating to financial statement 
+fraud usually involve the following: 
+• Liability omissions 
+• Subsequent events 
+• Management fraud 
+• Related-party transactions 
+• Accounting changes 
+ 
+Liability Omissions 
+Typical omissions include the failure to disclose loan covenants or contingent liabilities. 
+Loan covenants are agreements, in addition to or as part of a financing arrangement, that a 
+borrower has promised to keep as long as the financing is in place. The agreements can 
+contain various types of covenants, including certain financial ratio limits and restrictions on 
+other major financing arrangements. Contingent liabilities are potential obligations that will 
+materialize only if certain events occur in the future. A corporate guarantee of personal loans 
+taken out by an officer or a private company controlled by an officer is an example of a 
+contingent liability. The company’s potential lia bility, if material, must be disclosed.  
+ 
+Subsequent Events 
+Events occurring or becoming known after the close of the period may have a significant 
+effect on the financial statements and should be disclosed. Fraudsters typically avoid 
+disclosing court judgments and regulatory decisions that undermine the reported values of 
+assets, that indicate unrecorded liabilities, or that adversely reflect upon management 
+integrity. Public record searches can reveal this information.  
+ 
+Management Fraud 
+Management has an obligation to disclose to the shareholders significant frauds committed 
+by officers, executives, and others in positions of trust. Withholding such information from 
+auditors would likely also involve lying to auditors, an illegal act in itself.  
+ 
+Related-Party Transactions 
+Related-party transactions occur when a company does business with another entity whose 
+management or operating policies can be controlled or significantly influenced by the 
+company or by some other party in common. There is nothing inherently wrong with 
+related-party transactions, as long as they are fully disclosed. If the transactions are not 
+conducted on an arm’s-length basis, the company may suffer economic harm, injuring 
+Financial Statement Fraud  Financial Transactions   
+1.328                         2011 Fraud Examiners Manual  
+stockholders. The financial interest that a company official might have may not be readily 
+apparent. For example, common directors of two companies that do business with each 
+other, any corporate general partner and the partnerships with which it does business, and 
+any controlling shareholder of the corporation with which he/she/it does business may be 
+related-parties. Family relationships can also be considered related parties, such as all lineal 
+descendants and ancestors, without regard to financial interests. Related-party transactions 
+are sometimes referred to as “self-dealing.” While these transactions are sometimes 
+conducted at arm’s length, often they are not.  
+ 
+EXAMPLE 
+In September 2002, the SEC charged former top executives of Tyco International Ltd., 
+including former CEO L. Dennis Kozlowski, with violating the federal securities laws by 
+failing to disclose to shareholders hundreds of millions of dollars of low-interest and interest-free 
+loans they took from the company, and in some cases, never repaid. The SEC 
+complaint, which also charged former Tyc o CFO Mark H. Swartz and Chief Legal 
+Officer Mark A. Belnick, alleges that the three former executives also sold shares of Tyco 
+stock valued at millions of dollars while their self-dealing remained undisclosed. The 
+complaint alleges numerous improper transact ions, including Kozlowski’s use of $242 
+million of loans for impermissible and una uthorized purposes, including funding an 
+extravagant lifestyle. With these undisclosed loans, Kozlowski allegedly amassed millions of 
+dollars in fine art, yachts, and estate jewelry, as well as a $31 million Park Avenue 
+apartment and a palatial estate in Nantucket.  Kozlowski and Swartz allegedly engaged in 
+undisclosed non-arm’s-length real estate transactions with Tyco or its subsidiaries and 
+received undisclosed compensation and perqui sites, including forgiveness of multi-million- 
+dollar loans, rent-free use of large New York apartments, and use of corporate aircraft for 
+personal purposes at little or no cost. 
+ 
+In July 2004, Belnick was acquitted of all the charges brought against him. In a separate 
+trial, Kozlowski and Swartz were each found gu ilty of 22 charges, in cluding grand larceny, 
+falsifying business records, cons piracy, and securities fraud, and were sentenced to eight and 
+one-third to 25 years in prison. 
+ 
+Accounting Changes 
+In general, three types of accounting changes must be disclosed to avoid misleading the user 
+of financial statements: accounting principles, estimates, and reporting entities. Although the 
+required treatment for each type of change is different, they are all susceptible to 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.329 
+manipulation by a determined fraudster. For example, fraudsters may fail to properly 
+retroactively restate financial statements for a change in accounting principle if the change 
+causes the company’s financial statements to appear weaker. Likewise, they may fail to 
+disclose significant changes in estimates such as the useful lives and estimated salvage values 
+of depreciable assets, or the estimates underlying the determination of warranty or other 
+liabilities. They may even secretly change the reporting entity, by adding entities owned 
+privately by management or by excluding certain company-owned units, in order to improve 
+reported results.  
+ 
+Backdating Stock Options 
+As a supplement to salary, companies frequently offer employees stock options, which grant 
+the recipient the privilege to purchase a share of the company’s stock at a future date for a 
+specific price called the strike price. A strike price is the value of a share at a particular date. 
+Generally, the strike price is set at the price of the underlying stock on the day the option is 
+granted; therefore, the option becomes valuable only with future increases in the stock price.  
+In this way, companies grant stock options as an incentive for employees to boost company 
+performance and thus raise the stock price. The practice of backdating stock options, 
+however, gives the employee a chance to profit by purchasing stock at past low prices, 
+providing an immediate payoff. Backdating stock options occurs when a company alters the 
+date of the grant to a time when the stock was trading at a lower price in the interest of 
+making the option instantly valuable and further increasing the employee’s gain if the stock 
+price continues to rise.  
+ 
+EXAMPLE 
+On June 1, 20X1, Company XYZ grants its CEO a stock option that provides the 
+executive the right to purchase 100 shares of XYZ stock on January 1, 20X2 for the 
+strike price. Per its usual policy, the strike price is set at the price of the company stock on 
+the date of the option grant. On June 1, 2008  (the grant date), XYZ stock was trading at 
+$40 per share. Therefore, if the stock price increases to $45 per share by January 1, 
+20X2, the CEO could exercise the option and purchase the shares for $40 per share, then 
+sell them immediately on the market for $45 per share, resulting in a gain of $5 per share. 
+However, the company has recently experienced a dramatic increase in its share price. On 
+May 24, 20X1, the stock was trading for $15 per share. To provide the CEO with an 
+opportunity to exploit this increase in share price, the company chooses to backdate the 
+stock options to make it appear that they  were granted on May 24, 20X1. Because the 
+strike price is set at the price of the stock on the option grant date, the strike price is 
+Financial Statement Fraud  Financial Transactions   
+1.330                         2011 Fraud Examiners Manual  
+effectively changed to $15 per share. As a result, the CEO now has the option to buy 100 
+shares of XYZ stock on January 1, 20X2 for $15 per share. Thus, the CEO has 
+immediately gained $25 per share (the difference  between the stock price on the actual grant 
+date of June 1 and the stated grant date of May 24) based solely on the manipulation of 
+the grant date used.  
+ 
+Backdating stock options came to the attention of the U.S. Securities and Exchange 
+Commission (SEC) when academic research revealed a pattern of stock prices descending 
+just prior to many reported dates of option grants, then ascending immediately afterwards. 
+Backdating is not necessarily illegal, but can be if not handled appropriately. In order to be 
+legal, the practice must be explicitly reported to shareholders and the government. Failure to 
+do so may constitute securities fraud.  
+ 
+In August of 2002, certain provisions laid out under the Sarbanes-Oxley Act took effect, 
+requiring companies to report stock option grants within two business days after the grants. 
+The rules greatly reduced the time companies had to choose a favorable grant date; 
+companies were previously allowed weeks or months before they were required to report 
+stock option grants. Consequently, the apparent pattern of backdating nearly disappeared 
+around the time the rules were enacted. However, reports of actual practices in stock options 
+and the recorded data remain inconsistent in many cases because not all companies adhere 
+to Sarbanes-Oxley. Additionally, the revelation of the prevalence of backdating has caused 
+concern that companies may not have recorded and disclosed the option grants on the 
+financial statements in an accurate manner. In response to this issue, the Public Company 
+Accounting Oversight Board (PCAOB) issued a practice alert to prepare auditors for the 
+possibility of financial misstatements due to backdating of stock options. To keep a tight 
+rope on the possibility of this type of illegal activity, auditors should assess the information 
+obtained from the audit to determine if there is a need for further audit procedures. 
+ 
+What Red Flags Are Associated with Improper Disclosures? 
+• Domination of management by a single person or small group (in a nonowner-managed 
+business) without compensating controls. 
+• Ineffective board of directors or audit committee oversight over the financial reporting 
+process and internal control. 
+• Ineffective communication, implementation, support, or enforcement of the entity’s 
+values or ethical standards by management or the communication of inappropriate 
+values or ethical standards. 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.331 
+• Rapid growth or unusual profitability, especially compared to that of other companies in 
+the same industry. 
+• Significant, unusual, or highly complex transactions, especially those close to a period’s 
+end that pose difficult “substance over form” questions. 
+• Significant related-party transactions not in the ordinary course of business or with 
+related entities either not audited or audited by a different firm. 
+• Significant bank accounts or subsidiary or branch operations in tax-haven jurisdictions 
+for which there appears to be no clear business justification. 
+• Overly complex organizational structure invo lving unusual legal entities or managerial 
+lines of authority. 
+• Known history of violations of securities la ws or other laws and regulations, or claims 
+against the entity, its senior management, or board members alleging fraud or violations 
+of laws and regulations. 
+• Recurring attempts by management to justify marginal or inappropriate accounting on 
+the basis of materiality. 
+• Formal or informal restrictions on the auditor that inappropriately limit access to people 
+or information, or limit the ability of the auditor to communicate effectively with the 
+board of directors or audit committee. 
+ 
+ 
+
+
+
+:
+
+
+financi statement fraud scheme
+fraud in financi statement typic take the form of
+overst asset or revenu
+underst liabil and expens
+overst asset and revenu fals reflect a financi stronger compani by inclus
+of fictiti asset cost or artifici revenu underst liabil and expens ar shown
+through exclus of cost or financi oblig both method result in increas equiti
+and net worth for the compani thi manipul result in increas earn per share or
+partnership profit interest or a more stabl pictur of the compani true situat
+howev in govern contract just the opposit mai be true
+asset and revenu ar underst
+liabil and expens ar overst
+why as explain by govern auditor entiti mai reli on underst revenu or
+overst expens to get more monei for a project or contract howev such scheme
+ar by far the minor of financi statement fraud case
+to demonstr the over and understat typic us to fraudul enhanc the
+financi statement the scheme have been divid into five class becaus the mainten
+of financi record involv a doubleentri system fraudul account entri alwai affect
+at least two account and therefor at least two categori on the financi statement while
+the area describ below reflect their financi statement classif keep in mind that the
+other side of the fraudul transact exist elsewher it is common for scheme to involv
+a combin of sever method the five classif of financi statement scheme ar
+fictiti revenu
+time differ
+improp asset valuat
+conceal liabil and expens
+improp disclosur
+financi statement fraud financi transact
+1310 2011 fraud examin manual
+fictiti revenu
+fictiti or fabric revenu involv the record of sale of good or servic that did
+not occur fictiti sale most often involv fake or phantom custom but can also
+involv legitim custom for exampl a fictiti invoic can be prepar but not
+mail for a legitim custom although the good ar not deliv or the servic ar not
+render at the begin of the next account period the sale might be revers to help
+conceal the fraud but thi mai lead to a revenu shortfal in the new period creat the
+need for more fictiti sale anoth method is to us legitim custom and artifici
+inflat or alter invoic reflect higher amount or quantiti than ar actual sold
+gener speak revenu is recogn when it is 1 realiz or realiz and 2 earn
+the secur and exchang commiss sec issu staff account bulletin sab
+topic 13 revenu recognit now codifi in fasb asc 60510s99 to provid addit
+guidanc on revenu recognit criteria and to rein in some of the inappropri practic
+that had been observ fasb asc 60510s99 state that revenu is typic consid
+realiz or realiz and earn when all of the follow criteria ar met
+persuas evid of an arrang exist
+deliveri ha occur or servic have been render
+the seller price to the buyer is fix or determin and
+collect is reason assur
+exampl of fictiti revenu
+in on case a foreign subsidiari of a us compani record sever larg fictiti sale to
+a seri of compani thei invoic the sa le but did not collect ani of the account
+receiv which becam sever past due the manag of the foreign subsidiari arrang
+for fals confirm of the account receiv for audit purpos and even hire actor to
+pretend to be the custom dure a visit fr om us manag background check on
+the custom would have reveal that some of the compani were fictiti while other
+either were undisclos relat parti or oper in industri that would have no need for
+the good supposedli suppli an investig reveal that the manag of the foreign
+subsidiari direct the scheme to record fictiti revenu in order to meet unrealist
+revenu goal set by us manag
+in some case compani go to great length to conceal fictiti sale a sampl journal
+entri from such a case is detail below a fiction entri is made to record a purport
+financi transact financi statement fraud
+2011 fraud examin manual 1311
+purchas of fix asset thi entri debit fix asset for the amount of the alleg
+purchas and the credit is to cash for the payment
+date descript ref debit credit
+1201x1 fix asset 104 350000
+cash 101 350000
+a fictiti sale entri is then made for the same amount as the fals purchas debit
+account receiv and credit the sale account the cash outflow that supposedli paid
+for the fix asset is return as payment on the receiv account though in practic
+the cash might never have move if the fraudster didnt bother to falsifi that extra
+documentari support
+date descript ref debit credit
+1201x1 account rec 120 350000
+sale 400 350000
+1215x1 cash 101 350000
+account rec 120 350000
+the result of thi complet fabric sequenc of event is an increas in both fix asset
+and revenu the debit could altern have been direct to other account such as
+inventori or account payabl or simpli left in account receiv if the fraud were
+commit close to the year end and the receiv could be left outstand without
+attract undu attent
+sale with condit
+sale with condit ar those that have term that have not been complet and the right
+and risk of ownership have not pass to the purchas thei do not qualifi for record
+as revenu these type of sale ar similar to scheme involv the recognit of revenu
+in improp period sinc the condit for sale mai becom satisfi in the futur at
+which point revenu recognit would becom appropri the recognit of revenu in
+improp period is discuss further in the next section
+what red flag ar associ with fictiti revenu
+the follow red flag ar associ with fictiti revenu
+rapid growth or unusu profit especi compar to that of other compani in
+the same industri
+financi statement fraud financi transact
+1312 2011 fraud examin manual
+recur neg cash flow from oper or an inabl to gener posit cash
+flow from oper while report earn and earn growth
+signific transact with relat parti or special purpos entiti not in the ordinari
+cours of busi or where those entiti ar not audit or ar audit by a separ
+firm
+signific unusu or highli complex transact especi those close to the period
+end that pose difficult substanc over form question
+unusu growth in the dai sale in receiv ratio receivablesaverag daili sale
+a signific volum of sale to entiti whose substanc and ownership is not known
+an unusu surg in sale by a minor of unit within a compani or in sale record
+by corpor headquart
+time differ includ prematur revenu recognit
+financi statement fraud might also involv time differ that is the record of
+revenu or expens in improp period thi can be done to shift revenu or expens
+between on period and the next increas or decreas earn as desir
+prematur revenu recognit
+as previous mention revenu should be recogn in the account record when the
+follow four criteria as set out in fasb asc 60510s99 have been satisfi
+persuas evid of an arrang exist
+deliveri ha occur or servic have been render
+the seller price to the buyer is fix or determin and
+collect is reason assur
+on or more of these criteria is typic not met when manag recogn revenu
+prematur exampl of common problem with prematur revenu recognit ar set
+out below
+persuas evid of an arrang doe not exist
+no written or verbal agreement exist
+a verbal agreement exist but a written agreement is customari
+a written order exist but is condit upon sale to end user such as a consign
+sale
+a written order exist but contain a right of return
+a written order exist but a side letter alter the term in wai that elimin the requir
+financi transact financi statement fraud
+2011 fraud examin manual 1313
+element for an agreement
+the transact is with a relat parti which ha not been disclos
+deliveri ha not occur or servic have not been render
+shipment ha not been made and the criteria for recogn revenu on billandhold
+transact set out in fasb asc 60510s99 have not been met
+shipment ha been made not to the custom but to the seller agent an instal or to a
+public warehous
+some but not all of the compon requir for oper were ship
+item of the wrong specif were ship
+deliveri is not complet until instal custom test and custom accept
+ha occur
+servic have not been provid at all
+servic ar be perform over an extend period and onli a portion of the servic
+revenu should have been recogn in the current period
+the mix of good and servic in a contract ha been misstat in order to improperli
+acceler revenu recognit
+the seller price to the buyer is not fix or determin
+the price is conting upon some futur event
+a servic or membership fee is subject to unpredict cancel dure the contract
+period
+the transact includ an option to exchang the product for other
+payment term ar extend for a substanti period and addit discount or
+upgrad mai be requir to induc continu us and payment instead of switch to
+altern product
+collect is not reason assur
+collect is conting upon a futur event such as resal of the product receipt of
+addit fund or litig
+the custom doe not have the abil to pai for exampl it is financi troubl it
+ha purchas far more than it can afford or it is a shell compani with minim asset
+exampl
+abc inc sell product that requir engin and adapt work befor thei ar
+accept to custom howev the compani record sale revenu befor complet the
+financi statement fraud financi transact
+1314 2011 fraud examin manual
+engin test evalu and custom accept stage of product in some case
+sale do not take place for week or month in other case the sale ar specif
+conting upon the custom trial and accept of the product
+exampl
+anoth compani is engag in the design develop manufactur market and
+servic of comput peripher subsystem the compani recogn revenu prior to a time
+when collect of the sale price wa reason assur and at a time prior to complet
+of the underli sale transact
+it wa the compani polici to recogn revenu when the product we re ship howev
+the sale were not complet as of the time of shipment becaus custom were not oblig
+to pai for the equip until it had been instal the compani had substanti
+oblig to the custom for instal and adjust and there remain major
+uncertainti concern the custom true willing to complet the transact becaus
+of the volatil natur of the hightech product
+longterm contract
+longterm contract pose special problem for revenu recognit longterm construct
+contract for exampl us either the completedcontract method or the percentageofcomplet
+method depend partli on the circumst the completedcontract
+method doe not record revenu until the project is 100 percent complet construct
+cost ar held in an inventori account until complet of the project the percentageofcomplet
+method recogn revenu and expens as measur progress on a project is
+made but thi method is particularli vulner to manipul manag can often easili
+manipul the percentageofcomplet and the estim cost to complet a construct
+project in order to recogn revenu prematur and conceal contract overrun
+multipl deliver
+product and servic sale sometim involv multipl deliver or multipleel
+arrang for exampl a cell phone compani provid a discount or free cell phone
+to a custom who sign up for a twoyear servic agreement in thi situat the
+deliver includ both the product cell phone and the servic which span two year in
+multipleel arrang the seller complet the earn processand thu must
+recogn revenueov a period of time
+financi transact financi statement fraud
+2011 fraud examin manual 1315
+under fasb asc 60525 revenu recognitionmultipleel arrang compani ar
+requir to estim the price of the individu compon in a multipleel sale
+compani must then recogn the revenu relat to each of the compon as thei ar
+deliv the inher inexact natur of the estim involv in thi process leav thi
+revenu recognit method vulner to fraud as manag can manipul the estim
+price of the individu compon in order to delai or acceler revenu recognit
+channelstuf
+a challeng area of revenu recognit that ha attract the attent of the sec is
+known as channelstuf channelstuf refer to the sale of an unusu larg
+quantiti of a product to distributor who ar encourag to overbui through the us of deep
+discount or extend payment term thi practic is especi attract to industri with
+high gross margin such as tobacco pharmaceut perfum soda concentr and
+brand consum good becaus it can increas shortterm earn on the downsid
+howev steal from futur period sale make it harder to achiev sale goal in those
+futur period the pressur to meet sale goal can in turn lead to increasingli disrupt
+level of channelstuf and ultim to a restat although order ar receiv the
+term of the order might rais question about the collect of the account receiv
+and ani exist side agreement that grant a right of return mai effect turn the sale
+into consign sale also there might be a greater risk of return for certain product if
+thei cannot be sold befor their shelf life end
+in recent year the sec ha brought enforc action or charg relat to channelstuf
+against a number of major us corpor includ mcafe inc and the cocacola
+compani in 2006 the sec releas a press releas state that mcafe agre to settl
+the proceed and pai a 50 million penalti after be charg by the sec with
+account fraud httpwwwsecgovnewspress20063htm accord to the press
+releas the account fraud charg includ alleg that mcafe us a varieti of
+undisclos ploi dure the year 1998 throug h 2000 to aggress oversel it product
+to distributor in amount that far exceed the public demand for the product the
+sec alleg that as part of thi channelstuf scheme mcafe
+improperli record the sale to distributor as revenu
+offer it distributor lucr sale incent includ deep price discount and
+rebat in an effort to persuad the distributor to continu to bui and stockpil
+mcafe product
+secretli paid distributor million of dollar to hold the excess inventori rather than
+financi statement fraud financi transact
+1316 2011 fraud examin manual
+return it to mcafe for a refund and consequ reduct in mcafe revenu
+us an undisclos whollyown subsidiari net tool inc to repurchas inventori
+that mcafe had oversold to it distributor and
+took action to conceal the fraud from investor by among other thing wrongli
+record in it book the payment and discount that it offer to distributor and
+improperli manipul reserv account to increas inadequ sale reserv and cover
+the cost of the distributor payment
+in 2005 the sec issu a press releas announc an enforc action against the
+cocacola compani relat to it channelstuf practic in japan known as gallon
+push httpwwwsecgovnewspress200558htm accord to the press releas
+the sec found that from 1997 through 1999 cocacola fail to disclos certain endof
+quarter sale practic us to meet earn expect specif cocacola wa
+alleg by the sec to have offer extend credit to japanes bottler to induc them to
+purchas quantiti of beverag concentr the bottler otherwis would not have
+purchas until a follow period although cocacola account treatment for sale
+made in connect with gallon push wa found to be without issu the sec did find
+that cocacola failur to disclos the impact of gallon push on current and futur
+earn as well as relat fals statement and omiss within a pertin form 8k
+violat the antifraud and period report requir of the feder secur law
+record expens in the wrong period
+the time record of expens is often compromis due to pressur to meet budget
+project and goal or due to lack of proper account control as the expens of
+certain cost is push into period other than the on in which thei actual occur thei ar
+not properli match against the incom that thei help produc for exampl revenu mai
+be recogn on the sale of certain item but the cost of good and servic that went into
+the item sold might intention not be record in the account system until the
+subsequ period thi might make the sale revenu from the transact almost pure
+profit inflat earn in the next period earn would be depress by a similar
+amount
+what red flag ar associ with time differ includ prematur revenu recognit
+rapid growth or unusu profit especi compar to that of other compani in
+the same industri
+financi transact financi statement fraud
+2011 fraud examin manual 1317
+recur neg cash flow from oper or an inabl to gener posit cash
+flow from oper while report earn and earn growth
+signific unusu or highli complex transact especi those close to the period
+end that pose difficult substanc over form question
+unusu increas in gross margin or gross margin in excess of industri peer
+unusu growth in the dai sale in receiv ratio receivablesaverag daili sale
+unusu declin in the dai purchas in account payabl ratio account
+payableaverag daili purchas
+improp asset valuat
+under the lower of cost or market valu ru le where an asset cost exce it current
+market valu as happen often with obsolet technolog the asset must be written down to
+market valu with the except of certain secur asset valu ar gener not increas
+to reflect current market valu it is often necessari to us estim in account for
+exampl estim ar us in determin the residu valu and the us life of a
+depreci asset the uncollect portion of account receiv or the excess or obsolet
+portion of inventori whenev estim ar us there is an addit opportun for
+fraud by manipul those estim
+mani scheme ar us to inflat current asset at the expens of longterm asset the net
+effect is seen in the current ratio the misclassif of longterm asset as current asset
+can be of critic concern to lend institut that often requir the mainten of
+certain financi ratio thi is of particular consequ when the loan coven ar on
+unsecur or undersecur line of credit and other shortterm borrow sometim
+these misclassif ar refer to as window dress
+most improp asset valuat involv the fraudul overstat of inventori or
+receiv other improp asset valuat includ manipul of the alloc of the
+purchas price of an acquir busi in order to inflat futur earn misclassif of
+fix and other asset or improp capit of inventori or startup cost
+improp asset valuat usual take the form of on of the follow classif
+inventori valuat
+account receiv
+busi combin
+fix asset
+financi statement fraud financi transact
+1318 2011 fraud examin manual
+inventori valuat
+inventori should be record at the lower of cost or market valu thi mean that
+inventori must be valu at it acquisit cost except when the cost is determin to be
+higher than the current market valu in which case it should be written down to it current
+valu or written off altogeth if it ha no valu fail to write down inventori result in
+overst asset and the mismatch of cost of good sold with revenu other method
+by which inventori can be improperli state includ manipul of the physic inventori
+count inflat of the unit cost us to price out inventori and failur to reliev inventori
+for the cost of good sold fictiti inventori scheme usual involv the creation of fake
+document such as inventori count sheet and receiv report compani have even
+program special comput report of inventori for auditor that incorrectli ad up
+the line item valu so as to inflat the overal inventori balanc computerassist audit
+techniqu can significantli help auditor to detect mani of these inventori fraud
+techniqu
+in some instanc friendli coconspir claim to be hold inventori for compani in
+question other time compani fals report larg valu of inventori in transit perhap
+in the middl of the pacif ocean know that the auditor will have a difficult time
+observ it bill and hold item that have alreadi been record as sale might be
+includ in the physic inventori count as might good own by third parti but held by
+compani on consign or for storag compani have even made up pallet of
+inventori with hollow center place brick in seal box instead of high valu product
+and shuttl inventori overnight between locat be observ by auditor on differ
+dai so as to doubl count the inventori final it is also common for compani to insert
+phoni count sheet dure the inventori observ or chang the quantiti on the
+count sheet
+account receiv
+account receiv ar subject to manipul in the same manner as sale and inventori
+and in mani case the scheme ar conduct togeth the two most common scheme
+involv account receiv ar fictiti receiv and failur to write off account
+receiv as bad debt or failur to establish an adequ allow for bad debt
+fictiti receiv commonli aris from fictiti revenu which were discuss earlier
+account receiv should be report at net realiz valu that is the amount of the
+receiv less the amount expect not to be collect
+financi transact financi statement fraud
+2011 fraud examin manual 1319
+fictiti account receiv
+fictiti account receiv ar common among compani with financi problem as
+well as with manag who receiv a commiss base on sale the typic entri under
+fictiti account receiv is to debit increas account receiv and credit increas
+sale of cours these scheme ar more common around the end of the account period
+sinc account receiv ar expect to be paid in cash within a reason time
+fraudster commonli attempt to conceal fictiti account receiv by provid fals
+confirm of balanc to auditor thei get the audit confirm becaus the mail
+address thei provid for the phoni custom is typic either a mailbox under their
+control a home address or the busi address of a coconspir such scheme can be
+detect by us busi credit report public record or even the telephon book to
+identifi signific custom with no physic exist or no appar busi need for
+the product sold to them
+failur to write down
+compani ar requir to accru loss on uncollect receiv when the criteria in
+financi account standard board statement no 5 account for conting ar met
+compani struggl for profit and incom mai be tempt to omit the recognit of
+such loss becaus of their neg impact on incom
+busi combin
+compani ar requir to alloc the purchas price thei have paid to acquir anoth
+busi to the tangibl and intang asset of that busi ani excess of the purchas
+price over the valu of the acquir asset is treat as goodwil current standard
+govern goodwil account have decreas the incent for compani to minim the
+amount alloc to goodwil that previous wa requir to be amort against futur
+earn howev compani mai still be tempt to overalloc the purchas price to in
+process research and develop asset in order to then write them off immedi or
+thei mai establish excess reserv for variou expens at the time of acquisit
+intend to quietli releas those excess reserv into earn at a futur date
+fix asset
+bogu fix asset can be creat by a varieti of method thei ar subject to manipul
+through sever differ scheme some of the more common scheme ar book
+fictiti asset misrepres asset valuat and capit nonasset cost
+financi statement fraud financi transact
+1320 2011 fraud examin manual
+book fictiti asset
+on of the easiest method of asset misrepresent is the record of fictiti asset
+thi fals creation of asset affect account total on a compani balanc sheet the
+correspond account commonli us is the owner equiti account becaus compani
+asset ar often physic found in mani differ locat thi fraud can sometim be
+easili overlook on of the most common fictiti asset scheme is to simpli creat
+fictiti document in other instanc the equip is leas not own and thi fact is
+not disclos dure the audit of fix asset bogu fix asset can sometim be detect
+becaus the fix asset addit make no busi sens
+misrepres the valu of fix asset
+fix asset should be record at cost although asset mai appreci in valu thi
+increas in valu should not be recogn on compani financi statement mani financi
+statement fraud have involv the report of fix asset at market valu instead of the
+lower acquisit cost or at even higher inflat valu with phoni valuat to support
+them further compani mai fals inflat the valu of fix asset by fail to record
+impair of longliv asset as requir by fasb asc 3503035 and of goodwil as
+requir by fasb asc 3502035 misrepresentat ion of asset valu frequent goe hand
+in hand with other scheme
+exampl
+in octob 2002 the sec file a civil enforc action against former enron cfo
+andrew s fastow who also face crimin charg relat to an alleg selfenrich
+scheme to defraud enron secur holder through the us of certain offbalancesheet
+entiti on of the six transact in the sec complaint against andrew fastow
+involv raptor i and avici accord to the complaint enron and the fastow
+control partnership ljm2 engag in complex transact with an entiti call raptor
+i raptor i wa us to manipul enron balanc sheet and incom statement and to
+gener profit for ljm2 and fastow at enron expens in septemb 2000 fastow
+and other us raptor i to effectu a fraudul hedg transact ion and thu avoid a
+decreas in the valu of enron invest in the stock of a public compani call avici
+system inc specif fastow and other backdat document to make it appear that
+enron had lock in the valu of it invest in avici in august of 2000 when avici
+stock wa trade at it all time high price
+financi transact financi statement fraud
+2011 fraud examin manual 1321
+capit nonasset cost
+exclud from the cost of a purchas asset ar interest and financ charg incur in the
+purchas for exampl when a compani financ a capit equip purchas monthli
+payment includ both princip liabil reduct and interest payment on initi
+purchas onli the origin cost of the asset should be capit the subsequ interest
+payment should be charg to interest expens and not to the asset without a reason for
+intens review fraud of thi type can go uncheck
+underst asset
+in some case as with some governmentrel or regul compani it is advantag
+to underst asset addit fund is often base on asset amount thi
+understat can be done directli or through improp depreci
+misclassifi asset
+in order to meet budget requir and for variou other reason asset ar sometim
+misclassifi into gener ledger account in which thei dont belong for exampl fix
+asset mai be fraudul reclassifi as current asset the manipul can skew financi
+ratio and help the compani compli with loan coven or other borrow requir
+what red flag ar associ with improp asset valuat
+recur neg cash flow from oper or an inabl to gener posit cash
+flow from oper while report earn and earn growth
+signific declin in custom demand and increas busi failur in either the
+industri or the overal economi
+asset liabil revenu or expens base on signific estim that involv
+subject judgment or uncertainti that ar difficult to support
+nonfinanci manag excess part icip in or preoccup with the
+select of account principl or the determin of signific estim
+unusu increas in gross margin or margin in excess of industri peer
+unusu growth in the number of dai sale in receiv ratio
+unusu growth in the number of dai purchas in inventori ratio
+reduct in allow for bad debt excess inventori obsolet inventori etc
+especi if relev ratio ar out of line with those of industri peer
+unusu chang in the relationship between fix asset and depreci
+ad to asset while competitor ar reduc capit ti up in asset
+financi statement fraud financi transact
+1322 2011 fraud examin manual
+conceal liabil and expens
+underst liabil and expens is on of the wai financi statement can be
+manipul to make a compani appear more profit than it actual is becaus pretax
+incom will increas by the full amount of the expens or liabil not record thi financi
+statement fraud method can have a signific impact on report earn with rel
+littl effort by the fraudster it is much easier to commit than falsifi sale transact
+miss transact can also be harder for auditor to detect than improperli record on
+sinc the miss transact leav no audit trail
+there ar three common method for conceal liabil and expens
+liabilityexpens omiss
+capit expens
+failur to disclos warranti cost and liabil
+liabilityexpens omiss
+the prefer and easiest method of conceal liabil or expens is to simpli fail to
+record them multimilliondollar judgment ag ainst a compani from a recent court decis
+might be conveni ignor vendor invoic might be thrown awai or stuf into
+drawer rather than post into the account payabl system therebi increas report
+earn by the full amount of the invoic in a retail environ debit memo might be
+creat for chargeback to vendor supposedli to claim permit rebat or allow but
+sometim sole to creat addit incom whether or not these item ar properli
+record in a subsequ account period doe not chang the fraudul natur of the
+current financi statement
+often perpetr of liabil and expens omiss believ thei can conceal their fraud in
+futur period thei frequent plan to compens for their omit liabil with vision
+of other incom sourc such as profit from futur price increas
+just as thei ar easi to conceal omit lia biliti ar probabl on of the most difficult
+scheme to uncov a thorough review of all postfinancialstatementd transact
+such as account payabl increas and decreas can aid in the discoveri of omit
+liabil in financi statement as can a computer analysi of expens record
+addition if the auditor request and wa grant unrestrict access to the client file
+a physic search could turn up conceal invoic and unpost liabil probe
+financi transact financi statement fraud
+2011 fraud examin manual 1323
+interview of account payabl and other personnel can reveal unrecord or delai item
+too
+exampl
+in juli 2002 the sec file suit in the unit state di trict court for the southern
+district of new york charg major cabl televis produc adelphia commun
+corpor the compani or adelphia it founder john j riga hi three son
+timothi j riga michael j riga and jame p riga and two senior execut at
+adelphia jame r brown and michael c mulcahei in on of the most extens
+financi fraud ever to take place at a public compani the sec charg that adelphia
+at the direct of the individu defend 1 fraudul exclud over 23 billion in
+liabil from it consolid financi statement by hide them in off balanc sheet
+affili 2 falsifi oper statist and inflat adelphia earn to meet wall
+street expect and 3 conceal rampant selfdeal by the riga famili
+includ the undisclos us of corpor fu nd for riga famili stock purchas and the
+acquisit of luxuri condominium in new york and elsewher
+with respect to the conceal liabil the complaint alleg that between mid1999 and
+the end of 2001 john j riga timothi j ri ga michael j riga jame p riga and
+jame r brown with the assist of michael c mulcahei caus adelphia to
+fraudul exclud from the compani a nnual and quarterli consolid financi
+statement over 23 billion in bank debt by deliber shift those liabil onto the
+book of adelphia off balanc sheet unconsolid affili failur to record thi debt
+violat gaap requir and precipit a seri of misrepresent about those
+liabil by adelphia and the defend includ the creation of 1 sham transact
+back by fictiti document to give the fals appear that adelphia had actual
+repaid debt when in truth it had simpli shi fted them to unconsoli date rigascontrol
+entiti and 2 mislead financi statement by give the fals impress through the
+us of footnot that liabil list in the compani financi includ all outstand
+bank debt
+in novemb 2002 in exchang for hi testimoni against the riga men jame brown
+wa releas from prosecut by consent to an entri of a perman injunct against
+him for feder secur law violat addition brown ha been perman bar
+from becom an offic or director of a public corpor
+financi statement fraud financi transact
+1324 2011 fraud examin manual
+in juli 2004 after a threemonth trial a feder juri convict john and timothi riga of
+conspiraci secur fraud and bank fraud john riga receiv a 15year prison sentenc
+and wa fine 2300 and timothi riga wa sentenc to 20 year in prison jame
+riga wa never crimin charg by the court in novemb 2005 michael riga
+plead guilti to a charg of make a fals entri in a financi record
+in april 2005 the sec file perman injunct against john timothi michael
+and jame riga as well as jame brown michael mulcahei and adelphia
+commun corpor the defend were charg with violat antifraud
+period report record keep ing and intern control provis of feder secur law
+in addit the riga famili member were bar from ever hold offic or director
+posit in a public compani
+capit expens
+capit expens is anoth wai to increas incom and asset becaus capit item
+ar depreci or amort over a period of year rather than expens immedi if
+expenditur ar capit as asset and not expens dure the current period incom
+will be overst as the asset ar depreci incom in subsequ period will be
+underst
+exampl
+in novemb 2002 the sec file an am end complaint against worldcom inc
+broaden it charg to alleg that worldcom misl investor from at least as earli as
+1999 through the first quarter of 2002 the complaint state that the compani had
+acknowledg that dure that period worl dcom materi overst the incom it
+report on it financi statement by approx imat 9 billion main ly us two method
+first worldcom reduc it oper expens by improperli releas as a credit to
+oper expens certain provis previous establish for line cost and for tax
+second the compani improperli reduc it oper expens by recharacter certain
+expens as capit asset much of the 9 billion relat to improp account for line
+cost which were among worldcom major oper expens the sec complaint
+alleg that in a scheme direct and approv by member of senior manag
+worldcom conceal the true extent of it l in cost by improperli reduc provis
+held against line cost and by transfer certain line cost to it capit asset
+account worldcom fals portrai itself as a profit busi when it wa not and
+conceal larg loss these improp er account practic were design to and did inflat
+financi transact financi statement fraud
+2011 fraud examin manual 1325
+incom to correspond with estim by wall street analyst and to support the price of
+worldcom stock
+in march 2005 former worldcom ceo bernard ebber wa convict of on count of
+conspiraci on count of secur fraud and seven count of fals regulatori file and wa
+later sentenc to 25 year in prison he also agre to forfeit nearli all of hi person
+asset to settl a civil suit file by aggriev worldcom investor
+scott sullivan the former cfo under ebber and the architect behind the fraud
+scheme pled guilti to fraud charg and agre to testifi against ebber due to hi
+cooper dure the investig he wa sentenc to onli five year in prison he also
+agre to forfeit the proce from the sale of hi 10 million home along with hi 401k
+hold to settl the civil suit brought by sharehold
+former worldcom control david f myer and former director of gener
+account buford buddi yate jr pled gu ilti to crimin charg prosecut by the
+us attornei offic for the southern district of new york myer receiv a sentenc
+of on year and on dai in prison yate wa also sentenc to on year and on dai in
+prison and order to pai a 5000 fine addition each man wa perman
+enjoin from act as an offic or director of ani public compani and wa suspend from
+practic befor the sec as an accountan t under rule 1022 of the commiss
+rule of practic
+the sec also brought civil action against former member of the worldcom gener
+account depart betti l vinson cpa and troi m normand both were
+perman enjoin from secur violat s vinson wa suspend from appear or
+practic befor the sec as an account in addit she pled guilti to on count of
+secur fraud and on count of conspiraci to commit secur fraud and wa sentenc to
+five month in prison and five month of hous arrest norm and pled guilti to similar
+charg and receiv three year of probat for hi role in the fraud
+expens capit expenditur
+just as capit expens is improp so is expens cost that should be capit
+the organ mai want to minim it net incom due to tax consider or to
+increas earn in futur period expens an item that should be depreci over a
+period of time help to accomplish just thatnet incom is lower and therefor so ar
+tax
+financi statement fraud financi transact
+1326 2011 fraud examin manual
+return and allow and warranti
+improp record of sale return and allow occur when a compani fail to properli
+record or present the expens associ with sale return and custom allow
+stem from custom dissatisfact it is inevit that a certain percentag of product
+sold will for on reason or anoth be return when thi happen manag must
+record the relat expens as a contrasal account which reduc the amount of net sale
+present on the compani incom statement
+likewis when a compani offer a warranti on product sale it must estim the amount
+of warranti expens it reason expect to incur over the warranti period and accru a
+liabil for that amount in warranti liabil fraud the warranti liabil is usual either
+omit altogeth or substanti underst anoth similar area is the liabil result
+from defect product product liabil
+what red flag ar associ with conceal liabil and expens
+recur neg cash flow from oper or an inabl to gener posit cash
+flow from oper while report earn and earn growth
+asset liabil revenu or expens base on signific estim that involv
+subject judgment or uncertainti that ar difficult to support
+nonfinanci manag excess part icip in or preoccup with the
+select of account principl or the determin of signific estim
+unusu increas in gross margin or margin in excess of industri peer
+allow for sale return warranti claim etc that ar shrink in percentag term
+or ar otherwis out of line with industri peer
+unusu reduct in the number of dai purchas in account payabl ratio
+reduc account payabl while competitor ar stretch out payment to vendor
+improp disclosur
+account principl requir that financi statement includ all the inform necessari
+to prevent a reason discern user of the financi statement from be misl the
+note should includ narr disclosur support schedul and ani other inform
+requir to avoid mislead potenti investor creditor or ani other user of the financi
+statement
+manag ha an oblig to disclos all signific inform appropri in the
+financi statement and in manag discuss and analysi in addit the disclos
+financi transact financi statement fraud
+2011 fraud examin manual 1327
+inform must not be mislead improp disclosur relat to financi statement
+fraud usual involv the follow
+liabil omiss
+subsequ event
+manag fraud
+relatedparti transact
+account chang
+liabil omiss
+typic omiss includ the failur to disclos loan coven or conting liabil
+loan coven ar agreement in addit to or as part of a financ arrang that a
+borrow ha promis to keep as long as the financ is in place the agreement can
+contain variou type of coven includ certain financi ratio limit and restrict on
+other major financ arrang conting liabil ar potenti oblig that will
+materi onli if certain event occur in the futur a corpor guarante of person loan
+taken out by an offic or a privat compani control by an offic is an exampl of a
+conting liabil the compani potenti lia biliti if materi must be disclos
+subsequ event
+event occur or becom known after the close of the period mai have a signific
+effect on the financi statement and should be disclos fraudster typic avoid
+disclos court judgment and regulatori decis that undermin the report valu of
+asset that indic unrecord liabil or that advers reflect upon manag
+integr public record search can reveal thi inform
+manag fraud
+manag ha an oblig to disclos to the sharehold signific fraud commit
+by offic execut and other in posit of trust withhold such inform from
+auditor would like also involv ly to auditor an illeg act in itself
+relatedparti transact
+relatedparti transact occur when a compani doe busi with anoth entiti whose
+manag or oper polici can be control or significantli influenc by the
+compani or by some other parti in common there is noth inher wrong with
+relatedparti transact as long as thei ar fulli disclos if the transact ar not
+conduct on an armslength basi the compani mai suffer econom harm injur
+financi statement fraud financi transact
+1328 2011 fraud examin manual
+stockhold the financi interest that a compani offici might have mai not be readili
+appar for exampl common director of two compani that do busi with each
+other ani corpor gener partner and the partnership with which it doe busi and
+ani control sharehold of the corpor with which hesheit doe busi mai be
+relatedparti famili relationship can also be consid relat parti such as all lineal
+descend and ancestor without regard to financi interest relatedparti transact
+ar sometim refer to as selfdeal while these transact ar sometim
+conduct at arm length often thei ar not
+exampl
+in septemb 2002 the sec charg former top execut of tyco intern ltd
+includ former ceo l denni kozlowski with violat the feder secur law by
+fail to disclos to sharehold hundr of million of dollar of lowinterest and interestfre
+loan thei took from the compani and in some case never repaid the sec
+complaint which also charg former tyc o cfo mark h swartz and chief legal
+offic mark a belnick alleg that the three former execut also sold share of tyco
+stock valu at million of dollar while their selfdeal remain undisclos the
+complaint alleg numer improp transact ion includ kozlowski us of 242
+million of loan for impermiss and una uthor purpos includ fund an
+extravag lifestyl with these undisclos loan kozlowski allegedli amass million of
+dollar in fine art yacht and estat jewelri as well as a 31 million park avenu
+apart and a palati estat in nantucket kozlowski and swartz allegedli engag in
+undisclos nonarmslength real estat transact with tyco or it subsidiari and
+receiv undisclos compens and perqui site includ forgiv of multimillion
+dollar loan rentfre us of larg new york apart and us of corpor aircraft for
+person purpos at littl or no cost
+in juli 2004 belnick wa acquit of all the charg brought against him in a separ
+trial kozlowski and swartz were each found gu ilti of 22 charg in clude grand larceni
+falsifi busi record con piraci and secur fraud and were sentenc to eight and
+onethird to 25 year in prison
+account chang
+in gener three type of account chang must be disclos to avoid mislead the user
+of financi statement account principl estim and report entiti although the
+requir treatment for each type of chang is differ thei ar all suscept to
+financi transact financi statement fraud
+2011 fraud examin manual 1329
+manipul by a determin fraudster for exampl fraudster mai fail to properli
+retroact restat financi statement for a chang in account principl if the chang
+caus the compani financi statement to appear weaker likewis thei mai fail to
+disclos signific chang in estim such as the us live and estim salvag valu
+of depreci asset or the estim underli the determin of warranti or other
+liabil thei mai even secretli chang the report entiti by ad entiti own
+privat by manag or by exclud certain companyown unit in order to improv
+report result
+backdat stock option
+as a supplement to salari compani frequent offer employe stock option which grant
+the recipi the privileg to purchas a share of the compani stock at a futur date for a
+specif price call the strike price a strike price is the valu of a share at a particular date
+gener the strike price is set at the price of the underli stock on the dai the option is
+grant therefor the option becom valuabl onli with futur increas in the stock price
+in thi wai compani grant stock option as an incent for employe to boost compani
+perform and thu rais the stock price the practic of backdat stock option
+howev give the employe a chanc to profit by purchas stock at past low price
+provid an immedi payoff backdat stock option occur when a compani alter the
+date of the grant to a time when the stock wa trade at a lower price in the interest of
+make the option instantli valuabl and further increas the employe gain if the stock
+price continu to rise
+exampl
+on june 1 20x1 compani xyz grant it ceo a stock option that provid the
+execut the right to purchas 100 share of xyz stock on januari 1 20x2 for the
+strike price per it usual polici the strike price is set at the price of the compani stock on
+the date of the option grant on june 1 2008 the grant date xyz stock wa trade at
+40 per share therefor if the stock price increas to 45 per share by januari 1
+20x2 the ceo could exercis the option and purchas the share for 40 per share then
+sell them immedi on the market for 45 per share result in a gain of 5 per share
+howev the compani ha recent experienc a dramat increas in it share price on
+mai 24 20x1 the stock wa trade for 15 per share to provid the ceo with an
+opportun to exploit thi increas in share price the compani choos to backdat the
+stock option to make it appear that thei were grant on mai 24 20x1 becaus the
+strike price is set at the price of the stock on the option grant date the strike price is
+financi statement fraud financi transact
+1330 2011 fraud examin manual
+effect chang to 15 per share as a result the ceo now ha the option to bui 100
+share of xyz stock on januari 1 20x2 for 15 per share thu the ceo ha
+immedi gain 25 per share the differ between the stock price on the actual grant
+date of june 1 and the state grant date of mai 24 base sole on the manipul of
+the grant date us
+backdat stock option came to the attent of the us secur and exchang
+commiss sec when academ research reveal a pattern of stock price descend
+just prior to mani report date of option grant then ascend immedi afterward
+backdat is not necessarili illeg but can be if not handl appropri in order to be
+legal the practic must be explicitli report to sharehold and the govern failur to
+do so mai constitut secur fraud
+in august of 2002 certain provis laid out under the sarbanesoxlei act took effect
+requir compani to report stock option grant within two busi dai after the grant
+the rule greatli reduc the time compani had to choos a favor grant date
+compani were previous allow week or month befor thei were requir to report
+stock option grant consequ the appar pattern of backdat nearli disappear
+around the time the rule were enact howev report of actual practic in stock option
+and the record data remain inconsist in mani case becaus not all compani adher
+to sarbanesoxlei addition the revel of the preval of backdat ha caus
+concern that compani mai not have record and disclos the option grant on the
+financi statement in an accur manner in respons to thi issu the public compani
+account oversight board pcaob issu a practic alert to prepar auditor for the
+possibl of financi misstat due to backdat of stock option to keep a tight
+rope on the possibl of thi type of illeg activ auditor should assess the inform
+obtain from the audit to determin if there is a need for further audit procedur
+what red flag ar associ with improp disclosur
+domin of manag by a singl person or small group in a nonownermanag
+busi without compens control
+ineffect board of director or audit committe oversight over the financi report
+process and intern control
+ineffect commun implement support or enforc of the entiti
+valu or ethic standard by manag or the commun of inappropri
+valu or ethic standard
+financi transact financi statement fraud
+2011 fraud examin manual 1331
+rapid growth or unusu profit especi compar to that of other compani in
+the same industri
+signific unusu or highli complex transact especi those close to a period
+end that pose difficult substanc over form question
+signific relatedparti transact not in the ordinari cours of busi or with
+relat entiti either not audit or audit by a differ firm
+signific bank account or subsidiari or branch oper in taxhaven jurisdict
+for which there appear to be no clear busi justif
+overli complex organiz structur invo lving unusu legal entiti or manageri
+line of author
+known histori of violat of secur la ws or other law and regul or claim
+against the entiti it senior manag or board member alleg fraud or violat
+of law and regul
+recur attempt by manag to justifi margin or inappropri account on
+the basi of materi
+formal or inform restrict on the auditor that inappropri limit access to peopl
+or inform or limit the abil of the auditor to commun effect with the
+board of director or audit committe

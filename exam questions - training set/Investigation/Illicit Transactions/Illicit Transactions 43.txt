@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Theta, a Certified Fraud Examiner is conducting an investigation in which he believes assets have been illegally secreted offshore. Which federal agency is likely to be involved in offshore investigations?
+
+Options=Drug Enforcement Administration | Department of State | Office of International Affairs | None of the above
+
+CorrectResponse=2
+
+Explanation=The U.S. Department of Justice, Office of International Affairs (OIA), in certain circumstances, may offer assistance to U.S. fraud examiners seeking to recover offshore assets. OIA is responsible for:‰?¢	Extradition requests‰?¢	Requests for foreign documentary evidence, bank and business records, and other official documents‰?¢	Interviews and depositions of foreign witnesses‰?¢	Assistance to obtain appearance of foreign witnesses in U.S. courts‰?¢	Foreign searches and seizures, compelled handwriting exemplars, and electronic surveillanceSee page(s) 3.851 in the Fraud Examiner's Manual

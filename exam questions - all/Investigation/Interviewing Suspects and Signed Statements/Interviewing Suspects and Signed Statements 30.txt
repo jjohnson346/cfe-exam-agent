@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Gray, a fraud suspect, has confessed to Blue, a Certified Fraud Examiner, that he has embezzled funds. Blue is unsure whether Gray had an accomplice. The question concerning any accomplice is best asked this way:
+
+Options="Who knew about this besides you?" | "We have evidence someone else is involved. Who is it?" | "Was anyone else involved?" | None of the above
+
+CorrectResponse=0
+
+Explanation=Most frauds are solo ventures—committed without the aid of an accomplice. Rather than ask if anyone else was involved, phrase the question something like this: ''Who else knew about this besides you?" By asking who else “knew," the interviewer is in effect not only asking for the names of possible conspirators, but also about others who might have known what was going on but failed to report it. This question should be leading, not “Did someone else know?" but rather “Who else knew?"See page(s) 3.268 in the Fraud Examiner's Manual

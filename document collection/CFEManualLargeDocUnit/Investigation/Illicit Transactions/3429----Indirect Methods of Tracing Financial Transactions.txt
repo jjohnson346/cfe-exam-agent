@@ -1,0 +1,1374 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Indirect Methods of Tracing Financial Transactions
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+Indirect Methods of Tracing Financial Transactions 
+In contrast to the direct approach method of proving income, which relies on specific 
+transactions, the indirect approach relies on circumstantial proof of income using such as the 
+net worth analysis. 
+ 
+Almost all individuals and business entities determine income by the specific-items or 
+specific - transactions method. Most entities engaged in legitimate pursuits maintain books 
+and records in which they record transactions as they occur, and their income computations 
+are based upon the total transactions during a given period. In fraud examinations, income 
+can usually be established more readily by the direct approach; for this reason, it should be 
+used whenever possible. 
+ 
+In many fraud schemes, however, a subject’s books and records are not made available to 
+the examiner. Therefore, an indirect approach must be taken using one of the following 
+methods: the net worth analysis: asset method, the expenditures (source and application of 
+funds) method, or the bank deposit analysis method. Although these methods are 
+circumstantial proof, courts have approved their use in civil and criminal cases on the theory 
+that proof of a subject’s unexplained funds or property might establish a prima facie 
+understatement of income.  
+ 
+Elements of Financial Examination Techniques 
+To examine company books and records for fraud, the fraud examiner must know and 
+understand the environment in which the entity operates, the entity’s accounting system 
+(including the types of schemes relevant to the entity and the controls that are designed to 
+prevent fraud), basic concealment methods, and various detection techniques. 
+ 
+The Environment 
+It is critical to understand the business (or government) environment where the entity 
+operates. To understand the environment, you must have a firm grasp of the nature of the 
+business, the competition, the market share, the financing structure, the vendors (suppliers), 
+major customers, the methods of receipts (i.e., cash or on account) and disbursements, the 
+procurement methods (i.e., whether goods and services are obtained through a bidding 
+process or not), the general economic climate, and the personnel pool available to the entity. 
+It is through the understanding of the entity as an operating enterprise that you can assess 
+the risks associated with the particular operations. The risks and peculiarities of the entity 
+Tracing Illicit Transactions  Investigation 
+3.830   2011 Fraud Examiners Manual  
+will help shape the nature of potential fraud schemes that can be perpetrated by the entity’s 
+employees. 
+ 
+The Accounting System 
+Understanding the basic accounting system and its integration with the operations of the 
+business is important. The basic accounting system, including the system of internal 
+controls, is the key element in providing evidence of past, present, and future internal fraud. 
+Internal fraud that is on-book will appear within the entity’s financial records. The audit trail 
+might be obscure, but it will exist nonetheless. If the internal fraud is off-book, then other 
+evidence might, with diligent fraud examination techniques, be uncovered. 
+ 
+All internal fraud has an impact on the bottom line. However, fraud in small amounts will be 
+harder to detect because of its immaterial amount relative to the financial statements as a 
+whole. If an internal fraud scheme is large enough, it will have an effect on the entity’s 
+financial statements.  
+ 
+Various Detection Techniques 
+Though there are many fraud detection methods, whatever method is employed will usually 
+require the examination of source documents. Many times, these source documents provide 
+the evidence necessary to prove fraud in a court of law. Additionally, in many cases, the 
+source documents will help establish the intent of the fraud offenders. 
+ 
+Individual or groups of documents can be examined in several ways to detect possible fraud. 
+Because most internal fraud is continuous in nature, groups of documents can be analyzed 
+for exceptions and trends. Many times a large population must be sampled to determine, 
+with statistical validity, if documents have been altered. Statistical sampling quantifies the risk 
+of arriving at an incorrect conclusion; it is generally necessary with large populations. 
+ 
+EXAMPLE 
+Fraud examiners want to examine sales invoices for proper approvals in a company with $2 
+billion in annual sales. The average sales inv oice is $15,000. By selecting a valid statistical 
+sample of sales, the examiners can project the effectiveness of internal controls regarding the 
+approval of the sales invoices, assuming proper interpretation of test results. If deficiencies exist 
+in the controls, then those results should become apparent in the test results. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.831 
+Statistical Sampling 
+If an anomaly is found in the financial statements and transactions and further investigation 
+is desired, it might be appropriate to pull a statistical sample. By using statistical sampling, 
+the examiner can look at fewer transactions rather than the entire population.  
+ 
+There are two basic risks associated with statistical sampling: sampling risk and nonsampling 
+risk. Sampling risk  is the probability that the sample is not representative of the population; 
+nonsampling risk  is the possibility of making the wrong decision. Nonsampling risk cannot be 
+quantified. However, fraud examiners can control it through adequate planning and 
+supervision of audit engagements. 
+ 
+When using statistical sampling, you must draw a random sample. That is, each member of 
+the population must have an equal chance of being selected. There are two primary types of 
+statistical sampling: attribute and discovery. 
+ 
+SAMPLING FOR ATTRIBUTES 
+Sampling for attributes is used by auditors or fraud examiners looking for a deviation 
+occurrence rate (deviations, errors, and exceptions  are synonyms). When performing this type of 
+sampling, you are looking for the presence or absence of a defined condition. 
+ 
+EXAMPLE 
+For each sales invoice in the sample, is there a corresponding shipping order? The answer to the 
+question can only be “yes” or “no.” If the control condition is that each sales invoice is not 
+recorded until there has been a shipping order attached, then any “no” response for a booked 
+sale would represent an error. 
+ 
+DISCOVERY SAMPLING 
+This is the best type of sampling for auditing for fraud because it is sampling until one 
+occurrence is found. Discovery sampling deals with the probability of discovering at least 
+one error in a given sample size if the population error is a certain percentage. This type of 
+sampling is directed toward a specific objective, such as: 
+ 
+EXAMPLE 
+“If I believe some kind of error or irregularity might exist in the records, what sample size will I have to 
+audit to have assurance of finding at least one example?” 
+ 
+Tracing Illicit Transactions  Investigation 
+3.832   2011 Fraud Examiners Manual  
+Discovery sampling is best used when looking for things such as forged checks or 
+intercompany sales that have been improperly classified as sales to outsiders. 
+ 
+RANDOM SAMPLES 
+When using the discovery-sampling technique, the selection of samples should be done 
+randomly. For a sample to be random, every member of the population must have an equal 
+opportunity of being selected.  
+ 
+Items in the population can be numbered and selected by reference to a random number 
+table. Or if the items in the population already have numbers (such as check numbers or 
+invoice numbers) then a random sample can be selected by using a random number 
+generator from a computer software program. To select a random sample, (1) identify a 
+number for every item in the population, (2) correspond the random numbers with each 
+item in the population, (3) select the route through the random number table, and (4) select 
+the sample.  
+ 
+Additionally, make sure that you consistently follow the pattern picked for corresponding 
+random numbers to items in the population and that you document the random number 
+selection process in the event the sample needs rechecking or additional sample items need 
+to be selected for testing. If the sample is selected randomly and the sample is large enough, 
+then the sample should represent the population.  
+ 
+DOCUMENTS 
+Fraud will often be concealed in questionable documents. Missing or altered documents are 
+some of the principal indicators of fraud, and such occurrences should be thoroughly 
+investigated. Certain documents are a natural part of the accounting system. However, when 
+a pattern of these documents occurs, or an unusual quantity of these documents is noted, 
+further examination might be warranted. 
+ 
+The common-sense test should be applied to any document that appears to have 
+questionable features under the circumstances, such as amounts too high or too low; odd 
+names, times, and places; and identical names and addresses. Fraud can often involve 
+questionable journal entries in the records, such as inappropriate charges to expense 
+accounts or inventory. For example, large journal entries in the inventory accounts near the 
+end of the year might point to a cover-up of inventory theft. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.833 
+An overabundant number of voids might mean that a fraudster is voiding legitimate sales 
+and pocketing the proceeds. Excessive credit memos might also signal the reversal of 
+legitimate sales and the diversion of cash. Too many late charges might indicate that an 
+account receivable is delinquent because it is a fictitious account and, therefore, will never be 
+paid. Stale items on any reconciliation bear watching. For example, stale outstanding checks 
+may indicate attempted concealment of embezzlement losses or diverted cash. Original 
+documents, such as invoices, should be used to authorize transactions because photocopied 
+or duplicate documents can be subject to manipulation and alteration. 
+ 
+Net-Worth Methods 
+Examining for fraud not only involves the examination of the entity’s books and records, it 
+might also entail the estimation of the fraud suspect’s change in net worth or expenditures. 
+If fraud is suspected, then using either of the net-worth methods might help in establishing 
+evidence of a fraud. 
+ 
+The net-worth method (or comparative net-worth analysis) is used to prove illicit income 
+circumstantially, by showing that a person’s assets or expenditures for a given period exceed 
+that which can be accounted for from known or admitted sources of income. The net-worth 
+method is a reliable method for estimating a person’s ill-gotten gains. The method is used 
+extensively by the Internal Revenue Service, especially in drug and money laundering cases. 
+ 
+The net-worth method relies on the familiar balance sheet format readily recognizable in the 
+business world and presents a complete financial picture of a subject. It is based on the 
+theory that increases or decreases in a person’s net worth during a period, adjusted for living 
+expenses, allow a determination of income. 
+ 
+Net worth  can be defined as the difference between assets and liabilities at a particular point in 
+time. By comparing the subject’s net worth at the beginning and end of a period, usually a 
+calendar year, the economic crime investigator can determine the increase or decrease in net 
+worth. Adjustments are then made for living expenses to arrive at income. Income includes 
+receipts derived from all sources. Thus, by subtracting funds from known sources (salary, 
+wages, interest, or dividends, for example), funds from unknown or illegal sources can  
+be calculated. 
+ 
+The courts approved using the net-worth method in the leading Supreme Court case of 
+Holland v. United States, 348 U.S. 121 (1954), along with the three companion cases, Smith v. 
+Tracing Illicit Transactions  Investigation 
+3.834   2011 Fraud Examiners Manual  
+United States, 348 U.S. 147 (1954); Friedberg v. United States, 348 142 (1954); and United States v. 
+Calderon, 348 U.S. 160 (1954). These cases outlined broad principles to govern the trial and 
+review of cases based on the net-worth method of proving income. 
+ 
+The net-worth method is often used when several of the subject’s assets or liabilities have 
+changed during the period under examination and when the target’s financial records are not 
+available. 
+ 
+An individual’s assets, liabilities, and living expenses can be determined from a variety of 
+sources, such as: 
+• The subject 
+• Informants or sources 
+• Real estate records 
+• Judgment and lien records 
+• Bankruptcy records 
+• State motor vehicle records 
+• Loan applications 
+• Financial statements 
+• Accountant’s work papers 
+• Lawsuits and depositions 
+• Surveillance 
+• Credit card applications or statements 
+• Tax returns 
+• Insurance records 
+• Child support and divorce records 
+• Employment applications and salary checks 
+• Companions or associates 
+• Canceled checks and deposited items 
+ 
+The question might arise regarding why items that do not change should be included in the 
+net-worth statement, particularly since they have no bearing on the final result. The answer is 
+that a net-worth statement gives a complete financial picture of the subject and therefore 
+should be as complete as possible so that the target will not be able to contest it on the 
+grounds that items were omitted. Additionally, the net-worth statement can be the 
+foundation for examination of the subject, and a complete statement will prove extremely 
+valuable at that time. 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.835 
+There are two basic methods of net-worth computation: The asset method and the expenditures  
+or sources and applications of funds method. They are discussed in detail herein. 
+ 
+The asset method should be used when the subject has invested illegal funds to accumulate 
+wealth and acquire assets, causing net worth (value of assets over liabilities) to increase from 
+year to year. The expenditures method  is best used when the subject spends illicit income on 
+consumables (such as travel and entertainment) that would not cause an increase in  
+net worth. 
+ 
+Each method has similar steps. Begin both methods by assembling the financial and 
+behavioral profile. Identify all major assets and liabilities, sources of income, and major 
+expenses during the relevant period. The increase, if any, in the subject’s net worth or the 
+level of expenditures is then compared to the legitimate funds available. Unaccounted funds 
+might be inferred to come from illicit or hidden sources. 
+ 
+THE FINANCIAL PROFILE 
+The first step is to prepare the financial profile  of the suspect. The financial profile is 
+essentially a financial statement with certain modifications and additions that shows what the 
+defendant owns, owes, earns, and spends at any given point or over a period of time. The 
+profile might yield direct evidence of illegal income or hidden assets, or circumstantial 
+evidence thereof, by showing that the suspect’s expenditures exceeded known sources of 
+income. 
+ 
+The financial profile will identify most illicit funds that are deposited to accounts or 
+expended in significant amounts. It will not catch relatively small currency transactions, 
+particularly if they were for concealed activities, consumables, or for unusual one-time 
+expenses such as medical bills. 
+ 
+Determine the target’s assets, liabilities, income, and expenses from the following sources: 
+• Interviews 
+• The target 
+• Associates 
+• Documents from financial sources (e.g., accountant, banker) 
+• Bank account records 
+• Mortgage and loan files 
+• Credit card records 
+Tracing Illicit Transactions  Investigation 
+3.836   2011 Fraud Examiners Manual  
+• Tax returns 
+• Public records 
+• Business filings 
+• Real estate filings 
+• Court records 
+ 
+To prepare the financial profile, follow the following six steps.  
+ 
+STEP 1 
+Identify all significant assets held by the suspect. An asset is cash (on hand) or anything else 
+of value that can be converted into cash.  
+ 
+Cash on hand is coin and currency (bills, coins, Federal Reserve notes) in the subject’s 
+possession (on the subject’s person, in the subject ’s residence or other place in a nominee’s 
+hands, or in a safe-deposit box). It does not include money in any account with a financial 
+institution. When using the net-worth method, the item that may be the most difficult to 
+verify is the amount of cash on hand, which is usually claimed by defendants to be sufficient 
+to account for all or part of the unknown sources of income. To establish a firm starting net 
+worth, it must be shown that the target had no large cash sums for which he was not given 
+credit. This is usually done by offering evidence that negates the existence of a cash hoard. 
+Such evidence might include: 
+• Written or oral admissions of the subject concerning net worth (a signed net-worth 
+statement or an oral statement as to cash on hand) 
+• Low earnings in pre-examination years, as shown by records of former employers 
+and/or tax returns filed by subject 
+• Net worth, as established by books and records of the subject 
+• Financial statement presented for credit or other purposes at a time before or during the 
+period under examination (banks, loan companies, and bonding companies are some of 
+the better sources from which to obtain this type of document) 
+• Bankruptcy before examination periods 
+• Prior indebtedness, compromise of overdue debts, and avoidance of bankruptcy 
+• Installment buying 
+• History of low earnings and expenditures, and checks returned for insufficient funds (a 
+financial history covering members of the subject’s family also might be helpful) 
+• Loss of furniture and business because of financial reasons 
+• Receipt of some type of public assistance 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.837 
+STEP 2 
+Identify all significant liabilities. A liability is an obligation (debt) arising from an oral or 
+written promise to pay.  
+ 
+STEP 3 
+Identify all income sources during the relevant time period. Income includes money or other 
+things of value received in exchange for services or goods. Income is never included as an 
+asset. Loan proceeds are not included as income but are treated as an asset that is offset by a 
+corresponding liability. 
+ 
+STEP 4 
+Identify all significant expenses incurred during the relevant period. An expense is any 
+payment for consumables, for personal or business reasons, over the relevant time period. 
+Expenses are not included as liabilities. 
+ 
+STEP 5 
+Analyze the information you have collected by using the following charts. 
+ 
+The Financial Profile 
+ 
+TYPICAL ASSETS For each significant asset determine : 
+ 
+Residence 
+Real estate 
+Bank accounts 
+Stocks and 
+bonds 
+Automobiles 
+Insurance 
+Cash on hand 
+ 
+Jewelry 
+Clothing 
+Collectibles 
+Pensions 
+Home 
+furnishings 
+Boats 
+ 
+—When was it acquired and from whom? 
+—How much did it cost?  
+—How was it paid for (currency, check, cashier’s 
+check)? 
+—What source of funds was used to acquire it? 
+—What documentation exists for the purchase and 
+where is it? 
+ 
+ 
+ 
+TYPICAL LIABILITIES For each significant liability determine: 
+ 
+Mortgage(s) 
+Other loans 
+Lines of credit 
+Credit cards  
+Installment purchases 
+Accounts payable 
+ 
+—What was the original amount of the liability? 
+—What is the present balance due? 
+—When was the liability incurred? 
+—What was the purpose for the loan or debt? 
+—How were the proceeds used and where were they 
+deposited? 
+Tracing Illicit Transactions  Investigation 
+3.838   2011 Fraud Examiners Manual  
+Taxes and other bills 
+Alimony and child support 
+— What security (collateral), if any, was given for the 
+debt? 
+— What documentation exists for the transaction and 
+where is it? 
+— Was the debt written off as a bad loan for tax 
+purposes? 
+— Who was the creditor or lender? 
+ 
+ 
+TYPICAL SOURCES OF FUNDS 
+ 
+For each source of funds determine: 
+ 
+Salary 
+Gifts 
+Rental income 
+Dividends 
+Interest 
+Sale of assets 
+ 
+Insurance 
+proceeds 
+Commissions 
+and fees 
+Awards 
+Inheritances 
+Disability 
+payments 
+ 
+— What was the total amount during a given period? 
+— What was the source? 
+— How was it paid for (currency, check, other means)? 
+— When were the funds received? 
+— Where was it deposited? 
+— How was it spent? 
+— What documentation exists (e.g., W-2 or 1099 
+forms) and where is it? 
+ 
+TYPICAL EXPENDITURES 
+For each major expenditure item determine : 
+ 
+Rent and 
+mortgage 
+Health costs 
+Interest on 
+loans 
+Credit cards 
+Car payments 
+Travel 
+ 
+Clothing 
+Utilities 
+Food 
+Insurance  
+ 
+ 
+— What was the total amount spent? 
+— How was it paid for? 
+— Where were the funds obtai ned to pay the expense? 
+— What documentation exists and where is it? 
+— When was the payment made? 
+ 
+THE BEHAVIORAL PROFILE 
+The financial profile might give inaccurate or false negative readings unless certain activities 
+are identified, which is done through preparing the behavioral profile. The behavioral profile 
+might also provide evidence of a possible motive of the crime, such as large debts, as well as 
+additional evidence of illicit funds. For example, if the suspect spent significant amounts of 
+cash, and had no corresponding cash withdrawals from his disclosed bank accounts, or no 
+admitted sources of cash income, he must have  other undisclosed sources of income. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.839 
+Using the financial/behavioral profile as a guide, request an interview with the suspect. Pin 
+down the suspect’s income, assets, and accounts. Otherwise, the subject might invent 
+excuses or prepare false testimony or documentation to account for the unexplained income. 
+ 
+Net-Worth Analysis 
+Any recipient of funds, whether honest or suspect, has only four ways of disposing of 
+income: save it, buy assets, pay off debts, or spend it. 
+ 
+Net-worth analysis begins with the completion of a suspect’s financial profile. Through 
+identification of the suspect’s assets, liabilities, income, and expenses, a net-worth statement 
+can be determined. Once a net-worth statement is completed through the identification of a 
+suspect’s assets, liabilities, income, and expenses, changes in the suspect’s net worth can be 
+compared to his known income, and differences can be inferred to be from unknown 
+sources. 
+ 
+COMPARATIVE NET WORTH: ASSET METHOD  
+Again, the asset method is advisable when it is suspected that the subject has purchased 
+assets or otherwise increased his net worth. It can be applied for any number of years, but, 
+ideally, it is best to start with the year before the suspected fraudulent activity began. The 
+formula is: 
+ 
+ Assets 
+– Liabilities 
+= Net worth 
+– Prior year’s net worth 
+= Net worth increase 
++ Living expenses 
+= Income (or expenditures) 
+– Funds from known sources 
+= Funds from unknown sources 
+ 
+In computing the comparative net worth, these issues should be considered: 
+• All assets should be valued at cost, not fair market value. Subsequent appreciation or 
+depreciation of assets is ignored. 
+• The amount of funds available to the subject from legitimate sources should be 
+estimated or computed generously. The amount of the subject’s expenditures, 
+Tracing Illicit Transactions  Investigation 
+3.840   2011 Fraud Examiners Manual  
+particularly hard-to-document living costs, such as food and entertainment, should be 
+estimated conservatively to give the subject the benefit of any doubt. In attempting to 
+estimate personal living expenses, you should consult the U.S. Bureau of Labor Statistics. 
+This agency publishes an annual table that details personal living expenses such as 
+utilities, food, and gas. 
+• Always attempt to interview the subject to identify all alleged sources of funds and to 
+negate defenses that he might raise later. 
+ 
+To compute the comparative net worth using the asset method, perform the following steps: 
+• Establish the starting point, generally the year before the target’s illegal activities begin. 
+This will be referred to as “year one” in the following computations. 
+• Compute the target’s net worth at the end of year one. Identify all assets held by the 
+subject, valued at cost, including assets acquired earlier, and the amount of current 
+liabilities. 
+ 
+The difference between the value of the assets and the liabilities is the target’s net worth at 
+year one, or “opening net worth.” 
+ 
+EXAMPLE 
+Year One 
+Assets at Cost               Liabilities 
+Residence $100,000  Mort gage balance $ 90,000 
+Stocks and bonds 30,000  Automobile loan  
+Automobile 20,000  balance 10,000 
+ TOTAL $150,000  TOTAL $100,000 
+ 
+Assets $150,000
+ Liabilities -100,000
+ Net Worth $50,000
+  
+Compute the target’s net worth for year two, using the same method. 
+ 
+  
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.841 
+EXAMPLE 
+Year Two 
+                     Assets at Cost                                          Liabilities 
+Residence $100,000  Mortgage balance $50,000 
+Stocks and bonds 30,000    
+Automobile 20,000  Automobile loan  
+CD 50,000  balance  0  
+ TOTAL $200,000  TOTAL $50,000  
+ 
+Assets $200,000
+ Liabilities -50,000
+ Net Worth $150,000
+  
+Note that in the example the target’s net wo rth increased by $100,000 during year two. 
+To determine the source of such an increase, determine the target’s known income, 
+during year two, and subtract known expenses for year two. 
+ 
+EXAMPLE 
+Year Two 
+               Income                            Expenses 
+Salary $30,000  Mortgage interest 
+payments 
+ 
+$20,000 
+Commissions 20,000  Living expenses 10,000  
+ TOTAL $50,000  TOTAL $30,000 
+   
+The difference between the target’s income and expenses equals the increase (or decrease) in 
+net worth from year one to year two, which can be attributed to known sources. Here it is 
+$20,000. Subtract the increase in net worth fr om known sources from the total increase in 
+net worth to determine the amount from unknown sources. 
+ 
+EXAMPLE 
+ Total increase in net worth $100,000 
+ Increase attributed to known sources <20,000>  
+ Dollars from unknown sources $80,000 
+ 
+Repeat the above steps for subsequent years as necessary.  
+Tracing Illicit Transactions  Investigation 
+3.842   2011 Fraud Examiners Manual  
+EXPENDITURES METHOD 
+The expenditures method (also known as the sources and application of funds method) 
+compares the suspect’s known expenditures and known sources of funds during a given 
+period of time. Any excess expenditures must be the result of income from unknown 
+sources. It is closely related to the net-worth analysis, accounting variations of the same 
+principle. 
+ 
+The table below illustrates the formula used to compute net worth using the expenditures 
+method. The steps are discussed in greater detail below  
+ 
+Expenditures  (Application of Funds)  
+– Known source of funds  
+= Funds from unknown sources  
+ 
+To compute the subject’s net worth using the expenditures method, follow three steps. First, 
+establish the subject’s known expenditures for the relevant year. Expenditures include the 
+use or application of funds for any purpose, including deposits to bank accounts, purchase 
+of major assets, travel and entertainment expenses, and payment of loan and credit card 
+debts. Second, identify all sources of funds available to the subject, including loans and gifts, 
+as well as cash on hand from previous years. Third, compute the difference between the 
+amount of the suspect’s expenditures and his known income to determine the amount 
+attributed to unknown sources. 
+  
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.843 
+EXAMPLE 
+Subject   Year One  Year Two  
+Application of funds:  
+ Increase in bank balance  $2,000 $10,000 
+ Down payment on residence    ——  10,000  
+ Purchase of automobile  10,000  ——— 
+ Mortgage payments  8,000  20,000 
+ Credit card payments  5,000  10,000 
+ Other expenses  15,000  30,000 
+ TOTAL  $40,000 $ 80,000 
+Less: known sources of funds  
+   Cash on hand 1,000  
+   Salary 30,000 38,000 
+   Interest earned on savings  
+   Account 1,000 2,000 
+   Loan proceeds 8,000  
+ TOTAL $40,000 $ 40,000 
+Funds from unk nown or illegal sources   0 $40,000 
+ 
+The following example demonstrates how a net-worth analysis assisted prosecutors in their 
+amended complaint against a fraud suspect. 
+ 
+EXAMPLE 
+R. Peery, age 40, the executive director of a five-state commission planning a low-level 
+radioactive waste dump was charged with two ne w charges of felony theft. Peery was also 
+charged with one federal count of wire fraud. 
+ 
+Peery was accused of wiring $115,000 to a personal account in Georgia, and prosecutors 
+said they suspected him of taking $600,000. He was also charged with  two counts of using 
+commission funds in Nebraska to buy cars, a 1990 BMW valued  at $67,000 and a 
+1991 BMW valued at $92,000. 
+ 
+Peery was paid $52,000 annually. He lived in a house valued at $305,000 and at the 
+time of his arrest had six luxury cars, including Jaguars, Mercedes-Benzes, and BMWs.  
+ 
+Tracing Illicit Transactions  Investigation 
+3.844   2011 Fraud Examiners Manual  
+Bank Deposit Analysis Method 
+The bank deposit analysis method is another method to prove unknown sources of funds by 
+indirect or circumstantial evidence. Like the other indirect methods of proof, the bank 
+deposits method computes income by showing what happened to a subject’s funds. It is 
+based on the theory that if a subject receives money, he can only do two things with it: he 
+can deposit it or he can spend it.  
+ 
+This method is applied when assets and liabilities are fairly constant from year to year and 
+indications of extravagant expenditures are non-existent, but through investigation, the 
+suspect’s known sources of income are being deposited into financial institutions. 
+ 
+Under this method, income is proved through analyzing bank deposits, canceled checks, and 
+the subject’s currency transactions. Adjustments for non-income items are made to arrive at 
+income. A basic formula for the bank deposits method is: 
+ 
+Total Deposits to All Accounts  
+– Transfer and redeposits 
+= Net deposits to all accounts 
++ Cash expenditures 
+= Total receipts from all sources 
+– Funds from known sources 
+= Funds from unknown or illegal sources 
+ 
+The bank deposits method is recommended as a primary method of proof when most of the 
+subject’s income is deposited and the subject’s books and records are unavailable, withheld, 
+incomplete, or maintained on a cash basis. Use of the bank deposits method is not limited to 
+these circumstances, however. Even though the target’s books and records might appear to 
+be complete and accurate, the method can still be used and there is no requirement to 
+disprove the accuracy of the books and records. 
+ 
+The basic sources of information for this analysis include  interviews, analyses of the books 
+and records, and analyses of the bank accounts. A thorough interview will determine the 
+subject’s expenditures by cash and checks, identi fy all bank accounts, and determine all loans 
+and other receipts. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.845 
+Total Deposits 
+Total deposits consist not only of amounts deposited to all bank accounts maintained or 
+controlled by the target but also deposits made to accounts in savings and loan companies, 
+investment trusts, brokerage houses, and credit unions. Total deposits also include the 
+accumulation (increase) of cash on hand. Because some subjects have bank accounts in 
+fictitious names or under special titles, such as “Special Account No. 1,” “Trustee Account,” 
+or “Trading Account,” the investigator should  look for this type of account during the 
+investigation. If a subject lists checks on a deposit ticket and deducts an amount paid to him 
+in cash (split deposit), only the net amount of the deposit should be used in computing  
+total deposits. 
+ 
+Additional items that must be included in deposits are property and notes that the subject 
+received in payment for services. The accepted practice is to consider these items as 
+depositories into which funds have been placed for future use. 
+ 
+Net Deposits 
+All transfers or exchanges between bank accounts as well as funds that are redeposited are 
+non-income items and are subtracted from total deposits to yield net deposits. Failure to 
+eliminate these items would result in an overstatement of income. 
+ 
+Cash Expenditures 
+Cash expenditures consist of the total outlay of funds less net bank disbursements. The total 
+outlay of funds includes all payments made by cash or check. There is no need to determine 
+which part was paid by cash and which part by check. Total outlays include but are not 
+limited to: 
+• Purchase of capital assets to investments (determined from settlement sheets, invoices, 
+statements, and the like) 
+• Loan repayments (determined from loan ledgers of banks or other creditors) 
+• Living expenses (can be determined from the same sources presented in the net worth 
+and expenditures sections) 
+• Purchases, business expenses (less noncash items, such as depreciation), rental expenses, 
+and the like 
+ 
+  
+Tracing Illicit Transactions  Investigation 
+3.846   2011 Fraud Examiners Manual  
+Net bank disbursements can be determined by the following formula: 
+ 
+Net Deposits to All Accounts  
++ Beginning balances 
+= Net bank funds available 
+– Ending balances 
+= Net banking disbursements 
+ 
+Funds from known sources include, but are not limited to salaries, business profits, 
+insurance proceeds, gifts received, loans, and inheritances. Funds from known sources are 
+subtracted from total receipts (or income) to arrive at funds from unknown or  
+illegal sources. 
+ 
+Rebutting Defenses to Indirect Methods of Proof 
+Circumstantial evidence of excess income is often met with the defense that the extra funds 
+came from cash accumulated earlier or from other legitimate sources, such as loans from 
+relatives. To rebut these defenses, the fraud examiner must pin down the amount of cash on 
+hand at the beginning of the relevant period (through, for example, amounts listed on 
+financial statements or claimed in interviews) and do the following: 
+• Obtain a financial history of the target and spouse, through interviews and other means, 
+showing dates and places of employment, salary and bonuses, and any other related 
+income. 
+• Determine whether the spouse had any separate source of funds that were used to 
+purchase jointly held assets or deposited in joint accounts. If so, the spouse must be 
+included in the financial profile calculations. 
+• Claims of a prior substantial cash hoard might be rebutted by showing that the target 
+lived penuriously, borrowed money, made installment purchases, incurred large debts, 
+was delinquent on accounts, had a poor credit rating, or filed for bankruptcy. Claims that 
+cash came from family or other private loans might be rebutted by showing that the 
+alleged lender was incapable of generating the amounts supposedly lent, the absence of 
+any documentation reflecting the source of the alleged loan (no bank account 
+withdrawals), and the absence of other sources of funds available to the lender. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.847 
+The net-worth analysis—if records can be obtai ned—is a significant tool in documenting ill-
+ gotten gains. With this as a basis, the following section covers the major schemes used to 
+commit fraud against companies and governmental agencies. 
+ 
+ 
+
+
+
+:
+
+
+indirect method of trace financi transact
+in contrast to the direct approach method of prove incom which reli on specif
+transact the indirect approach reli on circumstanti proof of incom us such as the
+net worth analysi
+almost all individu and busi entiti determin incom by the specificitem or
+specif transact method most entiti engag in legitim pursuit maintain book
+and record in which thei record transact as thei occur and their incom comput
+ar base upon the total transact dure a given period in fraud examin incom
+can usual be establish more readili by the direct approach for thi reason it should be
+us whenev possibl
+in mani fraud scheme howev a subject book and record ar not made avail to
+the examin therefor an indirect approach must be taken us on of the follow
+method the net worth analysi asset method the expenditur sourc and applic of
+fund method or the bank deposit analysi method although these method ar
+circumstanti proof court have approv their us in civil and crimin case on the theori
+that proof of a subject unexplain fund or properti might establish a prima faci
+understat of incom
+element of financi examin techniqu
+to examin compani book and record for fraud the fraud examin must know and
+understand the environ in which the entiti oper the entiti account system
+includ the type of scheme relev to the entiti and the control that ar design to
+prevent fraud basic conceal method and variou detect techniqu
+the environ
+it is critic to understand the busi or govern environ where the entiti
+oper to understand the environ you must have a firm grasp of the natur of the
+busi the competit the market share the financ structur the vendor supplier
+major custom the method of receipt ie cash or on account and disburs the
+procur method ie whether good and servic ar obtain through a bid
+process or not the gener econom climat and the personnel pool avail to the entiti
+it is through the understand of the entiti as an oper enterpris that you can assess
+the risk associ with the particular oper the risk and peculiar of the entiti
+trace illicit transact investig
+3830 2011 fraud examin manual
+will help shape the natur of potenti fraud scheme that can be perpetr by the entiti
+employe
+the account system
+understand the basic account system and it integr with the oper of the
+busi is import the basic account system includ the system of intern
+control is the kei element in provid evid of past present and futur intern fraud
+intern fraud that is onbook will appear within the entiti financi record the audit trail
+might be obscur but it will exist nonetheless if the intern fraud is offbook then other
+evid might with dilig fraud examin techniqu be uncov
+all intern fraud ha an impact on the bottom line howev fraud in small amount will be
+harder to detect becaus of it immateri amount rel to the financi statement as a
+whole if an intern fraud scheme is larg enough it will have an effect on the entiti
+financi statement
+variou detect techniqu
+though there ar mani fraud detect method whatev method is emploi will usual
+requir the examin of sourc document mani time these sourc document provid
+the evid necessari to prove fraud in a court of law addition in mani case the
+sourc document will help establish the intent of the fraud offend
+individu or group of document can be examin in sever wai to detect possibl fraud
+becaus most intern fraud is continu in natur group of document can be analyz
+for except and trend mani time a larg popul must be sampl to determin
+with statist valid if document have been alter statist sampl quantifi the risk
+of arriv at an incorrect conclus it is gener necessari with larg popul
+exampl
+fraud examin want to examin sale invoic for proper approv in a compani with 2
+billion in annual sale the averag sale inv oic is 15000 by select a valid statist
+sampl of sale the examin can project the effect of intern control regard the
+approv of the sale invoic assum proper interpret of test result if defici exist
+in the control then those result should becom appar in the test result
+investig trace illicit transact
+2011 fraud examin manual 3831
+statist sampl
+if an anomali is found in the financi statement and transact and further investig
+is desir it might be appropri to pull a statist sampl by us statist sampl
+the examin can look at fewer transact rather than the entir popul
+there ar two basic risk associ with statist sampl sampl risk and nonsampl
+risk sampl risk is the probabl that the sampl is not repres of the popul
+nonsampl risk is the possibl of make the wrong decis nonsampl risk cannot be
+quantifi howev fraud examin can control it through adequ plan and
+supervis of audit engag
+when us statist sampl you must draw a random sampl that is each member of
+the popul must have an equal chanc of be select there ar two primari type of
+statist sampl attribut and discoveri
+sampl for attribut
+sampl for attribut is us by auditor or fraud examin look for a deviat
+occurr rate deviat error and except ar synonym when perform thi type of
+sampl you ar look for the presenc or absenc of a defin condit
+exampl
+for each sale invoic in the sampl is there a correspond ship order the answer to the
+question can onli be ye or no if the control condit is that each sale invoic is not
+record until there ha been a ship order attach then ani no respons for a book
+sale would repres an error
+discoveri sampl
+thi is the best type of sampl for audit for fraud becaus it is sampl until on
+occurr is found discoveri sampl deal with the probabl of discov at least
+on error in a given sampl size if the popul error is a certain percentag thi type of
+sampl is direct toward a specif object such as
+exampl
+if i believ some kind of error or irregular might exist in the record what sampl size will i have to
+audit to have assur of find at least on exampl
+trace illicit transact investig
+3832 2011 fraud examin manual
+discoveri sampl is best us when look for thing such as forg check or
+intercompani sale that have been improperli classifi as sale to outsid
+random sampl
+when us the discoverysampl techniqu the select of sampl should be done
+randomli for a sampl to be random everi member of the popul must have an equal
+opportun of be select
+item in the popul can be number and select by refer to a random number
+tabl or if the item in the popul alreadi have number such as check number or
+invoic number then a random sampl can be select by us a random number
+gener from a comput softwar program to select a random sampl 1 identifi a
+number for everi item in the popul 2 correspond the random number with each
+item in the popul 3 select the rout through the random number tabl and 4 select
+the sampl
+addition make sure that you consist follow the pattern pick for correspond
+random number to item in the popul and that you document the random number
+select process in the event the sampl need recheck or addit sampl item need
+to be select for test if the sampl is select randomli and the sampl is larg enough
+then the sampl should repres the popul
+document
+fraud will often be conceal in question document miss or alter document ar
+some of the princip indic of fraud and such occurr should be thoroughli
+investig certain document ar a natur part of the account system howev when
+a pattern of these document occur or an unusu quantiti of these document is note
+further examin might be warrant
+the commonsens test should be appli to ani document that appear to have
+question featur under the circumst such as amount too high or too low odd
+name time and place and ident name and address fraud can often involv
+question journal entri in the record such as inappropri charg to expens
+account or inventori for exampl larg journal entri in the inventori account near the
+end of the year might point to a coverup of inventori theft
+investig trace illicit transact
+2011 fraud examin manual 3833
+an overabund number of void might mean that a fraudster is void legitim sale
+and pocket the proce excess credit memo might also signal the revers of
+legitim sale and the divers of cash too mani late charg might indic that an
+account receiv is delinqu becaus it is a fictiti account and therefor will never be
+paid stale item on ani reconcili bear watch for exampl stale outstand check
+mai indic attempt conceal of embezzl loss or divert cash origin
+document such as invoic should be us to author transact becaus photocopi
+or duplic document can be subject to manipul and alter
+networth method
+examin for fraud not onli involv the examin of the entiti book and record it
+might also entail the estim of the fraud suspect chang in net worth or expenditur
+if fraud is suspect then us either of the networth method might help in establish
+evid of a fraud
+the networth method or compar networth analysi is us to prove illicit incom
+circumstanti by show that a person asset or expenditur for a given period exce
+that which can be account for from known or admit sourc of incom the networth
+method is a reliabl method for estim a person illgotten gain the method is us
+extens by the intern revenu servic especi in drug and monei launder case
+the networth method reli on the familiar balanc sheet format readili recogniz in the
+busi world and present a complet financi pictur of a subject it is base on the
+theori that increas or decreas in a person net worth dure a period adjust for live
+expens allow a determin of incom
+net worth can be defin as the differ between asset and liabil at a particular point in
+time by compar the subject net worth at the begin and end of a period usual a
+calendar year the econom crime investig can determin the increas or decreas in net
+worth adjust ar then made for live expens to arriv at incom incom includ
+receipt deriv from all sourc thu by subtract fund from known sourc salari
+wage interest or dividend for exampl fund from unknown or illeg sourc can
+be calcul
+the court approv us the networth method in the lead suprem court case of
+holland v unit state 348 us 121 1954 along with the three companion case smith v
+trace illicit transact investig
+3834 2011 fraud examin manual
+unit state 348 us 147 1954 friedberg v unit state 348 142 1954 and unit state v
+calderon 348 us 160 1954 these case outlin broad principl to govern the trial and
+review of case base on the networth method of prove incom
+the networth method is often us when sever of the subject asset or liabil have
+chang dure the period under examin and when the target financi record ar not
+avail
+an individu asset liabil and live expens can be determin from a varieti of
+sourc such as
+the subject
+inform or sourc
+real estat record
+judgment and lien record
+bankruptci record
+state motor vehicl record
+loan applic
+financi statement
+account work paper
+lawsuit and deposit
+surveil
+credit card applic or statement
+tax return
+insur record
+child support and divorc record
+employ applic and salari check
+companion or associ
+cancel check and deposit item
+the question might aris regard why item that do not chang should be includ in the
+networth statement particularli sinc thei have no bear on the final result the answer is
+that a networth statement give a complet financi pictur of the subject and therefor
+should be as complet as possibl so that the target will not be abl to contest it on the
+ground that item were omit addition the networth statement can be the
+foundat for examin of the subject and a complet statement will prove extrem
+valuabl at that time
+investig trace illicit transact
+2011 fraud examin manual 3835
+there ar two basic method of networth comput the asset method and the expenditur
+or sourc and applic of fund method thei ar discuss in detail herein
+the asset method should be us when the subject ha invest illeg fund to accumul
+wealth and acquir asset caus net worth valu of asset over liabil to increas from
+year to year the expenditur method is best us when the subject spend illicit incom on
+consum such as travel and entertain that would not caus an increas in
+net worth
+each method ha similar step begin both method by assembl the financi and
+behavior profil identifi all major asset and liabil sourc of incom and major
+expens dure the relev period the increas if ani in the subject net worth or the
+level of expenditur is then compar to the legitim fund avail unaccount fund
+might be infer to come from illicit or hidden sourc
+the financi profil
+the first step is to prepar the financi profil of the suspect the financi profil is
+essenti a financi statement with certain modif and addit that show what the
+defend own ow earn and spend at ani given point or over a period of time the
+profil might yield direct evid of illeg incom or hidden asset or circumstanti
+evid thereof by show that the suspect expenditur exceed known sourc of
+incom
+the financi profil will identifi most illicit fund that ar deposit to account or
+expend in signific amount it will not catch rel small currenc transact
+particularli if thei were for conceal activ consum or for unusu onetim
+expens such as medic bill
+determin the target asset liabil incom and expens from the follow sourc
+interview
+the target
+associ
+document from financi sourc eg account banker
+bank account record
+mortgag and loan file
+credit card record
+trace illicit transact investig
+3836 2011 fraud examin manual
+tax return
+public record
+busi file
+real estat file
+court record
+to prepar the financi profil follow the follow six step
+step 1
+identifi all signific asset held by the suspect an asset is cash on hand or anyth els
+of valu that can be convert into cash
+cash on hand is coin and currenc bill coin feder reserv note in the subject
+possess on the subject person in the subject s resid or other place in a nomine
+hand or in a safedeposit box it doe not includ monei in ani account with a financi
+institut when us the networth method the item that mai be the most difficult to
+verifi is the amount of cash on hand which is usual claim by defend to be suffici
+to account for all or part of the unknown sourc of incom to establish a firm start net
+worth it must be shown that the target had no larg cash sum for which he wa not given
+credit thi is usual done by offer evid that negat the exist of a cash hoard
+such evid might includ
+written or oral admiss of the subject concern net worth a sign networth
+statement or an oral statement as to cash on hand
+low earn in preexamin year as shown by record of former employ
+andor tax return file by subject
+net worth as establish by book and record of the subject
+financi statement present for credit or other purpos at a time befor or dure the
+period under examin bank loan compani and bond compani ar some of
+the better sourc from which to obtain thi type of document
+bankruptci befor examin period
+prior indebted compromis of overdu debt and avoid of bankruptci
+instal bui
+histori of low earn and expenditur and check return for insuffici fund a
+financi histori cover member of the subject famili also might be help
+loss of furnitur and busi becaus of financi reason
+receipt of some type of public assist
+investig trace illicit transact
+2011 fraud examin manual 3837
+step 2
+identifi all signific liabil a liabil is an oblig debt aris from an oral or
+written promis to pai
+step 3
+identifi all incom sourc dure the relev time period incom includ monei or other
+thing of valu receiv in exchang for servic or good incom is never includ as an
+asset loan proce ar not includ as incom but ar treat as an asset that is offset by a
+correspond liabil
+step 4
+identifi all signific expens incur dure the relev period an expens is ani
+payment for consum for person or busi reason over the relev time period
+expens ar not includ as liabil
+step 5
+analyz the inform you have collect by us the follow chart
+the financi profil
+typic asset for each signific asset determin
+resid
+real estat
+bank account
+stock and
+bond
+automobil
+insur
+cash on hand
+jewelri
+cloth
+collect
+pension
+home
+furnish
+boat
+when wa it acquir and from whom
+how much did it cost
+how wa it paid for currenc check cashier
+check
+what sourc of fund wa us to acquir it
+what document exist for the purchas and
+where is it
+typic liabil for each signific liabil determin
+mortgag
+other loan
+line of credit
+credit card
+instal purchas
+account payabl
+what wa the origin amount of the liabil
+what is the present balanc due
+when wa the liabil incur
+what wa the purpos for the loan or debt
+how were the proce us and where were thei
+deposit
+trace illicit transact investig
+3838 2011 fraud examin manual
+tax and other bill
+alimoni and child support
+what secur collater if ani wa given for the
+debt
+what document exist for the transact and
+where is it
+wa the debt written off as a bad loan for tax
+purpos
+who wa the creditor or lender
+typic sourc of fund
+for each sourc of fund determin
+salari
+gift
+rental incom
+dividend
+interest
+sale of asset
+insur
+proce
+commiss
+and fee
+award
+inherit
+disabl
+payment
+what wa the total amount dure a given period
+what wa the sourc
+how wa it paid for currenc check other mean
+when were the fund receiv
+where wa it deposit
+how wa it spent
+what document exist eg w2 or 1099
+form and where is it
+typic expenditur
+for each major expenditur item determin
+rent and
+mortgag
+health cost
+interest on
+loan
+credit card
+car payment
+travel
+cloth
+util
+food
+insur
+what wa the total amount spent
+how wa it paid for
+where were the fund obtai ned to pai the expens
+what document exist and where is it
+when wa the payment made
+the behavior profil
+the financi profil might give inaccur or fals neg read unless certain activ
+ar identifi which is done through prepar the behavior profil the behavior profil
+might also provid evid of a possibl motiv of the crime such as larg debt as well as
+addit evid of illicit fund for exampl if the suspect spent signific amount of
+cash and had no correspond cash withdraw from hi disclos bank account or no
+admit sourc of cash incom he must have other undisclos sourc of incom
+investig trace illicit transact
+2011 fraud examin manual 3839
+us the financialbehavior profil as a guid request an interview with the suspect pin
+down the suspect incom asset and account otherwis the subject might invent
+excus or prepar fals testimoni or document to account for the unexplain incom
+networth analysi
+ani recipi of fund whether honest or suspect ha onli four wai of dispos of
+incom save it bui asset pai off debt or spend it
+networth analysi begin with the complet of a suspect financi profil through
+identif of the suspect asset liabil incom and expens a networth statement
+can be determin onc a networth statement is complet through the identif of a
+suspect asset liabil incom and expens chang in the suspect net worth can be
+compar to hi known incom and differ can be infer to be from unknown
+sourc
+compar net worth asset method
+again the asset method is advis when it is suspect that the subject ha purchas
+asset or otherwis increas hi net worth it can be appli for ani number of year but
+ideal it is best to start with the year befor the suspect fraudul activ began the
+formula is
+asset
+liabil
+net worth
+prior year net worth
+net worth increas
+live expens
+incom or expenditur
+fund from known sourc
+fund from unknown sourc
+in comput the compar net worth these issu should be consid
+all asset should be valu at cost not fair market valu subsequ appreci or
+depreci of asset is ignor
+the amount of fund avail to the subject from legitim sourc should be
+estim or comput gener the amount of the subject expenditur
+trace illicit transact investig
+3840 2011 fraud examin manual
+particularli hardtodocu live cost such as food and entertain should be
+estim conserv to give the subject the benefit of ani doubt in attempt to
+estim person live expens you should consult the us bureau of labor statist
+thi agenc publish an annual tabl that detail person live expens such as
+util food and ga
+alwai attempt to interview the subject to identifi all alleg sourc of fund and to
+negat defens that he might rais later
+to comput the compar net worth us the asset method perform the follow step
+establish the start point gener the year befor the target illeg activ begin
+thi will be refer to as year on in the follow comput
+comput the target net worth at the end of year on identifi all asset held by the
+subject valu at cost includ asset acquir earlier and the amount of current
+liabil
+the differ between the valu of the asset and the liabil is the target net worth at
+year on or open net worth
+exampl
+year on
+asset at cost liabil
+resid 100000 mort gage balanc 90000
+stock and bond 30000 automobil loan
+automobil 20000 balanc 10000
+total 150000 total 100000
+asset 150000
+liabil 100000
+net worth 50000
+comput the target net worth for year two us the same method
+investig trace illicit transact
+2011 fraud examin manual 3841
+exampl
+year two
+asset at cost liabil
+resid 100000 mortgag balanc 50000
+stock and bond 30000
+automobil 20000 automobil loan
+cd 50000 balanc 0
+total 200000 total 50000
+asset 200000
+liabil 50000
+net worth 150000
+note that in the exampl the target net wo rth increas by 100000 dure year two
+to determin the sourc of such an increas determin the target known incom
+dure year two and subtract known expens for year two
+exampl
+year two
+incom expens
+salari 30000 mortgag interest
+payment
+20000
+commiss 20000 live expens 10000
+total 50000 total 30000
+the differ between the target incom and expens equal the increas or decreas in
+net worth from year on to year two which can be attribut to known sourc here it is
+20000 subtract the increas in net worth fr om known sourc from the total increas in
+net worth to determin the amount from unknown sourc
+exampl
+total increas in net worth 100000
+increas attribut to known sourc 20000
+dollar from unknown sourc 80000
+repeat the abov step for subsequ year as necessari
+trace illicit transact investig
+3842 2011 fraud examin manual
+expenditur method
+the expenditur method also known as the sourc and applic of fund method
+compar the suspect known expenditur and known sourc of fund dure a given
+period of time ani excess expenditur must be the result of incom from unknown
+sourc it is close relat to the networth analysi account variat of the same
+principl
+the tabl below illustr the formula us to comput net worth us the expenditur
+method the step ar discuss in greater detail below
+expenditur applic of fund
+known sourc of fund
+fund from unknown sourc
+to comput the subject net worth us the expenditur method follow three step first
+establish the subject known expenditur for the relev year expenditur includ the
+us or applic of fund for ani purpos includ deposit to bank account purchas
+of major asset travel and entertain expens and payment of loan and credit card
+debt second identifi all sourc of fund avail to the subject includ loan and gift
+as well as cash on hand from previou year third comput the differ between the
+amount of the suspect expenditur and hi known incom to determin the amount
+attribut to unknown sourc
+investig trace illicit transact
+2011 fraud examin manual 3843
+exampl
+subject year on year two
+applic of fund
+increas in bank balanc 2000 10000
+down payment on resid 10000
+purchas of automobil 10000
+mortgag payment 8000 20000
+credit card payment 5000 10000
+other expens 15000 30000
+total 40000 80000
+less known sourc of fund
+cash on hand 1000
+salari 30000 38000
+interest earn on save
+account 1000 2000
+loan proce 8000
+total 40000 40000
+fund from unk nown or illeg sourc 0 40000
+the follow exampl demonstr how a networth analysi assist prosecutor in their
+amend complaint against a fraud suspect
+exampl
+r peeri ag 40 the execut director of a fivest commiss plan a lowlevel
+radioact wast dump wa charg with two ne w charg of feloni theft peeri wa also
+charg with on feder count of wire fraud
+peeri wa accus of wire 115000 to a person account in georgia and prosecutor
+said thei suspect him of take 600000 he wa also charg with two count of us
+commiss fund in nebraska to bui car a 1990 bmw valu at 67000 and a
+1991 bmw valu at 92000
+peeri wa paid 52000 annual he live in a hous valu at 305000 and at the
+time of hi arrest had six luxuri car includ jaguar mercedesbenz and bmw
+trace illicit transact investig
+3844 2011 fraud examin manual
+bank deposit analysi method
+the bank deposit analysi method is anoth method to prove unknown sourc of fund by
+indirect or circumstanti evid like the other indirect method of proof the bank
+deposit method comput incom by show what happen to a subject fund it is
+base on the theori that if a subject receiv monei he can onli do two thing with it he
+can deposit it or he can spend it
+thi method is appli when asset and liabil ar fairli constant from year to year and
+indic of extravag expenditur ar nonexist but through investig the
+suspect known sourc of incom ar be deposit into financi institut
+under thi method incom is prove through analyz bank deposit cancel check and
+the subject currenc transact adjust for nonincom item ar made to arriv at
+incom a basic formula for the bank deposit method is
+total deposit to all account
+transfer and redeposit
+net deposit to all account
+cash expenditur
+total receipt from all sourc
+fund from known sourc
+fund from unknown or illeg sourc
+the bank deposit method is recommend as a primari method of proof when most of the
+subject incom is deposit and the subject book and record ar unavail withheld
+incomplet or maintain on a cash basi us of the bank deposit method is not limit to
+these circumst howev even though the target book and record might appear to
+be complet and accur the method can still be us and there is no requir to
+disprov the accuraci of the book and record
+the basic sourc of inform for thi analysi includ interview analys of the book
+and record and analys of the bank account a thorough interview will determin the
+subject expenditur by cash and check identi fy all bank account and determin all loan
+and other receipt
+investig trace illicit transact
+2011 fraud examin manual 3845
+total deposit
+total deposit consist not onli of amount deposit to all bank account maintain or
+control by the target but also deposit made to account in save and loan compani
+invest trust brokerag hous and credit union total deposit also includ the
+accumul increas of cash on hand becaus some subject have bank account in
+fictiti name or under special titl such as special account no 1 truste account
+or trade account the investig should look for thi type of account dure the
+investig if a subject list check on a deposit ticket and deduct an amount paid to him
+in cash split deposit onli the net amount of the deposit should be us in comput
+total deposit
+addit item that must be includ in deposit ar properti and note that the subject
+receiv in payment for servic the accept practic is to consid these item as
+depositori into which fund have been place for futur us
+net deposit
+all transfer or exchang between bank account as well as fund that ar redeposit ar
+nonincom item and ar subtract from total deposit to yield net deposit failur to
+elimin these item would result in an overstat of incom
+cash expenditur
+cash expenditur consist of the total outlai of fund less net bank disburs the total
+outlai of fund includ all payment made by cash or check there is no need to determin
+which part wa paid by cash and which part by check total outlai includ but ar not
+limit to
+purchas of capit asset to invest determin from settlement sheet invoic
+statement and the like
+loan repay determin from loan ledger of bank or other creditor
+live expens can be determin from the same sourc present in the net worth
+and expenditur section
+purchas busi expens less noncash item such as depreci rental expens
+and the like
+trace illicit transact investig
+3846 2011 fraud examin manual
+net bank disburs can be determin by the follow formula
+net deposit to all account
+begin balanc
+net bank fund avail
+end balanc
+net bank disburs
+fund from known sourc includ but ar not limit to salari busi profit
+insur proce gift receiv loan and inherit fund from known sourc ar
+subtract from total receipt or incom to arriv at fund from unknown or
+illeg sourc
+rebut defens to indirect method of proof
+circumstanti evid of excess incom is often met with the defens that the extra fund
+came from cash accumul earlier or from other legitim sourc such as loan from
+rel to rebut these defens the fraud examin must pin down the amount of cash on
+hand at the begin of the relev period through for exampl amount list on
+financi statement or claim in interview and do the follow
+obtain a financi histori of the target and spous through interview and other mean
+show date and place of employ salari and bonus and ani other relat
+incom
+determin whether the spous had ani separ sourc of fund that were us to
+purchas jointli held asset or deposit in joint account if so the spous must be
+includ in the financi profil calcul
+claim of a prior substanti cash hoard might be rebut by show that the target
+live penuri borrow monei made instal purchas incur larg debt
+wa delinqu on account had a poor credit rate or file for bankruptci claim that
+cash came from famili or other privat loan might be rebut by show that the
+alleg lender wa incap of gener the amount supposedli lent the absenc of
+ani document reflect the sourc of the alleg loan no bank account
+withdraw and the absenc of other sourc of fund avail to the lender
+investig trace illicit transact
+2011 fraud examin manual 3847
+the networth analysisif record can be obtai nedi a signific tool in document ill
+gotten gain with thi as a basi the follow section cover the major scheme us to
+commit fraud against compani and government agenc

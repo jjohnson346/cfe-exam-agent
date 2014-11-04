@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following is the main purpose of net-worth analysis?
+
+Options=To prove that assets equal liabilities plus equity | To prove illicit income, circumstantially, by showing that the suspect's assets or expenditures exceed his admitted sources of income | To prove that a suspect's actions have caused a decrease in the victim's net worth | None of the above
+
+CorrectResponse=1
+
+Explanation=The net-worth method (or comparative net-worth analysis) is used to prove illicit income circumstantially, by showing that a person's assets or expenditures for a given period exceed that which can be accounted for from known or admitted sources of income. The net-worth method is a reliable method for estimating a person's ill-gotten gains.See page(s) 3.833 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=An immunity order protects a witness from:
+
+Options=Civil prosecution | Criminal prosecution | Civil and criminal prosecution | None of the above
+
+CorrectResponse=1
+
+Explanation=An immunity order protects a witness only from prosecution for past crimes about which his testimony is compelled; other, undiscovered crimes are not covered, nor is the witness immune from prosecution for perjury based on the immunized testimony. Such testimony also may be used against the witness in a civil proceeding.See page(s) 2.507 in the Fraud Examiner's Manual

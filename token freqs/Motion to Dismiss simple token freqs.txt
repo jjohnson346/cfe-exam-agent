@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+opposing                               1
+to                                     3
+other                                  2
+argues                                 1
+party                                  2
+because                                1
+allegations                            1
+lawsuit                                1
+throw                                  1
+are                                    1
+words                                  1
+judge                                  1
+asks                                   1
+if                                     1
+taken                                  1
+motion                                 3
+legally                                1
+argument                               1
+entitled                               1
+unsound                                1
+is                                     2
+a                                      1
+true                                   1
+as                                     1
+the                                    5
+in                                     1
+not                                    1
+that                                   1
+anything                               1
+even                                   1
+this                                   1
+dismiss                                1
+out                                    1
+
+Totals:                     33        44

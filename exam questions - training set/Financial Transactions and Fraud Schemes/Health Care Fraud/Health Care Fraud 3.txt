@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The greatest weakness within an insurance or health care Electronic Data Interchange (EDI) system is that in the prosecution, a defendant may assert that the claim was mishandled by the health care company.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The greatest weakness within an EDI system is that in the prosecution, a defendant may claim that he/she did not enter the claim or that the claim was mishandled by the health care company. Thus, a health care company must maintain the integrity of its electronic records. The health care company must have in place several ways to uncover fraud, from automatic red flags to intricate fraud analysis programs that pick up on familiar patterns, which may ultimately lead to fraud.See page(s) 1.1251 in the Fraud Examiner‰??s Manual

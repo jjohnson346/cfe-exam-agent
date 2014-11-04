@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Cash larceny is the removal of cash from a victim entity prior to its entry in an accounting system.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Skimming is the removal of cash from a victim entity prior to its entry in an accounting system. Cash larceny schemes involve the theft of money that has already appeared on a victim company's books.See page(s) 67. 100 in the Corporate Fraud Handbook

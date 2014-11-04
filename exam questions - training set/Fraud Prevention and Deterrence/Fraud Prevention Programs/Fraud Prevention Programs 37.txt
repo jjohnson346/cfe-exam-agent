@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=It should be the compliance officer's duty to help measure the effectiveness of the compliance program.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The compliance officer or compliance committee should have sufficient authority to ensure that standards are strictly adhered to. This person or persons will also serve to resolve questions about the program and to help measure its effectiveness.See page(s) 4.712 in the Fraud Examiner's Manual

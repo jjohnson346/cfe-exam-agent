@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The items on telescammers best-seller lists, which are sold as valuable but are essentially worthless, include:
+
+Options=Coins | Civil War memorabilia | Figurines | All of the above
+
+CorrectResponse=3
+
+Explanation=Collectibles and household decorative items such as vases, bric-a-brac, and figurines are also commonly hawked by telemarketers. These supposedly valuable objects are nothing more than cheap, shoddy merchandise. War memorabilia is especially popular, particularly items related to the Civil War and World War II. Documents and keepsakes from any bygone era are on the fraudulent telemarketer‰??s best-seller list. Stamps are sold as rare when they are in fact worthless. Coins are another prime money-maker for telemarketers. ‰??Certificates of authenticity" and "appraisals" are included with the merchandise to reassure customers, but these documents are usually produced by the sales company or doctored from a legitimate original.See page(s) 1.1723 in the Fraud Examiner‰??s Manual

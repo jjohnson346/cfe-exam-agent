@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=The following statements describe some of the elements of a "false statement" as defined by Title 18. U.S. Code, Section 1001. However, one statement is incorrect. Which statement is incorrect?
+
+Options=The false statement need not be made directly to the governmental agency | The government must prove that it suffered a loss | The false statement can be oral or in writing | The government must prove that the statement was material
+
+CorrectResponse=1
+
+Explanation=Under Title 18, U.S. Code. Section 1001, a false statement can be oral, written, sworn or unsworn, and signed or unsigned. The person must make the false statement "knowingly and willfully,0 which is satisfied by showing that the person acted deliberately and with knowledge that the representation v/as false. Concealment by failure to fully disclose required information is also a violation. The statement need not be made directly to the government; it can be made to a third party as long as it involves a matter within the jurisdiction of any governmental department or agency. The statement must be material, but there is no requirement that the government suffer an actual loss. The materiality of the false statement is judged by the capability of the statement to influence government action.See page(s) 1.1912 in the Fraud Examiner‰??s Manual

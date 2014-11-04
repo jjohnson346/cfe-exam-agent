@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=During a telemarketing scam, if other methods do not appease a caller, the fraudster often turns to intimidation and threats.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If obfuscation and consolation prizes fail to appease the caller, the con turns to threats and intimidation. This is a favorite method for dealing with senior citizens, especially elderly women. Threats are used not just to keep customers from filing complaints, but to cajole more money out of them. Some telemarketers have actually threatened callers' personal safety if they refused to pay.See page(s) 1.1714 in the Fraud Examiner‰??s Manual

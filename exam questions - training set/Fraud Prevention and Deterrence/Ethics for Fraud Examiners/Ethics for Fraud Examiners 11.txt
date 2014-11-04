@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A Certified Fraud Examiner is required, at a minimum, to maintain the average of 20 hours of continuing professional education annually. At least half of that education must relate directly to the detection or deterrence of fraud. If a Certified Fraud Examiner fails to do so, he or she will be in violation of the Certified Fraud Examiner Code of Professional Ethics.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Article VIII of the Certified Fraud Examiner Code of Professional Ethics states "A CFE shall continually strive to increase the competence and effectiveness of professional services performed under his or her direction." If the Certified Fraud Examiner fails to maintain the required continuing professional education, he or she is in violation of Article VIII of the Code.See page(s) 4.1001 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=When preparing to conduct an interview, the examiner should generally NOT:
+
+Options=Prepare a list of all questions to be asked of the witness | Interview one witness at a time | Review all documents and related material before contacting the witness | Have a clear notion of what principal points should be covered during the interview
+
+CorrectResponse=0
+
+Explanation=Whenever possible, do not write down a list of interview questions. Let the interview flow freely. Inadvertently allowing the respondent to read a written list of questions can provide an opportunity to fabricate an answer. However, writing down key points the interviewer wants to discuss might be appropriate.See page(s) 3.213 in the Fraud Examiner's Manual

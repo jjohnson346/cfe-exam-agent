@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=How many people serve on a typical grand jury?
+
+Options=Always 12 people | 30 to 45 people | 16 to 23 people | Either 6 or 12, depending on the jurisdiction
+
+CorrectResponse=2
+
+Explanation=The grand jury consists of 16 to 23 people sworn as jurors who meet in secret deliberation usually in biweekly or monthly sessions to hear witnesses and other evidence presented by prosecutors and to vote on indictments. An indictment or true bill must be concurred in by at least 12 jurors voting without the prosecutor present.See page(s) 2.506 in the Fraud Examiner's Manual

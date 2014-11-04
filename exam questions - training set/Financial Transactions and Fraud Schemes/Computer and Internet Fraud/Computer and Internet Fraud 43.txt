@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=The most direct way of gaining access to a computer is to
+
+Options=Use a trap door | Use a logic bomb | Use a Trojan horse | Use an authorized person's password
+
+CorrectResponse=3
+
+Explanation=The most direct way of gaining access to a computer is to use someone else‰??s password or to generate (without authorization) a password of one's own. Passwords are designed to keep computers safe. If you don't know the password, the machine won't run. However, most users choose passwords which, while not easy to crack, follow certain patterns. People usually pick something familiar and easy as their password. A deep-sea fisherman uses "marlin"; the man's secretary, who received a mug about "soaring with the eagles and working with turkeys" from her boss last Christmas, uses "turkey" as her password. There are lists circulated among hackers of the most likely passwords.See page(s) 1.1806 in the Fraud Examiner's Manual

@@ -1,0 +1,20 @@
+1.  PorterStemmer - utilize the porter stemmer component in the financial.fraud.cfe.util package.  (Although 
+it is present, it is not currently being used, or at least it does not appear to be consulting
+the Call Hierarchy in Eclipse.)  There is some stemming going on in other places in the system,
+such as in the financial.fraud.cfe.util.TokenizerSimple class.  Replace that logic with a call
+to the stem() method of PorterStemmer.  Note that the PorterStemmer class appears easy to use,
+and the main() method of the class shows an example of its usage.
+
+2.  FeatureHasLongOptions - Play with the long words threshold of the FeatureHasLongOptions to optimize
+the effectiveness of this feature.  Currently, the threshold is at 4.  Is this the optimal value?
+
+3.  FeatureDefinition - Are there other key words/phrases that should be used to identify a question 
+as a definition question (FeatureDefinition.exists() returns true()) besides the ones currently being 
+used (which are "is also known as", "is referred to as", "is called".?
+
+4.  FeatureTrueFalseAbsolute - Are there other key words/phrases that should be used to identify a 
+question as a true/false absolute question, (FeatureTrueFalseAbsolute.exists() returns true()).
+Current key words are "must", "only", "never", "always", I believe.  
+
+5.  MaxFrequency/MaxFreqPlus - Modify MaxFrequency/MaxFreqPlus to incorporate stemming, and account for 
+all of the above and none of the above options.

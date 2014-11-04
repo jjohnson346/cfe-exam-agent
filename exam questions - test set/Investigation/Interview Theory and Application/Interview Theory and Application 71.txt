@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Blue, a Certified Fraud Examiner, was interviewing Green, a fraud suspect. When Blue asked pertinent questions, Green would frequently repeat the question. One main reason Green would do this is because he is attempting to:
+
+Options=Gain time to frame his answer | Frustrate Blue and end the interview | Ensure he understands the question | None of the above
+
+CorrectResponse=0
+
+Explanation=Repeating the question is another means for the deceiver to gain time to frame his ansv/er. The question may be repeated verbatim, or the respondent may frame the answer with a request to repeat the question. Example: "What did you say, again?" or "Are you asking me if I took kickbacks?" A truthful subject usually does not have to contemplate his answer.See page(s) 3.239 in the Fraud Examiner's Manual

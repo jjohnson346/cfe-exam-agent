@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=As a general rule, the more intelligent the witness, the less reliable his or her behavior symptoms will be.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=As a general rule, the more intelligent the respondent, the more reliable verbal and nonverbal clues will be. If the respondent is biased toward the interviewer, or vice versa, this will affect behavior. People who are mentally unstable, or are under the influence of drugs, will be unsuitable to interview. Behavior symptoms of juveniles are generally unreliable Racial, ethnic, and economic factors should be carefully noted. Some cultures, for example, discourage looking directly at someone. Other cultures use certain body language that might be misinterpreted. Because professional pathological liars often are familiar with interview techniques, they are less likely to furnish observable behavioral clues.See page(s) 3.239 in the Fraud Examiner's Manual

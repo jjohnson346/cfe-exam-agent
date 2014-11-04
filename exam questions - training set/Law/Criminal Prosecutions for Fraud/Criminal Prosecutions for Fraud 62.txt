@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=An appellate court will reverse the conviction of a criminal defendant based on any reasonable error in the records.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=An appellate court will not reverse a conviction unless it finds error which affected the "substantial rights'‰?? of the defendant; "harmless error," not affecting the jury's decision, is tolerated.See page(s) 2.528 in the Fraud Examiner's Manual

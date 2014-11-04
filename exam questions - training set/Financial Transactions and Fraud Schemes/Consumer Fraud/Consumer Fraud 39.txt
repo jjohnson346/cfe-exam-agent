@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=A pyramid is designed to initially pay off to its "investors."
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The pyramid is built to overcome people‰??s most common misgivings about investment. Promoters offer far more than an ‰??undertaking of great advantage, nobody to know what it is.‰?? They are very specific in their prospectus. The offer sounds good and (within its own logic) makes sense. The ‰??opportunity- is usually pitched by someone familiar to the victim, or at least by someone with an affinity the victim trusts. Most importantly, the pyramid does return people s money, with the incredible profits attached as promised.See page(s) 1.1749 in the Fraud Examiner‰??s Manual

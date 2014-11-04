@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=SEC Staff Accounting Bulletin (SAB) Topic 13, Revenue Recognition, states that revenue is generally realized or realizable and earned when certain criteria are met. Which of the following is NOT one of these criteria?
+
+Options=The seller's price to the buyer is fixed or determinable | Persuasive evidence of an arrangement exists | Collectability is reasonably assured | Delivery of goods or services has occurred or is to occur within 30 days
+
+CorrectResponse=3
+
+Explanation=Generally speaking, revenue is recognized when it is 1) realized or realizable and 2) earned. The Securities and Exchange Commission issued Staff Accounting Bulletin Topic 13, Revenue Recognition, to provide additional guidance on revenue recognition criteria and to rein in some of the inappropriate practices that had been observed. The guidance states that revenue is typically considered realized or realizable and earned when all of the following criteria are met:Persuasive evidence of an arrangement exists;Delivery has occurred or services have been rendered;The seller’s price to the buyer is fixed or determinable; and Collectability is reasonably assured.See page(s) 1.310 in the Fraud Examiner's Manual

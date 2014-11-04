@@ -1,0 +1,15 @@
+Section=Check and Credit Card Fraud
+
+Stem=A customer buys a big screen television. Although the store offers free delivery and can deliver the TV that afternoon, the customer insists on taking the television with him. In fact, he has a U-Haul trailer in the parking lot, ready to go. The customer is paying by credit card. As the security manager of the store, which of the following do you think is the most likely scenario?
+
+Options=The customer does not want his wife to know about his purchase | The customer is laundering money | The customer is probably paying for the item with a counterfeit or stolen credit card | The customer wants to watch a big game right away on television	
+
+CorrectResponse=2
+
+Explanation=While any of the following can occur in a perfectly legitimate transaction, these characteristics frequently are present during fraudulent transactions. Tellers and merchants should be advised to be alert for the customer who:
+•	Takes a card from a pocket instead of a wallet or purse
+•	Purchases an unusual number of expensive items
+•	Makes random purchases, selecting items with little regard to size, quality, or value
+•	Makes several small purchases to stay under the floor limit, or asks what the floor limit is
+•	Signs the sales draft slowly or awkwardly
+See page(s) 1.1024-1.1025 in the Fraud Examiner's Manual

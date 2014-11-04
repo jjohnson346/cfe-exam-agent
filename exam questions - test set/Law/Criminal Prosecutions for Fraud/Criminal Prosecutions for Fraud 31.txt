@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Ignorance is a common defense to white-collar crime cases.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A defense is an assertion by a defendant in a criminal or civil case that seeks to explain away the defendant's guilt or civil liability for damages. The more common defenses include: alibi, consent, de minimis infraction (trivial), duress, entrapment, ignorance, mistake, insanity, necessity, protection of property, self-defense, public duty, legal impossibility, and protection of others. Also pertinent in this matter of defense are questions involving the Statute of Limitations, proper venue and proper jurisdiction In criminal fraud cases where intent is an element of the crime, defense attorneys may advance a number of ‰??smoke screen" theories to excuse their clients of guilt, i.e., by alleging some inhibiting factor to the formulation of intent. For example, while ignorance of the law might be no excuse, it can persuade a jury, particularly if the crime is complex and financial in nature such as an income tax evasion case where the net worth method of income reconstruction has been utilized.See page(s) 2.520 in the Fraud Examiner's Manual

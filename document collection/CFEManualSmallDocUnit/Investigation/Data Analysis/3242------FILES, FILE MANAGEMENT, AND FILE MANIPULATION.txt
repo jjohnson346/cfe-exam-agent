@@ -1,0 +1,45 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/General Functions/FILES, FILE MANAGEMENT, AND FILE MANIPULATION
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+FILES, FILE MANAGEMENT, AND FILE MANIPULATION 
+IDEA’s file management and manipulation applications allow the user to import/export files 
+from almost any format, including XML and specific accounting packages; use an easy, 
+industry-standard file management program; generate a single database from several other 
+Data Analysis and Reporting Tools  Investigation 
+3.618   2011 Fraud Examiners Manual  
+databases; use a compare-database option to identify differences in a numeric field within 
+two files for a common key; combine fields from two databases into a single database to test 
+for data matches across files; and use the append-databases option, concatenate two or more 
+files into a single database for audit testing.  
+ 
+
+
+
+:
+
+
+file file manag and file manipul
+idea file manag and manipul applic allow the user to importexport file
+from almost ani format includ xml and specif account packag us an easi
+industrystandard file manag program gener a singl databas from sever other
+data analysi and report tool investig
+3618 2011 fraud examin manual
+databas us a comparedatabas option to identifi differ in a numer field within
+two file for a common kei combin field from two databas into a singl databas to test
+for data match across file and us the appenddatabas option concaten two or more
+file into a singl databas for audit test

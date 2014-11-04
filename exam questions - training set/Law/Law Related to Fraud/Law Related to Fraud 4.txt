@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Title 18, Section 1030(a) of the U.S. Code prohibits causing damage to a "protected computer." Under this section, a protected computer includes which of the following?
+
+Options=Computer used in interstate commerce | Computer used in foreign commerce | Computer used by a financial institution | All of the above
+
+CorrectResponse=3
+
+Explanation=Title 18, U.S. Code, Section 1030 prohibits a variety of crimes involving unauthorized access to computers or damaging computers or computer systems. The statute applies to computers used by the federal government and computers used by financial institutions. It also prohibits damage to computers used in interstate or foreign commerce.See page(s) 2.311 in the Fraud Examiner's Manual

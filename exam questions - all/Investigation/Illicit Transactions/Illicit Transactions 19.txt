@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following is considered a red flag of a loan repayment?
+
+Options=Odd amount payments | Large pay downs | Lump-sum payments | All of the above
+
+CorrectResponse=3
+
+Explanation=Generally, loans that show unusual repayments should be traced. Lump-sum payments and odd-amount payments are unusual. Accelerated payments or large pay downs on the balance might indicate sudden wealth. These are considered red flags and should be investigated further.See page(s) 3.821 in the Fraud Examiner's Manual

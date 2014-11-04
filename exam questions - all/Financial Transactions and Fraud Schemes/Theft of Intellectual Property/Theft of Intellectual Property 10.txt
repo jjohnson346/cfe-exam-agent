@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Computer backup files can be a major liability in the protection of trade secrets.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Companies should institute procedures for deciding what should be kept and what shouldn't. Backup files should be kept under lock and key. One 8mm tape can hold as much as 1,500 banker’s boxes of information. Anyone can grab such a tape and easily sneak it out of the building.See page(s) 1.882 in the Fraud Examiner's Manual

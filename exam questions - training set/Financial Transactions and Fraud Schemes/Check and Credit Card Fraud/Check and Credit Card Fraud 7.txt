@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Which of the following is NOT a common type of credit card fraud?
+
+Options=Profiling | Advance payments | De-emboss/re-emboss | Shaving and pasting
+
+CorrectResponse=0
+
+Explanation=Advance payments, shaving and pasting, and de-emboss/re-emboss are all forms of credit card fraud. Profiling is not.See page(s) 1.1014-1.1020 in the Fraud Examiner's Manual

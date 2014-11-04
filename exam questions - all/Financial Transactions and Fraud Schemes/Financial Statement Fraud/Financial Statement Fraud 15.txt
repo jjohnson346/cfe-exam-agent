@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Sales that are contingent on additional terms should not be recorded as complete on the books of the selling company.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Sales with conditions are those that have terms that have not been completed such that the rights and risks of ownership have not passed to the purchaser They do not qualify for recording as revenue. These types of sales are similar to schemes involving the recognition of revenue in improper periods since the conditions for sale may become satisfied in the future, at which point revenue recognition would become appropriate. The most common examples of sales with conditions are conditional sales and consignment sales.See page(s) 1.311 in the Fraud Examiner's Manual

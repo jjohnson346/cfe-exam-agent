@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=The art of forensic document identification is called "graphology.".
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Graphology (graphoanalysis) has been described as a pseudoscience in which its practitioners have the purported ability to determine a person’s character moral traits (honesty/dishonesty, etc.), personality, and mental state based upon an analysis of that person's handwriting. Graphology is often erroneously confused with forensic document examinations, especially by the media. Fraud examiners should be aware that some of those practicing graphological analyses might have little academic scientific training.See page(s) 3.124 in the Fraud Examiner's Manual

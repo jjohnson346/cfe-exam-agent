@@ -1,0 +1,141 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Conducting an Investigation Involving Computers/Workstation
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Workstation 
+In addition to investigating the suspect’s mainframe, it is also important to investigate the 
+suspect’s workstation, including any peripherals or other portable media devices that can be 
+used to transmit or store data. As data moves to and from peripheral devices, it leaves 
+evidence of its presence and sometimes leaves full copies of its contents.  
+ 
+Therefore, fraud examiners should consider the many different types of peripherals that 
+might contain evidence. Items to be seized might include any or all of the following items 
+listed below, depending upon the nature of the fraud case. 
+ 
+PRINTERS 
+Examiners must also be aware that it might be possible to recover previously printed 
+documents. Although the odds of recovery can be low depending on a variety of factors, 
+understanding how retrieval can be achieved can be of great value to the investigator.  
+ 
+In addition to using printer-spool files to recover previously printed documents, many 
+printers have internal hard drives that may contain information relevant to a fraud 
+examination. In general, any information sent to and stored by a printer is recoverable unless 
+the printer has overwritten the data.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.707 
+Furthermore, some printers have memory buffer — temporary storage area of jobs waiting to be 
+printed — which may also contain important information. Information contained in memory 
+buffer, however, is generally limited to recently created and stored data.  
+ 
+COPIERS AND SCANNERS 
+Like some printers, copiers and other multifunction machines may have internal storage 
+devices that store relevant data. In fact, almost every copier built since 2002 has a hard drive 
+that stores images of documents the machines have copied, scanned, or e-mailed. Some 
+copiers store user access records and a history of copies made. And, as with most file 
+systems, it may be possible to retrieve information from a copier’s hard drive that has been 
+deleted. As a result, copiers may be brimming with important information.  
+ 
+FAX MACHINES 
+Although some kinds of stand-alone fax machines simply scan and send data without storing 
+it, like many printers and copiers, some fax machines store faxing data on their own internal 
+hard drive. This data may remain in the machine’s memory until overwritten.  
+ 
+BACKUP TAPES  
+Backup tapes are a type of removable media that stores data and can be easily removed from 
+a computer system or device. Most computer users archive their activities on backup tapes 
+or some other form of external storage devices, and most companies use backup tapes to 
+store old data, including e-mail data, that was once stored on their servers.  
+ 
+REMOVABLE STORAGE DEVICES 
+In addition to backup tapes, a suspect’s removable storage devices should be examined. 
+Removable storage devices such as CDs, DVDs, USB flash drives (also known as thumb 
+drives), mp3 players, and various other devices provide users with the ability to store large 
+amounts of data. Such devices can be used to facilitate a variety of frauds. They provide 
+users with the ability to store files that go undetected by anyone accessing the computer. 
+Removable media can also be used to store copies of files containing sensitive information in 
+order to facilitate unapproved use.  
+ 
+SMART PHONES 
+The proliferation of smart phones has made them an extremely valuable source of 
+information. Smart phones (e.g., the iPhone and Blackberry) are cell phones that also have 
+the ability to store personal data, search the Internet, check e-mail, instant message (IM), 
+Digital Forensics  Investigation 
+3.708   2011 Fraud Examiners Manual  
+make video calls, download/upload content to and from the Internet, take pictures, and 
+record video. The information that can be stored on these small devices can be very 
+important in many cases.  
+ 
+
+
+
+:
+
+
+workstat
+in addit to investig the suspect mainfram it is also import to investig the
+suspect workstat includ ani peripher or other portabl media devic that can be
+us to transmit or store data as data move to and from peripher devic it leav
+evid of it presenc and sometim leav full copi of it content
+therefor fraud examin should consid the mani differ type of peripher that
+might contain evid item to be seiz might includ ani or all of the follow item
+list below depend upon the natur of the fraud case
+printer
+examin must also be awar that it might be possibl to recov previous print
+document although the odd of recoveri can be low depend on a varieti of factor
+understand how retriev can be achiev can be of great valu to the investig
+in addit to us printerspool file to recov previous print document mani
+printer have intern hard drive that mai contain inform relev to a fraud
+examin in gener ani inform sent to and store by a printer is recover unless
+the printer ha overwritten the data
+investig digit forens
+2011 fraud examin manual 3707
+furthermor some printer have memori buffer temporari storag area of job wait to be
+print which mai also contain import inform inform contain in memori
+buffer howev is gener limit to recent creat and store data
+copier and scanner
+like some printer copier and other multifunct machin mai have intern storag
+devic that store relev data in fact almost everi copier built sinc 2002 ha a hard drive
+that store imag of document the machin have copi scan or email some
+copier store user access record and a histori of copi made and as with most file
+system it mai be possibl to retriev inform from a copier hard drive that ha been
+delet as a result copier mai be brim with import inform
+fax machin
+although some kind of standalon fax machin simpli scan and send data without store
+it like mani printer and copier some fax machin store fax data on their own intern
+hard drive thi data mai remain in the machin memori until overwritten
+backup tape
+backup tape ar a type of remov media that store data and can be easili remov from
+a comput system or devic most comput user archiv their activ on backup tape
+or some other form of extern storag devic and most compani us backup tape to
+store old data includ email data that wa onc store on their server
+remov storag devic
+in addit to backup tape a suspect remov storag devic should be examin
+remov storag devic such as cd dvd usb flash drive also known as thumb
+drive mp3 player and variou other devic provid user with the abil to store larg
+amount of data such devic can be us to facilit a varieti of fraud thei provid
+user with the abil to store file that go undetect by anyon access the comput
+remov media can also be us to store copi of file contain sensit inform in
+order to facilit unapprov us
+smart phone
+the prolifer of smart phone ha made them an extrem valuabl sourc of
+inform smart phone eg the iphon and blackberri ar cell phone that also have
+the abil to store person data search the internet check email instant messag im
+digit forens investig
+3708 2011 fraud examin manual
+make video call downloadupload content to and from the internet take pictur and
+record video the inform that can be store on these small devic can be veri
+import in mani case

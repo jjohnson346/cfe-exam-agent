@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=In a managed care environment, insured fraud may be reduced, but provider fraud is still alive and well.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In a managed care environment, fraud is not eliminated. Insured fraud may be reduced substantially, but provider fraud is still alive and well. In addition to billing fraudulent services, managed care has an additional incentive for fraud. Because the providers share in the financial risk of a patient, there is the potential to provide fewer services to a patient since a fixed capitation rate allows the patient unlimited visits to the provider.See page(s) 1.1243 in the Fraud Examiner’s Manual

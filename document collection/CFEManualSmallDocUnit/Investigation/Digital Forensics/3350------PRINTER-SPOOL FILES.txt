@@ -1,0 +1,44 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Computer-created Files/PRINTER-SPOOL FILES
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+PRINTER-SPOOL FILES 
+It is sometimes possible to recover an image of the last page printed on a printer. When 
+computers running Windows operating systems print files, a print-spooling process occurs. 
+The process involves writing the print job to files, allowing users to keep working while the 
+print job runs in the background. After the user creates a print job, it is placed in a queue 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.727 
+and is printed when the printer becomes available to perform the job. Once printing is 
+complete, the operating system deletes the files;  but again, deleted files can be recovered. 
+ 
+ 
+
+
+
+:
+
+
+printerspool file
+it is sometim possibl to recov an imag of the last page print on a printer when
+comput run window oper system print file a printspool process occur
+the process involv write the print job to file allow user to keep work while the
+print job run in the background after the user creat a print job it is place in a queue
+investig digit forens
+2011 fraud examin manual 3727
+and is print when the printer becom avail to perform the job onc print is
+complet the oper system delet the file but again delet file can be recov

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to AU section 314, Understanding the Entity and Its Environment and Assessing the Risks of Material Misstatement, the auditor should perform which of the following procedures to obtain information to use in identifying the risks of material misstatement due to fraud?
+
+Options=Consider any unusual or unexpected relationships that have been identified in performing analytical procedures in planning the audit | Make inquiries of management and others within the entity to obtain their views on the risks of fraud and how those risks are addressed | Consider whether one or more fraud risk factors exist | All of the above
+
+CorrectResponse=3
+
+Explanation=The auditor should perform the following procedures to obtain information to use in identifying the risks of material misstatement due to fraud:‰?¢	Make inquiries of management and others within the entity to obtain their views on the risks of fraud and how those risks are addressed;‰?¢	Consider any unusual or unexpected relationships that have been identified in performing analytical procedures in planning the audit;‰?¢	Consider whether one or more fraud risk factors exist; and‰?¢	Consider other information that may be helpful in the identification of risks of material misstatement due to fraud.See page(s) 1.226 in the Fraud Examiner‰??s Manual

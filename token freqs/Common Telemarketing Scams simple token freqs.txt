@@ -1,0 +1,7 @@
+Token                          Frequency
+-----------------------------  ---------
+common                                 1
+telemarketing                          1
+scams                                  1
+
+Totals:                      3         3

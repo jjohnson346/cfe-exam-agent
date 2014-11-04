@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=In the insurance industry, a policyholder or contract holder whose whereabouts are unknown is referred to as a(n):
+
+Options=Capper | Runner | Orphan | None of the above
+
+CorrectResponse=2
+
+Explanation=An orphan contract holder is a policyholder or contract holder who has not been assigned to a servicing agent or whose whereabouts are unknown.See page(s) 1.1102 in the Fraud Examiner's Manual

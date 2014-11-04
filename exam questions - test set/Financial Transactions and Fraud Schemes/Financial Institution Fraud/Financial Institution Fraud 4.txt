@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Which of the following are common real estate loan fraud schemes?
+
+Options=Appraisal fraud | Mortgage-backed security fraud | Equity skimming | All of the above
+
+CorrectResponse=3
+
+Explanation=There are several types of external real estate fraud schemes. Some of these schemes include:‰?¢	Appraisal fraud‰?¢	Mortgage-backed security fraud‰?¢	Equity skimming‰?¢	Land flipsSee page(s) 1.912-1 913 in the Fraud Examiner's Manual

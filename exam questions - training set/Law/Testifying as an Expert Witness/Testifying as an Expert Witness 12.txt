@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=If an individual is qualified as an expert, the judge must allow his testimony.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In the Kumho Tire and Daubert cases, the Supreme Court stated that before allowing an expert to testify before the jury, the judge must make three determinations:Is the person qualified as an expert witness?Will the expertise of the witness assist the jury in understanding the evidence or determining a fact at issue? Is the testimony reliable?See page(s) 2.811 in the Fraud Examiner's Manual

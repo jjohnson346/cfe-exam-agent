@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Gamma, a Certified Fraud Examiner, is interviewing Beta, a fraud suspect. Gamma asks Beta: "Who in the company could have committed the fraud?" If Beta is guilty, he is more likely to say:
+
+Options="It could have been anybody." | "It wasn't me." | "It could be Green, but I'm not sure." | "It wasn't anyone I work with."
+
+CorrectResponse=0
+
+Explanation=Both the honest respondent and the liar will have a natural reluctance to name others involved in misdeeds. However, the liar frequently will refuse to implicate possible suspects, no matter how much pressure is applied by the interviewer. This is because the culpable person does not want the circle of suspicion to be narrov/ed.See page(s) 3.253 in the Fraud Examiner's Manual

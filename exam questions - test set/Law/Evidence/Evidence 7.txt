@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=The rule that governs when a party seeks to prove the contents of a writing is:
+
+Options=The best evidence rule | The documentary rule | The photocopy rule | None of the above
+
+CorrectResponse=0
+
+Explanation=The Best Evidence Rule prohibits a party from testifying about the contents of a document without producing the document itself. Also known as the "original writing' rule, it requires that when a witness testifies about the contents of a document, at least a fair copy of the original must be available for inspection. If there isn't an original, an authenticate copy will do. If the document is lost?no original, no copies?the judge will have to be convinced there's good reason to forgo the exhibit and admit the testimony. Fraud examiners can use copies in preparing their case reports, but at trial the original must be produced if it?s available. Certified copies of public records should always be obtained. See page(s) 2.714 in the Fraud Examiner's Manual

@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+con                                    1
+phone                                  1
+bill                                   1
+next                                   1
+revealed                               1
+expensive                              1
+long                                   2
+consumer                               2
+claiming                               1
+distance                               2
+asks                                   1
+if                                     1
+card                                   2
+artist                                 1
+be                                     1
+with                                   1
+is                                     1
+schemes                                1
+did                                    1
+number                                 2
+he                                     1
+the                                    4
+calls                                  2
+and                                    1
+not                                    1
+contain                                1
+company                                1
+will                                   1
+their                                  1
+make                                   1
+some                                   1
+confirm                                1
+
+Totals:                     33        43

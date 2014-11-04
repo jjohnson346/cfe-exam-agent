@@ -1,0 +1,27 @@
+Token                          Frequency
+-----------------------------  ---------
+retrievers                             1
+professionals                          1
+focuses                                1
+firms                                  1
+section                                1
+database                               2
+and                                    1
+many                                   1
+of                                     2
+record                                 2
+document                               1
+although                               1
+are                                    1
+search                                 1
+there                                  1
+three                                  1
+on                                     1
+categories                             1
+types                                  1
+public                                 2
+vendors                                2
+commercial                             1
+this                                   1
+
+Totals:                     23        28

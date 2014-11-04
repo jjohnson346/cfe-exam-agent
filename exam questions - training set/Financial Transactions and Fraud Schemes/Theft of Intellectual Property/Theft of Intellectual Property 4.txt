@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Noncompetition agreements are a good way to prevent use of trade secrets by a competitor. Such agreements are always legally binding even upon lower-level employees.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A noncompetition agreement is an agreement whereby the employee agrees not to work for competing companies within a certain period of time after leaving. However noncompetition agreements also have a variety of problems. First, courts in some states have held that such agreements are against ‰??public policy" because they limit the future employment of a person; therefore, in these states noncompetition agreements are unenforceable. Other states uphold the agreements, but only if they are part of an otherwise valid employment agreement. In these states, the employment agreement and the noncompetition agreement must be signed at the same time or the noncompetition agreement is unenforceable. In addition, if the employee is an ‰??at will" employee who is not covered by an employment agreement, any noncompetition signed by such an employee would be unenforceable.See page(s) 1.887 in the Fraud Examiner's Manual

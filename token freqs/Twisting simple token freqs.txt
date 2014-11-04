@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+replacement                            1
+for                                    3
+reason                                 1
+high-pressure                          1
+higher                                 1
+existing                               2
+techniques                             1
+by                                     1
+since                                  1
+policies                               2
+course                                 1
+of                                     2
+commissions                            2
+are                                    1
+sales                                  2
+primary                                1
+usually                                1
+year                                   1
+twisting                               2
+profit                                 1
+is                                     2
+the                                    3
+ones                                   1
+agent                                  1
+much                                   1
+new                                    1
+than                                   1
+first                                  1
+
+Totals:                     29        40

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Research has shown that many executives know their behavior is illegal but tend to justify their behavior as simply common practice in the business world.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Dr. Gilbert Geis found that quite often, individuals are trained in illegal behavior as part of the occupational role. Schrager and Short say criminal behavior stems more from the roles an employee is expected to fulfill than from individual pathology. Many executives know their behavior is illegal but tend to justify their behavior as simply common practice in the business world. Clinard and Yeager believed that in rationalizing their behavior, corporations follow a general tendency to obey laws selectively (i.e., obeying according to situational needs and determined by factors like social class and occupation).See page(s) 4.509 in the Fraud Examiner's Manual

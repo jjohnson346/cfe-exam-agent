@@ -1,0 +1,10 @@
+Section=Evidence
+
+Stem=Evidence of other crimes committed by an accused generally is NOT admissible to prove:
+
+Options=Character | Motive | Opportunity | Intent
+
+CorrectResponse=0
+
+Explanation=In civil cases, character evidence is rarely admissible. In criminal cases, there are some instances where character evidence is relevant to the charge at hand. Character evidence may be admitted in criminal trials if character is an element of proving the act. For example, if the mental condition or legal competency of the accused is in question, character evidence is allowable. Evidence that the accused has committed other crimes is not generally admissible to prove character, but may be admitted to show something else, such as proof of motive, opportunity, or intent to commit an act. See page(s) 2.705 in the Fraud Examiner's Manual
+

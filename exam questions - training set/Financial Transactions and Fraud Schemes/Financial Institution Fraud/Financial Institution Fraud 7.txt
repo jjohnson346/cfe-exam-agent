@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A nonperforming loan may be an indicator of which of the following types of fraud scheme(s)?
+
+Options=Land flips | Fraudulent appraisals | Bribery | All of the above
+
+CorrectResponse=3
+
+Explanation=x INCORRECTFraud schemes resulting in a nonperforming loan include:‰?¢	Fraudulent appraisals‰??The cash flow cannot support an inflated loan and, therefore, debt amount.‰?¢	False statements‰??The loan was made on false or fraudulently presented assumptions.‰?¢	Equity skimming‰??There was never any intention to make the underlying loan payments.‰?¢	Construction over budget Items‰??The over budget amount might be a concealment method for other schemes such as embezzlement, misappropriation, or false statements.‰?¢	Bribery‰??The loan was made because the lender received a bribe or a kickback from the borrower.‰?¢	Land flips‰??The purpose of the loan was to finance the seller out of a property which has an artificially inflated value.‰?¢	Disguised transactions‰??Transactions that are sham transactions, without substance, made to conceal other ills.See page(s) 1.908-1.909 in the Fraud Examiner's Manual

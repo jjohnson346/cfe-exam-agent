@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=ABC Corporation guaranteed a personal loan to its Chief Financial Officer. ABC will only be liable if the CFO defaults on the loan. To date, the CFO has made all payments on time. The loan term runs for two more years. ABC does NOT have to disclose this loan arrangement in its financial statements.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Typical liability omissions include the failure to disclose loan covenants or contingent liabilities. Loan covenants are agreements, in addition to or part of a financing arrangement, which a borrower has promised to keep as long as the financing is in place. The agreements can contain various types of covenants including certain financial ratio limits and restrictions on other major financing arrangements. Contingent liabilities are potential obligations that will materialize only if certain events occur in the future. A corporate guarantee of personal loans taken out by an officer or of a private company controlled by an officer is an example of a contingent liability. The company’s potential liability, if material, must be disclosed.See page(s) 373 in the Corporate Fraud Handbook

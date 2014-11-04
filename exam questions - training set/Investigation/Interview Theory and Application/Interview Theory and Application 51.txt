@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Jones, a Certified Fraud Examiner, is conducting an interview of Adams, an accounts receivable clerk for Ajax, Inc. At the beginning of the interview, Jones was observing Adams' reaction to a nonthreatening line of questioning. Jones was:
+
+Options=Examining the witness | Relaxing the witness | Calibrating the witness | None of the above
+
+CorrectResponse=2
+
+Explanation=In detection of deception during the interview, the examiner must remember that the interviewee or target may already be under stress because of the interview. This does not mean he is lying. For this reason, it is necessary for the examiner to carefully assess the normal behavior of the individual before assessing any clues to deception. Assessing the norm is sometimes called "calibrating" the witness.See page(s) 3.238 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The major types of Ponzi schemes are operated with:r
+
+Options=Pure cash | Either pure cash or a product or service front | A product or service as a front | None of the above
+
+CorrectResponse=1
+
+Explanation=Ponzi schemes are classified according to the front used in their promotion. The categories are pure cash (which includes endless chain schemes and fill-and-split games) and product fronts (which includes financial instruments, MLMs, and speculations).See page(s) 1.1743 in the Fraud Examiner‰??s Manual

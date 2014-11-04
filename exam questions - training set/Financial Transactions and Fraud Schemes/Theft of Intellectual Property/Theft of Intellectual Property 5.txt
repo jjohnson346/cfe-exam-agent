@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=A special room that is acoustically shielded and radio-frequency shielded so that conversations within the room cannot be monitored outside the room is called:
+
+Options="Quiet" room | "Dead" room| "Shield" room | None of the above
+
+CorrectResponse=0
+
+Explanation=Corporate spies may be listening in on your meetings. One way to prevent this is through the use of a "quiet room." A quiet room may cost anywhere from $15,000 to $200,000, but it may be justified based on the risk involved. A quiet room is acoustically shielded and radio-frequency shielded. The room can also be equipped with intrusion monitoring sensors and CCTV cameras.See page(s) 1.881 in the Fraud Examiner's Manual

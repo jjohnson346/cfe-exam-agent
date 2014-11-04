@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=All of the following are examples of bid submission schemes EXCEPT:
+
+Options=Premature opening of bids | Material mischarges | Controlled bid opening | Altering bids
+
+CorrectResponse=1
+
+Explanation=Schemes involving bid submissions can take many forms. They can involve anyone in the contracting cycle, including a buyer or contracting official, engineer, technical representative, quality or product assurance representative, subcontractor, or liaison employee‰??anyone who can influence the awarding of a contract. Examples of bid submission schemes are:Premature opening of bids Altering bidsUnjustifiable extension of bid opening dates Controlled bid opening Falsifying bid logs and documentsSee page(s) 1.2003 in the Fraud Examiner‰??s Manual

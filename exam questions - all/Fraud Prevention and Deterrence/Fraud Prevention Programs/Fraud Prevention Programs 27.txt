@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Two selling points of a fraud prevention program are fraud's potentially negative impact on a company's profits and public image.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One of the best ways to sell management on fraud prevention is by showing the impact on the bottom line. Fraud impacts net sales dollar for dollar. For example, if a company nets 20 percent on sales, they must sell five items at regular prices to recover losses from the theft of one item. Fraud can be very expensive. Additionally, many corporate executives are more sensitive to adverse publicity than almost any other issue. Certainly, one way to convince management of the logic of fraud prevention is to point out that negative publicity, even in small cases, can have a devastating impact on the bottom line. This negative impact can be eliminated or reduced by a proactive fraud prevention program.See page(s) 4.729 in the Fraud Examiner's Manual

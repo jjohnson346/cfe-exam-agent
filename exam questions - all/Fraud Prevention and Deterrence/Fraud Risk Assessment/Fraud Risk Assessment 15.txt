@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Which of the following sources can be helpful in obtaining information about business and industry fraud risks during a fraud risk assessment?
+
+Options=Criminal, civil, and regulatory complaints | Professional organizations | Industry news sources | All of the above
+
+CorrectResponse=3
+
+Explanation=To ensure a good working knowledge of the business, the fraud risk assessor must know, at a more than superficial level, what the business does and how it operates. He must also have an understanding about what makes the organization both similar to and different from other companies in related lines of business. Obtaining information about broad industry fraud risks from external sources can be extremely helpful. Such sources include industry news; criminal, civil, and regulatory complaints and settlements; and professional organizations, such as the Institute of Internal Auditors, the American Institute of Certified Public Accountants, and the Association of Certified Fraud Examiners.See page(s) 4.806 in the Fraud Examiner's Manual

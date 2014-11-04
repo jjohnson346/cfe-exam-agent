@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Proof in a fraud case usually proceeds through three basic stages. These stages are listed below. In what order does the examiner proceed through these stages?   
+
+Options=II, III, I | I, III, II | I, II, III | III, II, I
+
+CorrectResponse=3
+
+Explanation=Proof in most complex white-collar cases usually proceeds through three basic stages. First, the fraud examiner builds the circumstantial case through interviews of cooperative witnesses and review of available documentation. Then the examiner uses the circumstantial evidence to identify and persuade an inside witness who can provide direct evidence against the defendant. Then the case is sealed, defenses are identified and rebutted, and intent is proved through examination of the subject.See page(s) 1-16 in the Fraud Examiner's Manual

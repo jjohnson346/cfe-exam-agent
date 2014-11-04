@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Black and White both work for the ABC Company, and Black is investigating White for misconduct. Black told a large group of individuals that White was committing adultery, which happened to be true. White may be able to sue and recover against Black for:
+
+Options=Invasion of privacy | Defamation | Slander | None of the above
+
+CorrectResponse=0
+
+Explanation=There are two relevant torts of invasion of privacy: (1) intrusion into seclusion and (2) public disclosure of private facts. Giving unreasonable publicity to true, but private, information about an employee can give rise to a claim for public disclosure of private facts. The need to communicate information about the employee must be balanced against the intrusion into the employee s privacy.See page(s) 2.435 in the Fraud Examiner's Manual

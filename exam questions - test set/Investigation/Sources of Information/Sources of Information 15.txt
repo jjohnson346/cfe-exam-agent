@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=A credit reporting agency that develops information from credit files and public records is called a(n):
+
+Options=Business credit reporting association | File-based credit reporting agency | Investigative reporting agency | None of the above
+
+CorrectResponse=1
+
+Explanation=There are essentially two types of credit reporting agencies. The first is known as a file-based credit reporting agency, which develops its information from credit files and public records. The other type is known as an investigative credit reporting agency, which gathers most of its information through interviews.See page(s) 3.450 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Although experts may testify about their opinions on a particular issue, they may not prepare any charts or diagrams outside of court to be used during in-court testimony.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Experts may use special exhibits to demonstrate facts about the case or some aspect of their opinion. These exhibits may include charts, diagrams, annotated documents or photos. If the exhibit is offered to prove a fact, it must satisfy the rules applicable to any other piece of evidence in the case. In demonstrating a professional opinion, the role of the exhibit must be clear, and its applicability to the present case justified if necessary.See page(s) 2.819 in the Fraud Examiner's Manual

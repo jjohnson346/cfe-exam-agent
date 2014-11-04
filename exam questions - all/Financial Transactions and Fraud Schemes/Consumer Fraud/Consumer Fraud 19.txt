@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Consumer fraud has been found in history since at least the first century.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Complaints of consumer fraud can be found as far back as the first century when Pliny the Elder told of the adulterated honey being sold in Rome and the mixing of wine with gypsum, lime, pitch, rosin, wood ashes, salt, sulphur, and other artificial additives.See page(s) 1.1701 in the Fraud Examiner’s Manual

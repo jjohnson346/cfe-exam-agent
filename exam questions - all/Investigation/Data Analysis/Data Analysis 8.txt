@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Alpha, a fraud examiner, believes that vendors may be submitting invoices twice with the hope that they will be paid multiple times. Which of the following data analysis functions would be the most useful in identifying such invoices?
+
+Options=Horizontal analysisF | Duplicate search | Vertical analysis | Correlation analysis
+
+CorrectResponse=1
+
+Explanation=Fraud examiners and auditors can perform duplicate search functions on invoice disbursements numerically to see if any invoices have been paid twice. By cross-checking the invoices with the vendors paid, duplicate billing can be easy to catch.See page(s) 3.609 in the Fraud Examiner's Manual

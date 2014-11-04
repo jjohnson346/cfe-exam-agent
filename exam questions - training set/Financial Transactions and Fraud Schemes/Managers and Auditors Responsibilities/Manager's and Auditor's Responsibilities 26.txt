@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The external auditor should integrate the audit of the company's internal controls over financial reporting (ICOFR) with the audit of the company's financial statements.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=PCAOB Auditing Standard No. 5 states that although the objectives of financial statement audits and audits of ICOFR are not identical, the two audits should be integrated, with the auditor planning and performing the work to achieve the objectives of both audits.See page(s) 1.235 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Which of the following privileged communications generally is NOT recognized in federal court?
+
+Options=Priest/penitent | Accountant/client | Husband/wife | Attorney/client
+
+CorrectResponse=1
+
+Explanation=There are a number of other privileges that are less likely to be asserted in fraud actions, including the priest-penitent and physician-patient privileges. A few states have a weak accountant-client privilege that allows an accountant to resist production of a client's work papers or documents. No such privilege is recognized in federal court and the state privileges may be overcome by a showing of need or by the service of a subpoena. See page(s) 2.732 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Which of the following is an objective of a covert operation?
+
+Options=Recover ill-gotten gains | Identify co-conspirators | Identify a modus operandi | All of the above are objectives
+
+CorrectResponse=3
+
+Explanation=All covert operations have similar general objectives: (1) to obtain evidence of a past, current or future crime; (2) to identify those engaged in possible illegal activity: (3) to recover ill-gotten gains; (4) to identify co-conspirators; and (5) to identify the modus operandi.See page(s) 3.303-3.304 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=The debt to equity ratio is computed by dividing current liabilities by total equity.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The debt to equity ratio is computed by dividing total liabilities by total equity. This ratio is one that is heavily considered by lending institutions. It provides a clear picture of the comparison between the long-term and short-term debt of the company and the owner's financial injection plus earnings to date. Debt to equity requirements are often included as borrowing covenants in corporate lending agreements.See page(s) 395 in the Corporate Fraud Handbook

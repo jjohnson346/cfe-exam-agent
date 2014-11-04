@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=According to Corporate Fraud Handbook, if a company has an undisclosed financial interest in a transaction that causes economic harm to the company, it has engaged in this type of improper disclosure scheme:
+
+Options=Significant event | Related party transaction | Liability omission | Accounting change
+
+CorrectResponse=1
+
+Explanation=Related party transactions occur when a company does business with another entity whose management or operating policies can be controlled or significantly influenced by the company or by some other party in common. There is nothing inherently wrong with related party transaction, as long as they are fully disclosed. If the transactions are not conducted on an arm's-length basis, the company may suffer economic harm, injuring stockholders. The financial interest that a company official might have may not be readily apparent. For example, common directors of two companies which do business with each other, any corporate general partner and the partnerships with which it does business, and any controlling shareholder of the corporation with which he/she/it does business are all illustrations of related parties. Family relationships can also be considered related parties, such as all lineal descendants and ancestors, without regard to financial interests. Related party transactions are sometimes referred to as ‰??self-dealing."See page(s) 374 in the Corporate Fraud Handbook

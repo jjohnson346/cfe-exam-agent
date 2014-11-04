@@ -1,0 +1,11 @@
+Section=Consumer Fraud
+
+Stem=Which of the following are possible signs that a multilevel marketing organization's activities may be illegal?
+
+Options=The organization offers participants S250 per new recruit | The organization spends more time promoting its distributor levels than its product lines | The organization recruits distributors into a pyramid-style compensation plan | All of the above
+
+CorrectResponse=3
+
+Explanation=As a rule of thumb, any organization that recruits distributors into a pyramid-style compensation plan, offers big payoffs for recruiting (say, more than $100 per recruit), and spends more time trumpeting its distributor levels than its product lines, is probably illegal.
+See page(s) 1.1747 in the Fraud Examiner’s Manual
+

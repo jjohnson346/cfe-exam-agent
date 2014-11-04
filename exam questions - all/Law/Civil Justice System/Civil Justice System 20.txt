@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=What is the purpose of "post-judgment discovery" in a civil case?
+
+Options=To help the judge decide the sentence of the defendant | To identify assets that can be used to satisfy a judgment | To help the judge identify the amount of the monetary award | None of the above
+
+CorrectResponse=1
+
+Explanation=In many instances, particularly in fraud litigation, a judgment might go uncollected because the defendant has already squandered or secreted the assets. In the latter circumstances, a plaintiff may conduct post-judgment discovery, including a deposition of the defendant, in an attempt to locate assets to satisfy a judgment.See page(s) 2.616 in the Fraud Examiner's Manual

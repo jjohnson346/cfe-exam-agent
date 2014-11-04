@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Non-expert witnesses are not allowed to express opinions unless they pass a three-part test. Which of the following is NOT a part of the test?
+
+Options=The witness must have direct personal knowledge of the facts in question | The opinion must not involve a legal judgment | The opinion must require scientific, technical or other specialized knowledge | The opinion must not involve specialized knowledge or tests
+
+CorrectResponse=2
+
+Explanation=In general, non-expert witnesses are only allowed to testify about what they've actually experienced first-hand, keeping their opinions and conclusions to themselves. However, in a limited set of circumstances an ordinary witness is allowed to testify about his or her opinion These opinions are admissible if they pass a three-part test: 1) Does the witness have direct personal knowledge of the facts to which the opinion pertains? 2) Is the opinion of the common, everyday sort, i.e., doesn't involve specialized knowledge or tests? 3) Is the opinion NOT part of a legal judgment, reserved for the jury or judge to decide? Experts, not ordinary witnesses, testify when scientific, technical or other specialized knowledge is required.See page(s) 2.706 in the Fraud Examiner's Manual

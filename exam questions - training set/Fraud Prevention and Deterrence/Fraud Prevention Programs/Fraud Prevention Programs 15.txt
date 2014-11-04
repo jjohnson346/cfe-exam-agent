@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=A fraud prevention program will not be effective if the company does not punish employees who violate the program.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A fraud prevention program will not be effective if the company does not punish employees who violate the program. Enforcing a compliance program means adhering to a system of disciplinary actions for rule breakers. Employees must know that if they violate the company‰??s compliance policy, they v/ill be punished. The opportunity to commit fraud is psychologically more acceptable when employees believe fraud normally goes undetected and unprosecuted. New employees should be advised of the compliance program at the time of hire, and should sign an annual statement acknowledging their understanding of it. The range of possible punishments for violations of the policy should be spelled out.See page(s) 4.714 in the Fraud Examiner's Manual

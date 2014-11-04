@@ -1,0 +1,28 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+does                                   1
+insurance                              1
+claims                                 1
+however                                1
+submit                                 1
+death                                  2
+the                                    5
+passes                                 1
+beneficiary                            1
+expenses                               1
+and                                    1
+after                                  1
+not                                    1
+of                                     2
+away                                   1
+medical                                1
+insured                                3
+fictitious                             1
+primary                                1
+notify                                 1
+on                                     1
+carrier                                1
+continues                              1
+
+Totals:                     24        32

@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=In response to a risk identified during a fraud risk assessment, management may decide to purchase fidelity insurance or a bond to help protect the company against the associated risk of loss. This response is known as:
+
+Options=Avoiding the risk | Assuming the risk | Transferring the risk | Mitigating the risk
+
+CorrectResponse=2
+
+Explanation=When responding to the organization's residual fraud risks, management may transfer some or all of the risk by purchasing fidelity insurance or a bond. The cost to the organization is the premium paid for the insurance or bond. The covered risk of loss is then transferred to the insurance company, less any deductible payment included in the contract.See page(s) 4.822 in the Fraud Examiner's Manual

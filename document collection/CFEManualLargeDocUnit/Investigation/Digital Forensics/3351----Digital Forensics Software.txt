@@ -1,0 +1,538 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Digital Forensics Software
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Digital Forensics Software 
+In recent years, a number of products have emerged for digital forensic analysis. They range 
+in complexity, features, and price. These products are continually updated as new technology 
+requires new features. Below is a general listing of the most frequently used products on the 
+market today. This is sure to be constantly changing. (Please note that the product 
+descriptions are adapted from materials provided by the manufacturer, and the ACFE does 
+not endorse any particular product.) 
+ 
+EnCase Forensic  
+EnCase Forensic is a computer forensics software program by Guidance Software. It gives 
+investigators the ability to image a drive and preserve it in a forensic manner using the 
+EnCase evidence file format (LEF or E01), a digital evidence container vetted by courts 
+worldwide. 
+ 
+EnCase Forensic also contains a full suite of analysis, bookmarking and reporting features. 
+Guidance Software and third party vendors provide support for expanded capabilities to 
+ensure that forensic examiners have the most comprehensive set of utilities.   
+ 
+EnCase Forensic also offers powerful hidden volume detection and volume rebuilding 
+capabilities, allowing investigators to review evidence that would have been irretrievable with 
+other computer forensics applications. 
+ 
+How EnCase Forensic Works 
+OBTAIN FORENSICALLY SOUND ACQUISITIONS 
+EnCase Forensic produces an exact binary duplicate of the original drive or media, then 
+verifies it by generating MD5 hash values for related image files and assigning CRC values to 
+the data. These checks and balances reveal when evidence has been tampered with or 
+altered, helping to keep all digital evidence forensically sound for use in court proceedings. 
+ 
+ADVANCED PRODUCTIVITY FEATURES 
+Examiners can preview data while drives or other media are being acquired. Once the image 
+files are created, examiners can search and analyze multiple drives or other media 
+Digital Forensics  Investigation 
+3.728   2011 Fraud Examiners Manual  
+simultaneously. EnCase Forensic also features a case indexer. This powerful tool builds a 
+complete index in multiple languages, allowing for fast and easy queries. Indices can also be 
+chained together to find keywords common to other investigations. This Unicode-supported 
+index contains personal documents, deleted files, file system artifacts, file slack, swap files, 
+unallocated space, emails and web pages. In addition, EnCase has extensive file system 
+support, giving organizations the ability to analyze all types of data. 
+ 
+ENSCRIPT PROGRAMMING 
+EnCase forensic features EnScript programming capabilities. EnScript, an object-oriented 
+programming language similar to Java or C++,  allows users create to custom programs to 
+help them automate time-consuming investigative tasks, such as searching and analyzing 
+specific document types or other labor-intensive processes and procedures.  
+ 
+PROVIDE ACTIONABLE DATA  AND REPORT ON IT 
+Once investigators have bookmarked relevant  data, they can create a report suitable for 
+presentation in court, to management, or to another legal authority. Data can also be 
+exported in multiple file formats for review. 
+ 
+Key Features  
+• Advanced search options 
+• Internet and email support 
+• Multiple viewers 
+• Instant message analysis 
+• EnScript programming 
+• Bookmarking 
+• Extensive system file support 
+• Multiple acquisition options 
+ 
+For more information about EnCase Forensic, visit www.guidancesoftware.com.  
+ 
+Forensic ToolKit 
+Created by AccessData, the AccessData Forensic Toolkit (FTK) offers law enforcement and 
+corporate security professionals the ability to perform complete and thorough computer 
+forensics examinations. The FTK features file  filtering and search functionality. FTK’s 
+customizable filters allow investigators to sort through thousands of files to quickly find the 
+evidence they need. FTK is also a forensic tool to perform e-mail analysis.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.729 
+Some of the main features of this product are discussed below.  
+ 
+Integrated Computer Forensics 
+• Create images, analyze the registry, conduct an investigation, decrypt files, crack 
+passwords, identify steganography, and build a report all with a single solution.  
+• Recover passwords from 100+ applications; harness idle CPUs across the network to 
+decrypt files and perform robust dictionary attacks.  
+• KFF hash library with 45 million hashes. 
+ 
+Enterprise-Class Architecture 
+• Supports large, complex datasets.  
+• Because the FTK components are compartmentalized, the user will never lose work due 
+to a crash (e.g., If the GUI crashes, the workers continue to process data). 
+• Provides the ability to back up and archive cases. 
+• Every copy of FTK 3 includes a total of four  workers to enable distributed processing  
+• It incorporates Lab capabilities, such as the ability to leverage a centralized database 
+infrastructure and shared distributed processing farm, as well as collaborative forensic 
+analysis, central case/task management and Web review. This is of particular value to law 
+enforcement and government computer forensics labs. 
+ 
+Powerful Processing and Speed  
+• Distributed processing allows the user to leverage up to three additional computers to 
+reduce processing time and tackle massive data sets. 
+• True multi-processor and multi-threading support that takes advantage of hardware 
+advancements.  
+• Pre- and post-processing refinement allows users to control how images are processed. 
+• An advanced data-carving engine that allows users to carve allocated and unallocated 
+data and specify criteria, such as file size, data type and pixel size to reduce the amount 
+of irrelevant data carved while increasing overall thoroughness.  
+• Optimized dtSearch integration delivers fast indexing and fast search results. 
+ 
+Advanced Analytics  
+• RAM dump analysis  
+• An index search engine and a proper full-feature regular expression engine for binary 
+searches. 
+• Broad file system, compound file, and email support. 
+Digital Forensics  Investigation 
+3.730   2011 Fraud Examiners Manual  
+• Supports popular encryption technologies, such as Credant, SafeBoot, Utimaco, EFS, 
+PGP and Guardian Edge. 
+• Mac support  
+ 
+Preview, Acquisition, and Analysis of Live Data  
+• Perform network-based, secure, single-system forensic acquisition of physical devices, 
+logical volumes and RAM. 
+• Secure Remote Device Mounting 
+ 
+For more information on AccessData, visit www.accessdata.com. 
+ 
+Password Recovery Toolkit 
+The Password Recovery Toolkit (PRTK) fr om AccessData is geared toward law 
+enforcement and corporate security professionals. It allows examiners to find and identify 
+encrypted files on handheld, desktop, and server computer systems. PRTK recovers lost, 
+forgotten, or unavailable passwords. If users need access to locked files or if they have 
+simply locked themselves out of their files, the PRTK can get them back in. 
+ 
+Security Risk Assessment Tool  
+How do hackers bypass an organization’s strongest security measures? Many people use the 
+same password to gain access to different programs and networks. This could be one of the 
+weakest links in an organization’s security profile. Some password-protected programs are 
+easy to crack while others are virtually impossible. But what if the same password is used for 
+both programs? By gaining access to the weakest one, fraudsters have gained access to the 
+strongest one, without needing to crack both.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.731 
+ 
+Recovery Properties & Status  
+Features 
+• Enables password management 
+• Analyzes files and their passwords with an optional report file 
+• Recovers all types of passwords regardless of password length 
+• Analyzes multiple files at one time 
+• Recovers multilingual passwords 
+• Prevents unauthorized use with a personal security code 
+ 
+For more information on AccessData, visit www.accessdata.com. 
+ 
+ProDiscover Forensics  
+Produced by Technology Pathways, ProDiscover Forensics is a computer security tool for 
+law enforcement that enables computer professionals to find all the data on a computer disk 
+while protecting evidence and creating evidentiary quality reports for use in legal 
+proceedings. 
+ 
+Features 
+• Creates bit-stream copy of the disk to be analyzed, including a hidden HPA section 
+(patent pending), to keep original evidence safe 
+• Searches files or an entire disk including slack space, HPA section, and Windows 
+NT/2000/XP Alternate Data Streams for complete disk forensic analysis 
+• Previews all files, even if hidden or deleted, without altering the data on a disk, including 
+file metadata 
+Digital Forensics  Investigation 
+3.732   2011 Fraud Examiners Manual  
+• Maintains multi-tool compatibility by reading and writing images in the pervasive UNIX 
+dd format 
+• Examines and cross references data at the file or cluster level to ensure nothing is 
+hidden, even in slack space 
+• Automatically generates and records MD5, SHA1, or SHA256 hashes to prove  
+data integrity 
+• Examines FAT12, FAT16, FAT 32, and all NTFS file systems, including Dynamic Disk 
+and Software RAID, for maximum flexibility 
+• Examines Sun Solaris UFS file system and Linux ext2/ext3 file systems 
+• Integrates graphics thumbnail viewer and registry viewer 
+• Integrates Windows event log viewer 
+• Extracts Internet history 
+• Utilizes Perl scripts to automate investigation tasks 
+• Extracts EXIF information from JPEG files to identify file creators 
+• Automated report generation in XML format saves time and improves accuracy and 
+compatibility 
+• GUI interface and integrated help function ensures a quick start and ease of use 
+• Designed to NIST Disk Imaging Tool Specification 3.1.6 to ensure high quality 
+ 
+ProDiscover Forensics is a tool for computer forensics analysis. It is not possible to hide 
+data from ProDiscover Forensics as it reads the disk at the sector level. This least intrusive 
+approach also allows the investigator to examine the files without altering any valuable 
+metadata, such as last time accessed. ProDiscover Forensics will not alter any data on the 
+disk. ProDiscover Forensics can recover deleted files, examine slack space, and access 
+Windows Alternate Data Streams. It can even allow the investigator to preview, search, and 
+image the Hardware Protected Area (HPA) of the disk with a patent-pending process. 
+ 
+ProDiscover Forensics lets the investigator search through the entire disk for keywords and 
+phrases with full Boolean search capability to find the data they want. Investigators can use 
+the hash comparison capability to find known illegal files or to weed out known good files, 
+such as standard operating system files, by employing the included data from the National 
+Drug Intelligence Center in their Hashkeeper database. ProDiscover Forensics search 
+capability allows searches for words or phrases anywhere on the disk, including the slack 
+space.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.733 
+ 
+ 
+ProDiscover Forensics automatically creates evidentiary quality reports needed to document 
+results, complete with every file and hash signature where evidence was found. This saves 
+time and prevents errors that might compromise an investigator’s case.  
+ 
+For more information about Technology Pathways, visit at www.techpathways.com. 
+ 
+Gargoyle Investigator Forensic Pro Edition  
+Gargoyle Investigator is a software tool created by WetStone for digital investigations. It is 
+used for performing incident responses, field investigations, digital forensic analysis, threat 
+management, or compliance audits. Gargoyle Investigator performs a quick search on a 
+stand-alone system for known contraband or hostile, or “bad,” programs. It also provides 
+clues regarding the activities, motives, and intent of suspects or potential suspects. 
+  
+Gargoyle Investigator Forensic Pro Edition provides investigators with information 
+regarding the contents of a suspect’s computer along with information about its owner’s 
+computer use. Gargoyle performs searches for known bad or hostile programs, their 
+associated files, and remnants of files. Once identified, Gargoyle also maps the detected files 
+to the associated cyber weapons and classifies them into a category of malware.  
+ 
+The Forensic Pro Edition is designed for forensic investigators, examiners, law enforcement 
+personnel, private investigators, and forensic lab use.  
+ 
+Digital Forensics  Investigation 
+3.734   2011 Fraud Examiners Manual  
+ 
+Gargyole 
+ 
+Gargoyle provides the investigator with the ability to gather suspect characteristics from the 
+information revealed. The computer’s sophisticat ion, covert behaviors, and paranoia levels 
+(has the suspect tried to delete incriminating programs?) can all be derived when searching 
+for applications with a common theme. These behaviors can assist in assessing suspect 
+capability, activities, intent, threat, or consciousness of guilt. 
+ 
+For more information about Forensic Pro Edition and other products by WetStone, visit 
+www.wetstonetech.com. 
+ 
+Stego Suite 
+The Stego Suite by WetStone is a software bundle available for the investigation, detection, 
+analysis, and recovery of digital steganography. It identifies the presence of steganography 
+without prior knowledge of the steganography algorithm that might have been used against 
+the target file.  
+ 
+WetStone’s Stego Suite comprises four products: Stego Watch, a steganography tool; Stego 
+Analyst, an image and audio file analyzer; Stego Break, a password cracker; and the recently 
+added Stego Hunter, a steganography application identifier. 
+  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.735 
+ 
+Stego Watch  
+ 
+ 
+ 
+ 
+Stego Analysis 
+ 
+ 
+Stego Break 
+Digital Forensics  Investigation 
+3.736   2011 Fraud Examiners Manual  
+Postmortem analysis of data recovered from a digital crime scene can be a tedious process. 
+When the digital data contains thousands of images, audio files, or digital video that may 
+contain other hidden evidence, the process can be impossible without the aid of key 
+technologies and expertise. Stego Suite’s tools provide the ability to quickly examine and 
+evaluate digital image and/or audio data for the presence of hidden information  
+or communications. 
+ 
+Active Web scanning of a website to ensure that unauthorized people are not using the site 
+to exchange innocuous-looking messages or smuggle proprietary data is also becoming a 
+must. The tools of Stego Suite baseline a Web domain and continuously scan the domain for 
+the presence of hidden data inside digital images.  
+ 
+For more information about the Stego Suite and other products by WetStone, visit 
+www.wetstonetech.com. 
+ 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.801 
+
+
+
+:
+
+
+digit forens softwar
+in recent year a number of product have emerg for digit forens analysi thei rang
+in complex featur and price these product ar continu updat as new technolog
+requir new featur below is a gener list of the most frequent us product on the
+market todai thi is sure to be constantli chang pleas note that the product
+descript ar adapt from materi provid by the manufactur and the acf doe
+not endors ani particular product
+encas forens
+encas forens is a comput forens softwar program by guidanc softwar it give
+investig the abil to imag a drive and preserv it in a forens manner us the
+encas evid file format lef or e01 a digit evid contain vet by court
+worldwid
+encas forens also contain a full suit of analysi bookmark and report featur
+guidanc softwar and third parti vendor provid support for expand capabl to
+ensur that forens examin have the most comprehens set of util
+encas forens also offer power hidden volum detect and volum rebuild
+capabl allow investig to review evid that would have been irretriev with
+other comput forens applic
+how encas forens work
+obtain forens sound acquisit
+encas forens produc an exact binari duplic of the origin drive or media then
+verifi it by gener md5 hash valu for relat imag file and assign crc valu to
+the data these check and balanc reveal when evid ha been tamper with or
+alter help to keep all digit evid forens sound for us in court proceed
+advanc product featur
+examin can preview data while drive or other media ar be acquir onc the imag
+file ar creat examin can search and analyz multipl drive or other media
+digit forens investig
+3728 2011 fraud examin manual
+simultan encas forens also featur a case index thi power tool build a
+complet index in multipl languag allow for fast and easi queri indic can also be
+chain togeth to find keyword common to other investig thi unicodesupport
+index contain person document delet file file system artifact file slack swap file
+unalloc space email and web page in addit encas ha extens file system
+support give organ the abil to analyz all type of data
+enscript program
+encas forens featur enscript program capabl enscript an objectori
+program languag similar to java or c allow user creat to custom program to
+help them autom timeconsum investig task such as search and analyz
+specif document type or other laborintens process and procedur
+provid action data and report on it
+onc investig have bookmark relev data thei can creat a report suitabl for
+present in court to manag or to anoth legal author data can also be
+export in multipl file format for review
+kei featur
+advanc search option
+internet and email support
+multipl viewer
+instant messag analysi
+enscript program
+bookmark
+extens system file support
+multipl acquisit option
+for more inform about encas forens visit wwwguidancesoftwarecom
+forens toolkit
+creat by accessdata the accessdata forens toolkit ftk offer law enforc and
+corpor secur profession the abil to perform complet and thorough comput
+forens examin the ftk featur file filter and search function ftk
+customiz filter allow investig to sort through thousand of file to quickli find the
+evid thei need ftk is also a forens tool to perform email analysi
+investig digit forens
+2011 fraud examin manual 3729
+some of the main featur of thi product ar discuss below
+integr comput forens
+creat imag analyz the registri conduct an investig decrypt file crack
+password identifi steganographi and build a report all with a singl solut
+recov password from 100 applic har idl cpu across the network to
+decrypt file and perform robust dictionari attack
+kff hash librari with 45 million hash
+enterpriseclass architectur
+support larg complex dataset
+becaus the ftk compon ar compartment the user will never lose work due
+to a crash eg if the gui crash the worker continu to process data
+provid the abil to back up and archiv case
+everi copi of ftk 3 includ a total of four worker to enabl distribut process
+it incorpor lab capabl such as the abil to leverag a central databas
+infrastructur and share distribut process farm as well as collabor forens
+analysi central casetask manag and web review thi is of particular valu to law
+enforc and govern comput forens lab
+power process and speed
+distribut process allow the user to leverag up to three addit comput to
+reduc process time and tackl massiv data set
+true multiprocessor and multithread support that take advantag of hardwar
+advanc
+pre and postprocess refin allow user to control how imag ar process
+an advanc datacarv engin that allow user to carv alloc and unalloc
+data and specifi criteria such as file size data type and pixel size to reduc the amount
+of irrelev data carv while increas overal thorough
+optim dtsearch integr deliv fast index and fast search result
+advanc analyt
+ram dump analysi
+an index search engin and a proper fullfeatur regular express engin for binari
+search
+broad file system compound file and email support
+digit forens investig
+3730 2011 fraud examin manual
+support popular encrypt technolog such as credant safeboot utimaco ef
+pgp and guardian edg
+mac support
+preview acquisit and analysi of live data
+perform networkbas secur singlesystem forens acquisit of physic devic
+logic volum and ram
+secur remot devic mount
+for more inform on accessdata visit wwwaccessdatacom
+password recoveri toolkit
+the password recoveri toolkit prtk fr om accessdata is gear toward law
+enforc and corpor secur profession it allow examin to find and identifi
+encrypt file on handheld desktop and server comput system prtk recov lost
+forgotten or unavail password if user need access to lock file or if thei have
+simpli lock themselv out of their file the prtk can get them back in
+secur risk assess tool
+how do hacker bypass an organ strongest secur measur mani peopl us the
+same password to gain access to differ program and network thi could be on of the
+weakest link in an organ secur profil some passwordprotect program ar
+easi to crack while other ar virtual imposs but what if the same password is us for
+both program by gain access to the weakest on fraudster have gain access to the
+strongest on without need to crack both
+investig digit forens
+2011 fraud examin manual 3731
+recoveri properti statu
+featur
+enabl password manag
+analyz file and their password with an option report file
+recov all type of password regardless of password length
+analyz multipl file at on time
+recov multilingu password
+prevent unauthor us with a person secur code
+for more inform on accessdata visit wwwaccessdatacom
+prodiscov forens
+produc by technolog pathwai prodiscov forens is a comput secur tool for
+law enforc that enabl comput profession to find all the data on a comput disk
+while protect evid and creat evidentiari qualiti report for us in legal
+proceed
+featur
+creat bitstream copi of the disk to be analyz includ a hidden hpa section
+patent pend to keep origin evid safe
+search file or an entir disk includ slack space hpa section and window
+nt2000xp altern data stream for complet disk forens analysi
+preview all file even if hidden or delet without alter the data on a disk includ
+file metadata
+digit forens investig
+3732 2011 fraud examin manual
+maintain multitool compat by read and write imag in the pervas unix
+dd format
+examin and cross refer data at the file or cluster level to ensur noth is
+hidden even in slack space
+automat gener and record md5 sha1 or sha256 hash to prove
+data integr
+examin fat12 fat16 fat 32 and all ntf file system includ dynam disk
+and softwar raid for maximum flexibl
+examin sun solari uf file system and linux ext2ext3 file system
+integr graphic thumbnail viewer and registri viewer
+integr window event log viewer
+extract internet histori
+util perl script to autom investig task
+extract exif inform from jpeg file to identifi file creator
+autom report gener in xml format save time and improv accuraci and
+compat
+gui interfac and integr help function ensur a quick start and eas of us
+design to nist disk imag tool specif 316 to ensur high qualiti
+prodiscov forens is a tool for comput forens analysi it is not possibl to hide
+data from prodiscov forens as it read the disk at the sector level thi least intrus
+approach also allow the investig to examin the file without alter ani valuabl
+metadata such as last time access prodiscov forens will not alter ani data on the
+disk prodiscov forens can recov delet file examin slack space and access
+window altern data stream it can even allow the investig to preview search and
+imag the hardwar protect area hpa of the disk with a patentpend process
+prodiscov forens let the investig search through the entir disk for keyword and
+phrase with full boolean search capabl to find the data thei want investig can us
+the hash comparison capabl to find known illeg file or to weed out known good file
+such as standard oper system file by emploi the includ data from the nation
+drug intellig center in their hashkeep databas prodiscov forens search
+capabl allow search for word or phrase anywher on the disk includ the slack
+space
+investig digit forens
+2011 fraud examin manual 3733
+prodiscov forens automat creat evidentiari qualiti report need to document
+result complet with everi file and hash signatur where evid wa found thi save
+time and prevent error that might compromis an investig case
+for more inform about technolog pathwai visit at wwwtechpathwayscom
+gargoyl investig forens pro edit
+gargoyl investig is a softwar tool creat by wetston for digit investig it is
+us for perform incid respons field investig digit forens analysi threat
+manag or complianc audit gargoyl investig perform a quick search on a
+standalon system for known contraband or hostil or bad program it also provid
+clue regard the activ motiv and intent of suspect or potenti suspect
+gargoyl investig forens pro edit provid investig with inform
+regard the content of a suspect comput along with inform about it owner
+comput us gargoyl perform search for known bad or hostil program their
+associ file and remnant of file onc identifi gargoyl also map the detect file
+to the associ cyber weapon and classifi them into a categori of malwar
+the forens pro edit is design for forens investig examin law enforc
+personnel privat investig and forens lab us
+digit forens investig
+3734 2011 fraud examin manual
+gargyol
+gargoyl provid the investig with the abil to gather suspect characterist from the
+inform reveal the comput sophisticat ion covert behavior and paranoia level
+ha the suspect tri to delet incrimin program can all be deriv when search
+for applic with a common theme these behavior can assist in assess suspect
+capabl activ intent threat or conscious of guilt
+for more inform about forens pro edit and other product by wetston visit
+wwwwetstonetechcom
+stego suit
+the stego suit by wetston is a softwar bundl avail for the investig detect
+analysi and recoveri of digit steganographi it identifi the presenc of steganographi
+without prior knowledg of the steganographi algorithm that might have been us against
+the target file
+wetston stego suit compris four product stego watch a steganographi tool stego
+analyst an imag and audio file analyz stego break a password cracker and the recent
+ad stego hunter a steganographi applic identifi
+investig digit forens
+2011 fraud examin manual 3735
+stego watch
+stego analysi
+stego break
+digit forens investig
+3736 2011 fraud examin manual
+postmortem analysi of data recov from a digit crime scene can be a tediou process
+when the digit data contain thousand of imag audio file or digit video that mai
+contain other hidden evid the process can be imposs without the aid of kei
+technolog and expertis stego suit tool provid the abil to quickli examin and
+evalu digit imag andor audio data for the presenc of hidden inform
+or commun
+activ web scan of a websit to ensur that unauthor peopl ar not us the site
+to exchang innocuouslook messag or smuggl proprietari data is also becom a
+must the tool of stego suit baselin a web domain and continu scan the domain for
+the presenc of hidden data insid digit imag
+for more inform about the stego suit and other product by wetston visit
+wwwwetstonetechcom
+investig trace illicit transact
+2011 fraud examin manual 3801

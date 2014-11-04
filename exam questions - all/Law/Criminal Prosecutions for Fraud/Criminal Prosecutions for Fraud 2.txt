@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Johnson, a fraud defendant, is being tried in a criminal case. Blue, a Certified Fraud Examiner, is a key fact witness in Johnson's trial. At what point does Johnson have a right to see written statements by Blue that relate to the subject matter of Blue's testimony?
+
+Options=Before the trial commences | After Blue testifies | Before Blue testifies | Any of the above
+
+CorrectResponse=1
+
+Explanation=In a criminal trial, both the prosecution and defense have statutory rights to certain pre-trial discovery. The defendant may inspect copies of ail relevant statements made by him in the custody of the government, a copy of his prior criminal record, and all documents, items, test results and other evidence the government intends to introduce at a trial or that are necessary to his defense. The defendant does not, however, have an absolute right to see copies of prior statements made by a witness against the accused until such witness testifies at trial. As a practical matter, however, the government v/ill frequently furnish such statements to the defendant.See page(s) 2.513 in the Fraud Examiner's Manual

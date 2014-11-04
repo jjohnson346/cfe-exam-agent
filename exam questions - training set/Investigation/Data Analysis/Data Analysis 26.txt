@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=In choosing a data analysis software tool, which of the following is an important consideration?
+
+Options=Firewall capability | Spell check features | Data visualization tools | None of the above
+
+CorrectResponse=2
+
+Explanation=When evaluating data analysis software, the following should be considered:‰?¢	Data import/export capabilities. Considering your data format and structure, how easily is data imported/exported?‰?¢	Data visualization. How easy is it to move your data from a spreadsheet into a graphic for analysis and interpretation?‰?¢	Look for a suite of tools. Just as there is not one screwdriver for every job, there is not only one software for your fraud intelligence efforts. Choose the most appropriate set of tools for your data and then select the software that best fits your current and future needs.See page(s) 3.614 in the Fraud Examiner's Manual

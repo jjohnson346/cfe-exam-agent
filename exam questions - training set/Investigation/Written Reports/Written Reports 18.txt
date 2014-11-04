@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=In reporting results of a fraud examination, the formal report should include all original documents, not copies.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Most evidence in fraud cases will be in document form. When operating under a lawful court order that compels a custodian to furnish original documents, the examiner should copy those documents (preferably in the presence of the custodian). Then the examiner should furnish the custodian with a receipt describing the documents copied or taken. After obtaining documents, the examiner should secure them for evidence. Be sure that only those people with an absolute need for the documents can gain access to them. For practical purposes, it usually is best to copy all documents. (Original documents usually are not included in reports.) Mark all original documents in a unique manner, preferably by using initials and dates. To avoid defacing originals, use a small but distinctive tick mark or other form of identifier.See page(s) 3.903-3.904 in the Fraud Examiner's Manual

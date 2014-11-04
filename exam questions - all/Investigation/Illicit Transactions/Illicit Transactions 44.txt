@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=After a certified check has been negotiated, it is always returned to the customer who purchased it.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Certified checks are those on which “certified" is written or stamped across the front by the bank. This certification is a guarantee that the bank will pay the amount of the check. Certified checks are liabilities of the bank and, when paid, are kept by the bank. These checks are immediately charged against the customer s account by debit memorandums. However, some banks permit customers to retrieve the original checks by surrendering the debit memorandum.See page(s) 3.820 in the Fraud Examiner's Manual

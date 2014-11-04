@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Which of the following statutes is the heart of the United States money laundering control effort?
+
+Options=1991 Money Laundering Crime Control Act | 1970 Bank Secrecy Act | 1985 Bank Recording Act C D 1990 Crime Control Act | 1990 Crime Control Act
+
+CorrectResponse=1
+
+Explanation=Although money laundering has been around for a long time, the Bank Secrecy Act (BSA), which went into effect in 1970, was the first major piece of legislation aimed at detecting and preventing money laundering. The purpose of the law as stated in Section 5311 is "to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings." The BSA sets forth a system of reporting and recordkeeping requirements designed to help track large or unusual financial transactions. See page(s) 1.1621 in the Fraud Examiner?s Manual

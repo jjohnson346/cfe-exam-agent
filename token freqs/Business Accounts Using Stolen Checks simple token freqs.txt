@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+transactions                           1
+using                                  2
+institutions                           1
+by                                     1
+checks                                 2
+from                                   1
+fraud                                  2
+business                               4
+close                                  1
+another                                1
+withdraw                               1
+2011                                   1
+bank                                   1
+defraud                                1
+fraudsters                             1
+institution                            1
+stolen                                 2
+financial                              2
+accounts                               1
+a                                      1
+the                                    3
+customers                              1
+and                                    1
+manual                                 1
+new                                    1
+funds                                  1
+then                                   1
+opening                                1
+examiners                              1
+account                                2
+1.932                                  1
+some                                   1
+
+Totals:                     32        43

@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Health care fraud schemes committed by providers, such as doctors and home health care agencies, and by the insured are known as:
+
+Options=Internal frauds | External frauds | Churning | None of the above
+
+CorrectResponse=1
+
+Explanation=External health care fraud is perpetrated by outsiders against the company. The two main types of external fraud schemes are those committed by providers (such as doctors, institutions, and home health agencies) and claim frauds by the insured.See page(s) 1.1102 in the Fraud Examiner's Manual

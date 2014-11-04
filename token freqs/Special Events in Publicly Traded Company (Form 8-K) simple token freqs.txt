@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+common                                 1
+investors                              1
+events                                 1
+one                                    1
+most                                   1
+of                                     3
+traded                                 1
+event                                  1
+unscheduled                            1
+notify                                 1
+any                                    1
+types                                  1
+forms                                  1
+is                                     2
+with                                   1
+form                                   2
+8-k                                    2
+the                                    2
+in                                     1
+material                               1
+corporate                              1
+which                                  1
+sec                                    1
+company                                1
+special                                1
+publicly                               1
+filed                                  2
+
+Totals:                     28        35

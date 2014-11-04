@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Baker, a Certified Fraud Examiner is interviewing Green. During the interview, Baker could tell Green was becoming uncomfortable at the sensitive nature of the questions. As a general proposition, what should Baker do next?
+
+Options=Ask a nonsensitive question and return later to the sensitive questions | Press on with the questions | Drop the sensitive questions altogether | None of the above
+
+CorrectResponse=0
+
+Explanation=If the respondent starts to become uncomfortable with the questioning, the interviewer should move into a different area and approach the sensitive question later from a different vantage point. Some people will not volunteer information; they must be asked. The interviewer must not be reluctant to ask sensitive questions after the proper basis has been established. If the interviewer poses the question with confidence and with the attitude that an answer is expected, the respondent will be much more likely to furnish the requested information. If the interviewer is apologetic or lacks confidence in the question, the respondent is much less likely to answer.See page(s) 3.217 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Detecting a computer virus may be as simple as reading a message on the screen. However, not all viruses announce their presence. Which of the following may be symptoms of a viral infection? \r\rI.	Increase in size of some files \rII.	Unexplained changes in memory \rIII.	Inability to access files \rIV.	An Error 459 messager
+
+Options=I, III, and IV | I, II, and III | I, II, III, and IV | I,	II, and IV
+
+CorrectResponse=1
+
+Explanation=The following are some of the indicators that a computer might exhibit suggesting that it might be infected: • A sudden and sometimes dramatic decrease of free space on your media.	----*u« --f	f:i—See page(s) 1.1822 in the Fraud Examiner's Manual

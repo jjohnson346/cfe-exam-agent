@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=One of the best ways to detect check tampering is to carefully reconcile all company bank accounts. Which of the following tests should be performed when reconciling accounts?
+
+Options=Examine canceled checks and compare them to a list of outstanding checks. | Foot the balance to the organization's ledger | Confirm the mathematical accuracy of the reconciliation. | All of the tests should be performed.
+
+CorrectResponse=3
+
+Explanation=Copies of the bank reconciliations and account analysis should be obtained along with the complete set of bank statements on all checking and savings accounts, as well as certificates of deposit and other interest-bearing and non-interest bearing accounts. From the reconciliations perform the following tests:•	Confirm the mathematical accuracy of the reconciliation.•	Examine the bank statement for possible alterations.•	Trace the balance on the statement back to the bank cut-off and bank confirmation statements.•	Foot the balance to the company’s ledger.•	Trace the deposits in transit to the bank cut-off statement to ensure recording in proper period.•	Examine canceled checks and compare to the list of outstanding checks.See page(s) 152 in the Corporate Fraud Handbook

@@ -1,0 +1,21 @@
+Token                          Frequency
+-----------------------------  ---------
+financial                              1
+irs                                    1
+investigative                          2
+potential                              1
+the                                    3
+investigates                           1
+code                                   1
+related                                1
+and                                    1
+violations                             1
+of                                     1
+division                               2
+criminal                               3
+crimes                                 1
+service                                2
+internal                               3
+revenue                                3
+
+Totals:                     17        28

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Computers can be both the targets of a crime and facilitators of crime.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Computers themselves can be the targets of crime. Crimes committed against computers include: computer and computer component theft, system intrusions, software piracy, and software theft. Computers can also be used to facilitate a crime. When this occurs, the computer is known as the tool or instrument of crime. In such cases, as one would expect, examiners commonly encounter computers that have been used in offences such as the solicitation of minors in chat rooms, check fraud, and counterfeiting.See page(s) 3.702 in the Fraud Examiner's Manual

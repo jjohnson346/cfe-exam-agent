@@ -1,0 +1,10 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=The objective(s) of asking admission-seeking questions is (are):
+
+Options=To distinguish innocent people from guilty | To obtain a valid confession | To obtain a written statement acknowledging the facts | All of the above
+
+CorrectResponse=3
+
+Explanation=The first purpose of admission-seeking questions is to distinguish innocent people from guilty ones. A culpable individual will frequently confess during the admission-seeking phase of an interview, while an innocent person will not do so unless threats or coercion are used. The second purpose is to obtain a valid confession. The third purpose of admission-seeking questions is to convince the confessor to sign a written statement acknowledging the facts.  See page(s) 3.249 in the Fraud Examiner's Manual
+

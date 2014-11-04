@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Along with the Gramm-Leach-Bliley Act (GLB), which of the following laws criminalizes pretexting?
+
+Options=The Privacy Act of 1974 | Fair Credit Reporting Act (FCRA) | Health Insurance Portability and Accountability Act | The Telephone Records and Privacy Protection Act of 2006 (TRPPA)
+
+CorrectResponse=3
+
+Explanation=The Telephone Records and Privacy Protection Act of 2006 (TRPPA) criminalizes certain types of pretexting. Enacted in response to the Hewlett Packard pretexting scandal, the TRPPA criminalizes the practice of obtaining and attempting to obtain, sell, or buy confidential phone records through the use of false statements, unless otherwise permitted by lav/.See page(s) 2.444 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In the United States, there is no general federal law prohibiting commercial bribery in all instances.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Commercial bribery may or may not be a criminal offense. For example, in the United States there is no general federal law prohibiting commercial bribery in all instances. However, there are statutes prohibiting bribery of employees of financial institutions to influence a loan. Additionally, commercial bribery can often be pursued in the civil courts as breach of fiduciary duty or conflict of interest.See page(s) 1.701 in the Fraud Examiner's Manual

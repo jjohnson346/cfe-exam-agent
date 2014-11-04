@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Baker, an accounts receivable clerk, stole incoming customer payments before they were posted to the customers' accounts. Baker placed the stolen funds in a short-term security. Later, Baker withdrew the stolen funds and posted them to the customers' accounts, but he kept the interest that had been earned. According to Corporate Fraud Handbook, Baker is guilty of:
+
+Options=A cash larceny scheme | A short-term skimming scheme | An understated sales and receivables (skimming) scheme | None of the above because the payments were returned
+
+CorrectResponse=1
+
+Explanation=Short-term skimming is not a distinct method for stealing sales and receivables, but rather a distinct way of using skimmed money. The peculiar aspect to short-term skimming is that the fraudster only keeps the stolen money for a short while before eventually passing the payment on to his employer. The employee merely delays the posting. In a short-term skimming scheme, an employee steals an incoming payment and then places the skimmed funds in an interest bearing account or in a short-term security. The employee earns interest on the skimmed payments while they remain under his control. Eventually, he withdraws the principle and applies it to the customer’s account, but retains the interest for himself.See page(s) 83 in the Corporate Fraud Handbook

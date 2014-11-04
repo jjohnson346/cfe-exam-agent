@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=In 1996. Congress passed a lav/ that makes theft of trade secrets a federal criminal offense. The title of that law is:
+
+Options=Trade Secret Theft Act | Economic Espionage Act | Business Sabotage Act | None of the above
+
+CorrectResponse=1
+
+Explanation=The Economic Espionage Act of 1996 makes the theft of trade secrets a federal criminal offense. Under this statute, the Department of Justice has sweeping authority to prosecute trade secret theft whether it is in the United States, via the Internet, or outside the United States.See page(s) 1.890 in the Fraud Examiner's Manual

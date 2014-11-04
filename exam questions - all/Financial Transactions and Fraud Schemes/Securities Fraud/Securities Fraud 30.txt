@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The Sarbanes-Oxley Act imposes two types of certifications on CEOs and CFOs - criminal certifications and civil certifications.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One of the most significant changes effected by the Sarbanes-Oxley Act is the requirement that chief executive officers and chief financial officers of public companies personally certify annual and quarterly SEC filings. There are two types of officer certifications mandated by Sarbanes-Oxley: criminal certifications, which are set forth in Section 906 of the Act and codified at 18, U.S.C., §1350, and civil certifications, which are set forth in Section 302.See page(s) 1.1504 in the Fraud Examiner’s Manual

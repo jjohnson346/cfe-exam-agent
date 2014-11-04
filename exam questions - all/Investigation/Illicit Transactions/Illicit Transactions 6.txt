@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following usually are considered the most useful source of financial information available to fraud examiners?
+
+Options=Financial statements | Bank records | Tax returns | None of the above
+
+CorrectResponse=1
+
+Explanation=Bank records are perhaps the single most important source of financial information available to a fraud examiner. In addition to their use as evidence for fraud, a bank's records might provide leads on sources of funds, expenditures, and personal affairs. However, fraud examiners should recognize that in most instances bank records are not readily obtainable. Substantial requirements usually must be met to justify legal process (subpoena, search warrant, and the like), which banks will customarily demand as a condition for disclosure. Preliminary investigation is of the utmost importance to lay the basis for obtaining such records.See page(s) 3.805 in the Fraud Examiner's Manual

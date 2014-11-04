@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Title 18, U.S. Code, Section 1030, entitled "Fraud and Related Activity in Connection with Computers" prohibits accessing a "protected" computer without authorization. A "protected" computer is defined by this statue as a computer:
+
+Options=Used exclusively by the United States government | Used exclusively by a financial institution | Which is used in interstate commerce | All of the above
+
+CorrectResponse=3
+
+Explanation=Title 18. U.S. Code, Section 1030(e)(2) provides as follows: ‰?? the term 'protected computer means a computer (A) exclusively for the use of a financial institution or the United States Government, or, in the case of a computer not exclusively for such use, used by or for a financial institution or the United States Government and the conduct constituting the offense affects that use by or for the financial institution or the Government; or (B) which is used in interstate or foreign commerce or communications."See page(s) 2.311 in the Fraud Examiner's Manual

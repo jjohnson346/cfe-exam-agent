@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The type of fraud that targets groups of people who have some social connection, such as neighborhoods of racial minorities or immigrant groups, is known as:
+
+Options=Consolation | Reloading | Affinity fraud | None of the above
+
+CorrectResponse=2
+
+Explanation=Affinity fraud targets groups of people who have some social connection. Neighborhoods chiefly populated by racial minorities, especially immigrant groups, are often the site of affinity frauds. Religious and professional ties are often exploited.See page(s) 1.1713-1.1714 in the Fraud Examiner's Manual

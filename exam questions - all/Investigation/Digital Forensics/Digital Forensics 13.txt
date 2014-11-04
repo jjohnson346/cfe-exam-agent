@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=If digital evidence is handled improperly, it may be ruled inadmissible as evidence in court.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The proper handling of digital evidence is critical; it is easily altered or destroyed if handled improperly. The destruction of digital evidence through improper handling can result in a finding of spoliation of evidence by a judge or can raise questions about the alteration of exculpatory evidence by the defense. If a judge determines that the authenticity of the evidence cannot be satisfactorily made, then he may rule that the evidence is inadmissible.See page(s) 3.702 in the Fraud Examiner's Manual

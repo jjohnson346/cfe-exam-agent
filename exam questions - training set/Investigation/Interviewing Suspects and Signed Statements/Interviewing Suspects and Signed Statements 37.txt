@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Brown, a Certified Fraud Examiner, is conducting an admission-seeking interview of Blue, a fraud suspect. Blue has decided to confess How should Brown go about getting all the details?
+
+Options=Start chronologically | Get the general details, then the specifics | Begin with the last incident | None of the above
+
+CorrectResponse=1
+
+Explanation=During the admission-seeking interview, it is best to first confirm the general details of the offense. For example, the interviewer will want the accused's estimates of the amounts involved, other parties to the offense, and the location of physical evidence. After these basic facts are confirmed, the interviewer can then return to the specifics, in chronological order. It is imperative that the interviewer obtain an early admission that the accused knew the conduct in question was wrong. This confirms the essential element of intent.See page(s) 3.265 in the Fraud Examiner's Manual

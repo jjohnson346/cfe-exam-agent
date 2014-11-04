@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=A computer program that contains instruction codes to attack software is commonly referred to as a:
+
+Options=Hacker | Virus | Spoof | Smurf
+
+CorrectResponse=1
+
+Explanation=A computer virus is a program that contains instruction codes to attack software. The attack may erase data or display a message on the screen. The computer virus can copy itself to other programs. This copy ability can affect large networks. Viruses are hidden computer programs that use all the computer's resources, thereby shutting down the system or slowing it down significantly. Computer viruses range from the relatively harmless (displaying a message or greeting) to shut-downs of entire computer networks for extended periods.See page(s) 1.1816 in the Fraud Examiner's Manual

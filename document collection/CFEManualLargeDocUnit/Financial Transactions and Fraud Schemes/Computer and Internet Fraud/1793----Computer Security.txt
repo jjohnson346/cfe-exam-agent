@@ -1,0 +1,708 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Computer Security 
+ 
+Effective Security  
+Effective computer security ensures the availability of accurate data in time to meet an 
+organization’s needs at a cost that is commen surate with the risks involved. Key elements 
+are: 
+• Protecting data and programs from intentional or inadvertent unauthorized alteration or 
+destruction. 
+• Maintaining the confidentiality, integrity, and availability of data. 
+• Protecting the data center from physical threats such as fire, flood, and intentional 
+destruction.  
+• Having the capability to restore data center operations in case of complete destruction. 
+ 
+The most important step is to obtain management support for effective security. Without 
+such support, any security plan will falter. 
+ 
+Securing the Communications Network 
+Some communications networks are very large, very complex, and technically demanding. 
+The task of effectively securing these networks is demanding and requires the close 
+cooperation of both network and security administration. The objective of data and voice 
+networks is to provide connectivity with acceptable response times, user-friendly access, and 
+a secure mode at an acceptable cost to the organization.  
+ 
+Passwords 
+Passwords are the predominant form of authenticating valid users. Effective password 
+administration is essential for maintaining security. Passwords should be of sufficient length 
+(usually a minimum of eight characters) and a combination of letters, numbers, and other 
+characters, such as punctuation marks to avoid guessing. Group passwords and sharing of 
+passwords should be prohibited so as to maintain individual accountability. Passwords of all 
+terminated employees should be revoked immediately. Security administration often 
+coordinates the notification of terminated employees with the personnel function. 
+Employees who have changed job functions or transferred should have their old passwords 
+canceled and new ones issued, if appropriate.  
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1840                           2011 Fraud Examiners Manual  
+Other Network Security 
+Securing a computer network by means of logical controls is a difficult but necessary 
+requirement for ensuring the safety of a computer system from attacks by outsiders. Logical 
+controls include management security policies, user authentication systems, data access 
+controls, network firewalls, security awareness training, encryption algorithms, penetration 
+testing, intrusion detection software, and incident response plans.  
+ 
+Network security can also be provided by a combination of design, hardware devices, and 
+software. Data encryption is carried out by a combination of hardware and software. 
+Encrypted data is scrambled by a formula using a unique key and can only be unscrambled 
+with the same formula and key at the receiving end. The decision to use encryption should be 
+made in light of the risks and after a cost-benefit analysis. Drawbacks to encryption are the 
+cost of the hardware and software, the cost of the administration, and the inherent delays 
+incurred by the extra steps required for processing. 
+ 
+Digital signatures are becoming more common, in part because Congress and many states 
+have passed legislation to legitimize the electronic “signing” of documents. In 2000 the 
+Electronic Signatures in Global and National Commerce Act (E-SIGN Act) became 
+effective. This federal statute basically provides a mechanism whereby any document that is 
+required to be signed, can be signed “electr onically.” The E-SIGN Act does not require a 
+party to use or accept electronic signatures, electronic contracts or electronic records, but 
+rather seeks to facilitate the use of electronic signatures and documents by upholding their 
+legal effect regardless of the type or method selected by the parties. The E-SIGN Act is also 
+technology-neutral and does not require a specific type or method that businesses and 
+consumers must use or accept in order to conduct their electronic transaction. The Act 
+regulates any transactions involving interstate or foreign commerce. However, many states 
+have enacted their own digital signature laws, which regulate purely intrastate transactions. 
+Additionally, many state and federal agencies, including the Internal Revenue Service and the 
+Securities and Exchange Commission, are encouraging the use of electronic filing and digital 
+signatures as a means to speed up the collection and processing of information. 
+ 
+Biological access verification, long the favorite stuff of movie makers, is now available.  
+This verification technique includes fingerprints, palm prints, voice prints, signatures, and 
+retina scans. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1841 
+Profiling software authenticates users by monitoring their statistical characteristics, such as 
+typing speed and keystroke touch. Smart card access devices are similar to an ATM card; like 
+ATM cards, they are susceptible to loss and forgery. 
+ 
+The most effective components of internal security are education, reporting facilities, and 
+vigorous disciplinary action for offenders, including prosecution of illegal acts. An 
+enterprise-wide employee awareness program should be combined with formal training in 
+the area of information security. For employees to fulfill their security responsibilities they 
+should know what information needs to be kept confidential, how to recognize threats to 
+security, and how to use backups and other aids for their desktop machines. Giving 
+employees incentives such as bonuses to follow security guidelines, however, will be the 
+most effective motivator. 
+ 
+Protecting the network from external threats requires some additional considerations. The 
+less an external perpetrator knows about the technology environment (for example, type of 
+hardware and software packages used), the harder it is to obtain fraudulent access. Part of 
+the security policy should address how much and what kind of information regarding the 
+technology of an organization should be made public.  
+ 
+Organizations should guard against providing too much access to third parties. There is 
+pressure to establish connectivity by marketing, purchasing, research, and other branches. 
+Connectivity should be granted only after it has been established that the benefits outweigh 
+the risks and costs. 
+ 
+The Risk Assessment Process 
+As organizations grow, their information technology and data change both in type and 
+quantity. Assumptions made about security need to be updated. The vehicle for updating is 
+the risk assessment. This is a zero-based process that should be performed periodically. A 
+risk assessment is an analysis of the security objectives of confidentiality, integrity,  
+and availability. 
+ 
+Each data element should be examined to determine the impact if it is disclosed, lost, or 
+entered incorrectly. Once this information is collected, the security measures in place should 
+be reviewed to determine whether they provide necessary safeguards. The risk assessment 
+process is a time-consuming process to undertake and many organizations employ outside 
+security consultants to reduce its impact on day-to-day operations.  
+Computer and Internet Fraud  Financial Transactions   
+1.1842                           2011 Fraud Examiners Manual  
+Internal Controls in the Data Center 
+In most instances, computer-related crimes are very difficult to detect. An intruder may be 
+able to gain unauthorized access to a network or computer system, perpetrate whatever 
+criminal activity was planned, and retreat without anyone being aware of the intrusion, much 
+less the criminal activity that has taken place. So how does an organization become aware 
+that its information resources have been compromised by someone — either inside or outside 
+of the organization — with criminal intent? A few possibilities include: 
+• A strong set of policies and standards to define for employees and management what the 
+company deems as unacceptable or unauthorized activities. 
+• Strong physical security to thwart those intent upon the theft of physical assets of the 
+organization. 
+• Central Systems access control and data object protection. 
+• Strong security for the organization’s application programs. 
+• Intrusion detection hardware and software for network and communications resources. 
+• Auditing of system and violation logs.  
+ 
+All of these mechanisms, if used correctly, will alert the organization of inappropriate 
+actions. This all assumes, of course, that someone is keeping an eye out for exceptions and 
+violations. All of the security policies and standards, the intrusion detection software, the 
+violation logs, and the access controls will mean absolutely nothing if the organization is not 
+committed to applying them properly and maintaining them adequately. 
+ 
+General controls over a data center are relevant for all applications. The general control 
+categories include system maintenance, implementation of new systems (including 
+development), computer operations, system software (including security and 
+telecommunications software), and data files. 
+ 
+Systems Maintenance 
+All program and system changes should be approved in writing. Programmers should not 
+have access to the production library, but only to “test” libraries. All programs that are to be 
+modified should be moved into a test library by someone other than a programmer. All 
+completed program changes should be tested and the results approved by both data center 
+and user personnel before being placed into production. Adequate program documentation 
+should be approved for all program changes. User personnel should be notified when 
+modified programs will be placed into production. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1843 
+Implementation Controls 
+Implementation controls are those controls over the development of, or purchase of, a new 
+application. All new system requests should be made in writing. A system development life-
+ cycle methodology should be used for developing and implementing in-house or purchased 
+packages. All new systems requests should be approved by the appropriate management 
+level. Users should be involved in the project from design through final testing. All test 
+results should be approved by both data center management and user personnel. There 
+should be an implementation plan for placing the new system into production. 
+ 
+Computer Operations 
+Computer operations controls are controls that govern the day-to-day operation of the 
+computer system. There should be an approved schedule for all production runs. All system 
+activity should be reviewed by data center management. Any unusual program executions 
+should be investigated and resolved. A log of unusual events, such as abends  (abnormal 
+terminations of a program execution) or reruns should be kept by operations staff and also 
+should be reviewed by data center management. Access to the computer room should be 
+restricted to authorized personnel. All third parties, such as technicians, should be 
+accompanied by a data center employee. Doors to the data center should be secured. 
+ 
+System Software 
+Controls over system software include those that govern the installation of the computer 
+system, the communications software, and the security software. Data center management 
+should approve the system software selection as well as the chosen options and parameters. 
+System software should be tested before implementation in a production environment. 
+(Note that this might not be possible for the operating system itself.)  
+ 
+Data Files 
+Controls over data files ensure that correct files are used for each production job and that 
+adequate backup files exist. Data-file label bypass options should be disabled. A data file 
+management system should be used to record and locate all data files. Data file backup 
+copies should be made and stored in a secure facility. Off-site backup file copies should be 
+maintained in case of a disaster in the data center. Utilities that can modify data files should 
+be removed from the system and used only under management supervision. Live data files 
+should not be used for testing. 
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1844                           2011 Fraud Examiners Manual  
+Access and Telecommunication Controls 
+In the 1960s and 1970s, access controls meant ensuring that there was a lock on the 
+computer room door. As online systems were implemented, the definition of access evolved 
+to include logical access in addition to physical access. Logical access refers to any location 
+where someone can sign on to the system. That sign-on access can be a direct connection or 
+a dial-up. In today’s, online, real-time, and in terconnected world, it is easy to forget physical 
+guards over computer equipment. Computer equipment must be physically secured. This 
+should include network servers, telephone system computers, communications controllers, 
+and personal computers with sensitive data. 
+ 
+Access and telecommunications controls should achieve the following objectives: 
+• Provide physical security over equipment, users, and information. 
+• Protect critical data from loss, damage, or unauthorized disclosure. 
+• Ensure network reliability by using appropriate hardware and software. 
+• Prevent unauthorized access and use of the network. 
+• Ensure system availability. 
+• Meet user requirements. 
+ 
+Separation of Duties 
+Separation of duties is a key element in a well-designed internal control system. It is also 
+fundamental to detecting and preventing fraud. Programmers should not operate the 
+computer, have unsupervised access to production programs, or have access to production 
+data sets (data files). Users should not have access to the production program code. 
+Computer operators should not perform computer programming. Adequate supervision 
+should be provided by personnel who do not actually perform the work. 
+ 
+Logs and History Files 
+Computer systems maintain a variety of history files or logs. These logs record activity in the 
+following areas: 
+• Mainframe activity 
+? Programs executed 
+? Data files accessed 
+? Date, time, and duration 
+? User IDs that initiated a particular action 
+? Error messages 
+? Equipment malfunctions 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1845 
+• Communications activity 
+? User ID 
+? Terminal identifier 
+? Dial-in port identifier 
+? Date, time, and duration 
+? Error messages 
+? Equipment malfunctions 
+• Security software activity 
+? User ID 
+? Unsuccessful log-in attempts 
+? Modifications to the password files and access capability 
+ 
+These logs were originally designed to help in troubleshooting the system and correcting 
+errors. These files contain a very valuable audit and fraud examination trail of system 
+activity, and are now used for internal control functions. The logs should be reviewed by a 
+responsible data center official and evidence should exist of this review. Many of the history 
+files have a limited capacity and can be forced into wrapping if not printed periodically. 
+Wrapping forces the software to record at the beginning of the file if the file is full and not 
+printed out.  
+ 
+Security Software 
+There are a number of good security software packages on the market for all mainframes 
+and most minicomputers. Security packages available for PCs are less numerous. Local area 
+networks have some security packages available, but still rely primarily on the individual user 
+in a stand-alone mode or the mainframe security in a connected mode. The purchase and 
+installation of a security package might provide a false sense of security. Most of these 
+packages are designed to be installed in a phased approach because of the complexity of  
+the task.  
+ 
+These options and decisions about security software should be reviewed by management. 
+For example, most mainframe security packages allow a minimum of three levels of security. 
+Log mode merely logs all system access to defined programs and data files. Warn mode tells the 
+user if he is accessing a program or file that is not authorized for the password he has 
+employed. Activity is also logged. Fail mode will not allow a user to access defined data files 
+and programs without the proper password. This is the highest level of security and the only 
+one that provides adequate protection. Another very important consideration involves the 
+Computer and Internet Fraud  Financial Transactions   
+1.1846                           2011 Fraud Examiners Manual  
+manual supervision of data provided by security packages, usually in the form of access logs. 
+A security package needs consistent review to protect against possible violations. 
+ 
+Internal Controls in Computer Applications 
+Internal controls establish checks and balances to prevent one person from controlling the 
+entire financial transaction. Competent and trustworthy employees are obviously a necessary 
+element of a good internal control system. No employee with a known history of dishonesty 
+should be hired.  
+ 
+Assets and records, which can be easily appropriated or destroyed, should be physically 
+safeguarded. They should be safeguarded by locks, physical security, and other methods to 
+ensure that they will not be misappropriated. All accounting systems rely on proper 
+documentation. Missing documentation should be  regarded as a red flag of possible fraud. 
+Someone independent of the transaction must check the accounting controls. The 
+knowledge that all work is checked is a powerful fraud deterrent. The elements of sound 
+internal control do not change in a computerized environment. Objectives do not change, 
+but techniques do. 
+ 
+Control Techniques 
+Control techniques commonly used in computerized systems are listed below. 
+• One-for-one checking consists of checking each source document against a detailed list 
+processed by the computer. This technique is normally used for low-volume input 
+because of the cost and time involved. 
+• Batch/control totals involve manually grouping transactions at the input stage and 
+manually establishing a control total over the entire group. The methods used include 
+document counts, item or line counts, dollar totals, and cash totals. 
+• In computer sequence checking, the computer verifies the preassigned serial numbers of 
+input transactions and reports missing or duplicate numbers. 
+• Computer matching consists of the computer matching the input data to information 
+held on the master file or suspense files. Unmatched items are reported for investigation.  
+• Programmed edit checks are computer program procedures that edit data. Examples 
+include: 
+? Reasonableness 
+? Dependency 
+? Existence 
+? Format 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1847 
+? Mathematical accuracy 
+? Range 
+? Digit verification 
+? Prior data matching 
+• Prerecorded input is used to reduce errors during data entry.  
+ 
+Control Objectives 
+Well-designed computer applications have built-in controls for all functions. The major 
+control objective is completeness of input. 
+  
+Input completeness  control techniques are one-for-one checking, batch control totals, computer 
+sequence check, and computer matching. Input accuracy controls ensure that data is initially 
+recorded correctly and converted correctly to machine-readable form. Input accuracy control 
+techniques are one-for-one checking, batch control totals, computer matching, programmed 
+edits, and prerecorded input. 
+ 
+Update accuracy ensures that the correct master file account is updated correctly with the 
+correct transaction. Update accuracy control techniques are one-for-one checking, batch control 
+totals, computer matching, and programmed checks. Update control completeness ensures that all 
+data entered and accepted by the system updates the master file once and only once. Update 
+control completeness techniques are one-for-one checking, batch control totals, computer sequence 
+checks, and computer matching. 
+ 
+Authorization controls ensure that only valid transactions are processed, that all transactions 
+processed are authorized by management, and that transactions represent events that actually 
+occurred. Authorization techniques used are one-for-one checking and programmed checks. 
+ 
+Maintenance controls provide that data is kept up-to-date or identify unusual data requiring 
+further action. They also ensure that data stored on file is not changed except through the 
+normal processing cycle. Maintenance control techniques are used for one-for-one checking, 
+batch control totals, and programmed checks. 
+ 
+Evaluating Application Controls 
+Evaluating internal controls in an application system requires a thorough understanding of 
+the system. The first phase, information gathering, consists of collecting information about 
+the industry and the risks associated with that industry; conducting ratio analysis and peer 
+Computer and Internet Fraud  Financial Transactions   
+1.1848                           2011 Fraud Examiners Manual  
+comparisons to identify aberrations; understanding how management runs the business; and 
+determining if there are strong budget-to-actual controls in the organization. 
+ 
+Evaluation is the second phase and consists of the use of questionnaires and/or matrices to 
+evaluate the internal controls and to identify internal control weaknesses. Analyzing the 
+results is necessary to determine if a weakness exists and/or the extent of any weaknesses. A 
+results report should be prepared that includes recommendations. 
+ 
+End-User Computing Internal Control 
+End-user computing, or distributed processing, has emerged since the advent of micro-computers 
+and provides end-users with equipment (such as PCs) and processing capability. 
+Examples include microcomputer development tools such as spreadsheets, database 
+programs, and downloading part of an application and its associated files for processing on a 
+local area network either connected to the mainframe or in a stand-alone mode. 
+ 
+Several control concerns have been identified as a result of end-user computing. 
+• Data center controls over the equipment itself (backups, access controls, local password 
+administration, etc.) might not be implemented by the end users. 
+• Locally developed spreadsheet or database applications might not have all the controls 
+typically found in mainframe systems. 
+• Access can be compromised by the end users by installing a modem and phone line 
+connected to a local area network or stand-alone PC and not informing data security 
+about the arrangement. 
+ 
+ 
+
+
+
+:
+
+
+comput secur
+effect secur
+effect comput secur ensur the avail of accur data in time to meet an
+organ need at a cost that is commen surat with the risk involv kei element
+ar
+protect data and program from intent or inadvert unauthor alter or
+destruct
+maintain the confidenti integr and avail of data
+protect the data center from physic threat such as fire flood and intent
+destruct
+have the capabl to restor data center oper in case of complet destruct
+the most import step is to obtain manag support for effect secur without
+such support ani secur plan will falter
+secur the commun network
+some commun network ar veri larg veri complex and technic demand
+the task of effect secur these network is demand and requir the close
+cooper of both network and secur administr the object of data and voic
+network is to provid connect with accept respons time userfriendli access and
+a secur mode at an accept cost to the organ
+password
+password ar the predomin form of authent valid user effect password
+administr is essenti for maintain secur password should be of suffici length
+usual a minimum of eight charact and a combin of letter number and other
+charact such as punctuat mark to avoid guess group password and share of
+password should be prohibit so as to maintain individu account password of all
+termin employe should be revok immedi secur administr often
+coordin the notif of termin employe with the personnel function
+employe who have chang job function or transfer should have their old password
+cancel and new on issu if appropri
+comput and internet fraud financi transact
+11840 2011 fraud examin manual
+other network secur
+secur a comput network by mean of logic control is a difficult but necessari
+requir for ensur the safeti of a comput system from attack by outsid logic
+control includ manag secur polici user authent system data access
+control network firewal secur awar train encrypt algorithm penetr
+test intrus detect softwar and incid respons plan
+network secur can also be provid by a combin of design hardwar devic and
+softwar data encrypt is carri out by a combin of hardwar and softwar
+encrypt data is scrambl by a formula us a uniqu kei and can onli be unscrambl
+with the same formula and kei at the receiv end the decis to us encrypt should be
+made in light of the risk and after a costbenefit analysi drawback to encrypt ar the
+cost of the hardwar and softwar the cost of the administr and the inher delai
+incur by the extra step requir for process
+digit signatur ar becom more common in part becaus congress and mani state
+have pass legisl to legitim the electron sign of document in 2000 the
+electron signatur in global and nation commerc act esign act becam
+effect thi feder statut basic provid a mechan wherebi ani document that is
+requir to be sign can be sign electr onic the esign act doe not requir a
+parti to us or accept electron signatur electron contract or electron record but
+rather seek to facilit the us of electron signatur and document by uphold their
+legal effect regardless of the type or method select by the parti the esign act is also
+technologyneutr and doe not requir a specif type or method that busi and
+consum must us or accept in order to conduct their electron transact the act
+regul ani transact involv interst or foreign commerc howev mani state
+have enact their own digit signatur law which regul pure intrast transact
+addition mani state and feder agenc includ the intern revenu servic and the
+secur and exchang commiss ar encourag the us of electron file and digit
+signatur as a mean to speed up the collect and process of inform
+biolog access verif long the favorit stuff of movi maker is now avail
+thi verif techniqu includ fingerprint palm print voic print signatur and
+retina scan
+financi transact comput and internet fraud
+2011 fraud examin manual 11841
+profil softwar authent user by monitor their statist characterist such as
+type speed and keystrok touch smart card access devic ar similar to an atm card like
+atm card thei ar suscept to loss and forgeri
+the most effect compon of intern secur ar educ report facil and
+vigor disciplinari action for offend includ prosecut of illeg act an
+enterprisewid employe awar program should be combin with formal train in
+the area of inform secur for employe to fulfil their secur respons thei
+should know what inform need to be kept confidenti how to recogn threat to
+secur and how to us backup and other aid for their desktop machin give
+employe incent such as bonus to follow secur guidelin howev will be the
+most effect motiv
+protect the network from extern threat requir some addit consider the
+less an extern perpetr know about the technolog environ for exampl type of
+hardwar and softwar packag us the harder it is to obtain fraudul access part of
+the secur polici should address how much and what kind of inform regard the
+technolog of an organ should be made public
+organ should guard against provid too much access to third parti there is
+pressur to establish connect by market purchas research and other branch
+connect should be grant onli after it ha been establish that the benefit outweigh
+the risk and cost
+the risk assess process
+as organ grow their inform technolog and data chang both in type and
+quantiti assumpt made about secur need to be updat the vehicl for updat is
+the risk assess thi is a zerobas process that should be perform period a
+risk assess is an analysi of the secur object of confidenti integr
+and avail
+each data element should be examin to determin the impact if it is disclos lost or
+enter incorrectli onc thi inform is collect the secur measur in place should
+be review to determin whether thei provid necessari safeguard the risk assess
+process is a timeconsum process to undertak and mani organ emploi outsid
+secur consult to reduc it impact on daytodai oper
+comput and internet fraud financi transact
+11842 2011 fraud examin manual
+intern control in the data center
+in most instanc computerrel crime ar veri difficult to detect an intrud mai be
+abl to gain unauthor access to a network or comput system perpetr whatev
+crimin activ wa plan and retreat without anyon be awar of the intrus much
+less the crimin activ that ha taken place so how doe an organ becom awar
+that it inform resourc have been compromis by someon either insid or outsid
+of the organ with crimin intent a few possibl includ
+a strong set of polici and standard to defin for employe and manag what the
+compani deem as unaccept or unauthor activ
+strong physic secur to thwart those intent upon the theft of physic asset of the
+organ
+central system access control and data object protect
+strong secur for the organ applic program
+intrus detect hardwar and softwar for network and commun resourc
+audit of system and violat log
+all of these mechan if us correctli will alert the organ of inappropri
+action thi all assum of cours that someon is keep an ey out for except and
+violat all of the secur polici and standard the intrus detect softwar the
+violat log and the access control will mean absolut noth if the organ is not
+commit to appli them properli and maintain them adequ
+gener control over a data center ar relev for all applic the gener control
+categori includ system mainten implement of new system includ
+develop comput oper system softwar includ secur and
+telecommun softwar and data file
+system mainten
+all program and system chang should be approv in write programm should not
+have access to the product librari but onli to test librari all program that ar to be
+modifi should be move into a test librari by someon other than a programm all
+complet program chang should be test and the result approv by both data center
+and user personnel befor be place into product adequ program document
+should be approv for all program chang user personnel should be notifi when
+modifi program will be place into product
+financi transact comput and internet fraud
+2011 fraud examin manual 11843
+implement control
+implement control ar those control over the develop of or purchas of a new
+applic all new system request should be made in write a system develop life
+cycl methodolog should be us for develop and implement inhous or purchas
+packag all new system request should be approv by the appropri manag
+level user should be involv in the project from design through final test all test
+result should be approv by both data center manag and user personnel there
+should be an implement plan for place the new system into product
+comput oper
+comput oper control ar control that govern the daytodai oper of the
+comput system there should be an approv schedul for all product run all system
+activ should be review by data center manag ani unusu program execut
+should be investig and resolv a log of unusu event such as abend abnorm
+termin of a program execut or rerun should be kept by oper staff and also
+should be review by data center manag access to the comput room should be
+restrict to author personnel all third parti such as technician should be
+accompani by a data center employe door to the data center should be secur
+system softwar
+control over system softwar includ those that govern the instal of the comput
+system the commun softwar and the secur softwar data center manag
+should approv the system softwar select as well as the chosen option and paramet
+system softwar should be test befor implement in a product environ
+note that thi might not be possibl for the oper system itself
+data file
+control over data file ensur that correct file ar us for each product job and that
+adequ backup file exist datafil label bypass option should be disabl a data file
+manag system should be us to record and locat all data file data file backup
+copi should be made and store in a secur facil offsit backup file copi should be
+maintain in case of a disast in the data center util that can modifi data file should
+be remov from the system and us onli under manag supervis live data file
+should not be us for test
+comput and internet fraud financi transact
+11844 2011 fraud examin manual
+access and telecommun control
+in the 1960 and 1970 access control meant ensur that there wa a lock on the
+comput room door as onlin system were implement the definit of access evolv
+to includ logic access in addit to physic access logic access refer to ani locat
+where someon can sign on to the system that signon access can be a direct connect or
+a dialup in todai onlin realtim and in terconnect world it is easi to forget physic
+guard over comput equip comput equip must be physic secur thi
+should includ network server telephon system comput commun control
+and person comput with sensit data
+access and telecommun control should achiev the follow object
+provid physic secur over equip user and inform
+protect critic data from loss damag or unauthor disclosur
+ensur network reliabl by us appropri hardwar and softwar
+prevent unauthor access and us of the network
+ensur system avail
+meet user requir
+separ of duti
+separ of duti is a kei element in a welldesign intern control system it is also
+fundament to detect and prevent fraud programm should not oper the
+comput have unsupervis access to product program or have access to product
+data set data file user should not have access to the product program code
+comput oper should not perform comput program adequ supervis
+should be provid by personnel who do not actual perform the work
+log and histori file
+comput system maintain a varieti of histori file or log these log record activ in the
+follow area
+mainfram activ
+program execut
+data file access
+date time and durat
+user id that initi a particular action
+error messag
+equip malfunct
+financi transact comput and internet fraud
+2011 fraud examin manual 11845
+commun activ
+user id
+termin identifi
+dialin port identifi
+date time and durat
+error messag
+equip malfunct
+secur softwar activ
+user id
+unsuccess login attempt
+modif to the password file and access capabl
+these log were origin design to help in troubleshoot the system and correct
+error these file contain a veri valuabl audit and fraud examin trail of system
+activ and ar now us for intern control function the log should be review by a
+respons data center offici and evid should exist of thi review mani of the histori
+file have a limit capac and can be forc into wrap if not print period
+wrap forc the softwar to record at the begin of the file if the file is full and not
+print out
+secur softwar
+there ar a number of good secur softwar packag on the market for all mainfram
+and most minicomput secur packag avail for pc ar less numer local area
+network have some secur packag avail but still reli primarili on the individu user
+in a standalon mode or the mainfram secur in a connect mode the purchas and
+instal of a secur packag might provid a fals sens of secur most of these
+packag ar design to be instal in a phase approach becaus of the complex of
+the task
+these option and decis about secur softwar should be review by manag
+for exampl most mainfram secur packag allow a minimum of three level of secur
+log mode mere log all system access to defin program and data file warn mode tell the
+user if he is access a program or file that is not author for the password he ha
+emploi activ is also log fail mode will not allow a user to access defin data file
+and program without the proper password thi is the highest level of secur and the onli
+on that provid adequ protect anoth veri import consider involv the
+comput and internet fraud financi transact
+11846 2011 fraud examin manual
+manual supervis of data provid by secur packag usual in the form of access log
+a secur packag need consist review to protect against possibl violat
+intern control in comput applic
+intern control establish check and balanc to prevent on person from control the
+entir financi transact compet and trustworthi employe ar obvious a necessari
+element of a good intern control system no employe with a known histori of dishonesti
+should be hire
+asset and record which can be easili appropri or destroi should be physic
+safeguard thei should be safeguard by lock physic secur and other method to
+ensur that thei will not be misappropri all account system reli on proper
+document miss document should be regard as a red flag of possibl fraud
+someon independ of the transact must check the account control the
+knowledg that all work is check is a power fraud deterr the element of sound
+intern control do not chang in a computer environ object do not chang
+but techniqu do
+control techniqu
+control techniqu commonli us in computer system ar list below
+oneforon check consist of check each sourc document against a detail list
+process by the comput thi techniqu is normal us for lowvolum input
+becaus of the cost and time involv
+batchcontrol total involv manual group transact at the input stage and
+manual establish a control total over the entir group the method us includ
+document count item or line count dollar total and cash total
+in comput sequenc check the comput verifi the preassign serial number of
+input transact and report miss or duplic number
+comput match consist of the comput match the input data to inform
+held on the master file or suspens file unmatch item ar report for investig
+program edit check ar comput program procedur that edit data exampl
+includ
+reason
+depend
+exist
+format
+financi transact comput and internet fraud
+2011 fraud examin manual 11847
+mathemat accuraci
+rang
+digit verif
+prior data match
+prerecord input is us to reduc error dure data entri
+control object
+welldesign comput applic have builtin control for all function the major
+control object is complet of input
+input complet control techniqu ar oneforon check batch control total comput
+sequenc check and comput match input accuraci control ensur that data is initi
+record correctli and convert correctli to machineread form input accuraci control
+techniqu ar oneforon check batch control total comput match program
+edit and prerecord input
+updat accuraci ensur that the correct master file account is updat correctli with the
+correct transact updat accuraci control techniqu ar oneforon check batch control
+total comput match and program check updat control complet ensur that all
+data enter and accept by the system updat the master file onc and onli onc updat
+control complet techniqu ar oneforon check batch control total comput sequenc
+check and comput match
+author control ensur that onli valid transact ar process that all transact
+process ar author by manag and that transact repres event that actual
+occur author techniqu us ar oneforon check and program check
+mainten control provid that data is kept uptod or identifi unusu data requir
+further action thei also ensur that data store on file is not chang except through the
+normal process cycl mainten control techniqu ar us for oneforon check
+batch control total and program check
+evalu applic control
+evalu intern control in an applic system requir a thorough understand of
+the system the first phase inform gather consist of collect inform about
+the industri and the risk associ with that industri conduct ratio analysi and peer
+comput and internet fraud financi transact
+11848 2011 fraud examin manual
+comparison to identifi aberr understand how manag run the busi and
+determin if there ar strong budgettoactu control in the organ
+evalu is the second phase and consist of the us of questionnair andor matric to
+evalu the intern control and to identifi intern control weak analyz the
+result is necessari to determin if a weak exist andor the extent of ani weak a
+result report should be prepar that includ recommend
+endus comput intern control
+endus comput or distribut process ha emerg sinc the advent of microcomput
+and provid endus with equip such as pc and process capabl
+exampl includ microcomput develop tool such as spreadsheet databas
+program and download part of an applic and it associ file for process on a
+local area network either connect to the mainfram or in a standalon mode
+sever control concern have been identifi as a result of endus comput
+data center control over the equip itself backup access control local password
+administr etc might not be implement by the end user
+local develop spreadsheet or databas applic might not have all the control
+typic found in mainfram system
+access can be compromis by the end user by instal a modem and phone line
+connect to a local area network or standalon pc and not inform data secur
+about the arrang

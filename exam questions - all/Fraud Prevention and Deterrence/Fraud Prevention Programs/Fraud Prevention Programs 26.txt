@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=A detailed fraud prevention policy can give management legal grounds to investigate and punish violators.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=An "action constituting fraud" section in a fraud prevention policy sets forth in detail what actions constitute fraudulent conduct. This is important as it gives management the legal grounds to investigate and punish violators. The actions listed can include:Any dishonest or fraudulent act Forgery or alteration of documents Misapplication of funds or assetsImpropriety with respect to reporting financial transactionsProfiting on insider knowledgeDisclosing securities transactions to othersAccepting gifts from vendorsDestruction or disappearance of records or assetsAny similar or related irregularitySee page(s) 4.730 in the Fraud Examiner's Manual

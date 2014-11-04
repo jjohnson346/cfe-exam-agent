@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is a type of data analysis function that can be performed with most basic office software packages?
+
+Options=Sorting | Vertical ratio analysis | Joining files | All of the above
+
+CorrectResponse=3
+
+Explanation=Computers can scan database information for several specific types of information, creating a red flag system. To perform this, most software packages use a combination of different functions. These functions are:•	Sorting•	Record selection•	Joining files•	Multi-file processing•	Correlation analysis•	Verifying multiples of a number•	Compliance verificationSee page(s) 3.605 in the Fraud Examiner's Manual

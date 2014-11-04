@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Which of the following is NOT part of the Daubert criteria to assess the reliability of expert testimony?
+
+Options=Whether the expert s theory or technique can be and has been tested | Whether the expert's theory or technique has been subjected to peer review | Whether there are standards governing the method used by the expert | Whether the expert's theory or technique can be falsified
+
+CorrectResponse=3
+
+Explanation=In Daubert v. Merrell Dow Pharmaceuticals, Inc., the Supreme Court set forth the following nonexclusive list of factors to assess reliability:Whether the expert's theory or technique can be or has been testedWhether the expert's theory or technique has been subjected to peer review and publicationWhether the expert's theory or technique enjoys general acceptance within the relevant scientific communityWhether there are standards governing the method used by the expertWhether the expert's technique has a high error rateSee page(s) 2.813 in the Fraud Examiner's Manual

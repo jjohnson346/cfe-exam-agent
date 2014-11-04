@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem="Relevant evidence" is evidence that tends to prove or disprove a fact in issue.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Federal Rules of Evidence defines "relevant evidence" as evidence that has "any tendency to make the existence of any fact that is of consequence to determination of the action more probable or less probable than it would be without the evidence." See page(s) 2.703 in the Fraud Examiner's ManualAnswered this question (3573):	CESSES)■I Mark for ReviewPreviousFont Size:Medium.

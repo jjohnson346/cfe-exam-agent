@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Bank fraud is punishable at the state level, but there is no federal criminal statute specifically outlawing it.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Title 18. Section 1344 of the U.S. Code is the federal bank fraud statute. It is the broadest of all bank fraud statutes. It punishes those obtaining assets owned or controlled by a bank by false or fraudulent pretenses, representations, or promises. It covers both insiders and all other persons, even if not affiliated with the bank.See page(s) 1.943-1.944 in the Fraud Examiner's Manual

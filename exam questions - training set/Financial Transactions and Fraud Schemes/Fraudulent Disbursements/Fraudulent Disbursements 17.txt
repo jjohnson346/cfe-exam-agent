@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following schemes refers to the falsification of personnel or payroll records, causing paychecks to be generated to someone who does not actually work for the victim company?
+
+Options=False workers compensation claims | Ghost employees | Falsified hours and salary | Commission schemes
+
+CorrectResponse=1
+
+Explanation=The term "ghost employee" refers to someone on the payroll who does not actually work for the victim company. Through the falsification of personnel or payroll records, a fraudster causes paychecks to be generated to a ghost. The fraudster or an accomplice then converts these paychecks. The ghost employee may be a fictitious person or a real individual who simply does not work for the victim employer.See page(s) 213-214 in the Corporate Fraud Handbook

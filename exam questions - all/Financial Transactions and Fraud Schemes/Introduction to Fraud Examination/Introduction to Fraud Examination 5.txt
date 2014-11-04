@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=In general, the subject of an investigation should be interviewed first.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In general, the subject (also called the suspect or accused) is interviewed last, after all facts necessary to resolve the allegation are obtained. Even if it is felt that the subject will not offer a confession, an interview is usually scheduled; in many instances it can be used later for impeachment. An interview might also give the examiner a good idea of what defenses the subject might raise.

@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Judy, a CFE. took an introductory class in computer forensics. When a client thought there may be evidence of a crime on his hard drive, Judy decided to conduct a forensic examination of the hard drive even though she had no experience in this area. Such conduct would be a violation of the ACFE Code of Professional Ethics.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Professional competence refers to how well Certified Fraud Examiners do their job. Determination of competence always depends on the specific facts and circumstances of the assignment. Competence is best understood in the context of the prudent practitioner. If Judy only had a basic course and no other experience, she v/ould not be considered qualified or professionally competent to conduct a hard drive examination for a client. Such conduct would be a violation of Article III, v/hich requires CFEs to accept only those assignments which can be completed with professional competence.See page(s) 4.1009 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Under Federal Rules of Evidence, hearsay testimony generally is not permitted. There are exceptions. Which of the following is an exception to the hearsay rule?
+
+Options=Former testimony under oath | Records of financial transactions, generally | Unrecorded recollection | All of the above are exceptions to the hearsay rule
+
+CorrectResponse=0
+
+Explanation=Testimony given by the declarant at another hearing is admissible if the party against whom the testimony is now offered then had an opportunity and similar motive to examine the witness as in the present trial.See page(s) 2.719 in the Fraud Examiner's Manual

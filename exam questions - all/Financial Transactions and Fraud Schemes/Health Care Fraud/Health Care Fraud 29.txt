@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Because of several factors unique to nursing homes, they are especially vulnerable to health care fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Nursing homes have become a multibillion dollar business in the last few years. As such, they have become a common target of fraud There are several features unique to nursing homes that make them particularly vulnerable to fraud:•	Unscrupulous billers of services can operate their schemes in volume because the patients are all located together under one roof•	In some instances, nursing homes make patient records available to outside providers who are not responsible for the direct care of the patient (contrary to federal regulations).•	Under the Centers for Medicare and Medicaid Services’ reimbursement procedures, providers can bill Medicare directly without the nursing facility or attending physician affirming whether the items were necessary or provided as claimed.•	Scrutiny of the claims at the processor level is inadequate because the automated claims systems used do not accumulate data that would timely flag indications of improbably high charges or levels of service.•	Even when abusive practices are detected and prosecuted, repayment is rarely received from wrongdoers because they usually go out of business or deplete their resources so that they lack any resources to repay the funds.•	Patient personal funds are controlled by nursing home administration and are an inviting target for embezzlement. Individually, patients generally maintain a relatively small balance in their personal funds accounts. Collectively, however, these funds generate a considerable source of income for an unscrupulous nursing homeSee page(s) 1.1237-1.1238 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=As long as a company has a detailed fraud policy in place, there is little need to communicate the policy to employees.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=It obviously does little good to have a fraud or ethics policy if it is not communicated to the employees. This communication can be accomplished in several ways. The communication of the policy should be presented in a positive, nonaccusatory manner.See page(s) 4.731 in the Fraud Examiner's Manual

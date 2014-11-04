@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=_______provide telemarketing scammers with the autodialers, phone lists, credit card receipts, and merchandise they require to operate.
+
+Options=Turnkeys | Fronters | Factoring companies | Closers
+
+CorrectResponse=0
+
+Explanation=Turnkeys comprise an industry of their own by providing the collateral a telemarketing scam needs?turnkeys launder credit card receipts and checks, sell autodialers and phone lists, and provide the merchandise portrayed as valuable prizes.

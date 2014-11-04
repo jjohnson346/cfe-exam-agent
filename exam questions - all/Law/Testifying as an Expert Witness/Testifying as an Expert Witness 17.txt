@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=In cross-examination of an expert witness, the opposing counsel often will use the "Is it not true?" and "Would you agree with me?" approach. This technique of cross examination is called:
+
+Options=Sounding board | Contradictory approach | Hypothetical questions | Opposing sides theory
+
+CorrectResponse=0
+
+Explanation=The "sounding board" method uses the witness as a sounding board to reacquaint the jury with the favorable aspects of opposing counsel's theory. This technique often uses the "Is it not true?" and "Would you agree with me?" approach. Constant, nonstop agreement is used to browbeat the expert. In the eyes of the judge and jury, agreement with various questions raised by the opposing counsel also may be assumed to be general concurrence with the opposing counsel. This often is a very valuable psychological tool.See page(s) 2.824 in the Fraud Examiner's Manual

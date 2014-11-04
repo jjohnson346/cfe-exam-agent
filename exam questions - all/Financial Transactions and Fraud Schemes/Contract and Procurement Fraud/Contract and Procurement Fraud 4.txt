@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=All BUT which of the following red flags are indicators of bid-rigging schemes?
+
+Options=Joint ventures by firms who could have bid individually | Other qualified vendors fail to submit proposals | Successful bidder consulting with buyer in need recognition stage | Wide disparity in bid prices
+
+CorrectResponse=2
+
+Exaplanation=To detect bid-rigging schemes, the examiner must be alert for the following red flags: (1) wide disparity in bid prices; (2) other qualified vendors v/ho fail to submit bids; and (3) joint venture bids by firms which could have bid individually.

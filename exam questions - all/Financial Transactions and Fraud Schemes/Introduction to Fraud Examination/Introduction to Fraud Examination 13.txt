@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem="Fraud examination" is best described as which of the following?
+
+Options=A method for finding evidence of guilt  | The science of detecting fraud | A methodology for resolving fraud allegations from inception to disposition	| A method for proving the culpability of a suspect	
+
+CorrectResponse=2
+
+Explanation=Fraud examination is a methodology for resolving fraud allegations from inception to disposition. More specifically, fraud examination involves obtaining evidence and taking statements, writing reports, testifying to findings, and assisting in the detection and prevention of fraud.See page(s) 1-1 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Under the Corporate Sentencing guidelines, an organization s base fine is the lowest of three numbers:/r/r * The monetary loss suffered by the victim, /r * The pecuniary gain received by the defendant, or /r * An amount ranging from $5,000 to $72,500,000 as set forth in the Offense Level Scale Individual Guidelines. /r/rThis is a table of preset penalties based on the seriousness of possible offenses.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=‰?? Under the Corporate Sentencing guidelines, an organization s base fine is the highest of three numbers:‰?¢	The monetary loss suffered by the victim,‰?¢	The pecuniary gain received by the defendant, or‰?¢	An amount ranging from $5,000 to $72,500,000 as set forth in the Offense Level Scale Individual Guidelines. This is a table of preset penalties based on the seriousness of possible offenses.See page(s) 4.519 in the Fraud Examiner's Manual

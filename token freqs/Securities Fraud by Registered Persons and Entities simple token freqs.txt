@@ -1,0 +1,25 @@
+Token                          Frequency
+-----------------------------  ---------
+or                                     2
+one                                    1
+into                                   1
+firms                                  1
+by                                     2
+the                                    1
+fraud                                  1
+persons                                1
+entities                               1
+frequent                               1
+and                                    1
+allegations                            1
+of                                     2
+following                              1
+misconduct                             1
+more                                   1
+registered                             2
+fall                                   1
+areas                                  1
+securities                             1
+individuals                            1
+
+Totals:                     21        25

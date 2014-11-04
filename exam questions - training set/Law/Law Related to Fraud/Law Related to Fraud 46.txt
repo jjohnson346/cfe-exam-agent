@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The statute that specifically outlaws the giving or receiving of anything of value for the purpose of improperly obtaining or receiving favorable treatment in connection with U.S. government contracts is:
+
+Options=The Civil False Claims Act | The Anti-Kickback Act of 1986 | The "Honest Services" Act | The Foreign Corrupt Practices Act
+
+CorrectResponse=1
+
+Explanation=The Anti-Kickback Act of 1986 outlaws the giving or receiving of anything of value for the purpose of improperly obtaining or receiving favorable treatment in connection with U.S. government contracts.See page(s) 2.275 in the Fraud Examiner's Manual

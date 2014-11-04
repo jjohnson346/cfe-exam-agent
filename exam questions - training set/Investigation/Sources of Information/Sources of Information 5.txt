@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Alpha, a fraud suspect, was recently divorced. Where would an investigator likely find a record of Alpha's divorce?
+
+Options=Federal divorce court | State Bureau of Vital Statistics | County court where the divorce was granted | None of the above
+
+CorrectResponse=2
+
+Explanation=A great deal of litigation occurs each year, and many people might be subject to judicial action either voluntarily or not. Researching civil and criminal suits can provide invaluable information assisting in:Locating individuals Identifying pending actions Uncovering closed cases Determining marital status (family)Tracing sources of funds (probate) Identifying financial conditions (bankruptcy) Uncovering litigation historySee page(s) 3.415-3.416 in the Fraud Examiner's Manual

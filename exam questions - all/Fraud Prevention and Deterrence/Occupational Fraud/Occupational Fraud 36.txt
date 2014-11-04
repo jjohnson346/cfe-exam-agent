@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=There are three major categories of occupational fraud: asset misappropriations, corruption, and fraudulent statements. According to the 2010 Report to the Nations, which has the highest median loss?
+
+Options=Fraudulent statements | Corruption | Asset misappropriation | None of the above
+
+CorrectResponse=0
+
+Explanation=All occupational frauds fall into one of three major categories: asset misappropriation, corruption, or fraudulent statements. Continuing the trend from our previous surveys, asset misappropriation schemes were both the most commonly reported—occurring in 86 percent of cases—and the least costly of the three major categories of occupational fraud (although the median loss in asset misappropriation schemes was $135,000, which is still quite significant). Fraudulent statements, on the other hand, were the least commonly reported type of occupational fraud, occurring in just 5 percent of cases reported, but they caused considerably more damage than frauds in the other two categories. The median loss caused by fraudulent statement schemes in our study was $4,100,000. which dwarfed the losses in the other two categories. This finding was consistent with our earlier reports. As was the case in 2008, corruption schemes fell in the middle of the spectrum in terms of frequency and cost. Corruption occurred in almost one-third of the cases we reviewed, with a median loss of $250,000.See page(s) 4.622-4.623 in the Fraud Examiner's Manual

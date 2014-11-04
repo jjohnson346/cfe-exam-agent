@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=In what order should the following parties be interviewed? I. Co-conspirators II. Corroborative witnesses III. Neutral third party witnesses IV. Subject
+
+Options=I, II, III, IV | III, II, I, IV | II, IV, III, I | I, III, IV, II
+
+CorrectResponse=1
+
+Explanation=Generally, neutral third party witneses should be interviewed first, followed by corroborative witnesses, and co-conspirators.  The subject should be interviewed last.

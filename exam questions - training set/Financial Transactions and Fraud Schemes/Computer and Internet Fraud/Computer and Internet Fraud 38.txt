@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=In computer sequence checking, the computer verifies the preassigned serial numbers of input transactions and reports missing or duplicate numbers.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Computer sequence checking is a control technique that is commonly used in computerized systems. In computer sequence checking, the computer verifies the preassigned serial numbers of input transactions and reports missing or duplicate numbers.ACFEAssociation of Certified Fraud ExarrinersReview Session FAQHow are the questions shown during my review session determined?How do I answer a review question?Do I have to answer each review question?Why are the other tabs disabled?What does the End Review1 button do?What happens when I select ‰??Mark for Review‰???See page(s) 1.1846 in the Fraud Examiner's Manual

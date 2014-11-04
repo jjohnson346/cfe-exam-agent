@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Which of the following is NOT one of responsibilities that the internal auditor should carryout in conducting audit engagements?
+
+Options=Have sufficient knowledge of fraud to identify red flags indicating fraud may have been committed | Consider fraud risks in the assessment of internal control design and determination of audit steps to perform | Be alert to opportunities that could allow fraud, such as control deficiencies | Report all findings of fraud to the Securities and Exchange Commission within 10 working days
+
+CorrectResponse=3
+
+Explanation=In conducting audit engagements, the internal auditor should:‰?¢	Consider fraud risks in the assessment of internal control design and determination of audit steps to perform.‰?¢	Have sufficient knowledge of fraud to identify red flags indicating fraud may have been committed.‰?¢	Be alert to opportunities that could allow fraud, such as control deficiencies.‰?¢	Evaluate whether management is actively retaining responsibility for oversight of the fraud risk management program, whether timely and sufficient corrective measures have been taken with respect to any noted control deficiencies or weaknesses, and whether the plan for monitoring the program continues to be adequate for the program‰??s ongoing success.‰?¢	Evaluate the indicators of fraud and decide whether any further action is necessary or whether an investigation should be recommended.‰?¢	Recommend investigation when appropriate.See page(s) 1.245 in the Fraud Examiner's Manual

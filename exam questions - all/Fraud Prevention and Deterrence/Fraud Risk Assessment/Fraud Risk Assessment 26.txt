@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=What is the objective of a fraud risk assessment?
+
+Options=To provide an estimate of an organization's fraud losses | To assess the design and effectiveness of an organization's internal controls over financial reporting | To establish the guilt or innocence of an employee suspected of committing fraud | To help an organization identify what makes it most vulnerable to fraud
+
+CorrectResponse=3
+
+Explanation=In the simplest terms, the objective of a fraud risk assessment is to help an organization identify what makes it most vulnerable to fraud. Through a fraud risk assessment, the organization is able to identify where fraud is most likely to occur, enabling proactive measures to be considered and implemented to reduce the chance that it could happen.See page(s) 4.803 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Under the provisions of the Private Securities Litigation Reform Act of 1995, if an auditor "detects or otherwise becomes aware that an illegal act" has or might have occurred, which of the following is the auditor then required to do?
+
+Options=Determine whether it is likely that an illegal act has in fact occurred | Inform the appropriate level of management | Determine and consider the possible affects of the act on the financial statements of the company | All of the above
+
+CorrectResponse=3
+
+Explanation=The Private Securities Litigation Reform Act of 1995 drastically changes the procedures and proof required in securities fraud cases. One of the sections of the Act provides that if in the course of an audit, an auditor "detects or otherwise becomes aware that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or might have occurred,‰?? the auditor must then: (1) determine whether it is likely that an illegal act has occurred, and if so (2) determine and consider the possible effect of the illegal act on the financial statements of the company, including any contingent monetary effects such as fines, penalties, and damages, and(3) inform the appropriate level of management ‰??as soon as practicable, and assure that the audit committee (or the board of directors in the absence of an audit committee) is adequately informed of the illegal acts that have been detected unless such acts are ‰??clearly inconsequential.‰??See page(s) 1.218 in the Fraud Examiner‰??s Manual

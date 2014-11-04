@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=In order to prevent inventory theft, who should conduct physical observations of a company's inventory?
+
+Options=Warehouse personnel | Purchasing agents | Purchasing supervisor | None of the above
+
+CorrectResponse=3
+
+Explanation=Someone independent of the purchasing or warehousing functions should conduct physical observation of inventory. The personnel conducting the physical observations also should be knowledgeable about the inventory.See page(s) 271 in the Corporate Fraud Handbook

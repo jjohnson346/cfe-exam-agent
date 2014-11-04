@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Negligence penalties may be assessed against the tax preparer if the preparer does any of the following EXCEPT:
+
+Options=Aids in preparation of a false return | Knows the information, if used, would result in an understatement of tax liability | Verifies suspect information | Knows or has reason to know that the false information will be used in connection with any material matter arising under IRS rules
+
+CorrectResponse=2
+
+Explanation=Any person who does the following shall, in addition to other penalties, pay a penalty of S1.000 (510.000 in the case of a corporation) for each period during which he:•	Aids or assists in, procures, or advises with respect to the preparation of any portion of a false return, affidavit, claim, or other document•	Knows, or has reason to believe, that the information will be used in connection with any material matter arising under internal revenue laws•	Knows the portion (if so used) would result in an understatement of tax liability for another personSee page(s) 1.1407 in the Fraud Examiner’s Manual

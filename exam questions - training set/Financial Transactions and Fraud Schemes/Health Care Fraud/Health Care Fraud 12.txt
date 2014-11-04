@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The majority of health care fraud is perpetrated by health care providers.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=According to the U.S. Government Accountability Office, the most common estimate of health insurance fraud is 10 percent of our total health care spending. However, because no one knows exactly what the figure is. the figure has also been estimated to be from 3 to 10 percent per year. Health care providers perpetrate the majority of this fraud.See page(s) 1.1201 in the Fraud Examiner‰??s Manual

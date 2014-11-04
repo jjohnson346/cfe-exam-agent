@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Beta, a Certified Fraud Examiner, is conducting a routine interview of someone who does not know him. It is usually best for Beta to omit his title when introducing himself.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Obviously, the interviewer must introduce himself before the interview commences. The interviewer should generally indicate his name and company, avoiding titles. This is not always the case, but the more informal the interview, generally the more relaxed the respondent.See page(s) 3.213 in the Fraud Examiner's Manual

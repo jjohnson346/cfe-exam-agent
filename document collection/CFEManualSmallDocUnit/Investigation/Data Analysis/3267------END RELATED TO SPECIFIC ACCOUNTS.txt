@@ -1,0 +1,48 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for the General Ledger/END RELATED TO SPECIFIC ACCOUNTS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+END RELATED TO SPECIFIC ACCOUNTS 
+Nonstandard journal entries are generally those that are posted manually, rather than 
+through an automated feed from a fixed asset or accounts receivable sub-ledger. Such entries 
+are more prone to error and fraud mainly due to human error, the judgment applied to 
+support the entry, and the possibility of an override by management in authorizing the entry. 
+This is especially true for entries made just after year end (related to the prior year), as these 
+entries are more prone to be adjustments for the fiscal year’s annual reporting. 
+ 
+Given the above, the test for these entries should include: 
+• Reviewing the journal entry and associated supporting documentation 
+• Ensuring the approvals are appropriate for the size and nature of the journal entry 
+• Assessing whether generally accepted accounting principles (GAAP) are being applied 
+ 
+
+
+
+:
+
+
+end relat to specif account
+nonstandard journal entri ar gener those that ar post manual rather than
+through an autom feed from a fix asset or account receiv subledg such entri
+ar more prone to error and fraud mainli due to human error the judgment appli to
+support the entri and the possibl of an overrid by manag in author the entri
+thi is especi true for entri made just after year end relat to the prior year as these
+entri ar more prone to be adjust for the fiscal year annual report
+given the abov the test for these entri should includ
+review the journal entri and associ support document
+ensur the approv ar appropri for the size and natur of the journal entri
+assess whether gener accept account principl gaap ar be appli

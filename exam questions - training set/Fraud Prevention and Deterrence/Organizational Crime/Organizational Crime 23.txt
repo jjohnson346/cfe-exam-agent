@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Clinard and Yeager, in their studies, found that mass media publicity was the most feared consequence of sanctions imposed on a corporation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Clinard and Yeager found that mass media publicity about law violations probably represents the most feared consequence of sanctions imposed on a corporation.See page(s) 4.514 in the Fraud Examiner's Manual

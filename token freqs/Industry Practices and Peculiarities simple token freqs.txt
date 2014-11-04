@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+legal                                  1
+insurance                              1
+warrant                                1
+to                                     3
+selective                              1
+subject                                1
+accounting                             2
+requirements                           1
+differences                            1
+investment                             1
+practices                              2
+response                               1
+controls                               1
+of                                     1
+exceptions                             1
+regulatory                             1
+banking                                1
+industry                               2
+peculiarities                          2
+those                                  1
+may                                    1
+such                                   2
+as                                     2
+the                                    1
+principles                             1
+entities                               1
+in                                     2
+and                                    3
+an                                     1
+some                                   1
+also                                   1
+occur                                  1
+
+Totals:                     32        43

@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Bruce, a CFE, locks the door to the interview room and refuses to allow the suspect to leave despite repeated requests. Later, the suspect sues (successfully) claiming that he was falsely imprisoned. Which of the following statements is true?
+
+Options=This conduct would be a violation of the ACFE Code of Professional Ethics. | This conduct would not be a violation of the ACFE Code of Professional Ethics under any circumstances. | This conduct would be a violation of the ACFE Code of Professional Ethics only if the suspect was innocent of fraud. | This conduct would be a violation of the ACFE Code of Professional Ethics only if the CFE knew the conduct was illegal.
+
+CorrectResponse=0
+
+Explanation=Some rules for professionals insert the word ‘ knowingly" in relation to illegal activities, saying: “One should not knowingly be a party to an illegal activity.�? The Certified Fraud Examiner Code does not include this way out. Certified Fraud Examiners are generally not entitled to claim ignorance of the law. They are expected to know a considerable amount of lav/ in connection with investigations, and they are expected to know when to consult a lawyer. In the situation in question, even if Bruce didn't know that locking the door would constitute false imprisonment, he has still violated the ACFE Code of Professional Ethics.See page(s) 4.1006 in the Fraud Examiner’s Manual

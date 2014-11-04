@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In a civil case, the parties may stipulate that the verdict at trial need not be unanimous.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Trial procedures in civil actions are similar to criminal cases, with several notable exceptions. Juries need not necessarily consist of 12 people, and many civil cases are heard by six jurors. The parties also may stipulate that the verdict need not be unanimous.See page(s) 2.614 in the Fraud Examiner's Manual

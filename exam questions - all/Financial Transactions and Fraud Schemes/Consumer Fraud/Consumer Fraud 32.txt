@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=When a person buys precious stones from a telescammer, the stones arrive sealed in a plastic bag. not to preserve the stones' quality, but to ensure that the buyer cannot inspect the gems.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In a precious gems scam, the company even offers its ov/n “brokerage" services, which can liquidate the stones at a moment's notice should the investor need the cash back quickly. The stones not only have a grading certificate and appraisal documents, but are also sealed in a plastic wrap to guarantee their condition remains flawless. The real purpose of the seal—which victims are told must not be broken if the gems are ever to be offered for sale—is to keep buyers from making a genuine inspection of the article.See page(s) 1.1723-1.1724 in the Fraud Examiner's Manual

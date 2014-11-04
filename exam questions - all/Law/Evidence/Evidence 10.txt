@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=For a document to be admitted into evidence it must be properly ________________________; that is, the party offering the document must produce some evidence to show it is, in fact, what the party says it is.
+
+Options=Tested | Diagrammed | Cross-examined | Authenticated
+
+CorrectResponse=3
+
+Explanation=At the most basic level, the evidence must be established as reliable. If a piece of real evidence can't be authenticated—as to who owned and used the item, for example—the evidence won’t be admitted, even if it’s plainly relevant. There is a similar sort of ‘credibility test�? for witnesses. If testimony is to become admissible evidence, the witness has to demonstrate that the knowledge being communicated is believable and was gained by personal experience.See page(s) 2.707 in the Fraud Examiner's Manual

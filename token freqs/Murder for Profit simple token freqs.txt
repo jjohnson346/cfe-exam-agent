@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+insurance                              1
+might                                  1
+person                                 1
+accident                               1
+for                                    2
+made                                   1
+was                                    1
+of                                     1
+scheme                                 1
+order                                  1
+be                                     1
+look                                   1
+profit                                 1
+involves                               1
+murder                                 1
+it                                     1
+or                                     2
+death                                  1
+a                                      2
+random                                 1
+the                                    4
+like                                   1
+arranging                              1
+in                                     1
+an                                     1
+this                                   1
+killing                                3
+collect                                1
+
+Totals:                     29        38

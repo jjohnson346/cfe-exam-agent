@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Real estate scams are easily recognized, as there is almost always an element of time pressure or "now-or-never" pitch from the scam artist.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Real estate scams are easily recognized. There is almost always an element of time pressure, with the victims being convinced they are participating in a “once-in-a-lifetime. now-or-never�? deal. The investors are led to believe there is no time to investigate the venture, and that if they hesitate, they will miss the opportunity to make a fortune. Promises of big profits for little or no involvement are the norm in real estate scams. The investor is also misled into assuming they are being let in on a special offer or an exclusive deal by the promoter.See page(s) 1.1722 in the Fraud Examiner’s Manual

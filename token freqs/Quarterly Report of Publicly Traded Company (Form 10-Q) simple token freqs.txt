@@ -1,0 +1,23 @@
+Token                          Frequency
+-----------------------------  ---------
+but                                    1
+is                                     1
+it                                     1
+10-q                                   2
+form                                   3
+as                                     1
+the                                    1
+same                                   1
+must                                   1
+of                                     2
+traded                                 1
+company                                1
+instead                                1
+report                                 1
+10-k                                   1
+annually                               1
+publicly                               1
+filed                                  1
+quarterly                              2
+
+Totals:                     19        24

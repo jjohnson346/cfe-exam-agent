@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=The research of Hollinger and Clark strongly suggests that employees who are dissatisfied with their jobs are the most likely to seek redress through counterproductive or illegal behavior in order to right the perceived "inequity".
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The research of Hollinger and Clark strongly suggests that employees who are dissatisfied with their jobs, across all age groups but especially younger workers, are the most likely to seek redress through counterproductive or illegal behavior in order to right the perceived ‰??inequity.‰??See page(s) 4.616 in the Fraud Examiner's Manual

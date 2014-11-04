@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=As part of an audit of internal control over financial reporting, auditors must specifically evaluate:
+
+Options=Controls over related party transactions | Controls related to significant management estimates | Controls over significant unusual transactions | All of the above
+
+CorrectResponse=3
+
+Explanation=As part of an audit of ICOFR: the auditor must specifically evaluate (1) the controls enacted to address the risk of management override of other controls and (2) whether the company’s internal controls adequately address the risk of material misstatement due to fraud. These controls include:•	Controls over significant unusual transactions;•	Controls over journal entries and adjustments made during the end of the period financial reporting process;•	Controls over related party transactions;•	Controls related to significant management estimates; and•	Controls that mitigate the motivations for, and pressures on, management to engage in inappropriate earnings management and financial statement fraud.See page(s) 1.237-1.238 in the Fraud Examiner's Manual

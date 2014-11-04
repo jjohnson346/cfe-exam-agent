@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Beginning a civil action in federal court usually involves the filing of a complaint. The complaint should contain at least three things. Which of the following is NOT one of them?
+
+Options=List of witnesses | Court's jurisdiction | Grounds for relief | Demand for judgment
+
+CorrectResponse=0
+
+Explanation=The federal rules provide that the complaint should be a ‰??short and plain statement" showing the court‰??s jurisdiction to hear the case, the grounds for relief, and a demand for judgment.See page(s) 2.601 in the Fraud Examiner's Manual

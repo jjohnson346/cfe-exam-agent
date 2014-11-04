@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=When dealing with documents and other forms of evidence, it is necessary to preserve the ____________________ in order for it to be accepted by a court.
+
+Options=Chain of custody | Evidential value | Exhibit stamp | None of the above
+
+CorrectResponse=0
+
+Explanation=From the moment evidence is received, its chain of custody must be maintained for it to be accepted by the court. This means that a record must be made when the item is received or when it leaves the care, custody, or control of the fraud examiner. This is best handled by a memorandum of interview with the custodian of the records when the evidence is received.See page(s) 3.106 in the Fraud Examiner's Manual

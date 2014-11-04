@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A Certified Fraud Examiner accepts an assignment to conduct a fraud examination of the cash function of a business. Because the Certified Fraud Examiner was in a hurry to complete the job. she overlooked key items of evidence and failed to uncover a major fraud. This examiner may have violated the Certified Fraud Examiner Code of Ethics.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=This action would be in violation of Article I of the Certified Fraud Examiner Code of Professional Ethics. This article states that: "A CFE shall at all times demonstrate a commitment to professionalism and diligence in the performance of his or her duties."See page(s) 4.1001 in the Fraud Examiner‰??s Manual

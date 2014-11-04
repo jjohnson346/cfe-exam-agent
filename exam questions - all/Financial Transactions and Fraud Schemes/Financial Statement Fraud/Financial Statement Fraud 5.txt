@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Failure to record corresponding revenues and expenses in the same accounting period will result in income and profit understatement in the period when the revenue is recorded and income and profit overstatement in the period in which the corresponding expenses are recorded.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=According to generally accepted accounting principles, revenue and corresponding expenses should be recorded or matched in the same accounting period. The timely recording of expenses is often compromised due to pressures to meet budget projections and goals, or due to lack of proper accounting controls. As the expensing of certain costs is pushed into periods other than the ones in which they actually occur, they are not properly matched against the income that they help produce. For example, revenue may be recognized on the sale of certain items, but the cost of goods and services that went into the items sold might intentionally not be recorded in the accounting system until the subsequent period. This might make the sales revenue from the transaction almost pure profit, inflating earnings. In the next period, earnings would be depressed by a similar amount.See page(s) 1.316 in the Fraud Examiner's Manual

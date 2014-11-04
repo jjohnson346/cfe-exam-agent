@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=The practice of recording the deposits of transfers between multiple bank accounts before recording the disbursements is called which of the following?
+
+Options=Kiting | An error | Lapping | Timing differences
+
+CorrectResponse=0
+
+Explanation=Kiting is the practice of recording the deposit of an interbank transfer before recording the disbursement, thus briefly double-counting the amount of cash. In a kiting scheme, multiple bank accounts are opened and money is "deposited" from account to account, although the money never exists. Check kiting is one of the original white-collar crimes.	See page(s) 1.1004 in the Fraud Examiner's Manual

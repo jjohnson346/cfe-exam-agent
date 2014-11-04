@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Which of the following is NOT considered a part of a proactive fraud policy?
+
+Options=Decreased use of analytical review | Enforced mandatory vacations | Fraud assessment questioning | Surprise audits
+
+CorrectResponse=0
+
+Explanation=Proactive fraud policies are generated from the top of the operation. A proactive policy simply means that the companies will aggressively seek out possible fraud, instead of waiting for instances to be otherwise uncovered. This can be accomplished by several means, including:Increased use of analytical review Fraud assessment questioning Enforcement of mandatory vacations Job rotationSurprise audits where feasibleSee page(s) 4.718 in the Fraud Examiner's Manual

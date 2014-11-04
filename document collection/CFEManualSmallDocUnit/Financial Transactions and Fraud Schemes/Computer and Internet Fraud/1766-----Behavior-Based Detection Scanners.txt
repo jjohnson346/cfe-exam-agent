@@ -1,0 +1,31 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Behavior-Based Detection Scanners
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Behavior-Based Detection Scanners   
+These applications run continuously, looking for behavior that might indicate virus activity 
+(for example, instructions to format a hard drive.) 
+ 
+
+
+
+:
+
+
+behaviorbas detect scanner
+these applic run continu look for behavior that might indic viru activ
+for exampl instruct to format a hard drive

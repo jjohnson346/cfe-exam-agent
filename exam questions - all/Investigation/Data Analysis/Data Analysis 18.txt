@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is NOT a type of case management and reporting software?
+
+Options=ACL | i2 Analyst's Notebook | CaseMap | Xanalys Suite
+
+CorrectResponse=0
+
+Explanation=CaseMap, Xanalys Suite, and i2 Analyst's Notebook are all types of software designed to aid investigators in managing and organizing the information gathered and using the information to create reports. ACL is a generalized audit software program.See page(s) 3.632-3.633, 3.638 in the Fraud Examiner's Manual

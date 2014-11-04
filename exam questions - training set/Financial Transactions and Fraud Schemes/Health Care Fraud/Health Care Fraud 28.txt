@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=If a person is convicted of a federal health care offense, the judge can order the forfeit of any property that can be traced from the proceeds received from the offense.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Health Insurance Portability and Accountability Act of 1996 provides that a judge order a person convicted of a federal health care offense to forfeit any property that can be traced from the proceeds received from the offense.See page(s) 1.1202 in the Fraud Examiner‰??s Manual

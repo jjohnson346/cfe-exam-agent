@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Segregation or separation of duties in a well-designed internal control system means which of the following should not be done by the same programmer?
+
+Options=Operate the computer and have access to production programs, whether supervised or not | Operate the computer, have unsupervised access to production programs, and have access to production data | Have supervised access to production programs and data | None of the above
+
+CorrectResponse=1
+
+Explanation=Separation of duties is a key element in a well-designed internal control system. It is also fundamental to detecting and preventing fraud. Programmers should not operate the computer, have unsupervised access to production programs, and have access to production data sets (data files).See page(s) 1.1844 in the Fraud Examiner's Manual

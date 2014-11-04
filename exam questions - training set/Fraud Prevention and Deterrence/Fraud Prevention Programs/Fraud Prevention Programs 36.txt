@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Punishments for violations of an organization's ethics policy should be very flexible and set on a case-by-case basis.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=No control environment will be effective unless there is consistent discipline for ethical violations. Consistent discipline requires a well-defined set of sanctions for violations, and strict adherence to the prescribed disciplinary measures. If one employee is punished for an act and another employee is not punished for a similar act, the moral force of the company's ethics policy will be diminished.See page(s) 4.705 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The most common give-away scam, in which a postcard arrives in the mail telling the receiver he has already won a prize such as a new luxury vehicle or cash, is known as23	of 48-
+
+Options=The "1-in-5" | The "Fly and Buy" | The "Bait and Switch" | None of the above
+
+CorrectResponse=0
+
+Explanation=The most common give-away is known as the ‰??1-in-5.‰??' A postcard arrives in the mail telling the receiver he has already won a prize. A new luxury vehicle tops the list, along with $5,000 in cash, a diamond necklace, a living room set, and S500 in gift certificates for clothing and household furnishings. The odds of winning any of the prizes are astronomical. Victims are given trinkets or coupons redeemable only for the company‰??s own shoddy merchandise.See page(s) 1.1726-1.1727 in the Fraud Examiner's Manual

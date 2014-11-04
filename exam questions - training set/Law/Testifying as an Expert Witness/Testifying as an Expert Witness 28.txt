@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Gray, a Certified Fraud Examiner is hired to provide litigation support services and to testify to a potential fraud involving the ABC Company. Members of his firm. Gray and Company, reviewed and summarized thousands of original documents, and prepared work papers for Gray to use on the stand. Under normal accepted procedures for Certified Fraud Examiners, to what extent should Gray review the supporting documents?
+
+Options=It is not necessary to review the supporting documents as long as he has reviewed the summaries | He should conduct a complete review of the supporting documents | He should conduct a sampling of the supporting documents | None of the above
+
+CorrectResponse=1
+
+Explanation=Gray should, wherever practicable, conduct a complete review of supporting documents. One important problem in the preparation of reports and accounting summaries arises from delegation of tasks to subordinates. If the person giving evidence has not had direct knowledge or has not examined the specific documents or prepared the accounting summaries, it may be possible that the expert will be trapped under the hearsay rule. If tasks are delegated, it is important that the review process entail review of all work to original documentation on a 100 percent basis. It is also important to know the effect of the other assumptions on the conclusion or opinion reached in the report. It is often possible to trap an expert into giving alternative opinions, based upon other assumptions that had not been considered. The work should be planned carefully enough in advance so that the work papers and supporting documentation do not show contradictory conclusions that the opposing side could seize upon.See page(s) 2.804 in the Fraud Examiner's Manual

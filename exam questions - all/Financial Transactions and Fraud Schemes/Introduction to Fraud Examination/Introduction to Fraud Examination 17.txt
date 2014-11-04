@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Forensic accounting differs from fraud examination in that forensic accounting is the use of professional accounting skills in matters involving potential or actual civil or criminal litigation and may or may not involve fraud.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=Forensic accounting is the use of professional accounting skills in matters involving potential or actual civil or criminal litigation. The word "forensic" is defined by Black’s Law Dictionary as “used in or suitable to courts of law or public debate." Therefore, forensic accounting is actually litigation support involving accounting. Accordingly, most fraud examinations involve forensic accounting but not all forensic accounting is fraud examination. For example, the valuation of a property in a minority shareholder derivative suit would be included under forensic accounting but may not necessarily involve fraud.See page(s) I-2-I-3 in the Fraud Examiner's Manual

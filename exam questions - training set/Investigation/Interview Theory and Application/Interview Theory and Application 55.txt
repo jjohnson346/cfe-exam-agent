@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, ______________________ questions seek to establish the credibility of a respondent.
+
+Options=Norming | Attitude | Assessment | None of the above
+
+CorrectResponse=2
+
+Explanation=Assessment questions seek to establish the credibility of the respondent. They are used only when the interviewer considers previous statements by the respondent to be inconsistent because of possible deception.See page(s) 3.237 in the Fraud Examiner's Manual

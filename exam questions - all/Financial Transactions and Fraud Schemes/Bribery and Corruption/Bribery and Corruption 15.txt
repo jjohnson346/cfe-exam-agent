@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=When tracing illegal payments, if the suspected payer is unknown, then the examiner should focus on the suspected recipient.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Often, the only practical approach to identifying and tracing illegal payments is to focus on the suspected recipient, particularly if the person making the payments is unknown, one person is suspected of taking from many, or the payments are in cash or from off-book funds.See page(s) 1.729 in the Fraud Examiner's Manual

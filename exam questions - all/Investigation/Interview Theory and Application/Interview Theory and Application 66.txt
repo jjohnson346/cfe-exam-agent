@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, ___________________________ questions are not easily understood and frequently require more than one answer. These types of questions should be avoided.
+
+Options=Closed | Complex | Reverse | None of the above
+
+CorrectResponse=1
+
+Explanation=Complex questions and statements are too complicated to be easily understood cover more than one subject or topic, require more than one answer, and/or require a complicated answer. They should be avoided. Example: "What are your duties here, and how long have you been employed?"See page(s) 3.224 in the Fraud Examiner's Manual

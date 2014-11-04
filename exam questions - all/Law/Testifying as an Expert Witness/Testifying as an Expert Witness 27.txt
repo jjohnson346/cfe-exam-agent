@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Expert witnesses are allowed to use professionally recognized publications as part of the basis for the conclusions in their reports.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Experts sometimes use specialized materials in reaching and communicating their opinions. Professional publications and sources of information that normally are used in the course of business may be produced as part of the trial. Federal rules require only that the source be “generally used and relied on" by people in that field.See page(s) 2.819 in the Fraud Examiner's Manual

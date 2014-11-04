@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=_____________________ are digital files created under the computer user's direction and include text-based documents, spreadsheets, databases, e-mail, address books, presentation slides, audio/video files, image files, and so on.
+
+Options=Computer-created files | User-protected files | User-created files | None of the above
+
+CorrectResponse=2
+
+Explanation=User-created files are files created under the user's direction, and include text-based documents, spreadsheets, databases, e-mail, address books, presentation slides, audio/video files, image files, Internet bookmarks, and so on.See page(s) 3.723 in the Fraud Examiner's Manual

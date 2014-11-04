@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Baker, a Certified Fraud Examiner, contacts Delta for the purpose of conducting a routine, information-gathering interview. Delta expresses a desire that his coworker, Gamma, be interviewed at the same time. Baker should:
+
+Options=Get the information regardless of how it is done | Conduct the interviews together | Conduct the interviews separately | None of the above
+
+CorrectResponse=2
+
+Explanation=One of the basic rules of interviewing is to question only one person at a time. The testimony of one respondent invariably will influence the testimony of another. There are few hard and fast rules of interviewing, but this is one of them. Another basic rule is to conduct interviews under conditions of privacy. The interview is best conducted out of the sight and sound of friends, relatives, or fellow employees. People are very reluctant to furnish information within the hearing of others.See page(s) 3.220 in the Fraud Examiner's Manual

@@ -1,0 +1,52 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/Investigating with the Internet/The Whois Protocol
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+The Whois Protocol 
+Whois is a query response protocol that is used to search databases that store domain 
+registration records, including domain name, server addresses, technical contacts, and 
+addresses. These databases can be queried at the following sites: 
+• Networksolutions.com will provide the ownership and registration information for a 
+website.  
+• Arin.net is a whois server that searches for the registrant and IP address range of a 
+particular IP address.  
+• Allwhois.com will find the whois database for a particular domain name.  
+• Whatismyipaddress.com provides a collection of tools for locating information about an 
+IP address.   
+• Traceroute.org—like whatismyipaddress.com— can be used to trace IP addresses.  
+Accessing Information Online  Investigation 
+3.508   2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+the whoi protocol
+whoi is a queri respons protocol that is us to search databas that store domain
+registr record includ domain name server address technic contact and
+address these databas can be queri at the follow site
+networksolutionscom will provid the ownership and registr inform for a
+websit
+arinnet is a whoi server that search for the registr and ip address rang of a
+particular ip address
+allwhoiscom will find the whoi databas for a particular domain name
+whatismyipaddresscom provid a collect of tool for locat inform about an
+ip address
+tracerouteorglik whatismyipaddresscom can be us to trace ip address
+access inform onlin investig
+3508 2011 fraud examin manual

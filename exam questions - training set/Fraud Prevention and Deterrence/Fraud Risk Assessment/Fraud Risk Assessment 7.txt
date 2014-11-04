@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=A fraud risk assessment can be conducted either by people inside the organization or by external consultants.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A good fraud risk assessment can be effectively conducted either by people inside the organization or with external resources. However, the people leading and conducting the fraud risk assessment need to be independent and objective throughout the assessment process. Additionally, they must also be perceived as independent and objective by others.See page(s) 4.805 in the Fraud Examiner's Manual

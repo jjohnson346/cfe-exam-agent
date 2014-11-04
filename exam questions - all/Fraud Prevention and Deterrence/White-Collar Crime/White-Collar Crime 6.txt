@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=The typical white-collar crime offender is a white male with a moderate social status.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The wide array of crimes called “white-collar’—from antitrust and securities violations to bank embezzlement and credit fraud—makes assembling a profile of the typical offender difficult, but not impossible. Most defendants are white males, with a moderate social status. They are slightly more likely than the general population to have a high school diploma (78 percent versus 69 percent), or a college degree (24.7 percent versus 19 percent for the general public).See page(s) 4.406 in the Fraud Examiner's Manual

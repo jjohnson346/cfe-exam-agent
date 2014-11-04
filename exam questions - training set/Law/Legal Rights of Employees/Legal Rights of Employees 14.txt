@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Blue, a Certified Fraud Examiner, is an officer for the Denver Police Department. While lawfully interviewing White (a fraud suspect) at White's residence. Blue notices incriminating documents lying on the table. Blue seizes the documents without a warrant based on the:
+
+Options=Plain view doctrine | Incidental interview doctrine | Warrantless search doctrine | None of the above
+
+CorrectResponse=0
+
+Explanation=Evidence in "plain view" of an officer who has a right to be in position to observe it, may be seized by the officer without a warrant. This situation usually occurs when contraband or evidence of another crime is inadvertently discovered during a search or arrest for another offense. The discovery must be truly inadvertent, however: if discovery of the evidence is anticipated, and no other exception applies, a warrant must first be obtained.See page(s) 2.423 in the Fraud Examiner's Manual

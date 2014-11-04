@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Cash theft schemes fall into which of the following two categories?
+
+Options=Skimming and unrecorded sales | Unrecorded sales and false discounts | Register manipulation and understated sales | Skimming and larceny
+
+CorrectResponse=3
+
+Explanation=Cash theft schemes fall into two categories, skimming and larceny. The difference between the two types of schemes depends completely on when the cash is stolen Cash larceny is the theft of money that has already appeared on a victim organization‰??s books, while skimming is the theft of cash that has not yet been recorded in the accounting system. The way in which an employee extracts the cash may be exactly the same for a cash larceny or skimming schemeSee page(s) 1.401 in the Fraud Examiner's Manual

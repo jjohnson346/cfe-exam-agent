@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Jackson, a Certified Fraud Examiner, discovered that the ABC Supply Company was not legally incorporated. In an effort to obtain information about the company's ownership, Jackson should:
+
+Options=Review the fictitious business names/DBA information | Review the UCC filings | Contact the Better Business Bureau | None of the above
+
+CorrectResponse=0
+
+Explanation=DBA (doing business as) information typically is filed at the county level, though many states require filing with the state. This information will provide insight into the true business venture behind the name. Very similar to corporate filings with the secretary of state, these records will allow you to trace the corporation’s roots or prove ownership in sole proprietorships, partnerships, limited partnerships, joint ventures, and trusts.See page(s) 3.422 in the Fraud Examiner's Manual

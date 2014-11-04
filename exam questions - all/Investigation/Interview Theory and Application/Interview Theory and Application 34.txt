@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, the process of observing behavior at the beginning of an interview is called:
+
+Options=Deception analysis | Assessment | Calibrating | None of the above
+
+CorrectResponse=2
+
+Explanation=Norming or calibrating is the process of observing behavior before critical questions are asked, as opposed to doing so during questioning Norming should be a routine part of all interviews. People with truthful attitudes will answer questions one way; those with untruthful attitudes generally will answer them differently. Assessment questions ask for the subject to agree with matters that go against the principles of most honest people. In other words, dishonest people are likely to agree with many of the statements, while honest people won't.See page(s) 3.238 in the Fraud Examiner's Manual

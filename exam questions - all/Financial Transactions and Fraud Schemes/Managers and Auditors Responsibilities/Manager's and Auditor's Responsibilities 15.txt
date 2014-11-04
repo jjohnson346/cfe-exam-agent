@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=When identifying risks that may result in material misstatements due to fraud, auditors should consider the information needed to identify such risks in the context of the three conditions present when fraud occurs, and they should also consider: \n\nI. The type of risk that may exist \nII. The significance of the risk \nIII. The likelihood of the risk \nIV. The pervasiveness of the risk
+
+Options=I, II, III, and IV | I, and III only  | I, II, and III only r  | II, and IV only
+
+CorrectResponse=0
+
+Explanation=After gathering the information necessary for identifying risks of material misstatement due to fraud, the auditor should consider the information in the context of the three conditions present when fraud occurs: incentives/pressures, opportunities, and attitudes/rationalizations. Auditors should also consider:• The type of risk that may exist (i.e., whether it involves fraudulent financial reporting or misappropriation of assets) See page(s) 1.227-1.228 in the Fraud Examiner's Manual

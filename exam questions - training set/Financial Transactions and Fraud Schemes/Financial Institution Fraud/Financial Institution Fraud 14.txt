@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=An organization engaged in any or all of many financial functions, such as receiving, collecting, transferring, paying, lending, investing, dealing, exchanging, and servicing money and claims to money is best known as which of the following?
+
+Options=Bank | Mortgage lender | Brokerage | None of the above
+
+CorrectResponse=0
+
+Explanation=A bank is defined as an organization engaged in any or all of many financial functions, such as receiving, collecting, transferring, paying, lending, investing, dealing, exchanging, and servicing (via safe deposit, custodianship, agency, or trusteeship) money and claims to money, both domestically and internationally. This broad concept applies to institutions such as central banks for cooperatives, export-import banks, federal intermediate credit banks, federal land banks, investment banks, and mortgage lenders.See page(s) 1.901 in the Fraud Examiner's Manual

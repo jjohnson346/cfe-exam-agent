@@ -1,0 +1,139 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Revenue
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Fraud Detection Techniques for Revenue 
+MISSING/UNUSUAL CUSTOMER  MASTERFILE INFORMATION/MATCH TO PRIOR YEAR 
+FOR CHANGES 
+This report will identify changes in the customer masterfile, such as additions and deletions. 
+Given that most systems do not track the changes in the customer masterfile (e.g., there is 
+no “Last Maintained on Date” field), this report is sometimes the only means of determining 
+changes in the customer master.  
+ 
+The fraud examiner should review major additions and/or deletions to the customer 
+masterfile. Given that there is a high potential for fraud on newly added customers (e.g., 
+posting false sales invoices to phony customer accounts to inflate period-end sales balances), 
+the names and addresses for such customers should be reviewed against employees with the 
+ability to enter invoices into the system. This can be done using the accounts payable test 
+described in this book that matched vendor addresses to employee addresses. Since this 
+exercise may detect fraud, it may be beneficial to locate the invoices or customer files 
+independent of the accounts receivable department (which may be culpable for creating the 
+false customer accounts). 
+ 
+CASH RECEIPT TO OPEN INVOICE MATCHING 
+This test helps assess the existence and valuation of open invoices at period end based on 
+the cash received subsequent to year end. Therefore, it is one of the most popular tests used 
+by fraud examiners in assessing the existence of period end invoices. 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.628   2011 Fraud Examiners Manual  
+Based on this test, the fraud examiner can easily assess whether open invoices were paid with 
+cash (and therefore existed at year end), and for those still outstanding, whether they should 
+be reviewed further from the perspective of year-end valuation. Such invoices probably 
+relate to customers who regularly pay late, but they could represent new customer payment 
+issues and/or fraudulent sales posted at year-end that will never receive cash. 
+ 
+AGE RECEIVABLES, EXTRACT OLDER BALANCES, AND SUMMARIZE BY CUSTOMER 
+This test mainly recalculates the aging of the invoices in the accounts receivable ledger for 
+review against the company-derived report. Any differences between this calculation and the 
+report used by management may be due to a system error, a poorly designed report, or fraud. 
+To orchestrate fraud, management may hide the true payment patterns of customers to 
+minimize their bad debt valuation reserve at year end. 
+ 
+The aging report should be reconciled to the organization’s accounts receivable aging report. 
+Any differences should be investigated. One approach is to extract a sampling of invoices 
+(see previous test on reviewing a sample of invoices) within a specific aging group and 
+reconcile to the aging report on an invoice by invoice basis. This work may identify report 
+errors or an attempt by the organization to hide the true aging of accounts receivable.  
+The focus of test work should be on more current aging categories that may be 
+inappropriately inflated. 
+ 
+Once the invoices are summarized by customer, the aging report also highlights customer 
+balances, older than a pre-defined “old” limit. This may be 180 or 270 days after which 
+payment of such invoices is unlikely. Large customer balances could be reviewed with 
+management as to their collectability and, possibly, with the actual customer. This analysis 
+would further support the year-end bad debt reserve calculation. 
+ 
+CALCULATE THE DIFFERENCE BETWEEN SHIP AND INVOICE DATES, AS WELL AS INVOICE DATES WITH NO SHIPMENTS 
+Untimely, erroneous, and/or fraudulent sales invoices may be detected if invoices are sent 
+without valid shipments. In this case, revenue is potentially being recorded prior to being 
+earned. Further research of these invoices should be done independent of the sales and 
+accounts receivable functions in order to ensure an independent analysis. 
+ 
+For more information about ActiveData for Excel, visit www.informationactive.com. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.629 
+
+
+
+:
+
+
+fraud detect techniqu for revenu
+missingunusu custom masterfil informationmatch to prior year
+for chang
+thi report will identifi chang in the custom masterfil such as addit and delet
+given that most system do not track the chang in the custom masterfil eg there is
+no last maintain on date field thi report is sometim the onli mean of determin
+chang in the custom master
+the fraud examin should review major addit andor delet to the custom
+masterfil given that there is a high potenti for fraud on newli ad custom eg
+post fals sale invoic to phoni custom account to inflat periodend sale balanc
+the name and address for such custom should be review against employe with the
+abil to enter invoic into the system thi can be done us the account payabl test
+describ in thi book that match vendor address to employe address sinc thi
+exercis mai detect fraud it mai be benefici to locat the invoic or custom file
+independ of the account receiv depart which mai be culpabl for creat the
+fals custom account
+cash receipt to open invoic match
+thi test help assess the exist and valuat of open invoic at period end base on
+the cash receiv subsequ to year end therefor it is on of the most popular test us
+by fraud examin in assess the exist of period end invoic
+data analysi and report tool investig
+3628 2011 fraud examin manual
+base on thi test the fraud examin can easili assess whether open invoic were paid with
+cash and therefor exist at year end and for those still outstand whether thei should
+be review further from the perspect of yearend valuat such invoic probabl
+relat to custom who regularli pai late but thei could repres new custom payment
+issu andor fraudul sale post at yearend that will never receiv cash
+ag receiv extract older balanc and summar by custom
+thi test mainli recalcul the ag of the invoic in the account receiv ledger for
+review against the companyderiv report ani differ between thi calcul and the
+report us by manag mai be due to a system error a poorli design report or fraud
+to orchestr fraud manag mai hide the true payment pattern of custom to
+minim their bad debt valuat reserv at year end
+the ag report should be reconcil to the organ account receiv ag report
+ani differ should be investig on approach is to extract a sampl of invoic
+see previou test on review a sampl of invoic within a specif ag group and
+reconcil to the ag report on an invoic by invoic basi thi work mai identifi report
+error or an attempt by the organ to hide the true ag of account receiv
+the focu of test work should be on more current ag categori that mai be
+inappropri inflat
+onc the invoic ar summar by custom the ag report also highlight custom
+balanc older than a predefin old limit thi mai be 180 or 270 dai after which
+payment of such invoic is unlik larg custom balanc could be review with
+manag as to their collect and possibl with the actual custom thi analysi
+would further support the yearend bad debt reserv calcul
+calcul the differ between ship and invoic date as well as invoic date with no shipment
+untim erron andor fraudul sale invoic mai be detect if invoic ar sent
+without valid shipment in thi case revenu is potenti be record prior to be
+earn further research of these invoic should be done independ of the sale and
+account receiv function in order to ensur an independ analysi
+for more inform about activedata for excel visit wwwinformationactivecom
+investig data analysi and report tool
+2011 fraud examin manual 3629

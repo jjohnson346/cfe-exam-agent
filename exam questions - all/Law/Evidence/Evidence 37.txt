@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Under the Federal Rules of Evidence, which of the following is NOT an exception to the hearsay rule?
+
+Options=Unrecorded recollections | Then existing mental, emotional, or physical condition | Present sense impressions | Statements for medical diagnosis or treatment
+
+CorrectResponse=0
+
+Explanation=There are several exceptions to the rule against hearsay. Federal Rule of Evidence 803 lists the following: (1) present sense impression, (2) excited utterance, (3) then existing mental, emotional, or physical condition, (4)... medical diagnosis or treatment, (5) recorded recollection. (6) records of regularly conducted activity, (7) absence of entry in records ..., (8) public records and reports, (9) records of vital statistics, (10) absence of public record or entry, (11) records of religious organizations, (12) marriage, baptismal, and similar certificates, (13) family records, (14)... property records, (15) statements in documents affecting an interest in property, (16) statements in ancient documents, (17) market reports, commercial publications, (18) learned treatises, (19) reputation concerning personal or family history, (20) reputation concerning boundaries or general history, (21) reputation as to character, (22) judgment of previous conviction, and (23) judgment as to personal, family or general history, or boundaries. There is no exception for unrecorded recollections. See page(s) 2.718-2.721 in the Fraud Examiner's Manual

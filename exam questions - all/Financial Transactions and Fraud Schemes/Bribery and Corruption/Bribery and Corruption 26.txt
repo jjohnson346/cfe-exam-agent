@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=A bribe or illicit payment made in the form of a hidden interest may be hard to detect for all of the following reasons EXCEPT:
+
+Options=The recipient's interest may be undocumented or may be a verbal agreement | The recipient's interest may be hidden in a trust or other business interest | The recipient's interest may be concealed through a straw nominee | The recipient's interest may be paid directly from the payer's normal business account
+
+CorrectResponse=3
+
+Explanation=In the latter stages of sophisticated bribery schemes, the payer might give a hidden interest in a joint venture or other profit-making enterprise. The recipient’s interest might be concealed through a straw nominee, hidden in a trust or other business entity, or merely included by an undocumented verbal agreement. Such arrangements are very difficult to detect, and even if identified, proof of corrupt intent might be difficult to demonstrate.See page(s) 1.715 in the Fraud Examiner's Manual

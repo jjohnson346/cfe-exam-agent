@@ -1,0 +1,23 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+computer                               2
+technique                              1
+control                                1
+is                                     1
+using                                  1
+or                                     2
+a                                      3
+tool                                   1
+as                                     1
+instrument                             1
+the                                    1
+simulation                             2
+manipulation                           1
+and                                    2
+plan                                   1
+modeling                               2
+criminal                               1
+act                                    1
+
+Totals:                     19        26

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=The main limitations of online public database searches include which of the following?
+
+Options=Searches are limited in the area they cover | The accuracy and currency of information must be checked | Online coverage varies widely from state to state | All of the above
+
+CorrectResponse=3
+
+Explanation=The main limitations of database searches include:‰?¢	Online coverage varies widely from state to state. The fraud examiner should determine whether specific information is available for each investigation.‰?¢	Searches are limited in the area they cover. One can be off by one county and miss pertinent land holdings, divorce records, liens, etc.‰?¢	All online public records are brief abstracts of the original public record.‰?¢	The source of the information compiled in a vendor‰??s database must be reliable.‰?¢	The accuracy and currency of information must be checked.‰?¢	The records or publications that have been compiled in an electronic format may not go back very far.‰?¢	Internet search engines are notoriously erratic in their retrieval.See page(s) 3.516 in the Fraud Examiner's Manual

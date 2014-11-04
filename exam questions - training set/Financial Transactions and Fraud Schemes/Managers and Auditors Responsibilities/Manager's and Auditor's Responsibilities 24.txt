@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The Sarbane's Oxley Act requires that each member of a company's audit committee be independent with respect to the company. Which of the following is NOT a violation of the independence requirements for audit committee members?
+
+Options=The receipt of pension benefits from previous employment with the company | Serving as the CEO of a subsidiary of the company | Ownership of 18 percent of the voting stock of the company | The receipt of legal consulting fees from the company
+
+CorrectResponse=0
+
+Explanation=Audit committee members must be independent of the company with respect to fees and affiliation. Audit committee members may only be compensated for their services on the board and any board committee. They cannot be paid by the company, or any of its subsidiaries, for any other consulting or advisory work. However, audit committee members may receive any fixed retirement benefits they are entitled to for prior service with the company, as long as the benefits are not contingent upon the member's continued service. Additionally, audit committee members cannot be "affiliated persons" of the company or any of its subsidiaries. A safe harbor provision excludes members from being considered an affiliated person as long as they are not an executive officer of the company or any of its subsidiaries and they are not a shareholder of 10 percent or more of any class of voting stock of the company or any of its subsidiaries.See page(s) 1.212 in the Fraud Examiner‰??s Manual

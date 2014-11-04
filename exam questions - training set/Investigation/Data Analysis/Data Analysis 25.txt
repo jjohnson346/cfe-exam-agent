@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=In data analysis, date fields are generally not a problem in importing and exporting information because standard formats are always used.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=When conducting data analysis, the examiner must consider the data format and structure This consideration is important when you wish to import or export data with your computer. A date can be formatted into a number of different styles, such as mm/dd/yyyy. The structure of the data will also be important along with the extension. A text file will have a .txt extension associated with it. What format is the current data in? What format will your computer require? How do you get the data from here to there if the data formats and structures are different?See page(s) 3.613 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Stephen wants to make an exact copy of a particular computer hard drive without disturbing the original data. Which of the following products would be most useful in performing this task?
+
+Options=Microsoft Excel | ActiveData | EnCase | ACL
+
+CorrectResponse=2
+
+Explanation=EnCase Forensic is a computer forensics software program by Guidance Software. It gives investigators the ability to image a drive and preserve it in a forensic manner using the EnCase evidence file format (LEF or E01), a digital evidence container vetted by courts worldwide.See page(s) 3.727 in the Fraud Examiner's Manual

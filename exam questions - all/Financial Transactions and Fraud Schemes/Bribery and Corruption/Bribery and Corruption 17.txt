@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=in proving corrupt payments, the fraud examination often begins with which of the following?
+
+Options=Interviewing the target | Preparing the business profile | Preparing the vertical analysis | Interviewing of the co-conspirator
+
+CorrectResponse=1
+
+Explanation=The business profile begins the examination process. It identifies prospective witnesses and targets, as well as relevant documents and transactions, and should provide leads as to whether an on-book or off-book scheme is being used.See page(s) 1.720 in the Fraud Examiner's Manual

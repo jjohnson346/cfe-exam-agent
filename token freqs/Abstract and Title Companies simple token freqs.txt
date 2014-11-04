@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+insurance                              1
+transactions                           1
+attorneys                              1
+individual                             1
+institutions                           1
+about                                  1
+mortgages                              1
+of                                     3
+real                                   1
+title                                  2
+distribute                             1
+locations                              1
+publish                                1
+these                                  1
+abstract                               2
+financial                              1
+information                            1
+transfers                              1
+mortgage                               1
+companies                              3
+property                               1
+papers                                 2
+addition                               1
+in                                     1
+and                                    5
+amounts                                1
+often                                  1
+contain                                1
+records                                1
+release                                1
+brokers                                1
+estate                                 1
+
+Totals:                     33        45

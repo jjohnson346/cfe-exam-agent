@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Able, a bookkeeper for a small company, typed out checks to a local vendor and her boss signed them. She then used the erase function on her typewriter to delete the vendor's name and insert her own. She also changed the amounts of the checks in the same manner. Then she cashed the checks. According to Corporate Fraud Handbook, what kind of scheme did Able commit?
+
+Options=A forged maker scheme | A forged endorsement scheme | An altered payee scheme | A cash larceny scheme
+
+CorrectResponse=2
+
+Explanation=The altered payee scheme is a type of check tampering fraud in which an employee intercepts a company check intended for a third party and alters the payee designation so that the check can be converted by the employee or an accomplice. The fraudster inserts his own name, the name of a fictitious entity, or some other name on the payee line of the check.See page(s) 136-138 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Bankruptcy crimes are usually investigated by which government agency?
+
+Options=Secret Service | CIA | IRS | FBI
+
+CorrectResponse=3
+
+Explanation=The FBI investigates bankruptcy crimes, and the U.S. Attorney‰??s Office prosecutes them.See page(s) 1.1314 in the Fraud Examiner's Manual

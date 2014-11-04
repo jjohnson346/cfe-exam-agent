@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT an element of perjury?
+
+Options=An intentional false statement | While under oath | Uttered in a court of law | On a material point
+
+CorrectResponse=2
+
+Explanation=Perjury is a federal violation under Title 18, U.S. Code. Sections 1621 and 1623. Perjury is an intentional false statement on a material point given under oath. The law does not require it to be given in the courtroom.See page(s) 2.334 in the Fraud Examiner's Manual

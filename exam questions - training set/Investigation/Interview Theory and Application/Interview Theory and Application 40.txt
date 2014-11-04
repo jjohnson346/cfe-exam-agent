@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=It is recommended that volatile witnesses generally be interviewed without advance notice.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Surprise should be employed in any interview that is considered potentially volatile. In many instances, the potentially volatile respondent is unaware that he is going to be questioned, and will therefore be off guard. If the interview is not conducted by surprise, the interviewer runs the risk of the respondent not showing up. showing up with a witness, or being present with counsel.See page(s) 3.233 in the Fraud Examiner's Manual

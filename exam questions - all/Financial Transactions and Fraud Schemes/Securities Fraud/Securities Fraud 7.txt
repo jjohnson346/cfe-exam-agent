@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Pyramid schemes, Ponzi schemes, and even ostrich farms can (under certain conditions) be considered "securities."
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=An investment contract is considered a "security" under the Howey test if certain conditions are met. There are numerous examples of such investment contracts, including Ponzi schemes, pyramid schemes, and even ostrich farms. In order to come within the Howey test, the investment must be a common enterprise, with an expectation of profit, and the profit must be generated solely from the efforts of others.See page(s) 1.1517-1.1519 in the Fraud Examiner's Manual

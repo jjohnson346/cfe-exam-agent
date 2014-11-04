@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Fisher, a Certified Fraud Examiner was hired to look at certain assets of ABC Company, which may be fraudulently overvalued by management. Fisher determined that the building cost $11.5 million, has a tax value of $11,250,000, and a recent appraisal for $14 million What generally accepted accounting principle governs how this land should be carried on ABC Company's books?
+
+Options=The value-added principle  | The first-in-first-out principle | The market-to-market principle | The historical cost principle
+
+CorrectResponse=3
+
+Explanation=The historical cost principle states that historical cost is the proper basis for the recording of most assets, expenses, equities, etc. For example, a piece of operational machinery should be shown on the balance sheet at initial acquisition cost and not at current market value or an estimated replacement value. If a building is purchased at a cost of $11.5 million, that is the amount that should be recorded in the buyer's accounting records. The seller may have been asking $14 million for the building up to the time of sale; the buyer may have offered $13 million for it; the building may have been assessed at $11,250,000 for property tax purposes and insured for $13.5 million; and the buyer may have received an offer of $17.5 million for the building the day after it was acquired. However, these latter amounts have no effect on the accounting records because they do not originate from an exchange The exchange price, or cost, of $11.5 million determines the monetary amount used in the records for the building.See page(s) 1.116 in the Fraud Examiner's Manual

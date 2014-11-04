@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Evidence having any tendency to make the existence of any fact that is of consequence to the determination of the action more probable or less probable than it would be without the evidence is called:
+
+Options=Direct evidence | Relevant evidence | Material evidence | None of the above
+
+CorrectResponse=1
+
+Explanation=According to rule 401 of the Federal Rules of Evidence, relevant evidence means evidence ?having any tendency to make the existence of any fact that is of consequence to determination of the action more probable or less probable than it would be without the evidence.?

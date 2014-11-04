@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Of the following list of records, which is probably the MOST important in tracing illicit payments made to fictitious payables?
+
+Options=Bank account information | Sales backup documentationx | Cash disbursement records | None of the above
+
+CorrectResponse=0
+
+Explanation=The most important information, which is often sufficient in itself, is the bank account information. This information should include all records of payments, canceled checks, wire transfer receipts, receipts for the purchase of cashier's checks and money orders, withdrawal slips, check registers, and account statements.See page(s) 1.723 in the Fraud Examiner's Manual

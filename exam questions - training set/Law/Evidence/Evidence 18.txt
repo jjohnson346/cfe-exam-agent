@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Black is the Clerk of Stephens County. He has been called to trial to introduce documents showing Blue, a fraud defendant, owns property. Black did not actually create the property records. Black's testimony can be given under which of the following hearsay exceptions:
+
+Options=Recorded recollections | Former testimony | Business and government records | None of the above
+
+CorrectResponse=2
+
+Explanation=A special hearsay exception exists for business and government records. The admissibility of these records rests on two criteria: have they been prepared during ‰??regularly conducted business activity?" and are they verifiably trustworthy? Materials prepared specifically for trial are not admissible as business records. Anything which casts doubt on the veracity of these documents can bar them. In situations where the charge involves altered documents, the materials are admitted to prove the charge of alteration‰??not for their truth value‰??so the hearsay rule doesn‰??t apply.See page(s) 2.719-2.720 in the Fraud Examiner's Manual

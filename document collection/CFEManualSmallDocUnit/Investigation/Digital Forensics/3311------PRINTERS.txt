@@ -1,0 +1,52 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Conducting an Investigation Involving Computers/Workstation/PRINTERS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+PRINTERS 
+Examiners must also be aware that it might be possible to recover previously printed 
+documents. Although the odds of recovery can be low depending on a variety of factors, 
+understanding how retrieval can be achieved can be of great value to the investigator.  
+ 
+In addition to using printer-spool files to recover previously printed documents, many 
+printers have internal hard drives that may contain information relevant to a fraud 
+examination. In general, any information sent to and stored by a printer is recoverable unless 
+the printer has overwritten the data.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.707 
+Furthermore, some printers have memory buffer — temporary storage area of jobs waiting to be 
+printed — which may also contain important information. Information contained in memory 
+buffer, however, is generally limited to recently created and stored data.  
+ 
+
+
+
+:
+
+
+printer
+examin must also be awar that it might be possibl to recov previous print
+document although the odd of recoveri can be low depend on a varieti of factor
+understand how retriev can be achiev can be of great valu to the investig
+in addit to us printerspool file to recov previous print document mani
+printer have intern hard drive that mai contain inform relev to a fraud
+examin in gener ani inform sent to and store by a printer is recover unless
+the printer ha overwritten the data
+investig digit forens
+2011 fraud examin manual 3707
+furthermor some printer have memori buffer temporari storag area of job wait to be
+print which mai also contain import inform inform contain in memori
+buffer howev is gener limit to recent creat and store data

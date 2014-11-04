@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+expression                             1
+person                                 2
+other                                  1
+can                                    1
+through                                1
+used                                   1
+of                                     3
+are                                    1
+times                                  1
+persuasion                             4
+when                                   1
+convincing                             2
+mostly                                 1
+aimed                                  1
+be                                     1
+effectively                            1
+is                                     2
+at                                     1
+the                                    6
+legitimacy                             1
+in                                     2
+concepts                               1
+essentially                            1
+and                                    1
+that                                   1
+differ                                 1
+interview                              2
+there                                  1
+this                                   1
+
+Totals:                     29        44

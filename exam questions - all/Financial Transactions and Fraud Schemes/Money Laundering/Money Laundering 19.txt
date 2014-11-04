@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=If a securities broker believes that a client may be engaging in transactions to launder money, the broker is required to file a Suspicious Activity Report similar to those filed by banks.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In 2002, FinCEN announced a new rule requiring brokers and dealers in securities to report suspicious activity via the Suspicious Activity Report by Securities and Futures Industries (SAR-SF; FinCEN Form 101). These firms are obligated to report suspicious transactions that are conducted or attempted by. at, or through a broker-dealer and involve or aggregate at least $5,000 in funds or other assets. Brokers and dealers in securities are required to report to FinCEN transactions that fall into one of the four categories below:•	Transactions involving funds derived from illegal activity, or intended or conducted in order to hide or disguise funds derived from illegal activity;•	Transactions designed, whether through structuring or other means, to evade the requirements of the Bank Secrecy Act;•	Transactions that appear to serve no business or apparent lawful purpose or are not the sort of transactions in which the particular customer would be expected to engage, and for which the broker-dealer knows of no reasonable explanation after examining the available facts; or•	Transactions that involve the use of the broker-dealer to facilitate criminal activity.See page(s) 1.1630 in the Fraud Examiner’s Manual

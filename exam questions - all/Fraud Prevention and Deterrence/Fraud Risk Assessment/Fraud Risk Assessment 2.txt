@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=A well-designed and effective system of internal controls can fully eliminate the risk of fraud.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=No system of internal controls can fully eliminate the risk of fraud, but well-designed and effective internal controls can deter the average fraudster by reducing the opportunity to commit the fraud.See page(s) 4.802 in the Fraud Examiner's Manual

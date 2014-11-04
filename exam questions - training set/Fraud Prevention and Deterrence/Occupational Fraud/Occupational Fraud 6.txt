@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to a study conducted by Dr. Steve Albrecht, occupational crime perpetrators who were interested primarily in "beating the system" committed larger frauds.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=According to Dr. Steve Albrecht, perpetrators who were interested primarily in ‰??beating the system" committed larger frauds. However, perpetrators who believed their pay was not adequate committed primarily small frauds. Lack of segregation of responsibilities, placing undeserved trust in key employees, imposing unrealistic goals, and operating on a crisis basis were all pressures or weaknesses associated with large frauds. College graduates were less likely to spend the proceeds of their loot to take extravagant vacations, purchase recreational property, support extramarital relationships, and buy expensive automobiles. Finally, those with lower salaries were more likely to have a prior criminal record.See page(s) 4.613 in the Fraud Examiner's Manual

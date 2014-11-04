@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=When conducting an interview of a witness, the interviewer should begin with:
+
+Options=General questions which will keep the witness on the topic to be discussed during the interview | Open-ended questions that allow the witness to tell the story in his own way | Specific questions designed to obtain all of the information known by the witness | Any of the above
+
+CorrectResponse=1
+
+Explanation=Open questions are those worded in a way which makes it difficult to answer "yes" or "no." The answer also is not dependent on the question The typical open question calls for a monologue response and can be answered in several ways. During the information phase of the interview, the interviewer should endeavor to ask primarily open questions. This is to stimulate conversation. Some of the best open questions are subtle commands.See page(s) 3.223 in the Fraud Examiner's Manual

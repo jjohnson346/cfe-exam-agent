@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The federal wire fraud statute covers:
+
+Options=Only wire communications | Wire, radio, and television communications | Only wire and radio communications | None of the above
+
+CorrectResponse=1
+
+Explanation=The federal wire fraud statute covers not only wire fraud, but fraud by radio and television.	See page(s) 2.232 in the Fraud Examiner's Manual

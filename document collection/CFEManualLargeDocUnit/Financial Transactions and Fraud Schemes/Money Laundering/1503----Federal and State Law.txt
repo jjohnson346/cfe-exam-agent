@@ -1,0 +1,1712 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MONEY LAUNDERING/Federal and State Law
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Money Laundering
+
+
+:
+
+
+Federal and State Law 
+ 
+PATRIOT Act of 2001 
+On October 26, 2001, Pre sident George W. Bush signed into law the Uniting and Strengthening 
+America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act  (the 
+PATRIOT Act). The PATRIOT Act was a response to the tragedies of September 11, 2001, 
+and reflected Congressional concern with the money laundering activities of the terrorists 
+who committed those attacks.  
+ 
+Title III of the Act is entitled the International Money Laundering Abatement and Anti-
+ Terrorist Financing Act of 2001. Title III creates significant requirements for financial 
+institutions aimed at curtailing money laundering. The most significant anti-money 
+laundering provisions of the law include the following:  
+• Financial institutions are required to establish anti-money laundering programs.  
+• Financial institutions are required to establish programs for identifying customers.  
+Money Laundering  Financial Transactions   
+1.1616                           2011 Fraud Examiners Manual  
+• U.S. banks are prohibited from maintaining correspondent accounts with foreign shell 
+banks. 
+• Securities broker-dealers are required to file suspicious activity reports.  
+• Financial institutions are required to adopt special due diligence procedures for foreign 
+correspondent accounts and private banking accounts. 
+• Non-financial businesses are required to file currency transaction reports 
+• Financial institutions have increased authority to share customer information relating to 
+money laundering.  
+• The government has greater power to obtain information from financial institutions. 
+ 
+Anti-Money Laundering Programs  
+Section 352 of the PATRIOT Act requires all financial institutions to establish anti-money 
+laundering programs, which must include, at a minimum: 
+• The development of internal policies, procedures, and controls to prevent money 
+laundering. 
+• The designation of a money laundering compliance officer. 
+• An ongoing training program for awareness of money laundering. 
+• An independent audit function to test the programs. 
+ 
+The Act defines the term “financial institution” broadly to include not only insured and 
+commercial banks, but also securities brokers and dealers, investment companies, currency 
+exchanges, issuers of cashier’s checks and money orders, credit card companies, insurance 
+companies, travel agencies, and a host of other businesses. The complete list can be found at 
+31, U.S.C., § 312 (a)(2).  
+ 
+Identification and Verification of Accountholders 
+Section 326 of the Act expands the Bank Secrecy Act (discussed below) by requiring 
+financial institutions to implement Customer Identification Programs (CIPs). These CIPs are 
+to be incorporated into financial institutions’ money laundering programs, and at a 
+minimum, they must include reasonable procedures for: 
+• Verifying the identity of any person seeking to open an account to the extent reasonable 
+and practicable;  
+• Maintaining records of the information used to verify a person’s identity, including 
+name, address, and other identifying information; and  
+• Consulting lists of known or suspected terrorists or terrorist organizations to determine 
+if the person seeking to open the account appears on any such list. 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1617 
+Prohibition Against Foreign Shell Bank Accounts  
+Pursuant to sections 313 and 319 of the PATRIOT Act, the Treasury Department issued a 
+far-reaching final regulation that applies to over 9,000 foreign financial institutions that have 
+correspondent accounts in the United States. The rule prohibits foreign shell banks (those 
+without a physical presence in any country) from maintaining correspondent accounts at any 
+U.S. financial institution. It also requires U.S. financial intuitions to maintain the name and 
+contact information of the owners of the foreign banks for whom they maintain 
+correspondent accounts. The rule strongly encourages U.S. intuitions to obtain 
+“certifications” from their foreign bank customer s. The certification can be used by the U.S. 
+institution to help ensure that the customer is not a shell bank. (Although not required, 
+obtaining the certifications and verifying the information can create a safe harbor from civil 
+liability.)   
+ 
+U.S. institutions are also required to take “reasonable steps” to ensure that correspondent 
+accounts provided to foreign banks are not used to provide services indirectly to foreign 
+shell banks. Foreign banks that have accounts in the U.S. are required to appoint someone in 
+the U.S. to accept service of legal process. The rule also gives the Secretary of the Treasury 
+and the Attorney General the authority to issue a summons or subpoena to any foreign bank 
+that maintains a correspondent account here and to request records relating to that account. 
+ 
+Suspicious Activity Reporting by Broker-Dealers 
+Pursuant to section 356 of the Act, the Financial Crimes Enforcement Network (FinCEN) 
+adopted rules requiring brokers and dealers in securities to report suspicious activity. 31, 
+C.F.R. § 103.19(a)(2). This reporting requirement  will be discussed in more detail later in this 
+section (see “Securities Broker-Dealers” un der “Suspicious Activity Reports” below). 
+ 
+Special Due Diligence for Foreign Accounts 
+Section 312 of the PATRIOT Act requires financ ial institutions to establish due diligence 
+policies, procedures, and controls that are reasonably designed to detect and report instances 
+of money laundering through certain accounts held by non-U.S. citizens or their 
+representatives. This provision applies to two types of foreign accounts:  
+• Private banking accounts  
+• Correspondent accounts  
+ 
+A private banking account is defined by the Act as an account (or combination of accounts) that 
+(1) requires a minimum aggregate deposit of funds or other assets of at least $1 million; (2) is 
+Money Laundering  Financial Transactions   
+1.1618                           2011 Fraud Examiners Manual  
+established on behalf of one or more individuals who have a direct or beneficial ownership 
+in the account; and (3) is assigned to or admini stered by an officer, employee, or agent of the 
+financial institution acting as a liaison between the financial institution and the owner of the 
+account. 
+ 
+For private banking accounts held by non-U.S. persons, the Act requires at a minimum that 
+financial institutions take reasonable steps to:  
+• Ascertain the identity of the nominal and beneficial owners of the account, and the 
+source of funds deposited into the account as needed to guard against money laundering 
+and report any suspicious transactions; and  
+• Conduct enhanced scrutiny of any such account that is requested or maintained by, or 
+on behalf of, a senior foreign political figure (or an immediate family member or close 
+associate of such) that is reasonably designed to detect and report transactions that may 
+involve the proceeds of foreign corruption. 
+ 
+A correspondent account is defined as an account established to receive deposits from or make 
+payments on behalf of a foreign financial institution, or handle other financial transactions 
+related to such an institution. Enhanced due diligence is required for correspondent accounts 
+maintained by or on behalf of foreign banks that operate under off-shore banking licenses or 
+for banks that are licensed by foreign countries that have either been designated as 
+noncooperative with international anti-money laundering principles or that have been 
+designated by the Secretary of the Treasury as warranting special measures due to money 
+laundering concerns. Enhanced due diligence for these correspondent accounts consists of, 
+at a minimum:  
+• Ascertaining the identity of the owners of any foreign bank whose shares are not  
+publicly traded; 
+• Determining the nature and extent of each owner’s interest; 
+• Conducting enhanced scrutiny of the account to guard against money laundering and 
+report suspicious transactions; and 
+• Ascertaining whether the foreign bank provides correspondent accounts to other  
+foreign banks and, if so, the identity of those foreign banks and related due  
+diligence information. 
+ 
+Currency Reports by Non-Financial Businesses 
+Section 365 of the PATRIOT Act requires persons engaged in any trade or business to file a 
+report with FinCEN when, in the course of their business, they receive more than $10,000 in 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1619 
+coins or currency. This reporting requirement is discussed in more detail later in this section 
+under the reporting and recordkeeping provisions of the Bank Secrecy Act.  
+ 
+Sharing Information Between Financial Institutions 
+Pursuant to section 314(b) of the PATRIOT Act, the Treasury Department issued a rule 
+allowing financial institutions to share customer information with one another. The term 
+“financial institution” includes any entity that is required to have an anti-money laundering 
+program under the Bank Secrecy Act (see above). In order to share information with another 
+financial institution, the sharing institution must follow these steps: 
+• File a prescribed notice form with FinCEN stating that it intends to share customer 
+information with other financial institutions (the notice remains effective for one year); 
+• The institution may then share the information with another institution provided that it 
+has verified that the other institution has also filed a notice with FinCEN (FinCEN will 
+periodically release a list of institutions who have submitted notices; if an institution is 
+on the list, then the sharing institution will be considered to have fulfilled its 
+“verification” duty); 
+• The institution must ensure that the shared information is secure and not used for any 
+purpose other than to identify and, where appropriate, report on money laundering or 
+terrorist activities; determine whether to establish or maintain an account or conduct a 
+transaction; or assist the other sharing institution with its compliance of BSA regulations;  
+• The institution must also file a Suspicious Activity Report if, based on the shared 
+information, the institution suspects that the individual or entity may be involved in 
+money laundering or terrorist activity. 
+ 
+Section 355 of the Act also permits insured depository institutions to share information in 
+written employment references about known or suspected  unlawful activity of their current or 
+former directors, officers, employees, agents, or other persons affiliated with the institution. 
+This provision, which is codified at 12, U.S.C., § 1828(w) does not make it mandatory for 
+banks to disclose this information, but it does protect them from liability if they voluntarily 
+make such disclosures, as long as the disclosures are not made with malicious intent.  
+ 
+Government Access to Financial Information 
+On September 18, 2002, the Treasury Department issued regulations that provide federal law 
+enforcement agencies with greater power to obtain financial information. The two-part 
+regulation is an amendment to the Bank Secrecy Act regulations and was mandated by 
+section 314 of the PATRIOT Act. 
+Money Laundering  Financial Transactions   
+1.1620                           2011 Fraud Examiners Manual  
+If a federal agency provides FinCEN with a “written certification” that a person, entity, or 
+organization about whom information is sought “is reasonably suspected based on credible 
+information to be engaged in…, terrorist acti vity or money laundering.” FinCEN may then 
+require any financial institution to search its records to determine if it “maintains or has 
+maintained accounts for, or has engaged in transactions with” the subject. 
+ 
+The information reported is limited to the name or account number of each cited person, 
+entity, or organization; the number of the matching account or transaction; and the Social 
+Security number, taxpayer ID, passport number, date of birth, or other identifying 
+information the subject gave when opening the account or conducting the transaction. 
+ 
+The institution may not disclose the information to anyone other than FinCEN or the 
+requesting agency. The institution also cannot disclose that the information has been 
+requested or provided. It may, however, use the information in the request to determine 
+whether an account will be opened or a transaction conducted, and to comply with  
+BSA regulations. 
+ 
+The term “financial institution” is defined as it is under the BSA and includes banks, broker-dealers, 
+insurance companies, money services businesses, as well as car and airplane dealers, 
+travel agents, and pawnbrokers. 
+ 
+Office of Foreign Assets Control (OFAC) 
+The Office of Foreign Assets Control (OFAC) is an office within the Depar tment of the 
+Treasury charged with administering and enforcing U.S. sanction policies against targeted 
+foreign organizations and individuals that sponsor terrorism, and international narcotics 
+traffickers. OFAC maintains a list of individu als, governmental entities, companies, and 
+merchant vessels around the world that are known or suspected to engage in illegal activities. 
+Persons or entities on the list, known as Specially Designated Nationals and Blocked Persons 
+(“SDNs”), include foreign agents, front organizations, terrorists and terrorist organizations, 
+and drug traffickers. The list contains over 5,000 variations on names of individuals, 
+governmental entities, companies, and merchant vessels and is updated on a regular basis. 
+On September 24, 2001, President George W. Bush issued an executive order imposing 
+enhanced trade sanctions on 27 individuals and entities, including Osama bin Laden and Al 
+Qaeda. The immediate effect of the order is to block all assets of these individuals and 
+entities under U.S. control and ban all dealings with the listed parties.  
+ 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1621 
+On July 26, 2001, OFAC issued a bulletin specific to the insurance industry, including 
+underwriters, brokers, agents, primary insurers, and reinsurers. The bulletin affirms that U.S. 
+insurers may not insure SDNs or individuals or entities located in certain prohibited 
+countries or make payments to beneficiaries who are designated as prohibited persons or 
+entities. Examples of prohibited transactions include: (1) issuing an insurance policy or 
+annuity contract to an SDN; (2) issuing a life insurance policy naming an SDN as a 
+beneficiary; and (3) receiving premium payments for any such transactions.  
+ 
+The Bank Secrecy Act 
+The Bank Secrecy Act (BSA), which went into effect in 1970, was the first major piece of 
+legislation aimed at detecting and preventing money laundering. The purpose of the law as 
+stated in section 5311 is “to require certain re ports or records where they have a high degree 
+of usefulness in criminal, tax, or regulatory investigations or proceedings.” The BSA sets 
+forth a system of reporting and recordkeeping requirements designed to help track large or 
+unusual financial transactions. 
+ 
+The BSA consists of two titles. Title I contains provisions requiring that financial institutions 
+and securities brokers and dealers keep extensive records of the transactions and accounts of 
+their customers. It is codified in Title 12 of the United States Code (U.S.C.), sections 1829b 
+and 1951–1959. Title II of the BSA (originally  entitled Currency and Foreign Transactions 
+Reporting Act) requires banks, “financial institutions” (which include casinos, securities 
+brokers and dealers, currency exchanges, and others), and, in some cases, individuals to 
+report to the government certain transactions. Title II is codified at 31, U.S.C., §§ 5311–
+ 5330. 
+ 
+For more information on the examination process and the compliance procedures financial 
+institutions are required to follow, please review the Bank Secrecy Act/Anti-Money 
+Laundering Examination Manual published by the Federal Financial Institutions 
+Examination Council. It is available for viewing on their website (www.ffiec.gov). 
+ 
+Title I — Recordkeeping 
+The regulations governing recordkeeping are set forth in Chapter 31 of the Code of Federal 
+Regulations at Part 103, Subpart C. Recordkeeping requirements are set forth for banks, 
+nonbank financial institutions, securities brokers, casinos, and currency dealers and 
+exchangers. All institutions are required to keep a record of any financial transaction of more 
+than $10,000. 
+Money Laundering  Financial Transactions   
+1.1622                           2011 Fraud Examiners Manual  
+These regulations provide, in part, that banks must keep for five years an original, microfilm, 
+or other copy of certain documents relating to demand deposits and checking and savings 
+accounts. The records that must be retained include: 
+• Signature cards. 
+• Statements, ledger cards, or other records disclosing all transactions; that is, deposits and 
+withdrawals. 
+• Copies of both sides of customers’ checks, bank drafts, money orders, and cashier’s 
+checks of more than $100 drawn on the bank, or issued and payable by it. 
+• Identity of each purchaser of a certificate of deposit. 
+• Each deposit slip or credit ticket reflecting a transaction in excess of $100. 
+ 
+In addition to these requirements, financial institutions are required to capture, verify, and 
+retain information on the identity of purchasers of monetary instruments (such as cashier’s 
+checks) in amounts of $3,000 or more, or any transmittal or transfer of funds involving 
+$3,000 or more. These records are also required to be kept for five years. 
+ 
+Banks also must retain, for two years, all records necessary to reconstruct a customer’s 
+checking account. These records must include copies of customers’ deposit tickets. They 
+must also retain records necessary to trace and supply a description of a check deposited to a 
+customer’s checking account. 
+ 
+Although some of these requirements apply only to checks written or deposits made in 
+excess of $100, most banks find it cheaper to microfilm all such items rather than sorting out 
+those less than $100. The Bank Secrecy Act also  requires financial institutions to retain a 
+record of any extension of credit more than $1 0,000 as well as each transfer of $10,000 or 
+more outside the United States. 
+ 
+The penalties for failure to comply with these recordkeeping requirements are severe. Any 
+insured depository institution and any director, officer, or employee who willfully or through 
+gross negligence violates any regulation can be subject to a $10,000 civil penalty. The statute 
+further provides that a separate violation occurs for each day  the violation continues and at 
+each office, branch, or place of business at which the violation occurs. If a violation is 
+committed in furtherance of a felony crime, criminal penalties can be imposed of up to five 
+years in prison and/or a fine of not more than $10,000. 
+ 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1623 
+Title II — Reporting and Recordkeeping 
+Title II of the Bank Secrecy Act is codified as 31, U.S.C., §§ 5311–5330. The purpose of 
+these sections is to require certain reports or records to be filed or kept by “financial 
+institutions.” Section 5312(a)(2) defines “financial institution” very broadly to include not 
+only banks, but also securities brokers; currency exchange houses; insurance companies; loan 
+companies; travel agencies; telegraph companies; issuers or cashiers of checks or money 
+orders; auto, boat, and airplane dealers; casinos; and persons involved in real estate closings 
+and settlements. Only recently has the Treasury Department begun to reign in much of the 
+non-financial institution transaction business in the U.S. by requiring registration of these 
+diverse enterprises (see the “Money Services Business” excerpt below). 
+ 
+The regulations promulgated by the U.S. Treasury Department are contained primarily in 
+Chapter 31 of the Code of Federal Regulations at Part 103, Subpart B and require the 
+following reports: 
+ 
+CURRENCY TRANSACTION REPORT (CTR) — FINCEN FORM 104 
+All banks, and certain other financial institutions, are required to fill out currency transaction 
+reports (CTR) whenever there is a currency transaction (deposit, withdrawal, exchange, or 
+cashing of checks) of $10,000 or more.  The easiest way to summarize the filing requirement is 
+to remember: if currency in excess of $10,000 is brought into a financial institution to conduct 
+a transaction, or if as the result of a transaction, $10,000 in currency leaves the financial 
+institution, a CTR must be filed.  
+ 
+FinCEN Form 104 (formerly named IRS Form 4789) is prepared by the financial institution 
+and contains the name(s) of the individual(s) conducting the transaction(s) or the name(s) of 
+the person(s) or organization(s) on whose behalf the transaction is being conducted, as well as 
+all identifying data of these individuals or entities. It also requires the details of the transaction 
+and identifying data of the financial institution preparing the form. For purposes of reporting, 
+multiple transactions must be treated as a single transaction if the financial institution has 
+knowledge that the transactions are by or on behalf of the same person and the amounts total 
+more than $10,000 during any one business day. 
+ 
+Under Title 31, U.S.C., section 5313, the Treasury Department publishes a “mandatory 
+exemption” list that specifically identifies entities whose transactions with a financial 
+institution are exempt from these reporting requirements. The exempted entities include 
+banks, departments or agencies of state or federal government, and other businesses “whose 
+Money Laundering  Financial Transactions   
+1.1624                           2011 Fraud Examiners Manual  
+reports have little or no value for law enforcement purposes.” The exempt list must be 
+published periodically in the Federal Register.  
+ 
+The Treasury Department can also provide “discretionary exemptions” for “qualified business 
+customers,” which are defined as businesses that  (1) maintain transaction accounts (as defined 
+by the Federal Reserve Act) at the particular institution; (2) frequently engage in transactions 
+with the institution that are subject to the reporting requirements; and (3) meet the guidelines 
+and criteria established by the Treasury Department to ensure that the failure to file reports on 
+these entities will not interfere with the purposes of the Act. 
+ 
+A copy of Form 104 is included at the end of this chapter. 
+ 
+CURRENCY REPORTS BY CASINOS — FINCEN FORM 102 
+Form 102 (formerly named IRS Form 8362) is required to be filed by casinos licensed by 
+state or local government and having an annual gross revenue in excess of $1,000,000. 
+Nevada casinos are exempt from filing these forms because of a strict state law that requires 
+reporting for currency transactions. The filing requirements and transaction details for this 
+form are almost identical to Form 104. 
+ 
+CURRENCY REPORTS BY NON-FINANCIAL BUSINESSES — IRS FORM 8300 
+The PATRIOT Act created Title 31, section 5331, of the U.S. Code, which requires persons 
+engaged in any trade or business to file a report with FinCEN when, in the course of their 
+business, they receive more than $10,000 in coins or currency, either in one transaction or in 
+two or more related transactions. For purposes of computing the amount of multiple related 
+transactions, the recipient must aggregate all payments made within one year of the first 
+payment. Transactions covered by this Section must be reported within 15 days of receipt of 
+payments in excess of $10,000. The rules govern ing these reports are codified at 31, CFR, § 
+103.30. 
+ 
+This section does not apply to financial institutions, which are already covered by 31, U.S.C., 
+§ 5313 as described above. It also does not apply to transactions occurring entirely outside 
+the United States. In addition, the rules exempt certain loans, installment sales, and down 
+payment plans.  
+ 
+The information required to be reported under section 5331 is very similar to the 
+information that was already required by the IRS under section 6050I of the Internal 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1625 
+Revenue Code. Because of the similarity between the two statutes, the reports are to be 
+made on the same Form 8300, which is filed jointly with FinCEN and the IRS. Essentially, 
+the rule imposes no new record-keeping burden (since Form 8300 already had to be filed 
+with the IRS). 
+ 
+Under the Internal Revenue Code, there are both civil and criminal penalties for failure to 
+file Form 8300 or filing a false form. Criminal sanctions include imprisonment of up to five 
+years (for a willful failure to file) and fines of up to $500,000 (for organizations knowingly 
+filing a false return). 
+ 
+REPORTS OF INTERNATIONAL TRANSPORTATION OF CURRENCY OR MONETARY INSTRUMENT CUSTOMS (CMIR) — FINCEN FORM 105 
+Pursuant to Title 31, U.S.C., § 5316, a person shall file a report if he transports or is about to 
+transport monetary instruments of more than $10,000 into or out of the United States at one 
+time or if he receives by transport, mail, or shipment monetary instruments in excess of 
+$10,000 at one time transported into the United Sates from a place outside the United States. 
+FinCEN Form 105 (formerly named Customs Form 4790) is to be filed at the time of 
+transportation or within 15 days of receipt. 
+ 
+For the purposes of this statute, the term “monetary instrument” means United States and 
+foreign coin and currency; bearer instruments such as business, bank, or personal checks; 
+money orders; promissory notes; bearer stocks; and bonds. 
+ 
+There are exemptions from the CMIR filin g requirements that extend to banks for  
+transfers of funds through normal banking procedures, the Federal Reserve, and certain 
+common carriers. 
+ 
+A copy of this form is included at the end of this chapter. 
+ 
+REPORT OF FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)—TREASURY FORM 90-22.1 
+Treasury Department regulations require citizens of the United States and resident aliens to 
+file a report when they maintain a financial interest or signature authority over a foreign bank 
+account with a balance of more than $10,000 during the calendar year. Accounts in different 
+foreign countries have to be aggregated. 
+ 
+Money Laundering  Financial Transactions   
+1.1626                           2011 Fraud Examiners Manual  
+PENALTIES 
+Section 5321 of the BSA sets forth the civil penalties for noncompliance with the Act. A 
+covered entity (including its partners, directors, officers, or employees) that willfully violates 
+the reporting requirements can be hit with a penalty of up to the amount of the transaction 
+(not to exceed $100,000) or $ 25,000, whichever is greater. A separate penalty can be imposed 
+for each day the violation continues and at each branch or office. Civil penalties of up to 
+$500 are also authorized for a negligent violati on. If there is a pattern of negligent activity, 
+the penalty limit increases to $50,000. This section also sets forth other penalties applicable 
+to structured transactions and foreign financial agency transactions. 
+ 
+Criminal penalties are set forth in section 5322, which provides that a person willfully 
+violating the statute or regulations can be fined up to $250,000 and/or imprisoned for up to 
+five years. If the violation occurs while violating another federal law or as a pattern of illegal 
+activity involving more than $100,000, the maximum fine increases to $500,000 and the 
+maximum prison time increases to 10 years. As with the civil penalties, a separate violation 
+occurs each day the conduct continues and at each location. 
+ 
+FORFEITURES 
+Section 5317(c) provides criminal and civil forfeiture penalties for violations of the currency 
+reporting requirements in § 5313 (reports on domestic transactions), § 5316 (reports on 
+exporting and importing monetary instruments), and § 5324 (structuring transactions to 
+evade reporting requirements). A person convicted of an offense under any of these statutes, 
+or of a conspiracy to violate any of these statutes, can be ordered to forfeit all property that 
+was involved in the offense and any property traceable thereto.  
+ 
+Suspicious Activity Reports (SARs)   
+FINANCIAL INSTITUTIONS 
+The BSA also requires financial institutions to monitor suspicious activity and file suspicious 
+activity reports (SARs) to disclose known or suspected criminal offenses or transactions that 
+involve money laundering or violate the Act. For years, suspicious transactions were 
+reported on the Currency Transaction Report (CTR). However, such activity is now reported 
+using the Suspicious Activity Report (SAR). 
+ 
+The Office of the Comptroller of the Currency (OCC), which charters, regulates, and 
+supervises more than 2,500 national banks, adopted a requirement mandating that national 
+banks file SARs with the appropriate federal law enforcement agencies and the Treasury 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1627 
+Department, in accordance with the form’s instructions, by sending the reports to the 
+Financial Crimes Enforcement Network (FinCEN). These reporting requirements are found 
+in Title 12, Part 353 of the Code of Federal Regulations. This is an enormous improvement 
+on the old reporting systems because it establishes a centralized reporting system that is 
+shared throughout government agencies simultaneously. The DEA, for instance, can now 
+access the same information as the IRS when working on a suspicious report. The reporting 
+procedure has also been simplified for banks, making the information much easier for the 
+Department of the Treasury to obtain.  
+ 
+Financial institutions are also required to use SAR forms to report incidents of computer 
+intrusion. The term “computer intrusion” is defined as gaining access to the computer 
+system to remove, steal, or procure customers’  funds or other account information, or to 
+access the institution’s computer system with the intention of damaging or disabling any 
+critical computer systems. 
+ 
+SARs are used to report a known or suspected criminal offense or a transaction that involves 
+money laundering or violates the BSA. More specifically, a SAR must be filed with FinCEN 
+in each of the following instances: 
+• Any known or suspected criminal violation involving the financial institution when the 
+institution has a substantial basis for identifying one of its directors, officers, employees, 
+agents, or affiliated parties as having committed the act or aided in its commission. 
+• Any known or suspected criminal violation involving the financial institution and 
+aggregating $5,000 or more when the institution has a substantial basis for identifying a 
+possible suspect or group of suspects. 
+• Any known or suspected criminal violation involving the financial institution and 
+aggregating $25,000 or more regardless of whether the institution has a substantial basis 
+for identifying possible suspects. 
+• Any transaction conducted or attempted to be conducted through the financial 
+institution when the institution has reason to suspect that (1) the funds were derived 
+from illegal activities, (2) the transaction is designed to evade any regulations under the 
+Bank Secrecy Act, or (3) the transaction appears to have no business purposes or appears 
+unusual in normal banking practice. 
+ 
+When a financial institution reports a suspicious transaction to a government agency, the Act 
+(18, U.S.C., § 5318(g)(2)) makes it illegal for the financial institution to notify any person 
+involved in the suspicious transaction that such a report has been made.  
+Money Laundering  Financial Transactions   
+1.1628                           2011 Fraud Examiners Manual  
+Section 5318(g)(3) of the BSA also contains a safe harbor provision for financial institutions 
+that report suspicious transactions or that make voluntary disclosures to a government 
+agency of any other possible violation of a law or regulation. The Act provides that these 
+financial institutions shall not be liable under any law, regulation, or contract to any person 
+for making the report. Note that this safe harbor provision only applies to reports made to 
+government agencies, not to self-regulatory organizations.  
+ 
+A copy of the SAR report form is included at the end of this chapter. 
+ 
+MONEY SERVICES BUSINESSES 
+Even before the passage of the PATRIOT Act, the Treasury Department was in the process 
+of expanding its reporting guidelines to include businesses that did not fall under the 
+traditional definition of financial institutions but nevertheless perform a myriad of financial 
+services. One of these categories included money services businesses (MSBs), which comprise 
+various types of money transmitters, issuers of money orders and traveler’s checks, and 
+check cashing businesses. MSBs have long been  required to file CTRs, but otherwise very 
+little government regulation has been required.  
+ 
+In August 1999, many of the reporting and registration obligations contained in the Bank 
+Secrecy Act were extended to MS Bs. These businesses are now required to register with 
+FinCEN under Chapter 31, C.F.R. part 103, subchapter D. Those that fail to register can 
+incur substantial penalties.  
+ 
+Under the rules (1) money transmitters, (2) issuers, sellers, and redeemers of money orders, 
+(3) issuers, sellers, and redeemers of traveler’s checks, and (4) the U.S. Postal Service (except 
+with regard to the sale of postage or philatelic products) are required to report certain classes 
+of transactions that meet certain dollar thresholds to the Department of the Treasury after 
+January 1, 2002.  
+ 
+The reportable transactions include: 
+• Transactions involving funds derived from illegal activity or intended or conducted in 
+order to hide or disguise funds or assets derived from illegal activity; 
+• Transactions designed, whether through structuring or other means, to evade the 
+requirements of the BSA;  
+• Transactions that appear to serve no business or apparent lawful purpose; and 
+• Transactions that involve the use of a mutual fund to facilitate criminal activity. 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1629 
+The rule includes two different dollar thresholds depending on the stage and type of 
+transaction involved: 
+• For transactions conducted or attempted by, at, or through a money service business or 
+its agent, a threshold of $2,000 applies; 
+• For transactions identified by issuers of money orders or traveler’s checks from a review 
+of clearance records or other similar records of instruments that have been sold or 
+processed, a threshold of $5,000 applies. 
+ 
+MSBs are given 30 days after becoming aware of a suspicious transaction to complete a 
+Suspicious Activity Report by Money Services  Business (SAR-MSB; Form 109) and file it 
+with FinCEN; in situations involving violations that require immediate attention, such as 
+ongoing money laundering schemes, the MSB or MSBs are to notify the appropriate law 
+enforcement authority immediately, by telephone, in addition to filing the required form. 
+Supporting documentation relating to each SAR-MSB is to be collected and maintained by 
+the reporting MSB for review as needed by law enforcement and regulatory agencies. 
+Although the SAR-MSB form is not formatted for joint filing, MSBs may be included as 
+joint filers with other reporting financial institutions. 
+ 
+CURRENCY EXCHANGES 
+In a rule issued February 10, 2003, U.S. currency exchanges are required to file Suspicious 
+Activity Reports under the same rule that applies to money services businesses. 
+ 
+MUTUAL FUNDS 
+As part of the PATRIOT Act, mutual funds are also required to establish anti-money 
+laundering programs. In May 2003, the Department of Treasury and the Securities and 
+Exchange Commission (SEC) issued a regulation requiring mutual funds to implement 
+“reasonable measures” to establish customer identification procedures and to verify whether 
+customers appear on lists of any known or suspected terrorists.  
+ 
+In May 2006, the Treasury Department issued fi nal approval to regulations that require 
+mutual funds to report suspicious activities to FinCEN. Under these regulations, mutual 
+funds are required to report suspicious currency and non-currency transactions (or 
+attempted transactions) of $5,000 or more. The report would be filed on the “SAR-SF” 
+(Suspicious Activity for Securities and Futures Industries) Form 101.  
+ 
+Money Laundering  Financial Transactions   
+1.1630                           2011 Fraud Examiners Manual  
+The Rule states that four categories of transactions will require reporting. These are the same 
+four categories that trigger reporting requirements for money service businesses and 
+currency exchanges: 
+• Transactions involving funds derived from criminal activity, or intended or conducted to 
+hide or disguise funds from criminal activity; 
+• Transactions designed to evade Bank Secrecy Act (BSA) requirements; 
+• Transactions appearing to serve no business or apparent lawful purpose; or 
+• Transactions involving the use of the mutual fund to facilitate criminal activity. 
+ 
+SECURITIES BROKER-DEALERS 
+In 2002, FinCEN announced a rule requiring brokers and dealers in securities to report 
+suspicious activity via a Suspicious Activity Report by Securities and Futures Industries 
+(SAR-SF; FinCEN Form 101). These firms are obligated to report suspicious transactions 
+conducted or attempted by, at, or through a broker-dealer and involve or aggregate at least 
+$5,000 in funds or assets. This requirement took effect December 31, 2002. 
+ 
+Brokers and dealers in securities are required to report to FinCEN transactions that fall into 
+one of the four categories below. Again, these categories are substantially similar to those 
+that trigger reports by money service businesses and mutual funds (see above). 
+• Transactions involving funds derived from illegal activity, or intended or conducted in 
+order to hide or disguise funds derived from illegal activity; 
+• Transactions designed, whether through structuring or other means, to evade the 
+requirements of the Bank Secrecy Act; 
+• Transactions that appear to serve no business or apparent lawful purpose or are not the 
+sort of transactions in which the particular customer would be expected to engage, and 
+for which the broker-dealer knows of no reasonable explanation after examining the 
+available facts; or 
+• Transactions that involve the use of the broker-dealer to facilitate criminal activity. 
+ 
+Broker-dealers are also required to establish anti-money laundering programs that, among 
+other things, are designed to detect suspicious transactions, under recently promulgated self-regulatory 
+organization (SRO) rules. The SEC has the authority to examine broker-dealers 
+for compliance with the rule, and it is expected that the SROs will also be reviewing 
+compliance as part of the enforcement of their rules. 
+ 
+A copy of SAR-SF is included at the end of the chapter. 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1631 
+CASINOS AND CARD CLUBS 
+Effective March 25, 2003, casinos and card clubs with gross revenue over $1,000,000 must 
+file suspicious activity reports on form SAR-C. Under the rule, casinos and card clubs must 
+report suspicious activity if a transaction involves or aggregates at least $5,000 in funds and if 
+it meets one of the four categories that generally trigger SARs. (See previous sections on 
+Financial Institutions, Money Service Businesses, Mutual Funds, etc.) 
+ 
+Some possible examples of suspicious activity, according to FinCEN, include: 
+• Using wire transfers and cashier’s checks to deposit funds into casino accounts and using 
+the money for little or no gaming activity before cashing out; and 
+• Transferring chips to other individuals to cash out, or redeeming chips for casino checks 
+that total “significantly more” than the amount deposited with “no apparent winnings to 
+account for the excess amount.” 
+ 
+Casinos are also required to file Currency Transaction Reports via FinCEN Form 102 or the 
+Nevada state form (see above). 
+ 
+INSURANCE COMPANIES 
+Although insurance companies have always fallen under the definition of a “financial 
+institution” under the BSA, the Treasury Department had never issued any rules pertaining 
+to the industry. The PATRIOT Act, however, requires that all “financial institutions” 
+establish anti-money laundering programs, and it gives the Secretary of the Treasury the 
+discretion to determine which institutions would be required to file SARs. 
+ 
+In November 2005, FinCEN published rules pertaining to insurance companies that sell 
+certain types of insurance products. The rules apply only to companies that sell “covered 
+products” that FinCEN deemed to be more at risk for money laundering activities than 
+other types of insurance products. Companies that sell these covered products are required 
+to file SARs and to implement anti-money laundering programs. The rules define “covered 
+products” as any of the following: 
+• A permanent life insurance policy (other than a group policy); 
+• An annuity contract (other than a group annuity contract); or 
+• Any other insurance product with cash value or investment features. 
+ 
+Group insurance products, term life, property, casualty, health, and title insurance policies 
+are not considered “covered products.” 
+Money Laundering  Financial Transactions   
+1.1632                           2011 Fraud Examiners Manual  
+Also, insurance companies must report suspicious activities to FinCEN. FinCEN Form 
+108—Suspicious Activity Report by Insurance Companies—has been proposed; however, 
+until the Form is approved, insurance companies should use the Suspicious Activity 
+Reporting Form used by the securities and futures industries (FinCEN Form 101) to report 
+suspicious activities. 
+ 
+DEALERS IN PRECIOUS METALS, STONES, OR JEWELS 
+Persons who deal in jewels, precious metals, and precious stones are required to establish 
+anti-money laundering programs. “Dealers” are defined as persons who have purchased at 
+least $50,000 and  sold more than $50,000 worth of jewels, stones, or metals during the 
+preceding year. Additionally, the person must also be in the business of selling significant 
+amounts of such items; therefore, the rule wo uld not apply to occasional sellers or hobbyists. 
+Dealers, however, are not required to file SARs. FinCEN is developing a set of final rules to 
+address in more detail who is covered under the rule and what procedures will be required. 
+ 
+Other Federal Laws Related to Money Laundering 
+The fraud examiner should be aware of the federal laws that are typically involved when 
+prosecuting a money laundering transaction. Most such schemes will involve one or more of 
+the following: 
+ 
+Structuring Transaction to Evade Reporting Requirements, Title 31, U.S.C., § 5324 
+If a person causes or attempts to cause a covered institution to fail to file a required report 
+with the purpose of evading the reporting requirements, such person can be fined under the 
+provisions of 18, U.S.C., § 3571 and/or imprisoned up to five years. If the violation occurs 
+in the course of violating another federal law or as part of a pattern of illegal conduct 
+involving more than $100,000 in a 12-month period, then the amount of the fine under § 
+3571 can be doubled and the prison time increased to up to 10 years.  
+ 
+Section 3571 of Title 18 provides for fines for individuals convicted of a felony of up to 
+$250,000 and fines for organizations of up to $500,000. Alternatively, a fine can be imposed 
+up to twice the amount of the ill-gotten gain to the criminal or twice the amount of the loss 
+to the victim. 
+ 
+Bulk Cash Smuggling Into or Out of the United States, Title 31, U.S.C., § 5332   
+Section 5332, which was created by section 371 of the PATRIOT Act, makes it illegal for 
+anyone to knowingly conceal more than $10,000 in currency or other monetary instruments 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1633 
+and transport or attempt to transport such currency into or out of the United States with the 
+intent to evade a currency reporting requirement under 18, U.S.C., § 1956 (see below). 
+Violators of these sections may be imprisoned up to five years and may be required to forfeit 
+any property involved in the offense, or any property traceable thereto. 
+ 
+Money Laundering Statutes, Title 18, U.S.C., § 1956 and §  1957 
+TRANSACTIONAL MONEY LAUNDERING 
+Section 1956(a)(1) provides that anyone who knows that property involved in a  
+financial transaction represents the proceeds of some form of unlawful activity and conducts a 
+financial transaction in any of the following ways:  
+• With the intent to promote the carrying on of “specified unlawful activity” 
+• With the intent to violate section 7201 (tax evasion) or 7206 (filing false return) of the 
+Internal Revenue Code 
+• Knowing that the transaction is designed to  conceal or disguise the nature, location, 
+source, ownership, or control of the illegal proceeds 
+• Knowing that the transaction is designed to avoid a reporting requirement 
+ 
+Such individuals shall be fined up to $500,000 or twice the value of the monetary instrument 
+or funds (whichever is greater) and/or imprisoned for not more than 20 years. “Specified 
+unlawful activity” is defined in § 1956(c)(7) and includes a long list of federal crimes 
+including RICO, fraud, embezzlement, theft, and false statements. Also, funds that are 
+illegally transmitted in violation of this statute or any property traceable to those funds are 
+subject to civil forfeiture under 18, U.S.C., § 981(a)(1)(A). 
+ 
+INTERNATIONAL TRANSPORTATION AND LAUNDERING OF FUNDS 
+Section 1956(a)(2) prohibits the transportation, transmission, or transfer of funds either into 
+or out of the United States if the person knows the funds are the proceeds of unlawful 
+activity and the transportation, transmission, or transfer is done with the intent to promote 
+the carrying on of “specified unlawful conduct”; is done to conceal the nature, location, 
+source, ownership, or control of the funds; or  is done to avoid reporting requirements. The 
+penalties are the same as those set forth in subsection (a)(1). 
+ 
+STING OPERATIONS 
+Section 1956(a)(3) prohibits a person from engaging in financial transactions involving 
+property the person believes  to be the proceeds of illegal activity. This is intended to cover 
+“sting” operations in which a suspect engages in money laundering activity with funds he 
+Money Laundering  Financial Transactions   
+1.1634                           2011 Fraud Examiners Manual  
+believes to be illegally derived, even though the funds are actually supplied by government 
+agents. The person can be imprisoned for up to 20 years and/or fined in accordance with 18, U.S.C., § 3571. 
+ 
+ENGAGING IN MONETARY TRANSACTIONS WITH MONEY DERIVED FROM SPECIFIED UNLAWFUL ACTIVITY 
+An offense occurs under section 1957 if a person knowingly engages or attempts to engage 
+in a monetary transaction with criminally derived property that is greater than $10,000 and 
+that is derived from “specified unlawful activity.” Section 1957 applies in situations where 
+the offense takes place in the United States (or within its special maritime or territorial 
+jurisdiction) or the offense takes place outside the U.S., but the defendant is a U.S. citizen or 
+legal alien. 
+ 
+Violations of this statute are punishable by a fine under 18, U.S.C., § 3571 and/or 10 years in 
+prison. In addition, the illegally transmitted funds can be forfeited under 18, U.S.C., § 
+981(a)(1)(A). 
+ 
+CIVIL PENALTIES  
+Section 1956(b) sets forth civil penalties for violations of sections 1956 and 1957. Under this 
+section, those who violate either money laundering statute are liable to the United States for 
+the value of the property, funds, or monetary instruments involved in the illegal transaction, 
+or $10,000, whichever is greater.  
+ 
+LONG-ARM JURISDICTION OVER FOREIGN MONEY LAUNDERERS 
+Section 1956(b) also gives U.S. district courts jurisdiction over foreign persons or financial 
+institutions when (1) the foreign person commits a money laundering offense under section 
+1956(a) that occurs in whole or in part in the United States; (2) the foreign person converts 
+to his own use property in which the United States has an ownership interest; or (3) the 
+foreign financial institution maintains a bank account in the United States.  
+ 
+Under section 1956(b)(3), a U.S. court can issue restraining orders to freeze the assets of 
+foreign money launderers described above prior to trial to ensure that the defendant’s assets 
+are available to satisfy a judgment. The court can also appoint a Federal Receiver to collect, 
+marshal, and take control of the defendant’s assets to satisfy a civil or criminal judgment for 
+money laundering, or a civil or criminal forfeiture judgment.  
+ 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1635 
+Prohibition of Illegal Money Transmitting Businesses—Title 18, U.S.C., § 1960 
+This section prohibits the operation of a business that transfers funds by any means 
+(whether by wire, check, or courier) if the business does not have the appropriate state 
+license or fails to comply with the registration requirements established under Title 31 of the 
+U.S. Code, section 5330. The offender can be fined under section 3571 of Title 18 and/or 
+imprisoned not more than five years. Illegally transmitted funds can also be seized by the 
+United States under 18, U.S.C., § 981(a)(1)(A). 
+ 
+Racketeer Influenced and Corrupt Organizations (RICO)—Title 18, U.S.C., §§ 1961–
+ 1968 
+Violations of the money laundering crimes statutes (18, U.S.C., §§ 1956 and 1957) and 
+certain violations of the Bank Secrecy Act are predicate offenses constituting “racketeering 
+activity.” These acts can be prosecuted under the RICO statute, which includes criminal 
+penalties of up to 20 years in prison and/or fines under section 3571 of Title 18. The statute 
+also provides for a civil cause of action by “any person injured in his business or property” 
+as a result of a violation of RICO. Remedies  include treble damages and attorney’s fees. 
+ 
+Seizures and Forfeitures—Title 18, U.S.C., § 981, et seq. 
+Section 981 provides for the civil seizure and forfeiture of property involved in certain 
+crimes including money laundering. Section 982 deals with criminal forfeitures. Forfeiture may 
+be defined as “the taking by the government of property that is illegally used or acquired, 
+without compensating the owner.” These remedies are only available to the government and 
+typically are used in connection with a criminal investigation and prosecution.  
+ 
+When a piece of property is forfeited, all right, title, and interest in the property vests in the 
+government; consequently, all the defendant’s ownership rights are extinguished. The 
+transfer of rights dates back to the moment when the property became forfeitable; i.e., when 
+the crime was committed. Any subsequent transfer by the defendant is of no effect. This is 
+known as the relation back doctrine. In the eyes of the law, the subsequent judicial proceedings 
+merely confirm that a forfeiture has, in theory, already taken place (although the government 
+cannot claim any rights in the property until it receives a forfeiture judgment). Because the 
+government’s right to the property and related proceeds dates back to when the crime was 
+committed, the government is legally entitled to any gain accruing from the proceeds of the 
+illegal activity.  
+ 
+Money Laundering  Financial Transactions   
+1.1636                           2011 Fraud Examiners Manual  
+Criminal forfeitures are conducted in conjunction with a criminal trial. The proof necessary 
+to perfect the forfeiture is the same as required to convict the individual of the criminal 
+charge, that is, proof beyond a reasonable doubt. The criminal forfeiture is an action in 
+personam (against the person). In such a proceeding the government has the same burden of 
+proof as it does in a criminal case. If the government sustains a conviction, the judge will 
+forfeit the property at time of sentencing, at which time the property can be seized. 
+Civil forfeitures are conducted independently from a criminal proceeding. A civil forfeiture is 
+an action in rem  (against the property). In response to perceived abuses on the part of the 
+government, Congress passed the Civil Asset Forfeiture Reform Act of 2000, which 
+drastically amended the laws concerning civil forfeiture.  
+ 
+Below are some of the highlights of the Act: 
+• Sets forth notification requirements with respect to seized property and civil forfeiture 
+proceedings, including a requirement that the government notify interested parties as 
+soon as practicable but within 60 days after the date of the seizure. 
+• Sets forth procedures for filing claims for seized property. After a claim is filed, the 
+government has 90 days in which to file a complaint for forfeiture. If the government 
+fails to do this, then it must return the property. In lieu of or in addition to filing a  
+civil forfeiture complaint, the government may include a forfeiture allegation in a 
+criminal indictment.  
+• Provides that the court appoint counsel to represent anyone with an interest in the 
+property if the person is financially unable to afford counsel. 
+• Places the burden of proof on the government to establish, by a preponderance of the 
+evidence, that the property is subject to forfeiture.  
+• Provides that if the forfeiture action is being prosecuted because the property was used 
+to commit or facilitate the commission of a criminal offense, or was involved in such 
+commission, the government must establish that there was a substantial connection 
+between the property and the offense.  
+• Provides an “innocent owner’s” defense to the forfeiture action. The owner must prove 
+his innocence by a preponderance of the evidence. 
+• Authorizes a claimant to petition the court to determine whether a forfeiture was 
+constitutionally excessive. Directs the court to compare the forfeiture to the gravity of 
+the offense. Places upon the claimant the burden of establishing, by a preponderance of 
+the evidence at a hearing conducted by the court without a jury, that the forfeiture is 
+grossly disproportional to the offense upon the claimant.  
+• Amends the Federal Tort Claims Act to allow claimants to sue the government for any 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1637 
+damage or loss of property while in possession of the government. 
+• Authorizes the use of forfeited property to pay restitution to any victim of the offense 
+giving rise to the forfeiture, including, in the case of a money laundering offense, any 
+offense constituting the underlying specified activity.  
+• Directs that all civil forfeitures of real property and interests in real property proceed as 
+judicial forfeitures. Prohibits (with exceptions) (1) real property that is the subject of a 
+civil forfeiture from being seized before entry of a forfeiture order; and (2) the owners or 
+occupants of the real property from being evicted from, or otherwise deprived of the use 
+and enjoyment of, real property that is the subject of a pending forfeiture action.  
+• Provides for the forfeiture of the proceeds of “specified unlawful activity” under the 
+money laundering statutes.  
+ 
+FORFEITURE OF FUNDS IN INTERBANK ACCOUNTS 
+Section 319 of the PATRIOT Act amended 18, U.S.C., § 981, expanding the United States’ 
+ability to seize the proceeds of money laundering activity by providing for forfeiture of funds 
+held in United States interbank accounts. An interbank account is an account one financial 
+institution holds at another financial institution.  
+ 
+If funds involved in a money laundering transaction or the proceeds of any “specified 
+unlawful activity” as defined by the money laundering statute are deposited in a foreign bank, 
+and if that foreign bank has an interbank account in the United States, then the tainted funds 
+will be deemed to have been deposited into the U.S. account. In other words, the funds in 
+the foreign bank’s U.S. interbank account can be seized, even if the laundered money was 
+not deposited in that account. The government does not have to trace the money in the U.S. 
+interbank account to the money that was deposited in the foreign account. It is enough that 
+the U.S. interbank account is held by the same financial institution in which the laundered 
+money was deposited overseas.  
+ 
+False Statements—Title 18, U.S.C., § 1001 
+Persons who violate the Bank Secrecy Act and other reporting laws might also be guilty of 
+violating of 18, U.S.C., § 1001, which is the prin cipal federal false statements statute. Because 
+most of the obligations imposed by the BSA involve recordkeeping and reporting, many 
+BSA violations might also constitute false statements. Section 1001 prohibits knowingly 
+falsifying, concealing, covering up, or making a false, fictitious, or fraudulent statement or 
+representation in any matter within the jurisdiction of any U.S. department or agency. 
+Violations of this section are often charged when  an individual is stopped at the border with 
+Money Laundering  Financial Transactions   
+1.1638                           2011 Fraud Examiners Manual  
+a large amount of unreported cash and responds falsely to the questions of customs officers 
+or inspectors. It has been used to prosecute individuals for structuring a transaction so that it 
+deceives a financial institution into filing a false report. 
+ 
+Conspiracy to Defraud the United States — Title 18, U.S.C., § 371 
+Although numerous federal statutes make conspiracy a crime, the most commonly used 
+federal conspiracy statute is the general conspiracy statute under section 371 of Title 18, U.S. 
+Code.  
+ 
+Section 371 can be divided into two parts: (1) conspiracies to commit a crime against the 
+United States, and (2) conspiracies to defraud the United States or its agencies. Several 
+courts have upheld convictions based on the second prong of the statute solely for failure to 
+file CTRs. Such prosecutions are based on the theory that the person deprived the IRS of 
+accurate CTRs. In the case of United States v. Richter, 610 F.Supp. 480 (N.D. Ill. 1985), the 
+court held that the division of large amounts of cash into smaller, nonreportable transactions 
+by several individuals working as a team was a conspiracy to obstruct the government 
+function of receiving CTRs. However, other courts have rejected this theory on the grounds 
+that there is no duty on the part of the customer to inform the government or the bank of 
+the nature of the transaction whether reportable or not. 
+ 
+Travel Act — Title 18, U.S.C., § 1952 
+The Travel Act is applicable if the offense involves the proceeds of illegal activity and 
+interstate travel. The Act provides that it is an offense to travel in interstate or foreign 
+commerce or use the mail with the intent to distribute the proceeds of any unlawful activity; 
+commit any crime of violence to further unlawful activity; or otherwise establish, promote, 
+or manage an establishment for the purposes of carrying on any unlawful activity. Unlawful 
+activity  is defined to include the reporting requirements under 31, U.S.C., Chapter 53 as well 
+as the Money Laundering Statutes (18, U.S. C., §§ 1956 and 1957). The fines established 
+under § 3571 can be imposed and/or up to five years imprisonment. If a crime of violence is 
+involved, the term of imprisonment increases to a maximum of 20 years or life if someone 
+was killed. 
+ 
+State Laws 
+Approximately 30 states have enacted statutes that criminalize money laundering, most of 
+which apply to businesspeople and professionals. Some of the state statutes are broader than 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1639 
+the federal statutes, and they are often enforced more aggressively than their federal 
+counterparts.  
+ 
+Many states have criminalized attempted  money laundering with the same penalties as the 
+completed crime. Some states contain a “sting provision,” which enables the prosecution of 
+activity even though the laundered money is not actually derived from criminal activity, but 
+rather supplied by government agents as part of a sting operation. Several states have also 
+enacted legislation requiring financial institutions and businesses to file currency transaction 
+reports that mirror the federal reports. Some require duplicate filing with the states; others 
+are satisfied with the federal filing. 
+ 
+ 
+
+
+
+:
+
+
+feder and state law
+patriot act of 2001
+on octob 26 2001 pre sident georg w bush sign into law the unit and strengthen
+america by provid appropri tool requir to intercept and obstruct terror act the
+patriot act the patriot act wa a respons to the tragedi of septemb 11 2001
+and reflect congression concern with the monei launder activ of the terrorist
+who commit those attack
+titl iii of the act is entitl the intern monei launder abat and anti
+terrorist financ act of 2001 titl iii creat signific requir for financi
+institut aim at curtail monei launder the most signific antimonei
+launder provis of the law includ the follow
+financi institut ar requir to establish antimonei launder program
+financi institut ar requir to establish program for identifi custom
+monei launder financi transact
+11616 2011 fraud examin manual
+us bank ar prohibit from maintain correspond account with foreign shell
+bank
+secur brokerdeal ar requir to file suspici activ report
+financi institut ar requir to adopt special due dilig procedur for foreign
+correspond account and privat bank account
+nonfinanci busi ar requir to file currenc transact report
+financi institut have increas author to share custom inform relat to
+monei launder
+the govern ha greater power to obtain inform from financi institut
+antimonei launder program
+section 352 of the patriot act requir all financi institut to establish antimonei
+launder program which must includ at a minimum
+the develop of intern polici procedur and control to prevent monei
+launder
+the design of a monei launder complianc offic
+an ongo train program for awar of monei launder
+an independ audit function to test the program
+the act defin the term financi institut broadli to includ not onli insur and
+commerci bank but also secur broker and dealer invest compani currenc
+exchang issuer of cashier check and monei order credit card compani insur
+compani travel agenc and a host of other busi the complet list can be found at
+31 usc 312 a2
+identif and verif of accounthold
+section 326 of the act expand the bank secreci act discuss below by requir
+financi institut to implement custom identif program cip these cip ar
+to be incorpor into financi institut monei launder program and at a
+minimum thei must includ reason procedur for
+verifi the ident of ani person seek to open an account to the extent reason
+and practic
+maintain record of the inform us to verifi a person ident includ
+name address and other identifi inform and
+consult list of known or suspect terrorist or terrorist organ to determin
+if the person seek to open the account appear on ani such list
+financi transact monei launder
+2011 fraud examin manual 11617
+prohibit against foreign shell bank account
+pursuant to section 313 and 319 of the patriot act the treasuri depart issu a
+farreach final regul that appli to over 9000 foreign financi institut that have
+correspond account in the unit state the rule prohibit foreign shell bank those
+without a physic presenc in ani countri from maintain correspond account at ani
+us financi institut it also requir us financi intuit to maintain the name and
+contact inform of the owner of the foreign bank for whom thei maintain
+correspond account the rule strongli encourag us intuit to obtain
+certif from their foreign bank custom s the certif can be us by the us
+institut to help ensur that the custom is not a shell bank although not requir
+obtain the certif and verifi the inform can creat a safe harbor from civil
+liabil
+us institut ar also requir to take reason step to ensur that correspond
+account provid to foreign bank ar not us to provid servic indirectli to foreign
+shell bank foreign bank that have account in the us ar requir to appoint someon in
+the us to accept servic of legal process the rule also give the secretari of the treasuri
+and the attornei gener the author to issu a summon or subpoena to ani foreign bank
+that maintain a correspond account here and to request record relat to that account
+suspici activ report by brokerdeal
+pursuant to section 356 of the act the financi crime enforc network fincen
+adopt rule requir broker and dealer in secur to report suspici activ 31
+cfr 10319a2 thi report requir will be discuss in more detail later in thi
+section see secur brokerdeal un der suspici activ report below
+special due dilig for foreign account
+section 312 of the patriot act requir financ ial institut to establish due dilig
+polici procedur and control that ar reason design to detect and report instanc
+of monei launder through certain account held by nonu citizen or their
+repres thi provis appli to two type of foreign account
+privat bank account
+correspond account
+a privat bank account is defin by the act as an account or combin of account that
+1 requir a minimum aggreg deposit of fund or other asset of at least 1 million 2 is
+monei launder financi transact
+11618 2011 fraud examin manual
+establish on behalf of on or more individu who have a direct or benefici ownership
+in the account and 3 is assign to or admini stere by an offic employe or agent of the
+financi institut act as a liaison between the financi institut and the owner of the
+account
+for privat bank account held by nonu person the act requir at a minimum that
+financi institut take reason step to
+ascertain the ident of the nomin and benefici owner of the account and the
+sourc of fund deposit into the account as need to guard against monei launder
+and report ani suspici transact and
+conduct enhanc scrutini of ani such account that is request or maintain by or
+on behalf of a senior foreign polit figur or an immedi famili member or close
+associ of such that is reason design to detect and report transact that mai
+involv the proce of foreign corrupt
+a correspond account is defin as an account establish to receiv deposit from or make
+payment on behalf of a foreign financi institut or handl other financi transact
+relat to such an institut enhanc due dilig is requir for correspond account
+maintain by or on behalf of foreign bank that oper under offshor bank licens or
+for bank that ar licens by foreign countri that have either been design as
+noncoop with intern antimonei launder principl or that have been
+design by the secretari of the treasuri as warrant special measur due to monei
+launder concern enhanc due dilig for these correspond account consist of
+at a minimum
+ascertain the ident of the owner of ani foreign bank whose share ar not
+publicli trade
+determin the natur and extent of each owner interest
+conduct enhanc scrutini of the account to guard against monei launder and
+report suspici transact and
+ascertain whether the foreign bank provid correspond account to other
+foreign bank and if so the ident of those foreign bank and relat due
+dilig inform
+currenc report by nonfinanci busi
+section 365 of the patriot act requir person engag in ani trade or busi to file a
+report with fincen when in the cours of their busi thei receiv more than 10000 in
+financi transact monei launder
+2011 fraud examin manual 11619
+coin or currenc thi report requir is discuss in more detail later in thi section
+under the report and recordkeep provis of the bank secreci act
+share inform between financi institut
+pursuant to section 314b of the patriot act the treasuri depart issu a rule
+allow financi institut to share custom inform with on anoth the term
+financi institut includ ani entiti that is requir to have an antimonei launder
+program under the bank secreci act see abov in order to share inform with anoth
+financi institut the share institut must follow these step
+file a prescrib notic form with fincen state that it intend to share custom
+inform with other financi institut the notic remain effect for on year
+the institut mai then share the inform with anoth institut provid that it
+ha verifi that the other institut ha also file a notic with fincen fincen will
+period releas a list of institut who have submit notic if an institut is
+on the list then the share institut will be consid to have fulfil it
+verif duti
+the institut must ensur that the share inform is secur and not us for ani
+purpos other than to identifi and where appropri report on monei launder or
+terrorist activ determin whether to establish or maintain an account or conduct a
+transact or assist the other share institut with it complianc of bsa regul
+the institut must also file a suspici activ report if base on the share
+inform the institut suspect that the individu or entiti mai be involv in
+monei launder or terrorist activ
+section 355 of the act also permit insur depositori institut to share inform in
+written employ refer about known or suspect unlaw activ of their current or
+former director offic employe agent or other person affili with the institut
+thi provis which is codifi at 12 usc 1828w doe not make it mandatori for
+bank to disclos thi inform but it doe protect them from liabil if thei voluntarili
+make such disclosur as long as the disclosur ar not made with malici intent
+govern access to financi inform
+on septemb 18 2002 the treasuri depart issu regul that provid feder law
+enforc agenc with greater power to obtain financi inform the twopart
+regul is an amend to the bank secreci act regul and wa mandat by
+section 314 of the patriot act
+monei launder financi transact
+11620 2011 fraud examin manual
+if a feder agenc provid fincen with a written certif that a person entiti or
+organ about whom inform is sought is reason suspect base on credibl
+inform to be engag in terrorist acti viti or monei launder fincen mai then
+requir ani financi institut to search it record to determin if it maintain or ha
+maintain account for or ha engag in transact with the subject
+the inform report is limit to the name or account number of each cite person
+entiti or organ the number of the match account or transact and the social
+secur number taxpay id passport number date of birth or other identifi
+inform the subject gave when open the account or conduct the transact
+the institut mai not disclos the inform to anyon other than fincen or the
+request agenc the institut also cannot disclos that the inform ha been
+request or provid it mai howev us the inform in the request to determin
+whether an account will be open or a transact conduct and to compli with
+bsa regul
+the term financi institut is defin as it is under the bsa and includ bank brokerdeal
+insur compani monei servic busi as well as car and airplan dealer
+travel agent and pawnbrok
+offic of foreign asset control ofac
+the offic of foreign asset control ofac is an offic within the depar tment of the
+treasuri charg with administ and enforc us sanction polici against target
+foreign organ and individu that sponsor terror and intern narcot
+traffick ofac maintain a list of individu al government entiti compani and
+merchant vessel around the world that ar known or suspect to engag in illeg activ
+person or entiti on the list known as special design nation and block person
+sdn includ foreign agent front organ terrorist and terrorist organ
+and drug traffick the list contain over 5000 variat on name of individu
+government entiti compani and merchant vessel and is updat on a regular basi
+on septemb 24 2001 presid georg w bush issu an execut order impos
+enhanc trade sanction on 27 individu and entiti includ osama bin laden and al
+qaeda the immedi effect of the order is to block all asset of these individu and
+entiti under us control and ban all deal with the list parti
+financi transact monei launder
+2011 fraud examin manual 11621
+on juli 26 2001 ofac issu a bulletin specif to the insur industri includ
+underwrit broker agent primari insur and reinsur the bulletin affirm that us
+insur mai not insur sdn or individu or entiti locat in certain prohibit
+countri or make payment to beneficiari who ar design as prohibit person or
+entiti exampl of prohibit transact includ 1 issu an insur polici or
+annuiti contract to an sdn 2 issu a life insur polici name an sdn as a
+beneficiari and 3 receiv premium payment for ani such transact
+the bank secreci act
+the bank secreci act bsa which went into effect in 1970 wa the first major piec of
+legisl aim at detect and prevent monei launder the purpos of the law as
+state in section 5311 is to requir certain re port or record where thei have a high degre
+of us in crimin tax or regulatori investig or proceed the bsa set
+forth a system of report and recordkeep requir design to help track larg or
+unusu financi transact
+the bsa consist of two titl titl i contain provis requir that financi institut
+and secur broker and dealer keep extens record of the transact and account of
+their custom it is codifi in titl 12 of the unit state code usc section 1829b
+and 19511959 titl ii of the bsa origin entitl currenc and foreign transact
+report act requir bank financi institut which includ casino secur
+broker and dealer currenc exchang and other and in some case individu to
+report to the govern certain transact titl ii is codifi at 31 usc 5311
+5330
+for more inform on the examin process and the complianc procedur financi
+institut ar requir to follow pleas review the bank secreci actantimonei
+launder examin manual publish by the feder financi institut
+examin council it is avail for view on their websit wwwffiecgov
+titl i recordkeep
+the regul govern recordkeep ar set forth in chapter 31 of the code of feder
+regul at part 103 subpart c recordkeep requir ar set forth for bank
+nonbank financi institut secur broker casino and currenc dealer and
+exchang all institut ar requir to keep a record of ani financi transact of more
+than 10000
+monei launder financi transact
+11622 2011 fraud examin manual
+these regul provid in part that bank must keep for five year an origin microfilm
+or other copi of certain document relat to demand deposit and check and save
+account the record that must be retain includ
+signatur card
+statement ledger card or other record disclos all transact that is deposit and
+withdraw
+copi of both side of custom check bank draft monei order and cashier
+check of more than 100 drawn on the bank or issu and payabl by it
+ident of each purchas of a certif of deposit
+each deposit slip or credit ticket reflect a transact in excess of 100
+in addit to these requir financi institut ar requir to captur verifi and
+retain inform on the ident of purchas of monetari instrument such as cashier
+check in amount of 3000 or more or ani transmitt or transfer of fund involv
+3000 or more these record ar also requir to be kept for five year
+bank also must retain for two year all record necessari to reconstruct a custom
+check account these record must includ copi of custom deposit ticket thei
+must also retain record necessari to trace and suppli a descript of a check deposit to a
+custom check account
+although some of these requir appli onli to check written or deposit made in
+excess of 100 most bank find it cheaper to microfilm all such item rather than sort out
+those less than 100 the bank secreci act also requir financi institut to retain a
+record of ani extens of credit more than 1 0000 as well as each transfer of 10000 or
+more outsid the unit state
+the penalti for failur to compli with these recordkeep requir ar sever ani
+insur depositori institut and ani director offic or employe who willfulli or through
+gross neglig violat ani regul can be subject to a 10000 civil penalti the statut
+further provid that a separ violat occur for each dai the violat continu and at
+each offic branch or place of busi at which the violat occur if a violat is
+commit in further of a feloni crime crimin penalti can be impos of up to five
+year in prison andor a fine of not more than 10000
+financi transact monei launder
+2011 fraud examin manual 11623
+titl ii report and recordkeep
+titl ii of the bank secreci act is codifi as 31 usc 53115330 the purpos of
+these section is to requir certain report or record to be file or kept by financi
+institut section 5312a2 defin financi institut veri broadli to includ not
+onli bank but also secur broker currenc exchang hous insur compani loan
+compani travel agenc telegraph compani issuer or cashier of check or monei
+order auto boat and airplan dealer casino and person involv in real estat close
+and settlement onli recent ha the treasuri depart begun to reign in much of the
+nonfinanci institut transact busi in the us by requir registr of these
+divers enterpris see the monei servic busi excerpt below
+the regul promulg by the us treasuri depart ar contain primarili in
+chapter 31 of the code of feder regul at part 103 subpart b and requir the
+follow report
+currenc transact report ctr fincen form 104
+all bank and certain other financi institut ar requir to fill out currenc transact
+report ctr whenev there is a currenc transact deposit withdraw exchang or
+cash of check of 10000 or more the easiest wai to summar the file requir is
+to rememb if currenc in excess of 10000 is brought into a financi institut to conduct
+a transact or if as the result of a transact 10000 in currenc leav the financi
+institut a ctr must be file
+fincen form 104 formerli name ir form 4789 is prepar by the financi institut
+and contain the name of the individu conduct the transact or the name of
+the person or organ on whose behalf the transact is be conduct as well as
+all identifi data of these individu or entiti it also requir the detail of the transact
+and identifi data of the financi institut prepar the form for purpos of report
+multipl transact must be treat as a singl transact if the financi institut ha
+knowledg that the transact ar by or on behalf of the same person and the amount total
+more than 10000 dure ani on busi dai
+under titl 31 usc section 5313 the treasuri depart publish a mandatori
+exempt list that specif identifi entiti whose transact with a financi
+institut ar exempt from these report requir the exempt entiti includ
+bank depart or agenc of state or feder govern and other busi whose
+monei launder financi transact
+11624 2011 fraud examin manual
+report have littl or no valu for law enforc purpos the exempt list must be
+publish period in the feder regist
+the treasuri depart can also provid discretionari exempt for qualifi busi
+custom which ar defin as busi that 1 maintain transact account as defin
+by the feder reserv act at the particular institut 2 frequent engag in transact
+with the institut that ar subject to the report requir and 3 meet the guidelin
+and criteria establish by the treasuri depart to ensur that the failur to file report on
+these entiti will not interfer with the purpos of the act
+a copi of form 104 is includ at the end of thi chapter
+currenc report by casino fincen form 102
+form 102 formerli name ir form 8362 is requir to be file by casino licens by
+state or local govern and have an annual gross revenu in excess of 1000000
+nevada casino ar exempt from file these form becaus of a strict state law that requir
+report for currenc transact the file requir and transact detail for thi
+form ar almost ident to form 104
+currenc report by nonfinanci busi ir form 8300
+the patriot act creat titl 31 section 5331 of the us code which requir person
+engag in ani trade or busi to file a report with fincen when in the cours of their
+busi thei receiv more than 10000 in coin or currenc either in on transact or in
+two or more relat transact for purpos of comput the amount of multipl relat
+transact the recipi must aggreg all payment made within on year of the first
+payment transact cover by thi section must be report within 15 dai of receipt of
+payment in excess of 10000 the rule govern ing these report ar codifi at 31 cfr
+10330
+thi section doe not appli to financi institut which ar alreadi cover by 31 usc
+5313 as describ abov it also doe not appli to transact occur entir outsid
+the unit state in addit the rule exempt certain loan instal sale and down
+payment plan
+the inform requir to be report under section 5331 is veri similar to the
+inform that wa alreadi requir by the ir under section 6050i of the intern
+financi transact monei launder
+2011 fraud examin manual 11625
+revenu code becaus of the similar between the two statut the report ar to be
+made on the same form 8300 which is file jointli with fincen and the ir essenti
+the rule impos no new recordkeep burden sinc form 8300 alreadi had to be file
+with the ir
+under the intern revenu code there ar both civil and crimin penalti for failur to
+file form 8300 or file a fals form crimin sanction includ imprison of up to five
+year for a will failur to file and fine of up to 500000 for organ knowingli
+file a fals return
+report of intern transport of currenc or monetari instrument custom cmir fincen form 105
+pursuant to titl 31 usc 5316 a person shall file a report if he transport or is about to
+transport monetari instrument of more than 10000 into or out of the unit state at on
+time or if he receiv by transport mail or shipment monetari instrument in excess of
+10000 at on time transport into the unit sate from a place outsid the unit state
+fincen form 105 formerli name custom form 4790 is to be file at the time of
+transport or within 15 dai of receipt
+for the purpos of thi statut the term monetari instrument mean unit state and
+foreign coin and currenc bearer instrument such as busi bank or person check
+monei order promissori note bearer stock and bond
+there ar exempt from the cmir filin g requir that extend to bank for
+transfer of fund through normal bank procedur the feder reserv and certain
+common carrier
+a copi of thi form is includ at the end of thi chapter
+report of foreign bank and financi account fbartreasuri form 90221
+treasuri depart regul requir citizen of the unit state and resid alien to
+file a report when thei maintain a financi interest or signatur author over a foreign bank
+account with a balanc of more than 10000 dure the calendar year account in differ
+foreign countri have to be aggreg
+monei launder financi transact
+11626 2011 fraud examin manual
+penalti
+section 5321 of the bsa set forth the civil penalti for noncompli with the act a
+cover entiti includ it partner director offic or employe that willfulli violat
+the report requir can be hit with a penalti of up to the amount of the transact
+not to exce 100000 or 25000 whichev is greater a separ penalti can be impos
+for each dai the violat continu and at each branch or offic civil penalti of up to
+500 ar also author for a neglig violati on if there is a pattern of neglig activ
+the penalti limit increas to 50000 thi section also set forth other penalti applic
+to structur transact and foreign financi agenc transact
+crimin penalti ar set forth in section 5322 which provid that a person willfulli
+violat the statut or regul can be fine up to 250000 andor imprison for up to
+five year if the violat occur while violat anoth feder law or as a pattern of illeg
+activ involv more than 100000 the maximum fine increas to 500000 and the
+maximum prison time increas to 10 year as with the civil penalti a separ violat
+occur each dai the conduct continu and at each locat
+forfeitur
+section 5317c provid crimin and civil forfeitur penalti for violat of the currenc
+report requir in 5313 report on domest transact 5316 report on
+export and import monetari instrument and 5324 structur transact to
+evad report requir a person convict of an offens under ani of these statut
+or of a conspiraci to violat ani of these statut can be order to forfeit all properti that
+wa involv in the offens and ani properti traceabl thereto
+suspici activ report sar
+financi institut
+the bsa also requir financi institut to monitor suspici activ and file suspici
+activ report sar to disclos known or suspect crimin offens or transact that
+involv monei launder or violat the act for year suspici transact were
+report on the currenc transact report ctr howev such activ is now report
+us the suspici activ report sar
+the offic of the comptrol of the currenc occ which charter regul and
+supervis more than 2500 nation bank adopt a requir mandat that nation
+bank file sar with the appropri feder law enforc agenc and the treasuri
+financi transact monei launder
+2011 fraud examin manual 11627
+depart in accord with the form instruct by send the report to the
+financi crime enforc network fincen these report requir ar found
+in titl 12 part 353 of the code of feder regul thi is an enorm improv
+on the old report system becaus it establish a central report system that is
+share throughout govern agenc simultan the dea for instanc can now
+access the same inform as the ir when work on a suspici report the report
+procedur ha also been simplifi for bank make the inform much easier for the
+depart of the treasuri to obtain
+financi institut ar also requir to us sar form to report incid of comput
+intrus the term comput intrus is defin as gain access to the comput
+system to remov steal or procur custom fund or other account inform or to
+access the institut comput system with the intent of damag or disabl ani
+critic comput system
+sar ar us to report a known or suspect crimin offens or a transact that involv
+monei launder or violat the bsa more specif a sar must be file with fincen
+in each of the follow instanc
+ani known or suspect crimin violat involv the financi institut when the
+institut ha a substanti basi for identifi on of it director offic employe
+agent or affili parti as have commit the act or aid in it commiss
+ani known or suspect crimin violat involv the financi institut and
+aggreg 5000 or more when the institut ha a substanti basi for identifi a
+possibl suspect or group of suspect
+ani known or suspect crimin violat involv the financi institut and
+aggreg 25000 or more regardless of whether the institut ha a substanti basi
+for identifi possibl suspect
+ani transact conduct or attempt to be conduct through the financi
+institut when the institut ha reason to suspect that 1 the fund were deriv
+from illeg activ 2 the transact is design to evad ani regul under the
+bank secreci act or 3 the transact appear to have no busi purpos or appear
+unusu in normal bank practic
+when a financi institut report a suspici transact to a govern agenc the act
+18 usc 5318g2 make it illeg for the financi institut to notifi ani person
+involv in the suspici transact that such a report ha been made
+monei launder financi transact
+11628 2011 fraud examin manual
+section 5318g3 of the bsa also contain a safe harbor provis for financi institut
+that report suspici transact or that make voluntari disclosur to a govern
+agenc of ani other possibl violat of a law or regul the act provid that these
+financi institut shall not be liabl under ani law regul or contract to ani person
+for make the report note that thi safe harbor provis onli appli to report made to
+govern agenc not to selfregulatori organ
+a copi of the sar report form is includ at the end of thi chapter
+monei servic busi
+even befor the passag of the patriot act the treasuri depart wa in the process
+of expand it report guidelin to includ busi that did not fall under the
+tradit definit of financi institut but nevertheless perform a myriad of financi
+servic on of these categori includ monei servic busi msb which compris
+variou type of monei transmitt issuer of monei order and travel check and
+check cash busi msb have long been requir to file ctr but otherwis veri
+littl govern regul ha been requir
+in august 1999 mani of the report and registr oblig contain in the bank
+secreci act were extend to ms bs these busi ar now requir to regist with
+fincen under chapter 31 cfr part 103 subchapt d those that fail to regist can
+incur substanti penalti
+under the rule 1 monei transmitt 2 issuer seller and redeem of monei order
+3 issuer seller and redeem of travel check and 4 the us postal servic except
+with regard to the sale of postag or philatel product ar requir to report certain class
+of transact that meet certain dollar threshold to the depart of the treasuri after
+januari 1 2002
+the report transact includ
+transact involv fund deriv from illeg activ or intend or conduct in
+order to hide or disguis fund or asset deriv from illeg activ
+transact design whether through structur or other mean to evad the
+requir of the bsa
+transact that appear to serv no busi or appar law purpos and
+transact that involv the us of a mutual fund to facilit crimin activ
+financi transact monei launder
+2011 fraud examin manual 11629
+the rule includ two differ dollar threshold depend on the stage and type of
+transact involv
+for transact conduct or attempt by at or through a monei servic busi or
+it agent a threshold of 2000 appli
+for transact identifi by issuer of monei order or travel check from a review
+of clearanc record or other similar record of instrument that have been sold or
+process a threshold of 5000 appli
+msb ar given 30 dai after becom awar of a suspici transact to complet a
+suspici activ report by monei servic busi sarmsb form 109 and file it
+with fincen in situat involv violat that requir immedi attent such as
+ongo monei launder scheme the msb or msb ar to notifi the appropri law
+enforc author immedi by telephon in addit to file the requir form
+support document relat to each sarmsb is to be collect and maintain by
+the report msb for review as need by law enforc and regulatori agenc
+although the sarmsb form is not format for joint file msb mai be includ as
+joint filer with other report financi institut
+currenc exchang
+in a rule issu februari 10 2003 us currenc exchang ar requir to file suspici
+activ report under the same rule that appli to monei servic busi
+mutual fund
+as part of the patriot act mutual fund ar also requir to establish antimonei
+launder program in mai 2003 the depart of treasuri and the secur and
+exchang commiss sec issu a regul requir mutual fund to implement
+reason measur to establish custom identif procedur and to verifi whether
+custom appear on list of ani known or suspect terrorist
+in mai 2006 the treasuri depart issu fi nal approv to regul that requir
+mutual fund to report suspici activ to fincen under these regul mutual
+fund ar requir to report suspici currenc and noncurr transact or
+attempt transact of 5000 or more the report would be file on the sarsf
+suspici activ for secur and futur industri form 101
+monei launder financi transact
+11630 2011 fraud examin manual
+the rule state that four categori of transact will requir report these ar the same
+four categori that trigger report requir for monei servic busi and
+currenc exchang
+transact involv fund deriv from crimin activ or intend or conduct to
+hide or disguis fund from crimin activ
+transact design to evad bank secreci act bsa requir
+transact appear to serv no busi or appar law purpos or
+transact involv the us of the mutual fund to facilit crimin activ
+secur brokerdeal
+in 2002 fincen announc a rule requir broker and dealer in secur to report
+suspici activ via a suspici activ report by secur and futur industri
+sarsf fincen form 101 these firm ar oblig to report suspici transact
+conduct or attempt by at or through a brokerdeal and involv or aggreg at least
+5000 in fund or asset thi requir took effect decemb 31 2002
+broker and dealer in secur ar requir to report to fincen transact that fall into
+on of the four categori below again these categori ar substanti similar to those
+that trigger report by monei servic busi and mutual fund see abov
+transact involv fund deriv from illeg activ or intend or conduct in
+order to hide or disguis fund deriv from illeg activ
+transact design whether through structur or other mean to evad the
+requir of the bank secreci act
+transact that appear to serv no busi or appar law purpos or ar not the
+sort of transact in which the particular custom would be expect to engag and
+for which the brokerdeal know of no reason explan after examin the
+avail fact or
+transact that involv the us of the brokerdeal to facilit crimin activ
+brokerdeal ar also requir to establish antimonei launder program that among
+other thing ar design to detect suspici transact under recent promulg selfregulatori
+organ sro rule the sec ha the author to examin brokerdeal
+for complianc with the rule and it is expect that the sro will also be review
+complianc as part of the enforc of their rule
+a copi of sarsf is includ at the end of the chapter
+financi transact monei launder
+2011 fraud examin manual 11631
+casino and card club
+effect march 25 2003 casino and card club with gross revenu over 1000000 must
+file suspici activ report on form sarc under the rule casino and card club must
+report suspici activ if a transact involv or aggreg at least 5000 in fund and if
+it meet on of the four categori that gener trigger sar see previou section on
+financi institut monei servic busi mutual fund etc
+some possibl exampl of suspici activ accord to fincen includ
+us wire transfer and cashier check to deposit fund into casino account and us
+the monei for littl or no game activ befor cash out and
+transfer chip to other individu to cash out or redeem chip for casino check
+that total significantli more than the amount deposit with no appar win to
+account for the excess amount
+casino ar also requir to file currenc transact report via fincen form 102 or the
+nevada state form see abov
+insur compani
+although insur compani have alwai fallen under the definit of a financi
+institut under the bsa the treasuri depart had never issu ani rule pertain
+to the industri the patriot act howev requir that all financi institut
+establish antimonei launder program and it give the secretari of the treasuri the
+discret to determin which institut would be requir to file sar
+in novemb 2005 fincen publish rule pertain to insur compani that sell
+certain type of insur product the rule appli onli to compani that sell cover
+product that fincen deem to be more at risk for monei launder activ than
+other type of insur product compani that sell these cover product ar requir
+to file sar and to implement antimonei launder program the rule defin cover
+product as ani of the follow
+a perman life insur polici other than a group polici
+an annuiti contract other than a group annuiti contract or
+ani other insur product with cash valu or invest featur
+group insur product term life properti casualti health and titl insur polici
+ar not consid cover product
+monei launder financi transact
+11632 2011 fraud examin manual
+also insur compani must report suspici activ to fincen fincen form
+108suspici activ report by insur companiesha been propos howev
+until the form is approv insur compani should us the suspici activ
+report form us by the secur and futur industri fincen form 101 to report
+suspici activ
+dealer in preciou metal stone or jewel
+person who deal in jewel preciou metal and preciou stone ar requir to establish
+antimonei launder program dealer ar defin as person who have purchas at
+least 50000 and sold more than 50000 worth of jewel stone or metal dure the
+preced year addition the person must also be in the busi of sell signific
+amount of such item therefor the rule wo uld not appli to occasion seller or hobbyist
+dealer howev ar not requir to file sar fincen is develop a set of final rule to
+address in more detail who is cover under the rule and what procedur will be requir
+other feder law relat to monei launder
+the fraud examin should be awar of the feder law that ar typic involv when
+prosecut a monei launder transact most such scheme will involv on or more of
+the follow
+structur transact to evad report requir titl 31 usc 5324
+if a person caus or attempt to caus a cover institut to fail to file a requir report
+with the purpos of evad the report requir such person can be fine under the
+provis of 18 usc 3571 andor imprison up to five year if the violat occur
+in the cours of violat anoth feder law or as part of a pattern of illeg conduct
+involv more than 100000 in a 12month period then the amount of the fine under
+3571 can be doubl and the prison time increas to up to 10 year
+section 3571 of titl 18 provid for fine for individu convict of a feloni of up to
+250000 and fine for organ of up to 500000 altern a fine can be impos
+up to twice the amount of the illgotten gain to the crimin or twice the amount of the loss
+to the victim
+bulk cash smuggl into or out of the unit state titl 31 usc 5332
+section 5332 which wa creat by section 371 of the patriot act make it illeg for
+anyon to knowingli conceal more than 10000 in currenc or other monetari instrument
+financi transact monei launder
+2011 fraud examin manual 11633
+and transport or attempt to transport such currenc into or out of the unit state with the
+intent to evad a currenc report requir under 18 usc 1956 see below
+violat of these section mai be imprison up to five year and mai be requir to forfeit
+ani properti involv in the offens or ani properti traceabl thereto
+monei launder statut titl 18 usc 1956 and 1957
+transact monei launder
+section 1956a1 provid that anyon who know that properti involv in a
+financi transact repres the proce of some form of unlaw activ and conduct a
+financi transact in ani of the follow wai
+with the intent to promot the carri on of specifi unlaw activ
+with the intent to violat section 7201 tax evas or 7206 file fals return of the
+intern revenu code
+know that the transact is design to conceal or disguis the natur locat
+sourc ownership or control of the illeg proce
+know that the transact is design to avoid a report requir
+such individu shall be fine up to 500000 or twice the valu of the monetari instrument
+or fund whichev is greater andor imprison for not more than 20 year specifi
+unlaw activ is defin in 1956c7 and includ a long list of feder crime
+includ rico fraud embezzl theft and fals statement also fund that ar
+illeg transmit in violat of thi statut or ani properti traceabl to those fund ar
+subject to civil forfeitur under 18 usc 981a1a
+intern transport and launder of fund
+section 1956a2 prohibit the transport transmiss or transfer of fund either into
+or out of the unit state if the person know the fund ar the proce of unlaw
+activ and the transport transmiss or transfer is done with the intent to promot
+the carri on of specifi unlaw conduct is done to conceal the natur locat
+sourc ownership or control of the fund or is done to avoid report requir the
+penalti ar the same as those set forth in subsect a1
+sting oper
+section 1956a3 prohibit a person from engag in financi transact involv
+properti the person believ to be the proce of illeg activ thi is intend to cover
+sting oper in which a suspect engag in monei launder activ with fund he
+monei launder financi transact
+11634 2011 fraud examin manual
+believ to be illeg deriv even though the fund ar actual suppli by govern
+agent the person can be imprison for up to 20 year andor fine in accord with 18 usc 3571
+engag in monetari transact with monei deriv from specifi unlaw activ
+an offens occur under section 1957 if a person knowingli engag or attempt to engag
+in a monetari transact with crimin deriv properti that is greater than 10000 and
+that is deriv from specifi unlaw activ section 1957 appli in situat where
+the offens take place in the unit state or within it special maritim or territori
+jurisdict or the offens take place outsid the us but the defend is a us citizen or
+legal alien
+violat of thi statut ar punish by a fine under 18 usc 3571 andor 10 year in
+prison in addit the illeg transmit fund can be forfeit under 18 usc
+981a1a
+civil penalti
+section 1956b set forth civil penalti for violat of section 1956 and 1957 under thi
+section those who violat either monei launder statut ar liabl to the unit state for
+the valu of the properti fund or monetari instrument involv in the illeg transact
+or 10000 whichev is greater
+longarm jurisdict over foreign monei launder
+section 1956b also give us district court jurisdict over foreign person or financi
+institut when 1 the foreign person commit a monei launder offens under section
+1956a that occur in whole or in part in the unit state 2 the foreign person convert
+to hi own us properti in which the unit state ha an ownership interest or 3 the
+foreign financi institut maintain a bank account in the unit state
+under section 1956b3 a us court can issu restrain order to freez the asset of
+foreign monei launder describ abov prior to trial to ensur that the defend asset
+ar avail to satisfi a judgment the court can also appoint a feder receiv to collect
+marshal and take control of the defend asset to satisfi a civil or crimin judgment for
+monei launder or a civil or crimin forfeitur judgment
+financi transact monei launder
+2011 fraud examin manual 11635
+prohibit of illeg monei transmit businessestitl 18 usc 1960
+thi section prohibit the oper of a busi that transfer fund by ani mean
+whether by wire check or courier if the busi doe not have the appropri state
+licens or fail to compli with the registr requir establish under titl 31 of the
+us code section 5330 the offend can be fine under section 3571 of titl 18 andor
+imprison not more than five year illeg transmit fund can also be seiz by the
+unit state under 18 usc 981a1a
+racket influenc and corrupt organ ricotitl 18 usc 1961
+1968
+violat of the monei launder crime statut 18 usc 1956 and 1957 and
+certain violat of the bank secreci act ar predic offens constitut racket
+activ these act can be prosecut under the rico statut which includ crimin
+penalti of up to 20 year in prison andor fine under section 3571 of titl 18 the statut
+also provid for a civil caus of action by ani person injur in hi busi or properti
+as a result of a violat of rico remedi includ trebl damag and attornei fee
+seizur and forfeiturestitl 18 usc 981 et seq
+section 981 provid for the civil seizur and forfeitur of properti involv in certain
+crime includ monei launder section 982 deal with crimin forfeitur forfeitur mai
+be defin as the take by the govern of properti that is illeg us or acquir
+without compens the owner these remedi ar onli avail to the govern and
+typic ar us in connect with a crimin investig and prosecut
+when a piec of properti is forfeit all right titl and interest in the properti vest in the
+govern consequ all the defend ownership right ar extinguish the
+transfer of right date back to the moment when the properti becam forfeit ie when
+the crime wa commit ani subsequ transfer by the defend is of no effect thi is
+known as the relat back doctrin in the ey of the law the subsequ judici proceed
+mere confirm that a forfeitur ha in theori alreadi taken place although the govern
+cannot claim ani right in the properti until it receiv a forfeitur judgment becaus the
+govern right to the properti and relat proce date back to when the crime wa
+commit the govern is legal entitl to ani gain accru from the proce of the
+illeg activ
+monei launder financi transact
+11636 2011 fraud examin manual
+crimin forfeitur ar conduct in conjunct with a crimin trial the proof necessari
+to perfect the forfeitur is the same as requir to convict the individu of the crimin
+charg that is proof beyond a reason doubt the crimin forfeitur is an action in
+personam against the person in such a proceed the govern ha the same burden of
+proof as it doe in a crimin case if the govern sustain a convict the judg will
+forfeit the properti at time of sentenc at which time the properti can be seiz
+civil forfeitur ar conduct independ from a crimin proceed a civil forfeitur is
+an action in rem against the properti in respons to perceiv abus on the part of the
+govern congress pass the civil asset forfeitur reform act of 2000 which
+drastic amend the law concern civil forfeitur
+below ar some of the highlight of the act
+set forth notif requir with respect to seiz properti and civil forfeitur
+proceed includ a requir that the govern notifi interest parti as
+soon as practic but within 60 dai after the date of the seizur
+set forth procedur for file claim for seiz properti after a claim is file the
+govern ha 90 dai in which to file a complaint for forfeitur if the govern
+fail to do thi then it must return the properti in lieu of or in addit to file a
+civil forfeitur complaint the govern mai includ a forfeitur alleg in a
+crimin indict
+provid that the court appoint counsel to repres anyon with an interest in the
+properti if the person is financi unabl to afford counsel
+place the burden of proof on the govern to establish by a preponder of the
+evid that the properti is subject to forfeitur
+provid that if the forfeitur action is be prosecut becaus the properti wa us
+to commit or facilit the commiss of a crimin offens or wa involv in such
+commiss the govern must establish that there wa a substanti connect
+between the properti and the offens
+provid an innoc owner defens to the forfeitur action the owner must prove
+hi innoc by a preponder of the evid
+author a claimant to petit the court to determin whether a forfeitur wa
+constitution excess direct the court to compar the forfeitur to the graviti of
+the offens place upon the claimant the burden of establish by a preponder of
+the evid at a hear conduct by the court without a juri that the forfeitur is
+grossli disproport to the offens upon the claimant
+amend the feder tort claim act to allow claimant to sue the govern for ani
+financi transact monei launder
+2011 fraud examin manual 11637
+damag or loss of properti while in possess of the govern
+author the us of forfeit properti to pai restitut to ani victim of the offens
+give rise to the forfeitur includ in the case of a monei launder offens ani
+offens constitut the underli specifi activ
+direct that all civil forfeitur of real properti and interest in real properti proce as
+judici forfeitur prohibit with except 1 real properti that is the subject of a
+civil forfeitur from be seiz befor entri of a forfeitur order and 2 the owner or
+occup of the real properti from be evict from or otherwis depriv of the us
+and enjoy of real properti that is the subject of a pend forfeitur action
+provid for the forfeitur of the proce of specifi unlaw activ under the
+monei launder statut
+forfeitur of fund in interbank account
+section 319 of the patriot act amend 18 usc 981 expand the unit state
+abil to seiz the proce of monei launder activ by provid for forfeitur of fund
+held in unit state interbank account an interbank account is an account on financi
+institut hold at anoth financi institut
+if fund involv in a monei launder transact or the proce of ani specifi
+unlaw activ as defin by the monei launder statut ar deposit in a foreign bank
+and if that foreign bank ha an interbank account in the unit state then the taint fund
+will be deem to have been deposit into the us account in other word the fund in
+the foreign bank us interbank account can be seiz even if the launder monei wa
+not deposit in that account the govern doe not have to trace the monei in the us
+interbank account to the monei that wa deposit in the foreign account it is enough that
+the us interbank account is held by the same financi institut in which the launder
+monei wa deposit oversea
+fals statementstitl 18 usc 1001
+person who violat the bank secreci act and other report law might also be guilti of
+violat of 18 usc 1001 which is the prin cipal feder fals statement statut becaus
+most of the oblig impos by the bsa involv recordkeep and report mani
+bsa violat might also constitut fals statement section 1001 prohibit knowingli
+falsifi conceal cover up or make a fals fictiti or fraudul statement or
+represent in ani matter within the jurisdict of ani us depart or agenc
+violat of thi section ar often charg when an individu is stop at the border with
+monei launder financi transact
+11638 2011 fraud examin manual
+a larg amount of unreport cash and respond fals to the question of custom offic
+or inspector it ha been us to prosecut individu for structur a transact so that it
+deceiv a financi institut into file a fals report
+conspiraci to defraud the unit state titl 18 usc 371
+although numer feder statut make conspiraci a crime the most commonli us
+feder conspiraci statut is the gener conspiraci statut under section 371 of titl 18 us
+code
+section 371 can be divid into two part 1 conspiraci to commit a crime against the
+unit state and 2 conspiraci to defraud the unit state or it agenc sever
+court have upheld convict base on the second prong of the statut sole for failur to
+file ctr such prosecut ar base on the theori that the person depriv the ir of
+accur ctr in the case of unit state v richter 610 fsupp 480 nd ill 1985 the
+court held that the divis of larg amount of cash into smaller nonreport transact
+by sever individu work as a team wa a conspiraci to obstruct the govern
+function of receiv ctr howev other court have reject thi theori on the ground
+that there is no duti on the part of the custom to inform the govern or the bank of
+the natur of the transact whether report or not
+travel act titl 18 usc 1952
+the travel act is applic if the offens involv the proce of illeg activ and
+interst travel the act provid that it is an offens to travel in interst or foreign
+commerc or us the mail with the intent to distribut the proce of ani unlaw activ
+commit ani crime of violenc to further unlaw activ or otherwis establish promot
+or manag an establish for the purpos of carri on ani unlaw activ unlaw
+activ is defin to includ the report requir under 31 usc chapter 53 as well
+as the monei launder statut 18 us c 1956 and 1957 the fine establish
+under 3571 can be impos andor up to five year imprison if a crime of violenc is
+involv the term of imprison increas to a maximum of 20 year or life if someon
+wa kill
+state law
+approxim 30 state have enact statut that crimin monei launder most of
+which appli to businesspeopl and profession some of the state statut ar broader than
+financi transact monei launder
+2011 fraud examin manual 11639
+the feder statut and thei ar often enforc more aggress than their feder
+counterpart
+mani state have crimin attempt monei launder with the same penalti as the
+complet crime some state contain a sting provis which enabl the prosecut of
+activ even though the launder monei is not actual deriv from crimin activ but
+rather suppli by govern agent as part of a sting oper sever state have also
+enact legisl requir financi institut and busi to file currenc transact
+report that mirror the feder report some requir duplic file with the state other
+ar satisfi with the feder file

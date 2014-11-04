@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following information is usually contained on the signature card of a personal bank account?
+
+Options=Identification of person opening account | Amount of initial deposit | Date of initial deposit | All of the above
+
+CorrectResponse=3
+
+Explanation=The signature card is a source of valuable information. Although its form varies, the card usually contains such data as banking connections and the date and amount of the initial deposit. The initial deposit traced through the bank’s records may disclose a source of income. The identification of the person who opened the account might be significant, especially if the depositor used an alias.See page(s) 3.809-3.810 in the Fraud Examiner's Manual

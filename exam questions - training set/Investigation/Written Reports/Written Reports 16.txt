@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=When taking a signed statement from a suspect, there should not be more than one written statement for each offense.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When taking a signed statement from a suspect, there should not be more than one written statement for each offense. If facts are inadvertently omitted, they can later be added to the original statement as an addendum. For legal purposes, prepare separate statements for unrelated offenses This rule applies because the target might be tried more than once‰??once for each offense. Preserve all notes taken during an interview, especially those concerning a confession. Having access to pertinent notes can aid in a cross-examination regarding the validity of a signed statement. Stenographic notes, if any, also should be preserved. Once a confession is obtained, substantiate it through additional investigation, if necessary.See page(s) 3.922 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which of the following are valid reasons for the defendant to file a motion to dismiss an indictment in a criminal trial?
+
+Options=Failure to provide a speedy trial | Double jeopardy | Selective prosecution | All of the above
+
+CorrectResponse=3
+
+Explanation=There are several grounds upon which a defendant may request that an indictment be dismissed. They include:‰?¢	Violations of a defendant‰??s right to speedy trial.‰?¢	Selective prosecution. The defense accuses the authorities of targeting some individuals and exonerating others without cause.‰?¢	Double jeopardy, which prevents someone from being tried for the same crime twice‰?¢	Challenging the sufficiency of the indictment. If the indictment does not include all the essential elements of the crimes charged, then the defense can challenge it.‰?¢	Duplicity. Each count of an indictment must state one and only one offense.‰?¢	Multiplicity. When two or more counts charge essentially the same offense; thereby exposing the defendant to cumulative punishment for one offense.See page(s) 2.512-2.513 in the Fraud Examiner's Manual

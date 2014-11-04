@@ -1,0 +1,24 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+bear                                   1
+services                               1
+other                                  1
+symbol                                 1
+trade                                  1
+or                                     2
+offers                                 1
+advertising                            1
+goods                                  1
+mark                                   1
+franchiser                             2
+the                                    3
+that                                   1
+distribute                             1
+trademark                              2
+name                                   1
+service                                1
+commercial                             1
+right                                  1
+
+Totals:                     20        25

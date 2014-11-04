@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Often in a telemarketing scam, the employees of the telemarketing company are exploited as badly as the fraud victims.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The customers of fraudulent telemarketing operations are not the only victims. Fronters are often poorly educated and easily taken advantage of by the career criminals who run the operations. Salespeople may face hidden costs in a work agreement, similar to the ones involved in the items they push on unsuspecting customers. For example, boiler room operators hold back parts of their phone lists and sell them to crew members as “hot leads.�?See page(s) 1.1710 in the Fraud Examiner’s Manual

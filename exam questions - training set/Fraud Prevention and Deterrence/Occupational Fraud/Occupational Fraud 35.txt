@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=The criminologist responsible for the introduction of the "Fraud Scale" model is
+
+Options=Edwin H. Sutherland | Dr. Steve Albrecht | Donald R Cressey | None of the above
+
+CorrectResponse=1
+
+Explanation=To explain his concept, Dr. Steve Albrecht developed the "Fraud Scale,‰?? which included the components of situational pressures, perceived opportunities, and personal integrity. When situational pressures and perceived opportunities are high and personal integrity is low, occupational fraud is much more likely to occur than when the opposite is true.See page(s) 4.612 in the Fraud Examiner's Manual

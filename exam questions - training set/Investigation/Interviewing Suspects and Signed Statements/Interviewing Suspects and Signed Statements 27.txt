@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=An oral confession is as legally binding as a written one.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Although oral confessions are legally as binding as written ones, the written statement has greater credibility. It also discourages miscreants from later attempting to recant their verbal confessions.See page(s) 3.249 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Which of the following is a good method of discovering internal fraud?
+
+Options=Requiring employees to take vacation time | Surprise audits | Rotating employee duties | All of the above are methods
+
+CorrectResponse=3
+
+Explanation=Proactive fraud policies are generated from the top of the operation. A proactive policy means that the organization v/ill aggressively seek out possible fraudulent conduct, instead of waiting for instances to come to its attention This can be accomplished by several means, including the use of analytical procedures, fraud assessment questioning, enforcement of mandatory vacations, job rotation, and surprise audits where possible.See page(s) 4.718-4.719 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=According to the Government Auditing Standards‰?? Reporting Standards for Performance Audits, the auditor should report all of the following EXCEPT:
+
+Options=Significant violations of provisions of contracts or grant agreements | Any deficiencies in internal control that are significant within the context of the objectives of the audit | All illegal acts discovered regardless of whether they are consequential to the audit objectives | All instances of fraud
+
+CorrectResponse=2
+
+Explanation=According to Government Auditing Standards, paragraph 8.18, ‰??Auditors should report deficiencies in internal control that are significant within the context of the objectives of the audit, all instances of fraud, illegal acts unless they are inconsequential v/ithin the context of the audit objectives, significant violations of provisions of contracts or grant agreements, and significant abuse that have occurred or are likely to have occurred.‰??See page(s) 1.1910 in the Fraud Examiner‰??s Manual

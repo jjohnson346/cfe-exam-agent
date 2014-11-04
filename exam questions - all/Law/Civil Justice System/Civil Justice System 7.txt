@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=The commencement of a civil action begins with the filing of a(n):
+
+Options=Complaint	| Motion | Affidavit | Any of the above
+
+CorrectResponse=0
+
+Explanation=Rule 3 of the Rules of Civil Procedure states: "A civil action is commenced by filing a complaint with the court."See page(s) 2.601 in the Fraud Examiner's Manual

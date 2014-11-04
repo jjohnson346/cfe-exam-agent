@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=If an indictment is dismissed for insufficiency, the charges may not be revised and refiled.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Rule 7 of the Federal Rules of Criminal Procedure requires the indictment to contain a plain, concise, and definite statement of the essential facts constituting the charge(s) against the defendant. The indictment must, therefore, must allege all of the essential elements of the crimes charged, including the requisite criminal intent where required by statute. If the indictment is deficient, then the defense can challenge it. The defense may challenge the indictment if the prosecution failed to plead an essential element of the fraud offense or plead the necessary facts. But even if an indictment is dismissed for insufficiency, the prosecution is usually free to re-file the indictment.See page(s) 2.512-2.513 in the Fraud Examiner's Manual

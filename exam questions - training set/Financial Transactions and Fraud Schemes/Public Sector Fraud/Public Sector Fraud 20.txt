@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=When conducting an examination, the fraud examiner is usually justified in accepting photocopies instead of original documents.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=When examining the possibility of false claims, the examiner should insist on reviewing the original documents. Transactions should be authorized and recorded based on original documentation, not duplicates. Duplicates or photocopied documentation is subject to alteration and manipulation.See page(s) 1.1915 in the Fraud Examiner‰??s Manual

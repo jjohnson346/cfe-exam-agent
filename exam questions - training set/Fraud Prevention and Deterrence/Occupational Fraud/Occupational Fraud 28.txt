@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, which of the following is the most common fraud detection method?
+
+Options=Accident | Tip | External audit | Notified by law enforcement
+
+CorrectResponse=1
+
+Explanation=Respondents to our survey were asked to identify how the frauds were first discovered. Forty percent of the cases in our 2010 study were uncovered by a tip or complaint from an employee, customer, vendor, or other source, making it the most common detection method.See page(s) 4.628 in the Fraud Examiner's Manual

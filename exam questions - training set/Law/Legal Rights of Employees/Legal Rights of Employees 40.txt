@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Able, a private investigator, questions Baker, a fraud suspect, at Baker's home. Baker begins to make incriminating admissions of guilt. Able legally MUST:
+
+Options=Advise Baker of his Miranda warnings before proceeding with the questioning | Terminate the interview | Discontinue questioning until an attorney for Baker is contacted | None of the above
+
+CorrectResponse=3
+
+Explanation=Miranda warnings are required only when the suspect is in custody and is being questioned by public authorities. Although Able may wish to advise Baker of his rights to selfincrimination, he is not obligated to do so.See page(s) 2.408 in the Fraud Examiner's Manual

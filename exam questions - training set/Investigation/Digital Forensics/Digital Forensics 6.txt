@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Before beginning an examination involving computers, the fraud examiner should consider which of the following?
+
+Options=Whether law enforcement should be notified | Whether a crime may have been committed | Whether an outside forensic expert is needed | All of the above
+
+CorrectResponse=3
+
+Explanation=When conducting an examination involving computers, a primary consideration should be determining whether an outside forensic examiner is needed or whether the expertise is available in-house. This determination will depend, to a large extent, on the complexity of the examination required and whether the intended examiner is trained and experienced in forensic recovery, preparing legally sufficient reports, and testifying as a witness. Another consideration involves determining that a crime has in fact been committed. If it is determined at the beginning of the investigation that a formal referral to a law enforcement or prosecuting agency will be made, then the authorities must be before the investigation begins to determine whether law enforcement personnel should participate in the examination and analysis procedures or if the law enforcement entity is comfortable with the in-house personnel‰??s level of expertise.See page(s) 3.703, 3.708 in the Fraud Examiner's Manual

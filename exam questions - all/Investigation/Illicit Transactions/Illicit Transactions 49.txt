@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Under Check 21, banks can transmit information about a check electronically and no longer have to transmit the actual check from bank to bank and then back to the account holder.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In July 2003. Congress issued final regulations regarding the availability of funds and collection of checks. A new provision of Section 12. Part 229 of the Code of Federal Regulations, known as “Check 21,° creates “substitute checks,�? a type of negotiable instrument that is the legal equivalent of paper checks. This provision facilitates the efficient collection and return of checks in electronic form by alleviating the collection requirement that depository banks actually send the original paper checks to collecting banks for payment.See page(s) 3.812 in the Fraud Examiner's Manual

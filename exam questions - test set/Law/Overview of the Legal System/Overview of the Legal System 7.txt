@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Criminal laws are statutory. Civil actions can be based on either statutes or common law.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The two sources of substantive law are "statutes" passed by the Federal or state legislatures (and regulations passed by administrative bodies) and the "common lav/." Common lav/ consists of the usages and customs of a society as interpreted by the judiciary; it is often referred to as "judge-made" law. Criminal law is statutory, while civil actions can be based on either statutory or common law.See page(s) 2.102 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=As used in the proof stages in fraud cases, circumstantial evidence is defined as:
+
+Options=Evidence which offers proof of possible wrongdoing but is not admissible in court | Proof that is not verified by a direct witness | All proof other than direct proof of wrongdoing | None of the above
+
+CorrectResponse=2
+
+Explanation=As used here, circumstantial evidence means all proof other than a direct admission of wrongdoing by the subject or a co-conspirator. In a fraud case, it is the proof of the defendant’s representations, evidence of their falsity and intent.

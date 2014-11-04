@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=The Certified Fraud Examiner Code of Professional Ethics does not presume a privileged status for information provided by a client.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation="Privileged information‰?? is information that cannot be demanded, even by a court. Common-law privileges exist for husband-wife and attorney-client relationships, and physician-patient and priest-penitent relationships have obtained the privilege through state statutes. In all the recognized privileged relationships, the professional person is obligated to observe the privilege, which can be waived only by the client, patient, or penitent. Likev/ise, the Certified Fraud Examiner's client or employer is the holder of the confidence. Certified Fraud Examiners, like CPAs and similar professionals, do not have protected privileges in common-law or statute.See page(s) 4.1016 in the Fraud Examiner‰??s Manual

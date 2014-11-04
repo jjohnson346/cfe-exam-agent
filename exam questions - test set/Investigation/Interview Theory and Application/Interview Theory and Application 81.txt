@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, certain inhibitors to communication exist. The terms "induction" and "deduction" are most often associated with which inhibitor to communication?
+
+Options=Trauma | Inferential confusion | Chronological confusion | None of the above
+
+CorrectResponse=1
+
+Explanation="Inferential confusion" denotes confusion and inaccuracies resulting from errors of inference. These errors generally fall into two categories: induction or deduction "Induction‰?? occurs when the respondent is asked to convert concrete experiences into a higher level of generalization. "Deduction" occurs when the respondent is asked to give concrete examples of certain categories of experience.See page(s) 3.209 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a form of fraudulent disbursement?
+
+Options=Payroll schemes | Check tampering | Billing schemes | Skimming
+
+CorrectResponse=3
+
+Explanation=There are five major categories of fraudulent disbursement in the Fraud Tree:‰?¢	Check tampering‰?¢	Register disbursement schemes‰?¢	Billing schemes‰?¢	Payroll schemes‰?¢	Expense reimbursement schemesSkimming is a form of Asset Misappropriation, but it does not involve a fraudulent disbursement of organizational fundsSee page(s) 123 in the Corporate Fraud Handbook

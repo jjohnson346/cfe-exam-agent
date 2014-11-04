@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The Sarbanes-Oxley Act requires that CEOs and CFOs certify that they have disclosed to their auditors and their audit committee any fraud, whether material or not, that involves management or other key employees.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Sarbanes-Oxley Act requires the CEO and CFO to certify that they have disclosed to their auditors and their audit committee any material weaknesses in the company's internal controls, and also any fraud, whether material or not. that involves management or other key employees.See page(s) 1.1505 in the Fraud Examiner’s Manual

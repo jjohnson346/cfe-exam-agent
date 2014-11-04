@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All of the following can help prevent damage from computer viruses, EXCEPT:
+
+Options=Installing shareware into the root directory | Backing up files | Testing computer software on an isolated system before loading it onto the network | Using anti-virus software packages
+
+CorrectResponse=0
+
+Explanation=Computer users should take measures to protect their computers against viruses. Some of the steps that can be taken are:Do not use a diskette to boot your systemIf you must boot your system from a diskette, make sure it is properly labeled, and continuously protectedDon’t install shareware or other untested programs on your systems; if you must, don't put them in the root directoryIn a network environment, don’t place untested programs on the serverIf you are sharing information on diskettes, ensure they only contain information and no executable files Use current anti-virus software to detect potential viruses Backup all programs and files■ \A/r5i/% innir fr/\r\ HinrrnnliAr	in/^Amn!*iAr Inin uni ir nnrnhnrn nrrlnrr ^r»rl nnnlrnnlnSee page(s) 1.1822-1.1823 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=All of the following statements are true, EXCEPT:
+
+Options=Asset accounts are increased with debits | Expense accounts are decreased with debits | Liability accounts are increased with credits | Revenue accounts are decreased with debits
+
+CorrectResponse=1
+
+Explanation=Entries to the left side of an account are referred to as debits, and entries to the right side of accounts are referred to as credits. Asset and expense accounts are increased with debits and decreased with credits, while liabilities, owners' equity, and revenue accounts are increased with credits and decreased with debits.See page(s) 1.102 in the Fraud Examiner's Manual

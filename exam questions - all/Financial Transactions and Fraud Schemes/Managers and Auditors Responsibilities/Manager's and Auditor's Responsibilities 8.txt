@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Which of the following is NOT a responsibility of the audit committee?
+
+Options=Resolving disputes about financial reporting between the auditors and management | Pre-approving all audit and non-audit services provided by the external auditor | Approving all outside advisors hired by management | Establishing procedures for handling confidential and anonymous employee concerns about questionable accounting methods, internal controls, or auditing matters
+
+CorrectResponse=2
+
+Explanation=The Sarbanes-Oxley Act has several provisions that set out specific requirements for the audit committees of public companies. Members of the audit committee must be independent and the company must disclose whether the committee includes an audit committee financial expert Additionally, the audit committee has the sole responsibility for hiring, overseeing, and paying the external auditors and for resolving any disputes that arise between the auditors and management regarding financial reporting issues. The audit committee is also required to pre-approve all services to be performed by the auditors and to establish procedures for handling employee concerns regarding irregularities in the company's accounting methods, internal controls, or auditing matters. While the audit committee may consult with outside advisors, it is not required to approve those advisors hired by management.See page(s) 1.212-1.216 in the Fraud Examiner's Manual

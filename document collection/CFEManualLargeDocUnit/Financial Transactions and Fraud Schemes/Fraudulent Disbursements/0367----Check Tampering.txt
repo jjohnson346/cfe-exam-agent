@@ -1,0 +1,1468 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ASSET MISAPPROPRIATION: FRAUDULENT DISBURSEMENTS/Check Tampering
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Fraudulent Disbursements
+
+
+:
+
+
+Check Tampering
+Check tampering is unique among the fraudulent disbursement schemes because it is the one 
+group in which the perpetrator physically prepares the fraudulent check. In most fraudulent 
+disbursement schemes, the culprit generates a payment to himself by submitting some false 
+document to the victim organization such as an invoice or a timecard. The false document 
+represents a claim for payment and causes the victim organization to issue a check that the 
+perpetrator can convert.  
+ 
+Check tampering schemes are fundamentally different. In these schemes the perpetrator 
+takes physical control of a check and makes it payable to himself through one of several 
+methods. Check tampering frauds depend upon factors such as access to the company 
+checkbook, access to bank statements, and the ability to forge signatures or alter other 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.511 
+information on the face of the check. Most check tampering crimes fall into one of four 
+categories: forged maker schemes, forged endorsement schemes, altered payee schemes, and 
+authorized maker schemes.  
+ 
+Forged Maker Schemes    
+The legal definition of forgery includes not only the signing of another person’s name to a 
+document (such as a check) with a fraudulent intent, but also the fraudulent alteration of a 
+genuine instrument. This definition is so broad that it would encompass all check tampering 
+schemes. For the purposes of this text, the definition of forgery has been narrowed to fit the 
+fraud examiner’s needs. In order to properly distinguish the various methods used by 
+individuals to tamper with checks, the concept of “forgeries” will be limited to those cases in 
+which an individual signs another person’s name on a check.  
+ 
+The person who signs a check is known as the “maker” of the check. A forged maker 
+scheme, then, may be defined as a check tampering scheme in which an employee 
+misappropriates a check and fraudulently affixes the signature of an authorized maker 
+thereon. (See “Forged Maker Schemes” flowchart.) Frauds that involve other types of check 
+tampering, such as the alteration of the payee or the changing of the dollar amount, are 
+classified separately.  
+ 
+In order to forge a check, an employee must have access to a blank check, he must be able 
+to produce a convincing forgery of an authorized signature, and he must be able to conceal 
+his crime. Concealment is a universal problem in check tampering schemes; the methods 
+used are basically the same whether one is dealing with a forged maker scheme, an 
+intercepted check scheme, a concealed check scheme, or an authorized maker scheme. 
+Therefore, concealment issues will be discussed as a group later in this section.  
+ 
+Obtaining the Check 
+EMPLOYEES WITH ACCESS TO COMPANY CHECKS 
+One cannot forge a company check unless one first possesses a company check. Most 
+forgery schemes are committed by accounts payable clerks, office managers, bookkeepers, or 
+other employees whose duties typically include the preparation of company checks. These 
+are people who have access to the company checkbook on a regular basis and are therefore 
+in the best position to steal blank checks.  
+                                                          
+1 Henry Campbell Black, Black’s Law Dictionary, Fifth Edition  (St. Paul: West Publishing Co., 1979) p. 585.   
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.512                         2011 Fraud Examiners Manual  
+EMPLOYEES LACKING ACCESS TO COMPANY CHECKS 
+If the perpetrator does not have access to the company checkbook through his work duties, 
+he will have to find other means of misappropriating a check. The way a person steals a 
+check depends largely on how the checkbook is handled within a particular company. In 
+some circumstances the checkbook is poorly guarded, left in unattended areas where anyone 
+can get to it. In other companies where blank checks are kept in a restricted area, the 
+perpetrator might have surreptitiously obtained a key or combination to this area. An 
+accomplice might provide blank checks for the perpetrator in return for a portion of the 
+stolen funds. Perhaps a secretary sees the checkbook left on a manager’s desk or a custodian 
+comes across blank checks in an unlocked desk drawer.  
+ 
+In some companies, checks are computer generated. When this is the case, an employee who 
+knows the password for preparing and issuing checks can usually obtain as many unsigned 
+checks as he desires. There are an unlimited number of ways to steal a check, each 
+dependent on the way in which a particular company guards its blank checks. In some 
+instances, employees go so far as to produce counterfeit checks.  
+ 
+EXAMPLE 
+An employee had an accomplice who worked for a check-printing company. The accomplice 
+was able to print blank checks with the account number of the perpetrator’s company. The 
+perpetrator then wrote over $100,000 worth of forgeries on these counterfeit checks.  
+ 
+To Whom Is the Check Made Payable?  
+TO THE PERPETRATOR 
+Once a blank check has been obtained, the perpetrator must decide to whom it should be 
+made payable. In most instances forged checks are made payable to the perpetrator himself 
+so that they can be easily converted. Canceled checks that are payable to an employee should 
+be closely scrutinized for the possibility of fraud.  
+ 
+If the perpetrator owns his own business or has established a shell company, he will usually 
+write fraudulent checks to these entities rather than himself. These checks are not as 
+obviously fraudulent on their faces as checks made payable to an employee. At the same 
+time, these checks are easy to convert because the perpetrator owns the entity to which the 
+checks are payable.  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.513 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.514                         2011 Fraud Examiners Manual  
+TO AN ACCOMPLICE  
+If a fraudster is working with an accomplice, he can make the forged check payable to that 
+person. The accomplice then cashes the check and splits the money with the employee-fraudster. 
+Because the check is payable to the accomplice in his true identity, it is easily 
+converted. An additional benefit to using an accomplice is that a canceled check payable to a 
+third-party accomplice is not as likely to raise suspicion as a canceled check to an employee. 
+The obvious drawback to using an accomplice in a scheme is that the employee-fraudster 
+usually has to share the proceeds of the scheme. 
+ 
+TO “CASH”   
+The perpetrator may also write checks payable to “cash” in order to avoid listing himself as 
+the payee. Checks made payable to cash, however, must still be endorsed. The perpetrator 
+will have to sign his own name or forge the name of another in order to convert the check. 
+Checks payable to “cash” are usually viewed more  skeptically than checks payable to persons 
+or businesses. Some institutions may refuse to cash checks made payable to “cash.”  
+ 
+TO VENDORS 
+Not all fraudsters forge company checks to obtain cash. Some employees use forged maker 
+schemes to purchase goods or services for their own benefit. These fraudulent checks are 
+made payable to third-party vendors who are uninvolved in the fraud. For instance, an 
+employee might forge a company check to buy a computer for his home. The computer 
+vendor is not involved in the fraud at all. Furthermore, if the victim organization regularly 
+does business with this vendor, the person who reconciles the company’s accounts may 
+assume that the check was used for a legitimate business expense.  
+ 
+Forging the Signature 
+After the employee has obtained and prepared a blank check, he must forge an authorized 
+signature in order to convert the check. The most obvious method, and the one that comes 
+to mind when one thinks of the word “forgery,” is to simply take pen in hand and sign the 
+name of an authorized maker.  
+ 
+FREE-HAND FORGERY 
+The difficulty a fraudster encounters when physically signing the authorized maker’s name is 
+in creating a reasonable approximation of the true signature. If the forgery appears authentic, 
+the perpetrator will probably have no problem cashing the check. In truth, the forged 
+signature may not have to be particularly accurate. Many fraudsters cash forged checks at 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.515 
+liquor stores, grocery stores, or other institutions that are known to be less than diligent in 
+verifying signatures and identification. Nevertheless, a poorly forged signature is a clear red 
+flag of fraud. The maker’s signature on can celed checks should be reviewed for forgeries 
+during the reconciliation process.  
+ 
+PHOTOCOPIED FORGERIES 
+To guarantee an accurate forgery, some employees make photocopies of legitimate 
+signatures. The signature of an authorized signer is copied from some document (such as a 
+business letter) onto a transparency, then the transparency is laid over a blank check so that 
+the signature copies onto the maker line of the check. The result is a check with a perfect 
+signature of an authorized maker.  
+ 
+AUTOMATIC CHECK-SIGNING INSTRUMENTS 
+Companies that issue a large number of checks sometimes utilize automatic check-signing 
+instruments. Automated signatures are either produced with manual instruments like 
+signature stamps or they are printed by computer. Obviously, an employee who has access to 
+an automatic check-signing instrument will have no trouble forging the signatures of 
+authorized makers. Even the most rudimentary control procedures should severely limit 
+access to these instruments.  
+ 
+EXAMPLE 
+A fiscal officer maintained a set of manual checks that were unknown to other persons in 
+the company. The company used an automated check signer and the custodian of the signer 
+let the officer have uncontrolled access to it. Using the manual checks and the company’s 
+check signer, the fiscal officer was able to write over $90,000 worth of fraudulent checks to 
+himself over a period of approximately four years.  
+ 
+The same principle applies to computer-generated signatures. Access to the password or 
+program that prints signed checks should be restricted, specifically excluding those who 
+prepare checks and those who reconcile the bank statement.  
+ 
+Converting the Check 
+In order to convert the forged check, the perpetrator must endorse it. The endorsement is 
+typically made in the name of the payee on the check. Since identification is typically 
+required when one seeks to convert a check, the perpetrator usually needs fake identification 
+if he forges checks to real or fictitious third persons. As discussed earlier, checks payable to 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.516                         2011 Fraud Examiners Manual  
+“cash” require the endorsement of the person converting them. Without a fake ID the 
+perpetrator will likely have to endorse these checks in his own name. An employee’s 
+endorsement on a canceled check is obviously a red flag.  
+ 
+Forged Endorsement Schemes 
+Forged endorsements are those check tampering schemes in which an employee intercepts a 
+company check intended to pay a third party and converts the check by endorsing it in the 
+third-party’s name. In some cases the employee also signs his own name as a second 
+endorser. (See “Forged Endorsement Schemes” flowchart.) 
+ 
+A fraudster’s main dilemma in a forged endorsement scheme (and in all intercepted check 
+schemes, for that matter) is gaining access to a check after it has been signed. The fraudster 
+must either steal the check between the point where it is signed and the point where it is 
+delivered, or he must re-route the check, causing it to be delivered to a location where he can 
+retrieve it. The manner used to steal a check depends largely upon the way the company 
+handles outgoing disbursements. Anyone who is allowed to handle signed checks may be in 
+a good position to intercept them.  
+ 
+Intercepting Checks Before Delivery 
+EMPLOYEES INVOLVED IN DELIVERY OF CHECKS 
+Obviously, the employees in the best position to intercept signed checks are those whose 
+duties include the handling and delivery of signed checks. The most obvious example is a 
+mailroom employee who opens outgoing mail containing signed checks and steals the 
+checks. Other personnel with access to outgoing checks might include accounts payable 
+employees, payroll clerks, and secretaries. 
+ 
+POOR CONTROL OF SIGNED CHECKS 
+Unfortunately, employees are often able to intercept signed checks because of poor internal 
+controls. For instance, many employees simply find signed checks left unattended in the 
+work areas of the persons who signed them or the persons charged with their delivery. In 
+these cases it is easy for the perpetrator to steal the check. Another common breakdown 
+occurs when the person who prepares a check is also involved in the delivery of that check 
+once it has been signed.  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.517 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.518                         2011 Fraud Examiners Manual  
+EXAMPLE 
+A high-level manager with authority to disburse employee benefits instructed accounts 
+payable personnel to return signed benefits checks to him instead of immediately delivering 
+them to their intended recipients. These instructions were not questioned due to the 
+manager’s level of authority within the company. The perpetrator simply took the checks 
+that were returned to him and deposited them  into his personal bank account, forging the 
+endorsements of the intended payees.  
+ 
+In addition to the preceding example, secretaries or clerks who prepare checks for their 
+bosses to sign are often responsible for mailing those checks. It is very simple for those 
+employees to make out a fraudulent check and obtain a signature, knowing that the boss will 
+give the signed check right back to them. This scheme is indicative of the key problem with 
+occupational fraud: trust. In order for an office to run efficiently, high-level employees must 
+be able to rely on their subordinates. Yet this reliance is precisely what puts subordinates in a 
+position to defraud their employer.  
+ 
+Theft of Returned Checks 
+Checks that have been mailed and are later returned to the victim for some reason, such as 
+an incorrect address, are often targeted for theft by fraudsters. Employees with access to 
+incoming mail are able to intercept these returned checks and convert them by forging the 
+endorsement of the intended payee.  
+ 
+EXAMPLE 
+A manager took and converted approximately $130,000 worth of checks that were 
+returned due to noncurrent addresses (he also stole outgoing checks, cashed them, and then 
+declared them lost). The fraudster was well known at his bank and was able to convert the 
+checks by claiming that he was doing it as a favor to the real payees, who were “too busy to 
+come to the bank.” The fraudster was able to continue with his scheme because the nature 
+of his company’s business was such that the recipients of the misdelivered checks were often 
+not aware that the victim company owed them  money. Therefore, they did not complain 
+when their checks failed to arrive. In addition, the perpetrator had complete control over the 
+bank reconciliation, so he could issue new checks to those payees who did complain, then 
+“force” the reconciliation, making it appear that the bank balance and book balance 
+matched when, in fact, they did not.  
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.519 
+Re-Routing the Delivery of Checks 
+Employees may also misappropriate signed checks by altering the addresses to which those 
+checks are mailed. These perpetrators usually replace the legitimate address of the payee with 
+an address where the employee can retrieve the check, such as the employee’s home or a 
+P.O. box the employee controls. In other instances, the perpetrator might purposely 
+misaddress a check so that it will be returned as undeliverable. The employee steals the check 
+after it is returned to the victim organization.  
+ 
+Obviously, proper separation of duties should  preclude anyone who prepares disbursements 
+from being involved in their delivery. Nevertheless, the person who prepares a check is often 
+allowed to address and mail it as well. In some instances where proper controls are in place, 
+employees are still able to cause the misdelivery of checks. 
+ 
+EXAMPLE 
+A clerk in the customer service department of a mortgage company was in charge of 
+changing the mailing addresses of property ow ners. She was assigned a password that gave 
+her access to make these changes. The clerk was transferred to a new department where one 
+of her duties was the issuance of checks to property owners. Unfortunately, her supervisor 
+forgot to cancel her old password. When the clerk realized this oversight, she would request 
+a check for a certain property owner, then sign onto the system with her old password and 
+change the address of that property owner. The check would be sent to her. The next day 
+the employee would use her old password to re-enter the system and replace the proper 
+address so that there would be no record of where the check h ad been sent. This fraudster’s 
+scheme resulted in a loss of over $250,000 to the victim company.  
+ 
+Converting the Stolen Check 
+Once a check has been intercepted, the perpetrator can cash it by forging the payee’s 
+signature, hence the term forged endorsement scheme. Depending on where he tries to cash the 
+check, the perpetrator may or may not need fake identification at this stage. If a perpetrator 
+is required to produce identification in order to cash his stolen check, and if he does not 
+have a fake ID in the payee’s name, he may use a dual endorsement to cash or deposit the 
+check. In other words, the perpetrator forges the payee’s signature as though the payee had 
+transferred the check to him, then the perpetrator endorses the check in his own name and 
+converts it. When the bank statement is reconciled, dual endorsements on checks should 
+always raise suspicions, particularly when the second signer is an employee of the company. 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.520                         2011 Fraud Examiners Manual  
+Altered Payee Schemes 
+The second type of intercepted check scheme is the altered payee scheme. This is a form of 
+check tampering in which an employee intercepts a company check intended for a third 
+party and alters the payee designation so that the check can be converted by the employee or 
+an accomplice. (See “Altered Payee Schemes” flowchart.) The employee inserts his own 
+name, the name of an accomplice, or the name of a fictitious entity on the payee line of the 
+check. The alteration essentially makes the check payable to the employee (or an 
+accomplice), so there is no need to forge an endorsement and no need to obtain false 
+identification.  
+ 
+Altering Checks Prepared by Others: Inserting a New Payee 
+The method used to alter the payee designation on a check depends largely on how that 
+check is prepared and intercepted. (Incidentally, the amount  of the check may also be altered 
+at the same time and by the same method as the payee designation.) Checks prepared by 
+others can be intercepted by any of the methods discussed in the forged endorsements 
+section above. When the perpetrator intercepts a check that has been prepared by someone 
+else, there are basically two methods that may be employed to change the payee. The first is 
+to insert the false payee’s name in place of  the true payee’s. The true name might be 
+scratched out with a pen or covered up with white-out. Another name is then entered on the 
+payee designation line. These kinds of alterations are usually simple to detect.  
+ 
+A more sophisticated method occurs when the perpetrator of the fraud enters the accounts 
+payable system and changes the names of payees before checks are generated. This can be 
+accomplished by anyone with a password that permits access to the accounts payable  
+address file.  
+ 
+EXAMPLE 
+An accounts payable employee was so trusted that her manager allowed her to use his 
+computer password in his absence. The password permitted access to the accounts payable 
+address file. This employee waited until the manager was absent, then selected a legitimate 
+vendor with whom her company did a lot of business. She held up the vendor’s invoices for 
+the day, and after work used the manager’s log-in code to change the vendor name and 
+address to that of a fictitious company. The new name and address were run through the 
+accounts payable cycle with an old invoice number, causing a fraudulent check to be issued. 
+The victim company had an automated duplicate invoice test, but the perpetrator 
+circumvented it substituting “1” for “I” and “0” (zero) for capital “O.” The next day, 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.521 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.522                         2011 Fraud Examiners Manual  
+ the employee would replace the true vendor’s name and address, and mutilate the check 
+register so that the check payable to the fi ctitious vendor was concealed. Approximately 
+$300,000 in false checks was issued using this method.  
+ 
+Altering Checks Prepared by Others: “Tacking On” 
+The other method that can be used by perpetrators to alter checks prepared by others is 
+“tacking on” additional letters or words to the end of the real payee designation. For 
+instance, checks payable to “ABC” company might be altered to read “A.B. Collins.” The 
+employee then cashes the checks in the name of A.B. Collins. It sounds like an odd scheme, 
+but it really happens. In these cases, the simple inclusion of a filler line after the payee 
+designation would prevent the loss.  
+ 
+In addition to altering the payee designation, the amount of the check can be altered by 
+tacking on extra numbers if the person preparing the check is careless and leaves space for 
+extra numbers in the “Amount” portion of the check. 
+ 
+Altering Checks Prepared by the Fraudster: Erasable Ink 
+When the perpetrator prepares the check that is to be altered, the schemes tend to be a bit 
+more sophisticated. The reason for this is obvious:  If the perpetrator is able to prepare the 
+check himself, he can prepare it with the thought of how the payee designation will be 
+changed. One of the most common ways to prepare a check for alteration is to write or type 
+the payee’s name (and possibly the amount) in erasable ink. After an authorized maker signs 
+the check, the perpetrator retrieves the check, erases the payee’s name, and inserts his own. 
+In some cases, employees even obtain signatures on checks written in pencil. 
+ 
+EXAMPLE 
+A bookkeeper typed out small checks to a local supplier and had the owner of the company 
+sign them. The bookkeeper then used her erasing typewriter to lift the payee designation and 
+amount from the check. She entered her own name as the payee and raised the amount 
+precipitously. For instance, the owner might si gn a $10 check that later became a $10,000 
+check. These checks were entered in the disbursements journal as payments for aggregate 
+inventory to the company’s largest supplier, who received several large checks each month. 
+The bookkeeper stole over $300,000 fr om her employer in this scheme.  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.523 
+Where a proper separation of duties is in place, a person who prepares a check should not be 
+permitted to handle the check after it has been signed. Nevertheless, this is exactly what 
+happens in most altered payee schemes. The person who prepares the check knows that the 
+maker of the check will return it to him after it has been signed. 
+ 
+Altering Checks Prepared by the Fraudster: Blank Checks 
+The most egregious example of poor controls in the handling of signed checks is one in 
+which the perpetrator prepares a check, leaves the payee designation blank, and submits it to an 
+authorized maker who signs the check and returns it to the employee. Obviously, this makes 
+it quite easy for the perpetrator to designate himself or an accomplice as the payee. Common 
+sense should prevent anyone from giving a signed, blank check to another person. 
+Nevertheless, this is a fairly common occurrence, especially when the perpetrator is a trusted 
+long-time employee.  
+ 
+Converting Altered Checks 
+As with all other types of fraudulent checks, conversion is accomplished by endorsing the 
+checks in the name of the payee. Conversion of fraudulent checks has already been discussed 
+in previous sections and will not be re-examined here.  
+ 
+Authorized Maker Schemes  
+The final check tampering scheme, the authorized maker scheme, may be the most difficult 
+to defend against. An authorized maker scheme occurs when an employee with signature 
+authority on a company account writes fraudulent checks for his own benefit and signs his 
+own name as the maker. (See “Authorized Maker Schemes” flowchart.) The perpetrator in 
+these schemes can write and sign fraudulent checks himself. He does not have to alter a pre-
+ prepared instrument or forge the maker’s signature.  
+ 
+Overriding Controls Through Intimidation 
+When a person is authorized to sign company checks, preparing the checks is easy. The 
+employee simply writes and signs the instruments the same way he would with any legitimate 
+check. In most situations, check signers are owners, officers, or otherwise high-ranking 
+employees, and thus have or can obtain access to all the blank checks they need. Even if 
+company policy prohibits check signers from handling blank checks, the perpetrator can 
+normally use his influence to overcome this impediment. What employee is going to tell the 
+CEO that he can’t have a blank check?   
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.524                         2011 Fraud Examiners Manual  
+The most basic way an employee accomplishes an authorized maker scheme is to override 
+controls designed to prevent fraud. Most authorized signatories have high levels of influence 
+within their companies. The perpetrators use this influence to deflect questions about 
+fraudulent transactions.  
+ 
+A common authorized maker scheme is one in which a majority owner or sole shareholder 
+uses his company as a sort of alter ego, paying personal expenses directly out of company 
+accounts. Instead of paying personal expenses, the perpetrator might cut checks directly to 
+himself, his friends, or family. Using fear of job security as a weapon, the owner can 
+maintain a work environment in which employees are afraid to question these transactions.  
+ 
+High-level managers or officers might also use their authority to override controls in 
+companies with absent or inattentive ownership. Intimidation can play a large part in the 
+commission and concealment of types of occupational fraud involving powerful individuals.  
+ 
+EXAMPLE 
+The manager of a sales office stole approximately $150,000 from his employers over a two-
+ year period. This manager had primary check-signing authority and abused this power by 
+writing company checks to pay his personal expenses. The manager’s fraudulent activities 
+were well known by certain members of his staff, but these employees’ careers were controlled 
+by the perpetrator. Fear of losing their jobs combined with lack of a proper whistleblowing 
+structure prevented the manager’s employees from reporting his fraud.  
+ 
+Poor Controls 
+Although overriding controls is the most blatant way to execute an authorized maker 
+scheme, it is not the most common. Far more of these schemes occur because no one is 
+paying attention to the accounts and few controls are present to prevent fraud. Some 
+employees who write checks to themselves or to purchase items for themselves simply code 
+the checks to expense accounts that they know are not likely to be reviewed.  
+ 
+The failure to closely monitor accounts is supplemented by lack of internal controls, 
+specifically the absence of separation of duties in the cash disbursements process. 
+Employees who commit authorized maker fraud are often in charge of reconciling the bank 
+accounts of the business. This is especially common in small businesses. Employees with 
+total control over the disbursements process are in a perfect position to write fraudulent 
+checks for their own benefit.  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.525 
+ 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.526                         2011 Fraud Examiners Manual  
+EXAMPLE 
+The bookkeeper of a medium-sized company was charged with paying all bills and 
+preparing the company payroll. She had access to an automatic check signer and total 
+control over company bank accounts. The bookkeeper wrote extra checks to herself, coded 
+the expenditures to payroll, and destroyed the ca nceled checks when they were returned with 
+the bank statement.  
+ 
+Concealing Check Tampering Schemes  
+Most check tampering schemes do not consist of a single occurrence but instead continue 
+over a period of time. Therefore, concealing the fraud is arguably the most important aspect 
+of the scheme. If an employee intended to steal a large sum of money and escape to South 
+America, hiding the fraud might not be so important. But the vast majority of occupational 
+fraudsters remain employees of their companies as they continue to steal from them, which 
+makes concealment the key to the crime.  
+ 
+Concealment of the fraud means not only hiding the identity of the criminal, but in most 
+cases hiding the fact that a fraud has even occurred. The most successful frauds are those in 
+which the victim organization is unaware that it is being robbed. Obviously, once a business 
+learns that it is being victimized it will take steps to staunch its bleeding and the end of the 
+scheme will be at hand.  
+ 
+Check tampering schemes can present especially tricky concealment problems for dishonest 
+employees. In other types of fraudulent disbursements such as invoice or payroll schemes, 
+the fraudulent payment is entered in the books as a legitimate transaction by someone other 
+than the perpetrator. The payments in those schemes are generated by the production of 
+false documents that cause accounts payable personnel to think that money is owed to a 
+particular person or vendor. When accounts payable issues a disbursement for a bogus 
+invoice, it does so because it believes the invoice to be genuine. The payment is then entered 
+in the books as a legitimate payment. In other words, the perpetrator generally does not have 
+to worry about concealing the payment in the books, because someone else unwittingly does 
+it for him. But in forgery and authorized maker schemes the perpetrator is the one writing 
+the check, and he is usually the one coding the check in the disbursements journal. He must 
+“explain” the check on the books.  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.527 
+Forged endorsement schemes and altered payee schemes are different because they involve 
+the alteration of checks that were already prepared and coded by someone else. 
+Nevertheless, they create a problem for the perpetrator because the intercepted check was 
+intended for a legitimate recipient. Someone is out there waiting for the check that the 
+perpetrator has taken. The culprit in these schemes must worry not only about hiding the 
+fraud from his employer, but also about appeasing the intended payee.  
+ 
+The Fraudster Reconciling the Bank Statement 
+A large percentage of those who perpetrate check tampering frauds are involved in 
+reconciling the company’s bank statement. The bank statement that a company receives 
+normally includes the canceled checks that have been cashed in the preceding period. A 
+person who reconciles the accounts is therefore in a position to hide the existence of any 
+fraudulent checks he has written to himself. He can remove the fraudulent checks or doctor 
+the bank statement or both. 
+ 
+In forged maker and authorized maker schemes, the perpetrator usually has to code the 
+check in the disbursements journal. The most basic way to hide the check is to code it as 
+“void” or to include no listing at all in the journal. Then, when the bank statement arrives, 
+the perpetrator removes the fraudulent check from the stack of returned checks and destroys 
+it. Now there is no record of the payment in the journal and no physical evidence of the 
+check on hand. Of course, the bank will have  a copy of the check, but unless someone 
+questions the missing check it is unlikely that the company will discover the problem. And 
+since the perpetrator is the one who reconciles the account, it is unlikely that anyone will 
+even notice that the check is missing.  
+ 
+The problem with simply omitting the fraudulent check from the disbursements journal is 
+that the bank balance will not reconcile to the book balance. For instance, if the perpetrator 
+wrote a $25,000 check to himself and did not record it, then the book balance will be 
+$25,000 higher than the bank balance ($25,000  was taken out of the bank account by the 
+perpetrator, but was not credited out of the company’s cash account). Employees usually 
+omit their illicit checks from the disbursement journal only in situations where they 
+personally reconcile the bank statement and no one reviews their work. This allows the 
+perpetrator to “force” the reconciliation. In ot her words, the perpetrator reports that the 
+bank balance and book balance match, when in fact they do not.  
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.528                         2011 Fraud Examiners Manual  
+Some victim organizations simply do not regularly reconcile their accounts. This makes it 
+easy for employees to write checks without recording them. In a system where controls are 
+so lax, almost any concealment method will be effective to disguise fraud. In fact, it may not 
+be necessary to make any effort at all to conceal the crime.  
+ 
+Some fraudsters physically alter the bank statement to cause it to match the company’s book 
+balance. For instance, a person engaging in a forged maker scheme may decide to steal blank 
+checks from the back of the checkbook. These checks are out of sequence and therefore will 
+be listed last on the bank statement. This employee can delete the clump of fraudulent 
+checks at the end of the statement and alter the balance to match the victim company’s 
+books.  
+ 
+Re-Alteration of Checks 
+In altered payee schemes, remember that it is common for the perpetrator to take a check 
+intended for a legitimate recipient, then doctor the instrument so that the perpetrator 
+becomes the designated payee. But a canceled check payable to an employee will obviously 
+raise suspicions of fraud. Therefore, some employees re-alter their fraudulent checks when 
+the bank statement arrives. It has already been discussed how employees can alter checks by 
+writing the payee’s name in erasable ink when the check is prepared. These employees obtain 
+a signature for the check, then erase the true payee’s name and insert their own. When the 
+fraudulent checks return with the bank statement, the employee erases his own name and re-
+ enters the name of the proper payee. Thus there will be no appearance of mischief.  
+ 
+Miscoding Fraudulent Checks 
+Rather than omit a fraudulent check from the disbursements journal or list it as void, the 
+perpetrator might write a check payable to himself but list a different person as the payee on 
+the books. Usually, the fake payee is a regular vendor - a person or business that receives 
+numerous checks from the victim company. Employees tend to pick known vendors for 
+these schemes because one extra disbursement to a regular payee is less likely to be noticed 
+than a check to an unknown person. 
+ 
+The fraudster can also conceal a fraudulent check overstating the amounts of legitimate  
+disbursements in the journal in order to absorb the cost of a fraudulent check. For instance, 
+assume that a company owes $10,000 to a part icular vendor. The fraudster would write a 
+check to the vendor for $10,000, but enter the check in the disbursements journal as a 
+$15,000 payment. The company’s disbursements are now overstated by $5,000. The 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.529 
+fraudster can write a $5,000 check to himself and list that check as void in the disbursements 
+journal. The bank balance and the book balance will still match, because the cost of the 
+fraudulent check was absorbed when the amount of the legitimate check was overstated. Of 
+course, the fact that the canceled checks do not match the entries in the journal should 
+indicate potential fraud. This type of concealment is really only effective when the bank 
+accounts are not closely monitored or where the employee is in charge of reconciling the 
+accounts.  
+ 
+If possible, employees will try to code their fraudulent checks to existing accounts that are 
+rarely reviewed or to accounts that are very active. Most of these checks are coded to 
+expense accounts or liability accounts. This particular method can be very effective in 
+concealing fraud, particularly when the victim company is not diligent in reconciling its bank 
+accounts. For instance, some organizations reconcile their accounts by cross-referencing 
+check numbers with the amounts of the checks, but they do not verify that the payee on the 
+actual check matches the payee listed in the disbursements journal. These organizations will 
+be unable to detect checks that have been coded to the wrong payee in the disbursements 
+journal.  
+ 
+Re-Issuing Intercepted Checks 
+In intercepted check schemes, the employee faces detection not only through his employer’s 
+normal control procedures, but also from the intended recipients of the stolen checks. When 
+the real payees do not receive their checks, they are likely to complain. These complaints, in 
+turn, could trigger a fraud investigation. One way for an employee to avoid this problem is 
+to issue new checks to the intended payees.  
+ 
+EXAMPLE 
+An accounts payable troubleshooter was in char ge of auditing payments to all suppliers, 
+reviewing supporting documents, and mailing checks. Every once in a while, she would 
+purposely fail to mail a check to a vendor. The vendor, of course, would call accounts 
+payable about the late payment and would be told that his invoice had been paid on a 
+certain date. Since accounts payable did not have a copy of the canceled check (because the 
+fraudster was still holding it), they would call the troubleshooter to research the problem. 
+Unfortunately for the company, the troubleshooter was the one who had stolen the check. 
+She would tell accounts payable to issue another check to the vendor while she stopped 
+payment on the first check. Thus the vendor received his payment. Meanwhile, instead of 
+stopping payment on the first check, the troubleshooter deposited it into her own account. 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.530                         2011 Fraud Examiners Manual  
+Bogus Supporting Documents 
+While some perpetrators attempt to wipe out all traces of their fraudulent disbursements by 
+destroying the checks, forcing the bank reconciliation and so on, others opt to justify their 
+checks by manufacturing fake support for them. These persons prepare false payment 
+vouchers, including false invoices, purchase orders, and/or receiving reports to create an 
+appearance of authenticity. This concealment strategy is only practical when the employee 
+writes checks payable to someone other than himself (such as an accomplice or a shell 
+company). A check made payable to an employee may raise suspicions regardless of any 
+supporting documents that he manufactures. 
+ 
+Detection of Check Tampering Schemes 
+Account Analysis Through Cut-Off Statements 
+Bank cut-off statements should be requested for 10 to 15 days after the closing date of the 
+balance sheet. These statements may be used to detect cash fraud during periods between 
+monthly bank statements. Cut-off statements are often used by auditors to ensure that 
+income and expenses are reported in the proper period. If employees know that at any time 
+during the month a cut-off statement may be ordered and reviewed independently, cash 
+fraud will be less likely. 
+ 
+A cut-off statement is generally ordered from the bank, delivered unopened to the auditor 
+(or outsider), and reconciled. It can be ordered at any time during the accounting cycle. If 
+cut-off bank statements are not ordered or received, obtain the following period bank 
+statement and perform account analysis and investigation. 
+ 
+Bank Reconciliations 
+Copies of the bank reconciliations and account analysis should be obtained along with the 
+complete set of bank statements on all checking and savings accounts, as well as certificates 
+of deposit and other interest bearing and non-interest bearing accounts. From the 
+reconciliations, perform the following tests: 
+• Confirm the mathematical accuracy of the reconciliation. 
+• Examine the bank statement for possible alterations. 
+• Trace the balance on the statement back to the bank cut-off and bank confirmation 
+statements. 
+• Foot the balance to the company’s ledger. 
+                                                          
+2 George Georgiades, Audit Procedures  (New York: Harcourt Brace Professional Publishing, 1995). 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.531 
+• Trace the deposits in transit to the bank cut-off statement to ensure recording in  
+proper period. 
+• Examine canceled checks and compare to the list of outstanding checks. 
+• Sample supporting documentation of checks written for a material amount. 
+• Verify supporting documentation on outstanding checks written for a material amount. 
+• Verify accuracy of nonoperational-cash or ca sh-equivalent accounts (CDs and other 
+investment accounts). Analysis should include the verification of the institution holding 
+the funds, interest rate, maturity date, beginning and ending balances, and current period 
+activity. Book and bank balances should be compared and any accruals of interest 
+analyzed.3 
+ 
+Bank Confirmation  
+Another method related to the cut-off statement is the bank confirmation request. Unlike 
+the cut-off statement, this detection method is merely a report of the balance in the account 
+as of the date requested. This balance should be requested to confirm the statement balance 
+as well as any other necessary balance date. If fraud is occurring at the bank reconciliation 
+stage, this independent confirmation may prove to be very helpful. 
+ 
+Check-Tampering Red Flags 
+The following irregularities may indicate fraud:  
+• Voided checks may indicate employees have embezzled cash and charged the 
+embezzlement to expense accounts. When the expense is paid (from accounts payable), 
+fraudulent checks are marked and entered as void and removed from distribution points. 
+An account-balancing journal entry is then made. The list of voided checks should be 
+verified against physical copies of the checks. Bank statements should be reviewed to 
+ensure that voided checks have not been processed. 
+• Missing checks may indicate lax control over the physical safekeeping of checks. Stop 
+payments should be issued for all missing checks. 
+• Checks payable to employees, with the exception of regular payroll checks, should be 
+closely scrutinized. Such an examination may indicate other schemes such as conflicts of 
+interest, fictitious vendors, or duplicate expense reimbursements. 
+• Altered endorsements or dual endorsements of returned checks may indicate possible 
+tampering.  
+  
+                                                          
+3 Id. 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.532                         2011 Fraud Examiners Manual  
+• Returned checks with obviously forged or questionable signature endorsements should 
+be verified with original payee.  
+• Altered payees on returned checks should be verified with intended payee. 
+• Duplicate or counterfeit checks indicate fraud. These checks may be traceable to 
+depositor through bank check coding.  
+• Questionable deposit dates should be matched to the corresponding customer accounts. 
+• An examination of all cash advances may reveal that not all advances are properly 
+documented and, therefore, inappropriate payments have been made to employees. 
+• Customer complaints regarding payments not being applied to their accounts should be 
+investigated. 
+• A questionable payee or payee address on a check should trigger review of the 
+corresponding check and support documentation. 
+ 
+Prevention of Check Tampering Schemes  
+Check Disbursement Controls 
+The following list of activities will help tighten controls and possibly deter employees from 
+giving in to the temptation to commit check fraud. 
+• Check “cutting” and preparation is not done by a signatory on the account.  
+• Checks are mailed immediately after signing. 
+• Theft control procedures are adhered to (see below). 
+• Accounts payable records and addresses are secure from possible tampering. Changes in 
+vendor information should be verified. 
+• Bank statements should be reviewed diligently ensuring that amounts and signatures 
+have not been altered. 
+• Bank reconciliations should be completed immediately after monthly statements are 
+received. The Uniform Commercial Code states that discrepancies must be presented 
+within 30 days from the bank statement in order to hold the bank liable.  
+• Bank reconciliations are not made by signatories on the account.  
+• Bank statements should be reconciled and reviewed by more than one person.  
+• Appropriate separation of duties should be documented and adhered to. 
+• Detailed comparisons are routinely made between check payees and the payees listed in 
+the cash disbursement journal. 
+• Personnel responsible for handling and coding checks are periodically rotated, keeping 
+total personnel involved to a minimum. 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.533 
+Bank-Assisted Controls 
+Companies should work in a cooperative effort with banks to prevent check fraud. Consider 
+the following control measures that may be taken in regard to a firm’s checking accounts.  
+• Establish maximum dollar amounts above which the company’s bank will not accept 
+checks drawn against the account. 
+• Use positive pay banking controls. Positive pay allows a company and its bank to work 
+together to detect fraudulent items presented for payment. The company provides the 
+bank with a list of checks and amounts that are written each day. The bank verifies items 
+presented for payment against the company’s lis t. The bank rejects items that are not on 
+the list. Investigations are conducted as to the origin of “nonlist” items. 
+ 
+Physical Tampering Prevention 
+The following list details check-tampering prevention techniques that are being used today, 
+by some institutions, to secure businesses’ check integrity. These methods can be used 
+individually or in combination.  
+• Signature line void safety band — The word VOID appears on the check when 
+photocopied. 
+• Rainbow foil bar — A horizontal colored bar placed on the check fades and is shaded 
+from one bar to the next. Photocopied foil bars appear solid. 
+• Holographic safety border — Holographic images are created in a way that reflect light to 
+reveal a three-dimensional graphic. 
+• Embossed pearlescent numbering—Checks are numbered using a technique that is 
+revealed by a colored highlighter pen or by a bright light held behind the check. 
+• Other chemical voids—Checks reveal an image or the word VOID when treated with an 
+eradicator chemical. 
+• Micro line printing — Extremely small print is too small to read with the naked eye and 
+becomes distorted when photocopied. 
+• High resolution microprinting—Images are produced on the check in high resolution, 
+2,400 dots per inch or higher. This technique is very difficult to reproduce. 
+• Security inks—Checks contain inks that react with eradication chemicals, reducing a 
+forger’s ability to modify the check. 
+• Chrome coloring — The use of chrome-like coloring deters photocopying even with 
+color copiers. The chrome pattern or numbering develops solid black. 
+• Watermark backers — Hidden images can only be  seen when the check is held at an 
+angle. This image is very difficult to reproduce. 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.534                         2011 Fraud Examiners Manual  
+• Ultraviolet ink — This ink displays an image or message when held under ultraviolet 
+lighting. 
+ 
+Check Theft Control Procedures 
+It is very important to provide internal controls that will minimize the possibility of check 
+tampering and theft. Below is a list of items that should be incorporated into companies’ 
+policies and procedures to help deter check tampering.  
+• New checks should be purchased from reputable, well-established check producers. 
+• Unused checks should be stored in a secure area such as a safe, vault, or other locked 
+area. Security to this area should be restricted to authorized personnel only. Routinely 
+change keys and access codes to storage areas. 
+• Review all hiring procedures. One of the most  important means of fighting fraud is to 
+not hire people with questionable backgrounds. Develop a distinct separation of duties 
+in the accounts payable department, including written policies and procedures for all 
+personnel who have the opportunity to handle checks, from mailroom clerks to the 
+CEO.  
+• Use electronic payment services to handle large vendor and financing payments, 
+eliminating the use of paper checks. 
+• Report lost or stolen checks immediately. 
+• Properly and securely store canceled checks. 
+• Destroy unused checks for accounts that have been closed.  
+• Printed and signed checks should be mailed immediately after signing. 
+ 
+ 
+
+
+
+:
+
+
+check tamper
+check tamper is uniqu among the fraudul disburs scheme becaus it is the on
+group in which the perpetr physic prepar the fraudul check in most fraudul
+disburs scheme the culprit gener a payment to himself by submit some fals
+document to the victim organ such as an invoic or a timecard the fals document
+repres a claim for payment and caus the victim organ to issu a check that the
+perpetr can convert
+check tamper scheme ar fundament differ in these scheme the perpetr
+take physic control of a check and make it payabl to himself through on of sever
+method check tamper fraud depend upon factor such as access to the compani
+checkbook access to bank statement and the abil to forg signatur or alter other
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1511
+inform on the face of the check most check tamper crime fall into on of four
+categori forg maker scheme forg endors scheme alter paye scheme and
+author maker scheme
+forg maker scheme
+the legal definit of forgeri includ not onli the sign of anoth person name to a
+document such as a check with a fraudul intent but also the fraudul alter of a
+genuin instrument thi definit is so broad that it would encompass all check tamper
+scheme for the purpos of thi text the definit of forgeri ha been narrow to fit the
+fraud examin need in order to properli distinguish the variou method us by
+individu to tamper with check the concept of forgeri will be limit to those case in
+which an individu sign anoth person name on a check
+the person who sign a check is known as the maker of the check a forg maker
+scheme then mai be defin as a check tamper scheme in which an employe
+misappropri a check and fraudul affix the signatur of an author maker
+thereon see forg maker scheme flowchart fraud that involv other type of check
+tamper such as the alter of the paye or the chang of the dollar amount ar
+classifi separ
+in order to forg a check an employe must have access to a blank check he must be abl
+to produc a convinc forgeri of an author signatur and he must be abl to conceal
+hi crime conceal is a univers problem in check tamper scheme the method
+us ar basic the same whether on is deal with a forg maker scheme an
+intercept check scheme a conceal check scheme or an author maker scheme
+therefor conceal issu will be discuss as a group later in thi section
+obtain the check
+employe with access to compani check
+on cannot forg a compani check unless on first possess a compani check most
+forgeri scheme ar commit by account payabl clerk offic manag bookkeep or
+other employe whose duti typic includ the prepar of compani check these
+ar peopl who have access to the compani checkbook on a regular basi and ar therefor
+in the best posit to steal blank check
+1 henri campbel black black law dictionari fifth edit st paul west publish co 1979 p 585
+asset misappropri fraudul disburs financi transact
+1512 2011 fraud examin manual
+employe lack access to compani check
+if the perpetr doe not have access to the compani checkbook through hi work duti
+he will have to find other mean of misappropri a check the wai a person steal a
+check depend larg on how the checkbook is handl within a particular compani in
+some circumst the checkbook is poorli guard left in unattend area where anyon
+can get to it in other compani where blank check ar kept in a restrict area the
+perpetr might have surreptiti obtain a kei or combin to thi area an
+accomplic might provid blank check for the perpetr in return for a portion of the
+stolen fund perhap a secretari see the checkbook left on a manag desk or a custodian
+come across blank check in an unlock desk drawer
+in some compani check ar comput gener when thi is the case an employe who
+know the password for prepar and issu check can usual obtain as mani unsign
+check as he desir there ar an unlimit number of wai to steal a check each
+depend on the wai in which a particular compani guard it blank check in some
+instanc employe go so far as to produc counterfeit check
+exampl
+an employe had an accomplic who work for a checkprint compani the accomplic
+wa abl to print blank check with the account number of the perpetr compani the
+perpetr then wrote over 100000 worth of forgeri on these counterfeit check
+to whom is the check made payabl
+to the perpetr
+onc a blank check ha been obtain the perpetr must decid to whom it should be
+made payabl in most instanc forg check ar made payabl to the perpetr himself
+so that thei can be easili convert cancel check that ar payabl to an employe should
+be close scrutin for the possibl of fraud
+if the perpetr own hi own busi or ha establish a shell compani he will usual
+write fraudul check to these entiti rather than himself these check ar not as
+obvious fraudul on their face as check made payabl to an employe at the same
+time these check ar easi to convert becaus the perpetr own the entiti to which the
+check ar payabl
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1513
+asset misappropri fraudul disburs financi transact
+1514 2011 fraud examin manual
+to an accomplic
+if a fraudster is work with an accomplic he can make the forg check payabl to that
+person the accomplic then cash the check and split the monei with the employeefraudst
+becaus the check is payabl to the accomplic in hi true ident it is easili
+convert an addit benefit to us an accomplic is that a cancel check payabl to a
+thirdparti accomplic is not as like to rais suspicion as a cancel check to an employe
+the obviou drawback to us an accomplic in a scheme is that the employeefraudst
+usual ha to share the proce of the scheme
+to cash
+the perpetr mai also write check payabl to cash in order to avoid list himself as
+the paye check made payabl to cash howev must still be endors the perpetr
+will have to sign hi own name or forg the name of anoth in order to convert the check
+check payabl to cash ar usual view more skeptic than check payabl to person
+or busi some institut mai refus to cash check made payabl to cash
+to vendor
+not all fraudster forg compani check to obtain cash some employe us forg maker
+scheme to purchas good or servic for their own benefit these fraudul check ar
+made payabl to thirdparti vendor who ar uninvolv in the fraud for instanc an
+employe might forg a compani check to bui a comput for hi home the comput
+vendor is not involv in the fraud at all furthermor if the victim organ regularli
+doe busi with thi vendor the person who reconcil the compani account mai
+assum that the check wa us for a legitim busi expens
+forg the signatur
+after the employe ha obtain and prepar a blank check he must forg an author
+signatur in order to convert the check the most obviou method and the on that come
+to mind when on think of the word forgeri is to simpli take pen in hand and sign the
+name of an author maker
+freehand forgeri
+the difficulti a fraudster encount when physic sign the author maker name is
+in creat a reason approxim of the true signatur if the forgeri appear authent
+the perpetr will probabl have no problem cash the check in truth the forg
+signatur mai not have to be particularli accur mani fraudster cash forg check at
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1515
+liquor store groceri store or other institut that ar known to be less than dilig in
+verifi signatur and identif nevertheless a poorli forg signatur is a clear red
+flag of fraud the maker signatur on can cele check should be review for forgeri
+dure the reconcili process
+photocopi forgeri
+to guarante an accur forgeri some employe make photocopi of legitim
+signatur the signatur of an author signer is copi from some document such as a
+busi letter onto a transpar then the transpar is laid over a blank check so that
+the signatur copi onto the maker line of the check the result is a check with a perfect
+signatur of an author maker
+automat checksign instrument
+compani that issu a larg number of check sometim util automat checksign
+instrument autom signatur ar either produc with manual instrument like
+signatur stamp or thei ar print by comput obvious an employe who ha access to
+an automat checksign instrument will have no troubl forg the signatur of
+author maker even the most rudimentari control procedur should sever limit
+access to these instrument
+exampl
+a fiscal offic maintain a set of manual check that were unknown to other person in
+the compani the compani us an autom check signer and the custodian of the signer
+let the offic have uncontrol access to it us the manual check and the compani
+check signer the fiscal offic wa abl to write over 90000 worth of fraudul check to
+himself over a period of approxim four year
+the same principl appli to computergener signatur access to the password or
+program that print sign check should be restrict specif exclud those who
+prepar check and those who reconcil the bank statement
+convert the check
+in order to convert the forg check the perpetr must endors it the endors is
+typic made in the name of the paye on the check sinc identif is typic
+requir when on seek to convert a check the perpetr usual need fake identif
+if he forg check to real or fictiti third person as discuss earlier check payabl to
+asset misappropri fraudul disburs financi transact
+1516 2011 fraud examin manual
+cash requir the endors of the person convert them without a fake id the
+perpetr will like have to endors these check in hi own name an employe
+endors on a cancel check is obvious a red flag
+forg endors scheme
+forg endors ar those check tamper scheme in which an employe intercept a
+compani check intend to pai a third parti and convert the check by endors it in the
+thirdparti name in some case the employe also sign hi own name as a second
+endors see forg endors scheme flowchart
+a fraudster main dilemma in a forg endors scheme and in all intercept check
+scheme for that matter is gain access to a check after it ha been sign the fraudster
+must either steal the check between the point where it is sign and the point where it is
+deliv or he must rerout the check caus it to be deliv to a locat where he can
+retriev it the manner us to steal a check depend larg upon the wai the compani
+handl outgo disburs anyon who is allow to handl sign check mai be in
+a good posit to intercept them
+intercept check befor deliveri
+employe involv in deliveri of check
+obvious the employe in the best posit to intercept sign check ar those whose
+duti includ the handl and deliveri of sign check the most obviou exampl is a
+mailroom employe who open outgo mail contain sign check and steal the
+check other personnel with access to outgo check might includ account payabl
+employe payrol clerk and secretari
+poor control of sign check
+unfortun employe ar often abl to intercept sign check becaus of poor intern
+control for instanc mani employe simpli find sign check left unattend in the
+work area of the person who sign them or the person charg with their deliveri in
+these case it is easi for the perpetr to steal the check anoth common breakdown
+occur when the person who prepar a check is also involv in the deliveri of that check
+onc it ha been sign
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1517
+asset misappropri fraudul disburs financi transact
+1518 2011 fraud examin manual
+exampl
+a highlevel manag with author to disburs employe benefit instruct account
+payabl personnel to return sign benefit check to him instead of immedi deliv
+them to their intend recipi these instruct were not question due to the
+manag level of author within the compani the perpetr simpli took the check
+that were return to him and deposit them into hi person bank account forg the
+endors of the intend paye
+in addit to the preced exampl secretari or clerk who prepar check for their
+boss to sign ar often respons for mail those check it is veri simpl for those
+employe to make out a fraudul check and obtain a signatur know that the boss will
+give the sign check right back to them thi scheme is indic of the kei problem with
+occup fraud trust in order for an offic to run effici highlevel employe must
+be abl to reli on their subordin yet thi relianc is precis what put subordin in a
+posit to defraud their employ
+theft of return check
+check that have been mail and ar later return to the victim for some reason such as
+an incorrect address ar often target for theft by fraudster employe with access to
+incom mail ar abl to intercept these return check and convert them by forg the
+endors of the intend paye
+exampl
+a manag took and convert approxim 130000 worth of check that were
+return due to noncurr address he also stole outgo check cash them and then
+declar them lost the fraudster wa well known at hi bank and wa abl to convert the
+check by claim that he wa do it as a favor to the real paye who were too busi to
+come to the bank the fraudster wa abl to continu with hi scheme becaus the natur
+of hi compani busi wa such that the recipi of the misdeliv check were often
+not awar that the victim compani ow them monei therefor thei did not complain
+when their check fail to arriv in addit the perpetr had complet control over the
+bank reconcili so he could issu new check to those paye who did complain then
+forc the reconcili make it appear that the bank balanc and book balanc
+match when in fact thei did not
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1519
+rerout the deliveri of check
+employe mai also misappropri sign check by alter the address to which those
+check ar mail these perpetr usual replac the legitim address of the paye with
+an address where the employe can retriev the check such as the employe home or a
+po box the employe control in other instanc the perpetr might purpos
+misaddress a check so that it will be return as undeliver the employe steal the check
+after it is return to the victim organ
+obvious proper separ of duti should preclud anyon who prepar disburs
+from be involv in their deliveri nevertheless the person who prepar a check is often
+allow to address and mail it as well in some instanc where proper control ar in place
+employe ar still abl to caus the misdeliveri of check
+exampl
+a clerk in the custom servic depart of a mortgag compani wa in charg of
+chang the mail address of properti ow ner she wa assign a password that gave
+her access to make these chang the clerk wa transfer to a new depart where on
+of her duti wa the issuanc of check to properti owner unfortun her supervisor
+forgot to cancel her old password when the clerk realiz thi oversight she would request
+a check for a certain properti owner then sign onto the system with her old password and
+chang the address of that properti owner the check would be sent to her the next dai
+the employe would us her old password to reenter the system and replac the proper
+address so that there would be no record of where the check h ad been sent thi fraudster
+scheme result in a loss of over 250000 to the victim compani
+convert the stolen check
+onc a check ha been intercept the perpetr can cash it by forg the paye
+signatur henc the term forg endors scheme depend on where he tri to cash the
+check the perpetr mai or mai not need fake identif at thi stage if a perpetr
+is requir to produc identif in order to cash hi stolen check and if he doe not
+have a fake id in the paye name he mai us a dual endors to cash or deposit the
+check in other word the perpetr forg the paye signatur as though the paye had
+transfer the check to him then the perpetr endors the check in hi own name and
+convert it when the bank statement is reconcil dual endors on check should
+alwai rais suspicion particularli when the second signer is an employe of the compani
+asset misappropri fraudul disburs financi transact
+1520 2011 fraud examin manual
+alter paye scheme
+the second type of intercept check scheme is the alter paye scheme thi is a form of
+check tamper in which an employe intercept a compani check intend for a third
+parti and alter the paye design so that the check can be convert by the employe or
+an accomplic see alter paye scheme flowchart the employe insert hi own
+name the name of an accomplic or the name of a fictiti entiti on the paye line of the
+check the alter essenti make the check payabl to the employe or an
+accomplic so there is no need to forg an endors and no need to obtain fals
+identif
+alter check prepar by other insert a new paye
+the method us to alter the paye design on a check depend larg on how that
+check is prepar and intercept incident the amount of the check mai also be alter
+at the same time and by the same method as the paye design check prepar by
+other can be intercept by ani of the method discuss in the forg endors
+section abov when the perpetr intercept a check that ha been prepar by someon
+els there ar basic two method that mai be emploi to chang the paye the first is
+to insert the fals paye name in place of the true paye the true name might be
+scratch out with a pen or cover up with whiteout anoth name is then enter on the
+paye design line these kind of alter ar usual simpl to detect
+a more sophist method occur when the perpetr of the fraud enter the account
+payabl system and chang the name of paye befor check ar gener thi can be
+accomplish by anyon with a password that permit access to the account payabl
+address file
+exampl
+an account payabl employe wa so trust that her manag allow her to us hi
+comput password in hi absenc the password permit access to the account payabl
+address file thi employe wait until the manag wa absent then select a legitim
+vendor with whom her compani did a lot of busi she held up the vendor invoic for
+the dai and after work us the manag login code to chang the vendor name and
+address to that of a fictiti compani the new name and address were run through the
+account payabl cycl with an old invoic number caus a fraudul check to be issu
+the victim compani had an autom duplic invoic test but the perpetr
+circumv it substitut 1 for i and 0 zero for capit o the next dai
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1521
+asset misappropri fraudul disburs financi transact
+1522 2011 fraud examin manual
+the employe would replac the true vendor name and address and mutil the check
+regist so that the check payabl to the fi ctitiou vendor wa conceal approxim
+300000 in fals check wa issu us thi method
+alter check prepar by other tack on
+the other method that can be us by perpetr to alter check prepar by other is
+tack on addit letter or word to the end of the real paye design for
+instanc check payabl to abc compani might be alter to read ab collin the
+employe then cash the check in the name of ab collin it sound like an odd scheme
+but it realli happen in these case the simpl inclus of a filler line after the paye
+design would prevent the loss
+in addit to alter the paye design the amount of the check can be alter by
+tack on extra number if the person prepar the check is careless and leav space for
+extra number in the amount portion of the check
+alter check prepar by the fraudster eras ink
+when the perpetr prepar the check that is to be alter the scheme tend to be a bit
+more sophist the reason for thi is obviou if the perpetr is abl to prepar the
+check himself he can prepar it with the thought of how the paye design will be
+chang on of the most common wai to prepar a check for alter is to write or type
+the paye name and possibl the amount in eras ink after an author maker sign
+the check the perpetr retriev the check eras the paye name and insert hi own
+in some case employe even obtain signatur on check written in pencil
+exampl
+a bookkeep type out small check to a local supplier and had the owner of the compani
+sign them the bookkeep then us her eras typewrit to lift the paye design and
+amount from the check she enter her own name as the paye and rais the amount
+precipit for instanc the owner might si gn a 10 check that later becam a 10000
+check these check were enter in the disburs journal as payment for aggreg
+inventori to the compani largest supplier who receiv sever larg check each month
+the bookkeep stole over 300000 fr om her employ in thi scheme
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1523
+where a proper separ of duti is in place a person who prepar a check should not be
+permit to handl the check after it ha been sign nevertheless thi is exactli what
+happen in most alter paye scheme the person who prepar the check know that the
+maker of the check will return it to him after it ha been sign
+alter check prepar by the fraudster blank check
+the most egregi exampl of poor control in the handl of sign check is on in
+which the perpetr prepar a check leav the paye design blank and submit it to an
+author maker who sign the check and return it to the employe obvious thi make
+it quit easi for the perpetr to design himself or an accomplic as the paye common
+sens should prevent anyon from give a sign blank check to anoth person
+nevertheless thi is a fairli common occurr especi when the perpetr is a trust
+longtim employe
+convert alter check
+as with all other type of fraudul check convers is accomplish by endors the
+check in the name of the paye convers of fraudul check ha alreadi been discuss
+in previou section and will not be reexamin here
+author maker scheme
+the final check tamper scheme the author maker scheme mai be the most difficult
+to defend against an author maker scheme occur when an employe with signatur
+author on a compani account write fraudul check for hi own benefit and sign hi
+own name as the maker see author maker scheme flowchart the perpetr in
+these scheme can write and sign fraudul check himself he doe not have to alter a pre
+prepar instrument or forg the maker signatur
+overrid control through intimid
+when a person is author to sign compani check prepar the check is easi the
+employe simpli write and sign the instrument the same wai he would with ani legitim
+check in most situat check signer ar owner offic or otherwis highrank
+employe and thu have or can obtain access to all the blank check thei need even if
+compani polici prohibit check signer from handl blank check the perpetr can
+normal us hi influenc to overcom thi impedi what employe is go to tell the
+ceo that he cant have a blank check
+asset misappropri fraudul disburs financi transact
+1524 2011 fraud examin manual
+the most basic wai an employe accomplish an author maker scheme is to overrid
+control design to prevent fraud most author signatori have high level of influenc
+within their compani the perpetr us thi influenc to deflect question about
+fraudul transact
+a common author maker scheme is on in which a major owner or sole sharehold
+us hi compani as a sort of alter ego pai person expens directli out of compani
+account instead of pai person expens the perpetr might cut check directli to
+himself hi friend or famili us fear of job secur as a weapon the owner can
+maintain a work environ in which employe ar afraid to question these transact
+highlevel manag or offic might also us their author to overrid control in
+compani with absent or inattent ownership intimid can plai a larg part in the
+commiss and conceal of type of occup fraud involv power individu
+exampl
+the manag of a sale offic stole approxim 150000 from hi employ over a two
+year period thi manag had primari checksign author and abus thi power by
+write compani check to pai hi person expens the manag fraudul activ
+were well known by certain member of hi staff but these employe career were control
+by the perpetr fear of lose their job combin with lack of a proper whistleblow
+structur prevent the manag employe from report hi fraud
+poor control
+although overrid control is the most blatant wai to execut an author maker
+scheme it is not the most common far more of these scheme occur becaus no on is
+pai attent to the account and few control ar present to prevent fraud some
+employe who write check to themselv or to purchas item for themselv simpli code
+the check to expens account that thei know ar not like to be review
+the failur to close monitor account is supplement by lack of intern control
+specif the absenc of separ of duti in the cash disburs process
+employe who commit author maker fraud ar often in charg of reconcil the bank
+account of the busi thi is especi common in small busi employe with
+total control over the disburs process ar in a perfect posit to write fraudul
+check for their own benefit
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1525
+asset misappropri fraudul disburs financi transact
+1526 2011 fraud examin manual
+exampl
+the bookkeep of a mediums compani wa charg with pai all bill and
+prepar the compani payrol she had access to an automat check signer and total
+control over compani bank account the bookkeep wrote extra check to herself code
+the expenditur to payrol and destroi the ca ncele check when thei were return with
+the bank statement
+conceal check tamper scheme
+most check tamper scheme do not consist of a singl occurr but instead continu
+over a period of time therefor conceal the fraud is arguabl the most import aspect
+of the scheme if an employe intend to steal a larg sum of monei and escap to south
+america hide the fraud might not be so import but the vast major of occup
+fraudster remain employe of their compani as thei continu to steal from them which
+make conceal the kei to the crime
+conceal of the fraud mean not onli hide the ident of the crimin but in most
+case hide the fact that a fraud ha even occur the most success fraud ar those in
+which the victim organ is unawar that it is be rob obvious onc a busi
+learn that it is be victim it will take step to staunch it bleed and the end of the
+scheme will be at hand
+check tamper scheme can present especi tricki conceal problem for dishonest
+employe in other type of fraudul disburs such as invoic or payrol scheme
+the fraudul payment is enter in the book as a legitim transact by someon other
+than the perpetr the payment in those scheme ar gener by the product of
+fals document that caus account payabl personnel to think that monei is ow to a
+particular person or vendor when account payabl issu a disburs for a bogu
+invoic it doe so becaus it believ the invoic to be genuin the payment is then enter
+in the book as a legitim payment in other word the perpetr gener doe not have
+to worri about conceal the payment in the book becaus someon els unwittingli doe
+it for him but in forgeri and author maker scheme the perpetr is the on write
+the check and he is usual the on code the check in the disburs journal he must
+explain the check on the book
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1527
+forg endors scheme and alter paye scheme ar differ becaus thei involv
+the alter of check that were alreadi prepar and code by someon els
+nevertheless thei creat a problem for the perpetr becaus the intercept check wa
+intend for a legitim recipi someon is out there wait for the check that the
+perpetr ha taken the culprit in these scheme must worri not onli about hide the
+fraud from hi employ but also about appeas the intend paye
+the fraudster reconcil the bank statement
+a larg percentag of those who perpetr check tamper fraud ar involv in
+reconcil the compani bank statement the bank statement that a compani receiv
+normal includ the cancel check that have been cash in the preced period a
+person who reconcil the account is therefor in a posit to hide the exist of ani
+fraudul check he ha written to himself he can remov the fraudul check or doctor
+the bank statement or both
+in forg maker and author maker scheme the perpetr usual ha to code the
+check in the disburs journal the most basic wai to hide the check is to code it as
+void or to includ no list at all in the journal then when the bank statement arriv
+the perpetr remov the fraudul check from the stack of return check and destroi
+it now there is no record of the payment in the journal and no physic evid of the
+check on hand of cours the bank will have a copi of the check but unless someon
+question the miss check it is unlik that the compani will discov the problem and
+sinc the perpetr is the on who reconcil the account it is unlik that anyon will
+even notic that the check is miss
+the problem with simpli omit the fraudul check from the disburs journal is
+that the bank balanc will not reconcil to the book balanc for instanc if the perpetr
+wrote a 25000 check to himself and did not record it then the book balanc will be
+25000 higher than the bank balanc 25000 wa taken out of the bank account by the
+perpetr but wa not credit out of the compani cash account employe usual
+omit their illicit check from the disburs journal onli in situat where thei
+person reconcil the bank statement and no on review their work thi allow the
+perpetr to forc the reconcili in ot her word the perpetr report that the
+bank balanc and book balanc match when in fact thei do not
+asset misappropri fraudul disburs financi transact
+1528 2011 fraud examin manual
+some victim organ simpli do not regularli reconcil their account thi make it
+easi for employe to write check without record them in a system where control ar
+so lax almost ani conceal method will be effect to disguis fraud in fact it mai not
+be necessari to make ani effort at all to conceal the crime
+some fraudster physic alter the bank statement to caus it to match the compani book
+balanc for instanc a person engag in a forg maker scheme mai decid to steal blank
+check from the back of the checkbook these check ar out of sequenc and therefor will
+be list last on the bank statement thi employe can delet the clump of fraudul
+check at the end of the statement and alter the balanc to match the victim compani
+book
+realter of check
+in alter paye scheme rememb that it is common for the perpetr to take a check
+intend for a legitim recipi then doctor the instrument so that the perpetr
+becom the design paye but a cancel check payabl to an employe will obvious
+rais suspicion of fraud therefor some employe realter their fraudul check when
+the bank statement arriv it ha alreadi been discuss how employe can alter check by
+write the paye name in eras ink when the check is prepar these employe obtain
+a signatur for the check then eras the true paye name and insert their own when the
+fraudul check return with the bank statement the employe eras hi own name and re
+enter the name of the proper paye thu there will be no appear of mischief
+miscod fraudul check
+rather than omit a fraudul check from the disburs journal or list it as void the
+perpetr might write a check payabl to himself but list a differ person as the paye on
+the book usual the fake paye is a regular vendor a person or busi that receiv
+numer check from the victim compani employe tend to pick known vendor for
+these scheme becaus on extra disburs to a regular paye is less like to be notic
+than a check to an unknown person
+the fraudster can also conceal a fraudul check overst the amount of legitim
+disburs in the journal in order to absorb the cost of a fraudul check for instanc
+assum that a compani ow 10000 to a part icular vendor the fraudster would write a
+check to the vendor for 10000 but enter the check in the disburs journal as a
+15000 payment the compani disburs ar now overst by 5000 the
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1529
+fraudster can write a 5000 check to himself and list that check as void in the disburs
+journal the bank balanc and the book balanc will still match becaus the cost of the
+fraudul check wa absorb when the amount of the legitim check wa overst of
+cours the fact that the cancel check do not match the entri in the journal should
+indic potenti fraud thi type of conceal is realli onli effect when the bank
+account ar not close monitor or where the employe is in charg of reconcil the
+account
+if possibl employe will try to code their fraudul check to exist account that ar
+rare review or to account that ar veri activ most of these check ar code to
+expens account or liabil account thi particular method can be veri effect in
+conceal fraud particularli when the victim compani is not dilig in reconcil it bank
+account for instanc some organ reconcil their account by crossreferenc
+check number with the amount of the check but thei do not verifi that the paye on the
+actual check match the paye list in the disburs journal these organ will
+be unabl to detect check that have been code to the wrong paye in the disburs
+journal
+reissu intercept check
+in intercept check scheme the employe face detect not onli through hi employ
+normal control procedur but also from the intend recipi of the stolen check when
+the real paye do not receiv their check thei ar like to complain these complaint in
+turn could trigger a fraud investig on wai for an employe to avoid thi problem is
+to issu new check to the intend paye
+exampl
+an account payabl troubleshoot wa in char ge of audit payment to all supplier
+review support document and mail check everi onc in a while she would
+purpos fail to mail a check to a vendor the vendor of cours would call account
+payabl about the late payment and would be told that hi invoic had been paid on a
+certain date sinc account payabl did not have a copi of the cancel check becaus the
+fraudster wa still hold it thei would call the troubleshoot to research the problem
+unfortun for the compani the troubleshoot wa the on who had stolen the check
+she would tell account payabl to issu anoth check to the vendor while she stop
+payment on the first check thu the vendor receiv hi payment meanwhil instead of
+stop payment on the first check the troubleshoot deposit it into her own account
+asset misappropri fraudul disburs financi transact
+1530 2011 fraud examin manual
+bogu support document
+while some perpetr attempt to wipe out all trace of their fraudul disburs by
+destroi the check forc the bank reconcili and so on other opt to justifi their
+check by manufactur fake support for them these person prepar fals payment
+voucher includ fals invoic purchas order andor receiv report to creat an
+appear of authent thi conceal strategi is onli practic when the employe
+write check payabl to someon other than himself such as an accomplic or a shell
+compani a check made payabl to an employe mai rais suspicion regardless of ani
+support document that he manufactur
+detect of check tamper scheme
+account analysi through cutoff statement
+bank cutoff statement should be request for 10 to 15 dai after the close date of the
+balanc sheet these statement mai be us to detect cash fraud dure period between
+monthli bank statement cutoff statement ar often us by auditor to ensur that
+incom and expens ar report in the proper period if employe know that at ani time
+dure the month a cutoff statement mai be order and review independ cash
+fraud will be less like
+a cutoff statement is gener order from the bank deliv unopen to the auditor
+or outsid and reconcil it can be order at ani time dure the account cycl if
+cutoff bank statement ar not order or receiv obtain the follow period bank
+statement and perform account analysi and investig
+bank reconcili
+copi of the bank reconcili and account analysi should be obtain along with the
+complet set of bank statement on all check and save account as well as certif
+of deposit and other interest bear and noninterest bear account from the
+reconcili perform the follow test
+confirm the mathemat accuraci of the reconcili
+examin the bank statement for possibl alter
+trace the balanc on the statement back to the bank cutoff and bank confirm
+statement
+foot the balanc to the compani ledger
+2 georg georgiad audit procedur new york harcourt brace profession publish 1995
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1531
+trace the deposit in transit to the bank cutoff statement to ensur record in
+proper period
+examin cancel check and compar to the list of outstand check
+sampl support document of check written for a materi amount
+verifi support document on outstand check written for a materi amount
+verifi accuraci of nonoperationalcash or ca shequival account cd and other
+invest account analysi should includ the verif of the institut hold
+the fund interest rate matur date begin and end balanc and current period
+activ book and bank balanc should be compar and ani accrual of interest
+analyzed3
+bank confirm
+anoth method relat to the cutoff statement is the bank confirm request unlik
+the cutoff statement thi detect method is mere a report of the balanc in the account
+as of the date request thi balanc should be request to confirm the statement balanc
+as well as ani other necessari balanc date if fraud is occur at the bank reconcili
+stage thi independ confirm mai prove to be veri help
+checktamp red flag
+the follow irregular mai indic fraud
+void check mai indic employe have embezzl cash and charg the
+embezzl to expens account when the expens is paid from account payabl
+fraudul check ar mark and enter as void and remov from distribut point
+an accountbalanc journal entri is then made the list of void check should be
+verifi against physic copi of the check bank statement should be review to
+ensur that void check have not been process
+miss check mai indic lax control over the physic safekeep of check stop
+payment should be issu for all miss check
+check payabl to employe with the except of regular payrol check should be
+close scrutin such an examin mai indic other scheme such as conflict of
+interest fictiti vendor or duplic expens reimburs
+alter endors or dual endors of return check mai indic possibl
+tamper
+3 id
+asset misappropri fraudul disburs financi transact
+1532 2011 fraud examin manual
+return check with obvious forg or question signatur endors should
+be verifi with origin paye
+alter paye on return check should be verifi with intend paye
+duplic or counterfeit check indic fraud these check mai be traceabl to
+depositor through bank check code
+question deposit date should be match to the correspond custom account
+an examin of all cash advanc mai reveal that not all advanc ar properli
+document and therefor inappropri payment have been made to employe
+custom complaint regard payment not be appli to their account should be
+investig
+a question paye or paye address on a check should trigger review of the
+correspond check and support document
+prevent of check tamper scheme
+check disburs control
+the follow list of activ will help tighten control and possibl deter employe from
+give in to the temptat to commit check fraud
+check cut and prepar is not done by a signatori on the account
+check ar mail immedi after sign
+theft control procedur ar adher to see below
+account payabl record and address ar secur from possibl tamper chang in
+vendor inform should be verifi
+bank statement should be review dilig ensur that amount and signatur
+have not been alter
+bank reconcili should be complet immedi after monthli statement ar
+receiv the uniform commerci code state that discrep must be present
+within 30 dai from the bank statement in order to hold the bank liabl
+bank reconcili ar not made by signatori on the account
+bank statement should be reconcil and review by more than on person
+appropri separ of duti should be document and adher to
+detail comparison ar routin made between check paye and the paye list in
+the cash disburs journal
+personnel respons for handl and code check ar period rotat keep
+total personnel involv to a minimum
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1533
+bankassist control
+compani should work in a cooper effort with bank to prevent check fraud consid
+the follow control measur that mai be taken in regard to a firm check account
+establish maximum dollar amount abov which the compani bank will not accept
+check drawn against the account
+us posit pai bank control posit pai allow a compani and it bank to work
+togeth to detect fraudul item present for payment the compani provid the
+bank with a list of check and amount that ar written each dai the bank verifi item
+present for payment against the compani li t the bank reject item that ar not on
+the list investig ar conduct as to the origin of nonlist item
+physic tamper prevent
+the follow list detail checktamp prevent techniqu that ar be us todai
+by some institut to secur busi check integr these method can be us
+individu or in combin
+signatur line void safeti band the word void appear on the check when
+photocopi
+rainbow foil bar a horizont color bar place on the check fade and is shade
+from on bar to the next photocopi foil bar appear solid
+holograph safeti border holograph imag ar creat in a wai that reflect light to
+reveal a threedimension graphic
+emboss pearlesc numberingcheck ar number us a techniqu that is
+reveal by a color highlight pen or by a bright light held behind the check
+other chemic voidscheck reveal an imag or the word void when treat with an
+erad chemic
+micro line print extrem small print is too small to read with the nake ey and
+becom distort when photocopi
+high resolut microprintingimag ar produc on the check in high resolut
+2400 dot per inch or higher thi techniqu is veri difficult to reproduc
+secur inkscheck contain ink that react with erad chemic reduc a
+forger abil to modifi the check
+chrome color the us of chromelik color deter photocopi even with
+color copier the chrome pattern or number develop solid black
+watermark backer hidden imag can onli be seen when the check is held at an
+angl thi imag is veri difficult to reproduc
+asset misappropri fraudul disburs financi transact
+1534 2011 fraud examin manual
+ultraviolet ink thi ink displai an imag or messag when held under ultraviolet
+light
+check theft control procedur
+it is veri import to provid intern control that will minim the possibl of check
+tamper and theft below is a list of item that should be incorpor into compani
+polici and procedur to help deter check tamper
+new check should be purchas from reput wellestablish check produc
+unus check should be store in a secur area such as a safe vault or other lock
+area secur to thi area should be restrict to author personnel onli routin
+chang kei and access code to storag area
+review all hire procedur on of the most import mean of fight fraud is to
+not hire peopl with question background develop a distinct separ of duti
+in the account payabl depart includ written polici and procedur for all
+personnel who have the opportun to handl check from mailroom clerk to the
+ceo
+us electron payment servic to handl larg vendor and financ payment
+elimin the us of paper check
+report lost or stolen check immedi
+properli and secur store cancel check
+destroi unus check for account that have been close
+print and sign check should be mail immedi after sign

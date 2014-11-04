@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Corporate officers and directors usually are legally bound to act solely in the best interest of the corporation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=People in a position of trust or fiduciary relationship, such as officers, directors, high-level employees of a corporation or business, agents and brokers, owe certain duties imposed by law to their principals or employers. The principal fiduciary duties are loyalty and care. The duty of loyalty requires that the employee/agent act solely in the best interest of the employer/principal, free of any self-dealing, conflicts of interest, or other abuse of the principal for personal advantage.See page(s) 2.212 in the Fraud Examiner's Manual

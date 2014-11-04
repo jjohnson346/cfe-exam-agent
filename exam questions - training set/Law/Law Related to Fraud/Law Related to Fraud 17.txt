@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=In 2002, the U.S. Congress passed a major piece of legislation aimed at eliminating financial statement fraud in publicly traded companies. It requires certifications of financials by senior officers, new standards for audit committees, and new rules of auditors of public companies. This piece of legislation is known as _______________________.
+
+Options=HIPAA | Sarbanes-Oxley Act | Gramm-Leach-Bliley Act | USA PATRIOT Act
+
+CorrectResponse=1
+
+Explanation=On July 30, 2002, President Bush signed into law the Sarbanes-Oxley Act. The Sarbanes-Oxley Act was designed to restore investor confidence in capital markets and help eliminate financial statement fraud in publicly traded companies while at the same time significantly increasing the penalties for corporate accounting fraud. The Act brought about numerous changes, including requirements for senior financial officers to certify SEC filings, new standards for audit committee independence, and new standards for auditor independence, among others.See page(s) 2.214 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Searchable newspaper databases can usually be accessed for free at most libraries.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Newspapers, periodicals, and journals can be excellent sources of information in a fraud investigation, particularly when a fraud examiner is searching for background information on an individual or a business. Searchable databases containing information from literally hundreds of published sources can usually be accessed for free at most libraries.See page(s) 3.529-3.530 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT an element of proof for criminal conspiracy under the general conspiracy statute (Title 18, U.S. Code, Section 371)?
+
+Options=At least one of the conspirators knowingly committed at least one overt act in furtherance of the conspiracy | An agreement to defraud | The overt act was criminal in nature | The defendant knew the purpose of the agreement
+
+CorrectResponse=2
+
+Explanation=The essential elements of the principal federal conspiracy statute are:‰?¢	An agreement to defraud‰?¢	The defendant knew the purpose of the agreement and intentionally joined in the agreement‰?¢	At least one of the conspirators knowingly committed at least one overt act in furtherance of the conspiracyThe overt act need not be criminal in itself and may be as innocuous as making a phone call or writing a letterSee page(s) 2.330 in the Fraud Examiner's Manual

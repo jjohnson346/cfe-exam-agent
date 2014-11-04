@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Those facts and circumstances which would induce a person of reasonable caution to believe a crime has been committed and that the accused committed the crime are called:
+
+Options=Proximate cause | Probable guilt | Probable Cause | None of the above
+
+CorrectResponse=2
+
+Explanation=The "probable cause" requirement of the Fourth Amendment is critically important because it is the central restraint on the power of the police to arrest and search. It has been defined as "those facts and circumstances sufficient to cause a man of reasonable caution to believe a crime has been committed, and the accused committed it.â€?See page(s) 2.418 in the Fraud Examiner's Manual

@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+typically                              1
+other                                  1
+transaction                            1
+one                                    1
+involve                                1
+most                                   1
+aware                                  1
+examiner                               1
+fraud                                  1
+laundering                             2
+related                                1
+of                                     2
+following                              1
+more                                   1
+federal                                2
+are                                    1
+when                                   1
+money                                  2
+laws                                   2
+be                                     1
+such                                   1
+schemes                                1
+or                                     1
+a                                      1
+prosecuting                            1
+the                                    3
+should                                 1
+that                                   1
+involved                               1
+will                                   1
+
+Totals:                     31        38

@@ -1,0 +1,10 @@
+Section=Consumer Fraud
+
+Stem=Con artists who deal in art objects often pawn off lithograph copies to art buyers as "limited editions" guaranteed to increase in value.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The con who deals in art objects preys on the reverence for the rare. Paintings worth little more than their canvas and oil are tagged as “masterpieces" sure to grow in value. The victim who falls for these scams is frequently the art novice who seems to unquestioningly believe the "dealer's” appraisal of the object d art. This sort of willing victim will buy lithographic prints, mass-produced by the thousands, thinking his is purchasing a limited edition. Any anxieties the victim may develop are calmed by a promised 30-day no obligation trial and with a “certificate of authenticity.'’ See page(s) 1.1723 in the Fraud Examiner’s Manual
+

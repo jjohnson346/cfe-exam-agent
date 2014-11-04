@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Which of the following circumstances can be a strong indication of negligence?
+
+Options=The taxpayer has deductions that are "too good to be true". | The taxpayer transposes two numbers. | The taxpayer fails to file on time. | The taxpayer fails to sign the return.
+
+CorrectResponse=0
+
+Explanation=Negligence is strongly indicated where information is omitted on tax returns or deductions are "too good to be true." A penalty based on a percentage of the underpayment will be imposed on any of the following: (1) negligence or disregard of rules and regulations, (2) any substantial underpayment of income tax, (3) any substantial valuation, (4) any substantial overstatement of pension liabilities, and (5) any substantial understatement of estate or gift tax valuations.See page(s) 1.1405 in the Fraud Examiner’s Manual

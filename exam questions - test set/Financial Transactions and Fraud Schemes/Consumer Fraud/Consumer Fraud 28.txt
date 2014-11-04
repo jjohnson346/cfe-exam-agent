@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In the prime rate credit card scam, telescammers offer customers major credit cards for a small fee even if their credit report is poor, but send them an application for a credit card they could obtain in any department store.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In the prime rate credit card scam, telemarketing companies assure customers they can get major cards for a small fee even if their credit report is poor. Victims receive an application for a MasterCard which they could obtain in any department store Telemarketers also push secured cards, which require a cash deposit (usually a S250 to S300 minimum) in the issuer‰??s bank to activate the card.See page(s) 1.1719 in the Fraud Examiner‰??s Manual

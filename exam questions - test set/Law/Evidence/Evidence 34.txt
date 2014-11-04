@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Blue is a Certified Fraud Examiner. He has concluded through an evaluation of the ABC Company's internal controls and balances that no one but White could have embezzled funds from the company. If this evidence is allowed it would be called:
+
+Options=Circumstantial evidence | Inferential evidencex | Indirect evidence | None of the above
+
+CorrectResponse=0
+
+Explanation=Circumstantial evidence is evidence that tends to prove or disprove facts in issue indirectly, by inference. Many fraud cases are proved entirely by circumstantial evidence, or by a combination of circumstantial and direct evidence, but seldom by direct evidence alone. If Blue can prove successfully that no one but White could have possibly committed the embezzlement, Blue has proved the case through circumstantial evidence. See page(s) 2.702 in the Fraud Examiner's Manual

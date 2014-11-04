@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Which of the following products or sen/ices have been sold through multilevel marketing companies?
+
+Options=Long-distance phone service | Nutrition supplements | Cosmetics | All of the above
+
+CorrectResponse=3
+
+Explanation=When most people hear about a pyramid scheme, they think multilevel marketing These organizations hawk nutrition supplements, household goods, cosmetics, television antennas, insurance, long-distance phone service, everything from antiques to zinc.See page(s) 1.1746 in the Fraud Examiner’s Manual

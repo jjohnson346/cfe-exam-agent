@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A bank or brokerage account showing little or no activity, presumably with small and without increasing balances, in which the account holder cannot be contacted would be defined as what type of account?
+
+Options=Active account | Defunct account | Dormant account | Fraudulent account
+
+CorrectResponse=2
+
+Explanation=Dormant or inactive accounts are those that show little or no activity. Often contact with the account holder by confirmation, letter, or telephone contact is not possible. Such accounts are to be transferred to dual control and recorded in an inactive accounts ledger State statutes usually provide for escheat or forfeiture to the state after a period of years.See page(s) 1.902 in the Fraud Examiner's Manual

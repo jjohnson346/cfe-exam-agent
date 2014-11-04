@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Black, a Certified Fraud Examiner, is conducting an admission-seeking interview of Red, a fraud suspect. Black asks Red, "Did you do this because you were mad, or was there a reason you did this?" Red replies, "I had a reason." What should Black say next to Red?
+
+Options="I'm glad you had a good reason to do this." | "I don't believe you." | "It couldn't have been a very good reason" | None of the above
+
+CorrectResponse=0
+
+Explanation=Once the benchmark admission is made, the interviewer should reinforce the confessor's decision. Then the interviewer should make the transition into the verbal confession, where the details of the offense are obtained. Reinforcing the rationalization developed earlier will help the confessor feel comfortable, believing that the interviewer does not look down on him. Example: "I am glad to hear that you had a good reason to do this. That reinforces what I thought all along‰??that you were caught up in extraordinary circumstances. When was the first time you did it?"See page(s) 3.264 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In admission-seeking interviews, the transition from the accusatory process to the verbal confession is made when the accused furnishes the first detailed information about the offense.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The transition to the verbal confession is made v/hen the accused furnishes the first detailed information about the offense. Thereafter, it is the interviewer's job to probe gently for additional details‰??preferably including those that would be known only to the miscreant. As with any interview, there are three general approaches to obtaining the verbal confession: chronologically, by transaction, or by event. The approach to be taken should be governed by the circumstances of the case.See page(s) 3.264 in the Fraud Examiner's Manual

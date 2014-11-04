@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=If a person violates the Computer Fraud and Abuse Act by copying or gaining access to information without authorization, the victim may seek a civil remedy directly against the perpetrator.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=See page(s) 2.313 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is an example of the computer manipulation technique known as "piggybacking"?
+
+Options=Using several networks in a series in order to avoid detection | Gaining access to a computer using deception, such as someone else's password or identity | Searching for valid access codes or trap doors | Toggling back and forth between benign activity and hacking
+
+CorrectResponse=1
+
+Explanation=Piggybacking is frequently used to gain access to restricted areas. Examples include following someone in through a door with a badge reader, electronically using another's user identification and password to gain computer access, and tapping into the terminal link of a user to cause the computer to believe that both terminals are the same person.See page(s) 1.1808 in the Fraud Examiner's Manual

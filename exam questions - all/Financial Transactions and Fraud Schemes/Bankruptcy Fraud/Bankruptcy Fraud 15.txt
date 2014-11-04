@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=If a business appears to be operating fraudulently and is unable to pay its bills, creditors can file a petition to force the business into involuntary bankruptcy proceedings.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=An involuntary petition can only be filed under Chapters 7 and 11. Creditors who have not been paid by the debtor can file a petition forcing the company into bankruptcy. Generally, the creditors must be able to demonstrate in court that the debtor is not paying debts as they mature. In order to commence the filing of an involuntary proceeding, creditors must satisfy the following criteria:The debts must not be subject to a bona fide dispute and must be noncontingent The creditor(s) must be owed at least $13,475 more than the value of the lien or collateral If there are 12 or more creditors, then three creditors are needed to file If there are fewer than 12 creditors, only one creditor is needed to fileSee page(s) 1.1313 in the Fraud Examiner's Manual

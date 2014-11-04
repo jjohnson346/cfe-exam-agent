@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Unscrupulous debt consolidation schemes include each of the following EXCEPT:
+
+Options=The debt consolidation company collects payments, but does not appropriately forward them. | The debt consolidation company charges an upfront processing fee and then disappears. | The debt consolidation company writes a letter to the debtor’s creditors and arranges a payment plan. | All of the above are typical debt consolidation schemes.
+
+CorrectResponse=2
+
+Explanation=Unscrupulous debt consolidation schemes often involve the agency collecting the money from the debtor but not forwarding it to the creditors. In some instances, considerable time can pass before the debtor finds out that his money has been misappropriated. Another variation of the debt consolidation scheme occurs when a customer is “guaranteed" that he will receive a loan or a credit card regardless of his credit ratings. Typically, the victims have been rejected by legitimate financial institutions because their credit ratings are poor. The victim must pay a processing fee for the application to be accepted. After the victim pays the fee, the con artist disappears.

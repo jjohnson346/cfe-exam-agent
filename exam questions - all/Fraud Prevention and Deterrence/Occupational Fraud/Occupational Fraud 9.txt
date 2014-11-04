@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to "The Fraud Scale," occupational fraud is more likely to occur when:
+
+Options=Personal integrity is low | Situational pressures are high | Perceived opportunities are high | All of the above
+
+CorrectResponse=3
+
+Explanation=Dr. Steve Albrecht developed the Fraud Scale,â€? which included the components of situational pressures, perceived opportunities, and personal integrity that were introduced by Donald Cressey. The Fraud Scale shows that when situational pressures and perceived opportunities are high and personal integrity is low, occupational fraud is much more likely to occur than when the opposite is true.See page(s) 4.612 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is NOT an example of a data analysis function that can be performed to help detect fraud through examination of payroll accounts?
+
+Options=Check proper supervisory authorization on payroll disbursements | Compare customer credit limits and current or past balances | Prepare check amount reports for amounts over a certain limit | Compare timecard and payroll rates for discrepancies
+
+CorrectResponse=1
+
+Explanation=The following are examples of data analysis queries that can be performed by data analysis software on payroll accounts to help detect fraud:Summarize payroll activity by specific criteria for review Identify changes to payroll or employee files Compare timecard and payroll rates for possible discrepancies Prepare check amount reports for amounts over a certain limit Check proper supervisory authorization on payroll disbursementsSee page(s) 3.613 in the Fraud Examiner's Manual

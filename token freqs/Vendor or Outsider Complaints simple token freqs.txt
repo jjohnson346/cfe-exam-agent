@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+other                                  1
+can                                    1
+employer                               1
+lead                                   1
+outsider                               2
+good                                   1
+examiner                               1
+from                                   1
+fraud                                  1
+fraudulent                             1
+complaints                             2
+because                                1
+tools                                  1
+inquiry                                1
+are                                    1
+complains                              1
+others                                 1
+schemes                                1
+or                                     3
+vendor                                 2
+a                                      1
+the                                    2
+customers                              1
+and                                    1
+further                                1
+that                                   1
+detection                              1
+unravel                                1
+often                                  1
+company                                1
+will                                   1
+vendors                                1
+
+Totals:                     33        40

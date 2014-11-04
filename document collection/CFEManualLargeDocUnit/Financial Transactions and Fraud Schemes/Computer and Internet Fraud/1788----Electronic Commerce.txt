@@ -1,0 +1,244 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Electronic Commerce
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Electronic Commerce  
+Electronic commerce, or e-commerce, is becoming a major form of retailing, marketing, 
+advertising, and inter-personal communications. The hardware infrastructure required for 
+high-speed data, voice, and video transmission to and from private homes is being 
+introduced to residential streets everywhere.  
+ 
+We have all heard people talk about their fears about putting their credit card numbers, 
+personal identification numbers (PINs), street addresses, phone numbers, and other personal 
+information out on the Internet. In reality, there is very little difference between securing 
+electronic commerce and securing any other kind of information system resource. 
+ 
+In addition to these traditional goals of information systems security, confidentiality, 
+integrity, and availability, there are a few that are more directly related to networked 
+transactions, which is exactly what e-commerce consists of: 
+• Authentication. This requirement addresses the problem of identifying the parties of an 
+e-commerce transaction to each other. We want to make sure that we can determine 
+with whom we (or our computers) are communicating. 
+• Non-repudiation. Non-repudiation can help ensure that no party to an e-commerce 
+transaction can later deny that the transaction occurred. We need some way to be able to 
+recognize a “signature” between e-commerce parties just as we rely on written signatures 
+on paper documents. 
+ 
+While recent years have seen an increase in the number of consumers and businesses willing 
+to conduct transactions, online there still exists some hesitancy to fully embrace e-commerce 
+technology. It is cases like the one described below that cause consumers to lose confidence 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1835 
+in e-commerce. In the following example, a hacker crafted a sophisticated scam that hurt 
+millions of consumers. 
+ 
+EXAMPLE 
+Albert Gonzales had already been caught hacking into the Indian government’s website 
+and trafficking a million credit/debt card numbers before he was caught stealing many 
+more credit/debit card numbers from TJX Companies, the company that operates retails 
+stores such as TJ Maxx and Marshall’s. After two years worth of sensitive data and 45.6 
+million credit card and debit card numbers were compromised, TJX Companies notified the 
+authorities of their data leakage.  
+Starting in 2005, Albert found non-secure wireless networks on TJX Companies' systems 
+and worked with others to identify vulnerable servers to attack, infiltrate, and later use to 
+jumpbox into other more secure servers. From there, he and his conspirators were able to 
+install malware used to steal data and sniffing software onto the networks of TJX and all 
+the stores operating under them, even outside of the United States. TJX discovered the 
+breach in December of 2006 and was under the belief that they had only been losing data 
+for six to seven months. After further investigation, however, they found that they had been 
+losing sensitive data since 2005. But by the time TJX had even started discovering the 
+extent of their security breach, Albert had already moved on to bigger and better operations. 
+In 2008, Albert was arrested on charges related to hacking into other companies’ 
+networks, and he now faces 15–25 years in prison. 
+  
+ISP messages are also used to sneak Trojan horse programs onto a user’s computer. The 
+user is tempted with free pornographic pictures, or software that will boost their computer’s 
+performance. When the attached file is opened, it triggers a program that surreptitiously 
+collects the subscriber’s account name and password, which are then relayed to the hacker 
+who sent the message. 
+ 
+Many experts say that it is currently possible to have secure transactions over the Internet 
+because the latest encryption technologies and security protocols allow for this. However, 
+fully realized standards are not yet in place for all business-to-business or business-to-customer 
+transactions. Some current security protocols do not permit non-repudiation of 
+Computer and Internet Fraud  Financial Transactions   
+1.1836                           2011 Fraud Examiners Manual  
+data, which is required if firms seriously want to conduct business over the Internet. 
+However, the arrival of standards for using smart card technology will transform Internet 
+business and commerce as a whole. Smart card technology offers a solution to the major 
+secure transactions requirements, namely data integrity, user authentication, and non-
+ repudiation of data. Smart card technology also involves the application of third-party trust 
+relationships to the Internet. 
+ 
+Applying Encryption to E-Commerce Security 
+Generally speaking, the solutions offered by conventional and public-key encryption 
+technologies are usually adequate to ensure that e-commerce transactions are as secure as the 
+value of transactions requires.  
+ 
+The vast majority of transmissions over the Internet and the World Wide Web are not 
+encrypted in any way. If there is no need to hide the contents of a message or 
+communication, there is little need to expend resources on the encryption of such traffic and 
+the decryption at the other end. Encryption can be an expensive solution, whether in terms 
+of actual monetary cost or the cost in increased computational load on the users’ machines. 
+The needs of the organization to keep confidential transmissions secret should be weighed 
+against the effort and cost of encryption. 
+ 
+Smart Cards 
+The cost and inefficiency of manually applying encryption techniques could prevent some 
+organizations from fully engaging in e-commerce activities. Fortunately, a relatively 
+inexpensive solution is available in the use of smart card technology. 
+ 
+A smart card is a credit-card sized plastic card embedded with an integrated circuit chip that 
+makes it “smart.” This marriage between a convenient plastic card and a microprocessor 
+allows an immense amount of information to be stored, accessed, and processed either 
+online or offline. Smart cards can store several hundred times more data than a conventional 
+card with a magnetic stripe. The information or application stored in the IC chip is 
+transferred through an electronic module that interconnects with a terminal or a card reader. 
+A contactless smart card has an antenna coil that communicates with a receiving antenna to 
+transfer information. Depending on the type of the embedded chip, smart cards can be 
+either memory cards or processor cards. 
+• Memory cards. Any plastic card is made “smart” by including an IC chip. But the chip 
+may simply be a memory storage device. Memory cards can hold thousands of times 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1837 
+more memory than a magnetic stripe card. Nevertheless, its functions are limited to basic 
+applications such as phone cards. 
+• Processor cards.  Smart cards with a full-fledged microprocessor on board can function 
+as a processor device that offers multiple functions such as encryption, advanced security 
+mechanisms, local data processing, complex calculation, and other interactive processes. 
+Most stored-value cards integrated with identification, security, and information 
+purposes are processor cards. Only processor cards are truly smart enough to offer the 
+flexibility and multifunctionality desired in e-commerce. 
+ 
+The top three international markets in smart card production are (1) miniature subscriber 
+identity modules (SIMs) that fit inside mobile phones, (2) banking cards, and (3) 
+identification cards, specifically those used by governments and large corporations. 
+ 
+Most smart cards issued today are memory cards with limited processing capabilities; 
+however, modern technology is constantly making advances toward increasing these 
+capabilities. 
+ 
+ 
+
+
+
+:
+
+
+electron commerc
+electron commerc or ecommerc is becom a major form of retail market
+advertis and interperson commun the hardwar infrastructur requir for
+highspe data voic and video transmiss to and from privat home is be
+introduc to residenti street everywher
+we have all heard peopl talk about their fear about put their credit card number
+person identif number pin street address phone number and other person
+inform out on the internet in realiti there is veri littl differ between secur
+electron commerc and secur ani other kind of inform system resourc
+in addit to these tradit goal of inform system secur confidenti
+integr and avail there ar a few that ar more directli relat to network
+transact which is exactli what ecommerc consist of
+authent thi requir address the problem of identifi the parti of an
+ecommerc transact to each other we want to make sure that we can determin
+with whom we or our comput ar commun
+nonrepudi nonrepudi can help ensur that no parti to an ecommerc
+transact can later deni that the transact occur we need some wai to be abl to
+recogn a signatur between ecommerc parti just as we reli on written signatur
+on paper document
+while recent year have seen an increas in the number of consum and busi will
+to conduct transact onlin there still exist some hesit to fulli embrac ecommerc
+technolog it is case like the on describ below that caus consum to lose confid
+financi transact comput and internet fraud
+2011 fraud examin manual 11835
+in ecommerc in the follow exampl a hacker craft a sophist scam that hurt
+million of consum
+exampl
+albert gonzal had alreadi been caught hack into the indian govern websit
+and traffick a million creditdebt card number befor he wa caught steal mani
+more creditdebit card number from tjx compani the compani that oper retail
+store such as tj maxx and marshal after two year worth of sensit data and 456
+million credit card and debit card number were compromis tjx compani notifi the
+author of their data leakag
+start in 2005 albert found nonsecur wireless network on tjx compani system
+and work with other to identifi vulner server to attack infiltr and later us to
+jumpbox into other more secur server from there he and hi conspir were abl to
+instal malwar us to steal data and snif softwar onto the network of tjx and all
+the store oper under them even outsid of the unit state tjx discov the
+breach in decemb of 2006 and wa under the belief that thei had onli been lose data
+for six to seven month after further investig howev thei found that thei had been
+lose sensit data sinc 2005 but by the time tjx had even start discov the
+extent of their secur breach albert had alreadi move on to bigger and better oper
+in 2008 albert wa arrest on charg relat to hack into other compani
+network and he now face 1525 year in prison
+isp messag ar also us to sneak trojan hors program onto a user comput the
+user is tempt with free pornograph pictur or softwar that will boost their comput
+perform when the attach file is open it trigger a program that surreptiti
+collect the subscrib account name and password which ar then relai to the hacker
+who sent the messag
+mani expert sai that it is current possibl to have secur transact over the internet
+becaus the latest encrypt technolog and secur protocol allow for thi howev
+fulli realiz standard ar not yet in place for all businesstobusi or businesstocustom
+transact some current secur protocol do not permit nonrepudi of
+comput and internet fraud financi transact
+11836 2011 fraud examin manual
+data which is requir if firm serious want to conduct busi over the internet
+howev the arriv of standard for us smart card technolog will transform internet
+busi and commerc as a whole smart card technolog offer a solut to the major
+secur transact requir name data integr user authent and non
+repudi of data smart card technolog also involv the applic of thirdparti trust
+relationship to the internet
+appli encrypt to ecommerc secur
+gener speak the solut offer by convent and publickei encrypt
+technolog ar usual adequ to ensur that ecommerc transact ar as secur as the
+valu of transact requir
+the vast major of transmiss over the internet and the world wide web ar not
+encrypt in ani wai if there is no need to hide the content of a messag or
+commun there is littl need to expend resourc on the encrypt of such traffic and
+the decrypt at the other end encrypt can be an expens solut whether in term
+of actual monetari cost or the cost in increas comput load on the user machin
+the need of the organ to keep confidenti transmiss secret should be weigh
+against the effort and cost of encrypt
+smart card
+the cost and ineffici of manual appli encrypt techniqu could prevent some
+organ from fulli engag in ecommerc activ fortun a rel
+inexpens solut is avail in the us of smart card technolog
+a smart card is a creditcard size plastic card embed with an integr circuit chip that
+make it smart thi marriag between a conveni plastic card and a microprocessor
+allow an immens amount of inform to be store access and process either
+onlin or offlin smart card can store sever hundr time more data than a convent
+card with a magnet stripe the inform or applic store in the ic chip is
+transfer through an electron modul that interconnect with a termin or a card reader
+a contactless smart card ha an antenna coil that commun with a receiv antenna to
+transfer inform depend on the type of the embed chip smart card can be
+either memori card or processor card
+memori card ani plastic card is made smart by includ an ic chip but the chip
+mai simpli be a memori storag devic memori card can hold thousand of time
+financi transact comput and internet fraud
+2011 fraud examin manual 11837
+more memori than a magnet stripe card nevertheless it function ar limit to basic
+applic such as phone card
+processor card smart card with a fullfledg microprocessor on board can function
+as a processor devic that offer multipl function such as encrypt advanc secur
+mechan local data process complex calcul and other interact process
+most storedvalu card integr with identif secur and inform
+purpos ar processor card onli processor card ar truli smart enough to offer the
+flexibl and multifunction desir in ecommerc
+the top three intern market in smart card product ar 1 miniatur subscrib
+ident modul sim that fit insid mobil phone 2 bank card and 3
+identif card specif those us by govern and larg corpor
+most smart card issu todai ar memori card with limit process capabl
+howev modern technolog is constantli make advanc toward increas these
+capabl

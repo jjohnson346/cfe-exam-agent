@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Before deciding whether to bring a civil or criminal action against a taxpayer the IRS will take into account a number of considerations. Which of the following is NOT an important consideration of the IRS in deciding whether to file a case?
+
+Options=Staffing concerns | Identity of the taxpayer | What the IRS believes it can prove | Budgetary concerns
+
+CorrectResponse=1
+
+Explanation=Although the burden of proving fraud is on the Service, the primary determinant of whether the IRS pursues a civil rather than a criminal fraud charge is what it believes it can prove. There also may be budgetary and staffing constraints that may dictate whether a suit is pursued civilly or criminally. The difference between civil and criminal in the view of the IRS is that a civil case never ripens into a crime, and a criminal offense involves behavior too insidious to be disposed of on a civil basis. Failure to cooperate might raise a civil case to a crime because it may demonstrate willful intent.See page(s) 1.1404 in the Fraud Examiner’s Manual

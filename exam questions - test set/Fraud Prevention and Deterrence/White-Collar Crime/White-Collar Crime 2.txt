@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=In white-collar crime cases, the higher an offender's status, the more likely that person is to be imprisoned.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Considering all white-collar crime offenders, the higher an individuals status, the more likely the person was to be imprisoned: All else being equal, doctors will have about a 30 percent greater likelihood of being imprisoned for a white-collar crime than truck drivers and almost a 13 percent greater likelihood than managers. Judges seem to find persons of higher prestige more at fault, or in other words, more blameworthy, in the commission of their crimes.See page(s) 4.413 in the Fraud Examiner's Manual

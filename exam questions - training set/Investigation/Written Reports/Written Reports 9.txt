@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Active listening is an essential function of effective report writing.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Active listening is an essential function of effective report writing. The fraud examiner must have good listening skills so that the information is properly assimilated, evaluated, and communicated to others. Listening skills are learned. Listening involves perceiving what the respondent is actually communicating. To do so properly, you must set aside any preconceived notions and listen objectively, not only to what is being said, but to how it is said and why. The fraud examiner should withhold judgment until the entire message has been heard.See page(s) 3.901 in the Fraud Examiner's Manual

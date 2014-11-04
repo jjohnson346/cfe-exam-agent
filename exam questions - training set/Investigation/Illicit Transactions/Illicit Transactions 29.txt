@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Fraud examiners frequently review banking records. How long are banks generally required to maintain copies of customers' financial transactions?
+
+Options=Five years | Two years | Four years | Three years
+
+CorrectResponse=0
+
+Explanation=The Bank Secrecy Act set forth a system of reporting and recordkeeping requirements designed to help track large or unusual financial transactions. The Act consists of two titles. Title I contains provisions requiring financial institutions and securities brokers and dealers to keep extensive records of the transactions and accounts of their customers. Title II of the Act (originally entitled Currency and Foreign Transactions Reporting Act) requires banks, ‰??financial institutions" (which include casinos, securities brokers and dealers, currency exchanges, and others), and, in some cases, individuals to report certain transactions to the government. Under regulations governing recordkeeping, all institutions are required to keep a record of any financial transaction of more than S10,000. These regulations provide, in part, that banks must keep an original, microfilm, or other copy or reproduction of most demand deposits (checking account) and savings account records must be retained for five years. The records must include signature cards; statements, ledger cards or other records disclosing all transactions, that is, deposits and withdrawals; and copies of customers‰?? checks, bank drafts, money orders, and cashier‰??s checks drawn on the bank or issued and payable by it.See page(s) 3.807 in the Fraud Examiner's Manual

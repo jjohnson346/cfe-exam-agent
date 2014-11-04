@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Baker was an accountant with control over his company's payroll records. Able was an employee who resigned his job with Baker's company. Even though Able was no longer working for the company, Baker left his name on the payroll records. Thus, paychecks continued to be issued to Able. Baker collected the checks and deposited them in his own bank account. This is an example of what kind of Payroll Scheme?
+
+Options=Cash theft | Commission scheme | Ghost employee scheme | Falsified hours and salary
+
+CorrectResponse=2
+
+Explanation=The term ghost employee refers to someone on the payroll who does not actually work for the victim company. Through the falsification of personnel or payroll records a fraudster causes paychecks to be generated to a ghost. These paychecks are then converted by the fraudster or an accomplice. Instead of adding new names to the payroll, some employees undertake ghost employee schemes by failing to remove the names of terminated employees. Paychecks to the terminated employee continue to be generated even though he no longer works for the victim company. The perpetrator intercepts these fraudulent paychecks and converts them to his own use.See page(s) 213-215 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Under the provisions of the Sarbanes-Oxley Act, the CEO and CFO must personally certify the company's annual and quarterly SEC filings. Which of the following statements must be included in the certifications by the CEO and CFO?
+
+Options=That they are responsible for the company's internal controls | That, based on their knowledge, the report does not contain any material misstatements | That they have personally reviewed the financial statements | All of the above must be certified by the CEO and CFO
+
+CorrectResponse=3
+
+Explanation=Section 302 of the Sarbanes-Oxley Act requires that the CEO and CFO personally certify the following: (1) they have personally reviewed the report; (2) based on their knowledge, the report does not contain any material misstatement that would render the report misleading; (3) based on their knowledge, the financial statements and information in the report fairly present in all material respects the financial condition and results of operations of the company; (4) they are responsible for designing, establishing, and maintaining adequate internal controls and have evaluated the effectiveness of the internal controls within the last 90 days and presented the conclusions of that evaluation within the report; (5) they have disclosed to their auditors and the audit committee any significant deficiencies and material weaknesses in the internal controls and have disclosed to the auditors any fraud that involves employees who have a significant role in the internal controls; and (6) they have indicated in the report whether there have been any significant changes in the internal controls since the filing of the company's last report.See page(s) 1.206-1.207 in the Fraud Examiner's Manual

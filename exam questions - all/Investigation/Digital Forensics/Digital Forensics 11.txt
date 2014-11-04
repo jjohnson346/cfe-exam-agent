@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Opening files directly on a suspect's computer will have what consequences?
+
+Options=It will change the time and date stamps on the file. | It will allow the examiner to more effectively gather data files. | It will have no effect on the file unless it is overwritten. | It will have no effect on the file unless the file is saved.
+
+CorrectResponse=0
+
+Explanation=One rule of computer forensics is, don’t peek through the files. This also applies to disks. If a system is running, the examiner may be tempted to click on the My Computer icon to look for evidence and/or copy files to a flash or optical storage device. This should never be done, because each file the investigator touches will have its original time stamps changed; once this is done the original time stamps cannot be recovered. It will be obvious to the forensic examiner that this has occurred.See page(s) 3.718 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=It is legal to pay a confidential informant or source for information provided during a fraud examination.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In some instances (but not many), the source might want money or other consideration for furnishing information. The examiner should not offer any compensation. It is better to have the source request it. This is to avoid any allegation of misconduct on the part of the examiner for paying for information. Sources have their reasons for informing. It might be the sense of importance that comes from being involved or a chance to play “detective." In other cases, the source might have a grudge against the target. Other reasons include a feeling of moral responsibility to report information. Perhaps more than any other reason, a source will furnish information because he likes and trusts the examiner and v/ants to help.See page(s) 3.315 in the Fraud Examiner's Manual

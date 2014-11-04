@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Civil damages for a victim of trade secret theft may include all of the following EXCEPT:
+
+Options=Reimbursement for losses caused by a misappropriation | Jail time for the defendant | Lost profits | Attorneys fees
+
+CorrectResponse=1
+
+Explanation=A victim of theft of trade secrets may file a civil action for damages or an injunction or may obtain criminal prosecution under a variety of federal and state statutes. Civil damages include reimbursement for actual losses caused by the misappropriation such as lost profits, reimbursement of development expenses and overhead costs, and the cost of efforts to protect the secret or recover damages, as well as for reduction in the value of business. Damages also may be measured by the defendant’s profits, which may be ordered paid to the plaintiff. Punitive damages and attorney's fees also may be awarded. Jail time is not a form of civil damages.See page(s) 2.211 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In establishing the flow of illegal funds from a company, which of the following may indicate that an on-book fictitious disbursement scheme has occurred?
+
+Options=Payments for sales commissions, where little documentation is required to initiate payment | Payment for consulting fees with little or no documentation | Payment of design fees when design fees are not normally required by the paying company | All of the above
+
+CorrectResponse=3
+
+Explanation=In order to examine on-book payments of illicit funds, obtain the accounting books and records from the entity suspected of making illegal payments. First, examine the records for payments which fall into the following categories: payments for services (such as sales commissions or consulting fees which do not require much documentation) and anomalous charges (such as payment of design fees for a company that normally would not require such services).See page(s) 1.723-1.725 in the Fraud Examiner's Manual

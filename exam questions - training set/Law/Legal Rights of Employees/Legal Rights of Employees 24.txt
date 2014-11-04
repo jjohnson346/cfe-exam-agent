@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which amendment to the U.S. Constitution prohibits unreasonable searches and seizures?
+
+Options=Sixth Amendment | Fourth Amendment | First Amendment | Fifth Amendment
+
+CorrectResponse=1
+
+Explanation=The Fourth Amendment to the U.S. Constitution prohibits unreasonable searches and seizures. The Fifth Amendment provides that a person cannot be compelled to give information which might incriminate him. The Sixth Amendment provides that a person has the right to an attorney and to confront the witnesses against him.See page(s) 2.402-2.403 in the Fraud Examiner's Manual

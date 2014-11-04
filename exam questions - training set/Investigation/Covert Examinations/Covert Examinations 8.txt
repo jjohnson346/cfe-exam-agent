@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Which of the following is a valid legal defense to allegations of entrapment against a fraud examiner?
+
+Options=Adequate predication | Proof of the modus operandi | Exculpatory statements by the suspect | All of the above
+
+CorrectResponse=0
+
+Explanation=Entrapment poses the biggest legal problem in covert operations, particularly in undercover operations. It is imperative that the operation be properly predicated. Again, covert operations must not be used for ‰??fishing expeditions.nSee page(s) 3.305 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Claim fraud may well represent an insurance company's largest fraud risk. Most claims are legitimate: however, some are not. All of the following are red flags of claim fraud EXCEPT:
+
+Options=A claim is made shortly after the policy's inception | In a fire loss, the claim includes a lot of recently purchased expensive property | In a burglary loss, the claim includes large, bulky property | The insured is calm about delays in settling the claim
+
+CorrectResponse=3
+
+Explanation=Red flags of insurance claim fraud include the following:‰?¢	The claim is made a short time after the policy's inception or after a coverage increase or change‰?¢	The insured has a history of many insurance claims‰?¢	The insured previously asked the insurance agent hypothetical questions about coverage in the event of a loss similar to the actual claim‰?¢	The insured is very pushy and insistent about a fast settlement, and exhibits more than the usual amount of knowledge about insurance coverage and claims procedure‰?¢	In a burglary loss, the claim includes large, bulky property‰?¢	In a theft or fire loss claim, the claim includes a lot of recently purchased, expensive property, or the insured insists that everything was the best or the most expensiveSee page(s) 1.1109-1.1113 in the Fraud Examiner's Manual

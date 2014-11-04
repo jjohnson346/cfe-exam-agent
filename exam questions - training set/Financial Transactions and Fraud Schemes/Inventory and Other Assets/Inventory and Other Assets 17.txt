@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=According to Corporate Fraud Handbook, which of the following is NOT one of the major categories of fraudulent financial statement schemes?
+
+Options=Fictitious revenues | Ghost employees | Timing differences | Improper disclosure
+
+CorrectResponse=1
+
+Explanation=According to Corporate Fraud Handbook, most financial statement schemes can be classified into one or more of these categories:‰?¢	Fictitious revenues‰?¢	Timing differences‰?¢	Concealed liabilities and expenses‰?¢	Improper disclosures‰?¢	Improper asset valuationsGhost employees are a type of payroll fraud scheme.See page(s) 361, 213 in the Corporate Fraud Handbook

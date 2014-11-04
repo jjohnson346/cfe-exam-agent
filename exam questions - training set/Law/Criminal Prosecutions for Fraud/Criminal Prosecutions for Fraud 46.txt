@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=According to the Federal Rules of Criminal Procedure, an indictment contains:
+
+Options=All the facts known to surround the charge(s) against the defendant | An in-depth, descriptive, concise statement of the facts surrounding the charge(s) against the defendant. | A plain, concise, definite statement of the essential facts constituting the charge(s) against the defendant. | None of the above
+
+CorrectResponse=2
+
+Explanation=Rule 7 of the Federal Rules of Criminal Procedure requires the indictment to be a plain, concise, but definite statement of the essential facts constituting the charge(s) against the defendant.See page(s) 2.512-2.513 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=If the jury selection process excludes certain groups, like minorities, the defense may challenge the entire jury pool.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Each party may remove any number of prospective jurors for cause. The defendant also may challenge the entire jury pool‰??called the venire‰??if the selection process systematically excludes certain groups, such as minorities, women, or young people.See page(s) 2.517 in the Fraud Examiner's Manual

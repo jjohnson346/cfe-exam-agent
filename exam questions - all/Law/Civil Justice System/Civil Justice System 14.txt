@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Under the 2006 Amendments to the Federal Rules of Civil Procedure, when should companies issue "litigation holds" and suspend the destruction of potentially relevant electronically stored information (ESI)?
+
+Options=When the judge sets the discovery schedule | When litigation is reasonably anticipated | When the company is served with the lawsuit | None of the above
+
+CorrectResponse=1
+
+Explanation=To comply with Rule 26 of the Federal Rules of Civil Procedure, organizations should create "litigation hold" procedures. These are the steps taken to notify employees to suspend the destruction of potentially relevant records. The duty to issue a litigation hold arises when litigation is "reasonably anticipated."See page(s) 2.608 in the Fraud Examiner's Manual

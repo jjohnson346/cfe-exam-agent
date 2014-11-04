@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Which of the following is an example of a self-regulatory organization?
+
+Options=SEC | CIA | FINRA | FBI
+
+CorrectResponse=2
+
+Explanation=The SEC delegates significant regulatory authority to self-regulatory organizations (SROs). The SROs oversee the markets they operate and police the member firms participating in those markets. SROs create and enforce rules dealing with such areas as listing of securities, exchange and settlement procedures, and member qualifications. In 2007, the Financial Industry Regulatory Authority (FINRA) was created through the consolidation of NASD and the member regulation, enforcement, and arbitration functions of the New York Stock Exchange. FINRA is dedicated to investor protection and market integrity through effective and efficient regulation and complementary compliance and technology-based services.See page(s) 1.1513 in the Fraud Examiner’s Manual

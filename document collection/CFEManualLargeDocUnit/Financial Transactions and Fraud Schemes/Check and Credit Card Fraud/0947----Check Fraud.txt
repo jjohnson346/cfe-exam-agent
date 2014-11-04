@@ -1,0 +1,950 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/CHECK AND CREDIT CARD FRAUD/Check Fraud
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Check and Credit Card Fraud
+
+
+:
+
+
+Check Fraud 
+Check fraud is one of the fastest-growing problems affecting the nation’s financial system,  
+producing estimated yearly losses of up to $20 billion. Not only is the dollar amount 
+involved in check fraud increasing yearly, the complexity of fraud tools is growing as well. 
+With increased sophistication in laser printers, more accurate color copiers and desktop 
+publishing capabilities, duplicating and forging checks has become more accurate and thus 
+more difficult to detect.  
+ 
+Due to demands of law enforcement, prosecutors fail to pursue 75 percent of bank check 
+fraud cases. According to the U.S. Government Accountability Office, in large cities where a 
+majority of resources are used to prosecute violent crime the percentage rises to 90 percent. 
+Law enforcement officials may neglect reports of check fraud, feeling that businesses ought 
+to be more vigilant in detecting bad checks. Many merchants have tried to use the police and 
+prosecutors as check collection agencies; therefore, law enforcement and prosecutors are 
+often not eager to pursue these cases. Many bad-check-passers are constantly on the move, 
+as well, making prosecution even more difficult. 
+ 
+The best solution for financial institutions and merchants, then, is to educate employees to 
+recognize forged and fraudulent checks and the schemes behind them. Merchants and 
+financial institutions should have a strict check acceptance policy with which all employees 
+are familiar. When accepting checks, employees should always ask for identification and 
+make sure it is valid. Many check passers mollify store personnel by showing them a small 
+laminated rectangular document with a picture. After looking at several hundred of these, 
+most employees tend not to scrutinize them. Check passers count on this. It is important for 
+employees to examine each piece of identification closely every time they are presented 
+ with one. 
+ 
+Employers must also watch for behavior among employees that could be red flags of inside 
+check fraud. Dissatisfaction with job, pay rate, or home life; a lack of recognition or lavish 
+lifestyle; or a problem with gambling, alcohol, or drugs are indications that an employee may 
+be committing internal fraud. 
+ 
+Check and Credit Card Fraud  Financial Transactions   
+1.1002                           2011 Fraud Examiners Manual  
+Counterfeiting Checks 
+An effective check counterfeiting operation can turn a simple $5,000 investment into a 
+$1,000,000 windfall within a 30-day timeframe. This can be done without high levels of 
+computer expertise or programming. Simple check printing software can be purchased in 
+almost any office supply store along with blank paper stock and magnetic ink cartridges. The 
+overall initial investment consists of a quality computer, color inkjet printer, check format 
+and MICR font software, magnetic ink cartridges, and paper stock. After making the initial 
+investment, the printers only have to concern themselves with purchasing additional ink  
+and paper. 
+ 
+Signs of Counterfeit and Forged Checks 
+A counterfeiter will go to great lengths to make his check appear to be the genuine article. 
+However, there are a few giveaways that a check is counterfeit. If the printing on the check 
+does not seem uniform in texture and color, or slants up or down, the check is not good. 
+Also, the transit number in the top right corner must match the electronically encoded 
+number at the bottom of the check. These numbers normally do not coincide on altered 
+checks. The first three of the electronically encoded numbers indicate the state and district 
+office of the issuer. Again, on forged checks, these numbers do not always match properly. 
+The check number itself should be found in the encoded serial number at the bottom.  
+ 
+Knowing that many merchants regard checks with low check numbers as suspect, forgers 
+often attempt to add a digit. Here again, they may have difficulty matching the ink used to 
+produce the check. A simple and effective method of detecting bad checks is to fan a group 
+of checks. Counterfeit checks will sometimes stand out as a slightly different color. 
+ 
+Check Fraud Vulnerabilities 
+A particular institution may be targeted for check frauds because of its location, inadequate 
+internal controls, or marketing strategies that present opportunities to savvy check fraud 
+artists. Some mutual funds companies, for example, regularly allow customers to open 
+accounts by mail, a form of communication with many security vulnerabilities. A significant 
+number of check fraud complaints from a particular geographic area may indicate the 
+presence of an active, organized group, which warrants law enforcement attention. 
+ 
+Investigators assigned to a region or institution should keep regular contact with businesses 
+and regulators. Specific inquiries aim to identify weaknesses, develop controls, and prevent 
+future losses. Analyzing the complaints filed by other victims of check fraud — including 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1003 
+retail operations, check cashing establishments and food stores—may reveal common 
+elements of schemes that might not otherwise seem related. 
+ 
+Check Theft 
+Three types of check theft are:  using stolen canceled checks to obtain new checks, check 
+washing, and stealing blank check stock. 
+• Stolen canceled checks and statements — Although a stolen canceled check can’t be negotiated, 
+it does have fraud implications. Using a stolen canceled check, a check thief can order 
+checks from a mail-order check printer and have them sent to a mail drop address. 
+Checks can then be written on the new stock and cashed once false identifications are 
+acquired. 
+• Check washing — Check washing takes place to the tu ne of $815 million every year in the 
+U.S., and it is increasing at an alarming rate. Checks are stolen from mailrooms and 
+mailboxes, and then the check is inserted into a solution of chemicals that can be 
+purchased at a hardware store. Once the check is dried, the fraudster can write in any 
+amount and the checks are usually cashed without question. Most check washers alter 
+checks for relatively small amounts. 
+• Stolen check stock — Professional thieves using sophisticated methods steal blank check 
+stock already encoded with customer account information, which makes passing the 
+check even easier. Corporate checks are the most likely target since they are easily cashed 
+and deposited. 
+ 
+Check Fraud Schemes 
+Paperhangers 
+Paperhangers are the experts of phony check passing. They frequently pick a particular 
+establishment or store and observe its security methods. Any store that scrutinizes check 
+writers’ identification is not a good target for a paperhanger. However, they will observe and 
+select the least experienced or most lackadaisical of store employees to whom to pass the 
+check. The paperhanger will then ask the clerk for cash back from the transaction and make 
+the check out for an amount greater than the price of the purchase. In some cases, the 
+checks being written are counterfeit; however, in other cases the checks are purposefully 
+being written on a closed account. A variation of this scam is making a fraudulent deposit at 
+a bank and asking for cash back.  
+ 
+These experts will go to great lengths to blend in with the clientele. Standing out in a crowd 
+is not to their advantage. Women are often quite good as paperhangers. A mother with 
+Check and Credit Card Fraud  Financial Transactions   
+1.1004                           2011 Fraud Examiners Manual  
+crying children paying with a check is usually not the profile one expects for a bad- 
+check-passer.  
+ 
+Stop Payment Orders 
+This scheme is quite simple. A “customer” purc hases an expensive item with a check, and 
+then notifies his bank to stop payment. Savvy check passers may even contact the merchant, 
+saying the item was defective, and that they should expect to hear from the customer’s 
+attorney. Meanwhile, the check passer sells the item for a tidy profit.  
+ 
+Another scenario is that, after purchasing the item and notifying the bank to stop payment, 
+the fraudster goes back to the store, wishing to return the item and receive a full refund. The 
+merchant refunds the amount in cash and the scheme is successful. 
+ 
+Check Kiting 
+Check kiting is one of the original white-collar crimes. It continues to survive even with a 
+financial institution’s ability to detect kiting. In a kiting scheme, multiple bank accounts are 
+opened and money is “deposited” from acco unt to account, although the money  
+never exists.  
+ 
+Floating makes check kiting possible. Floating is the additional value of funds generated in 
+the process of collection and arises because the current holder of funds has been given credit 
+for the funds before it clears the financial institution upon which it is drawn. Businesses are 
+most susceptible to check kiting, if they have employees who are authorized to write checks 
+or make deposits in more than one bank account. Today, check kiting is more difficult 
+because electronic technologies are making the float smaller all the time. In many cases, 
+electronic debiting to an account occurs simultaneously with the transaction. Unless 
+detected, this process can continue indefinitely, covering one check written against 
+insufficient funds with another check. 
+ 
+Demand Drafts 
+Demand drafts can also be used to commit check fraud. This practice involves the misuse of 
+account information to obtain funds from a person’s bank account without that person’s 
+signature on a negotiable instrument. Other terms for demand drafts are “preauthorized 
+drafts” and “telephone drafts.” While there are many legitimate business uses for demand 
+drafts, such as quick-turnaround telephone transactions initiated by airlines and car rental 
+companies, demand drafts have been used by deceptive telemarketers who obtain bank 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1005 
+account information and withdraw unauthorized funds from consumers’ bank accounts, 
+without their realizing that such withdrawals are occurring. 
+ 
+Third-Party Bill Paying Services 
+The checks produced by these third-party bill paying service providers do not include the 
+payor signature. Instead, the signature line reflects something such as “signature on file.” 
+Unauthorized checks produced by third-party payment services are not usually detected until 
+the customer reviews the monthly bank statement. By the time the customer identifies the 
+unauthorized check, it is often too late to recover the funds, since the “24-hour window” 
+(actually until midnight of the next banking day) for the timely return of checks has long 
+since passed. These checks usually sail right through the check sorting operation, since they 
+include good account information and sometimes even include good serial numbers. Too 
+often, both business and individual account holders seem unaware of how their account 
+information, given too freely to a requesting party, can be used for fraudulent purposes. 
+ 
+Traveler’s Checks 
+The use of traveler’s checks is declining signif icantly and will likely eventually be replaced by 
+electronic options. In fact, an increasing number of vendors in locations throughout 
+Europe—and in other parts of the world—no long er accept traveler’s checks as a valid form 
+of payment. However, for many travelers, traveler’s checks continue to provide a convenient 
+payment method while abroad. 
+ 
+Anyone familiar with traveler’s checks knows that $100 checks are quite common. Some 
+check rings specialize in the production and distribution of this type of check. Commonly, 
+check passers of this type make small purchases using a fake $100 traveler’s check, and 
+receive the bulk of the amount back in cash. Naturally, this scheme works well in areas that 
+have a lot of tourist business. Rings often pull this scam several times in one area in rapid 
+succession.  
+ 
+Traveler’s checks have several distinguishing features. Watermarks and holograms are 
+common, as well as microprinting and ultraviolet ink. There are basically two methods of 
+counterfeiting traveler’s checks: color copyin g and offset lithography/printing. Color copied 
+checks lack the raised ink texture that the intaglio printing press gives most traveler’s checks. 
+Instead of a textured feel, a phony check will appear slick and flat. Offset lithographic 
+reproductions of actual checks are of higher quality than color-copied checks. However, 
+Check and Credit Card Fraud  Financial Transactions   
+1.1006                           2011 Fraud Examiners Manual  
+neither will have the texture, watermarks, microprinting, or holograms that the genuine 
+articles have.  
+ 
+Payroll Check Fraud 
+Check procurers employed by payroll check processing companies print duplicate payroll 
+checks that are sold to third parties or are cashed by members of the procurer’s organization. 
+To avoid the security employed by financial institutions, the checks are cashed at grocery 
+stores and check-cashing operations with loose controls. The checks are usually written for 
+amounts of $300 or less to avoid suspicion. Of course, check procurers have access to 
+personal information on the legitimate recipients of the payroll checks and make use of it in 
+the future. 
+ 
+Dumpster Diving 
+Often, check fraud can be as simple as retrieving bank materials from a trash receptacle. 
+ 
+EXAMPLE 
+Thirty people were charged in a $10 millio n fraud scheme that involved counterfeiting 
+checks, bank statements, and credit card receipts pulled out of the trash. The defendants, 
+who defrauded people in 17 states, used checks, bank statements, credit card receipts, and 
+other documents from garbage bins to create counterfeit checks, false driver’s licenses, and 
+false credit reports, officials said. Counterfeit  blank checks, printed on high-quality color 
+printers, allegedly were used to  defraud banks of $2 million. 
+ 
+Obviously, this type of fraud is easily preventable through proper disposal by banks, 
+merchants, and individuals of sensitive and confidential materials.  
+ 
+Scanning 
+Scanning requires a scanner and a legitimate check. Scanners can be purchased for less than 
+$200 and checks are readily available without having to actually steal the check. Checks can 
+then be manufactured by scanning a corporate logo from a business card onto a simple 
+business-sized check. 
+ 
+System Password Security Compromised 
+People having legitimate access to sensitive account and daily code information for a limited 
+time (for example, computer consultants) effect improper transfers through unauthorized 
+access. 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1007 
+Check Fraud Rings 
+Since the late 1980s, foreign crime rings have been the cause of the majority of check fraud 
+in the U.S. Most major financial institutions attribute more than 50 percent of all check fraud 
+to organized crime rings. In 2007, an international task force monitored the mail in Africa, 
+Europe, and North America and intercepted billions of dollars worth (face-value) of 
+counterfeit checks.  
+ 
+The perpetrators of organized check fraud activity are often based in Nigeria, Russia, 
+Vietnam, and Mexico. Most of the Vietnamese and Mexican rings operate in California, 
+notably San Francisco, Orange County, and Sa cramento. The Russian and Nigerian rings, 
+centered in the Northeast, spread their criminal activities over a wide area and can be found 
+passing through any part of the U.S. at any time. While most of these gangs are involved in 
+drug trafficking and violent crimes, check and credit card fraud are considered “safe” crimes. 
+The chances of being arrested and prosecuted are relatively low and the penalties are not 
+very harsh. 
+ 
+The equipment essential to a check fraud ring are a laser scanner, laser printer and a personal 
+computer, easily obtainable items, the total cost of which is about $1,500. These rings use 
+digital scanners and offset printing to counterfeit checks. The checks are cashed by members 
+of the ring or sold to third parties. 
+ 
+Most rings specialize in payroll or other institutional checks, written for amounts less than 
+$300. But some groups infiltrate financial institutions, collecting corporate payroll checks, 
+money orders, and master original bank checks, cashing the duplicates for between $2,000 
+and $5,000. 
+ 
+In recent years, members of Nigerian and Vi etnamese rings have infiltrated or obtained 
+accomplices in financial institutions. There they gather personal information on customers, 
+passing the information to counterfeiters who produce falsified identification (driver’s 
+licenses, credit cards, etc.), which is used to open accounts, establish lines of credit, and 
+secure loans. An organized group may include a counterfeiter or printer, a distributor, one or 
+more providers of false identification, and several “smurfs,” who open false bank accounts 
+or visit check-cashing establishments to negotiate fraudulent checks.  
+ 
+Foreign crime rings that practice check fraud are ethnically homogenous and usually not 
+rigidly structured. It is common for only the leaders of these rings to know the extent of the 
+Check and Credit Card Fraud  Financial Transactions   
+1.1008                           2011 Fraud Examiners Manual  
+participation of their subordinates. The leaders of such groups are usually quite intelligent 
+and educated. Often, they have an extensive criminal or business background and direct the 
+group’s activities. Gangs have been known to share members and cooperate with one 
+another in the past. 
+ 
+Check Fraud Detection 
+FBI Profile of Check Fraud Activity 
+According to an analysis by FBI investigators in the New York City area, fraudulent check 
+passers use the following common techniques: 
+• Customer attempts to open an account with a corporate check or other third- 
+party check. 
+• Customer tries to flatter, hurry, or confuse the teller to draw attention away from  
+the transaction. 
+• Customer delays endorsing a check or producing identification during peak hours to 
+frustrate the teller and hurry the transaction. 
+• Customer presents for cash a low-numbered check drawn on a new account. 
+• Customer offers foreign documentation (birth certificate, passport, visa) or non-photo 
+identification (Social Security card, credit card) in lieu of photo identification to open an 
+account or cash a check. 
+• Customer offers altered or damaged identification to open an account or cash a check. 
+• Customer attempts to cash or convert several small checks into wire transfer, gold, or 
+other tender. 
+• Customer requests an exception to established rules to force the transaction. 
+ 
+Detection Techniques 
+The cashier or teller is the front-line defense in preventing check fraud. It is important that 
+they receive the training necessary to identify fraudulent checks. They should: 
+• Be aware of magnetic routing numbers. 
+• Use extra care in examining a check drawn from a non-local bank and require  
+positive identification. 
+• Examine the date on the check for accuracy of day, month, and year. Do not accept the 
+check if it is not dated, if it is postdated, or if it is more than 30 days old. 
+• Look for checks with a check number less than 400 on personal checks or below 1,500 
+on business checks (90 percent of bad checks are written on accounts less than one 
+year old). 
+• Be aware of fonts used to print the customer’s  name that are visibly different from the 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1009 
+font used to print the address. 
+• Be aware that the magnetic ink (MICR) used for routing codes should appear non-
+ reflective and dull. 
+• Look for MICR coding that does not match the bank district and the routing symbol in 
+the upper right-hand corner of the check. 
+• Be aware of the date that the account was opened. 
+• Be aware of stains or discolorations on the check possibly caused by erasures or 
+alterations. 
+• Have easy access to the signature card. 
+• Look for perforated edges of the checks. 
+• Be aware that a color copy might reflect odd colors at times due to a failure of the toner 
+to mix satisfactorily. 
+• Notice absence of any design in the background of the check paper. 
+• Notice absence of bank logo and the printing of the bank name in the regular lettering. 
+• Notice absence of the address of the bank on the check. 
+• Be cautious of information that is typed or stamped. 
+• Do not accept a check that is not legibly written. It should be written and signed in ink 
+and must not have any erasures or written-over amounts.  
+• Be aware of what is acceptable identification. 
+• Recognize forged/altered information. 
+• Recognize forged negotiable instruments. 
+• Tellers should telephone the business or account officer for approval on suspicious 
+requests. 
+• Be familiar with patterns of behavior related to potential culprits: 
+? Overly polite 
+? Nervous 
+? Aggressive and hurried 
+ 
+Check Fraud Prevention and Investigation 
+Since the Federal Reserve’s Regulation CC was implemented, mandating accelerated 
+availability of customers’ funds, check fraud at banks has increased. Most bank customers’ 
+funds are available for withdrawal a day after deposit, leaving the bank little time to verify 
+the validity of the transaction. Regulation CC, however, allows banks two days to make 
+funds available. Most banks provide next-day withdrawal in order to stay competitive. 
+ 
+Check and Credit Card Fraud  Financial Transactions   
+1.1010                           2011 Fraud Examiners Manual  
+Additionally, special security printing techniques have been developed to make 
+counterfeiting blank checks more difficult. One of the features is the use of a pattern of 
+colors that is difficult to separate even with special cameras, filters, and film. Another 
+technique used is scrambled indicia printing, which is a seemingly random pattern of tiny 
+colored dots printed on the paper. Using a colored filter to view the check will make a word 
+or pattern develop.  
+ 
+Still another technique, which is also used by credit card issuers, is to print a “micro-line” on 
+the check, which appears as a solid line when viewed normally. But using a magnifying glass 
+will show that the line is actually very small words or letters, which are very difficult to 
+recreate with the normal printing process. Other security measures include using a three 
+dimensional hologram, which is easily identifiable by the human eye, but is impossible to 
+reproduce via ordinary copying or printing. Some checks have a security seal on the back of 
+the check that is visible when held up to a light. Reproductions, even good ones, will not 
+have a seal.  
+ 
+Check Fraud Investigations 
+During a check fraud investigation, look for the following: 
+• Frequent deposits and checks: 
+? In the same amounts. 
+? In round numbers. 
+? With checks written on the same (other) bank. 
+• Frequent ATM account balance inquiries. 
+• Many large deposits made on Thursday or Friday to take advantage of the weekend. 
+• Large periodic balances in individual  accounts with no apparent business. 
+• Low average balance compared to high level of deposits. 
+• Many checks made payable to other banks. 
+• Bank willingness to pay against uncollected funds. 
+• Deposits not made daily or intact. 
+• Entity uses receipts that do not indicate mode of payment. 
+• One or more personal checks in the cash drawer by the fund custodian. 
+• Deposit timing lags. 
+• Irregular check endorsements. 
+• Amount of deposit does not agree with daily activity report. 
+• Inappropriate access to signature plate. 
+ 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1011 
+• Check numbers, payee name, date, and amount don’t agree with entries in the  
+check register. 
+• Voided checks are not retained. 
+• Checks are issued to individuals for large, even dollar amounts. 
+• Supporting documentation for checks is not available or has been prematurely destroyed. 
+• Cash withdrawal with deposit checks drawn on another bank. 
+ 
+There are several tips for businesses to use when cashing business and payroll checks: 
+• Examine all checks. Insist that the check be signed in front of the clerk. Compare the 
+signature written on the check with the signature on the driver’s license or state 
+identification. 
+• Be particularly careful with large-dollar checks presented by noncustomers.  
+• Examine all checks for signs of counterfeiting, such as a glossy, “crayonish” appearance 
+and any lack of detail and sharpness. 
+• Look for signs of alterations or erasures, es pecially in the signature or numerical and 
+written amounts.  
+• Compare the bank identification and routing numbers for a match. 
+• The texture of the check should appear smooth; a rough document might signal 
+erasures. 
+• Be cautious of information that is typed or stamped. 
+• All checks, except government issue, should have at least one perforated edge. 
+• The magnetic ink used for routing codes should appear nonreflective and dull. 
+• Look for faded colored paper, which can indicate that the check has been chemically 
+bleached. 
+• A color copy might reflect odd colors at times due to a failure of the toner to mix 
+satisfactorily. 
+• Black lettering might have a slightly greenish cast when examined under a magnifying 
+glass. 
+• A light colored or delicate background might fade out when copied. 
+• Absence of any design in background of check paper. 
+• Absence of bank logo and the printing of the bank name in regular lettering. 
+• Absence of the address of the bank on the check. 
+• Overall appearance of poor quality of printing and paper. 
+• A payroll check will usually be for an odd amount and will appear neat, clean, and  
+usually unfolded. 
+  
+Check and Credit Card Fraud  Financial Transactions   
+1.1012                           2011 Fraud Examiners Manual  
+• Tellers should telephone the business or account officer for approval on suspicious 
+requests. 
+ 
+Check Fraud Prevention Tools 
+CHECK WRITING PENS 
+When a check is written, a special pen designed to prevent check washing should be used. 
+These pens are called “check writing” pens and can be found at just about any office supply 
+store. These pens have special ink that will prevent criminals from using solvents to remove 
+ink from the check. When someone tries to wash a check written from these pens, it will 
+either not work, thereby leaving the check intact, or smear the ink and make it apparent that 
+a check has been washed. 
+ 
+Individuals with business accounts are a much greater risk when it comes to check washing. 
+Businesses have much stricter requirements in terms of what the company must do to 
+protect their checks. If the business doesn’t follow a strict plan to protect their checks, it’s 
+likely that if any money is stolen from their accounts, the bank will not return their money. If 
+an individual has a business account, they should make sure that the checks are locked 
+securely when not in use. Make sure not to leave blank computer-printed checks in the 
+printer or the business will be equally liable for the money that could potentially be stolen.  
+ 
+FINGERPRINT IDENTIFIERS 
+A biometric fingerprint identifier  requires the check writer to match fingerprints with the account 
+holder’s, which are on file. Banks reported reductions in check fraud of 40 percent after the 
+machine was introduced in the mid-1990s. 
+ 
+Non-account holders who want checks cashed at banks that have implemented this system 
+are required to put an inkless fingerprint on their check. If the check does prove false, law 
+enforcement will already have evidence regarding the fraudster’s identity. The cost to a bank 
+of implementing the inkless fingerprint system could be redeemed by preventing a single 
+instance of check fraud. Banks throughout the nation now use this technique to cut  
+fraud losses. 
+ 
+FORENSIC DOCUMENT EXAMINATION 
+Through handwriting, an individual can be positively identified, as is the case with DNA or 
+fingerprinting. When investigating check fraud, a forensic document examiner focuses on 
+the signature and the handwriting itself.  
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1013 
+SIGNATURE 
+If the examiner were investigating a forged signature, he would compare the suspicious 
+signature to a sample of the actual one, noting discrepancies between the two. While one’s 
+signature may change over time, it would be close to impossible for a forger to duplicate a 
+signature with one hundred percent accuracy;  minute identifying characteristics mark 
+people’s writing and are not reproducible. 
+ 
+The eBank ™ Discovery System, developed by ASV Technologies, employs signature 
+verification software. Using “multiple feat ure set extraction” technology drawn from 
+forensic science, the state and quality of a signature’s two-dimensional characteristics are 
+analyzed and verified against samples. The program identifies flourishes, arcs, distances 
+between letters, and up to 100 other features. Rejected signatures, along with the reason for 
+rejection and signature samples, are forwarded to a human for visual verification. ASV 
+Technologies claim its results match those of the most highly trained and accurate signature 
+verifier. 
+ 
+HANDWRITING 
+Like fingerprints, handwriting is unique to an individual. Consequently, if the narrative 
+portion of the check is handwritten, it offers a document examiner a greater opportunity to 
+identify a forgery. 
+ 
+VIDEO SPECTRAL COMPARATOR 
+Forensic examiners use this tool to test questionable documents. The document is examined 
+for photocopying and liquid paper under a controlled light source. Lettering added to a 
+document can be detected with this device. 
+ 
+ELECTROSTATIC DETECTION APPARATUS 
+This tool allows examiners to detect indented writing from the top page of a pad of paper up 
+to five pages below the original. The Electrostatic Detection Apparatus uses photocopier 
+toner to develop the areas of indentation after a document has been covered with an 
+electrically charged plastic film. In the best of cases, when the document is processed with 
+the electrostatic device and the toner image is developed, the writing impressions are clearly 
+defined and highly contrasted. If the developed writing is to be used in an investigation or to 
+demonstrate results for the courts, the examiner must turn to electronic image processing 
+technology for further enhancement. 
+ 
+Check and Credit Card Fraud  Financial Transactions   
+1.1014                           2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+check fraud
+check fraud is on of the fastestgrow problem affect the nation financi system
+produc estim yearli loss of up to 20 billion not onli is the dollar amount
+involv in check fraud increas yearli the complex of fraud tool is grow as well
+with increas sophist in laser printer more accur color copier and desktop
+publish capabl duplic and forg check ha becom more accur and thu
+more difficult to detect
+due to demand of law enforc prosecutor fail to pursu 75 percent of bank check
+fraud case accord to the us govern account offic in larg citi where a
+major of resourc ar us to prosecut violent crime the percentag rise to 90 percent
+law enforc offici mai neglect report of check fraud feel that busi ought
+to be more vigil in detect bad check mani merchant have tri to us the polic and
+prosecutor as check collect agenc therefor law enforc and prosecutor ar
+often not eager to pursu these case mani badcheckpass ar constantli on the move
+as well make prosecut even more difficult
+the best solut for financi institut and merchant then is to educ employe to
+recogn forg and fraudul check and the scheme behind them merchant and
+financi institut should have a strict check accept polici with which all employe
+ar familiar when accept check employe should alwai ask for identif and
+make sure it is valid mani check passer mollifi store personnel by show them a small
+lamin rectangular document with a pictur after look at sever hundr of these
+most employe tend not to scrutin them check passer count on thi it is import for
+employe to examin each piec of identif close everi time thei ar present
+with on
+employ must also watch for behavior among employe that could be red flag of insid
+check fraud dissatisfact with job pai rate or home life a lack of recognit or lavish
+lifestyl or a problem with gambl alcohol or drug ar indic that an employe mai
+be commit intern fraud
+check and credit card fraud financi transact
+11002 2011 fraud examin manual
+counterfeit check
+an effect check counterfeit oper can turn a simpl 5000 invest into a
+1000000 windfal within a 30dai timefram thi can be done without high level of
+comput expertis or program simpl check print softwar can be purchas in
+almost ani offic suppli store along with blank paper stock and magnet ink cartridg the
+overal initi invest consist of a qualiti comput color inkjet printer check format
+and micr font softwar magnet ink cartridg and paper stock after make the initi
+invest the printer onli have to concern themselv with purchas addit ink
+and paper
+sign of counterfeit and forg check
+a counterfeit will go to great length to make hi check appear to be the genuin articl
+howev there ar a few giveawai that a check is counterfeit if the print on the check
+doe not seem uniform in textur and color or slant up or down the check is not good
+also the transit number in the top right corner must match the electron encod
+number at the bottom of the check these number normal do not coincid on alter
+check the first three of the electron encod number indic the state and district
+offic of the issuer again on forg check these number do not alwai match properli
+the check number itself should be found in the encod serial number at the bottom
+know that mani merchant regard check with low check number as suspect forger
+often attempt to add a digit here again thei mai have difficulti match the ink us to
+produc the check a simpl and effect method of detect bad check is to fan a group
+of check counterfeit check will sometim stand out as a slightli differ color
+check fraud vulner
+a particular institut mai be target for check fraud becaus of it locat inadequ
+intern control or market strategi that present opportun to savvi check fraud
+artist some mutual fund compani for exampl regularli allow custom to open
+account by mail a form of commun with mani secur vulner a signific
+number of check fraud complaint from a particular geograph area mai indic the
+presenc of an activ organ group which warrant law enforc attent
+investig assign to a region or institut should keep regular contact with busi
+and regul specif inquiri aim to identifi weak develop control and prevent
+futur loss analyz the complaint file by other victim of check fraud includ
+financi transact check and credit card fraud
+2011 fraud examin manual 11003
+retail oper check cash establish and food storesmai reveal common
+element of scheme that might not otherwis seem relat
+check theft
+three type of check theft ar us stolen cancel check to obtain new check check
+wash and steal blank check stock
+stolen cancel check and statement although a stolen cancel check cant be negoti
+it doe have fraud implic us a stolen cancel check a check thief can order
+check from a mailord check printer and have them sent to a mail drop address
+check can then be written on the new stock and cash onc fals identif ar
+acquir
+check wash check wash take place to the tu ne of 815 million everi year in the
+us and it is increas at an alarm rate check ar stolen from mailroom and
+mailbox and then the check is insert into a solut of chemic that can be
+purchas at a hardwar store onc the check is dri the fraudster can write in ani
+amount and the check ar usual cash without question most check washer alter
+check for rel small amount
+stolen check stock profession thiev us sophist method steal blank check
+stock alreadi encod with custom account inform which make pass the
+check even easier corpor check ar the most like target sinc thei ar easili cash
+and deposit
+check fraud scheme
+paperhang
+paperhang ar the expert of phoni check pass thei frequent pick a particular
+establish or store and observ it secur method ani store that scrutin check
+writer identif is not a good target for a paperhang howev thei will observ and
+select the least experienc or most lackadais of store employe to whom to pass the
+check the paperhang will then ask the clerk for cash back from the transact and make
+the check out for an amount greater than the price of the purchas in some case the
+check be written ar counterfeit howev in other case the check ar purposefulli
+be written on a close account a variat of thi scam is make a fraudul deposit at
+a bank and ask for cash back
+these expert will go to great length to blend in with the clientel stand out in a crowd
+is not to their advantag women ar often quit good as paperhang a mother with
+check and credit card fraud financi transact
+11004 2011 fraud examin manual
+cry children pai with a check is usual not the profil on expect for a bad
+checkpass
+stop payment order
+thi scheme is quit simpl a custom purc hase an expens item with a check and
+then notifi hi bank to stop payment savvi check passer mai even contact the merchant
+sai the item wa defect and that thei should expect to hear from the custom
+attornei meanwhil the check passer sell the item for a tidi profit
+anoth scenario is that after purchas the item and notifi the bank to stop payment
+the fraudster goe back to the store wish to return the item and receiv a full refund the
+merchant refund the amount in cash and the scheme is success
+check kite
+check kite is on of the origin whitecollar crime it continu to surviv even with a
+financi institut abil to detect kite in a kite scheme multipl bank account ar
+open and monei is deposit from acco unt to account although the monei
+never exist
+float make check kite possibl float is the addit valu of fund gener in
+the process of collect and aris becaus the current holder of fund ha been given credit
+for the fund befor it clear the financi institut upon which it is drawn busi ar
+most suscept to check kite if thei have employe who ar author to write check
+or make deposit in more than on bank account todai check kite is more difficult
+becaus electron technolog ar make the float smaller all the time in mani case
+electron debit to an account occur simultan with the transact unless
+detect thi process can continu indefinit cover on check written against
+insuffici fund with anoth check
+demand draft
+demand draft can also be us to commit check fraud thi practic involv the misus of
+account inform to obtain fund from a person bank account without that person
+signatur on a negoti instrument other term for demand draft ar preauthor
+draft and telephon draft while there ar mani legitim busi us for demand
+draft such as quickturnaround telephon transact initi by airlin and car rental
+compani demand draft have been us by decept telemarket who obtain bank
+financi transact check and credit card fraud
+2011 fraud examin manual 11005
+account inform and withdraw unauthor fund from consum bank account
+without their realiz that such withdraw ar occur
+thirdparti bill pai servic
+the check produc by these thirdparti bill pai servic provid do not includ the
+payor signatur instead the signatur line reflect someth such as signatur on file
+unauthor check produc by thirdparti payment servic ar not usual detect until
+the custom review the monthli bank statement by the time the custom identifi the
+unauthor check it is often too late to recov the fund sinc the 24hour window
+actual until midnight of the next bank dai for the time return of check ha long
+sinc pass these check usual sail right through the check sort oper sinc thei
+includ good account inform and sometim even includ good serial number too
+often both busi and individu account holder seem unawar of how their account
+inform given too freeli to a request parti can be us for fraudul purpos
+travel check
+the us of travel check is declin signif icantli and will like eventu be replac by
+electron option in fact an increas number of vendor in locat throughout
+europeand in other part of the worldno long er accept travel check as a valid form
+of payment howev for mani travel travel check continu to provid a conveni
+payment method while abroad
+anyon familiar with travel check know that 100 check ar quit common some
+check ring special in the product and distribut of thi type of check commonli
+check passer of thi type make small purchas us a fake 100 travel check and
+receiv the bulk of the amount back in cash natur thi scheme work well in area that
+have a lot of tourist busi ring often pull thi scam sever time in on area in rapid
+success
+travel check have sever distinguish featur watermark and hologram ar
+common as well as microprint and ultraviolet ink there ar basic two method of
+counterfeit travel check color copyin g and offset lithographyprint color copi
+check lack the rais ink textur that the intaglio print press give most travel check
+instead of a textur feel a phoni check will appear slick and flat offset lithograph
+reproduct of actual check ar of higher qualiti than colorcopi check howev
+check and credit card fraud financi transact
+11006 2011 fraud examin manual
+neither will have the textur watermark microprint or hologram that the genuin
+articl have
+payrol check fraud
+check procur emploi by payrol check process compani print duplic payrol
+check that ar sold to third parti or ar cash by member of the procur organ
+to avoid the secur emploi by financi institut the check ar cash at groceri
+store and checkcash oper with loos control the check ar usual written for
+amount of 300 or less to avoid suspicion of cours check procur have access to
+person inform on the legitim recipi of the payrol check and make us of it in
+the futur
+dumpster dive
+often check fraud can be as simpl as retriev bank materi from a trash receptacl
+exampl
+thirti peopl were charg in a 10 millio n fraud scheme that involv counterfeit
+check bank statement and credit card receipt pull out of the trash the defend
+who defraud peopl in 17 state us check bank statement credit card receipt and
+other document from garbag bin to creat counterfeit check fals driver licens and
+fals credit report offici said counterfeit blank check print on highqual color
+printer allegedli were us to defraud bank of 2 million
+obvious thi type of fraud is easili prevent through proper dispos by bank
+merchant and individu of sensit and confidenti materi
+scan
+scan requir a scanner and a legitim check scanner can be purchas for less than
+200 and check ar readili avail without have to actual steal the check check can
+then be manufactur by scan a corpor logo from a busi card onto a simpl
+businesss check
+system password secur compromis
+peopl have legitim access to sensit account and daili code inform for a limit
+time for exampl comput consult effect improp transfer through unauthor
+access
+financi transact check and credit card fraud
+2011 fraud examin manual 11007
+check fraud ring
+sinc the late 1980 foreign crime ring have been the caus of the major of check fraud
+in the us most major financi institut attribut more than 50 percent of all check fraud
+to organ crime ring in 2007 an intern task forc monitor the mail in africa
+europ and north america and intercept billion of dollar worth facevalu of
+counterfeit check
+the perpetr of organ check fraud activ ar often base in nigeria russia
+vietnam and mexico most of the vietnames and mexican ring oper in california
+notabl san francisco orang counti and sa cramento the russian and nigerian ring
+center in the northeast spread their crimin activ over a wide area and can be found
+pass through ani part of the us at ani time while most of these gang ar involv in
+drug traffick and violent crime check and credit card fraud ar consid safe crime
+the chanc of be arrest and prosecut ar rel low and the penalti ar not
+veri harsh
+the equip essenti to a check fraud ring ar a laser scanner laser printer and a person
+comput easili obtain item the total cost of which is about 1500 these ring us
+digit scanner and offset print to counterfeit check the check ar cash by member
+of the ring or sold to third parti
+most ring special in payrol or other institut check written for amount less than
+300 but some group infiltr financi institut collect corpor payrol check
+monei order and master origin bank check cash the duplic for between 2000
+and 5000
+in recent year member of nigerian and vi etnames ring have infiltr or obtain
+accomplic in financi institut there thei gather person inform on custom
+pass the inform to counterfeit who produc falsifi identif driver
+licens credit card etc which is us to open account establish line of credit and
+secur loan an organ group mai includ a counterfeit or printer a distributor on or
+more provid of fals identif and sever smurf who open fals bank account
+or visit checkcash establish to negoti fraudul check
+foreign crime ring that practic check fraud ar ethnic homogen and usual not
+rigidli structur it is common for onli the leader of these ring to know the extent of the
+check and credit card fraud financi transact
+11008 2011 fraud examin manual
+particip of their subordin the leader of such group ar usual quit intellig
+and educ often thei have an extens crimin or busi background and direct the
+group activ gang have been known to share member and cooper with on
+anoth in the past
+check fraud detect
+fbi profil of check fraud activ
+accord to an analysi by fbi investig in the new york citi area fraudul check
+passer us the follow common techniqu
+custom attempt to open an account with a corpor check or other third
+parti check
+custom tri to flatter hurri or confus the teller to draw attent awai from
+the transact
+custom delai endors a check or produc identif dure peak hour to
+frustrat the teller and hurri the transact
+custom present for cash a lownumb check drawn on a new account
+custom offer foreign document birth certif passport visa or nonphoto
+identif social secur card credit card in lieu of photo identif to open an
+account or cash a check
+custom offer alter or damag identif to open an account or cash a check
+custom attempt to cash or convert sever small check into wire transfer gold or
+other tender
+custom request an except to establish rule to forc the transact
+detect techniqu
+the cashier or teller is the frontlin defens in prevent check fraud it is import that
+thei receiv the train necessari to identifi fraudul check thei should
+be awar of magnet rout number
+us extra care in examin a check drawn from a nonloc bank and requir
+posit identif
+examin the date on the check for accuraci of dai month and year do not accept the
+check if it is not date if it is postdat or if it is more than 30 dai old
+look for check with a check number less than 400 on person check or below 1500
+on busi check 90 percent of bad check ar written on account less than on
+year old
+be awar of font us to print the custom name that ar visibl differ from the
+financi transact check and credit card fraud
+2011 fraud examin manual 11009
+font us to print the address
+be awar that the magnet ink micr us for rout code should appear non
+reflect and dull
+look for micr code that doe not match the bank district and the rout symbol in
+the upper righthand corner of the check
+be awar of the date that the account wa open
+be awar of stain or discolor on the check possibl caus by erasur or
+alter
+have easi access to the signatur card
+look for perfor edg of the check
+be awar that a color copi might reflect odd color at time due to a failur of the toner
+to mix satisfactorili
+notic absenc of ani design in the background of the check paper
+notic absenc of bank logo and the print of the bank name in the regular letter
+notic absenc of the address of the bank on the check
+be cautiou of inform that is type or stamp
+do not accept a check that is not legibl written it should be written and sign in ink
+and must not have ani erasur or writtenov amount
+be awar of what is accept identif
+recogn forgedalt inform
+recogn forg negoti instrument
+teller should telephon the busi or account offic for approv on suspici
+request
+be familiar with pattern of behavior relat to potenti culprit
+overli polit
+nervou
+aggress and hurri
+check fraud prevent and investig
+sinc the feder reserv regul cc wa implement mandat acceler
+avail of custom fund check fraud at bank ha increas most bank custom
+fund ar avail for withdraw a dai after deposit leav the bank littl time to verifi
+the valid of the transact regul cc howev allow bank two dai to make
+fund avail most bank provid nextdai withdraw in order to stai competit
+check and credit card fraud financi transact
+11010 2011 fraud examin manual
+addition special secur print techniqu have been develop to make
+counterfeit blank check more difficult on of the featur is the us of a pattern of
+color that is difficult to separ even with special camera filter and film anoth
+techniqu us is scrambl indicia print which is a seemingli random pattern of tini
+color dot print on the paper us a color filter to view the check will make a word
+or pattern develop
+still anoth techniqu which is also us by credit card issuer is to print a microlin on
+the check which appear as a solid line when view normal but us a magnifi glass
+will show that the line is actual veri small word or letter which ar veri difficult to
+recreat with the normal print process other secur measur includ us a three
+dimension hologram which is easili identifi by the human ey but is imposs to
+reproduc via ordinari copi or print some check have a secur seal on the back of
+the check that is visibl when held up to a light reproduct even good on will not
+have a seal
+check fraud investig
+dure a check fraud investig look for the follow
+frequent deposit and check
+in the same amount
+in round number
+with check written on the same other bank
+frequent atm account balanc inquiri
+mani larg deposit made on thursdai or fridai to take advantag of the weekend
+larg period balanc in individu account with no appar busi
+low averag balanc compar to high level of deposit
+mani check made payabl to other bank
+bank willing to pai against uncollect fund
+deposit not made daili or intact
+entiti us receipt that do not indic mode of payment
+on or more person check in the cash drawer by the fund custodian
+deposit time lag
+irregular check endors
+amount of deposit doe not agre with daili activ report
+inappropri access to signatur plate
+financi transact check and credit card fraud
+2011 fraud examin manual 11011
+check number paye name date and amount dont agre with entri in the
+check regist
+void check ar not retain
+check ar issu to individu for larg even dollar amount
+support document for check is not avail or ha been prematur destroi
+cash withdraw with deposit check drawn on anoth bank
+there ar sever tip for busi to us when cash busi and payrol check
+examin all check insist that the check be sign in front of the clerk compar the
+signatur written on the check with the signatur on the driver licens or state
+identif
+be particularli care with largedollar check present by noncustom
+examin all check for sign of counterfeit such as a glossi crayonish appear
+and ani lack of detail and sharp
+look for sign of alter or erasur es pecial in the signatur or numer and
+written amount
+compar the bank identif and rout number for a match
+the textur of the check should appear smooth a rough document might signal
+erasur
+be cautiou of inform that is type or stamp
+all check except govern issu should have at least on perfor edg
+the magnet ink us for rout code should appear nonreflect and dull
+look for fade color paper which can indic that the check ha been chemic
+bleach
+a color copi might reflect odd color at time due to a failur of the toner to mix
+satisfactorili
+black letter might have a slightli greenish cast when examin under a magnifi
+glass
+a light color or delic background might fade out when copi
+absenc of ani design in background of check paper
+absenc of bank logo and the print of the bank name in regular letter
+absenc of the address of the bank on the check
+overal appear of poor qualiti of print and paper
+a payrol check will usual be for an odd amount and will appear neat clean and
+usual unfold
+check and credit card fraud financi transact
+11012 2011 fraud examin manual
+teller should telephon the busi or account offic for approv on suspici
+request
+check fraud prevent tool
+check write pen
+when a check is written a special pen design to prevent check wash should be us
+these pen ar call check write pen and can be found at just about ani offic suppli
+store these pen have special ink that will prevent crimin from us solvent to remov
+ink from the check when someon tri to wash a check written from these pen it will
+either not work therebi leav the check intact or smear the ink and make it appar that
+a check ha been wash
+individu with busi account ar a much greater risk when it come to check wash
+busi have much stricter requir in term of what the compani must do to
+protect their check if the busi doesnt follow a strict plan to protect their check it
+like that if ani monei is stolen from their account the bank will not return their monei if
+an individu ha a busi account thei should make sure that the check ar lock
+secur when not in us make sure not to leav blank computerprint check in the
+printer or the busi will be equal liabl for the monei that could potenti be stolen
+fingerprint identifi
+a biometr fingerprint identifi requir the check writer to match fingerprint with the account
+holder which ar on file bank report reduct in check fraud of 40 percent after the
+machin wa introduc in the mid1990
+nonaccount holder who want check cash at bank that have implement thi system
+ar requir to put an inkless fingerprint on their check if the check doe prove fals law
+enforc will alreadi have evid regard the fraudster ident the cost to a bank
+of implement the inkless fingerprint system could be redeem by prevent a singl
+instanc of check fraud bank throughout the nation now us thi techniqu to cut
+fraud loss
+forens document examin
+through handwrit an individu can be posit identifi as is the case with dna or
+fingerprint when investig check fraud a forens document examin focus on
+the signatur and the handwrit itself
+financi transact check and credit card fraud
+2011 fraud examin manual 11013
+signatur
+if the examin were investig a forg signatur he would compar the suspici
+signatur to a sampl of the actual on note discrep between the two while on
+signatur mai chang over time it would be close to imposs for a forger to duplic a
+signatur with on hundr percent accuraci minut identifi characterist mark
+peopl write and ar not reproduc
+the ebank discoveri system develop by asv technolog emploi signatur
+verif softwar us multipl feat ur set extract technolog drawn from
+forens scienc the state and qualiti of a signatur twodimension characterist ar
+analyz and verifi against sampl the program identifi flourish arc distanc
+between letter and up to 100 other featur reject signatur along with the reason for
+reject and signatur sampl ar forward to a human for visual verif asv
+technolog claim it result match those of the most highli train and accur signatur
+verifi
+handwrit
+like fingerprint handwrit is uniqu to an individu consequ if the narr
+portion of the check is handwritten it offer a document examin a greater opportun to
+identifi a forgeri
+video spectral compar
+forens examin us thi tool to test question document the document is examin
+for photocopi and liquid paper under a control light sourc letter ad to a
+document can be detect with thi devic
+electrostat detect apparatu
+thi tool allow examin to detect indent write from the top page of a pad of paper up
+to five page below the origin the electrostat detect apparatu us photocopi
+toner to develop the area of indent after a document ha been cover with an
+electr charg plastic film in the best of case when the document is process with
+the electrostat devic and the toner imag is develop the write impress ar clearli
+defin and highli contrast if the develop write is to be us in an investig or to
+demonstr result for the court the examin must turn to electron imag process
+technolog for further enhanc
+check and credit card fraud financi transact
+11014 2011 fraud examin manual

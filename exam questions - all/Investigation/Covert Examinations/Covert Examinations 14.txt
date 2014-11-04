@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=During the course of a fraud examination, Beta, a noted con artist, approached Gamma, a Certified Fraud Examiner. Beta offered to gather information regarding a fraud and sell it to Gamma. In this situation, Beta would be called a:
+
+Options=Public informant | Confidential informant | Confidential source | None of the above
+
+CorrectResponse=1
+
+Explanation=Sources and informants both serve the same purpose—to provide information to help develop a case. However, there are notable differences between confidential sources and confidential informants. The terms should not be used interchangeably. A confidential source furnishes information as a result of occupation or profession and has no culpability in the alleged offense. Confidential sources might include barbers, attorneys, accountants, and law enforcement personnel. A confidential informant has a direct or indirect involvement in the matter under investigation, and may be culpable The distinction between the two is their involvement in the offense. Informants can pose treacherous legal issues for the examiner.See page(s) 3.312 in the Fraud Examiner's Manual

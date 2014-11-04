@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Current assets divided by current liabilities is the equation to calculate which financial ratio:
+
+Options=Current ratio | Quick ratio | Receivable turnover | Profit margin
+
+CorrectResponse=0
+
+Explanation=The current ratio—current assets to current liabilities—is probably the most-used ratio in financial statement analysis. This comparison measures a company's ability to meet present obligations from its liquid assets. The number of times that current assets exceed current liabilities has long been a quick measure of financial strength. In detecting fraud, this ratio can be a prime indicator of manipulation of accounts involved. Embezzlement will cause the ratio to decrease. Liability concealment will cause a more favorable ratio.See page(s) 393 in the Corporate Fraud Handbook

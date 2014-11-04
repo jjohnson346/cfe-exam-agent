@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which of the following is NOT an element of the tort of intentional infliction of emotional distress?
+
+Options=Outrageous conduct beyond all bounds of decency | Defendant acted with intent to cause the distress | Causing public humiliation | That results in severe emotional distress
+
+CorrectResponse=2
+
+Explanation=The tort of intentional infliction of emotional distress has three basic elements:•	The defendant s conduct must have been so outrageous that it goes beyond all possible bounds of decency, and is to be regarded as atrocious and utterly intolerable in a civilized community•	The defendant must have acted with the intent of causing severe emotional distress, or with reckless disregard of whether it would cause severe emotional distress•	The plaintiff must have suffered severe distress It is not necessary that the plaintiff suffer public humiliation.See page(s) 2.414 in the Fraud Examiner's Manual

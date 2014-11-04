@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Most offices of inspectors general maintain centralized index and case file systems.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Inspectors general can provide valuable information, especially to official law enforcement personnel, about businesses they have investigated or audited, and they are good guides to other information sources in their departments or agencies. Most offices of inspectors general maintain centralized index and case file systems. Congress established inspectors general to combat government fraud, waste, and abuse in federal departments and agencies.See page(s) 3.430 in the Fraud Examiner's Manual

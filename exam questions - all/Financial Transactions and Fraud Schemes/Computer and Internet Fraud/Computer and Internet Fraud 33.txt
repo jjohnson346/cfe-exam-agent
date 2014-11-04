@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All of the following are types of fraud schemes perpetrated through the Internet EXCEPT:
+
+Options=Spamming | Control group identities | Investment and securities fraud | Pyramid schemes
+
+CorrectResponse=1
+
+Explanation=Common Internet fraud schemes include:	• Get-rich-quick schemes	• Pyramid schemes	• Foreign trusts	• Chain letters	• Investment and securities fraud	• Spamming	See page(s) 1.1827-1.1833 in the Fraud Examiner's Manual

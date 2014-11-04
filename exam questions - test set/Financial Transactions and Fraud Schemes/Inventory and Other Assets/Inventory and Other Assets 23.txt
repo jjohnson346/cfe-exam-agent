@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Falsifying incoming shipments of inventory can best be classified as what type of scheme?
+
+Options=Purchasing and receiving scheme | Larceny scheme | Asset transfer scheme | None of the above
+
+CorrectResponse=0
+
+Explanation=Dishonest employees can manipulate the purchasing and receiving functions of a company to facilitate the theft of inventory and other assets. One of the most common examples of a purchasing and receiving scheme occurs when a person charged with receiving goods on behalf of the victim company‰??such as a warehouse supervisor or receiving clerk‰??falsifies the records of incoming shipments. If, for example, 1,000 units of a particular item are received, the perpetrator indicates that only 900 were received. By marking the shipment short, the perpetrator can steal the 100 units that are unaccounted for.See page(s) 1.607 in the Fraud Examiner's Manual

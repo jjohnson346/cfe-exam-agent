@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A type of fraud scheme whereby an employee of a financial institution cashes stolen or counterfeit items for outside accomplices is most properly called:
+
+Options=Unauthorized withdrawals | Moving money from dormant accounts | False accounting entries | Unauthorized disbursement of funds to outsiders
+
+CorrectResponse=3
+
+Explanation=One type of bank employee fraud is referred to as unauthorized disbursement of funds to outsiders. This type of scheme involves employees cashing stolen/counterfeit items for outside accomplices.See page(s) 1.902 in the Fraud Examiner's Manual

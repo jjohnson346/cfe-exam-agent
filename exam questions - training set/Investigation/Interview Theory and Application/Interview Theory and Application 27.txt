@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=One of the purposes of conversation is to express ideas and feelings, which helps remove emotional tension. This is called:
+
+Options=Consoling | Catharsis | Therapy | None of the above
+
+CorrectResponse=1
+
+Explanation=Making people feel good about themselves often is a function of conversation. In an ordinary conversation with a friend, a person often expresses ideas and feelings to remove emotional tension. This release is called "catharsis," and is encouraged, for example, in psychiatric interviews. There are many times when the information sought in an interview is closely related to the respondent's inner conflicts and tensions. For example, in the area of fraud, a person embezzling money from the company typically will feel guilty. A skillful interviewer will know the therapeutic implication of such a feeling when attempting to develop information.See page(s) 3.206 in the Fraud Examiner's Manual

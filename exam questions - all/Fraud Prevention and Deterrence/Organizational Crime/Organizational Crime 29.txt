@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=According to the Corporate Sentencing Guidelines, the payment of full restitution to victims of crime is considered an adequate form of punishment.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The guidelines require that, whenever possible, the organization must pay full restitution to the victims of the crime. Restitution is not viewed as a form of punishment in the guidelines, but rather as a means of remedying the harm caused by the offense.See page(s) 4.522 in the Fraud Examiner's Manual

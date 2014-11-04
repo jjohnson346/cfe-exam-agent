@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Program or system changes should be moved to a "test" library from the production library before the changes are made. The movement from one library to another can be made by the programmer as long as it is done before changes are made and the authorization for the changes is in writing.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=All program and system changes should be approved in writing. Programmers should not have access to the production library, but only to "test" libraries. All programs that are to be modified should be moved into a test library by someone other than a programmer. All completed program changes should be tested and the results approved by both data center and user personnel before being placed into production. Adequate program documentation should be approved for all program changes. User personnel should be notified when modified programs will be placed into production.See page(s) 1.1843-1.1844 in the Fraud Examiner's Manual

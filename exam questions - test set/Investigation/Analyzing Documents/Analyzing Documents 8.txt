@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Admissible evidence generally falls into one of two types: direct or circumstantial.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Admissible evidence generally falls into one of two types: direct and circumstantial.See page(s) 3.102 in the Fraud Examiner's Manual

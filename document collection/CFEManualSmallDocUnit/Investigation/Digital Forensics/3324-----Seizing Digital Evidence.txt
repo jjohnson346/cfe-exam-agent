@@ -1,0 +1,114 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Seizing Digital Evidence
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Seizing Digital Evidence 
+Perhaps the most critical step in the forensics process is how data is collected or acquired. 
+Acquisition of digital evidence must be completed in such a way as to ensure that all relevant 
+evidence is seized and secured in a forensically sound manner so that the evidence is not 
+tainted or destroyed.  
+ 
+In fact, there are a number of practical considerations and procedures to employ when the 
+decision is made to go forward with a computer seizure. One of the primary considerations 
+that is often neglected is debriefing the subject, which involves asking the subject for 
+passwords and whether any encrypted data exists on the target computer. 
+ 
+The Scientific Working Group on Digital Evidence (SWGDE) from the Organization of 
+American States has published a document, titled Best Practices for Computer Forensics, 
+which provides a good foundation for digital forensics examiners. Although a complete 
+                                                 
+5  Scientific Working Group on Digital Evidence of the National Center for Forensic Science. Best Practices for 
+Computer Forensics V2, 2006. http://www.oas.org/juridico/s panish/cyb_best_pract.pdf.  
+Digital Forensics  Investigation 
+3.716   2011 Fraud Examiners Manual  
+review of the entire document is beyond the scope of this course, several guidelines deserve 
+review. According to the SWGDE, examiners should adhere to the following guidelines: 
+• Before obtaining evidence, ensure that there is legal authority to seize evidence and 
+review the data associated with the evidence. This may require obtaining a warrant in a 
+criminal matter or ensuring that internal policies authorize seizure for an internal 
+investigation.  
+• If removing evidence from the scene is impractical, copy or image the items of evidence 
+according to established procedures. 
+• Remove all suspects, witnesses, and bystanders from the proximity of the digital 
+evidence. Keep in mind that remote access to computers can put potential evidence at 
+risk even if no person has physical access to the computer. Also, consider the wide range 
+of mobile data storage devices today (e.g., USB flash drives) that can be hidden. 
+• Ensure that no suspects, witnesses, and bystanders possess any items containing 
+potential evidence.   
+• Thoroughly and systematically search the scene for potential evidence. Once again, 
+consider the wide range of data storage media and devices.  
+ 
+Unless completely unavoidable, data should not be analyzed on the machine from which it 
+was collected. Instead, the examiner should make forensically sound copies of all data 
+storage devices — primarily hard drives — and analyze the data on these copies.  
+ 
+To ensure that a machine can be fully analyzed, the examiner should take the following 
+steps: 
+• Examine and document the machine’s surroundings. 
+• Secure the evidence. 
+• Power down carefully. 
+• Inspect for traps. 
+• Implement a system to manage the evidence. 
+ 
+
+
+
+:
+
+
+seiz digit evid
+perhap the most critic step in the forens process is how data is collect or acquir
+acquisit of digit evid must be complet in such a wai as to ensur that all relev
+evid is seiz and secur in a forens sound manner so that the evid is not
+taint or destroi
+in fact there ar a number of practic consider and procedur to emploi when the
+decis is made to go forward with a comput seizur on of the primari consider
+that is often neglect is debrief the subject which involv ask the subject for
+password and whether ani encrypt data exist on the target comput
+the scientif work group on digit evid swgde from the organ of
+american state ha publish a document titl best practic for comput forens
+which provid a good foundat for digit forens examin although a complet
+5 scientif work group on digit evid of the nation center for forens scienc best practic for
+comput forens v2 2006 httpwwwoasorgjuridico panishcybbestpractpdf
+digit forens investig
+3716 2011 fraud examin manual
+review of the entir document is beyond the scope of thi cours sever guidelin deserv
+review accord to the swgde examin should adher to the follow guidelin
+befor obtain evid ensur that there is legal author to seiz evid and
+review the data associ with the evid thi mai requir obtain a warrant in a
+crimin matter or ensur that intern polici author seizur for an intern
+investig
+if remov evid from the scene is impract copi or imag the item of evid
+accord to establish procedur
+remov all suspect wit and bystand from the proxim of the digit
+evid keep in mind that remot access to comput can put potenti evid at
+risk even if no person ha physic access to the comput also consid the wide rang
+of mobil data storag devic todai eg usb flash drive that can be hidden
+ensur that no suspect wit and bystand possess ani item contain
+potenti evid
+thoroughli and systemat search the scene for potenti evid onc again
+consid the wide rang of data storag media and devic
+unless complet unavoid data should not be analyz on the machin from which it
+wa collect instead the examin should make forens sound copi of all data
+storag devic primarili hard drive and analyz the data on these copi
+to ensur that a machin can be fulli analyz the examin should take the follow
+step
+examin and document the machin surround
+secur the evid
+power down carefulli
+inspect for trap
+implement a system to manag the evid

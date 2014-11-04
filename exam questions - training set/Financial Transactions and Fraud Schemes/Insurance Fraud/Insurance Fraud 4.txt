@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=The indemnity against loss to a third party when the insured fails to fulfill a specific undertaking for the third party's benefit is referred to as:
+
+Options=Fidelity insurance | An indemnity bond | Casualty insurance | Disability insurance
+
+CorrectResponse=1
+
+Explanation=Bonds indemnify against loss to third-party beneficiaries when the insured fails to fulfill a specific undertaking for the third-party's benefit. Property insurance indemnifies against pecuniary loss to the insured's property for specific losses; for example, from fire, theft, or auto collision. Casualty insurance indemnifies against legal liability to others for injury or damage to persons, property, or other defined legal interests because of specified risks or conduct. Fidelity insurance indemnifies against economic loss to the insured because of employee dishonesty. Disability insurance indemnifies against income loss under defined circumstances.See page(s) 1.1101 in the Fraud Examiner's Manual

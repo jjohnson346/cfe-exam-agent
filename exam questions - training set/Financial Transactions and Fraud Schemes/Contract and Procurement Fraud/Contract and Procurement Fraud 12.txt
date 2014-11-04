@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=Accounting mischarges could include all BUT which of the following?
+
+Options=Concealing or misrepresenting unallowable costs as allowable | Knowingly charging unallowable costs to the buyer | Failing to produce an inspection certificate | Charging independent research and development costs to other cost categories
+
+CorrectResponse=2
+
+Explanation=Accounting mischarges involve knowingly charging unallowable costs to the buyer, concealing or misrepresenting them as allowable costs, or hiding them in accounts (such as office supplies) that are not usually closely audited. Another common variation involves charging independent research and development to other cost categories.See page(s) 1.2007 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=If you need information from a foreign country and must use Letters Rogatory or Mutual Legal Assistance Treaties to obtain the information, which federal department would you need to contact to process your request?
+
+Options=Federal Bureau of Investigation (FBI) | Office of International Affairs (OIA) | Department of Homeland Security | Central Intelligence Agency (CIA)
+
+CorrectResponse=1
+
+Explanation=The OIA uses a number of legal resources to obtain information from foreign countries. Letters Rogatory are formal requests by the courts of one country to the courts of another country. The OIA also uses Mutual Legal Assistance Treaties (MLATs) between the United States and foreign countries that provide for the exchange of information and documents relating to narcotics, money laundering, and other financial crimes.See page(s) 3.851 in the Fraud Examiner's Manual

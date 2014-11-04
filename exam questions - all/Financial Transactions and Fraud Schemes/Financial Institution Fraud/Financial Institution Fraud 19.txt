@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=In most construction contracts, a certain amount will be withheld from each draw request by the contractor. This amount is not paid until the contract has been finished and approved by the owner. The withheld amount is referred to as which of the following?
+
+Options=Withholding | Good faith deposit | Retainage | None of the above
+
+CorrectResponse=2
+
+Explanation=Retainage is the amount withheld from each draw request until such time as the construction is complete and the lien period has expired.See page(s) 1.907-1.908 in the Fraud Examiner's Manual

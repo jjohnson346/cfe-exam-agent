@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Which of the following is NOT one of the primary purposes of asking introductory questions in interview situations?
+
+Options=Get agreement from respondent to cooperate | Give a detailed reason for interview | Provide the introduction | All of the above are purposes of introductory questions
+
+CorrectResponse=1
+
+Explanation=Introductory questions are used by the interviewer for two primary purposes: to get the respondent to verbally agree to cooperate, and to provide an introduction. A general purpose of the interview should be stated, but the detailed reasons should be explained later in the interview.See page(s) 3.203 in the Fraud Examiner's Manual

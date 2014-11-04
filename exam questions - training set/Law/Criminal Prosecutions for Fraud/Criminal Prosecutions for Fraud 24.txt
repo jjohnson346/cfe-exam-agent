@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A defendant can plead nolo contendere only with the permission of the court.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A defendant can plead nolo contendere only with permission of the court. If accepted, a nolo plea is the same as a plea of guilty for purposes of punishment, but cannot be used as a formal admission of guilt. Nolo contendere is a favored plea for corporate defendants who are facing subsequent civil litigation.See page(s) 2.508 in the Fraud Examiner's Manual

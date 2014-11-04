@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Theta, a Certified Fraud Examiner, was interviewing Gamma, a fraud suspect. During the interview, Gamma seemed totally unconcerned, slouched in his chair, and laughed out loud when Theta asked him if he knew any facts about the fraud. From this conduct, Theta is likely to conclude that Gamma is:
+
+Options=Telling the truth | Not telling the truth | Theta would probably have a neutral position | Covering for someone
+
+CorrectResponse=1
+
+Explanation=The dishonest person will often try to appear casual and unconcerned, will frequently adopt an unnatural slouching posture, and might react to questions with nervous or false laughter or feeble attempts at humor. The honest person, conversely, will typically be very concerned about being suspected of wrongdoing, and will treat the interviewer‰??s questions seriously.See page(s) 3.242 in the Fraud Examiner's Manual

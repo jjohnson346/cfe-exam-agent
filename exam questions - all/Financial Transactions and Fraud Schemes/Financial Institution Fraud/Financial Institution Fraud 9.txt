@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Single family housing loan fraud typically has which of the following characteristics?
+
+Options=Misrepresentation of the characteristics of the housing agent  | Misrepresentation of the loan amount  | Understating the ability to pay | Misrepresentation of personal creditworthiness
+
+CorrectResponse=3
+
+Explanation=Single family housing loan fraud typically occurs when unqualified borrowers misrepresent their personal creditworthiness, overstate their ability to pay, or misrepresent characteristics of the housing unit.See page(s) 1.904 in the Fraud Examiner's Manual

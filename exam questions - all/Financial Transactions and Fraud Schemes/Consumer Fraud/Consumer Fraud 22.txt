@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Although credit scams promise to secure a loan for the applicant regardless of credit history, they often do supply information that will be helpful for the applicant to secure a loan.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The simplest credit scam promises that the company will secure a loan for the applicant, regardless of credit history and references, if the person pays an upfront fee, usually between $35 and S75. Checking account debits are a favorite payment method, as are 900 numbers that charge by the minute (up to S40 or $50 per call) to hear information that is widely available and provides no help in swaying a loan for the listener Usually there are few or no loans made. Occasionally, loan information and applications may be mailed out to the victim, but usually, after the fee has been paid, the operators are not heard from again.See page(s) 1.1719 in the Fraud Examiner’s Manual

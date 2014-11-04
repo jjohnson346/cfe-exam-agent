@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The fraud risk assessment should be treated as an ongoing process rather than a onetime exercise.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The fraud risk assessment should not be treated as a onetime exercise that is executed, reported on, and then put on a shelf to collect dust. The organization should strive to keep the process alive and relevant through ongoing dialogue, active management of action plans, and development of procedures to ensure the assessment is maintained on a current basis.See page(s) 4.807 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=_______________________ is comprised of the basic laws of rights and duties. When people refer to something that is "against the law," they are usually referring to this type of law.
+
+Options=Statutory law | Common law | Procedural law | Substantive law
+
+CorrectResponse=3
+
+Explanation=Substantive law is comprised of the basic laws of rights and duties (contract law, tort law, criminal law, etc.) as opposed to procedural law which involves rules governing pleadings, evidence, jurisdiction, etc. If someone says an act is “against the law," he means substantive law. This includes statutes and ordinances at every level; common law, or case law, from ail the various courts; and state and federal constitutions.See page(s) 2.101 in the Fraud Examiner's Manual

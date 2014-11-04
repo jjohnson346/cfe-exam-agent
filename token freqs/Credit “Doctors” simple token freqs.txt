@@ -1,0 +1,27 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+is                                     1
+via                                    1
+get                                    1
+unable                                 1
+for                                    1
+the                                    1
+used                                   1
+people                                 1
+doctor                                 1
+who                                    1
+numbers                                1
+term                                   1
+sell                                   1
+account                                1
+card                                   1
+doctors                                1
+ads                                    1
+credit                                 4
+fraudsters                             1
+cards                                  1
+newspaper                              1
+stolen                                 1
+
+Totals:                     23        27

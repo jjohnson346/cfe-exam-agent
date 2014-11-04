@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following data analysis functions is most useful in testing for hidden journal entries?
+
+Options=Aging analysis | Statistical sampling | Journal entry gap tests | Identifying duplicates
+
+CorrectResponse=2
+
+Explanation=Gaps may signal incomplete data processing or, in the situation of journal entries, possible hidden entries. Usually, a method of documenting these occurrences, along with a review by an independent party, is sufficient to ensure the completeness and accuracy of processingSee page(s) 3.626 in the Fraud Examiner's Manual

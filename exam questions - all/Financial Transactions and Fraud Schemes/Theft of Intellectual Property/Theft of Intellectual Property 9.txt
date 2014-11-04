@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=The first task of an SPI task force within a company should be what?
+
+Options=Shred sensitive documents | Determine what information should be protected | Develop an employee awareness program | Institute an encryption policy
+
+CorrectResponse=1
+
+Explanation=To coordinate a company-wide SPI program, a task force should be assembled. The task force should include managers and staff from departments that deal with proprietary information such as research and development, and production. The team should also include representatives from corporate security, human resources, records management, data processing, and legal. The process should begin by determining what information should be protected. The task force should identify those areas that give the company its competitive edge, such as quality of the product, service, price, manufacturing technology, marketing, and distribution One way of accomplishing this is to ask the team, “If you were our competitor, what information would you like to know?"See page(s) 1.878-1.879 in the Fraud Examiner's Manual

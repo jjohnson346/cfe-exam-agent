@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Black, a Certified Fraud Examiner, is interviewing Blue, a fraud suspect. During the interview, Black tells Blue that if he confesses, he may get more lenient treatment. Blue then confesses. Blue's confession will not be admissible in court because Black's statement about leniency will be considered an improper inducement.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Apart from the Miranda requirements, a confession also must be voluntary, not coerced by physical or psychological means. Some inducement is permissible, however, such as informing the suspect that a confession might result in more lenient treatment. Using deceit and trickery to extract a confession, such as telling the suspect that an accomplice had confessed when in fact he had not, is treated differently by different courts, some permitting such confessions, others not No confession will be admitted if the circumstances under which it was obtained render it unreliable.See page(s) 2.504 in the Fraud Examiner's Manual

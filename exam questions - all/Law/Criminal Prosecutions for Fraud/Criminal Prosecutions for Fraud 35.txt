@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A plea of nolo contendere has what effect?
+
+Options=The defendant asserts that the court has no authority to try him | The defendant retains his right to contest the charges against him | It is the same as a guilty plea for purposes of punishment | It serves as an admission of guilt
+
+CorrectResponse=2
+
+Explanation=A plea of nolo contendere means the defendant does not contest the charges, without formally admitting or denying them. A defendant may plead nolo only with the consent of the court. If accepted, a nolo plea is the same as a plea of guilty for purposes of punishment, but cannot be used as a formal admission of guilt. This makes it a favored plea for corporate defendants facing subsequent civil litigation.See page(s) 2.508 in the Fraud Examiner's Manual

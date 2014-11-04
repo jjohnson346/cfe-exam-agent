@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=______________________ is the unaccounted for reduction in a company's inventory that results from theft.
+
+Options=Shrinkage | Padding | Skimming | Defalcation
+
+CorrectResponse=0
+
+Explanation=Inventory shrinkage is the unaccounted for reduction in the company‰??s inventory that results from theft. For instance, assume a computer retailer has 1,000 computers in stock After work one day, an employee loads 10 computers into a truck and takes them home. Now the company only has 990 computers, but since there is no record that the employee took 10 computers, the inventory records still show 1,000 units on hand. The company has experienced inventory shrinkage in the amount of 10 computers.See page(s) 264-265 in the Corporate Fraud Handbook

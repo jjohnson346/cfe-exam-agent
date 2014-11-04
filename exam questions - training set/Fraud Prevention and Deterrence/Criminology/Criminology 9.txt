@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=According to Skinner, the most effective way to modify a persons behavior is through:
+
+Options=Negative reinforcement | Punishment | Positive reinforcement | None of the above
+
+CorrectResponse=2
+
+Explanation=Skinner concludes that behavior is most effectively modified by managing and modifying desires through reinforcement; he wants to replace destructive behaviors with productive ones, instead of trying to punish an already existing impulse.See page(s) 4.102-4.103 in the Fraud Examiner's Manual

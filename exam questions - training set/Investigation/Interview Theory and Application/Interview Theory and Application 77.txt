@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=During the informational phase of an interview, closed questioning techniques should be used extensively.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Open questioning techniques are used almost exclusively in the informational phase of the interview. The questions must be inquisitory and not accusatory. Remember, the most effective questions are constructed as a subtle command. Once the respondent has ansv/ered open questions, the interviewer can go back and review the facts in greater detail. If the answers are inconsistent, try to clarify them. But the interviewer should not challenge the honesty or integrity of the respondent at this point.See page(s) 3.223 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, one of the important forces affecting the interview outcome is a person's tendency to communicate expectations, both verbally and nonverbally, to the other person.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One of the important forces in social interaction is the tendency of one person to communicate, verbally or nonverbally, his expectations to the other person. The second person tends to respond, consciously or unconsciously, to those expectations. This might be viewed as one manifestation of the more general human tendency to conform to the group and to the anticipations of higher-status people. It is in this conformity to group norms that security is sought. In the interview setting, the interviewer communicates expectations to the respondent. The interviewer should be able to transmit both a general expectation of cooperation and as a more specific expectation that the respondent will answer the questions truthfully. The interviewer must clearly distinguish between asking for information and expecting it. The former is mainly achieved with verbal communication, while the latter is accomplished through nonverbal behavior. The interviewer who expects the respondent to cooperate will likely be more successful than one who only asks questions.See page(s) 3.210 in the Fraud Examiner's Manual

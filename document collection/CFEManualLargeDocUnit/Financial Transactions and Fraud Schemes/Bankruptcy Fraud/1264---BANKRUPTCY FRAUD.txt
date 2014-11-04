@@ -1,0 +1,1568 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BANKRUPTCY FRAUD
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Bankruptcy Fraud
+
+
+:
+
+
+BANKRUPTCY FRAUD 
+ 
+Introduction 
+ 
+The Bankruptcy System and Players 
+Bankruptcy Court 
+All bankruptcy cases are filed in the local district of the United States Bankruptcy Court. 
+Although bankruptcy courts are federal courts, they are not Article III courts, which derive 
+their power from Article III of the Constitution. Article III states that judicial power of the 
+United States rests with the Supreme Court and in inferior courts established by Congress. 
+Article III courts include the U.S. District Courts, the U.S. Circuit Courts of Appeal, and the 
+U.S. Supreme Court.  
+ 
+Bankruptcy courts are not contemplated within this scheme as “inferior” courts, but they are 
+considered as an adjunct to “inferior” U.S. District Courts. 
+ 
+Likewise, bankruptcy judges are not Article III judges, which derive their power from Article 
+III of the Constitution. Bankruptcy judges hear all cases involving debtors’ and creditors’ 
+rights, approve plans of reorganization, award fees to professionals, and conduct hearings 
+and trials when necessary to resolve disputes. 
+ 
+Office of the United States Trustee  
+The Office of the United States Trustee is a Department of Justice agency that is responsible 
+for administering bankruptcy cases; appointing trustees, examiners, and Chapter 11 
+committees; overseeing and monitoring trustees; reviewing employment and fee applications; 
+and appearing in court on matters of interest to the estate and creditors.  
+ 
+There are 21 regions in the Office of the U.S. Trustee comprising one or more federal 
+districts. Each region consists of a U.S. Trustee (or an Assistant Trustee in several regions). 
+The Office of the UST in each region principally is comprised of staff attorneys, bankruptcy 
+analysts (including accountants) and, in some instances, special investigative units. 
+ 
+Staff attorneys review pleadings (e.g., fee applications and motions to appoint trustees and 
+examiners) and represent the UST on these matters.  
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1302                           2011 Fraud Examiners Manual  
+Bankruptcy analysts analyze and review operating reports and other relevant financial 
+information and, in general, oversee the debtor’s case to ensure compliance with the 
+Bankruptcy Code and to protect the assets of the estate.  
+ 
+Special investigative units investigate criminal referrals (complaints) in bankruptcy cases. In some 
+cases they work with criminal investigative agencies, such as the Federal Bureau of 
+Investigation and the Internal Revenue Service Criminal Investigative Division. 
+ 
+Panel Trustees 
+Panel trustees are independent professionals (usually attorneys) who serve in Chapter 7 cases 
+in each federal district in the country. Trustees also might serve in Chapter 11 cases where 
+operation of the debtor’s business is considered appropriate. Trustees or others might 
+develop a plan of reorganization to conclude the Chapter 11 proceedings. If the business 
+cannot be reorganized, the trustee might petition the court to convert the case to Chapter 7 
+or develop a plan of liquidation under Chapter 11. The duties of a trustee are specifically 
+enumerated in Title 11, U.S.C., section 704 (in Chapter 7 cases) and Title 11, U.S.C., section 
+1106 (in Chapter 11 cases). The duties of a trustee are as follows: administer assets, liquidate 
+assets, pay creditors, litigate matters where necessary, have the right to sue and be sued, 
+conduct hearings, conduct investigations of financial affairs of the debtor, file reports as 
+required by the Office of the UST and, where a ppropriate, file criminal referrals with the 
+United States Attorney’s Office. A trustee’s compensation is statutorily defined under the 
+bankruptcy code. 
+ 
+Examiners 
+An examiner is normally appointed in a Chapter 11 bankruptcy proceeding to investigate 
+certain allegations of fraud and misconduct on the part of the debtor (or principals of the 
+debtor). In a typical motion for the appointment of a trustee or examiner, allegations of 
+fraud or misconduct are raised by creditors, the Office of the UST, or other interested 
+parties. A bankruptcy judge hears evidence submitted by all parties (creditors et al.), as well 
+as the debtor’s response to the allegations. After hearing the evidence, the judge has the 
+option either to appoint a trustee or an examiner, or leave the debtor in possession of the 
+business. If an examiner is appointed, the sole responsibility is to “investigate and report” 
+the results of the investigation to the court and other parties in interest as quickly as possible. 
+Examiners have the power to subpoena records and depose witnesses. They do not have the 
+power to run businesses, make business decisions, or propose plans of reorganizations 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1303 
+(generally speaking). Courts might expand the examiner’s powers to perform certain duties 
+of trustees or debtors-in-possession.  
+ 
+Debtors 
+A debtor is defined in Title 11, U.S.C., section 101(13) as a “person” or “municipality” who is 
+the subject of a filing under Title 11. “Person” is  defined as an individual, partnership, or 
+corporation. “Municipality” is defined as a political subdivision, public agency, or 
+instrumentality of a state. An individual debtor’s objective in a Chapter 7 case is to be 
+relieved of all dischargeable debts and to obtain a fresh start. This is accomplished by the 
+court granting the individual debtor a discharge. The debtor’s primary objective in a Chapter 
+11 should be to have a plan of reorganization confirmed by the court and preserve the 
+business operations. 
+ 
+Creditors 
+A creditor is defined by the code as one who holds a claim. Creditors can be either secured or 
+unsecured.  
+ 
+SECURED CREDITORS  
+A secured creditor  holds a claim for which there is a properly perfected security interest. It will 
+be considered a secured claim to the extent of the value of the property. When the debt is 
+undersecured (amount of note is greater than the value of the security interest), the debt will 
+be considered both unsecured and secured. For example, if a note for $500 is secured by 
+property having a value of $400, there will be a secured claim for $400 and an unsecured 
+claim for $100. If the debtor and the credit or cannot agree on the value of the collateral, 
+there will be a hearing under section 506 of the Bankruptcy Code and the court will 
+determine the value of the collateral. The bankruptcy court will rely on state law where the 
+property is located to determine if a secured claim exists. A security interest generally is 
+obtained in personal property by a UCC filing and in real property by filing a lien with the 
+county clerk in the county where the property is located. 
+ 
+At the time of the filing of the bankruptcy petition, an automatic stay precludes the creditor 
+from taking any action to repossess the property, unless relief from the stay is granted. In a 
+Chapter 11 case, the court generally will grant relief only if it can be shown that there is no 
+equity in the property and that the property is not needed for reorganizing the business. The 
+stay also might be removed if the property is declining in value and the debtor fails to 
+compensate the creditor for this decline (referred to as “adequate protection payments”). If 
+Bankruptcy Fraud  Financial Transactions   
+1.1304                           2011 Fraud Examiners Manual  
+the stay is removed, the creditor then can proceed under state law to obtain possession of 
+the property (often through a foreclosure) to satisfy the claim. 
+ 
+Holders of secured claims have priority over unsecured creditors and normally get paid first 
+in the distributions to creditors made by the trustee or debtor-in-possession. In the 
+development of a Chapter 11 plan, the rights of holders of secured claims normally are 
+provided for before the unsecured claim holders will receive material consideration.  
+ 
+UNSECURED CREDITORS  
+Unsecured creditors  are those that have a claim against the debtor that arose before the 
+bankruptcy petition was filed and do not have a perfected security interest. Title 11, U.S.C., 
+section 507 gives some of the holders of unsecured claims priority over other unsecured 
+claim holders. Among those claims that have priority are administrative expenses (costs 
+associated with the operation of the business and professional fees while the business or 
+individual is in bankruptcy), selected pre-petition unpaid wages, pre-petition contributions 
+required but not made to employees benefit plans, pre-petition unpaid alimony and support 
+payments, and selected pre-petition tax claims. 
+ 
+Adjusters 
+Adjusters, or operations agents as they are frequently called, are the “right hand” to trustees 
+and debtors. An adjuster or operations agent is an individual who handles the peripheral 
+duties of a trustee. Such duties include securing the business location, changing locks, 
+locating assets of the estate, locating business records, opening new bank accounts, 
+investigating thefts of assets in conjunction with the trustee, storing assets of the estate, and 
+arranging sales of assets. Adjusters also can assist debtors and trustees in operating the 
+debtor’s business and in helping to prepare bankruptcy schedules, as well as interim 
+statements and operating reports.  
+ 
+ 
+The Bankruptcy Code (Title 11, United States Code)   
+The Bankruptcy Code is broken down into eight chapters (1, 3, 5, 7, 9, 11, 12, and 13) under 
+Title 11 of the United States Code. In addition, there are two other sources of information 
+dealing with bankruptcy issues that are found in the United States Code. They can be found 
+at Title 18, U.S.C., Chapter 9 (which deals with crimes and criminal procedure) and Title 28 
+(which deals with the judiciary and judicial procedure). Some of the provisions of the 
+Bankruptcy Code, as amended by the Bankruptcy Reform Act of 1994, are outlined below. 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1305 
+Chapter 1 — General Provisions  
+Chapter 1 contains definitions, rules of construction, powers of the court, who can be a 
+debtor, and other miscellaneous information. Chapter 1 has been amended to reflect issues 
+dealing with persons who negligently or fraudulently prepare bankruptcy petitions. Section 
+101 of this chapter is particularly important as it deals with definitions of terms used in 
+bankruptcy proceedings. Section 110 deals with the penalty for persons who negligently or 
+fraudulently prepare bankruptcy petitions (see later section on criminal conduct). 
+ 
+Chapter 3 — Case Administration  
+Part 1 of Chapter 3 deals with the commencement of cases, filing requirements, and court 
+appearances. Part 2 deals with officers, the qualifications of the trustee, the role of the 
+trustee, and the compensation of trustees and other officers. Part 3 deals with 
+administration, involving meetings of creditors, noticing requirements, property of the 
+estate, and other administrative requirements. Part 4 deals with administrative powers, 
+including the power of the trustee to protect property of the estate; use, lease or sell the 
+property and obtaining credit on behalf of the estate.  
+  
+Chapter 5 — Creditors, Debtors, and the Estate  
+Part 1 of Chapter 5 deals with creditors’ clai ms, their priority, and their allowance. This 
+section contains the prioritization of claims and the distribution of estate assets. Part 2 deals 
+with specific duties of the debtor, the exemptions debtors can claim, and dischargeability of 
+debts. Part 3 deals with property of the estate, recovery of voidable transfers, and contractual 
+rights of the estate. 
+ 
+Chapter 7 — Liquidation of Debtor’s Assets  
+Part 1 of Chapter 7 deals with officers and the administration of Chapter 7 cases and spells 
+out duties of the trustee. Part 2 deals with the collection, liquidation, and distribution of the 
+estate’s assets. Part 3 deals with stockbroker liquidations. Part 4 deals with commodity 
+broker liquidations. 
+ 
+Chapter 7 is the most common type of bankruptcy; it involves liquidation of the debtors 
+assets by a trustee to pay the creditor’s claims. This allows the debtor to get a court order 
+under which some or all of his debts may be eliminated. It involves the liquidation of assets 
+that are not exempt by state law. Personal bankruptcy does not eliminate taxes, fines, 
+alimony, child support, and certain student loans. 
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1306                           2011 Fraud Examiners Manual  
+A petition for liquidation under Chapter 7 may be filed by any entity (e.g., any individual, 
+corporation, partnership, business trust, etc.), but a Chapter 7 case filed by an individual 
+debtor may be dismissed (or converted to a case under Chapter 11 or 13 with the debtor’s 
+consent) if granting relief under Chapter 7 would constitute an abuse. The means test is used 
+to determine whether the Chapter 7 filing is presumptively abusive. Under this test, the 
+trustee or any creditor can bring a motion to dismiss a Chapter 7 filing if the debtor’s income 
+is greater than the state median income. 
+ 
+Also, a Chapter 7 debtor cannot receive a discharge if a prior discharge was received within 8 
+years of the new filing. 
+ 
+Chapter 11 — Reorganization  
+Often, debtors want to avoid liquidation, and Chapter 11 provides a type of bankruptcy that 
+is designed to help the debtor by reorganizing the business. The code allows for debtors to 
+restructure their debt, pay their creditors, and emerge from bankruptcy. Part 1 of the chapter 
+deals with officers and administration. Part 2 deals with the plan of reorganization. Part 3 
+deals with postconfirmation matters. Part 4 deals with railroad reorganization. 
+ 
+The purpose of the Chapter 11 filing is to allow the debtor breathing room from the 
+creditors so that the debtor can reorganize its financial affairs and continue as a going 
+concern. If the court is provided with sufficient probable cause regarding the financial affairs 
+of the debtor, a trustee or examiner can be appointed by the court. 
+ 
+Chapter 13 — Adjustments of Debts 
+Chapter 13 provides another type of bankruptcy that allows a debtor pay off his debts over 
+time in accordance with a court approved plan. Under this type of case, the debtor may keep 
+certain property that he would not be allowed to retain in a Chapter 7 bankruptcy. Because 
+of changes to the bankruptcy law in 2005, many people are no longer eligible to file for 
+bankruptcy under Chapter 7; some have their Chapter 7 case converted to a Chapter 13 case, 
+but Chapter 13 is not granted if the debtor received a discharge under Chapters 7, 11, or 12 
+within the previous 4 years, or a discharge under Chapter 13 in the previous 2 years. 
+ 
+Also, the court many not grant a Chapter 13 discharge unless the debtor has completed an 
+education course in personal financial management. 
+ 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1307 
+The Bankruptcy Case 
+A bankruptcy case begins with the filing of a bankruptcy petition, but to be eligible to file a 
+bankruptcy petition, an individual debtor must have received credit counseling from an 
+approved counseling agency within 180 days before filing. 
+ 
+When a petition is filed, the debtor must file the following documents:  
+• A list of creditors 
+• A schedule of assets and liabilities 
+• A schedule of current income and current expenditures 
+• A statement of the debtor’s financial affairs 
+• Evidence of payment from employers, if any, received 60 days before the filing date 
+• An itemized statement of monthly net income 
+• A statement disclosing any reasonably anticipated increase in income or expenditures for 
+the 12 months after the filing 
+• A record of any interest in an qualified state tuition program or an education individual 
+retirement account 
+• A certificate of credit counseling from the approved counseling agency (if the petitioner 
+is an individual) 
+• A statement of the debtor’s intention with respect to his property that secured debt (if 
+the petitioner is an individual) 
+• A copy of the debtor’s tax return for the most recent tax year 
+ 
+Generally, if an individual debtor in a Chapter 7 case fails to file the documents within 45 
+days of the original filing date, the case is automatically dismissed. 
+ 
+Once the bankruptcy case has been commenced, the debtor is protected by an automatic 
+stay, which prevents creditors from continuing attempts to collect debts from the petitioner. 
+There are, however, exceptions where the automatic stay does not apply (e.g., prosecution of 
+criminal cases, paternity cases, domestic support obligation cases, child custody cases, etc.). 
+Also, if the bankruptcy petition was filed as part of a scheme to delay, hinder, or defraud 
+creditors, a creditor whose claim is securted by a real property interest is entitled to relief 
+from the stay.  
+ 
+Additionally, after filing, the debtor will be appointed a trustee who will oversee the case. In 
+a Chapter 7 case, the trustee is responsible for collecting, selling, and reduceing the estate’s 
+assets to cash; temporarily continuing to operate the debtor’s business; making a final report; 
+Bankruptcy Fraud  Financial Transactions   
+1.1308                           2011 Fraud Examiners Manual  
+and filing a final account. In a Chapter 11 case, however, the debtor remains in possession of 
+his assets and generally retains the same authority as the trustee, except for the duty to 
+investigate the debtor and the right to compensation. A trustee is appointed in a Chapter 13 
+case, but the trustee’s duties generally involve in vestigating the debtor’s financial affairs.  
+ 
+Provisions Affecting Individuals 
+Nondischargeable Debts  
+Although a bankruptcy proceeding may result in the discharge of a debtor’s debts, certain 
+debts are not discharged in Chapter 7 cases: 
+• Taxes: In general, tax claims are not discharged.  
+• Debts incurred by fraud, embezzlement, and larceny: Generally, liabilities arising from fraud, 
+embezzlement, and larceny are not dischargeable.  
+• Luxury goods: Debts owed to a single creditor totaling more than $500 for luxury goods 
+incurred within 90 days of filing are preseumed non-dischargeable. 
+• Cash advances: Cash advances of $750 that are made within 70 days of filing are presumed 
+non-dischargeable.  
+• Unscheduled debts: In general, debts that are not listed or are not scheduled are not 
+dischargeable.  
+• Domestic support obligations: Debts for domestic support obligations are not dischargeable. 
+• Property settlements arising from divorce or separation : Debts for property settlements arising 
+from divorce or separation are not dischargeable. 
+• Certain liabilities: Liabilities arising from willful and malicious injury and liability for death 
+or personal injury incurred when operating a vehicle are not dischargeable.  
+• Fines and penalties: Obligations to pay a fine, penalty, or forfeiture owed to the 
+government are not dischargeable. 
+• Student loans: Student loans are not dischargeable, unless it would impose an undue 
+hardship for the debt’s survival.  
+ 
+Homestead Exemption 
+To prevent individuals who are likely to file for bankruptcy from moving their assets to 
+states with more favorable laws, the debtor must satisfy certain holding period requirements. 
+To qualify for a state’s homestead exemption, whic h allow filers to exempt the value of their 
+homes from creditors, for property worth more than $125,000, the debtor must own that 
+property for 1,215 days before filing. Also, before qualifying for a state’s homestead 
+exemption, the debtor must have lived in that state for 730 days prior to filing.  
+ 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1309 
+Retirement Plan Exemptions 
+Debtors can exempt retiremet funds from the bankruptcy estate if they are in a fund or 
+account that is exempt from taxes under the Internal Revenue Code.  
+ 
+Education Account Exemptions 
+Debtors can exempt education accounts under Sections 529 and 530 from the bankruptcy 
+estate if the beneficiary of the account is a child, stepchild, grandchild, or step-grandchild of 
+the debtor for the taxable year during which funds were placed in the account.  
+ 
+Privacy Provisions 
+Under the Bankruptcy Abuse Prevention and Consumer Protection Act, the bankruptcy 
+court is permitted to honor the privacy policies of business debtors. The Act creates a 
+consumer privacy ombudsman to protect personal privacy in bankruptcy proceedings. 
+Measures may be implemented to prevent identity theft and to guide what information is 
+readily accessible to the public. Debtors are permitted to request that courts protect sensitive 
+information before it is placed in public records.  
+ 
+The Role of the Trustee in Bankruptcy Fraud Matters 
+The trustee in bankruptcy matters is often confronted with allegations of fraud and 
+misconduct on the part of the debtor and its principals. In Chapter 11 cases, it is often the 
+primary reason the court appointed a trustee. Creditors, representatives of the creditors’ 
+committee, or private investigators might be interacting with a bankruptcy trustee. For this 
+reason, it is important to know how the trustee operates, what the role of the trustee is, and 
+how to make the most of the opportunity to work with the trustee. The trustee’s authority to 
+investigate fraud is found in the Bankruptcy Code. The following is a brief outline of the 
+Chapter 7 and Chapter 11 trustee’s authority to investigate fraud. 
+  
+Statutory Authority 
+In Chapter 7 cases, section 704 of the code spells out all duties of the trustee, which include 
+investigating claims filed by creditors, and the code provides that the trustee “shall 
+investigate the financial affairs of the debtor.”  
+ 
+Although generally, trustees in Chapter 11 cases do not operate the debtor’s business, 
+Chapter 11 trustees has the duty to investigate the debtor’s financial affairs. 
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1310                           2011 Fraud Examiners Manual  
+Investigation by the Trustee 
+The trustee’s powers enable him to gather financial information from various sources 
+including the debtor’s attorneys and accountants. A trustee steps into the shoes of the 
+debtor, which allows him the opportunity to break the attorney-client privilege. Attorneys 
+might attempt to raise the attorney-client privilege as a defense to providing information, but 
+they are usually unsuccessful in this regard. Since the trustee is now the client, he must be 
+able to understand what legal actions need to be taken. Therefore, it is imperative that the 
+debtor’s attorney cooperate with the trustee. The trustee also should have access to the 
+accountant’s work papers, tax returns, and client documents in their possession, which might 
+provide the trustee and creditors with the opportunity to locate and recover hidden assets. 
+Another useful tool in the trustee’s arsenal is the power to have access to debtor’s records 
+that are in the possession of the criminal authorities. Since the trustee steps into the shoes of 
+the debtor, he has the right to inspect and use these records to conduct the business affairs 
+of the debtor. 
+ 
+If the investigation uncovers sufficient evidence of fraud, the trustee should file a report 
+detailing the results of the investigation with the United States Attorney. This duty is spelled 
+out in Title 18, United States Code, section 3057. 
+ 
+Sources of Information 
+The trustee should obtain the various documents or information listed below in the course 
+of an investigation. If any of this information is unavailable, the trustee can subpoena these 
+documents. The subpoenaed documents could either be the original documents, certified 
+copies of these documents, or other information that could be used to reconstruct the 
+missing documents.  
+  
+Type of Information Location 
+Debtor’s petition, schedules, statement of 
+financial affairs 
+Bankruptcy Court’s Office and UST 
+Interim and operating statements Bankruptcy Court and UST 
+Adversary proceedings, claims registers, 
+transcripts of hearings, 2004 examinations 
+Bankruptcy Court 
+Fee applications Bankruptcy Court and UST 
+Real property records County Clerk, County Assessor 
+Personal property records County Clerk 
+UCC filings Secretary of State 
+Financial statements Lending institutions, debtor’s counsel, 
+accountants, Chapter 7 or Chapter 11 filings 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1311 
+Forwarding address Post Office 
+DBAs County recorder; Secretary of State 
+Partnerships Secretary of State 
+Officers of corporations Secretary of State 
+Addresses of individuals Voting records 
+Insurance policies Insurance company providing coverage 
+Current or prior business activities Interviews conducted of creditors, former 
+employees, former spouses, former business 
+activities 
+Criminal history, current or prior litigation Police records, local court records 
+Tapes and transcripts of sworn testimony 
+[341(a) and 2004 examinations] 
+UST - 341(a) exams 
+Bankruptcy Court - 2004 exams 
+ 
+Investigative Procedures 
+To fulfill their fiduciary investigative responsibilities, trustees need to gather financial 
+information. If debtor’s books and records are missing, incomplete or unreliable, they should 
+be obtained from third parties such as banks, customers, related parties, and so on. If the 
+third-party resists the trustee’s request, the trustee can subpoena records or testimony under 
+Bankruptcy Rule 2004. After receiving third-party records and testimony, the trustee might 
+then: 
+• Reconstruct cash receipts and cash disbursements journals, and general ledgers. 
+• Identify new bank accounts, related-party transactions, and hidden or concealed assets. 
+• Take 2004 exams (depositions) of uncooperative witnesses. 
+• Take 2004 exams of third-party witnesses and others who can authenticate documents, 
+records, etc.  
+• Obtain declaration testimony from cooperative witnesses. 
+• Interview witnesses — Determine direct versus indirect knowledge of facts. Bookkeepers 
+are good sources of information who can provide information regarding cash receipts 
+and disbursements, related-parties transactions, and evidence regarding destruction of 
+records. 
+• After documentary and other evidence has been gathered and analyzed, the trustee 
+should prepare an investigative report. 
+• If allegations of fraud are present, file a separate report pursuant to Title 18, section 3057 
+(filed with United States Attorney’s Office).   
+ 
+ 
+Creditors’ Rights and Remedies 
+Normally when businesses or individuals are not paid, they attempt to collect amounts owed 
+to them. When normal collection efforts fail, they resort to legal action. But if, after a 
+Bankruptcy Fraud  Financial Transactions   
+1.1312                           2011 Fraud Examiners Manual  
+creditor files a legal action, the debtor files a petition for bankruptcy, the creditor can take 
+the following steps:  
+• Investigate the reasons why payment has not been made. 
+? Check with other creditors to see if they have not been paid. 
+? Check with credit bureaus for credit history. 
+• File a motion for the appointment of a trustee; other creditors and the office of the UST 
+might join in with the petitioning creditor. 
+• To succeed, the moving party must demonstrate that fraud is suspected, and, therefore, a 
+trustee should be appointed to oversee the operations of the debtor. 
+• The creditor should have sufficient documentary and other evidence of fraudulent 
+conduct, including declarations provided by knowledgeable witnesses. 
+• A hearing is held where the judge hears evidence supporting and refuting the fraud 
+allegations. Thereafter, the judge issues a ruling regarding the appointment of a trustee. 
+• In some cases, the judge might appoint an examiner instead of a trustee because it is less 
+intrusive. An examiner’s role is only to investigate and report back to the judge whether 
+the allegations of fraud are supported by the independent examiner’s own evidence. 
+• If the debtor does not file bankruptcy, the creditor might join other creditors and file an 
+involuntary petition against the debtor. 
+ 
+Creditors’ Committees  
+After filing a Chapter 11 bankruptcy petition, the UST normally appoints a committee of 
+creditors holding unsecured claims. This committee is referred to as a creditors’ committee. 
+Title 11, U.S.C., section 1102 provides guidance in the formation of creditors’ committees. 
+ 
+Title 11, U.S.C., section 1103 details the powers of creditors’ committees. They can employ 
+attorneys, accountants, or other agents to assist them in the performance of their duties 
+under the code. In carrying out their duties, creditors’ committees are authorized to consult 
+with the trustee or debtor-in-possession concerning the administration of the case; to 
+investigate the acts, conduct, assets, liabilities, and financial condition of the debtor and the 
+operation of the debtor’s business; to participate in the formation of a plan of 
+reorganization; to request the appointment of a trustee or examiner; and to perform such 
+other services as are in the interest of those represented. 
+ 
+Involuntary Petitions (Title 11, U.S.C., Section 303)  
+Most bankruptcy cases are voluntary (i.e., voluntarily filed by the debtor). As we have 
+described above, debtors have specific reasons for filing bankruptcy. Individuals, 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1313 
+partnerships, and corporations have the statutory right to file bankruptcy as a protection 
+from their creditors. In exchange for exercising their privilege of filing bankruptcy, debtors 
+give up their right to financial privacy and must do other things required under the code. 
+ 
+Most creditors, however, do not want their de btors to file for bankruptcy because it might 
+make recovering a claim more difficult, and it might diminish the amount they receive on 
+their claim.  
+ 
+To collect amounts owed to them or to obtain a judgment against the debtor, some creditors 
+might sue the debtor in state court before any bankruptcy petition is filed. Numerous 
+collection actions can be brought against the debtor, which might lead to an increase in 
+competition for the debtor’s remaining assets. When this occurs, the debtor normally files 
+bankruptcy to prevent these creditors from seizing its assets. In some rare instances, 
+however, the creditors might involuntary petition the debtor into bankruptcy, although 
+doing so runs contrary to their normal inclination to do everything they can to keep debtors 
+out of bankruptcy. 
+ 
+That being said, involuntary petitions serve very important purposes; they can be used to 
+stop the financial hemorrhaging that usually takes place in fraudulently operated businesses, 
+and they allow the creditors to control the debtor and protect the value of the business while 
+investigating the financial affairs of the debtor.  
+ 
+An involuntary petition can only be filed under Chapters 7 and 11. Creditors who have not 
+been paid by the debtor can file a petition forcing the company into bankruptcy. Generally, 
+the creditors must be able to demonstrate in court that the debtor is not paying debts as they 
+mature. 
+ 
+To commence the filing of an involuntary proceeding, creditors must satisfy the following 
+criteria: 
+• The debts must not be subject to a bona fide dispute and must be noncontingent. 
+• The creditor(s) must be owed at least $14,425 more than the value of the lien or 
+collateral. 
+• If there are 12 or more creditors, then three creditors are needed to file. 
+• If there are fewer than 12 creditors, only one creditor is needed to file. 
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1314                           2011 Fraud Examiners Manual  
+After the involuntary petition is filed, a court hearing is held. The court might dismiss the 
+petition or enter an order for relief. But if the court deems it necessary, an interim trustee 
+might be appointed to preserve the property of the estate. At the hearing on the involuntary 
+petition, the creditors are required to demonstrate, through direct testimony, that the alleged 
+debtor is not paying debts as they come due. 
+ 
+Creditors must be careful when filing an involuntary petition. If the creditors are not 
+successful in court and the judge dismisses the petition, they might be sued by the debtor. 
+Damages for lost profits and goodwill could be assessed against the creditors who filed the 
+involuntary petition. Occasionally, in egregious circumstances, courts have awarded punitive 
+damages against creditors who filed an involuntary petition. 
+ 
+Investigations by Creditors  
+Individual creditors might conduct their own investigations and assist Chapter 7 and Chapter 
+11 trustees in performing their investigations. Trustees are normally very appreciative of 
+creditors who can provide information regarding the financial affairs of the debtor. Creditors 
+also can attend the 341(a) examination of the debtor and ask pertinent questions. Creditors 
+who bring copies of documents, such as prior loan applications or pictures of particular 
+assets, to the 341(a) examination are of great interest to trustees. Creditors can ask the 
+debtor what happened to the various assets listed on the loan applications or assets shown in 
+photographs. 
+ 
+ 
+Bankruptcy Crime Statutes 
+Bankruptcy crimes that are committed during the course of a bankruptcy proceeding, or in 
+contemplation of a bankruptcy proceeding, are contained in federal statutes. They are carried 
+out through the filing of a bankruptcy petition either to accomplish the purpose of the crime 
+or to cover up another crime that has already been perpetrated.  
+ 
+Although the Bankruptcy Code is contained within Title 11, U.S. Code, bankruptcy crimes 
+appear within Title 18, U.S. Code, sections 151 through 155. Section 152 is the most 
+comprehensive of the individual bankruptcy crime statutes. To constitute and be proved as a 
+federal crime, bankruptcy crimes must have been committed during the pendency of a bankruptcy 
+proceeding, with the defendant’s knowledge, and with a fraudulent intent to defeat the bankruptcy laws. 
+The FBI investigates bankruptcy crimes and the U.S. Attorney’s office prosecutes them.  
+ 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1315 
+It is no defense to these crimes that the creditors have actual knowledge of concealed assets 
+or that the concealment was not from all creditors, and it is no defense that the defendant 
+returned the estate’s assets, though such facts might mitigate damages. 
+ 
+Generally, the penalty for each bankruptcy offense is a fine (of up to $500,000 in the case of 
+bankruptcy fraud committed by an organization) or imprisonment for not more than five 
+years, or both. The statute of limitations does not run until the fraud is detected or the 
+debtor receives a discharge or is denied a discharge pursuant to the Bankruptcy Code.  
+ 
+The following sections set out the bankruptcy crime statutes as well as related criminal 
+statutes that frequently arise in bankruptcy cases.  
+ 
+Title 18, U.S. Code, Section 151 
+This section contains the definition of the term debtor, a party who has filed a petition under 
+Title 11 of the U.S. Code. 
+ 
+Title 18, U.S. Code, Section 152  
+This is the most comprehensive criminal bankruptcy fraud statute; it serves as the primary 
+bankruptcy crime statute for prosecuting bankruptcy fraud. Under section 158, the FBI and 
+the US Attorneys are charged with enforcement of section 152. There are nine paragraphs in 
+section 152 that define various offenses against the bankruptcy laws. The following is a brief 
+overview of each of the nine offenses.  
+ 
+Paragraph 1 — Concealment of Property  
+ 
+A person who knowingly and fraudulently conceals from a custodian, trustee, marshal, or other 
+officer of the court charged with the control or custody of property, or, in connection with a case 
+under Title 11, from creditors or  the United States Trustee, any property belonging to the estate 
+of a debtor; 
+ 
+For purposes of this paragraph, estate property consists of assets, records, and anything  
+of value.  
+ 
+Paragraph 2 — False Oath or Account  
+False oaths apply to oral testimony that might be given in 341(a) examinations, 2004 
+examinations (depositions), and testimony provided at hearings and trials.  
+Bankruptcy Fraud  Financial Transactions   
+1.1316                           2011 Fraud Examiners Manual  
+A person who knowingly and fraudulently makes a false oath or account in or in relation to 
+any case under Title 11. 
+ 
+Paragraph 3 — False Declarations 
+ 
+A person who knowingly and fraudulently makes a false declaration, certificate, verification or 
+statement under penalty of perjury as permitted under section 1746 of Title 28, in or in relation 
+to any case under Title 11.  
+ 
+Written documents filed with the court under penalty of perjury consist of the debtor’s 
+petition, schedules and statements of financial affairs, interim statements and operating 
+reports, as well as declarations filed with the court. Declarations are made in petitions, 
+schedules and in other court filings (motions). This section gives the same weight to 
+unsworn declarations as to those sworn under penalty of perjury.  
+ 
+Paragraph 4 — False Claims 
+ 
+A person who knowingly and fraudulently presents any false claim for proof against the estate of 
+a debtor, or uses any such claim in any case under  Title 11, in a personal capacity or as or 
+through an agent, proxy, or attorney. 
+ 
+This paragraph is designed to prevent fictitious or inflated claims from being filed by 
+creditors or others in a bankruptcy case. 
+ 
+Paragraph 5 — Fraudulent Receipt of Property 
+ 
+A person who knowingly and fraudulently receiv es any material amount of property from a 
+debtor after the filing of a case under Title 11 with intent to defeat the provisions of Title 11 
+ 
+This paragraph relates back to paragraph 1, above, and it implicates those who work in 
+concert with the debtor. This could be a creditor or any other interested party. 
+ 
+  
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1317 
+Paragraph 6 — Extortion and Bribery 
+ 
+A person who knowingly and fraudulently gives, offers, receives or attempts to obtain any 
+money or property, remuneration, compensation, reward, advantage, or promise thereof, for 
+acting or forbearing to act in any case under Title 11. 
+  
+This paragraph covers bribery, which also is spelled out in Title 18, principally sections 210 
+and 1503. Both Sections discuss the attempt to bribe judicial officers and to unlawfully 
+corrupt or influence any officer of the court. Section 1503 also covers threats intended to 
+influence, intimidate, or impede an officer in the performance of his duties. 
+ 
+Paragraph 7 — Fraudulent Transfer or Concealment 
+ 
+A person who in a personal capacity or as agent or officer of any person or corporation, in 
+contemplation of a case under Title 11 by or against him or any other person or corporation, 
+or with intent to defeat the provisions of Title 11, knowingly and fraudulently transfers or 
+conceals any of his property or the property of such other person or corporation.  
+ 
+This paragraph is the only paragraph under section 152 that deals with pre-bankruptcy 
+conduct. The section addresses situations where a bankruptcy petition filing is imminent. It 
+is intended to cover actions by individuals who transfer property rightfully belonging to the 
+creditors of the prospective bankruptcy estate. 
+ 
+Paragraph 8 — Fraudulent Destruction or Alteration of Documents 
+ 
+A person who, after the filing of a case under Title 11 or in contemplation thereof, knowingly 
+and fraudulently conceals, destroys, mutilates, falsifies, or makes a false entry in any recorded 
+information (including books, documents, records, and papers) relating to the property or 
+financial affairs of a debtor. 
+ 
+Paragraph 9 — Fraudulent Withholding of Documents 
+ 
+A person who, after the filing of a case under Title 11, knowingly and fraudulently withholds 
+from a custodian, trustee, marshal, or other officer of the court or a United States Trustee 
+entitled to its possession, any recorded information (including books, documents, records, and 
+papers) relating to the property or financial affairs of a debtor. 
+Bankruptcy Fraud  Financial Transactions   
+1.1318                           2011 Fraud Examiners Manual  
+This section is particularly useful in cases where the debtor does not turn over estate records 
+after being compelled to do so by the court, and the records are later discovered by federal 
+authorities during the execution of search warrants. 
+ 
+Embezzlement Against the Estate, Title 18, U.S. Code, Section 153 
+  
+ (a) Offense. A person described in subsection (b) who knowingly and fraudulently appropriates to the 
+person’s own use, embezzles, spends, or transfers any property or secretes or destroys any document 
+belonging to the estate of a debtor. 
+ 
+ (b) Person to Whom Section Applies. A person described in this subsection is one who has access to 
+property or documents belonging to an estate by virtue of the person’s participation in the administration 
+of the estate as a trustee, custodian, marshal, attorney, or other officer of the court or as an agent, 
+employee, or other person engaged by such an officer to perform a service with respect to the estate.  
+  
+This statute deals with all property and the records or documents that the court officer 
+receives during the tenure of the trustee or officer.  
+ 
+Adverse Interest and Conduct of Officers, Title 18, U.S. Code, Section 154 
+ 
+A person who, being a custodian, trustee,  marshal, or other officer of the court — 
+(1)  knowingly purc hases, directly or indirectly, any property of the estate of which the person is such 
+an officer in a case under Title 11;  
+ 
+(2)  knowingly refuses to permit a reasonable opportunity for the inspection by parties in interest of 
+the documents and accounts relating to the affairs of estates in the person’s charge by parties 
+when directed by the court to do so; or  
+(3)  knowingly refuses to permit a reasonable opport unity for the inspection by the United States 
+Trustee of the documents and accounts relating to the affairs of any estate in the person’s  
+charge. 
+ 
+Bankruptcy trustees are in a position of trust and, therefore, should be held to a higher 
+standard of conduct than other interested parties. But one critical aspect is the sale of estate 
+property. Trustees can influence the sale of property and can make significant profits if they 
+directly or indirectly purchase assets of the estate. It would be similar to insider trading by 
+individuals in the securities industry. This statute is unlike the others listed above in that a 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1319 
+violation of this statute is only a misdemeanor, whereas all of the above are felonies. 
+Conviction under this Section carries a fine, as well as forfeiture of the person’s office. 
+ 
+Knowing Disregard of Bankruptcy Law or Rule, Title 18, U.S. Code, Section 156 
+ 
+(a)  Definitions. In this section — 
+(1) the term “bankruptcy petition preparer” means a person, other than the debtor’s attorney or an 
+employee of such an attorney, who prepares for compensation a document for filing, and 
+ 
+(2) the term “document for filing” means a petition or any other document prepared for filing by a 
+debtor in a United States bankruptcy court or a United States district court in connection with a case 
+under Title 11. 
+ 
+(b) Offense. If a bankruptcy case or related proceeding is dismissed because of a knowing attempt by a 
+bankruptcy petition preparer in any manner to disregard the requirements of Title 11, United States 
+Code, or the Federal Rules of Bankruptcy Procedure. 
+ 
+This section is the criminal version of the Title 11, U.S.C., section 110, which deals with 
+“petition mills” and petition preparers who de liberately disregard the Bankruptcy Code or 
+any of its rules and procedures. Petition mills and preparers who fall under this section might 
+file false documents for debtors with deliberately wrong Social Security numbers or other 
+incorrect information. In some cases, debtors might not even be aware they are filing 
+bankruptcy or the effect of a bankruptcy on their credit rating. 
+ 
+Bankruptcy Fraud, Title 18, U.S. Code, Section 157  
+ 
+A perso n who, having devised or in tending to devise a scheme or artifice to defraud and for the purpose 
+of executing or concealing such a scheme or artifice or attempting to do so — 
+ 
+(1) files a petition under Title 11, including a fraudulent involuntary bankruptcy petition under 
+section 303 of such title;  
+ 
+(2) files a document in a proceeding under Title 11, including a fraudulent  involuntary bankruptcy 
+petition under section 303 of such title; or  
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1320                           2011 Fraud Examiners Manual  
+(3) makes a false or fraudulent re presentation, claim, or promise concerning or in relation to a 
+proceeding under Title 11, including a fraudulent in voluntary bankruptcy petition under section 303 of 
+such title, at any time before or after the filing of  the petition, or in relation to a proceeding falsely 
+asserted to be pending under such Title. 
+ 
+This section is very similar to mail and wire fraud statutes both in wording and in concept. 
+This section applies to insiders who perpetrate bustout schemes, as well as those who 
+attempt to obtain credit immediately prior to filing bankruptcy. Under section 158, the FBI 
+and the U.S. Attorneys are charged with enforcement of section 157. 
+ 
+Falsifying, Altering, or Destroying Documents, Title 18, U.S. Code, Section 1519 
+ 
+Whoever knowingly alters, destroys, mutilates, conceals, covers up, falsifies, or makes a false entry in 
+any record, document, or tangible object with the intent to impede, obstruct, or influence the 
+investigation or proper administration of any matter within the jurisdiction of any department or agency 
+of the United States or any case filed under Title 11, or in relation to or contemplation of any such 
+matter or case, shall be fined under this title, imprisoned not more than 20 years, or both. 
+ 
+This section was added as part of the Sarbanes-Oxley Act in 2002. It specifically provides 
+that altering, falsifying, or destroying documents filed under Title 11 (the Bankruptcy Code) 
+is a criminal violation subject to imprisonment of up to 20 years. 
+ 
+Bankruptcy-Related Violations  
+Although bankruptcy crimes are the focus of this section, there are other crimes that are 
+usually perpetrated prior to the filing of a bankruptcy petition. In some cases, the bankruptcy 
+process is the culmination of a pattern of prior criminal activity. There are many other crimes 
+frequently associated with bankruptcy including mail fraud, wire fraud, bank fraud, interstate 
+transportation of stolen goods or property, aiding or abetting, false statements, conspiracy, tax 
+evasion, and money laundering. Bankruptcy fraud is also a predicate offense under RICO. For 
+more information on these offenses, see the “Law Related to Fraud” chapter in the Law 
+section of the Fraud Examiners Manual. 
+ 
+Although the criminal aspects of bankruptcy crimes are heard in District Court, the 
+underlying facts dealing with a debtor’s misc onduct also are heard in the form of civil 
+proceedings before the United States Bankruptcy Court. Parallel proceedings occur in cases 
+where bankruptcy fraud allegations have been made. Several examples of civil proceedings 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1321 
+that ensue as a result of fraud allegations against the debtor are motions for the appointment 
+of trustees and examiners, lawsuits for recovery of fraudulently transferred property, and 
+objections to the debtor’s discharge.  
+ 
+ 
+Bankruptcy Schemes 
+ 
+Concealed Assets 
+The most common crime is the concealment of assets rightfully belonging to the debtor 
+estate. Assets might consist of cash, consumer property, houses, and interests in partnerships 
+and corporations, as well as lawsuits in which the debtor is a plaintiff. Assets also include 
+books and records of the debtor. Concealments vary from little or no monetary value to tens 
+of millions of dollars. The various concealment offenses are described in more detail under 
+the bankruptcy crime statutes. 
+ 
+The Planned Bustout 
+A bustout is a planned bankruptcy. It can take many different forms. The basic approach is 
+for an apparently legitimate business to order large quantities of goods on credit, then 
+dispose of those goods through legitimate or illegitimate channels. The perpetrators then 
+close shop, absconding with the proceeds, and leaving the suppliers unpaid. 
+ 
+Bustout schemes are planned and perpetrated by individuals both prior to and subsequent to 
+the formation of the new business entity. Other characteristics of bustout schemes follow: 
+• They are planned from the beginning. 
+• Sometimes organized crime is involved. 
+• Credit is established with numerous vendors; prompt payments are made to all vendors; 
+vendors feel comfortable in dealings, thereby extending existing credit lines. 
+• Perpetrators build inventory by ordering everything they can from vendors; they promise 
+to pay soon and order more merchandise. 
+• Sell out inventory at deep discount or move it before vendors can take possession of it. 
+• Business fails or closes up, files bankruptcy, or creditors beat them to it with involuntary 
+bankruptcy. 
+  
+Detection  
+Some red flags that signal that a bustout scheme might be in process include: 
+• A business relationship based principally on trust. Creditors are willing to offer extended 
+Bankruptcy Fraud  Financial Transactions   
+1.1322                           2011 Fraud Examiners Manual  
+terms for payment, hold checks, or take post-dated checks. This makes them vulnerable. 
+• Buyers with a history of purchasing goods for an unreasonable discount. 
+• A large number of bank accounts, indicating a possible kiting scheme. The perpetrator 
+occasionally pays some of his creditors with funds generated by floating checks between 
+bank accounts. 
+ 
+Prevention 
+Lenders and suppliers should evaluate potential customers carefully prior to extending credit 
+by performing due diligence and obtaining detailed background information. Lenders  
+and suppliers should at times visit their customers’ locations to verify the legitimacy of  
+the businesses. 
+ 
+Multiple Filings 
+This scheme involves repeated bankruptcy filings by the same debtor in order to obtain the 
+benefit of the automatic stay. Usually each petition is dismissed for failure to file the required 
+statements or to appear for examination. False statements on petitions are common, 
+including a denial that the debtor has filed any previous petition. 
+ 
+Credit Card Bustout 
+The debtor intentionally runs up a number of credit cards to their limit and files bankruptcy 
+with no intent to repay. Credit card debts might include purchases for jewelry, luxury items, 
+or other personal property that are not disclosed on the schedules. Credit card debt also 
+might include large cash advances taken prior to filing bankruptcy. 
+ 
+Forged Filings 
+Bankruptcy petitions are sometimes filed in another (uninvolved) person’s name, usually as 
+part of a larger scheme using an assumed identity. It can take years to correct the credit 
+records of the person whose identity has been stolen. Sometimes the debtor’s name is 
+obtained from obituary notices. 
+ 
+Typing Services or Petition Mills 
+This scheme involves companies that file bankruptcy petitions typically on behalf of low-
+ income and often unsuspecting clients. The petitions often contain numerous false 
+statements. The debtor usually has no idea a bankruptcy has been filed, as the service has 
+held itself out to be a renter’s rights group and has not told the client how it will accomplish 
+what it has promised.   
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1401 
+
+
+
+:
+
+
+bankruptci fraud
+introduct
+the bankruptci system and player
+bankruptci court
+all bankruptci case ar file in the local district of the unit state bankruptci court
+although bankruptci court ar feder court thei ar not articl iii court which deriv
+their power from articl iii of the constitut articl iii state that judici power of the
+unit state rest with the suprem court and in inferior court establish by congress
+articl iii court includ the us district court the us circuit court of appeal and the
+us suprem court
+bankruptci court ar not contempl within thi scheme as inferior court but thei ar
+consid as an adjunct to inferior us district court
+likewis bankruptci judg ar not articl iii judg which deriv their power from articl
+iii of the constitut bankruptci judg hear all case involv debtor and creditor
+right approv plan of reorgan award fee to profession and conduct hear
+and trial when necessari to resolv disput
+offic of the unit state truste
+the offic of the unit state truste is a depart of justic agenc that is respons
+for administ bankruptci case appoint truste examin and chapter 11
+committe overse and monitor truste review employ and fee applic
+and appear in court on matter of interest to the estat and creditor
+there ar 21 region in the offic of the us truste compris on or more feder
+district each region consist of a us truste or an assist truste in sever region
+the offic of the ust in each region princip is compris of staff attornei bankruptci
+analyst includ account and in some instanc special investig unit
+staff attornei review plead eg fee applic and motion to appoint truste and
+examin and repres the ust on these matter
+bankruptci fraud financi transact
+11302 2011 fraud examin manual
+bankruptci analyst analyz and review oper report and other relev financi
+inform and in gener overse the debtor case to ensur complianc with the
+bankruptci code and to protect the asset of the estat
+special investig unit investig crimin referr complaint in bankruptci case in some
+case thei work with crimin investig agenc such as the feder bureau of
+investig and the intern revenu servic crimin investig divis
+panel truste
+panel truste ar independ profession usual attornei who serv in chapter 7 case
+in each feder district in the countri truste also might serv in chapter 11 case where
+oper of the debtor busi is consid appropri truste or other might
+develop a plan of reorgan to conclud the chapter 11 proceed if the busi
+cannot be reorgan the truste might petit the court to convert the case to chapter 7
+or develop a plan of liquid under chapter 11 the duti of a truste ar specif
+enumer in titl 11 usc section 704 in chapter 7 case and titl 11 usc section
+1106 in chapter 11 case the duti of a truste ar as follow administ asset liquid
+asset pai creditor litig matter where necessari have the right to sue and be su
+conduct hear conduct investig of financi affair of the debtor file report as
+requir by the offic of the ust and where a ppropriat file crimin referr with the
+unit state attornei offic a truste compens is statutorili defin under the
+bankruptci code
+examin
+an examin is normal appoint in a chapter 11 bankruptci proceed to investig
+certain alleg of fraud and misconduct on the part of the debtor or princip of the
+debtor in a typic motion for the appoint of a truste or examin alleg of
+fraud or misconduct ar rais by creditor the offic of the ust or other interest
+parti a bankruptci judg hear evid submit by all parti creditor et al as well
+as the debtor respons to the alleg after hear the evid the judg ha the
+option either to appoint a truste or an examin or leav the debtor in possess of the
+busi if an examin is appoint the sole respons is to investig and report
+the result of the investig to the court and other parti in interest as quickli as possibl
+examin have the power to subpoena record and depos wit thei do not have the
+power to run busi make busi decis or propos plan of reorgan
+financi transact bankruptci fraud
+2011 fraud examin manual 11303
+gener speak court might expand the examin power to perform certain duti
+of truste or debtorsinpossess
+debtor
+a debtor is defin in titl 11 usc section 10113 as a person or municip who is
+the subject of a file under titl 11 person is defin as an individu partnership or
+corpor municip is defin as a polit subdivis public agenc or
+instrument of a state an individu debtor object in a chapter 7 case is to be
+reliev of all discharg debt and to obtain a fresh start thi is accomplish by the
+court grant the individu debtor a discharg the debtor primari object in a chapter
+11 should be to have a plan of reorgan confirm by the court and preserv the
+busi oper
+creditor
+a creditor is defin by the code as on who hold a claim creditor can be either secur or
+unsecur
+secur creditor
+a secur creditor hold a claim for which there is a properli perfect secur interest it will
+be consid a secur claim to the extent of the valu of the properti when the debt is
+undersecur amount of note is greater than the valu of the secur interest the debt will
+be consid both unsecur and secur for exampl if a note for 500 is secur by
+properti have a valu of 400 there will be a secur claim for 400 and an unsecur
+claim for 100 if the debtor and the credit or cannot agre on the valu of the collater
+there will be a hear under section 506 of the bankruptci code and the court will
+determin the valu of the collater the bankruptci court will reli on state law where the
+properti is locat to determin if a secur claim exist a secur interest gener is
+obtain in person properti by a ucc file and in real properti by file a lien with the
+counti clerk in the counti where the properti is locat
+at the time of the file of the bankruptci petit an automat stai preclud the creditor
+from take ani action to repossess the properti unless relief from the stai is grant in a
+chapter 11 case the court gener will grant relief onli if it can be shown that there is no
+equiti in the properti and that the properti is not need for reorgan the busi the
+stai also might be remov if the properti is declin in valu and the debtor fail to
+compens the creditor for thi declin refer to as adequ protect payment if
+bankruptci fraud financi transact
+11304 2011 fraud examin manual
+the stai is remov the creditor then can proce under state law to obtain possess of
+the properti often through a foreclosur to satisfi the claim
+holder of secur claim have prioriti over unsecur creditor and normal get paid first
+in the distribut to creditor made by the truste or debtorinpossess in the
+develop of a chapter 11 plan the right of holder of secur claim normal ar
+provid for befor the unsecur claim holder will receiv materi consider
+unsecur creditor
+unsecur creditor ar those that have a claim against the debtor that aros befor the
+bankruptci petit wa file and do not have a perfect secur interest titl 11 usc
+section 507 give some of the holder of unsecur claim prioriti over other unsecur
+claim holder among those claim that have prioriti ar administr expens cost
+associ with the oper of the busi and profession fee while the busi or
+individu is in bankruptci select prepetit unpaid wage prepetit contribut
+requir but not made to employe benefit plan prepetit unpaid alimoni and support
+payment and select prepetit tax claim
+adjust
+adjust or oper agent as thei ar frequent call ar the right hand to truste
+and debtor an adjust or oper agent is an individu who handl the peripher
+duti of a truste such duti includ secur the busi locat chang lock
+locat asset of the estat locat busi record open new bank account
+investig theft of asset in conjunct with the truste store asset of the estat and
+arrang sale of asset adjust also can assist debtor and truste in oper the
+debtor busi and in help to prepar bankruptci schedul as well as interim
+statement and oper report
+the bankruptci code titl 11 unit state code
+the bankruptci code is broken down into eight chapter 1 3 5 7 9 11 12 and 13 under
+titl 11 of the unit state code in addit there ar two other sourc of inform
+deal with bankruptci issu that ar found in the unit state code thei can be found
+at titl 18 usc chapter 9 which deal with crime and crimin procedur and titl 28
+which deal with the judiciari and judici procedur some of the provis of the
+bankruptci code as amend by the bankruptci reform act of 1994 ar outlin below
+financi transact bankruptci fraud
+2011 fraud examin manual 11305
+chapter 1 gener provis
+chapter 1 contain definit rule of construct power of the court who can be a
+debtor and other miscellan inform chapter 1 ha been amend to reflect issu
+deal with person who neglig or fraudul prepar bankruptci petit section
+101 of thi chapter is particularli import as it deal with definit of term us in
+bankruptci proceed section 110 deal with the penalti for person who neglig or
+fraudul prepar bankruptci petit see later section on crimin conduct
+chapter 3 case administr
+part 1 of chapter 3 deal with the commenc of case file requir and court
+appear part 2 deal with offic the qualif of the truste the role of the
+truste and the compens of truste and other offic part 3 deal with
+administr involv meet of creditor notic requir properti of the
+estat and other administr requir part 4 deal with administr power
+includ the power of the truste to protect properti of the estat us leas or sell the
+properti and obtain credit on behalf of the estat
+chapter 5 creditor debtor and the estat
+part 1 of chapter 5 deal with creditor clai ms their prioriti and their allow thi
+section contain the priorit of claim and the distribut of estat asset part 2 deal
+with specif duti of the debtor the exempt debtor can claim and discharg of
+debt part 3 deal with properti of the estat recoveri of voidabl transfer and contractu
+right of the estat
+chapter 7 liquid of debtor asset
+part 1 of chapter 7 deal with offic and the administr of chapter 7 case and spell
+out duti of the truste part 2 deal with the collect liquid and distribut of the
+estat asset part 3 deal with stockbrok liquid part 4 deal with commod
+broker liquid
+chapter 7 is the most common type of bankruptci it involv liquid of the debtor
+asset by a truste to pai the creditor claim thi allow the debtor to get a court order
+under which some or all of hi debt mai be elimin it involv the liquid of asset
+that ar not exempt by state law person bankruptci doe not elimin tax fine
+alimoni child support and certain student loan
+bankruptci fraud financi transact
+11306 2011 fraud examin manual
+a petit for liquid under chapter 7 mai be file by ani entiti eg ani individu
+corpor partnership busi trust etc but a chapter 7 case file by an individu
+debtor mai be dismiss or convert to a case under chapter 11 or 13 with the debtor
+consent if grant relief under chapter 7 would constitut an abus the mean test is us
+to determin whether the chapter 7 file is presumpt abus under thi test the
+truste or ani creditor can bring a motion to dismiss a chapter 7 file if the debtor incom
+is greater than the state median incom
+also a chapter 7 debtor cannot receiv a discharg if a prior discharg wa receiv within 8
+year of the new file
+chapter 11 reorgan
+often debtor want to avoid liquid and chapter 11 provid a type of bankruptci that
+is design to help the debtor by reorgan the busi the code allow for debtor to
+restructur their debt pai their creditor and emerg from bankruptci part 1 of the chapter
+deal with offic and administr part 2 deal with the plan of reorgan part 3
+deal with postconfirm matter part 4 deal with railroad reorgan
+the purpos of the chapter 11 file is to allow the debtor breath room from the
+creditor so that the debtor can reorgan it financi affair and continu as a go
+concern if the court is provid with suffici probabl caus regard the financi affair
+of the debtor a truste or examin can be appoint by the court
+chapter 13 adjust of debt
+chapter 13 provid anoth type of bankruptci that allow a debtor pai off hi debt over
+time in accord with a court approv plan under thi type of case the debtor mai keep
+certain properti that he would not be allow to retain in a chapter 7 bankruptci becaus
+of chang to the bankruptci law in 2005 mani peopl ar no longer elig to file for
+bankruptci under chapter 7 some have their chapter 7 case convert to a chapter 13 case
+but chapter 13 is not grant if the debtor receiv a discharg under chapter 7 11 or 12
+within the previou 4 year or a discharg under chapter 13 in the previou 2 year
+also the court mani not grant a chapter 13 discharg unless the debtor ha complet an
+educ cours in person financi manag
+financi transact bankruptci fraud
+2011 fraud examin manual 11307
+the bankruptci case
+a bankruptci case begin with the file of a bankruptci petit but to be elig to file a
+bankruptci petit an individu debtor must have receiv credit counsel from an
+approv counsel agenc within 180 dai befor file
+when a petit is file the debtor must file the follow document
+a list of creditor
+a schedul of asset and liabil
+a schedul of current incom and current expenditur
+a statement of the debtor financi affair
+evid of payment from employ if ani receiv 60 dai befor the file date
+an item statement of monthli net incom
+a statement disclos ani reason anticip increas in incom or expenditur for
+the 12 month after the file
+a record of ani interest in an qualifi state tuition program or an educ individu
+retir account
+a certif of credit counsel from the approv counsel agenc if the petition
+is an individu
+a statement of the debtor intent with respect to hi properti that secur debt if
+the petition is an individu
+a copi of the debtor tax return for the most recent tax year
+gener if an individu debtor in a chapter 7 case fail to file the document within 45
+dai of the origin file date the case is automat dismiss
+onc the bankruptci case ha been commenc the debtor is protect by an automat
+stai which prevent creditor from continu attempt to collect debt from the petition
+there ar howev except where the automat stai doe not appli eg prosecut of
+crimin case patern case domest support oblig case child custodi case etc
+also if the bankruptci petit wa file as part of a scheme to delai hinder or defraud
+creditor a creditor whose claim is securt by a real properti interest is entitl to relief
+from the stai
+addition after file the debtor will be appoint a truste who will overse the case in
+a chapter 7 case the truste is respons for collect sell and reduc the estat
+asset to cash temporarili continu to oper the debtor busi make a final report
+bankruptci fraud financi transact
+11308 2011 fraud examin manual
+and file a final account in a chapter 11 case howev the debtor remain in possess of
+hi asset and gener retain the same author as the truste except for the duti to
+investig the debtor and the right to compens a truste is appoint in a chapter 13
+case but the truste duti gener involv in vestig the debtor financi affair
+provis affect individu
+nondischarg debt
+although a bankruptci proceed mai result in the discharg of a debtor debt certain
+debt ar not discharg in chapter 7 case
+tax in gener tax claim ar not discharg
+debt incur by fraud embezzl and larceni gener liabil aris from fraud
+embezzl and larceni ar not discharg
+luxuri good debt ow to a singl creditor total more than 500 for luxuri good
+incur within 90 dai of file ar preseum nondischarg
+cash advanc cash advanc of 750 that ar made within 70 dai of file ar presum
+nondischarg
+unschedul debt in gener debt that ar not list or ar not schedul ar not
+discharg
+domest support oblig debt for domest support oblig ar not discharg
+properti settlement aris from divorc or separ debt for properti settlement aris
+from divorc or separ ar not discharg
+certain liabil liabil aris from will and malici injuri and liabil for death
+or person injuri incur when oper a vehicl ar not discharg
+fine and penalti oblig to pai a fine penalti or forfeitur ow to the
+govern ar not discharg
+student loan student loan ar not discharg unless it would impos an undu
+hardship for the debt surviv
+homestead exempt
+to prevent individu who ar like to file for bankruptci from move their asset to
+state with more favor law the debtor must satisfi certain hold period requir
+to qualifi for a state homestead exempt whic h allow filer to exempt the valu of their
+home from creditor for properti worth more than 125000 the debtor must own that
+properti for 1215 dai befor file also befor qualifi for a state homestead
+exempt the debtor must have live in that state for 730 dai prior to file
+financi transact bankruptci fraud
+2011 fraud examin manual 11309
+retir plan exempt
+debtor can exempt retiremet fund from the bankruptci estat if thei ar in a fund or
+account that is exempt from tax under the intern revenu code
+educ account exempt
+debtor can exempt educ account under section 529 and 530 from the bankruptci
+estat if the beneficiari of the account is a child stepchild grandchild or stepgrandchild of
+the debtor for the taxabl year dure which fund were place in the account
+privaci provis
+under the bankruptci abus prevent and consum protect act the bankruptci
+court is permit to honor the privaci polici of busi debtor the act creat a
+consum privaci ombudsman to protect person privaci in bankruptci proceed
+measur mai be implement to prevent ident theft and to guid what inform is
+readili access to the public debtor ar permit to request that court protect sensit
+inform befor it is place in public record
+the role of the truste in bankruptci fraud matter
+the truste in bankruptci matter is often confront with alleg of fraud and
+misconduct on the part of the debtor and it princip in chapter 11 case it is often the
+primari reason the court appoint a truste creditor repres of the creditor
+committe or privat investig might be interact with a bankruptci truste for thi
+reason it is import to know how the truste oper what the role of the truste is and
+how to make the most of the opportun to work with the truste the truste author to
+investig fraud is found in the bankruptci code the follow is a brief outlin of the
+chapter 7 and chapter 11 truste author to investig fraud
+statutori author
+in chapter 7 case section 704 of the code spell out all duti of the truste which includ
+investig claim file by creditor and the code provid that the truste shall
+investig the financi affair of the debtor
+although gener truste in chapter 11 case do not oper the debtor busi
+chapter 11 truste ha the duti to investig the debtor financi affair
+bankruptci fraud financi transact
+11310 2011 fraud examin manual
+investig by the truste
+the truste power enabl him to gather financi inform from variou sourc
+includ the debtor attornei and account a truste step into the shoe of the
+debtor which allow him the opportun to break the attorneycli privileg attornei
+might attempt to rais the attorneycli privileg as a defens to provid inform but
+thei ar usual unsuccess in thi regard sinc the truste is now the client he must be
+abl to understand what legal action need to be taken therefor it is imper that the
+debtor attornei cooper with the truste the truste also should have access to the
+account work paper tax return and client document in their possess which might
+provid the truste and creditor with the opportun to locat and recov hidden asset
+anoth us tool in the truste arsen is the power to have access to debtor record
+that ar in the possess of the crimin author sinc the truste step into the shoe of
+the debtor he ha the right to inspect and us these record to conduct the busi affair
+of the debtor
+if the investig uncov suffici evid of fraud the truste should file a report
+detail the result of the investig with the unit state attornei thi duti is spell
+out in titl 18 unit state code section 3057
+sourc of inform
+the truste should obtain the variou document or inform list below in the cours
+of an investig if ani of thi inform is unavail the truste can subpoena these
+document the subpoena document could either be the origin document certifi
+copi of these document or other inform that could be us to reconstruct the
+miss document
+type of inform locat
+debtor petit schedul statement of
+financi affair
+bankruptci court offic and ust
+interim and oper statement bankruptci court and ust
+adversari proceed claim regist
+transcript of hear 2004 examin
+bankruptci court
+fee applic bankruptci court and ust
+real properti record counti clerk counti assessor
+person properti record counti clerk
+ucc file secretari of state
+financi statement lend institut debtor counsel
+account chapter 7 or chapter 11 file
+financi transact bankruptci fraud
+2011 fraud examin manual 11311
+forward address post offic
+dba counti record secretari of state
+partnership secretari of state
+offic of corpor secretari of state
+address of individu vote record
+insur polici insur compani provid coverag
+current or prior busi activ interview conduct of creditor former
+employe former spous former busi
+activ
+crimin histori current or prior litig polic record local court record
+tape and transcript of sworn testimoni
+341a and 2004 examin
+ust 341a exam
+bankruptci court 2004 exam
+investig procedur
+to fulfil their fiduciari investig respons truste need to gather financi
+inform if debtor book and record ar miss incomplet or unreli thei should
+be obtain from third parti such as bank custom relat parti and so on if the
+thirdparti resist the truste request the truste can subpoena record or testimoni under
+bankruptci rule 2004 after receiv thirdparti record and testimoni the truste might
+then
+reconstruct cash receipt and cash disburs journal and gener ledger
+identifi new bank account relatedparti transact and hidden or conceal asset
+take 2004 exam deposit of uncoop wit
+take 2004 exam of thirdparti wit and other who can authent document
+record etc
+obtain declar testimoni from cooper wit
+interview wit determin direct versu indirect knowledg of fact bookkeep
+ar good sourc of inform who can provid inform regard cash receipt
+and disburs relatedparti transact and evid regard destruct of
+record
+after documentari and other evid ha been gather and analyz the truste
+should prepar an investig report
+if alleg of fraud ar present file a separ report pursuant to titl 18 section 3057
+file with unit state attornei offic
+creditor right and remedi
+normal when busi or individu ar not paid thei attempt to collect amount ow
+to them when normal collect effort fail thei resort to legal action but if after a
+bankruptci fraud financi transact
+11312 2011 fraud examin manual
+creditor file a legal action the debtor file a petit for bankruptci the creditor can take
+the follow step
+investig the reason why payment ha not been made
+check with other creditor to see if thei have not been paid
+check with credit bureau for credit histori
+file a motion for the appoint of a truste other creditor and the offic of the ust
+might join in with the petit creditor
+to succe the move parti must demonstr that fraud is suspect and therefor a
+truste should be appoint to overse the oper of the debtor
+the creditor should have suffici documentari and other evid of fraudul
+conduct includ declar provid by knowledg wit
+a hear is held where the judg hear evid support and refut the fraud
+alleg thereaft the judg issu a rule regard the appoint of a truste
+in some case the judg might appoint an examin instead of a truste becaus it is less
+intrus an examin role is onli to investig and report back to the judg whether
+the alleg of fraud ar support by the independ examin own evid
+if the debtor doe not file bankruptci the creditor might join other creditor and file an
+involuntari petit against the debtor
+creditor committe
+after file a chapter 11 bankruptci petit the ust normal appoint a committe of
+creditor hold unsecur claim thi committe is refer to as a creditor committe
+titl 11 usc section 1102 provid guidanc in the format of creditor committe
+titl 11 usc section 1103 detail the power of creditor committe thei can emploi
+attornei account or other agent to assist them in the perform of their duti
+under the code in carri out their duti creditor committe ar author to consult
+with the truste or debtorinpossess concern the administr of the case to
+investig the act conduct asset liabil and financi condit of the debtor and the
+oper of the debtor busi to particip in the format of a plan of
+reorgan to request the appoint of a truste or examin and to perform such
+other servic as ar in the interest of those repres
+involuntari petit titl 11 usc section 303
+most bankruptci case ar voluntari ie voluntarili file by the debtor as we have
+describ abov debtor have specif reason for file bankruptci individu
+financi transact bankruptci fraud
+2011 fraud examin manual 11313
+partnership and corpor have the statutori right to file bankruptci as a protect
+from their creditor in exchang for exercis their privileg of file bankruptci debtor
+give up their right to financi privaci and must do other thing requir under the code
+most creditor howev do not want their de btor to file for bankruptci becaus it might
+make recov a claim more difficult and it might diminish the amount thei receiv on
+their claim
+to collect amount ow to them or to obtain a judgment against the debtor some creditor
+might sue the debtor in state court befor ani bankruptci petit is file numer
+collect action can be brought against the debtor which might lead to an increas in
+competit for the debtor remain asset when thi occur the debtor normal file
+bankruptci to prevent these creditor from seiz it asset in some rare instanc
+howev the creditor might involuntari petit the debtor into bankruptci although
+do so run contrari to their normal inclin to do everyth thei can to keep debtor
+out of bankruptci
+that be said involuntari petit serv veri import purpos thei can be us to
+stop the financi hemorrhag that usual take place in fraudul oper busi
+and thei allow the creditor to control the debtor and protect the valu of the busi while
+investig the financi affair of the debtor
+an involuntari petit can onli be file under chapter 7 and 11 creditor who have not
+been paid by the debtor can file a petit forc the compani into bankruptci gener
+the creditor must be abl to demonstr in court that the debtor is not pai debt as thei
+matur
+to commenc the file of an involuntari proceed creditor must satisfi the follow
+criteria
+the debt must not be subject to a bona fide disput and must be nonconting
+the creditor must be ow at least 14425 more than the valu of the lien or
+collater
+if there ar 12 or more creditor then three creditor ar need to file
+if there ar fewer than 12 creditor onli on creditor is need to file
+bankruptci fraud financi transact
+11314 2011 fraud examin manual
+after the involuntari petit is file a court hear is held the court might dismiss the
+petit or enter an order for relief but if the court deem it necessari an interim truste
+might be appoint to preserv the properti of the estat at the hear on the involuntari
+petit the creditor ar requir to demonstr through direct testimoni that the alleg
+debtor is not pai debt as thei come due
+creditor must be care when file an involuntari petit if the creditor ar not
+success in court and the judg dismiss the petit thei might be su by the debtor
+damag for lost profit and goodwil could be assess against the creditor who file the
+involuntari petit occasion in egregi circumst court have award punit
+damag against creditor who file an involuntari petit
+investig by creditor
+individu creditor might conduct their own investig and assist chapter 7 and chapter
+11 truste in perform their investig truste ar normal veri appreci of
+creditor who can provid inform regard the financi affair of the debtor creditor
+also can attend the 341a examin of the debtor and ask pertin question creditor
+who bring copi of document such as prior loan applic or pictur of particular
+asset to the 341a examin ar of great interest to truste creditor can ask the
+debtor what happen to the variou asset list on the loan applic or asset shown in
+photograph
+bankruptci crime statut
+bankruptci crime that ar commit dure the cours of a bankruptci proceed or in
+contempl of a bankruptci proceed ar contain in feder statut thei ar carri
+out through the file of a bankruptci petit either to accomplish the purpos of the crime
+or to cover up anoth crime that ha alreadi been perpetr
+although the bankruptci code is contain within titl 11 us code bankruptci crime
+appear within titl 18 us code section 151 through 155 section 152 is the most
+comprehens of the individu bankruptci crime statut to constitut and be prove as a
+feder crime bankruptci crime must have been commit dure the pendenc of a bankruptci
+proceed with the defend knowledg and with a fraudul intent to defeat the bankruptci law
+the fbi investig bankruptci crime and the us attornei offic prosecut them
+financi transact bankruptci fraud
+2011 fraud examin manual 11315
+it is no defens to these crime that the creditor have actual knowledg of conceal asset
+or that the conceal wa not from all creditor and it is no defens that the defend
+return the estat asset though such fact might mitig damag
+gener the penalti for each bankruptci offens is a fine of up to 500000 in the case of
+bankruptci fraud commit by an organ or imprison for not more than five
+year or both the statut of limit doe not run until the fraud is detect or the
+debtor receiv a discharg or is deni a discharg pursuant to the bankruptci code
+the follow section set out the bankruptci crime statut as well as relat crimin
+statut that frequent aris in bankruptci case
+titl 18 us code section 151
+thi section contain the definit of the term debtor a parti who ha file a petit under
+titl 11 of the us code
+titl 18 us code section 152
+thi is the most comprehens crimin bankruptci fraud statut it serv as the primari
+bankruptci crime statut for prosecut bankruptci fraud under section 158 the fbi and
+the us attornei ar charg with enforc of section 152 there ar nine paragraph in
+section 152 that defin variou offens against the bankruptci law the follow is a brief
+overview of each of the nine offens
+paragraph 1 conceal of properti
+a person who knowingli and fraudul conceal from a custodian truste marshal or other
+offic of the court charg with the control or custodi of properti or in connect with a case
+under titl 11 from creditor or the unit state truste ani properti belong to the estat
+of a debtor
+for purpos of thi paragraph estat properti consist of asset record and anyth
+of valu
+paragraph 2 fals oath or account
+fals oath appli to oral testimoni that might be given in 341a examin 2004
+examin deposit and testimoni provid at hear and trial
+bankruptci fraud financi transact
+11316 2011 fraud examin manual
+a person who knowingli and fraudul make a fals oath or account in or in relat to
+ani case under titl 11
+paragraph 3 fals declar
+a person who knowingli and fraudul make a fals declar certif verif or
+statement under penalti of perjuri as permit under section 1746 of titl 28 in or in relat
+to ani case under titl 11
+written document file with the court under penalti of perjuri consist of the debtor
+petit schedul and statement of financi affair interim statement and oper
+report as well as declar file with the court declar ar made in petit
+schedul and in other court file motion thi section give the same weight to
+unsworn declar as to those sworn under penalti of perjuri
+paragraph 4 fals claim
+a person who knowingli and fraudul present ani fals claim for proof against the estat of
+a debtor or us ani such claim in ani case under titl 11 in a person capac or as or
+through an agent proxi or attornei
+thi paragraph is design to prevent fictiti or inflat claim from be file by
+creditor or other in a bankruptci case
+paragraph 5 fraudul receipt of properti
+a person who knowingli and fraudul receiv es ani materi amount of properti from a
+debtor after the file of a case under titl 11 with intent to defeat the provis of titl 11
+thi paragraph relat back to paragraph 1 abov and it implic those who work in
+concert with the debtor thi could be a creditor or ani other interest parti
+financi transact bankruptci fraud
+2011 fraud examin manual 11317
+paragraph 6 extort and briberi
+a person who knowingli and fraudul give offer receiv or attempt to obtain ani
+monei or properti remuner compens reward advantag or promis thereof for
+act or forbear to act in ani case under titl 11
+thi paragraph cover briberi which also is spell out in titl 18 princip section 210
+and 1503 both section discuss the attempt to bribe judici offic and to unlawfulli
+corrupt or influenc ani offic of the court section 1503 also cover threat intend to
+influenc intimid or imped an offic in the perform of hi duti
+paragraph 7 fraudul transfer or conceal
+a person who in a person capac or as agent or offic of ani person or corpor in
+contempl of a case under titl 11 by or against him or ani other person or corpor
+or with intent to defeat the provis of titl 11 knowingli and fraudul transfer or
+conceal ani of hi properti or the properti of such other person or corpor
+thi paragraph is the onli paragraph under section 152 that deal with prebankruptci
+conduct the section address situat where a bankruptci petit file is immin it
+is intend to cover action by individu who transfer properti rightfulli belong to the
+creditor of the prospect bankruptci estat
+paragraph 8 fraudul destruct or alter of document
+a person who after the file of a case under titl 11 or in contempl thereof knowingli
+and fraudul conceal destroi mutil falsifi or make a fals entri in ani record
+inform includ book document record and paper relat to the properti or
+financi affair of a debtor
+paragraph 9 fraudul withhold of document
+a person who after the file of a case under titl 11 knowingli and fraudul withhold
+from a custodian truste marshal or other offic of the court or a unit state truste
+entitl to it possess ani record inform includ book document record and
+paper relat to the properti or financi affair of a debtor
+bankruptci fraud financi transact
+11318 2011 fraud examin manual
+thi section is particularli us in case where the debtor doe not turn over estat record
+after be compel to do so by the court and the record ar later discov by feder
+author dure the execut of search warrant
+embezzl against the estat titl 18 us code section 153
+a offens a person describ in subsect b who knowingli and fraudul appropri to the
+person own us embezzl spend or transfer ani properti or secret or destroi ani document
+belong to the estat of a debtor
+b person to whom section appli a person describ in thi subsect is on who ha access to
+properti or document belong to an estat by virtu of the person particip in the administr
+of the estat as a truste custodian marshal attornei or other offic of the court or as an agent
+employe or other person engag by such an offic to perform a servic with respect to the estat
+thi statut deal with all properti and the record or document that the court offic
+receiv dure the tenur of the truste or offic
+advers interest and conduct of offic titl 18 us code section 154
+a person who be a custodian truste marshal or other offic of the court
+1 knowingli purc hase directli or indirectli ani properti of the estat of which the person is such
+an offic in a case under titl 11
+2 knowingli refus to permit a reason opportun for the inspect by parti in interest of
+the document and account relat to the affair of estat in the person charg by parti
+when direct by the court to do so or
+3 knowingli refus to permit a reason opport uniti for the inspect by the unit state
+truste of the document and account relat to the affair of ani estat in the person
+charg
+bankruptci truste ar in a posit of trust and therefor should be held to a higher
+standard of conduct than other interest parti but on critic aspect is the sale of estat
+properti truste can influenc the sale of properti and can make signific profit if thei
+directli or indirectli purchas asset of the estat it would be similar to insid trade by
+individu in the secur industri thi statut is unlik the other list abov in that a
+financi transact bankruptci fraud
+2011 fraud examin manual 11319
+violat of thi statut is onli a misdemeanor wherea all of the abov ar feloni
+convict under thi section carri a fine as well as forfeitur of the person offic
+know disregard of bankruptci law or rule titl 18 us code section 156
+a definit in thi section
+1 the term bankruptci petit prepar mean a person other than the debtor attornei or an
+employe of such an attornei who prepar for compens a document for file and
+2 the term document for file mean a petit or ani other document prepar for file by a
+debtor in a unit state bankruptci court or a unit state district court in connect with a case
+under titl 11
+b offens if a bankruptci case or relat proceed is dismiss becaus of a know attempt by a
+bankruptci petit prepar in ani manner to disregard the requir of titl 11 unit state
+code or the feder rule of bankruptci procedur
+thi section is the crimin version of the titl 11 usc section 110 which deal with
+petit mill and petit prepar who de liber disregard the bankruptci code or
+ani of it rule and procedur petit mill and prepar who fall under thi section might
+file fals document for debtor with deliber wrong social secur number or other
+incorrect inform in some case debtor might not even be awar thei ar file
+bankruptci or the effect of a bankruptci on their credit rate
+bankruptci fraud titl 18 us code section 157
+a perso n who have devis or in tend to devis a scheme or artific to defraud and for the purpos
+of execut or conceal such a scheme or artific or attempt to do so
+1 file a petit under titl 11 includ a fraudul involuntari bankruptci petit under
+section 303 of such titl
+2 file a document in a proceed under titl 11 includ a fraudul involuntari bankruptci
+petit under section 303 of such titl or
+bankruptci fraud financi transact
+11320 2011 fraud examin manual
+3 make a fals or fraudul re present claim or promis concern or in relat to a
+proceed under titl 11 includ a fraudul in voluntari bankruptci petit under section 303 of
+such titl at ani time befor or after the file of the petit or in relat to a proceed fals
+assert to be pend under such titl
+thi section is veri similar to mail and wire fraud statut both in word and in concept
+thi section appli to insid who perpetr bustout scheme as well as those who
+attempt to obtain credit immedi prior to file bankruptci under section 158 the fbi
+and the us attornei ar charg with enforc of section 157
+falsifi alter or destroi document titl 18 us code section 1519
+whoever knowingli alter destroi mutil conceal cover up falsifi or make a fals entri in
+ani record document or tangibl object with the intent to imped obstruct or influenc the
+investig or proper administr of ani matter within the jurisdict of ani depart or agenc
+of the unit state or ani case file under titl 11 or in relat to or contempl of ani such
+matter or case shall be fine under thi titl imprison not more than 20 year or both
+thi section wa ad as part of the sarbanesoxlei act in 2002 it specif provid
+that alter falsifi or destroi document file under titl 11 the bankruptci code
+is a crimin violat subject to imprison of up to 20 year
+bankruptcyrel violat
+although bankruptci crime ar the focu of thi section there ar other crime that ar
+usual perpetr prior to the file of a bankruptci petit in some case the bankruptci
+process is the culmin of a pattern of prior crimin activ there ar mani other crime
+frequent associ with bankruptci includ mail fraud wire fraud bank fraud interst
+transport of stolen good or properti aid or abet fals statement conspiraci tax
+evas and monei launder bankruptci fraud is also a predic offens under rico for
+more inform on these offens see the law relat to fraud chapter in the law
+section of the fraud examin manual
+although the crimin aspect of bankruptci crime ar heard in district court the
+underli fact deal with a debtor misc onduct also ar heard in the form of civil
+proceed befor the unit state bankruptci court parallel proceed occur in case
+where bankruptci fraud alleg have been made sever exampl of civil proceed
+financi transact bankruptci fraud
+2011 fraud examin manual 11321
+that ensu as a result of fraud alleg against the debtor ar motion for the appoint
+of truste and examin lawsuit for recoveri of fraudul transfer properti and
+object to the debtor discharg
+bankruptci scheme
+conceal asset
+the most common crime is the conceal of asset rightfulli belong to the debtor
+estat asset might consist of cash consum properti hous and interest in partnership
+and corpor as well as lawsuit in which the debtor is a plaintiff asset also includ
+book and record of the debtor conceal vari from littl or no monetari valu to ten
+of million of dollar the variou conceal offens ar describ in more detail under
+the bankruptci crime statut
+the plan bustout
+a bustout is a plan bankruptci it can take mani differ form the basic approach is
+for an appar legitim busi to order larg quantiti of good on credit then
+dispos of those good through legitim or illegitim channel the perpetr then
+close shop abscond with the proce and leav the supplier unpaid
+bustout scheme ar plan and perpetr by individu both prior to and subsequ to
+the format of the new busi entiti other characterist of bustout scheme follow
+thei ar plan from the begin
+sometim organ crime is involv
+credit is establish with numer vendor prompt payment ar made to all vendor
+vendor feel comfort in deal therebi extend exist credit line
+perpetr build inventori by order everyth thei can from vendor thei promis
+to pai soon and order more merchandis
+sell out inventori at deep discount or move it befor vendor can take possess of it
+busi fail or close up file bankruptci or creditor beat them to it with involuntari
+bankruptci
+detect
+some red flag that signal that a bustout scheme might be in process includ
+a busi relationship base princip on trust creditor ar will to offer extend
+bankruptci fraud financi transact
+11322 2011 fraud examin manual
+term for payment hold check or take postdat check thi make them vulner
+buyer with a histori of purchas good for an unreason discount
+a larg number of bank account indic a possibl kite scheme the perpetr
+occasion pai some of hi creditor with fund gener by float check between
+bank account
+prevent
+lender and supplier should evalu potenti custom carefulli prior to extend credit
+by perform due dilig and obtain detail background inform lender
+and supplier should at time visit their custom locat to verifi the legitimaci of
+the busi
+multipl file
+thi scheme involv repeat bankruptci file by the same debtor in order to obtain the
+benefit of the automat stai usual each petit is dismiss for failur to file the requir
+statement or to appear for examin fals statement on petit ar common
+includ a denial that the debtor ha file ani previou petit
+credit card bustout
+the debtor intention run up a number of credit card to their limit and file bankruptci
+with no intent to repai credit card debt might includ purchas for jewelri luxuri item
+or other person properti that ar not disclos on the schedul credit card debt also
+might includ larg cash advanc taken prior to file bankruptci
+forg file
+bankruptci petit ar sometim file in anoth uninvolv person name usual as
+part of a larger scheme us an assum ident it can take year to correct the credit
+record of the person whose ident ha been stolen sometim the debtor name is
+obtain from obituari notic
+type servic or petit mill
+thi scheme involv compani that file bankruptci petit typic on behalf of low
+incom and often unsuspect client the petit often contain numer fals
+statement the debtor usual ha no idea a bankruptci ha been file as the servic ha
+held itself out to be a renter right group and ha not told the client how it will accomplish
+what it ha promis
+financi transact tax fraud
+2011 fraud examin manual 11401

@@ -1,0 +1,23 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+is                                     1
+wire                                   1
+or                                     1
+equipment                              1
+the                                    2
+its                                    1
+access                                 1
+transmission                           1
+and                                    3
+gain                                   1
+altered                                1
+personnel                              1
+entry                                  1
+actual                                 1
+unauthorized                           2
+intercepted                            1
+interception                           1
+room                                   1
+
+Totals:                     19        23

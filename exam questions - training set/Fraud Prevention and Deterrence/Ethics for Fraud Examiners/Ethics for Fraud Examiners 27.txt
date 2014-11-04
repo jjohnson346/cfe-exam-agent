@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A profession such as fraud examination must have a body of knowledge unique to itself.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A fraud examiner's work involves specialized knowledge derived from several other fields‰??accounting, auditing, criminology, investigation, and law‰??to name a few. A profession may not have a body of knowledge truly unique unto itself, but it should have one that requires study, comprehension, and practice over and above the everyday abilities every other person may possess.See page(s) 4.1002 in the Fraud Examiner‰??s Manual

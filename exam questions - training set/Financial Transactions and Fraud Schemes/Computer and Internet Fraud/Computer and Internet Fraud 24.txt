@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=General internal controls over a computer data center are relevant for all applications. Which of the following is NOT considered a general internal control category?
+
+Options=System software | Password security applications | Implementation of new systems | Computer operations
+
+CorrectResponse=1
+
+Explanation=General controls over a data center are relevant for all applications. The development), computer operations, system software (including security	general control categories include system maintenance, implementation of new systems (including and telecommunications software), and data files.	See page(s) 1.1843 in the Fraud Examiner's Manual

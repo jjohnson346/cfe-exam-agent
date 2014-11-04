@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=If creditors suspect bankruptcy fraud, they may notify the trustee, but may not conduct their own investigations.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Individual creditors might conduct their own investigations and also assist Chapter 7 and Chapter 11 trustees in performing their investigations. Trustees are normally very appreciative of creditors who can provide information regarding the financial affairs of the debtor Creditors also can attend the 341(a) examination of the debtor and ask pertinent questions. Creditors who bring copies of documents, such as prior loan applications or pictures of particular assets, to the 341(a) examination are of great interest to trustees. Creditors can ask the debtor what happened to the various assets listed on the loan applications or assets shov/n in photographs.See page(s) 1.1314 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Which of the following parties typically play a role in an organization's fraud detection and prevention efforts?
+
+Options=Management | Audit committee | Board of directors | All of the above
+
+CorrectResponse=3
+
+Explanation=Typical roles and responsibilities for fraud detection and prevention include the following:‰?¢	Internal auditors‰?¢	Board of directors‰?¢	Audit committee‰?¢	Management‰?¢	Legal counsel‰?¢	External auditors‰?¢	Loss prevention manager‰?¢	Fraud investigatorsSee page(s) 1.242, 1.246-1.247 in the Fraud Examiner's Manual

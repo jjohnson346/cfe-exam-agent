@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Fraudulent kickbacks in the health care industry can include which of the following?
+
+Options=Payment for referrals of patients | Payments for insurance contracts | Waiver of deductibles and co-payments | All of the above
+
+CorrectResponse=3
+
+Explanation=Kickbacks relating to the health care industry can come from several sources. The medical community is facing competition that it has not faced in the past, and monetary offers to prospective patients have been difficult to refuse. Examples include:Payment for referrals of patients Waiver of deductible and co-payments Payment for insurance contracts Payment for vendor contractsSee page(s) 1.1223 in the Fraud Examiner‰??s Manual

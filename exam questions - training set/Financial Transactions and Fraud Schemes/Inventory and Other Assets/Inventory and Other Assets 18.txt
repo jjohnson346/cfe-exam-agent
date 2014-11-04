@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Blue "borrowed" his employer's snowplow for his own snow removal business which he operated on the side. Blue only used the snowplow on the weekends or after hours, when his employer was not open for business. Blue falsified the mileage and usage logs for the snowplow so that no one would know he had been using it. The snowplow was returned unharmed. According to Corporate Fraud Handbook, how should Blue's scheme be categorized?
+
+Options=As larceny of a non-cash asset | As a payroll fraud | As a fictitious sales scheme | None of the above
+
+CorrectResponse=3
+
+Explanation=There are basically two ways a person can misappropriate a company asset. The asset can be misused (or "borrowed") or it can be stolen. Simple misuse is the less egregious of the two. Assets that are misused but not stolen typically include company vehicles, supplies, computers, and other office equipment. The scheme cannot be categorized as a larceny of non-cash assets because Blue did not keep the snowplow.See page(s) 251 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Questions of law in U.S. criminal courts generally are decided by:
+
+Options=The attorneys | Juries | The judge and jury | The judge
+
+CorrectResponse=3
+
+Explanation=In the trial court, the jury finds the facts. The judge applies the law, rules on evidence, and generally moderates the proceeding to ensure a fair trial. If a jury is waived by the defendant and government, the judge decides both the facts and the law.See page(s) 2.109 in the Fraud Examiner's Manual

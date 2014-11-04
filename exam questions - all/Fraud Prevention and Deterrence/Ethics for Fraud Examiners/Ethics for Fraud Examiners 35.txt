@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A Certified Fraud Examiner conducted a fraud examination that resulted in the dismissal of Warren, Chief Financial Officer. Numerous internal control deficiencies permitted Warren to commit the fraud But since the examiner was not hired to evaluate controls, he did not mention the internal control deficiencies in his report to management. According to the Certified Fraud Examiner Code of Professional Ethics, the CFE knows he can only discuss information he was hired to investigate.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Article VII of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE shall reveal all matters discovered during the course of an examination, which, if omitted, could cause a distortion of the facts." Although the examiner was not hired to evaluate controls, his or her professional responsibilities would require the disclosure of any information which, could cause a distortion of the facts.See page(s) 4.1001 in the Fraud Examiner’s Manual

@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+for                                    1
+one                                    1
+about                                  1
+contains                               1
+security                               2
+used                                   1
+type                                   1
+of                                     4
+details                                1
+forms                                  1
+information                            2
+is                                     1
+it                                     1
+form                                   2
+issuance                               1
+the                                    5
+offering                               1
+registration                           1
+regarding                              1
+and                                    1
+register                               1
+8-a                                    2
+issuer                                 1
+securities                             1
+public                                 1
+
+Totals:                     26        38

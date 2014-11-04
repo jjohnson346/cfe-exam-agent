@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Jones, a Certified Fraud Examiner, obtained a confession from Smith, who committed internal fraud. Jones is permitted to express an oral but not written opinion on the guilt of Smith.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Certified Fraud Examiner Code of Professional Ethics does not distinguish between written or oral opinions. Certified Fraud Examiners are absolutely prohibited from expressing opinions regarding guilt or innocence. Article V of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE in conducting examinations, will obtain evidence or other documentation to establish a reasonable basis for any opinion rendered. No opinion shall be expressed regarding the guilt or innocence of any person or party."See page(s) 4.1001 in the Fraud Examiner‰??s Manual

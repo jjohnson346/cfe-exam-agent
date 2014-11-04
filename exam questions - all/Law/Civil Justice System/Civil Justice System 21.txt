@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In civil trials, which party usually presents its case first?
+
+Options=Plaintiff	| The party with the most witnesses | Cross-claimants | Defendant
+
+CorrectResponse=0
+
+Explanation=In civil trials, the plaintiff usually offers its evidence first.	See page(s) 2.614 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Able is a Certified Fraud Examiner for a large manufacturing company. The CEO is concerned because news of an upcoming top-secret product is circulating among the company's competitors. The product was only discussed in the conference room. Able examines the room and finds a large air duct along the bottom of the wall. He surmises that it would be very easy to conceal a listening device in this air duct. What might help him determine if someone is tampering with the air duct vent?
+
+Options=Lock-outs | Ultra-violet markers | Encryption | None of the above
+
+CorrectResponse=1
+
+Explanation=Paging systems, background music speakers, and unused wiring can be used for eavesdropping. Any electronic items and wiring that are not essential should be removed. A mirror and a light affixed to a flexible handle can be used to search for recording and transmitting devices in air ducts. After the search, when the duct grills are replaced, their orientation and screw-head positions can be designated with ultra-violet markers. By shining an ultra-violet light on the screws, it is easy to tell if the panels have been removed. Meeting rooms should be locked when not in use. If blackboards or flip charts are used, they should not face the windows, or the blinds should be closed to prevent observation from telescopes or binoculars.See page(s) 1.880 in the Fraud Examiner's Manual

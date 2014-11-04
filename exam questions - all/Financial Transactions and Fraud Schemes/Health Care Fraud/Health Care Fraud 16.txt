@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Health insurance comes under the authority of the federal government; therefore, all health care fraud laws must come from Congress.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although fraud is illegal in every state, not all states have specific legislation against insurance fraud. Often, laws such as "grand theft," “scheme to defraud," or “fraud by deception" must be used to charge offenders. Nineteen states have passed legislation which specifically prohibits insurance fraud, although the effectiveness varies according to the provisions in each statute. For example, in some states, health insurance fraud is illegal, but there is no immunity to the insurance company for reporting fraud.See page(s) 1.1209 in the Fraud Examiner’s Manual

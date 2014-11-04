@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=A tax preparer can be liable for an understatement penalty if he acted in bad faith and knew or reasonably should have known that a position taken on the return was which of the following?
+
+Options=Not realistically possible of being sustained on its merits | Affirmed by previous tax courts | One that would result in less tax liability for the client | One that would result in greater tax liability for the client
+
+CorrectResponse=0
+
+Explanation=Unless there is a reasonable cause for an understatement and the preparer acted in good faith, a penalty of S250 will be assessed against any person who is a preparer, who knew or reasonably should have known that a position taken on a return was:Not realistically possible of being sustained on its merits Not disclosed under Title 26, U.S.C., å¤ 6662(d)(2)(B)(ii) A frivolous positionSee page(s) 1.1407 in the Fraud Examiner‰??s Manual

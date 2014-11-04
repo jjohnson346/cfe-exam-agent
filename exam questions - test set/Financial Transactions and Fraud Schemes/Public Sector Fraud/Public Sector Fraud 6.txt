@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=According to Government Auditing Standards, assessing the risk of potential fraud relates solely to planning the audit and should therefore be performed only at the beginning of the audit engagement.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Government Auditing Standards, paragraph 7.31, states that "when auditors identify factors or risks related to fraud that has occurred or is likely to have occurred that they believe are significant within the context of the audit objectives, they should design procedures to provide reasonable assurance of detecting such fraud. Assessing the risk of fraud is an ongoing process throughout the audit and relates not only to planning the audit but also to evaluating evidence obtained during the audit."See page(s) 1.1909 in the Fraud Examiner‰??s Manual

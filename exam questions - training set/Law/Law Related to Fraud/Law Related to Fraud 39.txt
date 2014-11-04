@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Black is a Certified Fraud Examiner for the ABC Company. Green, an employee in the accounting department, steals $40,000 worth of merchandise from the store's warehouse. If Green's case is eventually referred to the police by Black, they probably will charge Green with:
+
+Options=Breach of fiduciary duty | Larceny | Embezzlement | Breach of contract
+
+CorrectResponse=1
+
+Explanation=Larceny is defined as the wrongful taking of money or property of another with the intent to convert or to deprive the owner of its possession and use. In larceny, unlike embezzlement, the defendant never has lawful possession of the property, although he/she may have custody of the property. The elements of larceny typically include.Unlawfully taking or carrying away;Money or property of another;Without the consent of the owner; andWith the intent to permanently deprive the owner of its use or possession.See page(s) 2.209 in the Fraud Examiner's Manual

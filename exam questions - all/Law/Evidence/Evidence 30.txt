@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Which of the following is an exception to the hearsay rule?
+
+Options=Statements in interest | Former testimony under oath | Statements made under the belief of mental impairment | All above are exceptions to the hearsay rule
+
+CorrectResponse=1
+
+Explanation=Testimony given by the declarant at another hearing is admissible if the party against whom the testimony is now offered then had an opportunity and similar motive to examine the witness as in the present trial. Statements against interest are excepted from the rule against hearsay, but there is no exceptions for statements made in the declarant's interest. There is also no exception for statements made under the belief of mental impairment.See page(s) 2.718-2.723 in the Fraud Examiner's Manual

@@ -1,0 +1,19 @@
+Token                          Frequency
+-----------------------------  ---------
+can                                    1
+data                                   3
+by                                     1
+the                                    1
+analysis                               3
+of                                     2
+that                                   1
+software                               1
+following                              1
+typical                                1
+are                                    1
+performed                              1
+queries                                2
+examples                               2
+be                                     1
+
+Totals:                     15        22

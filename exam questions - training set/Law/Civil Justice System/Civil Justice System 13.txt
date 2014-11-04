@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Under the Federal Rules of Civil Procedure, only information which is admissible at trial can be obtained through discovery.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under the Federal Rules, either party may take discovery regarding any matter, not privileged, that is relevant to the subject matter of the action, or that might lead to admissible evidence. Thus, discovery is not limited to the search for admissible evidence.See page(s) 2.602 in the Fraud Examiner's Manual

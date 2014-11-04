@@ -1,0 +1,10 @@
+Section=Bankruptcy Fraud
+
+Stem=A person who holds a perfected security interest against a person filing bankruptcy is referred to as which of the following?
+
+Options=Secured creditor | Judgment debtor | Judgment creditor | Unsecured creditor
+
+CorrectResponse=0
+
+Explanation=A secured creditor holds a claim for which there is a properly perfected security interest. The claim will be considered a secured claim to the extent of the value of the property. When the debt is undersecured (amount of note is greater than the value of the security interest), the debt will be considered both unsecured and secured. For example, if a note for $500 is secured by property having a value of $400, there will be a secured claim for $400 and an unsecured claim for $100. If the debtor and the creditor cannot agree on the value of the collateral, there will be a hearing under Section 506 of the Bankruptcy Code and the court will determine the value of the collateral. The bankruptcy court will rely on state law where the property is located to determine if a secured claim exists. A security interest generally is obtained in personal property by a Uniform Commercial Code filing and in real property by filing a lien with the county clerk in the county where the property is located.
+See page(s) 1.1303 in the Fraud Examiner’s Manual

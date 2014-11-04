@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Evidence seized in criminal investigations in violation of the Fourth Amendment falls under the:
+
+Options=Exclusionary Rule | Invalidation Rule | Best Evidence Rule | None of the above
+
+CorrectResponse=0
+
+Explanation=Under the Exclusionary Rule in effect in all federal and state courts, evidence seized in violation of the Fourth Amendment will be suppressed; that is, it may not be used against the accused, with limited exceptions. An unlawful search and seizure, however, does not preclude prosecution or invalidate a subsequent conviction based on other evidence. A person whose Fourth Amendment rights have been violated, whether or not a defendant in a criminal case, may sue for damages through a private civil rights action. The Fourth Amendment applies only to actions by the police or other governmental authorities; searches and seizures conducted by private parties are not regulated unless they are substantially directed by public officers.See page(s) 2.431 in the Fraud Examiner's Manual

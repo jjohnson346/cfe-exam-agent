@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The success of the fraud risk assessment process hinges on how effectively the results are reported and what the organization then does with those results.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The success of the fraud risk assessment process hinges on how effectively the results are reported and what the organization then does with those results. A poorly communicated report can undermine the entire process and bring all momentum established to a screeching halt. The report should be delivered in a style most suited to the language of the business. If management prefers short, punchy PowerPoint presentations, the fraud risk assessment team should not give them a 50-page Word document.See page(s) 4.823 in the Fraud Examiner's Manual

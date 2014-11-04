@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Immunity from criminal prosecution may be granted only by the grand jury.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In the course of a grand jury investigation or trial, the prosecution may apply for a court order compelling testimony from a witness under a grant of immunity. Since immunized testimony cannot be used against the witness in any criminal proceeding, such an order does not violate Fifth Amendment protections. Although it is legally permissible to prosecute an immunized v/itness on the basis of other testimony and evidence, as a matter of practice this is seldom done because of policy considerations and the difficulty of demonstrating‰??as the law requires‰??that the subsequent prosecution was not in any way based on the compelled testimony. A decision to immunize a witness is solely within the discretion of the prosecution. If the application meets statutory requirements, the court must grant the order.See page(s) 2.507 in the Fraud Examiner's Manual

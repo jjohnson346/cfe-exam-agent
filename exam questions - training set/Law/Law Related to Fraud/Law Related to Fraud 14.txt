@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=In many states, misrepresentation fraud is prosecuted as the criminal offense of "larceny by trick.".
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Many state statutes describe misrepresentation fraud as "theft by deception" or "larceny by trick." Larceny by trick implies financial damages and is more specific than fraud.See page(s) 2.209 in the Fraud Examiner's Manual

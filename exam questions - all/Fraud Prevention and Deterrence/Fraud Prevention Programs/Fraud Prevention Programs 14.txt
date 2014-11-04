@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The COSO report definesas ______________________ as "a broadly defined process ... designed to provide reasonable assurance regarding the achievement of objectives in the following categories: reliability of financial reporting, effectiveness and efficiency of operations, and compliance with applicable laws and regulations".
+
+Options=Corporate compliance | Risk assessment | Internal control | None of the above
+
+CorrectResponse=2
+
+Explanation=The COSO report states, "Internal control is a broadly defined process ... designed to provide reasonable assurance regarding the achievement of objectives in the following categories: reliability of financial reporting, effectiveness and efficiency of operations, and compliance with applicable laws and regulations"See page(s) 4.704 in the Fraud Examiner's Manual

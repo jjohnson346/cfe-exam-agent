@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Which of the following ratio calculations is used to determine a company's ability to meet sudden cash requirements?
+
+Options=Debt to equity | Quick ratio | Current ratio | Collection ratio
+
+CorrectResponse=1
+
+Explanation=The quick ratio, often referred to as the acid test ratio, compares assets that can be immediately liquidated. This calculation divides the total of cash, securities, and receivables by current liabilities. This ratio is a measure of a company’s ability to meet sudden cash requirements. In turbulent economic times, it is used more prevalently, giving the analyst a worst-case look at the company’s working capital situation.See page(s) 394 in the Corporate Fraud Handbook

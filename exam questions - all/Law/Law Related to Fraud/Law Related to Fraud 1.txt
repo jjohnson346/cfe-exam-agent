@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which agency is responsible for all criminal enforcement of the Foreign Corrupt Practices Act?
+
+Options=The Secret Service | The FBI | The State Department | The DOJ
+
+CorrectResponse=3
+
+Explanation=The Foreign Corrupt Practices Act (FCPA) prohibits certain securities issuers and public companies from making corrupt payments to foreign officials or political organizations. The DOJ is responsible for all criminal enforcement of the FCPA.See page(s) 2.251 in the Fraud Examiner's Manual

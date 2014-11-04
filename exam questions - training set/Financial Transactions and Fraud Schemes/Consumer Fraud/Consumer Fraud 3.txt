@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Which of the following is the federal law that criminalizes identity theft?
+
+Options=HIPAA | Bank Secrecy Act | Sarbanes-Oxley | Identity Theft and Assumption Deterrence Act
+
+CorrectResponse=3
+
+Explanation=In October 1998. Congress passed the Identity Theft and Assumption Deterrence Act (Identity Theft Act) to address the problem of identity theft. Specifically, the Act amended 18, U.S.C., ¤ 1028 to make it a federal crime when anyone to use ?without lav/ful authority" another person s identification.

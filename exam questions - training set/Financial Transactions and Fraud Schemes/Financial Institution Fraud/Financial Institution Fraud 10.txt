@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=There are a number of fraud schemes that are being perpetrated with regard to ATM machines These schemes include all of the following EXCEPT: 
+
+Options=Theft of card and/or unauthorized access to PIN numbers and account codes | Stealing ATM deposits | Counterfeit ATM cards | Employee manipulation
+
+CorrectResponse=1
+
+Explanation=There are a number of fraud schemes which are being perpetrated with regard to ATM machines. These schemes include: (1) theft of card and/or unauthorized access to PIN numbers and account codes for ATM transactions by unauthorized persons; (2) employee manipulation; (3) counterfeit ATM cards; and (4) counterfeit ATM machines.See page(s) 1.937-1 938 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If convicted of fraud, the penalty for a noncorporate taxpayer may be which of the following?
+
+Options=A fine of not less than $100,000 and not less than 5 years in prison | A fine of not more than S100,000 and/or not more than 10 years in prison | A fine of less than $100,000 and not more than 5 years in prison | A fine of not more than $100,000 and/or imprisonment for not more than 5 years
+
+CorrectResponse=3
+
+Explanation=A penalty shall be imposed, if convicted of tax fraud, of not more than $100,000 ($500,000 in the case of a corporation) and/or imprisonment for not more than five years (Section 7201).See page(s) 1.1405 in the Fraud Examiner‰??s Manual

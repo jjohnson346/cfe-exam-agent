@@ -1,0 +1,912 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Computer Investigations and Computer Forensics 
+ 
+Preparation 
+Before the examiner can seize evidence, he must take certain steps to help ensure that the 
+evidence is admissible: he must determine whether an employee has a privacy interest in the 
+item(s) to be searched, he must take certain steps to prepare for an investigation that 
+involves the use of a search warrant, and he must take steps to ensure that his equipment is 
+sound (e.g., only use licensed software applications, independently validate all forensic 
+equipment, and maintain the validation on file). 
+ 
+Privacy Issues  
+Before searching and seizing an item, the examiner must determine whether an employee has 
+a privacy interest in the item(s) to be searched. In every case where it becomes necessary to 
+seize a computer or other device capable of storing digital evidence, the investigator should 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.709 
+consult with legal counsel. It is imperative that legal counsel be involved in the seizure 
+process and be knowledgeable of case law pertaining to workplace seizures.  
+ 
+Case law governing workplace seizures in the private sector is different from case law 
+governing seizures in the government workplace, but generally, it all comes down to the 
+employee’s expectation of privacy. Although the Fourth Amendment constitutional right 
+guarantees protection against unreasonable searches and seizures, typically, the Fourth 
+Amendment does not protect private sector employees.  
+ 
+In the private sector, disputes over unreasonable searches and seizures usually come down 
+on the side of the corporation. The case law in the private sector tends to support the 
+argument that corporations have the right to decrease the level of privacy employees can 
+expect with regard to workplace searches of computers and other digital media. Thus, 
+companies to adopt a written policy establishing that all computer systems (e.g., the Internet, 
+e-mail communications, hardware, and files) are solely for business use and that the 
+company reserves the absolute right to review, audit, and disclose all matters sent over the 
+system or placed in storage. And as long as written policies are in effect that support 
+management’s actions, the corporation can avoid liability for violating an employee’s right to 
+privacy. 
+ 
+Additionally, when conducting an internal investigation or inquiry into allegations of 
+misconduct or illegal activities in both the private and governmental sector, it is important to 
+be aware of what the employee policy protects against and what it allows. It should also be 
+determined whether steps have been taken to nullify any expectations of privacy. 
+ 
+Governmental employees, whether local, state, or federal, have been provided special 
+protections that do not generally apply to employees in the private sector. In all cases where 
+it becomes necessary to seize a governmental employee’s computer or other digital device, it 
+is imperative that the investigator consult with the entity’s legal counsel.  
+ 
+Bryan R. Lemons, Branch Chief of the Legal Di vision Office of Training Operations at the 
+FLETC training center in Georgia, has written an excellent paper on the subject of 
+governmental workplace searches and seizures, in which he summarizes a number of cases 
+where the courts have rendered opinions on governmental workplace searches and seizures. 
+In his paper, Mr. Lemons defined the term workplace to include those areas and items that are 
+Digital Forensics  Investigation 
+3.710   2011 Fraud Examiners Manual  
+related to work and are generally within the employer’s control, which includes file cabinets, 
+desks, and computers. 
+ 
+Case law on this issue has attempted to answer several questions. Can a government 
+employee have a reasonable expectation of privacy in the workplace? If so, what standards 
+should be followed to ensure that a supervisor is conducting a lawful search of an 
+employee’s work space? Is there a lesser standa rd employed in the case of mere suspicion? 
+ 
+The Supreme Court case of O’Conner v. Ortega  was the hallmark case in the argument about 
+the reasonableness of searches and seizures, but there were a number of other issues that 
+were decided at the lower-court level. In O’Conner, the Supreme Court held that “the 
+realities of the workplace” made some exp ectations of privacy among public employees 
+unreasonable when the intrusion was by a supervisor rather than a law enforcement official. 
+Work-related searches, the Court found, were “m erely incident to the primary business of 
+the agency,” and a warrant requirement would “seriously disrupt the routine conduct of 
+business.” The Court thus held that a standard  of “reasonableness” was sufficient for work-
+ related intrusions by public employers. 
+ 
+To simplify the decision-making process when considering a workplace search, Lemons 
+explains that there is a two-part analysis that will offer some guidance. The first part requires 
+a determination of the employee’s reasonable ex pectation of privacy in the area to be 
+searched. Second, if a reasonable expectation of privacy does exist, then any search that 
+occurs in the workplace must be reasonable under the given circumstances.  
+ 
+In United States v. Gonzalez 4, the court dealt with the search of a government employee’s 
+personal belongings. In this case, the employee (Gonzalez), as a condition of employment, 
+signed a paper that indicated, among other things, his personal belongings might be searched 
+in an effort to discourage employee theft. Gonzalez worked at a military exchange. He was 
+stopped one day during his departure from the store and his backpack was searched by store 
+security. The search revealed that Gonzalez’s backpack contained merchandise stolen from 
+the store. On appeal, Gonzalez claimed that his Fourth Amendment rights had been 
+violated. The court looked to the paper that was originally signed by Gonzalez and stated 
+                                                 
+4  United States v. Gonzalez, 300 F.3d 1048 (9th Cir. 2002). 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.711 
+that Gonzalez was put on notice that his personal belongings might be searched and as a 
+result his expectation of privacy was limited by his knowledge of store policy. 
+ 
+In Gossmeyer v. McDonald, the court dealt with the question of whether there was a reasonable 
+expectation of privacy regarding personally purchased items that were used to store work-
+ related materials in the government workplace. In this case, a local detective received an 
+anonymous tip from one of Gossmeyer’s coworkers that Gossmeyer was storing illegal 
+pornographic material in a storage container that was purchased at Gossmeyer’s own 
+expense. The local detective relayed the information to Gossmeyer’s supervisor who 
+proceeded to search Gossmeyer’s workplace, including the storage cabinet. The supervisor 
+found evidence to substantiate the allegation but no charges were ever filed. Gossmeyer filed 
+a lawsuit alleging that her Fourth Amendment rights had been violated by the search of her 
+personal property. The court disagreed, stating that the cabinet was not merely an item of 
+personal property such as a purse or briefcase brought into the workplace, but that it was 
+being used to house work-related materials and therefore, the cabinet was a part of the 
+workplace and not a part of her personal domain. 
+ 
+In O’Conner, the Supreme Court ruled that it is possible to reduce the expectation of privacy 
+on the part of government employees, for example, in the form of a written notice signed by 
+the employee that gives the employer the right to access or inspect information stored on the 
+employee’s computer. In the case of United States v. Simons,  the defendant, Simons, was found 
+to have visited several illicit websites that were prohibited by agency policy. The policy 
+specifically prohibited access to unlawful material and further prohibited any personal use of 
+the agency’s Internet. A remote audit of the hard drive on Simons’s government-owned 
+computer revealed that the computer contained several illegal images. In Simons’s challenge 
+of the search under the Fourth Amendment, he claimed that his rights were violated when 
+the hard drive was searched remotely. The Fourth Circuit Court of Appeals held that Simons 
+had no legitimate expectation of privacy because of the agency’s Internet use policy. The 
+policy’s language placed employees on notice of  their diminished expectation of privacy. 
+ 
+When determining whether to conduct a search of government-workplace computers it is 
+important to determine whether a reasonable expectation of privacy exists. To answer that 
+question, one must look at whether there was a prior notice that diminishes the expectation. 
+One can also look at the policy practices of the agency. Having a policy and only selectively 
+enforcing it tends to diminish the policy to the point that it may not negate the privacy 
+expectation. One must also look to the openness and accessibility of the workplace to other 
+Digital Forensics  Investigation 
+3.712   2011 Fraud Examiners Manual  
+employees. Finally, was there a written waiver of the employee’s expectati on of privacy? If an 
+expectation of privacy does not exist, then the Fourth Amendment will not apply. If it is 
+determined that an expectation of privacy does exist, then what is the purpose behind the 
+search? Is it a work-related search, such as looking for a missing file, or is it due to an 
+allegation of misconduct? If it is a work-related  search, the search must be justified based on 
+the overall circumstances; it must be justified in its inception and permissible in scope. If the 
+search under these conditions is solely for the purpose of a criminal investigation, then a 
+probable cause warrant will generally be necessary in addition to the employee consent. 
+ 
+It should also be noted that personal digital devices are becoming more common in the 
+workplace. Employees often carry smart phones, thumb drives, or MP3 players into the 
+office. Each of these devices is capable of storing large amounts of data and can easily be 
+used to steal a company’s intellectual property. Because these devices are often purchased by 
+the employee for personal use, a search warrant may be needed to seize or search these 
+devices because employees may have a “reasonable expectation of privacy” in these types of 
+personal devices. Therefore, it is extremely important to include such devices in the 
+company’s search policy. The policy should cl early state that any personal electronic devices, 
+including laptops, cell phones, smart phones, thumb drives, MP3 players, and so forth, are 
+(just like handbags and briefcases) subject to search if brought onto the company’s premises. 
+ 
+Search Warrants  
+If, however, a search warrant is required, additional considerations must be addressed. A 
+search warrant  is a court order that grants authorities the right to search a premises or property 
+for information pertinent to the case. 
+ 
+All warrants must satisfy the requirements under the Fourth Amendment. That is, all 
+warrants for searches must be judicially sanctioned and supported by “probable cause,” and 
+they must “particularly” describe the place to be searched or things to be seized. Only a 
+judge can issue a search warrant and only law enforcement can seek and serve a search 
+warrant. 
+ 
+To obtain a valid search warrant, law enforcement officers prepare affidavits. The affidavits 
+will detail the probable cause or legal reasoning behind the request for the warrant. Often 
+law enforcement personnel will need guidance from the fraud examiner as they conduct pre-
+ search preparation and construct the search warrant affidavit.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.713 
+But because the requirements for these affidavits have been affected by technological 
+innovations, fraud examiners must consider several new issues must when constructing a 
+search warrant affidavit involving digital evidence. The fraud examiner must know how to 
+write a warrant to seize tangible property that contains intangible evidence. Further, the 
+fraud examiner must be allowed to convert that evidence into a human-readable form (e.g., 
+storage devices such as disks, which contain information that cannot be viewed without the 
+aid of some electronic device). Likewise, the warrant must allow for the ability to seize data 
+files pertinent to the case that are mixed with data files, which have nothing to do with the 
+case but reside on the same storage device.  
+ 
+Additionally, the warrant must be broad enough to defend the search and seizure of all 
+computer evidence relevant to the investigation, but narrow enough to exclude all material 
+that is not, and this can be an extremely difficult standard to meet at times and might depend 
+on the magistrate to whom the affidavit is presented. However, with some thought fraud 
+examiners should be able to justify the search and seizure of everything that they need to 
+complete the search for evidence. Items to be seized might contain any or all of the 
+following, depending on the nature of the fraud case: 
+• Computers 
+• Computer components 
+• Computer peripherals 
+• Word-processing equipment 
+• Modems 
+• Monitors 
+• Printers 
+• Plotters 
+• Optical scanners 
+• Data storage devices 
+? Magnetic 
+? Laser 
+? Optical 
+? Tape 
+? PCMCIA 
+? Portable drives, such as flash or thumb drives 
+? Cables, wiring, cords 
+? Storage media 
+? Disks 
+Digital Forensics  Investigation 
+3.714   2011 Fraud Examiners Manual  
+? Magnetic tape (reels) 
+? PCMCIA RAM cards 
+? CD-ROMs 
+? Magnetic/optical disks 
+? Digital audio tape (DAT) 
+? Personal data managers 
+? Flash RAM cards (consider digital-camera storage) 
+? Computer programs 
+? Operating systems 
+? Application software 
+? Utility programs 
+? Compilers 
+? Interpreters 
+? Documents 
+? Manuals 
+? Printouts 
+? File listings 
+ 
+Moreover, to satisfy the “particularity” requirement of the Fourth Amendment, the affidavit 
+must be able to justify each item that might contain evidence. For example, stating that “all 
+printers” should be seized might be overly broad unless the fraud examiner can justify the 
+need for each specific printer. But with some thought, fraud examiners should be able to 
+justify the search and seizure of everything they need to complete the search for evidence.  
+ 
+Also, all related documentation should also be seized with the target computer system, and, 
+therefore, it should be covered by the search warrant’s wording. Such documentation is 
+important because it may be critical when analyzing the system’s hardware and software. 
+Documents could indicate system changes that will help to avoid damaging the system. 
+Documents could also contain other helpful pieces of information (e.g., the fact that access 
+control products have been added to a system might be a helpful piece of information).  
+ 
+Thus, obtaining as much intelligence as possible regarding the location of the potential 
+evidence is very desirable before writing the search warrant affidavit. Considerations include: 
+• Determine the type of computer systems that will be involved in the search. What 
+operating system is used? Are the computers networked together? 
+• Determine how many people will be needed to conduct the search.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.715 
+• If expert witnesses with a specific expertise are required during the search, identify and 
+clear them before the search warrant is written. Depending on the circumstances, their 
+credentials should possibly be included in the warrant affidavit before they are approved 
+by the magistrate issuing the search warrant.  
+• Determine the resources that will be required to conduct the search. If a great deal of 
+equipment is to be seized, consider how the equipment will be transported from the 
+location. Obtain sufficient boxes, labels, bags, and other supplies at this time. 
+• Consider the timing of the search.  
+ 
+Four Phases 
+There are several definitions and different schools of thought for investigations involving 
+computer forensics, but all practitioners in the field will agree that investigations typically 
+involve four phases: seizure, image acquisition, analysis, and reporting and testifying.  
+ 
+Each phase is dependent on the phases that come before it. For instance, if the seizure phase 
+is handled incorrectly, then each of the following phases can suffer and ultimately render the 
+reporting and testifying phase moot. 
+ 
+Seizing Digital Evidence 
+Perhaps the most critical step in the forensics process is how data is collected or acquired. 
+Acquisition of digital evidence must be completed in such a way as to ensure that all relevant 
+evidence is seized and secured in a forensically sound manner so that the evidence is not 
+tainted or destroyed.  
+ 
+In fact, there are a number of practical considerations and procedures to employ when the 
+decision is made to go forward with a computer seizure. One of the primary considerations 
+that is often neglected is debriefing the subject, which involves asking the subject for 
+passwords and whether any encrypted data exists on the target computer. 
+ 
+The Scientific Working Group on Digital Evidence (SWGDE) from the Organization of 
+American States has published a document, titled Best Practices for Computer Forensics, 
+which provides a good foundation for digital forensics examiners. Although a complete 
+                                                 
+5  Scientific Working Group on Digital Evidence of the National Center for Forensic Science. Best Practices for 
+Computer Forensics V2, 2006. http://www.oas.org/juridico/s panish/cyb_best_pract.pdf.  
+Digital Forensics  Investigation 
+3.716   2011 Fraud Examiners Manual  
+review of the entire document is beyond the scope of this course, several guidelines deserve 
+review. According to the SWGDE, examiners should adhere to the following guidelines: 
+• Before obtaining evidence, ensure that there is legal authority to seize evidence and 
+review the data associated with the evidence. This may require obtaining a warrant in a 
+criminal matter or ensuring that internal policies authorize seizure for an internal 
+investigation.  
+• If removing evidence from the scene is impractical, copy or image the items of evidence 
+according to established procedures. 
+• Remove all suspects, witnesses, and bystanders from the proximity of the digital 
+evidence. Keep in mind that remote access to computers can put potential evidence at 
+risk even if no person has physical access to the computer. Also, consider the wide range 
+of mobile data storage devices today (e.g., USB flash drives) that can be hidden. 
+• Ensure that no suspects, witnesses, and bystanders possess any items containing 
+potential evidence.   
+• Thoroughly and systematically search the scene for potential evidence. Once again, 
+consider the wide range of data storage media and devices.  
+ 
+Unless completely unavoidable, data should not be analyzed on the machine from which it 
+was collected. Instead, the examiner should make forensically sound copies of all data 
+storage devices — primarily hard drives — and analyze the data on these copies.  
+ 
+To ensure that a machine can be fully analyzed, the examiner should take the following 
+steps: 
+• Examine and document the machine’s surroundings. 
+• Secure the evidence. 
+• Power down carefully. 
+• Inspect for traps. 
+• Implement a system to manage the evidence. 
+ 
+EXAMINE AND DOCUMENT THE MACHINE’S SURROUNDINGS 
+The first step in the evidence collection process is to examine and document the machine’s 
+surroundings. This includes collecting all printouts, disks, notes, and other physical evidence 
+for further analysis. Document the scene with photographs or a diagram, depending on the 
+complexity of the setup, remembering that it may be a year or longer before testimony about 
+what the office looked like on the day of the seizure will be asked for in a legal proceeding.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.717 
+When documenting the condition of the evidence, the examiner should consider: 
+• Documenting what is on the screen, if the system is on. 
+• Documenting any processes that are currently running. 
+• Taking photographs of the various views of the equipment and media to document any 
+damage or defects. 
+• Taking photographs of the equipment’s physical connections. 
+• Making a drawing of the location to document the layout and relative locations from 
+which evidence was seized. 
+ 
+Additionally, because many people have a habit of writing down or recording their 
+passwords near their computers, examiners should look around for notes that may appear to 
+be passwords. This may aid in discovering passwords needed to access encrypted data if the 
+subject of the investigation is being uncooperative. 
+ 
+Take good notes on the machine’s state at the ti me of the seizure. Record the time and date 
+that the system was seized and the personnel involved in the seizure. The status of the 
+system should also be noted. Was it on, off, or on standby? Was there anything unusual 
+attached to the system? Was there any obvious damage? Did any files have to be saved? 
+Also, if the computer was active, record any open applications. Make sure to start a chain of 
+custody document and note each person and storage location through which each piece of 
+evidence passes. 
+ 
+In addition to documenting the machine’s state at the time of seizure, the examiners should 
+document any serial numbers and other potential identifying markings (e.g., manufacturer, 
+model number, asset tracking number, etc.), and he should photograph and diagram the 
+system’s entire configuration. 
+ 
+SECURE THE EVIDENCE 
+When securing a computer system, follow the two golden rules. The first rule is, if the 
+computer is off, don’t turn it on. Also, if a comp uter is on, an investigator will not want it to 
+go through its normal shutdown routines because Windows is very good about cleaning up 
+after itself. A number of temporary files will be deleted and possibly overwritten during a 
+normal shutdown, and some of these files may be important to the investigation. In most 
+cases, the investigator should simply unplug a running computer. Once the investigator takes 
+possession of the computer he should not allow anyone access it, with the exception of a 
+trained forensic examiner. 
+Digital Forensics  Investigation 
+3.718   2011 Fraud Examiners Manual  
+There are other reasons to conduct the seizure in this way. By preserving the state of the 
+system at the time of seizure one can help to defeat an argument by opposing counsel that 
+exculpatory information was somehow tainted or erased due to mishandling of the system. If 
+one bit is changed in the system’s data, it will ha ve a completely different hash value; that is 
+to say, it would be different than the original, even though the average person may not be 
+able to recognize any difference at all.  
+ 
+All data is composed of bits (binary digits). It takes eight bits to make one byte, which is 
+what we are commonly used to hearing when we talk about storage capacity, such as 256 
+megabytes. One megabyte equals 1024 kilobytes, and one kilobyte equals 1024 bytes. As you 
+can see, one bit is a relatively infinitesimal piece of data, but it is important that not even one 
+bit of data be altered by the forensic process. 
+ 
+The second golden rule when securing a computer is, do not peek through the files. This 
+also applies to disks. If a system is running, the examiner may be tempted to click on the My 
+Computer icon to look for evidence or copy files to a flash or optical storage device. This 
+should never be done, because each file the investigator touches will have its original time 
+stamps changed; once this is done the original time stamps cannot be recovered. It will be 
+obvious to the forensic examiner that this has occurred. 
+ 
+There are two methods for shutting down a running system, a hard shutdown and a graceful 
+shutdown. Generally, the hard shutdown is preferred. There may be extenuating 
+circumstances that would lead the investigator to perform a graceful shutdown, so it is 
+important to evaluate the best shutdown option based on the type of data being preserved 
+and the possible ramifications of a hard shutdown based on the type of operating system 
+installed. A hard shutdown is basically pulling the power cord from the back of the PC. 
+ 
+Laptop computers, however, require additional considerations. When seizing a laptop, it is 
+important to remove the battery first and then pull the plug. It is essential when seizing a 
+laptop to recover all of the components that belong to the laptop, such as flash drives, CD-ROMs 
+and DVD–ROMs, and power supplies. Often, laptop computers must be imaged with their 
+drives installed, and because of the proprietary nature of the laptops themselves, they will 
+only function with their own components. Many  times these components can be located in 
+the laptop carrying case. 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.719 
+Similarly, networked computers also present unique considerations. When powering down a 
+networked computer, remove the power supply from the back of the computer.  
+ 
+When handling servers, however, it is important to use extreme caution when removing 
+power from a server without using proper shut-down methods because this can damage the 
+system and expose the examiner to liability.  
+ 
+Once a computer is seized, it is necessary to secure it in such a way that will allow the 
+investigator to testify, if need be, that no unauthorized access to the suspect system 
+occurred. 
+ 
+INSPECT FOR TRAPS 
+Examiners should also inspect the computer’s chassis for traps, intrusion detection software, 
+and self-destruct mechanisms. Although completely destroying a hard drive is extremely 
+difficult, it is not difficult to make recovery very difficult.   
+ 
+IMPLEMENT A SYSTEM TO MANAGE THE EVIDENCE 
+Examiners should have a system to track and manage physical and digital evidence. The 
+most common method used to track physical evidence is to assign each item a unique 
+evidence number. Although this number can be in any format, it should be consistent and 
+never repeated.  
+ 
+Image Acquisition 
+To avoid altering evidence, the examiner should make forensically sound image of the 
+suspect system for analysis. Image acquisition involves using a standalone hard drive 
+duplicator or similar device to duplicate a computer’s entire drive. This process is known as 
+imaging because the hard drive can be imaged to another hard disk drive, a tape, or other 
+media. 
+ 
+The examiner has to be sure that the image is created and preserved in a manner that will 
+withstand a legal challenge; therefore, before  imaging a hard drive, the examiner must 
+determine the best method for acquiring an image and the proper procedures to facilitate the 
+image capture.  
+ 
+Digital Forensics  Investigation 
+3.720   2011 Fraud Examiners Manual  
+During the imaging process, examiners should use some type of write-protection device or 
+application to ensure no information is written onto the original drive, and after the hard 
+drive is duplicated, the original drive is moved to a secure location to prevent tampering. 
+ 
+Analysis 
+The analysis phase is arguably the most time-consuming phase, especially for a financial 
+crime or fraud investigation. This phase involves the use of specialized software designed to 
+give the examiner the means to locate and extract artifacts that will be used as evidence in 
+the investigation. The evidence can serve to incriminate the subject of the investigation or it 
+can be exculpatory by disproving the subject’s involvement. 
+ 
+The primary concern when analyzing electronically stored information (ESI) is to maintain 
+its integrity. Examiners must be careful with computer equipment because a careless 
+investigator may inadvertently alter important evidence. Therefore, it is helpful to develop 
+procedures to prevent the opposing party from raising allegations that the methodology used 
+to collect or analyze data was improper and could have damaged or altered the evidence. It 
+may also be helpful to use a hardware-based write-blocking device to protect the integrity of 
+digital evidence. 
+ 
+One method to help ensure the integrity of digi tal evidence is to maintain a chain of custody 
+for all evidence gathered and analyzed. The chain of custody  is both a process and a document 
+that memorializes (1) who has had possession of an object, and (2) what they have done with 
+it; it is simply a means of establishing that there has not been a material change or alteration 
+to a piece of evidence. Gaps in the chain of custody (e.g., when it is not clear what occurred 
+with a set of records) or outright mishandling (e.g., a group of questioned documents was 
+not properly sealed) can harm a case.  
+ 
+At a minimum, the following chain of custody procedures should be followed for digital 
+evidence: 
+• Identify each item that contains relevant information.  
+• Document each item, who it was received from, who authorized its removal, the location 
+of the item, and the date and time the item was received.  
+• Maintain a continuous record of the item’s custody as it changes hands.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.721 
+Reporting and Testifying 
+The reporting and testifying phase is where the hours of analysis are reported fairly and 
+objectively. In this phase, a qualified computer forensics expert may be asked to render an 
+opinion about the use or misuse of a computer system. This is where experience and training 
+are tested and where examiners must know with certainty that their opinion is based on their 
+research, knowledge, and experience and that an opposing expert will not find fault with 
+their conclusions. 
+ 
+ 
+
+
+
+:
+
+
+comput investig and comput forens
+prepar
+befor the examin can seiz evid he must take certain step to help ensur that the
+evid is admiss he must determin whether an employe ha a privaci interest in the
+item to be search he must take certain step to prepar for an investig that
+involv the us of a search warrant and he must take step to ensur that hi equip is
+sound eg onli us licens softwar applic independ valid all forens
+equip and maintain the valid on file
+privaci issu
+befor search and seiz an item the examin must determin whether an employe ha
+a privaci interest in the item to be search in everi case where it becom necessari to
+seiz a comput or other devic capabl of store digit evid the investig should
+investig digit forens
+2011 fraud examin manual 3709
+consult with legal counsel it is imper that legal counsel be involv in the seizur
+process and be knowledg of case law pertain to workplac seizur
+case law govern workplac seizur in the privat sector is differ from case law
+govern seizur in the govern workplac but gener it all come down to the
+employe expect of privaci although the fourth amend constitut right
+guarante protect against unreason search and seizur typic the fourth
+amend doe not protect privat sector employe
+in the privat sector disput over unreason search and seizur usual come down
+on the side of the corpor the case law in the privat sector tend to support the
+argument that corpor have the right to decreas the level of privaci employe can
+expect with regard to workplac search of comput and other digit media thu
+compani to adopt a written polici establish that all comput system eg the internet
+email commun hardwar and file ar sole for busi us and that the
+compani reserv the absolut right to review audit and disclos all matter sent over the
+system or place in storag and as long as written polici ar in effect that support
+manag action the corpor can avoid liabil for violat an employe right to
+privaci
+addition when conduct an intern investig or inquiri into alleg of
+misconduct or illeg activ in both the privat and government sector it is import to
+be awar of what the employe polici protect against and what it allow it should also be
+determin whether step have been taken to nullifi ani expect of privaci
+government employe whether local state or feder have been provid special
+protect that do not gener appli to employe in the privat sector in all case where
+it becom necessari to seiz a government employe comput or other digit devic it
+is imper that the investig consult with the entiti legal counsel
+bryan r lemon branch chief of the legal di vision offic of train oper at the
+fletc train center in georgia ha written an excel paper on the subject of
+government workplac search and seizur in which he summar a number of case
+where the court have render opinion on government workplac search and seizur
+in hi paper mr lemon defin the term workplac to includ those area and item that ar
+digit forens investig
+3710 2011 fraud examin manual
+relat to work and ar gener within the employ control which includ file cabinet
+desk and comput
+case law on thi issu ha attempt to answer sever question can a govern
+employe have a reason expect of privaci in the workplac if so what standard
+should be follow to ensur that a supervisor is conduct a law search of an
+employe work space is there a lesser standa rd emploi in the case of mere suspicion
+the suprem court case of oconn v ortega wa the hallmark case in the argument about
+the reason of search and seizur but there were a number of other issu that
+were decid at the lowercourt level in oconn the suprem court held that the
+realiti of the workplac made some exp ectat of privaci among public employe
+unreason when the intrus wa by a supervisor rather than a law enforc offici
+workrel search the court found were m er incid to the primari busi of
+the agenc and a warrant requir would serious disrupt the routin conduct of
+busi the court thu held that a standard of reason wa suffici for work
+relat intrus by public employ
+to simplifi the decisionmak process when consid a workplac search lemon
+explain that there is a twopart analysi that will offer some guidanc the first part requir
+a determin of the employe reason ex pectat of privaci in the area to be
+search second if a reason expect of privaci doe exist then ani search that
+occur in the workplac must be reason under the given circumst
+in unit state v gonzalez 4 the court dealt with the search of a govern employe
+person belong in thi case the employe gonzalez as a condit of employ
+sign a paper that indic among other thing hi person belong might be search
+in an effort to discourag employe theft gonzalez work at a militari exchang he wa
+stop on dai dure hi departur from the store and hi backpack wa search by store
+secur the search reveal that gonzalez backpack contain merchandis stolen from
+the store on appeal gonzalez claim that hi fourth amend right had been
+violat the court look to the paper that wa origin sign by gonzalez and state
+4 unit state v gonzalez 300 f3d 1048 9th cir 2002
+investig digit forens
+2011 fraud examin manual 3711
+that gonzalez wa put on notic that hi person belong might be search and as a
+result hi expect of privaci wa limit by hi knowledg of store polici
+in gossmey v mcdonald the court dealt with the question of whether there wa a reason
+expect of privaci regard person purchas item that were us to store work
+relat materi in the govern workplac in thi case a local detect receiv an
+anonym tip from on of gossmey cowork that gossmey wa store illeg
+pornograph materi in a storag contain that wa purchas at gossmey own
+expens the local detect relai the inform to gossmey supervisor who
+proceed to search gossmey workplac includ the storag cabinet the supervisor
+found evid to substanti the alleg but no charg were ever file gossmey file
+a lawsuit alleg that her fourth amend right had been violat by the search of her
+person properti the court disagre state that the cabinet wa not mere an item of
+person properti such as a purs or briefcas brought into the workplac but that it wa
+be us to hous workrel materi and therefor the cabinet wa a part of the
+workplac and not a part of her person domain
+in oconn the suprem court rule that it is possibl to reduc the expect of privaci
+on the part of govern employe for exampl in the form of a written notic sign by
+the employe that give the employ the right to access or inspect inform store on the
+employe comput in the case of unit state v simon the defend simon wa found
+to have visit sever illicit websit that were prohibit by agenc polici the polici
+specif prohibit access to unlaw materi and further prohibit ani person us of
+the agenc internet a remot audit of the hard drive on simonss governmentown
+comput reveal that the comput contain sever illeg imag in simonss challeng
+of the search under the fourth amend he claim that hi right were violat when
+the hard drive wa search remot the fourth circuit court of appeal held that simon
+had no legitim expect of privaci becaus of the agenc internet us polici the
+polici languag place employe on notic of their diminish expect of privaci
+when determin whether to conduct a search of governmentworkplac comput it is
+import to determin whether a reason expect of privaci exist to answer that
+question on must look at whether there wa a prior notic that diminish the expect
+on can also look at the polici practic of the agenc have a polici and onli select
+enforc it tend to diminish the polici to the point that it mai not negat the privaci
+expect on must also look to the open and access of the workplac to other
+digit forens investig
+3712 2011 fraud examin manual
+employe final wa there a written waiver of the employe expectati on of privaci if an
+expect of privaci doe not exist then the fourth amend will not appli if it is
+determin that an expect of privaci doe exist then what is the purpos behind the
+search is it a workrel search such as look for a miss file or is it due to an
+alleg of misconduct if it is a workrel search the search must be justifi base on
+the overal circumst it must be justifi in it incept and permiss in scope if the
+search under these condit is sole for the purpos of a crimin investig then a
+probabl caus warrant will gener be necessari in addit to the employe consent
+it should also be note that person digit devic ar becom more common in the
+workplac employe often carri smart phone thumb drive or mp3 player into the
+offic each of these devic is capabl of store larg amount of data and can easili be
+us to steal a compani intellectu properti becaus these devic ar often purchas by
+the employe for person us a search warrant mai be need to seiz or search these
+devic becaus employe mai have a reason expect of privaci in these type of
+person devic therefor it is extrem import to includ such devic in the
+compani search polici the polici should cl earli state that ani person electron devic
+includ laptop cell phone smart phone thumb drive mp3 player and so forth ar
+just like handbag and briefcas subject to search if brought onto the compani premis
+search warrant
+if howev a search warrant is requir addit consider must be address a
+search warrant is a court order that grant author the right to search a premis or properti
+for inform pertin to the case
+all warrant must satisfi the requir under the fourth amend that is all
+warrant for search must be judici sanction and support by probabl caus and
+thei must particularli describ the place to be search or thing to be seiz onli a
+judg can issu a search warrant and onli law enforc can seek and serv a search
+warrant
+to obtain a valid search warrant law enforc offic prepar affidavit the affidavit
+will detail the probabl caus or legal reason behind the request for the warrant often
+law enforc personnel will need guidanc from the fraud examin as thei conduct pre
+search prepar and construct the search warrant affidavit
+investig digit forens
+2011 fraud examin manual 3713
+but becaus the requir for these affidavit have been affect by technolog
+innov fraud examin must consid sever new issu must when construct a
+search warrant affidavit involv digit evid the fraud examin must know how to
+write a warrant to seiz tangibl properti that contain intang evid further the
+fraud examin must be allow to convert that evid into a humanread form eg
+storag devic such as disk which contain inform that cannot be view without the
+aid of some electron devic likewis the warrant must allow for the abil to seiz data
+file pertin to the case that ar mix with data file which have noth to do with the
+case but resid on the same storag devic
+addition the warrant must be broad enough to defend the search and seizur of all
+comput evid relev to the investig but narrow enough to exclud all materi
+that is not and thi can be an extrem difficult standard to meet at time and might depend
+on the magistr to whom the affidavit is present howev with some thought fraud
+examin should be abl to justifi the search and seizur of everyth that thei need to
+complet the search for evid item to be seiz might contain ani or all of the
+follow depend on the natur of the fraud case
+comput
+comput compon
+comput peripher
+wordprocess equip
+modem
+monitor
+printer
+plotter
+optic scanner
+data storag devic
+magnet
+laser
+optic
+tape
+pcmcia
+portabl drive such as flash or thumb drive
+cabl wire cord
+storag media
+disk
+digit forens investig
+3714 2011 fraud examin manual
+magnet tape reel
+pcmcia ram card
+cdrom
+magneticopt disk
+digit audio tape dat
+person data manag
+flash ram card consid digitalcamera storag
+comput program
+oper system
+applic softwar
+util program
+compil
+interpret
+document
+manual
+printout
+file list
+moreov to satisfi the particular requir of the fourth amend the affidavit
+must be abl to justifi each item that might contain evid for exampl state that all
+printer should be seiz might be overli broad unless the fraud examin can justifi the
+need for each specif printer but with some thought fraud examin should be abl to
+justifi the search and seizur of everyth thei need to complet the search for evid
+also all relat document should also be seiz with the target comput system and
+therefor it should be cover by the search warrant word such document is
+import becaus it mai be critic when analyz the system hardwar and softwar
+document could indic system chang that will help to avoid damag the system
+document could also contain other help piec of inform eg the fact that access
+control product have been ad to a system might be a help piec of inform
+thu obtain as much intellig as possibl regard the locat of the potenti
+evid is veri desir befor write the search warrant affidavit consider includ
+determin the type of comput system that will be involv in the search what
+oper system is us ar the comput network togeth
+determin how mani peopl will be need to conduct the search
+investig digit forens
+2011 fraud examin manual 3715
+if expert wit with a specif expertis ar requir dure the search identifi and
+clear them befor the search warrant is written depend on the circumst their
+credenti should possibl be includ in the warrant affidavit befor thei ar approv
+by the magistr issu the search warrant
+determin the resourc that will be requir to conduct the search if a great deal of
+equip is to be seiz consid how the equip will be transport from the
+locat obtain suffici box label bag and other suppli at thi time
+consid the time of the search
+four phase
+there ar sever definit and differ school of thought for investig involv
+comput forens but all practition in the field will agre that investig typic
+involv four phase seizur imag acquisit analysi and report and testifi
+each phase is depend on the phase that come befor it for instanc if the seizur phase
+is handl incorrectli then each of the follow phase can suffer and ultim render the
+report and testifi phase moot
+seiz digit evid
+perhap the most critic step in the forens process is how data is collect or acquir
+acquisit of digit evid must be complet in such a wai as to ensur that all relev
+evid is seiz and secur in a forens sound manner so that the evid is not
+taint or destroi
+in fact there ar a number of practic consider and procedur to emploi when the
+decis is made to go forward with a comput seizur on of the primari consider
+that is often neglect is debrief the subject which involv ask the subject for
+password and whether ani encrypt data exist on the target comput
+the scientif work group on digit evid swgde from the organ of
+american state ha publish a document titl best practic for comput forens
+which provid a good foundat for digit forens examin although a complet
+5 scientif work group on digit evid of the nation center for forens scienc best practic for
+comput forens v2 2006 httpwwwoasorgjuridico panishcybbestpractpdf
+digit forens investig
+3716 2011 fraud examin manual
+review of the entir document is beyond the scope of thi cours sever guidelin deserv
+review accord to the swgde examin should adher to the follow guidelin
+befor obtain evid ensur that there is legal author to seiz evid and
+review the data associ with the evid thi mai requir obtain a warrant in a
+crimin matter or ensur that intern polici author seizur for an intern
+investig
+if remov evid from the scene is impract copi or imag the item of evid
+accord to establish procedur
+remov all suspect wit and bystand from the proxim of the digit
+evid keep in mind that remot access to comput can put potenti evid at
+risk even if no person ha physic access to the comput also consid the wide rang
+of mobil data storag devic todai eg usb flash drive that can be hidden
+ensur that no suspect wit and bystand possess ani item contain
+potenti evid
+thoroughli and systemat search the scene for potenti evid onc again
+consid the wide rang of data storag media and devic
+unless complet unavoid data should not be analyz on the machin from which it
+wa collect instead the examin should make forens sound copi of all data
+storag devic primarili hard drive and analyz the data on these copi
+to ensur that a machin can be fulli analyz the examin should take the follow
+step
+examin and document the machin surround
+secur the evid
+power down carefulli
+inspect for trap
+implement a system to manag the evid
+examin and document the machin surround
+the first step in the evid collect process is to examin and document the machin
+surround thi includ collect all printout disk note and other physic evid
+for further analysi document the scene with photograph or a diagram depend on the
+complex of the setup rememb that it mai be a year or longer befor testimoni about
+what the offic look like on the dai of the seizur will be ask for in a legal proceed
+investig digit forens
+2011 fraud examin manual 3717
+when document the condit of the evid the examin should consid
+document what is on the screen if the system is on
+document ani process that ar current run
+take photograph of the variou view of the equip and media to document ani
+damag or defect
+take photograph of the equip physic connect
+make a draw of the locat to document the layout and rel locat from
+which evid wa seiz
+addition becaus mani peopl have a habit of write down or record their
+password near their comput examin should look around for note that mai appear to
+be password thi mai aid in discov password need to access encrypt data if the
+subject of the investig is be uncoop
+take good note on the machin state at the ti me of the seizur record the time and date
+that the system wa seiz and the personnel involv in the seizur the statu of the
+system should also be note wa it on off or on standbi wa there anyth unusu
+attach to the system wa there ani obviou damag did ani file have to be save
+also if the comput wa activ record ani open applic make sure to start a chain of
+custodi document and note each person and storag locat through which each piec of
+evid pass
+in addit to document the machin state at the time of seizur the examin should
+document ani serial number and other potenti identifi mark eg manufactur
+model number asset track number etc and he should photograph and diagram the
+system entir configur
+secur the evid
+when secur a comput system follow the two golden rule the first rule is if the
+comput is off dont turn it on also if a comp uter is on an investig will not want it to
+go through it normal shutdown routin becaus window is veri good about clean up
+after itself a number of temporari file will be delet and possibl overwritten dure a
+normal shutdown and some of these file mai be import to the investig in most
+case the investig should simpli unplug a run comput onc the investig take
+possess of the comput he should not allow anyon access it with the except of a
+train forens examin
+digit forens investig
+3718 2011 fraud examin manual
+there ar other reason to conduct the seizur in thi wai by preserv the state of the
+system at the time of seizur on can help to defeat an argument by oppos counsel that
+exculpatori inform wa somehow taint or eras due to mishandl of the system if
+on bit is chang in the system data it will ha ve a complet differ hash valu that is
+to sai it would be differ than the origin even though the averag person mai not be
+abl to recogn ani differ at all
+all data is compos of bit binari digit it take eight bit to make on byte which is
+what we ar commonli us to hear when we talk about storag capac such as 256
+megabyt on megabyt equal 1024 kilobyt and on kilobyt equal 1024 byte as you
+can see on bit is a rel infinitesim piec of data but it is import that not even on
+bit of data be alter by the forens process
+the second golden rule when secur a comput is do not peek through the file thi
+also appli to disk if a system is run the examin mai be tempt to click on the my
+comput icon to look for evid or copi file to a flash or optic storag devic thi
+should never be done becaus each file the investig touch will have it origin time
+stamp chang onc thi is done the origin time stamp cannot be recov it will be
+obviou to the forens examin that thi ha occur
+there ar two method for shut down a run system a hard shutdown and a grace
+shutdown gener the hard shutdown is prefer there mai be extenu
+circumst that would lead the investig to perform a grace shutdown so it is
+import to evalu the best shutdown option base on the type of data be preserv
+and the possibl ramif of a hard shutdown base on the type of oper system
+instal a hard shutdown is basic pull the power cord from the back of the pc
+laptop comput howev requir addit consider when seiz a laptop it is
+import to remov the batteri first and then pull the plug it is essenti when seiz a
+laptop to recov all of the compon that belong to the laptop such as flash drive cdrom
+and dvdrom and power suppli often laptop comput must be imag with their
+drive instal and becaus of the proprietari natur of the laptop themselv thei will
+onli function with their own compon mani time these compon can be locat in
+the laptop carri case
+investig digit forens
+2011 fraud examin manual 3719
+similarli network comput also present uniqu consider when power down a
+network comput remov the power suppli from the back of the comput
+when handl server howev it is import to us extrem caution when remov
+power from a server without us proper shutdown method becaus thi can damag the
+system and expos the examin to liabil
+onc a comput is seiz it is necessari to secur it in such a wai that will allow the
+investig to testifi if need be that no unauthor access to the suspect system
+occur
+inspect for trap
+examin should also inspect the comput chassi for trap intrus detect softwar
+and selfdestruct mechan although complet destroi a hard drive is extrem
+difficult it is not difficult to make recoveri veri difficult
+implement a system to manag the evid
+examin should have a system to track and manag physic and digit evid the
+most common method us to track physic evid is to assign each item a uniqu
+evid number although thi number can be in ani format it should be consist and
+never repeat
+imag acquisit
+to avoid alter evid the examin should make forens sound imag of the
+suspect system for analysi imag acquisit involv us a standalon hard drive
+duplic or similar devic to duplic a comput entir drive thi process is known as
+imag becaus the hard drive can be imag to anoth hard disk drive a tape or other
+media
+the examin ha to be sure that the imag is creat and preserv in a manner that will
+withstand a legal challeng therefor befor imag a hard drive the examin must
+determin the best method for acquir an imag and the proper procedur to facilit the
+imag captur
+digit forens investig
+3720 2011 fraud examin manual
+dure the imag process examin should us some type of writeprotect devic or
+applic to ensur no inform is written onto the origin drive and after the hard
+drive is duplic the origin drive is move to a secur locat to prevent tamper
+analysi
+the analysi phase is arguabl the most timeconsum phase especi for a financi
+crime or fraud investig thi phase involv the us of special softwar design to
+give the examin the mean to locat and extract artifact that will be us as evid in
+the investig the evid can serv to incrimin the subject of the investig or it
+can be exculpatori by disprov the subject involv
+the primari concern when analyz electron store inform esi is to maintain
+it integr examin must be care with comput equip becaus a careless
+investig mai inadvert alter import evid therefor it is help to develop
+procedur to prevent the oppos parti from rais alleg that the methodolog us
+to collect or analyz data wa improp and could have damag or alter the evid it
+mai also be help to us a hardwarebas writeblock devic to protect the integr of
+digit evid
+on method to help ensur the integr of digi tal evid is to maintain a chain of custodi
+for all evid gather and analyz the chain of custodi is both a process and a document
+that memori 1 who ha had possess of an object and 2 what thei have done with
+it it is simpli a mean of establish that there ha not been a materi chang or alter
+to a piec of evid gap in the chain of custodi eg when it is not clear what occur
+with a set of record or outright mishandl eg a group of question document wa
+not properli seal can harm a case
+at a minimum the follow chain of custodi procedur should be follow for digit
+evid
+identifi each item that contain relev inform
+document each item who it wa receiv from who author it remov the locat
+of the item and the date and time the item wa receiv
+maintain a continu record of the item custodi as it chang hand
+investig digit forens
+2011 fraud examin manual 3721
+report and testifi
+the report and testifi phase is where the hour of analysi ar report fairli and
+object in thi phase a qualifi comput forens expert mai be ask to render an
+opinion about the us or misus of a comput system thi is where experi and train
+ar test and where examin must know with certainti that their opinion is base on their
+research knowledg and experi and that an oppos expert will not find fault with
+their conclus

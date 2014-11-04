@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=The wrongful taking or conversion of another's property for the benefit of someone else is most properly referred to as which of the following?
+
+Options=Embezzlement | Larceny | Misapplication | Grand theft
+
+CorrectResponse=2
+
+Explanation=Misapplication is the wrongful taking or conversion of another’s property for the benefit of someone else. Misapplication often accompanies embezzlement, but is a separate and distinct offense. Embezzlement is defined as the wrongful taking or conversion of the property of another for the wrongdoer’s benefit.See page(s) 1.901 in the Fraud Examiner's Manual

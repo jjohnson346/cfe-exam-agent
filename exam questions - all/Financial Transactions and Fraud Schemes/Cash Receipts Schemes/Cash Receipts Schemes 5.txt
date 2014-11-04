@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Which of the following is not a skimming scheme according to Corporate Fraud Handbook?
+
+Options=Understated sales | Forged checks | Short-term skimming | Unrecorded sales
+
+CorrectResponse=1
+
+Explanation=According to Corporate Fraud Handbook, skimming schemes generally fall into one of the following categories:	• Unrecorded sales	• Understated sales and receivables	• Theft of checks from the mail	• Short-term skimming	See page(s) 67 in the Corporate Fraud Handbook

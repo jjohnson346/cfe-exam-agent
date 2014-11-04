@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Page, a Certified Fraud Examiner is investigating the sources of income of a suspect. Page notices that funds available to the suspect include the suspect's interest in a restaurant/bar. Page has surveyed the establishment several times and notices that the business, even during peak times, is minimal. Yet the income reported from this restaurant/bar is phenomenal. Of the following list, which scheme might the suspect be involved in?
+
+Options=Money laundering | Overstatement of expenses | Conflict of interest | Bankruptcy fraud
+
+CorrectResponse=0
+
+Explanation=Money laundering is the disguising of the existence, nature, source, ownership, location, and disposition of property derived from criminal activity. Businesses that are commonly used to front money laundering operations include bars, restaurants, and nightclubs. These businesses charge relatively high prices, and customers vary widely in their purchases. Sales are generally in cash, and it is notoriously difficult to match the cost of providing food, liquor, and entertainment with the revenues they produce.See page(s) 1.1601,1.1605 in the Fraud Examiner's Manual

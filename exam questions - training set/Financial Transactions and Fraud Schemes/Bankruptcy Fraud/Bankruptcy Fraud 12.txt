@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Section 152 of Title 18, U.S. Code, provides definitions to which of the following bankruptcy law offenses?
+
+Options=Concealment of property | False oath | Fraudulent transfer | All of the above
+
+CorrectResponse=3
+
+Explanation=Title 18, U.S. Code, Section 152 is the most comprehensive criminal bankruptcy fraud statute. Nine paragraphs define various offenses against the bankruptcy laws. The following is a listing of each offense: concealment of property, false oath or account, false declarations, false claims, fraudulent receipt of property, extortion and bribery, fraudulent transfer or concealment, fraudulent destruction or alteration of documents, and fraudulent withholding of documents.See page(s) 1.1315-1.1318 in the Fraud Examiner's Manual

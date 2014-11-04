@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to The Institute of Internal Auditors? International Standards for the Professional Practice of Internal Auditing, due professional care implies infallibility.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Internal auditors must apply the care and skill expected of a reasonably prudent and competent internal auditor. Due professional care does not imply infallibility.

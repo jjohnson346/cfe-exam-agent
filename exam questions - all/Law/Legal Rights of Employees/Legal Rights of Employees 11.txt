@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=A good first step in any fraud examination is to obtain a copy of the suspect's credit report.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Fair Credit Reporting Act restricts a credit bureau from releasing anything more than an individual's credit header information to third parties without authorization. All users of consumer reports must have a permissible purpose under the FCRA to obtain a consumer report. Therefore, the fraud examiner must be very circumspect in dealing with credit information, as its use might be illegal. Additionally, the examiner may be required to notify the subject of the procurement of the report. If adverse action is taken, then the subject must be given a copy of the report. Civil penalties are provided for willful or negligent noncompliance with the act. Any person who attempts to obtain information on a consumer from a reporting agency on false pretenses commits a felony. Therefore, fraud examiners are cautioned to contact legal counsel before attempting to obtain any credit information relating to an investigation. An attorney also should be consulted before any adverse action is taken against an employee as a result of information contained in a credit report.See page(s) 2.439-2.442 in the Fraud Examiner's Manual

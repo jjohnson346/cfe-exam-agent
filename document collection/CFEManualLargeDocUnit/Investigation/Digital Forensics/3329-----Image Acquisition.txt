@@ -1,0 +1,57 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Image Acquisition
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Image Acquisition 
+To avoid altering evidence, the examiner should make forensically sound image of the 
+suspect system for analysis. Image acquisition involves using a standalone hard drive 
+duplicator or similar device to duplicate a computer’s entire drive. This process is known as 
+imaging because the hard drive can be imaged to another hard disk drive, a tape, or other 
+media. 
+ 
+The examiner has to be sure that the image is created and preserved in a manner that will 
+withstand a legal challenge; therefore, before  imaging a hard drive, the examiner must 
+determine the best method for acquiring an image and the proper procedures to facilitate the 
+image capture.  
+ 
+Digital Forensics  Investigation 
+3.720   2011 Fraud Examiners Manual  
+During the imaging process, examiners should use some type of write-protection device or 
+application to ensure no information is written onto the original drive, and after the hard 
+drive is duplicated, the original drive is moved to a secure location to prevent tampering. 
+ 
+
+
+
+:
+
+
+imag acquisit
+to avoid alter evid the examin should make forens sound imag of the
+suspect system for analysi imag acquisit involv us a standalon hard drive
+duplic or similar devic to duplic a comput entir drive thi process is known as
+imag becaus the hard drive can be imag to anoth hard disk drive a tape or other
+media
+the examin ha to be sure that the imag is creat and preserv in a manner that will
+withstand a legal challeng therefor befor imag a hard drive the examin must
+determin the best method for acquir an imag and the proper procedur to facilit the
+imag captur
+digit forens investig
+3720 2011 fraud examin manual
+dure the imag process examin should us some type of writeprotect devic or
+applic to ensur no inform is written onto the origin drive and after the hard
+drive is duplic the origin drive is move to a secur locat to prevent tamper

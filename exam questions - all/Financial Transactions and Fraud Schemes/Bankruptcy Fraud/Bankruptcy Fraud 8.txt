@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=The United States Trustee is a Department of Justice agency responsible for many tasks in bankruptcy proceedings. Those tasks include which of the following?
+
+Options=Appearing in court regarding matters of interest to the estate and creditors | Appointing trustees | Overseeing trustees | All of the above are included
+
+CorrectResponse=3
+
+Explanation=>The Office of the United States Trustee is a Department of Justice agency responsible for administering bankruptcy cases; appointing trustees, examiners, and Chapter 11 committees; overseeing and monitoring trustees; reviewing employment and fee applications; and appearing in court on matters of interest to the estate and creditors. There are 21 regions in the Office of the U.S. Trustee comprising one or more federal districts. Each region consists of a U.S. Trustee (or an Assistant Trustee in several regions). The Office of the U.S. Trustee in each region principally is comprised of staff attorneys, bankruptcy analysts (including accountants) and. in some instances, special investigative units.See page(s) 1.1301 in the Fraud Examiner's Manual

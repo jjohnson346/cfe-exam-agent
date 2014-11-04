@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=In the vertical analysis of an income statement, net sales is assigned _____________________.  All other items are expressed as a percentage of this number.
+
+Options=75 percent | 50 percent | 25 percent | 100 percent
+
+CorrectResponse=3
+
+Explanation=Vertical analysis is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressing components as percentages. In the vertical analysis of an income statement, net sales is assigned 100 percent; on a balance sheet, total assets or total liabilities and equity is assigned 100 percent. All other items are expressed as a percentage of these two numbers.See page(s) 3.609 in the Fraud Examiner's Manual

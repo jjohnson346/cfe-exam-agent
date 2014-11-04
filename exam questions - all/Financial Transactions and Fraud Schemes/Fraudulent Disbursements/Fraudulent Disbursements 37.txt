@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=What happens when an employee records a fictitious refund of goods at his cash register?
+
+Options=The victim company's inventory is overstated. | The victim company's inventory is understated. | The register total is out of balance with the register tape. | None of the above
+
+CorrectResponse=0
+
+Explanation=A refund shows a disbursement of money from the register as the customer gets his money back. In a fictitious refund scheme, a fraudster processes a transaction as if a customer were returning merchandise, even though there is no actual return. Two things result from this fraudulent transaction. The first is that the fraudster takes cash from the register in the amount of the false return. Since the register tape shows that a merchandise return has been made, it appears that the disbursement is legitimate. The second thing that happens in a fictitious refund scheme is that a debit is made to the inventory system showing that the merchandise has been returned. Since the transaction is fictitious, no merchandise is actually returned. The result is that the company’s inventory is overstated.See page(s) 165 in the Corporate Fraud Handbook

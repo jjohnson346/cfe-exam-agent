@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a Certified Fraud Examiner, is conducting an admission-seeking interview of Red. a fraud suspect Blue asked Red: "Did you just want extra money, or did you do this because you had financial problems?" This is called a(n):
+
+Options=Benchmark question | Rationalization question | Alternative question | None of the above
+
+CorrectResponse=2
+
+Explanation=After the accused's alibis have been diffused, he normally will become quiet and withdrawn. Some people in this situation may cry. (If so, be comforting. Do not discourage the accused from showing emotion.) In this stage the accused is deliberating whether or not to confess. The interviewer at this point should present an alternative question to the accused. The alternative question forces the accused to make one of two choices. One alternative allows the accused a morally acceptable reason for the misdeed; the other paints the accused in a negative light. Regardless of which answer the accused chooses, he is acknowledging guilt. Examples: "Did you plan this deliberately, or did it just happen?" "Did you just want extra money, or did you do this because you had financial problems?"See page(s) 3.263 in the Fraud Examiner's Manual

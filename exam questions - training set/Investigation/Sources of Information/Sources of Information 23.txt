@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The Securities and Exchange Commission maintains which of the following records on corporations whose stocks and securities are sold to the public?
+
+Options=Identification of certain stockholders | Identification of accountants and attorneys | Financial statements | All of the above
+
+CorrectResponse=3
+
+Explanation=The Securities and Exchange Commission (SEC) maintains public records of corporations with stocks and securities sold to the public. These records include the following: (1) financial statements, (2) identification of officers and directors, (3) identification of owners of more than 10 percent of a business's stock, (4) a descriptions of the registrant's properties and businesses, (5) a description of significant provisions of the security to be offered for sale and its relationship to the registrant‰??s other capital securities, (6) identification of events of interest to investors, (7) identification of accountants and attorneys, and (8) a history of the business.See page(s) 3.443-3.444 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Tracing checks is facilitated by bank identification symbols, specifically:
+
+Options=The Federal Deposit Insurance Corporation code | The Magnetic Ink Character Recognition system | The American Bankers Association transit number | All of the above
+
+CorrectResponse=2
+
+Explanation=Tracing checks is facilitated by the use of bank identification symbols. All checks printed for banking institutions contain an ABA transit number This number represents an identification code developed by the American Bankers Association The ABA transit number enables a check to be routed to the bank of origin. In the process of routing, a trail is left.See page(s) 3.813 in the Fraud Examiner's Manual

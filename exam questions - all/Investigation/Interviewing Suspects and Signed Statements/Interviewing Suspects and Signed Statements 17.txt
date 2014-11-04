@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Gamma, a Certified Fraud Examiner, was conducting an admission-seeking interview of Delta, a fraud suspect. Gamma tells Delta, "It isn't like you took something from a friend or neighbor. I can see how you could say, 'Well, this would be okay as long as it is the company and not my coworkers.' Isn't that right?" This technique is called:
+
+Options=Depersonalizing the victim | Revenge | Accuser's actions | None of the above
+
+CorrectResponse=0
+
+Explanation=In cases involving employee theft, an effective technique is to depersonalize the victim. The accused is better able to cope with the moral dilemma of his actions if the victim is a faceless corporation or agency. Examples: "It isn't like you took something from a friend or neighbor. I can see how you could say, 'Well, this would be okay to do as long as it was against the company, and not my coworkers' Isn't that right?" ’’It's not like what you've done has really hurt one person. Maybe you thought of it this way: 'At most, I've cost each shareholder a few cents.' Isn't that the way it was?"See page(s) 3.259 in the Fraud Examiner's Manual

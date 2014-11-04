@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=The mail fraud statute is most properly characterized as what type of law?
+
+Options=Common law | Procedural | Substantive | None of the above
+
+CorrectResponse=2
+
+Explanation=The largest categorical dividing line is between substantive law and procedural law. Substantive law is comprised of the basic laws of rights and duties (contract law, tort lav/, criminal law. etc.) as opposed to procedural law which involves rules governing pleadings, evidence, jurisdiction, etc. If someone says an act is ‰??against the law," they mean substantive law. This includes statutes and ordinances at every level; common law, or case law, from all the various courts; and state and federal constitutions. There are two sources of substantive law: statutory law and common law. Criminal laws, like the mail fraud statute, are statutory laws. Civil law can be based on either statutory lav/ or common law.See page(s) 2.101-2.102 in the Fraud Examiner's Manual

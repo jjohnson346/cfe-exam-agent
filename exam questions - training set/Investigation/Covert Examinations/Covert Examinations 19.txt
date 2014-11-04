@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=LexisNexis is:
+
+Options=The body of a written report | A computer program designed to assist examiners in forensic audits | A legal and business information database | None of the above
+
+CorrectResponse=2
+
+Explanation=LexisNexis is a legal and business information database that provides its subscribers with daily newspapers for either a flat fee or a per-use fee. LexisNexis maintains a cavernous database of U.S. and international media sources, including daily newspapers, magazines, and television transcripts. In addition, LexisNexis offers a service in which the user can request immediate information on difficult-to-find topics. LexisNexis will research the topic and give the user the information as quickly as possible.See page(s) 3.530 in the Fraud Examiner's Manual

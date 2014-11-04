@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=The difference between a secured creditor and an unsecured creditor in bankruptcy proceedings is that an unsecured creditor is paid first from distributions made by the trustee.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Holders of secured claims have priority over unsecured creditors and get paid first in any distribution made by the trustee.See page(s) 1.1304 in the Fraud Examiner's Manual

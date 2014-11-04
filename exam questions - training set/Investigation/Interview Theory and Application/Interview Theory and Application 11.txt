@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=When evaluating the behavior of a deceptive witness, it is important that the interviewer realize that:
+
+Options=No one behavior should be isolated or a conclusion drawn from it. They should be considered together | The witness can hide most of the obvious signs of deception | The interviewer can not legally accuse the witness of deception | None of the above
+
+CorrectResponse=0
+
+Explanation=In evaluating signs of deception, it is easy to draw the wrong conclusions. It must be understood that no one sign is an indicator of deception. No one behavior should be isolated or a conclusion drawn from it. They should be considered together.See page(s) 3.238 in the Fraud Examiner's Manual

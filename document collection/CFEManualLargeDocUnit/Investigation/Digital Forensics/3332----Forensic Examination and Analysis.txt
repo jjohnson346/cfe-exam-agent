@@ -1,0 +1,437 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Forensic Examination and Analysis 
+While every fraud examiner should have basic knowledge of computer evidence and how to 
+properly identify, collect, and store digital evidence, some fraud examiners may decide to 
+pursue additional training in the area of computer forensic analysis. The process of 
+developing the skill set necessary to be a computer-forensic examiner takes a considerable 
+amount of time, training, and experience. Additionally, there are a number of software and 
+hardware tools that are now available to conduct this type of work; the forensic examiner 
+must be aware of these tools and understand how they work.  
+ 
+Again, a forensic analysis of a computer could involve the examination of a tremendous 
+volume of data. In 1993, the average hard disk was 60 megabytes (MB) in size. The standard 
+size in 1999 was 8 gigabytes (GB), and currently, the average size of hard disks offered is 
+between 120 GB and 1.9 terabytes. 
+ 
+Forensic examiners will generally use at least two software tools on a project simultaneously 
+to cross-validate their results. It is also important to note that many insufficiently trained 
+examiners who use automated tools do not in fact understand what the automated process is 
+doing. It is extremely important to understand and be able to articulate how a tool is 
+conducting an automated process. This means that a forensic examiner who uses an 
+automated tool should be able to explain how to conduct the same process manually.  
+ 
+Because the primary concern when collecting and analyzing digital evidence is to maintain its 
+integrity, forensic examiners must be careful with computer equipment. Therefore, it is 
+helpful to develop procedures to prevent the opposing party from raising allegations that the 
+methodology used to collect or analyze data was improper and could have damaged or 
+altered the evidence. It may also be helpful to use a hardware or software write-blocking 
+device to protect the integrity of digital evidence. These devices allow the user to acquire 
+Digital Forensics  Investigation 
+3.722   2011 Fraud Examiners Manual  
+information on a drive without damaging the drive contents by allowing read commands to 
+pass and blocking write commands.  
+ 
+A hardware write-blocking devise stops  any automated processes or incidental processes 
+that an operating system or examiner may use to interact with a piece of digital media. That 
+is, the devise tricks the operating system into believing that the interaction occurred so that it 
+will not generate an error and thwart the acquisition process. What actually happens is that 
+the write commands are intercepted and cached by the device instead of reaching the target; 
+therefore, no writes to the media occur. The device allows only read permissions to the 
+media.  
+ 
+The software write blocker, however, denies access to media by prohibiting certain requests 
+to the media by filtering out those requests. Only read requests are accepted and all write 
+requests are denied. Software write blockers must operate at a separate level than a standard 
+graphical user’s interface (GUI), such as in DOS mode. There are a number of these types of 
+devices on the market today made for all applications and media types. 
+ 
+Keyword Searches 
+Once the collection process is complete, examiners are left with large volumes of digital data 
+that may contain relevant or irrelevant information. At this point, the examiner must process 
+and filter the digital information to reduce the amount of data (commonly known as data 
+culling) that has been collected by performing keyword searches to identify relevant 
+information. 
+ 
+Keyword searches involve identifying relevant evidence by searching for words that are 
+material to a case (e.g., names, dates, account numbers, etc.). This type of search will 
+minimize the amount of time used to complete an analysis, and it will help protect the fraud 
+examiner from allegations that his search was overly broad. 
+ 
+Based on the information known about the case, the examiner should establish a list of 
+relevant keywords. Because enormous amounts of data will need to be searched in most 
+fraud examinations, examiners and investigators should take care in keeping the list as short 
+and relevant as possible, and they should avoid common words or words that can be part of 
+other words. As a case progresses, there is a strong likelihood that more keywords will be 
+identified. Furthermore, search terms can be devised to look for patterns in data. 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.723 
+Recovering Evidence 
+In addition to live files, a wealth of information can be recovered and analyzed on seized 
+systems. Because Windows operating systems are the most widely used, knowledge about the 
+file systems—methods used to store and organi ze computer files and the data they contain 
+for easy access—used by the Windows operating system is critical. Knowledge of the 
+Windows operating system will help the examiner locate relevant evidence that is commonly 
+found in files stored on hard drives, storage devices, and media.  
+ 
+Common files containing evidence stored in the operating system include user-created files, 
+user-protected files, and computer-created files.  
+ 
+User-created Files 
+User-created files are files created under the user’s direction, and include text-based 
+documents, spreadsheets, databases, e-mail, address books, presentation slides, audio/video 
+files, image files, Internet bookmarks, and so on.  
+ 
+User-protected Files 
+Often, users hide files to prevent them from being found. There are a variety of techniques 
+to hide files, but some of the most common methods are detailed below. 
+ 
+CAMOUFLAGED FILES 
+A user might camouflage certain files under an innocent name or different file extension to 
+prevent others from discovering them. For example, a suspect might change a file name 
+from “evidence.doc” to “install. exe” and place the file in a directory that stores program 
+files. Therefore, examiners should analyze a target’s hard drive to determine whether any file 
+types have been camouflaged. This is done by analyzing the file header — the first bits of data 
+in a file — which contains data identifying the file format. 
+ 
+STEGANOGRAPHY 
+Steganography is the process of hiding one piece of information within an apparently 
+innocent file. For example, a user can use the least significant bits of a bitmap image to hide 
+a message. By hiding the message in the least significant bits of an image, there is almost no 
+perceivable change in the bitmap image itself. And without directly comparing the altered 
+image to the original, it is practically impossible to tell that the image was altered.  
+ 
+  
+Digital Forensics  Investigation 
+3.724   2011 Fraud Examiners Manual  
+EXAMPLE 
+After a French defense contractor suspected that some of his critical designs were being 
+compromised, the government conducted an invest igation. The investigation revealed that an 
+employee had obtained his position at the company to steal the contractor’s trade secrets. To 
+transmit the trade secrets out of the company, the employee imbedded them into graphic images 
+used on the company’s public access website usin g steganography. Another party then copied the 
+image files from the website and extracted the proprietary designs.  
+ 
+Digitized audio files are another type of file that can be used to hide messages. For example, 
+by encoding a message in the least significant bits of a .WAV file, a user can make the 
+message almost impossible to detect. Messages can also be hidden in the unused sectors of a 
+floppy disk. 
+ 
+ENCRYPTION 
+Encryption refers to procedures used to convert information using an algorithm (called cipher) 
+that makes the information unreadable. Although there are many free and commercial 
+encryption programs available, there are two primary ways to access encrypted information. 
+First, there are numerous utility programs that can decrypt documents encrypted by many of 
+the more common software applications. In addition, some encryption programs have a 
+secret “key” for emergencies that may be very helpful in an investigation. There are also 
+several companies that specialize in decryption. 
+ 
+Second, there is precedent for forcing a suspect (or employee) to divulge his decryption 
+code. The computer is only a container and encryption is an additional lock prohibiting the 
+investigator from reviewing the files for potential evidence. An examiner with a legal right to 
+examine encrypted data is no different than ordering a suspect or employee to unlock a file 
+cabinet to inspect its contents.  
+ 
+ALTERNATE DATA STREAMS 
+Another method used to hide files in Windows systems is the use of the alternate data 
+streams of a file or directory. This method, however, is only possible in Windows New 
+Technology File System (NTFS) — one of two basic types of file systems used to organize 
+data in Windows systems. Alternate data streams are a feature in the NTFS filesystem that 
+offers the ability to put data into existing files and folders without affecting their 
+functionality, size, or display in many traditional file-browsing utilities like command line or 
+Windows Explorer. 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.725 
+Although Windows Explorer does not provide a way to see what alternate data streams are 
+in a file, they are easy to make and allow an individual with basic knowledge to hide files 
+without having to resort to any third-party tools. 
+ 
+Fortunately, there are forensic tools that can search NTFS partitions for alternative data 
+streams.  
+ 
+Computer-created Files 
+Evidence may also be found in information generated by the operating systems. This type of 
+information is important because it can identify that a certain activity has taken place, and, in 
+most cases, the user is not aware that it is being written. Some common examples of 
+computer-generated data available for examination include: metadata, registry, paging file, 
+event logs, LNK files, Internet activity, temporary data, deleted data, and printer-spool files.  
+ 
+METADATA 
+Metadata is data about data, and these file tidbits contain a tremendous amount of 
+information. It can help determine who wrote a document; who received, opened, copied, 
+edited, moved, or printed the document; and when these events occurred. 
+ 
+WINDOWS REGISTRY 
+The Windows registry is a central database that stores settings and configuration for the 
+operating system and most applications installed on the system. The registry is an important 
+source of potential evidential data because it contains information on user accounts, typed 
+URLs, networks shared, the run command history, and so on. Often, software used by the 
+fraudster will create a footprint in the registry that can provide valuable insight into relevant 
+activity that occurred in the system.  
+ 
+WINDOWS PAGING FILE 
+Operating systems have a limited supply of Random Access Memory (RAM), and if an 
+operating system runs out of physical RAM and needs more memory, it will move some of 
+the data outside physical memory and store it temporarily in a special file on the hard disk. 
+This file, which is called a paging file or a swap file, is used to simulate RAM. 
+ 
+WINDOWS EVENT LOGS 
+Event logs are files that record significant events on a computer. In Windows systems, there 
+are three types of events: system, applicat ion, and security. The system log tracks 
+Digital Forensics  Investigation 
+3.726   2011 Fraud Examiners Manual  
+miscellaneous system events, including events generated during system startup like hardware 
+and controller failures. The application log tracks application-related events and application 
+errors, such as failing to load a DLL. The security log, which is turned off by default, tracks 
+security-related events like logon and logoff times and changes to access rights.  
+ 
+LNK FILES 
+LNK files, which are also called shortcuts, refer (or link) to target files that may be 
+applications, documents, or system resources. Clicking on a LNK file will either cause the 
+application to start or the document to open, and will prompt the applicable system 
+resources to run. Although the user may create these files, the system generally creates them 
+when a user performs certain tasks. These files, therefore, provide a “history” of previously 
+opened documents and files.  
+ 
+INTERNET ACTIVITY 
+Web browsers create temporary files that store information about websites that a user has 
+visited. These files can show websites that were recently visited and usually include time and 
+date information relevant to the visit; they ca n also show images previously viewed online. 
+This information allows the examiner to recover websites and images previously viewed by 
+the system’s users. 
+ 
+TEMPORARY FILES 
+Applications will create temporary files like those created by Web browsers. For example, 
+certain communication software like instant messaging (IM) and chat software will keep a 
+history of the user’s conversations in a proprietary and sometimes encrypted format.  
+ 
+DELETED DATA 
+Deletion is a widely misunderstood function in computing because deleting data is not the 
+same as destroying data. Choosing the delete option erases the file’s reference from the table 
+of contents, but it does not erase the file; in fa ct, data is not erased from a computer’s hard 
+drive until the file is overwritten. 
+ 
+PRINTER-SPOOL FILES 
+It is sometimes possible to recover an image of the last page printed on a printer. When 
+computers running Windows operating systems print files, a print-spooling process occurs. 
+The process involves writing the print job to files, allowing users to keep working while the 
+print job runs in the background. After the user creates a print job, it is placed in a queue 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.727 
+and is printed when the printer becomes available to perform the job. Once printing is 
+complete, the operating system deletes the files;  but again, deleted files can be recovered. 
+ 
+ 
+
+
+
+:
+
+
+forens examin and analysi
+while everi fraud examin should have basic knowledg of comput evid and how to
+properli identifi collect and store digit evid some fraud examin mai decid to
+pursu addit train in the area of comput forens analysi the process of
+develop the skill set necessari to be a computerforens examin take a consider
+amount of time train and experi addition there ar a number of softwar and
+hardwar tool that ar now avail to conduct thi type of work the forens examin
+must be awar of these tool and understand how thei work
+again a forens analysi of a comput could involv the examin of a tremend
+volum of data in 1993 the averag hard disk wa 60 megabyt mb in size the standard
+size in 1999 wa 8 gigabyt gb and current the averag size of hard disk offer is
+between 120 gb and 19 terabyt
+forens examin will gener us at least two softwar tool on a project simultan
+to crossvalid their result it is also import to note that mani insuffici train
+examin who us autom tool do not in fact understand what the autom process is
+do it is extrem import to understand and be abl to articul how a tool is
+conduct an autom process thi mean that a forens examin who us an
+autom tool should be abl to explain how to conduct the same process manual
+becaus the primari concern when collect and analyz digit evid is to maintain it
+integr forens examin must be care with comput equip therefor it is
+help to develop procedur to prevent the oppos parti from rais alleg that the
+methodolog us to collect or analyz data wa improp and could have damag or
+alter the evid it mai also be help to us a hardwar or softwar writeblock
+devic to protect the integr of digit evid these devic allow the user to acquir
+digit forens investig
+3722 2011 fraud examin manual
+inform on a drive without damag the drive content by allow read command to
+pass and block write command
+a hardwar writeblock devis stop ani autom process or incident process
+that an oper system or examin mai us to interact with a piec of digit media that
+is the devis trick the oper system into believ that the interact occur so that it
+will not gener an error and thwart the acquisit process what actual happen is that
+the write command ar intercept and cach by the devic instead of reach the target
+therefor no write to the media occur the devic allow onli read permiss to the
+media
+the softwar write blocker howev deni access to media by prohibit certain request
+to the media by filter out those request onli read request ar accept and all write
+request ar deni softwar write blocker must oper at a separ level than a standard
+graphic user interfac gui such as in do mode there ar a number of these type of
+devic on the market todai made for all applic and media type
+keyword search
+onc the collect process is complet examin ar left with larg volum of digit data
+that mai contain relev or irrelev inform at thi point the examin must process
+and filter the digit inform to reduc the amount of data commonli known as data
+cull that ha been collect by perform keyword search to identifi relev
+inform
+keyword search involv identifi relev evid by search for word that ar
+materi to a case eg name date account number etc thi type of search will
+minim the amount of time us to complet an analysi and it will help protect the fraud
+examin from alleg that hi search wa overli broad
+base on the inform known about the case the examin should establish a list of
+relev keyword becaus enorm amount of data will need to be search in most
+fraud examin examin and investig should take care in keep the list as short
+and relev as possibl and thei should avoid common word or word that can be part of
+other word as a case progress there is a strong likelihood that more keyword will be
+identifi furthermor search term can be devis to look for pattern in data
+investig digit forens
+2011 fraud examin manual 3723
+recov evid
+in addit to live file a wealth of inform can be recov and analyz on seiz
+system becaus window oper system ar the most wide us knowledg about the
+file systemsmethod us to store and organi ze comput file and the data thei contain
+for easi accessus by the window oper system is critic knowledg of the
+window oper system will help the examin locat relev evid that is commonli
+found in file store on hard drive storag devic and media
+common file contain evid store in the oper system includ usercr file
+userprotect file and computercr file
+usercr file
+usercr file ar file creat under the user direct and includ textbas
+document spreadsheet databas email address book present slide audiovideo
+file imag file internet bookmark and so on
+userprotect file
+often user hide file to prevent them from be found there ar a varieti of techniqu
+to hide file but some of the most common method ar detail below
+camouflag file
+a user might camouflag certain file under an innoc name or differ file extens to
+prevent other from discov them for exampl a suspect might chang a file name
+from evidencedoc to instal ex and place the file in a directori that store program
+file therefor examin should analyz a target hard drive to determin whether ani file
+type have been camouflag thi is done by analyz the file header the first bit of data
+in a file which contain data identifi the file format
+steganographi
+steganographi is the process of hide on piec of inform within an appar
+innoc file for exampl a user can us the least signific bit of a bitmap imag to hide
+a messag by hide the messag in the least signific bit of an imag there is almost no
+perceiv chang in the bitmap imag itself and without directli compar the alter
+imag to the origin it is practic imposs to tell that the imag wa alter
+digit forens investig
+3724 2011 fraud examin manual
+exampl
+after a french defens contractor suspect that some of hi critic design were be
+compromis the govern conduct an invest igat the investig reveal that an
+employe had obtain hi posit at the compani to steal the contractor trade secret to
+transmit the trade secret out of the compani the employe imbed them into graphic imag
+us on the compani public access websit usin g steganographi anoth parti then copi the
+imag file from the websit and extract the proprietari design
+digit audio file ar anoth type of file that can be us to hide messag for exampl
+by encod a messag in the least signific bit of a wav file a user can make the
+messag almost imposs to detect messag can also be hidden in the unus sector of a
+floppi disk
+encrypt
+encrypt refer to procedur us to convert inform us an algorithm call cipher
+that make the inform unread although there ar mani free and commerci
+encrypt program avail there ar two primari wai to access encrypt inform
+first there ar numer util program that can decrypt document encrypt by mani of
+the more common softwar applic in addit some encrypt program have a
+secret kei for emerg that mai be veri help in an investig there ar also
+sever compani that special in decrypt
+second there is preced for forc a suspect or employe to divulg hi decrypt
+code the comput is onli a contain and encrypt is an addit lock prohibit the
+investig from review the file for potenti evid an examin with a legal right to
+examin encrypt data is no differ than order a suspect or employe to unlock a file
+cabinet to inspect it content
+altern data stream
+anoth method us to hide file in window system is the us of the altern data
+stream of a file or directori thi method howev is onli possibl in window new
+technolog file system ntf on of two basic type of file system us to organ
+data in window system altern data stream ar a featur in the ntf filesystem that
+offer the abil to put data into exist file and folder without affect their
+function size or displai in mani tradit filebrows util like command line or
+window explor
+investig digit forens
+2011 fraud examin manual 3725
+although window explor doe not provid a wai to see what altern data stream ar
+in a file thei ar easi to make and allow an individu with basic knowledg to hide file
+without have to resort to ani thirdparti tool
+fortun there ar forens tool that can search ntf partit for altern data
+stream
+computercr file
+evid mai also be found in inform gener by the oper system thi type of
+inform is import becaus it can identifi that a certain activ ha taken place and in
+most case the user is not awar that it is be written some common exampl of
+computergener data avail for examin includ metadata registri page file
+event log lnk file internet activ temporari data delet data and printerspool file
+metadata
+metadata is data about data and these file tidbit contain a tremend amount of
+inform it can help determin who wrote a document who receiv open copi
+edit move or print the document and when these event occur
+window registri
+the window registri is a central databas that store set and configur for the
+oper system and most applic instal on the system the registri is an import
+sourc of potenti evidenti data becaus it contain inform on user account type
+url network share the run command histori and so on often softwar us by the
+fraudster will creat a footprint in the registri that can provid valuabl insight into relev
+activ that occur in the system
+window page file
+oper system have a limit suppli of random access memori ram and if an
+oper system run out of physic ram and need more memori it will move some of
+the data outsid physic memori and store it temporarili in a special file on the hard disk
+thi file which is call a page file or a swap file is us to simul ram
+window event log
+event log ar file that record signific event on a comput in window system there
+ar three type of event system applicat ion and secur the system log track
+digit forens investig
+3726 2011 fraud examin manual
+miscellan system event includ event gener dure system startup like hardwar
+and control failur the applic log track applicationrel event and applic
+error such as fail to load a dll the secur log which is turn off by default track
+securityrel event like logon and logoff time and chang to access right
+lnk file
+lnk file which ar also call shortcut refer or link to target file that mai be
+applic document or system resourc click on a lnk file will either caus the
+applic to start or the document to open and will prompt the applic system
+resourc to run although the user mai creat these file the system gener creat them
+when a user perform certain task these file therefor provid a histori of previous
+open document and file
+internet activ
+web browser creat temporari file that store inform about websit that a user ha
+visit these file can show websit that were recent visit and usual includ time and
+date inform relev to the visit thei ca n also show imag previous view onlin
+thi inform allow the examin to recov websit and imag previous view by
+the system user
+temporari file
+applic will creat temporari file like those creat by web browser for exampl
+certain commun softwar like instant messag im and chat softwar will keep a
+histori of the user convers in a proprietari and sometim encrypt format
+delet data
+delet is a wide misunderstood function in comput becaus delet data is not the
+same as destroi data choos the delet option eras the file refer from the tabl
+of content but it doe not eras the file in fa ct data is not eras from a comput hard
+drive until the file is overwritten
+printerspool file
+it is sometim possibl to recov an imag of the last page print on a printer when
+comput run window oper system print file a printspool process occur
+the process involv write the print job to file allow user to keep work while the
+print job run in the background after the user creat a print job it is place in a queue
+investig digit forens
+2011 fraud examin manual 3727
+and is print when the printer becom avail to perform the job onc print is
+complet the oper system delet the file but again delet file can be recov

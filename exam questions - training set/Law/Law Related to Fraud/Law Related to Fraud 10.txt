@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of these offenses is used most often in federal white-collar prosecutions?
+
+Options=Embezzlement of government property | Interstate transportation of stolen property | "Honest services" | Mail fraud
+
+CorrectResponse=3
+
+Explanation=The mail fraud statute, because of its breadth, is considered to be the "workhorse" of federal prosecutions. It has been used for virtually all federal white-collar prosecutions.See page(s) 2.231 in the Fraud Examiner's Manual

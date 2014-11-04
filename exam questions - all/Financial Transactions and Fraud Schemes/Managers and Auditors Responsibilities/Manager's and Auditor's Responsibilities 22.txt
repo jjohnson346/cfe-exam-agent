@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=tion are primarily the responsibility of:	
+
+Options=Auditors | Fraud examiners | Management | Stockholders	
+
+CorrectResponse=2
+
+Explanation=Financial statements are the responsibility of the organization's management. In addition, fraud frequently is investigated by members of management or, at least, by people under the direction and control of management. This can present potential conflicts.See page(s) 334 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=In response to a risk identified during a fraud risk assessment, management may decide to implement appropriate countermeasures, such as prevention and detection controls. This response is known as:
+
+Options=Transferring the risk | Avoiding the risk | Assuming the risk | Mitigating the risk
+
+CorrectResponse=3
+
+Explanation=When responding to the organization's residual fraud risks, management can help mitigate a risk by implementing appropriate countermeasures, such as prevention and detection controls. The fraud risk assessment team should evaluate each countermeasure to determine if it is cost effective and reasonable given the probability of occurrence and impact of loss.See page(s) 4.822 in the Fraud Examiner's Manual

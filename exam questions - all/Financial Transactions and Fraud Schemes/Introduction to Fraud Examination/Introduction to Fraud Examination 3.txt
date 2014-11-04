@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Which of the following should NOT be included as part of the "fraud team" assembled to investigate a possible fraud?
+
+Options=Management representative | Suspect's supervisor | Auditors | Legal counsel
+
+CorrectResponse=1
+
+Explanation=Fraud examinations usually require a cooperative effort among different disciplines. A typical investigation team might include the following: Certified Fraud Examiners, auditors, security, human resources, management representative, outside consultant, and legal counsel. At least in the initial stages of the investigation, there would be no need to include the employee's direct supervisor especially when you do not know if the supervisor may be involved.

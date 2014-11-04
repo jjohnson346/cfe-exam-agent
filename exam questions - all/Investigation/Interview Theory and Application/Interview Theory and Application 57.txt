@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Martin, a fraud examiner, is conducting an interview of Stephen. Although Stephen heard all of the questions during the introductory part of the interview, when the questions become more focused, Stephen begins asking Martin to repeat almost every question. Which of the choices below is most likely the cause of Stephen's behavior?
+
+Options=Stephen's hearing aid is out of batteries | Stephen is delaying the answer so he has more time to think of what to say | Stephen loses his hearing during stressful situations | Stephen is testing Martin's ability to ask consistent questions
+
+CorrectResponse=1
+
+Explanation=Liars will frequently repeat the interviewer's question to gain more time to think of what to say. The deceptive individual will say, “What was that again?" or use similar language.See page(s) 3.239 in the Fraud Examiner's Manual

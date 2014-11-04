@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+obtained                               1
+authorization                          1
+actually                               1
+people                                 1
+forged                                 2
+recipient                              1
+of                                     1
+officers                               1
+someone                                1
+name                                   1
+written                                1
+when                                   1
+money                                  1
+bank                                   1
+else                                   1
+is                                     2
+authorizations                         1
+transfer                               1
+accounts                               1
+or                                     2
+the                                    2
+customers                              1
+forge                                  1
+in                                     1
+improperly                             1
+and                                    1
+oral                                   1
+account                                1
+orders                                 1
+own                                    1
+their                                  1
+
+Totals:                     32        37

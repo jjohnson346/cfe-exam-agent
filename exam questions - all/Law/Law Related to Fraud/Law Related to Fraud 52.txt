@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Misrepresentation in connection with the offer and sale of securities through the U.S. mails is a violation of which act?
+
+Options=The 1913 Securities Act | The 1933 Securities Act | The 1953 Securities Act | RICO
+
+CorrectResponse=1
+
+Explanation=The federal statutes most commonly used to prohibit fraudulent activity in connection with securities transactions are Section 17(a) of the Securities Act of 1933 (popularly known as the 1933 Act), and Rule 10b-5, promulgated under section 10(b) of the Securities Exchange Act of 1934 (the 1934 Act). Section 17(a) of the 1933 Securities Act makes it unlawful to employ fraudulent devices or misrepresentations in connection with the offer or sale of securities through jurisdictional facilities (such as the U.S. Mail).See page(s) 2.255 in the Fraud Examiner's Manual

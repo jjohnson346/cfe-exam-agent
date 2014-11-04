@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Bob is a fraud examiner. He wants to create a chart showing the suspects in his fraud case and the relationships among them. Which of the following software tools would be the most helpful?
+
+Options=i2 Analyst's Notebook | ActiveData | ACL | Monarch
+
+CorrectResponse=0
+
+Explanation=ACL, ActiveData, and Monarch are all software programs designed to analyze financial data. The i2 Analyst's Notebook offers several different visualization tools to create link charts and diagrams to show relationships and common elements among people or things.See page(s) 3.616, 3.620, 3.630-3.632 in the Fraud Examiner's Manual

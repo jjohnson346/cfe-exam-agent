@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In civil appeals, which of the following actions is NOT an option for the appeals court?
+
+Options=Enter a final judgment | Order a certain portion of the damages be remitted | Hear new evidence and render a verdict | Reverse verdict and order a new trial
+
+CorrectResponse=2
+
+Explanation=Both sides in a civil trial may appeal from an adverse verdict, either as to liability or damages. The appeals court may reverse and remand for a new trial, on some or all of the issues, may order that a certain portion of the awarded damages be remitted, or may enter final judgment, if legal grounds are clear, in favor of either party. The appellate court, however, cannot hear new evidence and render a verdict based on such evidence. It is limited to reviewing the evidence entered at trial.See page(s) 2.615-2.616 in the Fraud Examiner's Manual

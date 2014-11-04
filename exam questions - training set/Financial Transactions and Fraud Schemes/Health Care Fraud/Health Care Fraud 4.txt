@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Automated insurance or health care claims can be easily altered: therefore, it is important to document that claims received by the fraud examiner are in the same condition they were when they were processed.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Because automated claims are quite easily altered, the health care industry must ensure that claims are authentic. Fraud examiners must document that claims have been received in the same condition in which they were processed if they are to be admissible as evidence.See page(s) 1.1251 in the Fraud Examiner‰??s Manual

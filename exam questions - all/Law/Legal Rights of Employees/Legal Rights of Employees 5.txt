@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=There are exceptions for the Fourth Amendment requirement that police have search warrants. Which of the following is NOT an exception?
+
+Options=While in "hot pursuit" of a suspect | Searches incidental to arrest | The officer has a "reasonable belief that the suspect is guilty | Searches of motor vehicles
+
+CorrectResponse=2
+
+Explanation=There are a number of recognized exceptions to the warrant requirement, principally (1) searches incident to arrest; (2) searches of motor vehicles; (3) under emergencies, such as "hot pursuit"; (4) by voluntary consent; (5) when the evidence is in plain view; and (6) border, customs, and prison searches. However, reasonable belief that a person is guilty' is not an exception.See page(s) 2.418-2.419 in the Fraud Examiner's Manual

@@ -1,0 +1,45 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Internet Fraud/Pharming
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Pharming 
+Pharming  is an attack in which a user is fooled into entering sensitive data (such as a password 
+or credit card number) into a malicious website that impersonates a legitimate website. It is 
+different from phishing in that the attacker does not have to rely on having the user click on 
+a link in the e-mail to direct him to the fake website. Pharming actually exploits a 
+vulnerability in the DNS server software that allows a hacker to acquire the domain name for 
+a site and redirect the website traffic from a legitimate site to a false one. So even though the 
+user types in the correct website address, the pharming program sends the user to an 
+illegitimate site that looks like the real thing. Unknowingly, the user is then providing 
+passwords and information directly to the hacker. 
+ 
+
+
+
+:
+
+
+pharm
+pharm is an attack in which a user is fool into enter sensit data such as a password
+or credit card number into a malici websit that imperson a legitim websit it is
+differ from phish in that the attack doe not have to reli on have the user click on
+a link in the email to direct him to the fake websit pharm actual exploit a
+vulner in the dn server softwar that allow a hacker to acquir the domain name for
+a site and redirect the websit traffic from a legitim site to a fals on so even though the
+user type in the correct websit address the pharm program send the user to an
+illegitim site that look like the real thing unknowingli the user is then provid
+password and inform directli to the hacker

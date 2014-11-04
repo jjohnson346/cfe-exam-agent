@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Which of the following methods might conceal a sham loan to a borrower, with the loan officer receiving part of the proceeds (kickback)?
+
+Options=Paying off the old loan with proceeds from a new loan | Charging off the loan as a bad loan | "Digging" the loan on the books | Both charging the loan off as a bad loan and paying off the old loan with proceeds from a new loan
+
+CorrectResponse=3
+
+Explanation=Loan officers will sometimes make loans to accomplices who then share all or part of the proceeds v/ith the lending officer In some instances, the loans are charged off as bad debts; in other instances, the bogus loans are paid off with the proceeds of new fraudulent loans.See page(s) 1.903 in the Fraud Examiner's Manual

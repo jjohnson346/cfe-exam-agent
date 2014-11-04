@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Internal controls that govern the day-to-day operation of the computer system are referred to as:
+
+Options=Implementation controls | System software controls | Computer operations controls	| Data file controls
+
+CorrectResponse=2
+
+Explanation=Computer operations controls are controls that govern the day-to-day operation of the computer system. There should be an approved schedule for all production runs. All system activity should be reviewed by data center management. Any unusual program executions should be investigated and resolved. A log of unusual events, such as abends (abnormal terminations of a program execution) or reruns should be kept by operations staff and also be reviewed by data center management. Access to the computer room should be restricted to authorized personnel. All third parties, such as repairmen, should be accompanied by a data center employee. Doors to the data center should be secured.See page(s) 1.1843 in the Fraud Examiner's Manual

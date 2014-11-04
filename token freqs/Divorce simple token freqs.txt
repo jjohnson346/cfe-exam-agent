@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+insurance                              1
+to                                     1
+but                                    1
+for                                    1
+remains                                1
+party                                  1
+who                                    1
+of                                     1
+file                                   1
+spouse                                 1
+divorce                                2
+covered                                1
+claims                                 1
+submit                                 1
+notifies                               1
+a                                      1
+at                                     1
+the                                    3
+and                                    1
+neither                                1
+ex-spouse                              1
+record                                 1
+insured                                1
+address                                1
+an                                     1
+company                                1
+continues                              1
+
+Totals:                     27        30

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following statements is INCORRECT with respect to mail fraud?
+
+Options=The mailing must contain the false or fraudulent misrepresentation | The scheme need not be a success | The postal system must be used | The victim need not suffer a loss
+
+CorrectResponse=0
+
+Explanation=The mailing does not need to contain the false and fraudulent representations, as long as it is an integral part of the scheme. What is integral or incidental depends on the facts of each case; generally a mailing that helps advance the scheme in any significant way will be considered sufficient.See page(s) 2.231 in the Fraud Examiner's Manual

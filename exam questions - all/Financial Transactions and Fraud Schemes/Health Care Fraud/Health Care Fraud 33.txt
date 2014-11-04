@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Hospitals never receive kickbacks from revenue recovery firms.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Often hospitals are unaware (sometimes intentionally) of the extent of the fraud committed by revenue recovery firms. In other cases, however, revenue firms report that they will contact a hospital or nursing home directly and tell the institution that if it will give them its bills, they will split the profit produced by the added charges.See page(s) 1.1232-1.1233 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=All of the following are sources of information for the financial profile. Which is considered the MOST important?
+
+Options=Third-party witnesses | The bank account records | The suspect/recipient | None of the above
+
+CorrectResponse=1
+
+Explanation=Bank records are perhaps the single most important financial source available to a fraud examiner. In addition to their use as evidence for fraud, a bank s records might provide leads on sources of funds, expenditures, and personal affairs.See page(s) 3.805 in the Fraud Examiner's Manual

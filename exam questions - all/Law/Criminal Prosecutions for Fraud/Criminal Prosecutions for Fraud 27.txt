@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The Supreme Court has held that police must have probable cause to briefly detain and question a person.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In Terry vs. Ohio. 392 U.S. 1 (1968). the Supreme Court held that police may briefly detain and question a person for investigative purposes if there are specific "articulable" reasons to do so The decision imposes a lesser standard than probable cause.See page(s) 2.503 in the Fraud Examiner's Manual

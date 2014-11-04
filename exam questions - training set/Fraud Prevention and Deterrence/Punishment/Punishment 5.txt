@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=____________________________ correctional programs emphasize the use of neighborhood residential centers, halfway houses, and pre-release centers.
+
+Options=Probation | Community-based | Parole | None of the above
+
+CorrectResponse=1
+
+Explanation=To ease overcrowding, community-based correctional facilities have become commonplace. While some persons might be sentenced directly to such programs, they typically house individuals who have completed some time inside institutional walls. Community-based programs emphasize the use of neighborhood residential re-entry centers (also known as halfway houses), comprehensive sanction centers, and home confinement.See page(s) 4.314 in the Fraud Examiner's Manual

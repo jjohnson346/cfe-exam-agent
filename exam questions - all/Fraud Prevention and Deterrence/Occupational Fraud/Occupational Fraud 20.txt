@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=One researcher found that embezzlers were likely to have three factors accounting for their crimes: immediate financial need, perceived opportunity, and rationalization. The person responsible for this theory of embezzlement is:
+
+Options=William R.R. Parnell | Edwin H. Sutherland | Donald R. Cressey | None of the above
+
+CorrectResponse=2
+
+Explanation=Over the years, Cressey's hypothesis has become more well known as the “fraud triangle." One leg of the triangle represents a perceived unsharable financial need. The second leg is for perceived opportunity, and the final is for rationalization. The role of the nonsharable problem is important. Cressey said, “When the trust violators were asked to explain why they refrained from violation of other positions of trust they might have held at previous times, or why they had not violated the subject position at an earlier time, those who had an opinion expressed the equivalent of one or more of the following quotations: (a) There was no need for it like there was this time.’ (b) The idea never entered my head.’ (c) ‘I thought it was dishonest then, but this time it did not seem dishonest at first."’See page(s) 4.603 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The procedure by which the prosecution or defense dismisses a prospective juror without giving a reason is called:
+
+Options=The dedi et concessi | The voir dire | A peremptory challenge | The declinatory challenge
+
+CorrectResponse=2
+
+Explanation=Most criminal cases are tried with a jury of 12, with two alternates, but the parties may stipulate to a lesser number. The parties or the court may "voir dire" (ask questions of) the prospective jurors to determine their suitability or impartiality. Each party may remove any number of prospective jurors for cause, and each side has a limited number of "peremptory challenges," depending on the offense charge, under which a party may strike a prospective juror without having to give any reason.See page(s) 2.517 in the Fraud Examiner's Manual

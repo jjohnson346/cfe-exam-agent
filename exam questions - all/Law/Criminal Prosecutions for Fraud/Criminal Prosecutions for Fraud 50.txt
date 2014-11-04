@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which of the following statements is NOT correct about a grand jury hearing?
+
+Options=The accused has no right to be informed of the jury's deliberations | It is an adversarial hearing | The accused has no right to be informed of the evidence against him | The accused cannot confront the accusers
+
+CorrectResponse=1
+
+Explanation=The grand jury hearing is a nonadversarial proceeding. The accused has no right to be informed of its deliberations, to know the evidence against him, or to confront the accusers. The accused also has no absolute right to appear before it, and if he does, may not be accompanied by counsel. The accused may, however, periodically leave the grand jury to consult with the attorney.See page(s) 2.506 in the Fraud Examiner's Manual

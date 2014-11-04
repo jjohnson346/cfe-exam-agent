@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=In order to prevent inventory theft, the personnel who requisition inventory should be in charge of receiving and verifying inventory shipments.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Different personnel should handle the following duties:‰?¢	Requisition of inventory‰?¢	Receipt of inventory‰?¢	Disbursement of inventory‰?¢	Conversion of inventory to scrap‰?¢	Receipt of proceeds from disposal of scrapSee page(s) 271 in the Corporate Fraud Handbook

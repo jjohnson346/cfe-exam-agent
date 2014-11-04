@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=A ________________	is a fictitious entity created for the sole purpose of committing fraud.
+
+Options=Nonaccomplice vendor | Fraudulent invoice | Shell company | Charter company
+
+CorrectResponse=2
+
+Explanation=Shell companies are fictitious entities created for the sole purpose of committing fraud. They may be nothing more than a fabricated name and a post office box that an employee uses to collect disbursements from false billings. However, since the checks received will be made out in the name of the shell company, the perpetrator will normally also set up a bank account in the shell company‰??s name.See page(s) 186 in the Corporate Fraud Handbook

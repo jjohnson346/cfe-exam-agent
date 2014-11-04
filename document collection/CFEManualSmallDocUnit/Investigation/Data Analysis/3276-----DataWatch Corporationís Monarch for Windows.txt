@@ -1,0 +1,121 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/DataWatch Corporation’s Monarch for Windows
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+DataWatch Corporation’s Monarch for Windows 
+Monarch is report-mining software. Monarch is unique because it extracts data from existing 
+reports created by other programs, and then converts the data into actionable data (e.g., text 
+files, spreadsheets, or database tables). For example, electronic data that is retrieved from an 
+accounting system, or downloaded from an online source, can be broken down into 
+individual records by Monarch’s model. Monarch can read report files produced on any 
+mainframe, midrange, client/server, or PC system. These files are commonly known as print 
+files, spool files, TXT files, formatted ASCII files, PRN files, and SDF files. Monarch can 
+also read DBF files and delimited ASCII files.  
+ 
+Once the data is actionable, it can be analyzed. That is, the records can be manipulated by 
+data analysis applications like Access and Excel. 
+ 
+Monarch specializes in reading complex reports in ASCII (plain text) format. Its data mining 
+capabilities are useful for data integrity testing. Monarch can be used by itself or in tandem 
+with other audit software such as ACL., but it will provide the most benefit when used in 
+conjunction with another data analysis tool. 
+ 
+Monarch serves three main functions for investigators: 
+• Performs automated auditing tests and tests of various program controls 
+• Verifies data on management or exter nal party report-generation accuracy 
+• Proactively identifies errors and fraudulent activity 
+ 
+Moreover, examiners can use Monarch to perform several functions in a financial analysis or  
+risk assessment: 
+• Summary window: To summarize information by a different criteria than the report did 
+• Sorting data within the Table window: To generate an alphabetically sorted list or to identify 
+the largest or smallest transactions 
+• Time series analysis : To compile information from 12 separate reports into a month-by-
+ month summary, allowing the investigator to identify trends 
+• Graphing data within the Summary window : To graph any information in the Summary 
+window into a pie, area, line, or bar chart quickly to visualize composition, trends, or 
+distribution (this chart function is much more straightforward than in spreadsheet 
+programs, such as MS Excel and Lotus 1-2-3) 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.631 
+• Create calculated fields: To perform custom calculations on ex isting data fields or new fields 
+not present in the original file 
+ 
+Here are a few practical examples of Monarch’s investigative capabilities. The software 
+allows investigators to: 
+• View the 20 largest vendors by invoice am ount to compare the amounts with their 
+expectations of those amounts 
+• Summarize by purchase order number to determine if the sum of all transactions related 
+to a purchase order exceed the amount authorized by the purchase order 
+• Measure transaction volume and amount processed by each input clerk to identify 
+unusual activity 
+• Compare budget versus actual figures by computing a difference field 
+• Chart customer delinquency trends for the past 12 months 
+ 
+For more information about Monarch, visit www.datawatch.com. 
+ 
+
+
+
+:
+
+
+datawatch corpor monarch for window
+monarch is reportmin softwar monarch is uniqu becaus it extract data from exist
+report creat by other program and then convert the data into action data eg text
+file spreadsheet or databas tabl for exampl electron data that is retriev from an
+account system or download from an onlin sourc can be broken down into
+individu record by monarch model monarch can read report file produc on ani
+mainfram midrang clientserv or pc system these file ar commonli known as print
+file spool file txt file format ascii file prn file and sdf file monarch can
+also read dbf file and delimit ascii file
+onc the data is action it can be analyz that is the record can be manipul by
+data analysi applic like access and excel
+monarch special in read complex report in ascii plain text format it data mine
+capabl ar us for data integr test monarch can be us by itself or in tandem
+with other audit softwar such as acl but it will provid the most benefit when us in
+conjunct with anoth data analysi tool
+monarch serv three main function for investig
+perform autom audit test and test of variou program control
+verifi data on manag or exter nal parti reportgener accuraci
+proactiv identifi error and fraudul activ
+moreov examin can us monarch to perform sever function in a financi analysi or
+risk assess
+summari window to summar inform by a differ criteria than the report did
+sort data within the tabl window to gener an alphabet sort list or to identifi
+the largest or smallest transact
+time seri analysi to compil inform from 12 separ report into a monthbi
+month summari allow the investig to identifi trend
+graph data within the summari window to graph ani inform in the summari
+window into a pie area line or bar chart quickli to visual composit trend or
+distribut thi chart function is much more straightforward than in spreadsheet
+program such as ms excel and lotu 123
+investig data analysi and report tool
+2011 fraud examin manual 3631
+creat calcul field to perform custom calcul on ex ist data field or new field
+not present in the origin file
+here ar a few practic exampl of monarch investig capabl the softwar
+allow investig to
+view the 20 largest vendor by invoic am ount to compar the amount with their
+expect of those amount
+summar by purchas order number to determin if the sum of all transact relat
+to a purchas order exce the amount author by the purchas order
+measur transact volum and amount process by each input clerk to identifi
+unusu activ
+compar budget versu actual figur by comput a differ field
+chart custom delinqu trend for the past 12 month
+for more inform about monarch visit wwwdatawatchcom

@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The term "financial institution" as defined by the Bank Secrecy Act includes not only banks, but car dealers and travel agencies as well.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The term “financial institution�? as it is defined under the Bank Secrecy Act (BSA) includes banks, broker-dealers, insurance companies, money services businesses, car and airplane dealers, travel agencies, and casinos.See page(s) 1.1620 in the Fraud Examiner’s Manual

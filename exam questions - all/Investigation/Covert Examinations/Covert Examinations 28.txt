@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=A covert operation is designed to obtain legal and admissible evidence through the use of agents whose true role is undisclosed to the target.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A covert operation is designed to obtain evidence through the use of agents whose true role is undisclosed to the target. Covert operations require the highest degree of skill and planning. Used in a timely manner with great care, a covert operation can produce results that cannot be achieved in any other way. Used incorrectly or handled badly, covert operations can lead to embarrassment, serious financial liability, injury, and even death.See page(s) 3.301 in the Fraud Examiner's Manual

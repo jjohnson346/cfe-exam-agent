@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In a company suspected of making disguised on-book payments of illicit income for purposes of paying bribes, all of the following company records would likely be relevant EXCEPT:
+
+Options=Second endorsements | Location where the check was negotiated | Cash receipt journals | Endorsement on the check
+
+CorrectResponse=2
+
+Explanation=After a preliminary examination, the fraud examiner should focus on the most suspect payments, noting in particular the following: endorsement of the check, location where the check was negotiated, checks with a second endorsement checks payable to a business which were cashed and not deposited, and checks which fall into an unexplained pattern.See page(s) 1.723-1.725 in the Fraud Examiner's Manual

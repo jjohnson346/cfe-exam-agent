@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Many fraud cases are proved entirely by direct evidence, therefore, only rarely is it necessary to infer intent.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Many fraud cases are proved entirely by circumstantial evidence, or by a combination of circumstantial and direct evidence, but seldom by direct evidence alone. The most difficult element to prove in many fraud cases?fraudulent intent?is usually proved circumstantially, and necessarily so. because direct proof of the defendant?s state of mind, absent a confession or the testimony of a co-conspirator, is impossible. See page(s) 2.702 in the Fraud Examiner's Manual

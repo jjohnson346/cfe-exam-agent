@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Gray, an independent Certified Fraud Examiner, was hired by Green, president of the ABC Corporation, to investigate a routine embezzlement case. Gray learns during the investigation that Green is involved in an unrelated fraud. Under the Certified Fraud Examiner Code of Professional Ethics, Gray should:
+
+Options=Tell the Board about Green | Resign the engagement | Not disclose the information about Green | None of the above
+
+CorrectResponse=0
+
+Explanation=Certified Fraud Examiners must be very careful. In this particular case, the Board should probably be advised. In general, Certified Fraud Examiners are not obligated to blow the whistle on clients or employers. However, circumstances may exist where the Certified Fraud Examiner is morally and legally justified in making disclosures to appropriate outside parties. Such circumstances include (1) when a client or employer has intentionally involved a Certified Fraud Examiner in its illegal conduct, or (2) where a client or employer has distributed misleading reports based on the Certified Fraud Examiner's work. Although the examiner could theoretically resign, such action would be tantamount to allowing the conspiracy or fraud to continue without anyone's being aware of the fraud. Certified Fraud Examiners would not be able to justify doing nothing.See page(s) 4.1019 in the Fraud Examiner’s Manual

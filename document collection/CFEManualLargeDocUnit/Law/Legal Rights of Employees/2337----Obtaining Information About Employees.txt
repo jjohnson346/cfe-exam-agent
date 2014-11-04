@@ -1,0 +1,755 @@
+2011 Fraud Examiners Manual/Law/INDIVIDUAL RIGHTS DURING EXAMINATIONS/Obtaining Information About Employees
+
+
+:
+
+
+Law
+
+
+:
+
+
+Legal Rights of Employees
+
+
+:
+
+
+Obtaining Information About Employees 
+ 
+Introduction 
+There is a surprising amount of information about individuals that can be accessed without 
+legal process (e.g., a subpoena). In fact, the government is bound by law to facilitate the 
+public’s access to government information and to  encourage a diversity of sources to acquire 
+and use this information. But despite the public’s broad right of access, there are numerous 
+laws that limit access to certain types of information, and a number of risks to privacy are 
+raised by the collection of information. Therefore, fraud examiners must be certain that 
+information obtained is done so legally.  
+ 
+Federal Statutes 
+Privacy Act of 1974 
+The Privacy Act of 1974 establishes a code of information practices that regulates the 
+collection, maintenance, consumption, and diffusion of personally identifiable information 
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.439 
+that is maintained by federal agencies. It restricts information about individuals, both 
+employees and nonemployees, and it applies to government agencies and government 
+contractors running a system of records on behalf of the government. The Privacy Act 
+prohibits an agency from disclosing such information without the written consent of the 
+subject individual. 
+ 
+An agency, for example, might maintain records about a person containing information that 
+is relevant and necessary to accomplish a purpose of the agency. This information might 
+include a person’s education, finances, medical history, criminal history, employment history, 
+and identifying information (fingerprint, voiceprint, or photograph). An agency employee 
+might have access to the information unless it is investigatory material compiled for law 
+enforcement purposes, statistical records, or material compiled solely for determining 
+suitability, eligibility, or qualification for federal service or promotion. 
+ 
+Fair Credit Reporting Act 
+One of the primary statutes limiting access to information is the federal Fair Credit 
+Reporting Act (FCRA). This statute regulates the dissemination of consumer information to 
+third parties by consumer reporting agencies. Historically, the FCRA only applied to 
+consumer credit reports, but due to amendments in 1997, the FCRA now applies to the 
+gathering of many other types of information about an individual through third parties.  
+ 
+The FCRA prohibits consumer reporting agencies from releasing personal information 
+about an individual (e.g., information about the consumer’s character, general reputation, 
+personal characteristics, or mode of living) to third parties without authorization, and limits 
+disclosure of credit information to third parties with a purpose permitted by the statute. 
+ 
+The FCRA applies in the employment context when an employer contracts with a third party 
+(e.g., a private investigator or an online public records service) to collect credit information 
+on current or potential employees. The FCRA, however, does not apply if the person or 
+organization seeking the information gathers it directly from the source.  
+ 
+If the FCRA does apply, it generally means that an examiner cannot use a third party to 
+obtain certain information about a person unless that person has received certain notices and 
+signed a consent form. The failure to do so can mean civil penalties.  
+ 
+Individual Rights During Examinations Law 
+2.440  2011 Fraud Examiners Manual  
+COVERAGE UNDER THE FCRA 
+Coverage of the FCRA, however, turns largely on three terms: consumer, consumer reports, 
+and consumer reporting agency.  
+ 
+CONSUMER  
+At its core, the FCRA protects those that fall within its definition of consumer. The Act 
+defines a consumer as “an individual.” That is, only individuals have rights under the FCRA.   
+ 
+CONSUMER REPORTS  
+For the FCRA to apply, the information that is being obtained must be a “consumer report.” 
+A consumer report  is defined as any written, oral, or other communication by a consumer-reporting 
+agency bearing on a customer’s cred it worthiness, credit standing, character, 
+general reputation, personal characteristics, or mode of living. 
+ 
+The Federal Trade Commission (FTC), which is the federal agency responsible for 
+enforcement of the FCRA, has interpreted this to mean basically any information collected 
+on a person. It does not refer to just credit reports. It would also apply to public records 
+such as criminal records and DMV searches. 
+ 
+But in general, when faced with the question of whether a specific report is a consumer 
+report, courts have focused on the purpose for which the person or organization collected 
+the consumer information. 
+ 
+CONSUMER REPORTING AGENCY  
+Also, for the FCRA to apply, the information must be gathered from a “consumer reporting 
+agency” (CRA). A CRA is defined as anyone who sells in formation about people. It could be 
+an online service such as ChoicePoint or LexisNex is, or it could be a private investigator. 
+ 
+COMPLYING WITH THE FCRA 
+Before employers can get a consumer report about a current or prospective employee, they 
+must comply with certain requirements; however, employers that are gathering such 
+information in connection with a workplace investigation of misconduct may be excluded 
+from the FCRA (see the section “Workplace Investigations of Fraud and Misconduct” 
+below).  
+ 
+  
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.441 
+If the FCRA applies, the party seeking the information must comply with the following 
+requirements:  
+• Inform the consumer reporting agency that it will follow the FCRA. 
+• Provide the individual with a separate written disclosure.  
+• Obtain the individual’s written authorization.  
+ 
+The disclosure and the authorization can be contained in the same document. 
+ 
+If, however, an employer relies on a consumer report for an “adverse action” (e.g., denying a 
+job application, reassigning or terminating an employee, or denying a promotion), it must 
+provide the individual with a pre-adverse action disclosure before taking the adverse action. 
+This disclosure must include a copy of the individual’s consumer report and a copy of “A 
+Summary of Your Rights Under the Fair Credit Reporting Act,” which is available from the FTC. 
+ 
+After adverse action is taken, the employer must notify the individual via an adverse action 
+notice that the action has been taken. That notice must include the following: 
+• Name, address, and phone number of the consumer reporting agency (CRA) that 
+supplied the report 
+• A statement that the CRA did not make the adverse action decision and cannot explain 
+why the adverse action was taken 
+• A notice of the individual’s right to di spute the accuracy or completeness of the 
+information furnished, and his right to an additional free consumer report from the 
+agency upon request within 60 days 
+ 
+WORKPLACE INVESTIGATIONS OF FRAUD AND MISCONDUCT 
+Furthermore, the Fair and Accurate Credit Transactions Act of 2003 amended the FCRA to 
+exempt certain reports involving employee misconduct investigations. As a result of these 
+amendments, an employer who uses a third party to conduct a workplace investigation no 
+longer has to obtain the prior consent of an employee if the investigation involves suspected: 
+• Misconduct 
+• Violation of law or regulations 
+• Violation of any pre-existing policy of the employer 
+ 
+To qualify for this exception, the report from the third party must not be communicated to 
+anyone other than the employer, an agent of the employer, or the government. 
+Individual Rights During Examinations Law 
+2.442  2011 Fraud Examiners Manual  
+If, however, adverse action is taken against the employee based on the results of the 
+investigation, the FCRA still requires that the employer provide the employee with a 
+summary of the report. Adverse action is broadly defined as any employment decision that 
+adversely affects the employee. The summary must “contain the nature and substance of the 
+communication upon which the adverse action is based.” However, it does not have to 
+identify the individuals interviewed or the sources of the information. 
+ 
+INVESTIGATIVE CONSUMER REPORT 
+The FCRA also covers “investigative consumer reports.” Under the FCRA, an investigative 
+consumer report is a report containing information about an individual’s character, general 
+reputation, personal characteristics, or mode of living that is obtained through personal 
+interviews with neighbors, friends, or associates. If such a report is made, then other notices 
+and consents may need to be obtained from the individual. For example, a separate 
+disclosure must be used to inform the employee that an investigative consumer report is 
+being obtained. The form must also state what sort of information will be collected. 
+ 
+In addition, the company must disclose to the individual the nature and scope of the 
+investigation (if he requests). If any adverse action is to be taken against the person, he can 
+ask to receive a copy of the report before such action is taken. Further, the report given to 
+the individual must not be redacted, meaning that if the report contains names of the people 
+providing the information and what they reported, such information could not be deleted 
+from the report. The person must also be given an opportunity to dispute the findings in the 
+report. 
+ 
+CONTACT YOUR ATTORNEY 
+Unfortunately, for fraud examiners, the FCRA has created several more hoops that 
+examiners must jump through before they can obtain certain types of information. The 
+FCRA is not clearly written, but the Federal Trade Commission has published several letters 
+giving its interpretation of the statute. These letters and the text of the FCRA can be 
+obtained through their website at www.ftc.gov.  
+ 
+The most important thing for the fraud examiner to remember is to consult his in-house or 
+outside counsel. Your attorney will help you determine what procedures you need to 
+institute to comply with the FCRA. 
+ 
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.443 
+Gramm-Leach-Bliley Act 
+The Gramm-Leach-Bliley Act (GLB) was passed in 1999, and the rules implementing the 
+Act became final in 2001. GLB was originally enacted to allow banks and other companies 
+to offer previously forbidden services, such as insurance and securities brokerage services. 
+Congress was worried that these “super banks” would share customers’ financial data with 
+affiliates and other companies to hawk their new products. Therefore, Congress added a 
+provision requiring a “financial intuition” to tell customers about its privacy policy, to notify 
+them of private information the institution intends to share, and to give customers the 
+chance to block such information-sharing. 
+ 
+To implement the law, Congress ordered regulators to define financial institution in the 
+broadest possible terms. Thus, financial institutions include not just banks, but also insurance 
+companies, accountants, tax preparation and real estate settlement services, and investment 
+advisors. The text of the rule can be found at 16 C.F.R. Part 313.1. Additional information 
+about the rule can be found at the Federal Trade Commission’s website: www.ftc.gov. 
+ 
+The problem for fraud examiners is that the privacy rules implemented as part of GLB have 
+been interpreted to prevent the selling of credit header information. Under the FTC’s 
+interpretation of the rule, credit header information cannot be sold except for the very 
+limited purposes allowed under the Fair Credit Reporting Act. The agency reached this 
+decision by concluding that such basic personal information, such as names and addresses, is 
+“financial” information and therefore must be protected under GLB. Unfortunately, this 
+prevents credit bureaus from selling credit header information (including names, addresses, 
+phone numbers, and Social Security numbers) to private investigators, direct marketers, or 
+other information brokers. 
+ 
+GLB also made it a criminal offense to engage in “pretexting,” (i.e., the practice of obtaining 
+or attempting to obtain, sell, or buy private information through the use of false pretenses). 
+Some individuals used pretexting as a means to gather financial information about a subject. 
+Pretexters would contact a financial institution and pretend to be the customer or someone 
+else authorized to obtain financial information, thereby tricking the financial institution into 
+providing information about the subject. 
+ 
+Section 6821 of Title 15, U.S. Code, (added by GLB) makes it an offense to: 
+• Use false, fictitious, or fraudulent statements or documents to get customer information 
+from a financial institution or directly from a customer of a financial institution 
+Individual Rights During Examinations Law 
+2.444  2011 Fraud Examiners Manual  
+• Use forged, counterfeit, lost, or stolen documents to get customer information from a 
+financial institution or directly from a customer of a financial institution 
+• Ask another person to get someone else’s custom er information using false, fictitious, or 
+fraudulent statements; using false, fictitious, or fraudulent documents; or using forged, 
+counterfeit, lost, or stolen documents 
+ 
+Violators can, under certain circumstances, be fined and/or imprisoned up to 10 years. 
+ 
+Telephone Records and Privacy Protection Act of 2006 
+The Telephone Records and Privacy Protection Act of 2006 (TRPPA) also criminalizes 
+pretexting. In 2006, pretexting garnered much criticism after Hewlett-Packard admitted that 
+to uncover board room leaks, its investigators obtained phone records of journalists and 
+board members through pretexting. Within four months of the scandal’s public release, 
+President Bush signed the TRPPA into law. 
+ 
+Specifically, the TRPPA criminalizes the practice of obtaining and attempting to obtain, sell, 
+or buy confidential phone records through the use of false statements, unless otherwise 
+permitted by law. Violations of the Act are criminal, and, if convicted, a violator faces up to 
+10 years in prison and up to $100,000 in fines. These fines and prison terms may be 
+increased in case of violation compounded with other activities, or some egregious crimes. 
+ 
+Before engaging in any type of pretexting activity, investigators should consult with an 
+attorney to determine whether the information sought is protected by state or federal law, as 
+well as whether the planned impersonation method is legally acceptable. 
+ 
+Health Insurance Portability and Accountability Act (Public Law 104–191, Partially Codified in 45 C.F.R. §§ 160, 164) 
+The Health Insurance Portability and Accountability Act (HIPAA) instituted several privacy 
+rules concerning personal health information. While most of the rules do not directly affect 
+investigations, fraud examiners should be aware of the rules because they may have an 
+impact on the type of information that can be legally gathered on employees.  
+ 
+The HIPAA privacy rules place restrictions on the availability and use of “protected health 
+information.” The definition of this term is extremely broad and covers any information 
+relating to an individual’s past, present, or future physical or mental health, payment for 
+services, or health care operations. For example, a cancer center employee who stole a 
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.445 
+patient’s identification information to obtain credit cards violated HIPAA. This case marked 
+a significant point in HIPAA legislation because it had more to do with identity theft than 
+actual health information, yet it was still covered under the statute. 
+ 
+If information about the health of an individual, or payments for services, becomes an issue 
+during an investigation, the examiners should immediately contact the human resources 
+(HR) department, which should have information about whether the entity is subject to the 
+HIPAA rules and can assist you in compliance with those rules.  
+ 
+The most important thing to note is that if the HIPAA rules apply, the party seeking the 
+information is restricted as to the type of health information it can access without specific 
+written authorization. Examiners should never contact the health care provider, the health 
+plan administrator, or a medical billing services for copies of employee records without first 
+consulting the employer’s legal counsel or HR department. 
+ 
+Avoiding Liability for Obstruction of Justice and Witness Tampering 
+It is assumed that no CFE would knowingly or intentionally suborn perjury, conceal 
+evidence, or otherwise attempt to undermine a government investigation or a judicial 
+proceeding. But it is important to understand the potential for liability for these offenses 
+during a fraud examination. 
+ 
+To understand what conduct could lead to accusations of impropriety or criminal liability, 
+fraud examiners should be familiar with the following federal statutes. There may be 
+additional state statutes that prohibit similar conduct in connection with state investigations 
+or even state civil lawsuits. An attorney should be consulted for the law of a specific 
+jurisdiction.  
+ 
+Witness Tampering (18 U.S.C. § 1512 et seq.) 
+The Victim and Witness Protection Act, 18 U.S.C. § 1512 et seq., makes it a felony to engage 
+in “misleading conduct toward another person” with the intent to “influence, delay, or 
+prevent” a witness’s testimony or to “cause or induce any person” to “withhold” testimony 
+or documents.  
+ 
+Section 1512(b)(2)(a) makes it a crime to (1) knowingly; (2) use intimidation or physical 
+force, threats, or corrupt persuasion; (3) with the intent to induce another; (4) to withhold 
+testimony, a record, document, or other object from an official proceeding; or (5) alter, 
+Individual Rights During Examinations Law 
+2.446  2011 Fraud Examiners Manual  
+destroy, mutilate, or conceal; (6) an object; (7) with the intent to impair the object’s integrity 
+or availability; (8) for use in an official proceeding. 
+ 
+Section 1512(b)(2)(a) is the statute under which Arthur Andersen, LLP was charged 
+following the Enron scandal. During the investigations into Enron misdeeds, it was found 
+that Andersen directed its employees to destroy documents to prevent their retrieval by the 
+SEC during the investigation of Enron. However, the Andersen conviction was overturned 
+in 2005 because of errors in the jury instructions. 
+ 
+Criminal sanctions have been added to section 1512 for the corrupt alteration or destruction 
+of documents. Section 1512(c) makes it a crime to (1) corruptly; (2) alter, destroy, mutilate, 
+conceal, or attempt thereto; (3) a record, document, or other object; (4) with the intent to 
+impair the object’s integrity or availability for use; (5) in an official proceeding; or (6) 
+otherwise obstruct, influence, impede, or attempt thereto, any official proceeding.  
+ 
+Section 1512(c) originally criminalized those who knowingly and corruptly destroyed, or 
+directed others to destroy, relevant evidence. However, the U.S. Supreme Court in Arthur 
+Andersen LLP vs. United States narrowed the statute to exclude the term knowingly. 
+ 
+Section 1515 provides definitions for certain provisions under obstruction of justice statutes. 
+For example, it defines misleading conduct as including, among other things: 
+• Knowingly making a false statement 
+• Omitting or concealing information that renders a statement misleading 
+• Knowingly inviting reliance on a writing that is false, forged, altered, or otherwise lacking 
+in authenticity with intent to mislead 
+• Knowingly inviting reliance on a materia lly misleading sample, specimen, map, 
+photograph, or other object with intent to mislead 
+• Knowingly using a trick, scheme, or device with intent to mislead 
+ 
+Unlike obstruction of justice (see below), the Victim and Witness Protection Act statute can 
+be violated without any corrupt purpose to obstruct justice, even if there is no grand jury or 
+other judicial proceeding pending. Section 1512 only requires proof that the defendant acted 
+intentionally with intent to “influence, delay, or prevent” testimony or the withholding of 
+evidence. The Act applies to witnesses in a prospective or anticipated proceeding as well as a 
+pending one. 
+  
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.447 
+In light of the Victim and Witness Protection Act, fraud examiners must take care as to how 
+he instructs a witness with regard to the confidentiality of the investigation. Confidentiality is 
+a legitimate concern, and the investigator needs to instruct a witness concerning how to 
+preserve privileges and confidentiality. However, instructing a witness not to speak with 
+government investigators or other parties to litigation — or giving instructions that could be 
+misunderstood in that way — exposes the investigator and the company to potential witness 
+tampering liability. 
+ 
+The Victim and Witness Protection Act also makes it a misdemeanor to harass another 
+person and thereby hinder, delay, prevent, or dissuade any person from attending or 
+testifying in an official proceeding, reporting a federal offense, causing an arrest for a federal 
+offense, or causing a criminal prosecution.  
+ 
+Obstruction of Justice  
+To review, obstruction of justice statutes punish efforts to impede or obstruct the 
+investigation or trial of other substantive offenses. There are several federal criminal statutes 
+that prohibit obstruction of justice. Many are specific to a particular setting or industry, or to 
+a particular kind of proceeding such as the prohibition against obstructing a federal audit (18 
+U.S.C. § 1516) or obstructing the examination of a financial institution by a federal agency (18 U.S.C. § 1517).   
+ 
+These statutes are contained in Chapter 73 of the U.S. Code and prohibit impeding, 
+influencing, or obstructing virtually any type of federal proceeding (including criminal 
+investigations) through the destruction of documents, threats, bribes, or witness tampering. 
+for more information, see the Obstruction of Justice section in “The Law Related to Fraud 
+(Part 2)” chapter above. 
+ 
+Spoliation of Evidence 
+Spoliation of evidence is broadly defined as the act of destroying evidence or making it 
+otherwise unavailable. The act of spoliation can surface in just about any type of case, 
+criminal or civil, and by any party, plaintiff, or defendant. The theory behind spoliation of 
+evidence presumes that the individual who makes evidence unavailable following the 
+probable initiation of a lawsuit is aware of its detrimental effect upon a case. 
+ 
+Although few jurisdictions have a separate cause of action for spoliation of evidence, almost 
+every jurisdiction allows for sanctions resulting from such acts. Some courts require the 
+Individual Rights During Examinations Law 
+2.448  2011 Fraud Examiners Manual  
+spoliation to be intentional, though others merely require negligence or reckless spoliation.  
+ 
+Intentional spoliation claims usually involve elements similar to the following: (1) the 
+existence of a potential lawsuit; (2) the defend ant’s knowledge of the potential lawsuit; (3) 
+the destruction, mutilation, or significant alteration of potential evidence; (4) intent on the 
+part of the defendant to disrupt or defeat the lawsuit; (5) a causal relationship between the 
+act of spoliation and the inability to prove the lawsuit; and (6) damages. 
+ 
+Negligent spoliation claims generally occur when a party unintentionally loses evidence 
+valuable to his claim, or a third party loses or destroys evidence in a suit. An example of the 
+required elements for a negligent spoliation claim include: (1) existence of a potential civil 
+action; (2) a legal or contractual duty to preser ve evidence which is relevant to the potential 
+civil action; (3) destruction of that evidence; (4) significant impairment in the ability to prove 
+the lawsuit; (5) a causal relationship between the evidence destruction and the inability to 
+prove the lawsuit; and (6) damages. 
+ 
+Perjury and Subornation of Perjury 
+Perjury is the willful giving of false material testimony under oath, and includes falsely 
+claiming that one cannot remember a material fact. There are three general federal perjury 
+laws. First, section 1621 of Title 18, U.S. Code, is the general federal perjury statute; it makes 
+it a crime to present material false statements under oath in federal proceedings. Section 
+1621 applies “in any case in which a law of the United States authorizes an oath to be 
+administered.” All states have similar statutes.  
+ 
+Second, section 1623 of Title 18, U.S. Code, makes it a crime to present false testimony or 
+produce other false information under oath before, or ancillary to, a federal court or grand 
+jury. 
+ 
+Third, section 1622 of Title 18, U.S. Code, criminalizes subornation of perjury; it makes it a 
+federal crime to induce or cause another to commit perjury. A person violates section 1622 if 
+he induces another to commit perjury in violation of either section 1621 or section 1623. 
+The most obvious example of subornation of perjury is telling a prospective witness to lie or 
+to conceal the conduct that is the subject of the investigation. Similarly, subornation also has 
+been found to exist where a person counseled a witness to give testimony, the truth of which 
+he recklessly disregarded, even though he did not know for certain that the information was  
+  
+Law  Individual Rights During Examinations 
+2011 Fraud Examiners Manual    2.449 
+untrue. Subornation is only an offense when the perjury has in fact occurred — proof of 
+subornation requires proof of the perjury. 
+ 
+ 
+
+
+
+:
+
+
+obtain inform about employe
+introduct
+there is a surpris amount of inform about individu that can be access without
+legal process eg a subpoena in fact the govern is bound by law to facilit the
+public access to govern inform and to encourag a divers of sourc to acquir
+and us thi inform but despit the public broad right of access there ar numer
+law that limit access to certain type of inform and a number of risk to privaci ar
+rais by the collect of inform therefor fraud examin must be certain that
+inform obtain is done so legal
+feder statut
+privaci act of 1974
+the privaci act of 1974 establish a code of inform practic that regul the
+collect mainten consumpt and diffus of person identifi inform
+law individu right dure examin
+2011 fraud examin manual 2439
+that is maintain by feder agenc it restrict inform about individu both
+employe and nonemploye and it appli to govern agenc and govern
+contractor run a system of record on behalf of the govern the privaci act
+prohibit an agenc from disclos such inform without the written consent of the
+subject individu
+an agenc for exampl might maintain record about a person contain inform that
+is relev and necessari to accomplish a purpos of the agenc thi inform might
+includ a person educ financ medic histori crimin histori employ histori
+and identifi inform fingerprint voiceprint or photograph an agenc employe
+might have access to the inform unless it is investigatori materi compil for law
+enforc purpos statist record or materi compil sole for determin
+suitabl elig or qualif for feder servic or promot
+fair credit report act
+on of the primari statut limit access to inform is the feder fair credit
+report act fcra thi statut regul the dissemin of consum inform to
+third parti by consum report agenc histor the fcra onli appli to
+consum credit report but due to amend in 1997 the fcra now appli to the
+gather of mani other type of inform about an individu through third parti
+the fcra prohibit consum report agenc from releas person inform
+about an individu eg inform about the consum charact gener reput
+person characterist or mode of live to third parti without author and limit
+disclosur of credit inform to third parti with a purpos permit by the statut
+the fcra appli in the employ context when an employ contract with a third parti
+eg a privat investig or an onlin public record servic to collect credit inform
+on current or potenti employe the fcra howev doe not appli if the person or
+organ seek the inform gather it directli from the sourc
+if the fcra doe appli it gener mean that an examin cannot us a third parti to
+obtain certain inform about a person unless that person ha receiv certain notic and
+sign a consent form the failur to do so can mean civil penalti
+individu right dure examin law
+2440 2011 fraud examin manual
+coverag under the fcra
+coverag of the fcra howev turn larg on three term consum consum report
+and consum report agenc
+consum
+at it core the fcra protect those that fall within it definit of consum the act
+defin a consum as an individu that is onli individu have right under the fcra
+consum report
+for the fcra to appli the inform that is be obtain must be a consum report
+a consum report is defin as ani written oral or other commun by a consumerreport
+agenc bear on a custom cred it worthi credit stand charact
+gener reput person characterist or mode of live
+the feder trade commiss ftc which is the feder agenc respons for
+enforc of the fcra ha interpret thi to mean basic ani inform collect
+on a person it doe not refer to just credit report it would also appli to public record
+such as crimin record and dmv search
+but in gener when face with the question of whether a specif report is a consum
+report court have focus on the purpos for which the person or organ collect
+the consum inform
+consum report agenc
+also for the fcra to appli the inform must be gather from a consum report
+agenc cra a cra is defin as anyon who sell in format about peopl it could be
+an onlin servic such as choicepoint or lexisnex is or it could be a privat investig
+compli with the fcra
+befor employ can get a consum report about a current or prospect employe thei
+must compli with certain requir howev employ that ar gather such
+inform in connect with a workplac investig of misconduct mai be exclud
+from the fcra see the section workplac investig of fraud and misconduct
+below
+law individu right dure examin
+2011 fraud examin manual 2441
+if the fcra appli the parti seek the inform must compli with the follow
+requir
+inform the consum report agenc that it will follow the fcra
+provid the individu with a separ written disclosur
+obtain the individu written author
+the disclosur and the author can be contain in the same document
+if howev an employ reli on a consum report for an advers action eg deni a
+job applic reassign or termin an employe or deni a promot it must
+provid the individu with a preadvers action disclosur befor take the advers action
+thi disclosur must includ a copi of the individu consum report and a copi of a
+summari of your right under the fair credit report act which is avail from the ftc
+after advers action is taken the employ must notifi the individu via an advers action
+notic that the action ha been taken that notic must includ the follow
+name address and phone number of the consum report agenc cra that
+suppli the report
+a statement that the cra did not make the advers action decis and cannot explain
+why the advers action wa taken
+a notic of the individu right to di spute the accuraci or complet of the
+inform furnish and hi right to an addit free consum report from the
+agenc upon request within 60 dai
+workplac investig of fraud and misconduct
+furthermor the fair and accur credit transact act of 2003 amend the fcra to
+exempt certain report involv employe misconduct investig as a result of these
+amend an employ who us a third parti to conduct a workplac investig no
+longer ha to obtain the prior consent of an employe if the investig involv suspect
+misconduct
+violat of law or regul
+violat of ani preexist polici of the employ
+to qualifi for thi except the report from the third parti must not be commun to
+anyon other than the employ an agent of the employ or the govern
+individu right dure examin law
+2442 2011 fraud examin manual
+if howev advers action is taken against the employe base on the result of the
+investig the fcra still requir that the employ provid the employe with a
+summari of the report advers action is broadli defin as ani employ decis that
+advers affect the employe the summari must contain the natur and substanc of the
+commun upon which the advers action is base howev it doe not have to
+identifi the individu interview or the sourc of the inform
+investig consum report
+the fcra also cover investig consum report under the fcra an investig
+consum report is a report contain inform about an individu charact gener
+reput person characterist or mode of live that is obtain through person
+interview with neighbor friend or associ if such a report is made then other notic
+and consent mai need to be obtain from the individu for exampl a separ
+disclosur must be us to inform the employe that an investig consum report is
+be obtain the form must also state what sort of inform will be collect
+in addit the compani must disclos to the individu the natur and scope of the
+investig if he request if ani advers action is to be taken against the person he can
+ask to receiv a copi of the report befor such action is taken further the report given to
+the individu must not be redact mean that if the report contain name of the peopl
+provid the inform and what thei report such inform could not be delet
+from the report the person must also be given an opportun to disput the find in the
+report
+contact your attornei
+unfortun for fraud examin the fcra ha creat sever more hoop that
+examin must jump through befor thei can obtain certain type of inform the
+fcra is not clearli written but the feder trade commiss ha publish sever letter
+give it interpret of the statut these letter and the text of the fcra can be
+obtain through their websit at wwwftcgov
+the most import thing for the fraud examin to rememb is to consult hi inhous or
+outsid counsel your attornei will help you determin what procedur you need to
+institut to compli with the fcra
+law individu right dure examin
+2011 fraud examin manual 2443
+grammleachblilei act
+the grammleachblilei act glb wa pass in 1999 and the rule implement the
+act becam final in 2001 glb wa origin enact to allow bank and other compani
+to offer previous forbidden servic such as insur and secur brokerag servic
+congress wa worri that these super bank would share custom financi data with
+affili and other compani to hawk their new product therefor congress ad a
+provis requir a financi intuit to tell custom about it privaci polici to notifi
+them of privat inform the institut intend to share and to give custom the
+chanc to block such informationshar
+to implement the law congress order regul to defin financi institut in the
+broadest possibl term thu financi institut includ not just bank but also insur
+compani account tax prepar and real estat settlement servic and invest
+advisor the text of the rule can be found at 16 cfr part 3131 addit inform
+about the rule can be found at the feder trade commiss websit wwwftcgov
+the problem for fraud examin is that the privaci rule implement as part of glb have
+been interpret to prevent the sell of credit header inform under the ftc
+interpret of the rule credit header inform cannot be sold except for the veri
+limit purpos allow under the fair credit report act the agenc reach thi
+decis by conclud that such basic person inform such as name and address is
+financi inform and therefor must be protect under glb unfortun thi
+prevent credit bureau from sell credit header inform includ name address
+phone number and social secur number to privat investig direct market or
+other inform broker
+glb also made it a crimin offens to engag in pretext ie the practic of obtain
+or attempt to obtain sell or bui privat inform through the us of fals pretens
+some individu us pretext as a mean to gather financi inform about a subject
+pretext would contact a financi institut and pretend to be the custom or someon
+els author to obtain financi inform therebi trick the financi institut into
+provid inform about the subject
+section 6821 of titl 15 us code ad by glb make it an offens to
+us fals fictiti or fraudul statement or document to get custom inform
+from a financi institut or directli from a custom of a financi institut
+individu right dure examin law
+2444 2011 fraud examin manual
+us forg counterfeit lost or stolen document to get custom inform from a
+financi institut or directli from a custom of a financi institut
+ask anoth person to get someon els custom er inform us fals fictiti or
+fraudul statement us fals fictiti or fraudul document or us forg
+counterfeit lost or stolen document
+violat can under certain circumst be fine andor imprison up to 10 year
+telephon record and privaci protect act of 2006
+the telephon record and privaci protect act of 2006 trppa also crimin
+pretext in 2006 pretext garner much critic after hewlettpackard admit that
+to uncov board room leak it investig obtain phone record of journalist and
+board member through pretext within four month of the scandal public releas
+presid bush sign the trppa into law
+specif the trppa crimin the practic of obtain and attempt to obtain sell
+or bui confidenti phone record through the us of fals statement unless otherwis
+permit by law violat of the act ar crimin and if convict a violat face up to
+10 year in prison and up to 100000 in fine these fine and prison term mai be
+increas in case of violat compound with other activ or some egregi crime
+befor engag in ani type of pretext activ investig should consult with an
+attornei to determin whether the inform sought is protect by state or feder law as
+well as whether the plan imperson method is legal accept
+health insur portabl and account act public law 104191 partial codifi in 45 cfr 160 164
+the health insur portabl and account act hipaa institut sever privaci
+rule concern person health inform while most of the rule do not directli affect
+investig fraud examin should be awar of the rule becaus thei mai have an
+impact on the type of inform that can be legal gather on employe
+the hipaa privaci rule place restrict on the avail and us of protect health
+inform the definit of thi term is extrem broad and cover ani inform
+relat to an individu past present or futur physic or mental health payment for
+servic or health care oper for exampl a cancer center employe who stole a
+law individu right dure examin
+2011 fraud examin manual 2445
+patient identif inform to obtain credit card violat hipaa thi case mark
+a signific point in hipaa legisl becaus it had more to do with ident theft than
+actual health inform yet it wa still cover under the statut
+if inform about the health of an individu or payment for servic becom an issu
+dure an investig the examin should immedi contact the human resourc
+hr depart which should have inform about whether the entiti is subject to the
+hipaa rule and can assist you in complianc with those rule
+the most import thing to note is that if the hipaa rule appli the parti seek the
+inform is restrict as to the type of health inform it can access without specif
+written author examin should never contact the health care provid the health
+plan administr or a medic bill servic for copi of employe record without first
+consult the employ legal counsel or hr depart
+avoid liabil for obstruct of justic and wit tamper
+it is assum that no cfe would knowingli or intention suborn perjuri conceal
+evid or otherwis attempt to undermin a govern investig or a judici
+proceed but it is import to understand the potenti for liabil for these offens
+dure a fraud examin
+to understand what conduct could lead to accus of improprieti or crimin liabil
+fraud examin should be familiar with the follow feder statut there mai be
+addit state statut that prohibit similar conduct in connect with state investig
+or even state civil lawsuit an attornei should be consult for the law of a specif
+jurisdict
+wit tamper 18 usc 1512 et seq
+the victim and wit protect act 18 usc 1512 et seq make it a feloni to engag
+in mislead conduct toward anoth person with the intent to influenc delai or
+prevent a witnesss testimoni or to caus or induc ani person to withhold testimoni
+or document
+section 1512b2a make it a crime to 1 knowingli 2 us intimid or physic
+forc threat or corrupt persuas 3 with the intent to induc anoth 4 to withhold
+testimoni a record document or other object from an offici proceed or 5 alter
+individu right dure examin law
+2446 2011 fraud examin manual
+destroi mutil or conceal 6 an object 7 with the intent to impair the object integr
+or avail 8 for us in an offici proceed
+section 1512b2a is the statut under which arthur andersen llp wa charg
+follow the enron scandal dure the investig into enron misde it wa found
+that andersen direct it employe to destroi document to prevent their retriev by the
+sec dure the investig of enron howev the andersen convict wa overturn
+in 2005 becaus of error in the juri instruct
+crimin sanction have been ad to section 1512 for the corrupt alter or destruct
+of document section 1512c make it a crime to 1 corruptli 2 alter destroi mutil
+conceal or attempt thereto 3 a record document or other object 4 with the intent to
+impair the object integr or avail for us 5 in an offici proceed or 6
+otherwis obstruct influenc imped or attempt thereto ani offici proceed
+section 1512c origin crimin those who knowingli and corruptli destroi or
+direct other to destroi relev evid howev the us suprem court in arthur
+andersen llp vs unit state narrow the statut to exclud the term knowingli
+section 1515 provid definit for certain provis under obstruct of justic statut
+for exampl it defin mislead conduct as includ among other thing
+knowingli make a fals statement
+omit or conceal inform that render a statement mislead
+knowingli invit relianc on a write that is fals forg alter or otherwis lack
+in authent with intent to mislead
+knowingli invit relianc on a materia lly mislead sampl specimen map
+photograph or other object with intent to mislead
+knowingli us a trick scheme or devic with intent to mislead
+unlik obstruct of justic see below the victim and wit protect act statut can
+be violat without ani corrupt purpos to obstruct justic even if there is no grand juri or
+other judici proceed pend section 1512 onli requir proof that the defend act
+intention with intent to influenc delai or prevent testimoni or the withhold of
+evid the act appli to wit in a prospect or anticip proceed as well as a
+pend on
+law individu right dure examin
+2011 fraud examin manual 2447
+in light of the victim and wit protect act fraud examin must take care as to how
+he instruct a wit with regard to the confidenti of the investig confidenti is
+a legitim concern and the investig need to instruct a wit concern how to
+preserv privileg and confidenti howev instruct a wit not to speak with
+govern investig or other parti to litig or give instruct that could be
+misunderstood in that wai expos the investig and the compani to potenti wit
+tamper liabil
+the victim and wit protect act also make it a misdemeanor to harass anoth
+person and therebi hinder delai prevent or dissuad ani person from attend or
+testifi in an offici proceed report a feder offens caus an arrest for a feder
+offens or caus a crimin prosecut
+obstruct of justic
+to review obstruct of justic statut punish effort to imped or obstruct the
+investig or trial of other substant offens there ar sever feder crimin statut
+that prohibit obstruct of justic mani ar specif to a particular set or industri or to
+a particular kind of proceed such as the prohibit against obstruct a feder audit 18
+usc 1516 or obstruct the examin of a financi institut by a feder agenc 18 usc 1517
+these statut ar contain in chapter 73 of the us code and prohibit imped
+influenc or obstruct virtual ani type of feder proceed includ crimin
+investig through the destruct of document threat bribe or wit tamper
+for more inform see the obstruct of justic section in the law relat to fraud
+part 2 chapter abov
+spoliat of evid
+spoliat of evid is broadli defin as the act of destroi evid or make it
+otherwis unavail the act of spoliat can surfac in just about ani type of case
+crimin or civil and by ani parti plaintiff or defend the theori behind spoliat of
+evid presum that the individu who make evid unavail follow the
+probabl initi of a lawsuit is awar of it detriment effect upon a case
+although few jurisdict have a separ caus of action for spoliat of evid almost
+everi jurisdict allow for sanction result from such act some court requir the
+individu right dure examin law
+2448 2011 fraud examin manual
+spoliat to be intent though other mere requir neglig or reckless spoliat
+intent spoliat claim usual involv element similar to the follow 1 the
+exist of a potenti lawsuit 2 the defend ant knowledg of the potenti lawsuit 3
+the destruct mutil or signific alter of potenti evid 4 intent on the
+part of the defend to disrupt or defeat the lawsuit 5 a causal relationship between the
+act of spoliat and the inabl to prove the lawsuit and 6 damag
+neglig spoliat claim gener occur when a parti unintention lose evid
+valuabl to hi claim or a third parti lose or destroi evid in a suit an exampl of the
+requir element for a neglig spoliat claim includ 1 exist of a potenti civil
+action 2 a legal or contractu duti to preser ve evid which is relev to the potenti
+civil action 3 destruct of that evid 4 signific impair in the abil to prove
+the lawsuit 5 a causal relationship between the evid destruct and the inabl to
+prove the lawsuit and 6 damag
+perjuri and suborn of perjuri
+perjuri is the will give of fals materi testimoni under oath and includ fals
+claim that on cannot rememb a materi fact there ar three gener feder perjuri
+law first section 1621 of titl 18 us code is the gener feder perjuri statut it make
+it a crime to present materi fals statement under oath in feder proceed section
+1621 appli in ani case in which a law of the unit state author an oath to be
+administ all state have similar statut
+second section 1623 of titl 18 us code make it a crime to present fals testimoni or
+produc other fals inform under oath befor or ancillari to a feder court or grand
+juri
+third section 1622 of titl 18 us code crimin suborn of perjuri it make it a
+feder crime to induc or caus anoth to commit perjuri a person violat section 1622 if
+he induc anoth to commit perjuri in violat of either section 1621 or section 1623
+the most obviou exampl of suborn of perjuri is tell a prospect wit to lie or
+to conceal the conduct that is the subject of the investig similarli suborn also ha
+been found to exist where a person counsel a wit to give testimoni the truth of which
+he recklessli disregard even though he did not know for certain that the inform wa
+law individu right dure examin
+2011 fraud examin manual 2449
+untru suborn is onli an offens when the perjuri ha in fact occur proof of
+suborn requir proof of the perjuri

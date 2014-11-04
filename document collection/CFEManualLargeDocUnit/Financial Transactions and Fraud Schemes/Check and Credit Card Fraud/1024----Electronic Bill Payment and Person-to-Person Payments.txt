@@ -1,0 +1,755 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/CHECK AND CREDIT CARD FRAUD/Electronic Bill Payment and Person-to-Person Payments
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Check and Credit Card Fraud
+
+
+:
+
+
+Electronic Bill Payment and Person-to-Person Payments 
+Increasingly, consumers are using electronic funds transfers, rather than actual currency or 
+paper, to pay bills or make online purchases. Through online services offered by many 
+financial institutions, an individual can make banking transactions using a system called 
+electronic bill payment and presentment, or EBPP. Individuals can pay each other for goods or 
+services through this same electronic form, which is known as the person-to-person, or P2P, 
+system.  
+ 
+Although these systems are still young, some experts suggest that they will play an important 
+part in the way payments are made, according to the Sheshunoff and A.S. Pratt’s publication, 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1035 
+“Electronic Fund Transfer Fraud Protection: Identity Theft to Wire Transfer Fraud.” There 
+is relatively low processing and customer service costs for billers, while customers can 
+reduce time and costs in making payments. With some EBPP systems, some customers may 
+even be able to manage their funds more effectively. Electronic bill payment has received 
+faster acceptance than bill presentment, though acceptance appears to be dependent on the 
+prices of these services. As the EBPP method of payment continues to increase, it is 
+important to be prepared to combat fraud that may surface in this area.  
+ 
+Electronic Fund Trans fer 
+The Electronic Fund Transfer Act (EFTA) is intended to protect the rights of consumers. 
+Unlike the state law that governs checks or wholesale wire transfers, the law concerning 
+electronic fund transfers initiated from consumer accounts is federal law.  
+ 
+As defined in the EFTA, an “electronic fund transfer” is any transfer of funds, other than 
+one originated by a check or similar paper instrument, that is initiated through an electronic 
+terminal, telephonic instrument, or computer or magnetic tape that orders or purports to 
+authorize a financial institution to debit or credit an account. Each of the following would 
+constitute an electronic fund transfer for purposes of federal law: 
+• A customer’s withdrawal of funds from the customer’s own account by use of an ATM. 
+• A customer’s transfer of funds from the c ustomer’s checking account to the customer’s 
+savings account at the same financial institution initiated by the customer through his 
+personal computer.  
+• A customer’s transfer of funds from the customer’s checking account to the customer’s 
+savings account at the same financial institution initiated by the customer through the 
+bank’s automated telephone service. 
+• A customer’s use of a debit card to purchase goods from a merchant who swipes the 
+customer’s card through a point-of-sale (POS) device to authorize deduction of the 
+amount of the sale from the customer’s checking account. 
+• A customer’s transfer of funds from his bank account to a third-party initiated by the 
+customer through his personal computer. 
+• An employer’s instruction, initiated by computer or through a magnetic tape, to a 
+financial institution to deposit funds representing an employee’s pay into the  
+employee’s account. 
+• A noncustomer’s instruction, initiated by computer or through a magnetic tape, to a 
+financial institution to withdraw funds from the checking account of a customer and 
+transfer the funds of a noncustomer’s bank account. 
+Check and Credit Card Fraud  Financial Transactions   
+1.1036                           2011 Fraud Examiners Manual  
+The Federal Reserve Board has promulgated a series of regulations, known as Regulation E, 
+which informs banks of how they must implement the EFTA. Banks must be aware of their 
+obligations under these laws and regulations in order both to minimize their exposure to 
+electronic fund transfer fraud and to know how to deal with their customers when such 
+fraud occurs. Under these laws and regulations, EBPP and P2P systems will usually qualify 
+as electronic fund transfers. Other transactions that are initiated by the consumer through 
+computer or telephonic instruments without the intervention of bank personnel, including 
+transactions involving debit cards and automated teller machine (ATM) transactions, may 
+also qualify as electronic fund transfers.  
+ 
+Access Device 
+An “access device” includes a card, code, or other means of access to a customer’s account 
+for the purpose of initiating electronic fund transfers. These include debit cards, personal 
+identification numbers (PINs), telephone transfer and bill payment codes, and other means 
+that a consumer may use to initiate an electronic fund transfer from his account. A 
+consumer’s account is considered an asset account, such as a demand deposit or savings 
+account, established for personal, family, or household purposes. A credit card is not 
+considered an access device since it provides access to a credit line rather than to a 
+consumer’s account. The term “access device” does not include a check or draft used to 
+capture to MICR encoding to initiate a one-time ACH debit. For example, if a customer 
+authorizes a single ACH debit from his account by giving a check to the merchant so they 
+can capture the routing, account, and serial numbers to initiate the debit, the check is not an 
+access device. If the customer, however, provides a payee with a check, or with information 
+from a check that is physically retained by the consumer, in order to allow the payee to 
+capture routing, account, and serial number information, the result transfer does constitute 
+an electronic fund transfer.  
+ 
+When an access devise is necessary to instruct a financial institution to perform a transfer, 
+the financial institution will be able to claim that it was authorized to debit or credit a 
+consumer’s account only if the transfer was initiated through use of an “accepted” access 
+device. An access device will qualify for this status only if the devise was issued to a person: 
+• Who requested and received it. 
+• Who signed and used it. 
+• Who authorized another to use the access device. 
+• For the purpose of transferring money between accounts or obtaining money, property, 
+labor, or services. 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1037 
+If a consumer uses an accepted access device to initiate a transfer, the EFTA will cover the 
+transaction, even though a bank employee has intervened to complete the transaction. 
+Assume, for instance, that Smith wishes to transfer $100 from her checking account to her 
+savings account. She asks the teller at her bank to perform the transaction. The teller 
+requests that Smith enter her PIN into a card-reading device at the teller’s station. If the PIN 
+is used to initiate the transfer, the transaction is an electronic fund transfer. 
+ 
+Consumer Initiation 
+Notice that the definition of electronic fund transfer applies literally only to consumer 
+transactions. One might speculate that if the consumer does not actually use the terminal, 
+the transaction is not an electronic fund transfer. If, for instance, a consumer desires to 
+purchase goods and hands the merchant a debit card to pay for the transaction, one might 
+argue that the consumer has not initiated the transaction. Nevertheless, the Federal Reserve 
+Board has construed the definition to apply to a POS terminal that captures data 
+electronically in order to debit or credit a consumer’s bank account. This definition is broad 
+enough to include the situation in which a merchant physically swipes or inserts the 
+consumer’s debit card through the terminal, but does so at the direction of the consumer. In 
+any event, the transaction would constitute an electronic fund transfer under the part of the 
+definition that includes transfer “initiated through computer.” 
+ 
+Even though a telephone is not itself an electronic terminal, transfers that the consumer 
+initiates by telephone may be considered electronic transfer funds. Telephone transfers 
+(which likely include fax transmissions) fall within the EFTA if made pursuant to a 
+prearranged plan or agreement that is entered into between the consumer and the financial 
+institution making the transfer and that contemplates periodic or recurring transfers. If an 
+effective agreement exists, a transfer that the consumer initiates by telephone falls within the 
+EFTA, even though an employee of the bank completes the transfer, or the consumer 
+initiates the transfer through a facsimile machine, or the consumer initiates the transfer 
+through the bank’s audio- or voice-response telephone system.  
+ 
+Electronic Bill Presentment and Payment 
+Electronic bill presentment and payment (EBPP) involves the presentment of bills from one 
+or more sellers of goods, or providers of services, to a consumer through electronic means 
+and the payment of that bill by the consumer, also through electronic means. Some experts 
+expect EBPP to become one of the fastest growing applications of electronic fund transfers. 
+ 
+Check and Credit Card Fraud  Financial Transactions   
+1.1038                           2011 Fraud Examiners Manual  
+At present, EBPP systems vary in organization and complexity. They may involve a 
+transaction between a single merchant and a customer, or the consolidation of multiple bills 
+from different billers or of multiple payments from different customers. Initially, EBPP 
+systems were offered by proprietary providers. More recently, however, banks have begun to 
+enter the field, often by contracting out implementation of the system to proprietary 
+providers. Banks may have an advantage in marketing these systems because consumers who 
+are likely to use these systems often have existing relationships with their banks. Bank 
+customers, therefore, may be more willing to trust those institutions to handle their accounts 
+than to entrust funds to a new entity with whom they have no previous or tangible 
+relationship. 
+ 
+Biller Direct Systems 
+Existing EBPP systems usually fall within one of two categories: biller direct systems and 
+consolidation/aggregations systems. In a biller direct system, merchants deal with each 
+customer individually. In a typical transaction, the customer will enter an Internet site that 
+the biller has created. There, the customer who wishes to pay his telephone bill online will 
+simply log on to the telephone company’s web site, enter a username and password that 
+allows the customer to pull up a copy of his bill, review it, and instruct the biller to obtain 
+payment from the customer’s bank account. Prior to this time, the customer will have 
+entered into an agreement with the biller to receive and to pay his bills electronically. The 
+customer will have created the username and password (which qualifies as an access device 
+under EFTA) and will have provided the biller with information about the customer and the 
+customer’s account at the financial institut ion from which the biller may collect payment. 
+Typically, this will include the customer’s e-mail address, the routing number of the 
+customer’s bank, and the customer’s account number at the bank. In some systems, the 
+biller will send an e-mail to the customer indicating that a bill is outstanding and directing 
+the customer to the biller’s website. 
+ 
+After the customer views the information posted by the biller, the customer may approve 
+the information and authorize payment. The biller will then initiate payment by contacting a 
+payment provider that has agreed to collect payments on behalf of the biller. The payment 
+provider will contact the financial institution that holds the customer’s account and request 
+the institution to debit the customer’s a ccount and remit the proceeds to the payment 
+provider. The payment provider will then credit the proceeds, minus any fees, to the biller. 
+These payments may be transferred through an ACH transfer or through a paper transfer 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1039 
+such as a cashier’s check when the recipient is not able to receive payments in an electronic 
+form.  
+ 
+Person to Person (P2P) Payment Systems 
+Personal online payment systems, often called P2P or person-to-person payment systems, 
+have become popular ways for making relatively small payments between individuals or 
+between an individual and a business. These payments have become popular in the online 
+auction market, where winning bids may be too small to justify the use of a credit card or the 
+seller is an individual who does not accept credit card payments. In 2002, eBay, the online 
+auction site, acquired PayPal, the dominant provider of P2P services. PayPal currently has 
+more than 164 million accounts worldwide, and is available in 190 markets and 17 different 
+currencies. The success of proprietary systems like PayPal has induced conventional banks to 
+consider entering the P2P arena. Many banks have begun to offer similar services. 
+ 
+One restriction of most current P2P systems is that they will only complete transfers to 
+persons who are also subscribers to the service. While this restriction may help a system to 
+gain a customer base and reduce fraud by obtaining information about recipients, it also 
+limits the scope of potential users.  
+ 
+A Model of P2P: PayPal 
+There is a significant opportunity for change and growth in implementation since P2P 
+systems are still in their beginning stages. PayPal is dominant in the market at this point, so 
+we will use it as the model of the P2P system for illustrative purposes. Potential users of the 
+system must log in to the provider’s websi te and submit registration information including 
+their name, mailing and e-mail addresses, and phone number. An e-mail is sent from PayPal 
+to the user’s provided e-mail address with the user’s password. Before initiating any 
+transfers, the user must send that password from the e-mail account that the user indicated 
+at the time of registration. This permits the provider to verify information about the user 
+and reduce the probability that the user is engaged in fraudulent activity or has established an 
+account in the name of a fictitious person.  
+ 
+In order to make a payment, the user enters his username and password along with the e-
+ mail address and payment information for the recipient. Users may authorize the provider to 
+withdraw funds from any of three sources. First, the user may maintain an account directly 
+with the provider. The user may authorize the provider to withdraw funds from the user’s 
+account at another financial institution. If the user registers his bank account as a source of 
+Check and Credit Card Fraud  Financial Transactions   
+1.1040                           2011 Fraud Examiners Manual  
+payment, the provider will verify the user’s control of the account by making two small 
+deposits to the account in an undisclosed amount and requiring the user to confirm the 
+amount of the deposits. Third, the user may authorize the provider to charge his credit card 
+with the amount of the payment.  
+ 
+Transfers initiated by the user from his account registered with the provider will constitute 
+electronic fund transfers. This is true even if the provider is not a bank. (Proprietary 
+providers such as PayPal probably do not qualify as “banks” because they do not make 
+loans. They may, however, qualify as money transmitters and may require state licenses for 
+that purpose.) The EFTA defines an electronic fund transfer as a transfer of funds “initiated 
+through an electronic terminal, telephonic instrument, or computer so as to order a 
+financial institution to debit or credit an account.” But a “financial institution” is defined 
+with sufficient breadth to include institutions that do not qualify as banks. A “financial 
+institution” for purposes of EFTA is “any person who, directly, or indirectly, holds an 
+account belonging to a consumer,” and an “account” is any “asset account established 
+primarily for personal, family, or household purposes.” Therefore, electronic transfers 
+initiated by a consumer to transfer funds from an asset account held by a proprietary P2P 
+provider would be governed by EFTA and Regulation E.  
+ 
+Types of Fraud 
+There are several ways in which fraud may be perpetrated through EBPP and P2P systems 
+since passwords that allow access into customer bank accounts must be made available to 
+third parties. Also, bills that contain significant information about customers must be passed 
+through multiple parties. Potential sources of fraud include the following: 
+• A biller may send a bill for services not rendered or for goods never sent. 
+• A person who has obtained information about another person’s bank account may  
+instruct a biller to obtain payment from the other person’s account. 
+• A hacker could obtain passwords and usernames from an aggregator and use that  
+information to direct transfers from a consumer’s bank account. 
+• An employee at the site providing EBPP services that has been provided a consumer’s 
+usernames and passwords for screen scraping purposes could use that information to 
+direct transfers from the consumer’s bank account. 
+• A bank employee may use customer information to direct transfers from a  
+customer’s account. 
+ 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1041 
+Unfortunately, the financial institution that offers electronic fund transfers to its customers 
+will have difficulty determining the source of any leak of customer information necessary to 
+initiate a transfer. Therefore, in order to maintain good relations with its customer and to 
+avoid further liability, a bank may accept responsibility for them. Thus, the best strategy for 
+the bank will be to take measures that reduce the probability that fraud will materialize in the 
+first place.  
+ 
+Detection and Deterrence of Electronic Transfer Fraud 
+Considering the limited capacity of banks to shift losses from unauthorized electronic fund 
+transfers to their customers, banks should make efforts to minimize the incidence of fraud. 
+The very justification for limiting consumer liability may be that banks are in a superior 
+position to learn of and counteract fraudulent schemes that are employed to effect 
+unauthorized transactions. Banks can take certain initiatives to secure access devices and 
+computers from interference. Banks can also follow “know your customer” rules in order to 
+prevent the issuance of access devices to individuals who are likely to use them fraudulently.  
+ 
+The following sections provide specific safeguards that banks can perform to reduce the risk 
+that they or their customers can become victimized by unauthorized electronic fund 
+transfers. 
+ 
+Issuance and Use of Access Devices 
+Electronic fund transfer fraud often involves individuals who use information to obtain 
+access to the accounts of others. As a result, bank personnel can prevent fraud by exercising 
+care in the initial decision to allow an individual to access the bank’s computerized services. 
+Banks offering EBPP or P2P systems to customers should: 
+• Confirm phone and mailing addresses on the application to ensure that they are  
+consistent with information about the applicant that is available from other sources and, 
+with respect to existing customers, consistent with current records about these  
+customers. This may involve obtaining credit reports about the applicant or obtaining 
+copies of utility bills that show the applicant’s address. 
+• Make sure that the area code on the applicant’s telephone number matches the  
+geographical area for the applicant’s address. 
+• Send a “welcome” letter to the address on the application with the bank’s return address 
+so that the letter will be returned if the applicant is not living at that address. 
+• Verify by telephone or additional mailings any change of address requests in the same 
+way that you would verify a new account application. 
+Check and Credit Card Fraud  Financial Transactions   
+1.1042                           2011 Fraud Examiners Manual  
+• If a customer reports the loss or theft of an access device, cancel the existing card, PIN, 
+or other form of access and issue a new one. 
+• If a customer reports that a person previously authorized to use access device reports no 
+longer has that authority, cancel all cards, PINs, or other access devices and issue new 
+ones to the customer. 
+• Always mail PINs separately from other information, such as usernames, with which 
+they are associated. 
+• Separate the responsibility of bank employees who have custody of information relating 
+to access devices from those who have responsibility for issuance, verification, or 
+reissuance of PINs. 
+• Ensure that any communication concerning usernames or passwords is sent in a secure 
+encrypted format. 
+• Customers who register for EBPP or P2P systems should be required to provide 
+information indicating that they are authorized to use the bank account or credit card 
+from which payments will be made. 
+ 
+Use of ACH Network 
+When non-customers of the bank are able to attain access to information about an actual 
+customer, fraud may occur. To limit this possibility, banks should perform strict user 
+authentication standards. The Office of the Comptroller of the Currency (OCC) requires 
+banks within its jurisdiction to uphold a commercially reasonable method to authenticate the 
+identity of a customer. Banks that use the ACH are also subject to National Automated 
+Clearing House Association (NACHA) rules that require originating banks to take certain 
+measures to ensure that the correct customer has authorized the transaction. 
+ 
+NACHA has implemented specific rules for Internet-initiated entries. A specific standard 
+entry class (SEC) code must be used for Internet-initiated entries. That code, WEB, must be 
+used to identify an ACH debit entry to a consumer account that a receiver authorizes 
+through the Internet. The rules apply to both single-entry and recurring debits and require 
+ODFIs that transmit WEB entries to warrant that their originators have complied with 
+certain standards that protect the security of the ACH network and consumer financial 
+information. 
+Originators of WEB entries are required to: 
+• Obtain consumer authorization prior to initiating a WEB entry. The authorization must 
+provide evidence of the consumer’s identity and asset to the authorization. 
+• Employ commercially reasonable fraudulent transaction detection systems to screen 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1043 
+entries in order to maintain the risk of fraud. Different transactions may require different 
+levels of authentication, depending on the risk level of the transaction. 
+• Use commercially reasonable fraudulent transaction detection systems to screen entries 
+in order to minimize the risk of fraud. Different transactions may require different levels 
+of authentication, depending on the risk level of the transaction. 
+• Establish a secure Internet session with each customer using a commercially reasonable 
+security technology. That session must be in place from the time consumers enter their 
+banking information through the time of the transmission to the originator, including 
+any transmission to a service provider such as an aggregator. 
+• Conduct an annual security audit to ensure that financial information obtained from 
+consumers is protected by security practices and procedures that include adequate levels 
+of (1) physical security to protect against theft, tampering, or damage; (2) personnel and 
+access controls to protect against unauthorized access and use; and (3) network security 
+to ensure capture, storage, and distribution of financial information. 
+ 
+Operation of Payment Systems 
+Banks that participate in EBPP or P2P systems can take steps to detect fraudulent 
+transactions, either by providing information to customers or by analyzing transactions that 
+have characteristics associated with fraud. These measures include the following: 
+• Send customers e-mail alerts when a new bill arrives or a payment is sent. The e-mail 
+should advise the customer to contact the bank immediately if the bill was not expected 
+or the payment was not authorized. 
+• Refuse or scrutinize any transactions from a payer or recipient who has been the subject 
+of a notice from a credit card issuer indicating that the person was involved in an 
+unauthorized credit card transaction or unauthorized transfer to or from a bank account. 
+• Ensure that the name on the bank account associated with the P2P account matches the 
+name on the P2P account itself. 
+• Track and verify payments of similar amounts to the same recipient. 
+• Since P2P systems are frequently used to make payments for online activities, be aware 
+of activities that are typically associated with fraud and scrutinize transactions with 
+customers who engage in such activities. These activities include pyramid schemes, 
+online auctions, and sale of items that have a delayed delivery date. 
+ 
+Protection of Internet Addresses 
+Banks or their customers may become victims of fraud, especially identity theft, if they do 
+not carefully monitor the use of their name on the Internet. Fraudulent actors may create 
+Check and Credit Card Fraud  Financial Transactions   
+1.1044                           2011 Fraud Examiners Manual  
+false domain names to attract the bank’s customers and get them to provide information that 
+will then be used for illicit purposes. This activity, known as cybercloning, involves the creation 
+of a “spoof” site, complete with a domain name close to the domain name of a legitimate 
+bank and containing the real bank’s logo. An e-mail may be sent asking customers and 
+potential customers to log on to the false domain name. Those who respond may be asked 
+for information such as account numbers and credit card numbers. Alternately, individuals 
+may register domain names close to the domain name of actual banks and use those sites to 
+market goods or services with which the bank would not want to be associated. For instance, 
+Citigroup had a battle with an individual who registered the name citicard.com and directed 
+users who logged in to this site to an online gambling site.  
+ 
+Prevention of EFT Fraud in Other Companies 
+The Information Systems Audit and Control Association (ISACA) recommends several 
+steps for prevention of EFT fraud in companies. The following is a brief overview: 
+• Define the EFT process and controls points  
+• Define EFT policies and procedures 
+• Ensure physical security surrounding all EFT components 
+• Implement effective EFT application security 
+• Implement effective network operating system security 
+• Implement effective security surrounding EFT data 
+• Implement effective system logging that establishes a baseline that can be used to 
+measure unusual activity. 
+• Conduct reconciliations to allow for the determination of whether data have been 
+modified during any stage of the EFT process. 
+  
+Financial Transactions  Insurance Fraud 
+2011 Fraud Examiners Manual   1.1101 
+
+
+
+:
+
+
+electron bill payment and persontoperson payment
+increasingli consum ar us electron fund transfer rather than actual currenc or
+paper to pai bill or make onlin purchas through onlin servic offer by mani
+financi institut an individu can make bank transact us a system call
+electron bill payment and present or ebpp individu can pai each other for good or
+servic through thi same electron form which is known as the persontoperson or p2p
+system
+although these system ar still young some expert suggest that thei will plai an import
+part in the wai payment ar made accord to the sheshunoff and as pratt public
+financi transact check and credit card fraud
+2011 fraud examin manual 11035
+electron fund transfer fraud protect ident theft to wire transfer fraud there
+is rel low process and custom servic cost for biller while custom can
+reduc time and cost in make payment with some ebpp system some custom mai
+even be abl to manag their fund more effect electron bill payment ha receiv
+faster accept than bill present though accept appear to be depend on the
+price of these servic as the ebpp method of payment continu to increas it is
+import to be prepar to combat fraud that mai surfac in thi area
+electron fund tran fer
+the electron fund transfer act efta is intend to protect the right of consum
+unlik the state law that govern check or wholesal wire transfer the law concern
+electron fund transfer initi from consum account is feder law
+as defin in the efta an electron fund transfer is ani transfer of fund other than
+on origin by a check or similar paper instrument that is initi through an electron
+termin telephon instrument or comput or magnet tape that order or purport to
+author a financi institut to debit or credit an account each of the follow would
+constitut an electron fund transfer for purpos of feder law
+a custom withdraw of fund from the custom own account by us of an atm
+a custom transfer of fund from the c ustom check account to the custom
+save account at the same financi institut initi by the custom through hi
+person comput
+a custom transfer of fund from the custom check account to the custom
+save account at the same financi institut initi by the custom through the
+bank autom telephon servic
+a custom us of a debit card to purchas good from a merchant who swipe the
+custom card through a pointofsal po devic to author deduct of the
+amount of the sale from the custom check account
+a custom transfer of fund from hi bank account to a thirdparti initi by the
+custom through hi person comput
+an employ instruct initi by comput or through a magnet tape to a
+financi institut to deposit fund repres an employe pai into the
+employe account
+a noncustom instruct initi by comput or through a magnet tape to a
+financi institut to withdraw fund from the check account of a custom and
+transfer the fund of a noncustom bank account
+check and credit card fraud financi transact
+11036 2011 fraud examin manual
+the feder reserv board ha promulg a seri of regul known as regul e
+which inform bank of how thei must implement the efta bank must be awar of their
+oblig under these law and regul in order both to minim their exposur to
+electron fund transfer fraud and to know how to deal with their custom when such
+fraud occur under these law and regul ebpp and p2p system will usual qualifi
+as electron fund transfer other transact that ar initi by the consum through
+comput or telephon instrument without the intervent of bank personnel includ
+transact involv debit card and autom teller machin atm transact mai
+also qualifi as electron fund transfer
+access devic
+an access devic includ a card code or other mean of access to a custom account
+for the purpos of initi electron fund transfer these includ debit card person
+identif number pin telephon transfer and bill payment code and other mean
+that a consum mai us to initi an electron fund transfer from hi account a
+consum account is consid an asset account such as a demand deposit or save
+account establish for person famili or household purpos a credit card is not
+consid an access devic sinc it provid access to a credit line rather than to a
+consum account the term access devic doe not includ a check or draft us to
+captur to micr encod to initi a onetim ach debit for exampl if a custom
+author a singl ach debit from hi account by give a check to the merchant so thei
+can captur the rout account and serial number to initi the debit the check is not an
+access devic if the custom howev provid a paye with a check or with inform
+from a check that is physic retain by the consum in order to allow the paye to
+captur rout account and serial number inform the result transfer doe constitut
+an electron fund transfer
+when an access devis is necessari to instruct a financi institut to perform a transfer
+the financi institut will be abl to claim that it wa author to debit or credit a
+consum account onli if the transfer wa initi through us of an accept access
+devic an access devic will qualifi for thi statu onli if the devis wa issu to a person
+who request and receiv it
+who sign and us it
+who author anoth to us the access devic
+for the purpos of transfer monei between account or obtain monei properti
+labor or servic
+financi transact check and credit card fraud
+2011 fraud examin manual 11037
+if a consum us an accept access devic to initi a transfer the efta will cover the
+transact even though a bank employe ha interven to complet the transact
+assum for instanc that smith wish to transfer 100 from her check account to her
+save account she ask the teller at her bank to perform the transact the teller
+request that smith enter her pin into a cardread devic at the teller station if the pin
+is us to initi the transfer the transact is an electron fund transfer
+consum initi
+notic that the definit of electron fund transfer appli liter onli to consum
+transact on might specul that if the consum doe not actual us the termin
+the transact is not an electron fund transfer if for instanc a consum desir to
+purchas good and hand the merchant a debit card to pai for the transact on might
+argu that the consum ha not initi the transact nevertheless the feder reserv
+board ha constru the definit to appli to a po termin that captur data
+electron in order to debit or credit a consum bank account thi definit is broad
+enough to includ the situat in which a merchant physic swipe or insert the
+consum debit card through the termin but doe so at the direct of the consum in
+ani event the transact would constitut an electron fund transfer under the part of the
+definit that includ transfer initi through comput
+even though a telephon is not itself an electron termin transfer that the consum
+initi by telephon mai be consid electron transfer fund telephon transfer
+which like includ fax transmiss fall within the efta if made pursuant to a
+prearrang plan or agreement that is enter into between the consum and the financi
+institut make the transfer and that contempl period or recur transfer if an
+effect agreement exist a transfer that the consum initi by telephon fall within the
+efta even though an employe of the bank complet the transfer or the consum
+initi the transfer through a facsimil machin or the consum initi the transfer
+through the bank audio or voicerespons telephon system
+electron bill present and payment
+electron bill present and payment ebpp involv the present of bill from on
+or more seller of good or provid of servic to a consum through electron mean
+and the payment of that bill by the consum also through electron mean some expert
+expect ebpp to becom on of the fastest grow applic of electron fund transfer
+check and credit card fraud financi transact
+11038 2011 fraud examin manual
+at present ebpp system vari in organ and complex thei mai involv a
+transact between a singl merchant and a custom or the consolid of multipl bill
+from differ biller or of multipl payment from differ custom initi ebpp
+system were offer by proprietari provid more recent howev bank have begun to
+enter the field often by contract out implement of the system to proprietari
+provid bank mai have an advantag in market these system becaus consum who
+ar like to us these system often have exist relationship with their bank bank
+custom therefor mai be more will to trust those institut to handl their account
+than to entrust fund to a new entiti with whom thei have no previou or tangibl
+relationship
+biller direct system
+exist ebpp system usual fall within on of two categori biller direct system and
+consolidationaggreg system in a biller direct system merchant deal with each
+custom individu in a typic transact the custom will enter an internet site that
+the biller ha creat there the custom who wish to pai hi telephon bill onlin will
+simpli log on to the telephon compani web site enter a usernam and password that
+allow the custom to pull up a copi of hi bill review it and instruct the biller to obtain
+payment from the custom bank account prior to thi time the custom will have
+enter into an agreement with the biller to receiv and to pai hi bill electron the
+custom will have creat the usernam and password which qualifi as an access devic
+under efta and will have provid the biller with inform about the custom and the
+custom account at the financi institut ion from which the biller mai collect payment
+typic thi will includ the custom email address the rout number of the
+custom bank and the custom account number at the bank in some system the
+biller will send an email to the custom indic that a bill is outstand and direct
+the custom to the biller websit
+after the custom view the inform post by the biller the custom mai approv
+the inform and author payment the biller will then initi payment by contact a
+payment provid that ha agre to collect payment on behalf of the biller the payment
+provid will contact the financi institut that hold the custom account and request
+the institut to debit the custom a ccount and remit the proce to the payment
+provid the payment provid will then credit the proce minu ani fee to the biller
+these payment mai be transfer through an ach transfer or through a paper transfer
+financi transact check and credit card fraud
+2011 fraud examin manual 11039
+such as a cashier check when the recipi is not abl to receiv payment in an electron
+form
+person to person p2p payment system
+person onlin payment system often call p2p or persontoperson payment system
+have becom popular wai for make rel small payment between individu or
+between an individu and a busi these payment have becom popular in the onlin
+auction market where win bid mai be too small to justifi the us of a credit card or the
+seller is an individu who doe not accept credit card payment in 2002 ebai the onlin
+auction site acquir paypal the domin provid of p2p servic paypal current ha
+more than 164 million account worldwid and is avail in 190 market and 17 differ
+currenc the success of proprietari system like paypal ha induc convent bank to
+consid enter the p2p arena mani bank have begun to offer similar servic
+on restrict of most current p2p system is that thei will onli complet transfer to
+person who ar also subscrib to the servic while thi restrict mai help a system to
+gain a custom base and reduc fraud by obtain inform about recipi it also
+limit the scope of potenti user
+a model of p2p paypal
+there is a signific opportun for chang and growth in implement sinc p2p
+system ar still in their begin stage paypal is domin in the market at thi point so
+we will us it as the model of the p2p system for illustr purpos potenti user of the
+system must log in to the provid websi te and submit registr inform includ
+their name mail and email address and phone number an email is sent from paypal
+to the user provid email address with the user password befor initi ani
+transfer the user must send that password from the email account that the user indic
+at the time of registr thi permit the provid to verifi inform about the user
+and reduc the probabl that the user is engag in fraudul activ or ha establish an
+account in the name of a fictiti person
+in order to make a payment the user enter hi usernam and password along with the e
+mail address and payment inform for the recipi user mai author the provid to
+withdraw fund from ani of three sourc first the user mai maintain an account directli
+with the provid the user mai author the provid to withdraw fund from the user
+account at anoth financi institut if the user regist hi bank account as a sourc of
+check and credit card fraud financi transact
+11040 2011 fraud examin manual
+payment the provid will verifi the user control of the account by make two small
+deposit to the account in an undisclos amount and requir the user to confirm the
+amount of the deposit third the user mai author the provid to charg hi credit card
+with the amount of the payment
+transfer initi by the user from hi account regist with the provid will constitut
+electron fund transfer thi is true even if the provid is not a bank proprietari
+provid such as paypal probabl do not qualifi as bank becaus thei do not make
+loan thei mai howev qualifi as monei transmitt and mai requir state licens for
+that purpos the efta defin an electron fund transfer as a transfer of fund initi
+through an electron termin telephon instrument or comput so as to order a
+financi institut to debit or credit an account but a financi institut is defin
+with suffici breadth to includ institut that do not qualifi as bank a financi
+institut for purpos of efta is ani person who directli or indirectli hold an
+account belong to a consum and an account is ani asset account establish
+primarili for person famili or household purpos therefor electron transfer
+initi by a consum to transfer fund from an asset account held by a proprietari p2p
+provid would be govern by efta and regul e
+type of fraud
+there ar sever wai in which fraud mai be perpetr through ebpp and p2p system
+sinc password that allow access into custom bank account must be made avail to
+third parti also bill that contain signific inform about custom must be pass
+through multipl parti potenti sourc of fraud includ the follow
+a biller mai send a bill for servic not render or for good never sent
+a person who ha obtain inform about anoth person bank account mai
+instruct a biller to obtain payment from the other person account
+a hacker could obtain password and usernam from an aggreg and us that
+inform to direct transfer from a consum bank account
+an employe at the site provid ebpp servic that ha been provid a consum
+usernam and password for screen scrape purpos could us that inform to
+direct transfer from the consum bank account
+a bank employe mai us custom inform to direct transfer from a
+custom account
+financi transact check and credit card fraud
+2011 fraud examin manual 11041
+unfortun the financi institut that offer electron fund transfer to it custom
+will have difficulti determin the sourc of ani leak of custom inform necessari to
+initi a transfer therefor in order to maintain good relat with it custom and to
+avoid further liabil a bank mai accept respons for them thu the best strategi for
+the bank will be to take measur that reduc the probabl that fraud will materi in the
+first place
+detect and deterr of electron transfer fraud
+consid the limit capac of bank to shift loss from unauthor electron fund
+transfer to their custom bank should make effort to minim the incid of fraud
+the veri justif for limit consum liabil mai be that bank ar in a superior
+posit to learn of and counteract fraudul scheme that ar emploi to effect
+unauthor transact bank can take certain initi to secur access devic and
+comput from interfer bank can also follow know your custom rule in order to
+prevent the issuanc of access devic to individu who ar like to us them fraudul
+the follow section provid specif safeguard that bank can perform to reduc the risk
+that thei or their custom can becom victim by unauthor electron fund
+transfer
+issuanc and us of access devic
+electron fund transfer fraud often involv individu who us inform to obtain
+access to the account of other as a result bank personnel can prevent fraud by exercis
+care in the initi decis to allow an individu to access the bank computer servic
+bank offer ebpp or p2p system to custom should
+confirm phone and mail address on the applic to ensur that thei ar
+consist with inform about the applic that is avail from other sourc and
+with respect to exist custom consist with current record about these
+custom thi mai involv obtain credit report about the applic or obtain
+copi of util bill that show the applic address
+make sure that the area code on the applic telephon number match the
+geograph area for the applic address
+send a welcom letter to the address on the applic with the bank return address
+so that the letter will be return if the applic is not live at that address
+verifi by telephon or addit mail ani chang of address request in the same
+wai that you would verifi a new account applic
+check and credit card fraud financi transact
+11042 2011 fraud examin manual
+if a custom report the loss or theft of an access devic cancel the exist card pin
+or other form of access and issu a new on
+if a custom report that a person previous author to us access devic report no
+longer ha that author cancel all card pin or other access devic and issu new
+on to the custom
+alwai mail pin separ from other inform such as usernam with which
+thei ar associ
+separ the respons of bank employe who have custodi of inform relat
+to access devic from those who have respons for issuanc verif or
+reissuanc of pin
+ensur that ani commun concern usernam or password is sent in a secur
+encrypt format
+custom who regist for ebpp or p2p system should be requir to provid
+inform indic that thei ar author to us the bank account or credit card
+from which payment will be made
+us of ach network
+when noncustom of the bank ar abl to attain access to inform about an actual
+custom fraud mai occur to limit thi possibl bank should perform strict user
+authent standard the offic of the comptrol of the currenc occ requir
+bank within it jurisdict to uphold a commerci reason method to authent the
+ident of a custom bank that us the ach ar also subject to nation autom
+clear hous associ nacha rule that requir origin bank to take certain
+measur to ensur that the correct custom ha author the transact
+nacha ha implement specif rule for internetiniti entri a specif standard
+entri class sec code must be us for internetiniti entri that code web must be
+us to identifi an ach debit entri to a consum account that a receiv author
+through the internet the rule appli to both singleentri and recur debit and requir
+odfi that transmit web entri to warrant that their origin have compli with
+certain standard that protect the secur of the ach network and consum financi
+inform
+origin of web entri ar requir to
+obtain consum author prior to initi a web entri the author must
+provid evid of the consum ident and asset to the author
+emploi commerci reason fraudul transact detect system to screen
+financi transact check and credit card fraud
+2011 fraud examin manual 11043
+entri in order to maintain the risk of fraud differ transact mai requir differ
+level of authent depend on the risk level of the transact
+us commerci reason fraudul transact detect system to screen entri
+in order to minim the risk of fraud differ transact mai requir differ level
+of authent depend on the risk level of the transact
+establish a secur internet session with each custom us a commerci reason
+secur technolog that session must be in place from the time consum enter their
+bank inform through the time of the transmiss to the origin includ
+ani transmiss to a servic provid such as an aggreg
+conduct an annual secur audit to ensur that financi inform obtain from
+consum is protect by secur practic and procedur that includ adequ level
+of 1 physic secur to protect against theft tamper or damag 2 personnel and
+access control to protect against unauthor access and us and 3 network secur
+to ensur captur storag and distribut of financi inform
+oper of payment system
+bank that particip in ebpp or p2p system can take step to detect fraudul
+transact either by provid inform to custom or by analyz transact that
+have characterist associ with fraud these measur includ the follow
+send custom email alert when a new bill arriv or a payment is sent the email
+should advis the custom to contact the bank immedi if the bill wa not expect
+or the payment wa not author
+refus or scrutin ani transact from a payer or recipi who ha been the subject
+of a notic from a credit card issuer indic that the person wa involv in an
+unauthor credit card transact or unauthor transfer to or from a bank account
+ensur that the name on the bank account associ with the p2p account match the
+name on the p2p account itself
+track and verifi payment of similar amount to the same recipi
+sinc p2p system ar frequent us to make payment for onlin activ be awar
+of activ that ar typic associ with fraud and scrutin transact with
+custom who engag in such activ these activ includ pyramid scheme
+onlin auction and sale of item that have a delai deliveri date
+protect of internet address
+bank or their custom mai becom victim of fraud especi ident theft if thei do
+not carefulli monitor the us of their name on the internet fraudul actor mai creat
+check and credit card fraud financi transact
+11044 2011 fraud examin manual
+fals domain name to attract the bank custom and get them to provid inform that
+will then be us for illicit purpos thi activ known as cyberclon involv the creation
+of a spoof site complet with a domain name close to the domain name of a legitim
+bank and contain the real bank logo an email mai be sent ask custom and
+potenti custom to log on to the fals domain name those who respond mai be ask
+for inform such as account number and credit card number altern individu
+mai regist domain name close to the domain name of actual bank and us those site to
+market good or servic with which the bank would not want to be associ for instanc
+citigroup had a battl with an individu who regist the name citicardcom and direct
+user who log in to thi site to an onlin gambl site
+prevent of eft fraud in other compani
+the inform system audit and control associ isaca recommend sever
+step for prevent of eft fraud in compani the follow is a brief overview
+defin the eft process and control point
+defin eft polici and procedur
+ensur physic secur surround all eft compon
+implement effect eft applic secur
+implement effect network oper system secur
+implement effect secur surround eft data
+implement effect system log that establish a baselin that can be us to
+measur unusu activ
+conduct reconcili to allow for the determin of whether data have been
+modifi dure ani stage of the eft process
+financi transact insur fraud
+2011 fraud examin manual 11101

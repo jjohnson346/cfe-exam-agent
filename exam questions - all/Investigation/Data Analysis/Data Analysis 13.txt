@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following software programs are useful for investigating fraud?
+
+Options=ACL | ActiveData for Excel | Monarch | All of the above
+
+CorrectResponse=3
+
+Explanation=There are many data analysis programs that are useful for investigating fraud, including ACL, ActiveData for Excel, SNAP! Reporter, Monarch, IDEA, and Arbutus Query. However, because every fraud examination involving data analysis is different, it would be impossible to recommend one software product to serve every purpose. Choosing a data analysis tool is something that the fraud examiner must evaluate on each individual case. A fraud examiner should research applications intensively to decide which package is most appropriate for the current investigation.See page(s) 3.616 in the Fraud Examiner's Manual

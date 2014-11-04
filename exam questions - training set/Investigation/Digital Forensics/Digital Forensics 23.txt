@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=In determining whether it is proper to search a government employee's computer, you should first ask whether ___________________ exists.
+
+Options=A reasonable expectation of privacy | A reasonable doubt | Clear and convincing evidence | A preponderance of the evidence
+
+CorrectResponse=0
+
+Explanation=When determining whether to conduct a search of government-workplace computers it is important to first determine whether a reasonable expectation of privacy exists. To answer that question, one must look at whether there was a prior notice that diminishes the expectation. One can also look at the policy practices of the agency. Having a policy and only selectively enforcing it tends to diminish the policy to the point that it may not negate the privacy expectation. One must also look to the openness and accessibility of the workplace to other employees. Finally, was there a written waiver of the employee‰??s expectation of privacy? If an expectation of privacy does not exist, then the Fourth Amendment will not apply.See page(s) 3.711-3.712 in the Fraud Examiner's Manual

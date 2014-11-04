@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is NOT a financial data analysis program?
+
+Options=Monarch | EnCase | ACL | ActiveData
+
+CorrectResponse=1
+
+Explanation=ACL, ActiveData, and Monarch are all software programs designed to analyze financial data. EnCase is a computer forensics program used to make copies of programs and other information from computers and computer systems.See page(s) 3.616 in the Fraud Examiner's Manual

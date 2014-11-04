@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=If you are conducting a seizure of a computer and a program appears to be running on the computer that is not identifiable, what should you do?
+
+Options=Shut down the operating system normally | Unplug the computer immediately | Open and run an antivirus program | Open the "Run" window and type "exit"
+
+CorrectResponse=1
+
+Explanation=Procedurally, it is important to identify any destructive processes that may be running on the machine before beginning the seizure. If such a process appears to be running, unplug the machine immediately.See page(s) 3.717 in the Fraud Examiner's Manual

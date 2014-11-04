@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=What do auditors or fraud examiners look for when sampling for attributes?
+
+Options=Convergences | Inclusion | Deviation occurrence rate | Uniformity
+
+CorrectResponse=2
+
+Explanation=Sampling for attributes is used by auditors or fraud examiners looking for a deviation occurrence rate (deviations, errors, and exceptions are synonyms). When performing this type of sampling, you are looking for the presence or absence of a defined condition.See page(s) 3.831 in the Fraud Examiner's Manual

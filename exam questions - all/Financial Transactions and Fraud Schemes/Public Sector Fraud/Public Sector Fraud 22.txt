@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Beneficiary frauds are most likely to be perpetrated by which of the following?
+
+Options=Individuals | Medical professionals | Lawyers | Organized crime rings
+
+CorrectResponse=0
+
+Explanation=Beneficiary frauds tend to be perpetrated by individuals, without collusion or bribery. The motive for this type of fraud is personal gain (or reduction of loss) by the perpetrator.See page(s) 1.1915 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=From the moment evidence is received, it is necessary to preserve the chain of custody. This can be done effectively through the use of a memorandum. Such a memorandum should, at a minimum, contain all of the following EXCEPT:
+
+Options=What items were received | From whom the items were received | The name of the judge who issued the warrant | When the items were received
+
+CorrectResponse=2
+
+Explanation=From the moment evidence is received, its "chain of custody" must be maintained for it to be accepted by the court. This means that a record must be made when the item is received or when it leaves the care, custody, or control of the fraud examiner This is best handled by a memorandum of interview with the custodian of the records when the evidence is received. The memorandum should state: (1) what items were received, (2) when they were received, (3) from whom they were received, and (4) where they are maintained.See page(s) 3.106 in the Fraud Examiner's Manual

@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+caller                                 1
+transactions                           1
+person                                 1
+manager                                1
+buy                                    1
+identified                             1
+consumer                               1
+fraud                                  2
+interested                             1
+fronters                               1
+closer                                 2
+who                                    1
+veteran                                1
+1.1710                                 1
+2011                                   1
+financial                              1
+is                                     1
+firm                                   1
+a                                      1
+as                                     1
+the                                    3
+pass                                   1
+manual                                 1
+an                                     1
+examiners                              1
+convinces                              1
+their                                  1
+closers                                1
+
+Totals:                     29        34

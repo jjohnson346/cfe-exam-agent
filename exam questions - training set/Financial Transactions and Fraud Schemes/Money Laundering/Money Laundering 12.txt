@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The same customer comes into a bank each day and purchases $8,000 worth of traveler's checks. The bank employees suspect that the customer may be engaged in money laundering activity. The bank:
+
+Options=May, but is not required to, file a Suspicious Activity Report | Is required to file a Suspicious Activity Report | Cannot report these activities since each transaction is less than $10,000 | Is required to file a Currency Transaction Report since there were multiple transactions
+
+CorrectResponse=1
+
+Explanation=Under the Bank Secrecy Act, financial institutions are required to report ‰??any suspicious transaction relevant to a possible violation of law or regulation.‰?? Such activity is reported using the Suspicious Activity' Report (SAR). Among the instances in v/hich the report is required is any transaction conducted or attempted to be conducted through the financial institution where the institution has reason to suspect that (1) the funds were derived from illegal activities, (2) the transaction is designed to evade any regulations under the Bank Secrecy Act, or (3) the transaction appears to have no business purpose or appears unusual in normal banking practice.See page(s) 1.1626-1.1627 in the Fraud Examiner's Manual

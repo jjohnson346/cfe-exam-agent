@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Ray, a Certified Fraud Examiner, is trying to locate a witness who is needed to testify in a fraud case. It has been two years since the witness, who has since moved, was interviewed. Ray has checked the telephone directory with negative results. Ray should probably next check:
+
+Options=The Civil Litigation Index | Voter registration records | The Fictitious Name Index | Any of the above
+
+CorrectResponse=1
+
+Explanation=In order to vote, an individual must register in his precinct by filling out a form detailing his name, address, date of birth, signature, and, in some cases, the Social Security number. Voter registration records are routinely verified by the county, and old addresses are deleted as new ones appear.See page(s) 3.417 in the Fraud Examiner's Manual

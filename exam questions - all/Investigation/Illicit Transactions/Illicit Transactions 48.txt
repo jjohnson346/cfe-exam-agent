@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Circumstantial evidence of excess income (income from unknown sources) is often met with which of the following defenses?
+
+Options=Gifts from others | Loan proceeds | Cash accumulated earlier | All of the above
+
+CorrectResponse=3
+
+Explanation=Circumstantial evidence of excess income is often met with the defense that the extra funds came from cash accumulated earlier or from other legitimate sources, such as loans from relatives. To rebut these defenses, the fraud examiner must pin down the amount of cash on hand at the beginning of the relevant period (through, for example, amounts listed on financial statements or claimed in interviews) and take other steps to negate these defenses.See page(s) 3.846 in the Fraud Examiner's Manual

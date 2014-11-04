@@ -1,0 +1,546 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Conducting an Investigation Involving Computers
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Conducting an Investigation Involving Computers 
+The increasing usage of the Internet and other technology in all aspects of our personal and 
+professional lives has created new opportunities for technology to be used in perpetrating 
+almost every type of fraud, and in most fraud cases, investigators gather some type of digital 
+evidence. 
+ 
+Fraud examiners must therefore be prepared to address the myriad issues related to 
+examinations involving digital evidence.  
+ 
+Computer Investigation Versus Computer Forensics 
+While at first, the term computer investigation may appear synonymous with computer 
+forensics, there is an important distinction between the two. An investigator leading an 
+investigation into a crime that involves a computer is not necessarily and, in most cases, 
+should not be the forensic examiner. It is important to keep these areas separate. Combining 
+the two, especially in cases in which the suspect is already named, invites questions about the 
+objectivity of the forensic examination. It could also subject investigators to unwelcome 
+scrutiny regarding whether they suppressed exculpatory evidence that may have been found 
+during an examination by a more objective investigator. 
+ 
+Digital Evidence 
+Digital evidence, when boiled down to its basics, is simply binary data (ones and zeroes) that 
+is interpreted by the computer. Everything that is digitally stored is made up of these ones 
+and zeroes, from the programs themselves to the data with which the programs interact. 
+Interpreters built into the program show these ones and zeroes as hex code. This hex code is 
+then translated onto the page or website seen on the computer screen. 
+ 
+As the professional use computer technology increases, so does the criminal use. Financial 
+crimes and frauds committed are probably the most common types of computer crimes 
+committed. The investigation of financial crimes generally requires a level of expertise not 
+commonly held by all investigators; therefore,  there is additional knowledge and experience 
+required when conducting a forensic computer examination in a financial or fraud case.  
+ 
+Digital Forensics  Investigation 
+3.702   2011 Fraud Examiners Manual  
+There are three types of situations in which computer evidence is generally discovered: (1) 
+computers as the target of crime, (2) computers as the instrument of crime, and (3) 
+computers as the repository of evidence. 
+ 
+Computers themselves can be the targets of crime. Crimes committed against computers 
+include computer and computer-component theft, system intrusions, software piracy, and 
+software theft. 
+ 
+Computers can also be used to facilitate a crime. When this occurs, the computer is known 
+as the tool or instrument  of crime. In such cases, as one would expect, examiners commonly 
+encounter computers that have been used in offenses such as the solicitation of minors in 
+chat rooms, check fraud, and counterfeiting. 
+ 
+Generally speaking, in all computer investigations the examiner attempts to locate the 
+storage of potential digital evidence, in one form or another, on the computer system. The 
+computer system involved in the investigation is a potential repository of evidence whether 
+the user intended to store an item or not. Therefore, the examiner is interested in 
+incriminating evidence that the user intentionally or unintentionally stored on the computer 
+system. 
+ 
+Integrity of Digital Evidence 
+Electronic evidence is more volatile than paper information, and because it can be easily 
+altered or destroyed, it must be handled properly. For example, computer files can be altered 
+simply through the normal startup process. Most  of the Microsoft operating systems, such as 
+Windows XP, change the time and date stamps on a number of files during startup and 
+delete a number of temporary files during the shutdown process. These pieces of 
+information could be critical to the investigation. 
+ 
+The destruction of digital evidence through improper handling can result in a finding of 
+spoliation of evidence by a judge or can raise questions about the alteration of exculpatory 
+evidence by the defense.  
+ 
+Additionally, if a judge determines that the authenticity of the evidence cannot be 
+satisfactorily made, then he may rule that the evidence is inadmissible. Although digital 
+evidence is different from tangible evidence, the rules regarding its admissibility in court is 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.703 
+really no different from the admissibility of any other type of evidence. To be admissible, 
+digital evidence must be: 
+• Relevant  
+• Supported by a foundation for its introduction into court 
+• Legally obtained 
+• Properly identified 
+• Properly preserved 
+ 
+Therefore, should the fraud examiner discover digital evidence, he must be able to state 
+unequivocally that the evidence was not changed in any way by his actions. This requires that 
+strict forensic methodologies be followed to satisfy the stringent evidentiary standards 
+necessary to ensure the integrity of the evidence “beyond a reasonable doubt” for 
+presentation in court. 
+ 
+Forensic Experts 
+Also, when conducting an examination involving computers, the examiner should determine 
+whether an outside forensic examiner is needed or whether the expertise is available in-house. 
+Some organizations have their own in-house personnel, whom they have trained and 
+outfitted with the proper equipment and software tools to conduct the examination and 
+analyze digital evidence while others may prefer the use of an outside examiner who will be 
+able to conduct a thorough examination, prepare a proper report, and deliver expert 
+testimony if needed in legal proceedings. 
+ 
+Sometimes information retrieval is as easy as obtaining a warrant and searching the hard 
+drive of the target computer. But many fraudsters anticipate their exposure and delete 
+incriminating files from their machines. In these instances, it is important to know that there 
+are a variety of ways of recovering deleted or hidden data from a target computer and its 
+peripherals. 
+ 
+A computer-forensic examiner is a trained professional who is capable of analyzing digital 
+media at the hexadecimal level. The hexadecimal level means that every sector and all the 
+bytes in those sectors are available for viewing. This includes deleted files, both purposefully 
+deleted and those that were deleted through various Windows-automated processes. This 
+can also include temporary auto-save files, print-spool files, deleted e-mails, and link files. 
+The hexadecimal level also contains various items found in restore points and registry files 
+Digital Forensics  Investigation 
+3.704   2011 Fraud Examiners Manual  
+that define hardware, such as external drives and websites visited, in addition to the 
+document revisions and files created and maintained by the user. 
+ 
+The increased sophistication of Windows allows the computer system to store more 
+information about how people use their computers. The forensic examiner will be able to 
+uncover a large amount of data that relates to the use of a computer, what is or has been 
+stored on it, and the details about the user. In Micr osoft’s effort to “be all” to the user, it has 
+incorporated ways to make computer use more secure, such as offering encryption and other 
+methods to protect data from unwanted access. In the future, these types of innovations will 
+stall the examiner and will sometimes successfully prevent system access. However, these 
+encryption packages are not always foolproof. The Encrypted File System offered by 
+Microsoft has in fact been cracked by a number  of password-cracking software makers. In 
+addition to encryption files, other encryption algorithms exist that are easily installed and can 
+be used to encrypt the entire hard drive. In situations such as this, it becomes necessary for 
+the examiner to be able to identify whether a drive is encrypted before seizing and 
+disconnecting the system. 
+ 
+Moreover, computer-forensic examiners have special tools and software designed to 
+facilitate a thorough and legally sufficient analysis of items that contain digital evidence. It is 
+important to allow a trained examiner to conduct a proper seizure and examination on a 
+piece of evidence so the investigator will have the best chance of using that evidence in a 
+legal proceeding. Whether an agency or company is defending against an unlawful 
+termination suit or filing a criminal complaint, it is vital that the digital evidence is handled 
+properly. 
+ 
+Furthermore, whether technical specialists are needed to assist with an investigation will 
+depend on the complexity of the examination required. The more technical the nature of the 
+crime, the more technical and specialized the analytical skills required. Some computer 
+investigations, however, do not require extremely sophisticated technical skills. For example, 
+in cases where the computer is the instrument used to commit the crime (e.g., scams 
+involving payroll applications, cooking the books, fraudulent electronic funds transfers, 
+insider trading, etc.), the fraud examiner need only know how to search a database and 
+analyze the results. 
+ 
+Additionally, this determination will depend on the examiners skill levels. Therefore, an 
+examiner conducting an examination involving computers must have a basic understanding 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.705 
+of his skill levels and must be aware of his limitations in the field of computer technology 
+because, in many instances, one or more technical specialists are needed to assist with an 
+investigation.  
+ 
+Within the computer forensics field, there are several different types of special experts: 
+• Operating and file system experts : These experts are proficient in certain operating systems 
+(e.g., Windows 7, Unix, Solaris, OS X, or AS400) and the various file systems they 
+employ (e.g., Joliet, NTFS, FAT, VFS, Ex t2), and they have the ability to convey 
+operational characteristics and observe artifacts. 
+• Data recovery experts : These experts operate clean rooms designed to magnetically extract 
+information from a damaged media source. Using special tools and equipment, these 
+experts can disassemble a hard disk, separate the platters, and extract and reassemble the 
+information for subsequent examination. 
+• Forensic accounting experts : A forensic accountant can prov ide various services, including 
+audits, accountant performance reviews, and examinations of financial documents for 
+fraud, misconduct, or industry standard violations. 
+• Tape and archival extraction experts : These are experts in extracting information from tape or 
+other system backups. Typically, backup solutions archive data in proprietary formats, 
+making extraction very cumbersome. 
+• Intrusion and malicious code experts : These experts specialize in investigating computer 
+network intrusions. Specialists can determine attack vectors, the tools employed, what 
+occurred during access, and what, if anything, was taken. 
+ 
+But given the diversity of computer-related fraud, no person can be an expert in all aspects 
+of computer technology. 
+ 
+Locating Evidence 
+To conduct a successful examination, examiners must know what to look for and where to 
+look for it, but this can be difficult because digital data can be stored large volumes and in a 
+number of different locations.  
+ 
+The efficiency of computer technology has allowed users to create more voluminous pieces 
+of data than was once possible. Computer hard drives are packed with digital data, and data 
+storage now exceeds gigabytes. Therefore, it is necessary to reference larger storage 
+capacities. Here is a chart that will help: 
+ 
+Digital Forensics  Investigation 
+3.706   2011 Fraud Examiners Manual  
+Name  Abbr.  Size  
+Kilo K 2^10 = 1,024 
+Mega M 2^20 = 1,048,576 
+Giga G 2^30 = 1,073,741,824 
+Tera T 2^40 = 1,099,511,627,776 
+Peta P 2^50 = 1,125,899,906,842,624 
+Exa E 2^60 = 1,152,921,504,606,846,976 
+Zetta Z 2^70 = 1,180,591,620,717,411,303,424 
+Yotta Y 2^80 = 1,208,925,819,614,629,174,706,176 
+ 
+Furthermore, digital evidence may be located in a number of different locations. In addition 
+to being stored on computers, evidence will be located in any form of technology that can be 
+used to transmit or store data. Therefore, it is also important to investigate any suspect 
+workstation, including any peripherals or other portable media devices that can be used to 
+transmit or store data, and the information stored on the company’s network. 
+ 
+Workstation 
+In addition to investigating the suspect’s mainframe, it is also important to investigate the 
+suspect’s workstation, including any peripherals or other portable media devices that can be 
+used to transmit or store data. As data moves to and from peripheral devices, it leaves 
+evidence of its presence and sometimes leaves full copies of its contents.  
+ 
+Therefore, fraud examiners should consider the many different types of peripherals that 
+might contain evidence. Items to be seized might include any or all of the following items 
+listed below, depending upon the nature of the fraud case. 
+ 
+PRINTERS 
+Examiners must also be aware that it might be possible to recover previously printed 
+documents. Although the odds of recovery can be low depending on a variety of factors, 
+understanding how retrieval can be achieved can be of great value to the investigator.  
+ 
+In addition to using printer-spool files to recover previously printed documents, many 
+printers have internal hard drives that may contain information relevant to a fraud 
+examination. In general, any information sent to and stored by a printer is recoverable unless 
+the printer has overwritten the data.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.707 
+Furthermore, some printers have memory buffer — temporary storage area of jobs waiting to be 
+printed — which may also contain important information. Information contained in memory 
+buffer, however, is generally limited to recently created and stored data.  
+ 
+COPIERS AND SCANNERS 
+Like some printers, copiers and other multifunction machines may have internal storage 
+devices that store relevant data. In fact, almost every copier built since 2002 has a hard drive 
+that stores images of documents the machines have copied, scanned, or e-mailed. Some 
+copiers store user access records and a history of copies made. And, as with most file 
+systems, it may be possible to retrieve information from a copier’s hard drive that has been 
+deleted. As a result, copiers may be brimming with important information.  
+ 
+FAX MACHINES 
+Although some kinds of stand-alone fax machines simply scan and send data without storing 
+it, like many printers and copiers, some fax machines store faxing data on their own internal 
+hard drive. This data may remain in the machine’s memory until overwritten.  
+ 
+BACKUP TAPES  
+Backup tapes are a type of removable media that stores data and can be easily removed from 
+a computer system or device. Most computer users archive their activities on backup tapes 
+or some other form of external storage devices, and most companies use backup tapes to 
+store old data, including e-mail data, that was once stored on their servers.  
+ 
+REMOVABLE STORAGE DEVICES 
+In addition to backup tapes, a suspect’s removable storage devices should be examined. 
+Removable storage devices such as CDs, DVDs, USB flash drives (also known as thumb 
+drives), mp3 players, and various other devices provide users with the ability to store large 
+amounts of data. Such devices can be used to facilitate a variety of frauds. They provide 
+users with the ability to store files that go undetected by anyone accessing the computer. 
+Removable media can also be used to store copies of files containing sensitive information in 
+order to facilitate unapproved use.  
+ 
+SMART PHONES 
+The proliferation of smart phones has made them an extremely valuable source of 
+information. Smart phones (e.g., the iPhone and Blackberry) are cell phones that also have 
+the ability to store personal data, search the Internet, check e-mail, instant message (IM), 
+Digital Forensics  Investigation 
+3.708   2011 Fraud Examiners Manual  
+make video calls, download/upload content to and from the Internet, take pictures, and 
+record video. The information that can be stored on these small devices can be very 
+important in many cases.  
+ 
+Network 
+In addition to searching for evidence on the suspect’s operating system and workstation, it is 
+also important to examine information stored on company servers. A wealth of information, 
+which is separate from a user’s workstation, may be stored on company servers. Data stored 
+on company networks may include documents posted to a suspect’s own home directory on 
+the network; collaborative work saved to a shared folder or directory; e-mail messages that 
+have been sent, received, deleted, or archived; calendars; contact lists; and so on.   
+ 
+Law Enforcement Assistance 
+Before conducting a forensic examination, examiners must consider whether a crime has in 
+fact been committed. If, at the beginning of the investigation, it is determined that the victim 
+company will make a formal referral to law enforcement or prosecuting agency, then the 
+authorities must be notified before the investigation begins to determine whether law 
+enforcement personnel should participate in the examination. In some jurisdictions, an 
+examiner from the law enforcement community may not be available. 
+ 
+  
+
+
+
+:
+
+
+conduct an investig involv comput
+the increas usag of the internet and other technolog in all aspect of our person and
+profession live ha creat new opportun for technolog to be us in perpetr
+almost everi type of fraud and in most fraud case investig gather some type of digit
+evid
+fraud examin must therefor be prepar to address the myriad issu relat to
+examin involv digit evid
+comput investig versu comput forens
+while at first the term comput investig mai appear synonym with comput
+forens there is an import distinct between the two an investig lead an
+investig into a crime that involv a comput is not necessarili and in most case
+should not be the forens examin it is import to keep these area separ combin
+the two especi in case in which the suspect is alreadi name invit question about the
+object of the forens examin it could also subject investig to unwelcom
+scrutini regard whether thei suppress exculpatori evid that mai have been found
+dure an examin by a more object investig
+digit evid
+digit evid when boil down to it basic is simpli binari data on and zero that
+is interpret by the comput everyth that is digit store is made up of these on
+and zero from the program themselv to the data with which the program interact
+interpret built into the program show these on and zero as hex code thi hex code is
+then translat onto the page or websit seen on the comput screen
+as the profession us comput technolog increas so doe the crimin us financi
+crime and fraud commit ar probabl the most common type of comput crime
+commit the investig of financi crime gener requir a level of expertis not
+commonli held by all investig therefor there is addit knowledg and experi
+requir when conduct a forens comput examin in a financi or fraud case
+digit forens investig
+3702 2011 fraud examin manual
+there ar three type of situat in which comput evid is gener discov 1
+comput as the target of crime 2 comput as the instrument of crime and 3
+comput as the repositori of evid
+comput themselv can be the target of crime crime commit against comput
+includ comput and computercompon theft system intrus softwar piraci and
+softwar theft
+comput can also be us to facilit a crime when thi occur the comput is known
+as the tool or instrument of crime in such case as on would expect examin commonli
+encount comput that have been us in offens such as the solicit of minor in
+chat room check fraud and counterfeit
+gener speak in all comput investig the examin attempt to locat the
+storag of potenti digit evid in on form or anoth on the comput system the
+comput system involv in the investig is a potenti repositori of evid whether
+the user intend to store an item or not therefor the examin is interest in
+incrimin evid that the user intention or unintention store on the comput
+system
+integr of digit evid
+electron evid is more volatil than paper inform and becaus it can be easili
+alter or destroi it must be handl properli for exampl comput file can be alter
+simpli through the normal startup process most of the microsoft oper system such as
+window xp chang the time and date stamp on a number of file dure startup and
+delet a number of temporari file dure the shutdown process these piec of
+inform could be critic to the investig
+the destruct of digit evid through improp handl can result in a find of
+spoliat of evid by a judg or can rais question about the alter of exculpatori
+evid by the defens
+addition if a judg determin that the authent of the evid cannot be
+satisfactorili made then he mai rule that the evid is inadmiss although digit
+evid is differ from tangibl evid the rule regard it admiss in court is
+investig digit forens
+2011 fraud examin manual 3703
+realli no differ from the admiss of ani other type of evid to be admiss
+digit evid must be
+relev
+support by a foundat for it introduct into court
+legal obtain
+properli identifi
+properli preserv
+therefor should the fraud examin discov digit evid he must be abl to state
+unequivoc that the evid wa not chang in ani wai by hi action thi requir that
+strict forens methodolog be follow to satisfi the stringent evidentiari standard
+necessari to ensur the integr of the evid beyond a reason doubt for
+present in court
+forens expert
+also when conduct an examin involv comput the examin should determin
+whether an outsid forens examin is need or whether the expertis is avail inhous
+some organ have their own inhous personnel whom thei have train and
+outfit with the proper equip and softwar tool to conduct the examin and
+analyz digit evid while other mai prefer the us of an outsid examin who will be
+abl to conduct a thorough examin prepar a proper report and deliv expert
+testimoni if need in legal proceed
+sometim inform retriev is as easi as obtain a warrant and search the hard
+drive of the target comput but mani fraudster anticip their exposur and delet
+incrimin file from their machin in these instanc it is import to know that there
+ar a varieti of wai of recov delet or hidden data from a target comput and it
+peripher
+a computerforens examin is a train profession who is capabl of analyz digit
+media at the hexadecim level the hexadecim level mean that everi sector and all the
+byte in those sector ar avail for view thi includ delet file both purposefulli
+delet and those that were delet through variou windowsautom process thi
+can also includ temporari autosav file printspool file delet email and link file
+the hexadecim level also contain variou item found in restor point and registri file
+digit forens investig
+3704 2011 fraud examin manual
+that defin hardwar such as extern drive and websit visit in addit to the
+document revis and file creat and maintain by the user
+the increas sophist of window allow the comput system to store more
+inform about how peopl us their comput the forens examin will be abl to
+uncov a larg amount of data that relat to the us of a comput what is or ha been
+store on it and the detail about the user in micr osoft effort to be all to the user it ha
+incorpor wai to make comput us more secur such as offer encrypt and other
+method to protect data from unwant access in the futur these type of innov will
+stall the examin and will sometim successfulli prevent system access howev these
+encrypt packag ar not alwai foolproof the encrypt file system offer by
+microsoft ha in fact been crack by a number of passwordcrack softwar maker in
+addit to encrypt file other encrypt algorithm exist that ar easili instal and can
+be us to encrypt the entir hard drive in situat such as thi it becom necessari for
+the examin to be abl to identifi whether a drive is encrypt befor seiz and
+disconnect the system
+moreov computerforens examin have special tool and softwar design to
+facilit a thorough and legal suffici analysi of item that contain digit evid it is
+import to allow a train examin to conduct a proper seizur and examin on a
+piec of evid so the investig will have the best chanc of us that evid in a
+legal proceed whether an agenc or compani is defend against an unlaw
+termin suit or file a crimin complaint it is vital that the digit evid is handl
+properli
+furthermor whether technic specialist ar need to assist with an investig will
+depend on the complex of the examin requir the more technic the natur of the
+crime the more technic and special the analyt skill requir some comput
+investig howev do not requir extrem sophist technic skill for exampl
+in case where the comput is the instrument us to commit the crime eg scam
+involv payrol applic cook the book fraudul electron fund transfer
+insid trade etc the fraud examin need onli know how to search a databas and
+analyz the result
+addition thi determin will depend on the examin skill level therefor an
+examin conduct an examin involv comput must have a basic understand
+investig digit forens
+2011 fraud examin manual 3705
+of hi skill level and must be awar of hi limit in the field of comput technolog
+becaus in mani instanc on or more technic specialist ar need to assist with an
+investig
+within the comput forens field there ar sever differ type of special expert
+oper and file system expert these expert ar profici in certain oper system
+eg window 7 unix solari os x or as400 and the variou file system thei
+emploi eg joliet ntf fat vf ex t2 and thei have the abil to convei
+oper characterist and observ artifact
+data recoveri expert these expert oper clean room design to magnet extract
+inform from a damag media sourc us special tool and equip these
+expert can disassembl a hard disk separ the platter and extract and reassembl the
+inform for subsequ examin
+forens account expert a forens account can prov id variou servic includ
+audit account perform review and examin of financi document for
+fraud misconduct or industri standard violat
+tape and archiv extract expert these ar expert in extract inform from tape or
+other system backup typic backup solut archiv data in proprietari format
+make extract veri cumbersom
+intrus and malici code expert these expert special in investig comput
+network intrus specialist can determin attack vector the tool emploi what
+occur dure access and what if anyth wa taken
+but given the divers of computerrel fraud no person can be an expert in all aspect
+of comput technolog
+locat evid
+to conduct a success examin examin must know what to look for and where to
+look for it but thi can be difficult becaus digit data can be store larg volum and in a
+number of differ locat
+the effici of comput technolog ha allow user to creat more volumin piec
+of data than wa onc possibl comput hard drive ar pack with digit data and data
+storag now exce gigabyt therefor it is necessari to refer larger storag
+capac here is a chart that will help
+digit forens investig
+3706 2011 fraud examin manual
+name abbr size
+kilo k 210 1024
+mega m 220 1048576
+giga g 230 1073741824
+tera t 240 1099511627776
+peta p 250 1125899906842624
+exa e 260 1152921504606846976
+zetta z 270 1180591620717411303424
+yotta y 280 1208925819614629174706176
+furthermor digit evid mai be locat in a number of differ locat in addit
+to be store on comput evid will be locat in ani form of technolog that can be
+us to transmit or store data therefor it is also import to investig ani suspect
+workstat includ ani peripher or other portabl media devic that can be us to
+transmit or store data and the inform store on the compani network
+workstat
+in addit to investig the suspect mainfram it is also import to investig the
+suspect workstat includ ani peripher or other portabl media devic that can be
+us to transmit or store data as data move to and from peripher devic it leav
+evid of it presenc and sometim leav full copi of it content
+therefor fraud examin should consid the mani differ type of peripher that
+might contain evid item to be seiz might includ ani or all of the follow item
+list below depend upon the natur of the fraud case
+printer
+examin must also be awar that it might be possibl to recov previous print
+document although the odd of recoveri can be low depend on a varieti of factor
+understand how retriev can be achiev can be of great valu to the investig
+in addit to us printerspool file to recov previous print document mani
+printer have intern hard drive that mai contain inform relev to a fraud
+examin in gener ani inform sent to and store by a printer is recover unless
+the printer ha overwritten the data
+investig digit forens
+2011 fraud examin manual 3707
+furthermor some printer have memori buffer temporari storag area of job wait to be
+print which mai also contain import inform inform contain in memori
+buffer howev is gener limit to recent creat and store data
+copier and scanner
+like some printer copier and other multifunct machin mai have intern storag
+devic that store relev data in fact almost everi copier built sinc 2002 ha a hard drive
+that store imag of document the machin have copi scan or email some
+copier store user access record and a histori of copi made and as with most file
+system it mai be possibl to retriev inform from a copier hard drive that ha been
+delet as a result copier mai be brim with import inform
+fax machin
+although some kind of standalon fax machin simpli scan and send data without store
+it like mani printer and copier some fax machin store fax data on their own intern
+hard drive thi data mai remain in the machin memori until overwritten
+backup tape
+backup tape ar a type of remov media that store data and can be easili remov from
+a comput system or devic most comput user archiv their activ on backup tape
+or some other form of extern storag devic and most compani us backup tape to
+store old data includ email data that wa onc store on their server
+remov storag devic
+in addit to backup tape a suspect remov storag devic should be examin
+remov storag devic such as cd dvd usb flash drive also known as thumb
+drive mp3 player and variou other devic provid user with the abil to store larg
+amount of data such devic can be us to facilit a varieti of fraud thei provid
+user with the abil to store file that go undetect by anyon access the comput
+remov media can also be us to store copi of file contain sensit inform in
+order to facilit unapprov us
+smart phone
+the prolifer of smart phone ha made them an extrem valuabl sourc of
+inform smart phone eg the iphon and blackberri ar cell phone that also have
+the abil to store person data search the internet check email instant messag im
+digit forens investig
+3708 2011 fraud examin manual
+make video call downloadupload content to and from the internet take pictur and
+record video the inform that can be store on these small devic can be veri
+import in mani case
+network
+in addit to search for evid on the suspect oper system and workstat it is
+also import to examin inform store on compani server a wealth of inform
+which is separ from a user workstat mai be store on compani server data store
+on compani network mai includ document post to a suspect own home directori on
+the network collabor work save to a share folder or directori email messag that
+have been sent receiv delet or archiv calendar contact list and so on
+law enforc assist
+befor conduct a forens examin examin must consid whether a crime ha in
+fact been commit if at the begin of the investig it is determin that the victim
+compani will make a formal referr to law enforc or prosecut agenc then the
+author must be notifi befor the investig begin to determin whether law
+enforc personnel should particip in the examin in some jurisdict an
+examin from the law enforc commun mai not be avail

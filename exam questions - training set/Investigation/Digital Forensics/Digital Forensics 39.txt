@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=A megabyte is equal to how many bytes of data?
+
+Options=256 | 1,048,576 | 1,024 | 1,073,741,824
+
+CorrectResponse=1
+
+Explanation=All data is composed of bits (binary digits). It takes eight bits to make one byte, v/hich is what we are commonly used to hearing when we talk about storage capacity, such as 256 megabytes. One megabyte equals 1024 kilobytes, and one kilobyte equals 1024 bytes. As you can see, one bit is a relatively infinitesimal piece of data, but it is important that not even one bit of data be altered by the forensic process.See page(s) 3.718 in the Fraud Examiner's Manual

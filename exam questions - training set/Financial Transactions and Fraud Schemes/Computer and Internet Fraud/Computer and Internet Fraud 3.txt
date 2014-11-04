@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is the definition of the computer manipulation technique known as the "salami" technique?
+
+Options=Searching for valid access codes or trap doors | Stealing a small amount of assets from a large number of sources without noticeably reducing the whole | Toggling back and forth between benign activity and hacking | Using several networks in a series in order to avoid detection
+
+CorrectResponse=1
+
+Explanation=Salami techniques involve the theft of small amounts of assets from a large number of sources without noticeably reducing the whole. For example, in a banking system, the amount of interest to be credited to an account is rounded off. A fraudster might set up the system so that, instead of rounding off the number, that fraction of it is credited to a special account owned by the perpetrator.See page(s) 1.1807 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=A payment or reward to an official for performing the duties required of him or her is an illegal gratuity.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A bribe is a payment made with the purpose of influencing (changing) an official’s conduct. An illegal gratuity is a payment made to reward or compensate an official for	performing duties that he or she is already lav/fully required to perform.See page(s) 2.275 in the Fraud Examiner's Manual

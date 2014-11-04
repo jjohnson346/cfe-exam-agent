@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, ____________________ are questions that often suggest an answer opposite to the correct one.
+
+Options=Reverse | Inverted | Complex | None of the above
+
+CorrectResponse=3
+
+Explanation=Double-negative questions are confusing and often suggest an answer opposite to the correct one. They should not be used. Example: "Didn't you suspect that something wasn't right?"See page(s) 3.224 in the Fraud Examiner's Manual

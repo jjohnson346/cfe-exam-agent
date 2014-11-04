@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+physical                               1
+www.accessdata.com                     1
+for                                    1
+secure                                 2
+data                                   1
+visit                                  1
+perform                                1
+volumes                                1
+remote                                 1
+analysis                               1
+of                                     2
+acquisition                            2
+more                                   1
+accessdata                             1
+mounting                               1
+on                                     1
+live                                   1
+information                            1
+•                                      2
+and                                    2
+network-based                          1
+logical                                1
+preview                                1
+ram                                    1
+device                                 1
+devices                                1
+single-system                          1
+forensic                               1
+
+Totals:                     28        33

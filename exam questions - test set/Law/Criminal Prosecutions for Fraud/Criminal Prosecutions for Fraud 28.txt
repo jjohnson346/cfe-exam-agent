@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Both individuals and businesses have a Fifth Amendment right not to be compelled to testify against themselves.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Fifth Amendment provides that no person "shall... be compelled in any criminal case to be a witness against himself..." The Fifth Amendment applies:‰?¢	In criminal and civil cases‰?¢	To compelled "testimonial statements": Nontestimonial conduct, such as compelling a suspect to appear in a line-up, give handwriting samples, or submit to blood or alcohol tests, is not barred by the Fifth Amendment‰?¢	Only to individuals. Business entities, including sole proprietorships and other organizations, do not have a Fifth Amendment privilege.See page(s) 2.503 in the Fraud Examiner's Manual

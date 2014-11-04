@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=If during a fraud examination a Certified Fraud Examiner obtains a written admission of guilt from the suspect, it is permissible to indicate in the written report that the suspect is guilty of the allegations.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The fraud examiner must also avoid stating opinions regarding the guilt or innocence of any person or party'. The Certified Fraud Examiner s Code of Professional Ethics specifically prohibits statements of opinions regarding guilt or innocence, as this is the job of the judge or jury (see the Fraud Prevention and Deterrence section of the Fraud Examiners Manual). Opinions regarding technical matters are permitted if the fraud examiner is qualified as an expert in the matter being considered. For example, a permissible expert opinion might be regarding the relative adequacy of an entity‰??s internal controls. Another opinion might discuss whether financial transactions conform to generally accepted accounting principles.See page(s) 3.903 in the Fraud Examiner's Manual

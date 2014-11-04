@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In a potentially volatile interview, the interviewer should stay away from hypothetical questions completely.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The hypothetical question is generally considered to be less threatening, and is, therefore, ideally suited for the potentially volatile interview. For example, if you are interviewing Mr. Smith regarding Mr. Jones, rather than saying, ‰?? Did Mr. Jones do it?" ask, ‰??Is there any reason why Mr. Jones would have done it?‰??See page(s) 3.233 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Officer Smith, a police officer arrests Jones without adequate probable cause. Incidental to the arrest, Jones is searched and evidence of a previously unknown crime is uncovered. The evidence based on the arrest without probable cause:
+
+Options=Cannot be used | May be used for the unknown crime, but cannot be used for the incident matter | May be used, depending on the circumstances | Can be used for the previously unknown crime
+
+CorrectResponse=0
+
+Explanation=Police officers may search the person arrested without a warrant in order to protect themselves and the evidence. For the search to be valid, the arrest must be valid The arrest must be based on probable cause, and not to justify the search. If the arrest is unlawful when made, it cannot be justified by the fruits of the subsequent search, and all evidence obtained must be suppressed.See page(s) 2.421-2.422 in the Fraud Examiner's Manual

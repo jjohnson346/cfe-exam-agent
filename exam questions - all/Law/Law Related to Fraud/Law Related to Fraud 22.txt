@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=If a person has legal possession of property and then steals that property, the offense is:
+
+Options=Embezzlement | Robbery | Larceny | None of the above
+
+CorrectResponse=0
+
+Explanation=Embezzlement is the wrongful appropriation of money or property by a person to whom it has been lawfully entrusted Embezzlement implicitly involves a breach of trust, although it is not necessary to show a fiduciary relationship between the parties.	See page(s) 2.209 in the Fraud Examiner's Manual

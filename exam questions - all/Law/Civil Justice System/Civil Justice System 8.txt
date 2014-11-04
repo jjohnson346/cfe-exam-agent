@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Sworn testimony given by a party upon questioning by counsel before trial and outside of court is referred to as which of the following?
+
+Options=Privileged interview | Oath | Subpoena duces tecum | Deposition
+
+CorrectResponse=3
+
+Explanation=Depositions are probably the most popular and useful form of discovery. A deposition is sworn testimony given by a party or witness upon questioning by counsel for one of the parties before trial and outside of court, usually in a lawyer's office. Opposing counsel and a stenographer, who administers the oath and transcribes the testimony, also are present. Deposition testimony may be used to obtain evidence about the party's or the opponent's case, or to preserve testimony for trial. In the federal system, a witness outside the subpoena power of the court may be deposed in the witness' area of residence and the transcript read to the jury at trial.See page(s) 2.604 in the Fraud Examiner's Manual

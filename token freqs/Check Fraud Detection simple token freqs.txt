@@ -1,0 +1,7 @@
+Token                          Frequency
+-----------------------------  ---------
+detection                              1
+check                                  1
+fraud                                  1
+
+Totals:                      3         3

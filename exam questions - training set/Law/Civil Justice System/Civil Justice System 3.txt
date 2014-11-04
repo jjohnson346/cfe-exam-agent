@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In a federal civil trial, if the plaintiff wins a money judgment, additional legal action is normally required in order to collect.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A plaintiff who obtains a money judgment often must take additional steps to collect it. This may include garnishing wages of the defendant or levying against assets. In many instances, particularly in fraud litigation, a judgment may go uncollected because the defendant has already squandered the ill-gotten gains or has secreted them. In the latter circumstances, a plaintiff may conduct post-judgment discovery, including a deposition of the defendant, in an attempt to locate assets to satisfy the judgment.See page(s) 2.615 in the Fraud Examiner's Manual

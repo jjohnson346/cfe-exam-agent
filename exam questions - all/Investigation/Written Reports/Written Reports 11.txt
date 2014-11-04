@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Baker, a Certified Fraud Examiner, has obtained an oral confession from Gamma, a fraud suspect. In addition to fraud, Gamma also admitted he was smuggling drugs in an unrelated case. How should this be handled in Gamma's written statement?
+
+Options=Both crimes should be included in the same statement | Information concerning the drug smuggling should be omitted | Separate statements should be taken for separate crimes | None of the above
+
+CorrectResponse=2
+
+Explanation=There should not be more than one written statement for each offense. If facts are inadvertently omitted, they can later be added to the original statement as an addendum. For legal purposes, prepare separate statements for unrelated offenses. This rule applies because the target might be tried more than once; once for each offense. Preserve all notes taken during an interview, especially those concerning a confession. Having access to pertinent notes can aid in a cross-examination regarding the validity of a signed statement. Stenographic notes, if any, also should be preserved Once a confession is obtained, substantiate it through additional investigation, if necessary. Don't destroy the statement once it has been signed.See page(s) 3.922 in the Fraud Examiner's Manual

@@ -1,0 +1,10 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In taking a verbal confession, certain items of information should be obtained. Which of the following is one of them?
+
+Options=Estimates of the number of instances and amounts involved | That the accused knew the conduct was wrong | Facts known only to the confessor | All of the above
+
+CorrectResponse=3
+
+Explanation=Certain things should be obtained during the verbal confession: (1) that the accused knew the conduct was wrong; (2) facts known only to the confessor; (3) an estimate of the number of instances and amounts involved; (4) the motive for the offense; (5) when the offense commenced and terminated; (6) references to physical evidence; (7) the disposition of the proceeds; (8) the location of any assets; and (9) the specifics of each offense.  See page(s) 3.265-3.271 in the Fraud Examiner's Manual
+

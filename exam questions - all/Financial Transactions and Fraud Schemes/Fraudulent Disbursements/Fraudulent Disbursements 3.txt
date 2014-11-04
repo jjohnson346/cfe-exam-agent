@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=The Corporate Fraud Handbook describes all of the following payroll scheme types EXCEPT:
+
+Options=Ghost employees | Falsified hours and salary | Commission schemes | Stolen paychecks
+
+CorrectResponse=3
+
+Explanation=In general, payroll schemes fall into one of the following categories:•	Ghost employees•	Falsified hours and salary•	Commission schemesIf an employee stole paychecks, this would fall under check tampering, not payroll fraud. The reason is that the heart of the scheme is stealing the check, not generating false payroll disbursements.See page(s) 213 in the Corporate Fraud Handbook

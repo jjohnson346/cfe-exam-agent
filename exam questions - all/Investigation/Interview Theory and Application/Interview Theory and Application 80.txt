@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In most interviews, more than half of the respondent's communications with the interviewer are likely to be nonverbal.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The interviewer must be skilled in interpreting the respondent's reactions to questions. Social scientists say that more than half the communication between individuals is nonspoken. The interviewer must, therefore, observe systematically, though in a nondescript manner, the various responses the respondent gives during the course of the conversation. This is done by first posing nonsensitive questions while establishing rapport. During this phase, the interviewer attempts to find some common ground on which to connect with the respondent. After the interviewer establishes some rapport through normal conversation, the respondent's reactions are observed. This will serve as a baseline for observing behavior when more sensitive questions are asked. If the respondent's verbal and nonverbal behavior are inconsistent from one type of question to another, the interviewer will attempt to determine why.See page(s) 3.216-3.217 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=relevant evidence may still be excluded for a variety of reasons. Which of the following is NOT one of those reasons?
+
+Options=Unfair prejudice | Misleading | Waste of time | Irrelevant
+
+CorrectResponse=3
+
+Explanation=According to Rule 403, relevant evidence might be excluded if it is unduly prejudicial, threatens to confuse or mislead the jury, or cause unnecessary delay, waste of time, or is merely cumulative.See page(s) 2.704 in the Fraud Examiner's Manual

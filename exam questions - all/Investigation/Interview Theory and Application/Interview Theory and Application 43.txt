@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, closing questions serve several purposes. Which of the following is/are included in those purposes?
+
+Options=Reconfirm facts | Obtain additional facts | Conclude the interview | All of the above are purposes
+
+CorrectResponse=3
+
+Explanation=In routine, informational interviews, closing the interview on a positive note is a must. During interviews, closing questions are asked for the following purposes: to reconfirm facts, to gather additional facts, and to conclude the interview.See page(s) 3.234 in the Fraud Examiner's Manual

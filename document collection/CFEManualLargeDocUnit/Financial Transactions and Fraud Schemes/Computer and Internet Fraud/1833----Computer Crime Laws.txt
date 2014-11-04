@@ -1,0 +1,740 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Crime Laws
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Computer Crime Laws 
+ 
+International Law 
+With a global communications network such as the Internet, the odds have dramatically 
+increased that a crime may have been perpetrated in a foreign nation, or that records related 
+to a portion of the communications transmission may have passed through another country. 
+This can cause tremendous complications for a fraud examiner attempting to pursue his 
+investigation. 
+ 
+Victims of scams originating overseas usually find themselves with virtually no recourse. 
+Recent computer equipment and software scam operations in former communist nations 
+have specifically targeted U.S. users. Language, communication, and distance obstacles are 
+nearly insurmountable in working with foreign law enforcement officials to resolve such 
+cases. In the future, greater international cooperation will be necessary to combat 
+international high tech crime.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1863 
+Recently, however, the U.S. has taken two substantial steps to combat the inconsistency in 
+international laws pertaining to computer fraud. First, on September 29, 2006, the United 
+States became a party to the Council of Europe Convention on Cybercrime, which “is the 
+only legally binding multilateral instrument specifically addressing computer-related crime, 
+helping protect citizens against computer hacking and Internet fraud, as well as crimes 
+involving electronic evidence.” Parties to the Convention are committed to harmonizing 
+national laws, to improving investigative techniques, and to increasing cooperation.  
+ 
+Second, the U.S. is an active participant in the Subgroup on High-Tech Crime at G8’s Lyon 
+Group, which was created “to enhance the abilities of G8 countries to prevent, investigate, 
+and prosecute crimes involving computers, networked communications, and other new 
+technologies.” One significant accomplishment of the Subgroup was the creation of a 
+network that allows law enforcement authorities of member nations to receive rapid 
+cooperation in investigating computer crime. 
+ 
+Federal Laws 
+There are many laws that can be used to prosecute computer crimes and frauds. In the 
+United States, the basic laws used to prosecute computer and other high tech crimes are 
+divided into the federal laws and state laws.  
+ 
+Computer Fraud and Abuse Act (Title 18, U.S. Code, Section 1030) 
+Most computer crimes are prosecuted under traditional fraud, theft, and embezzlement 
+statutes. A statute enacted in 1984, Title 18, U.S. Code, section 1030, makes certain 
+computer-related activity a specific federal offense. More information on section 1030 is set 
+out in the “Law Related to Fraud” chapter in the Law section of the Fraud Examiners  Manual. 
+ 
+In brief, section 1030(a) prohibits seven acts involving “protected computers.”  
+ 
+A protected computer, under this section, includes: 
+• A computer that is used exclusively by a financial institution or the United States 
+government. 
+• Any computer the use of which affects a computer used by a financial institution or the 
+federal government. 
+• A computer that is used in interstate or foreign commerce or communication. 
+ 
+Briefly, section 1030(a) prohibits using a protected computer:  
+Computer and Internet Fraud  Financial Transactions   
+1.1864                           2011 Fraud Examiners Manual  
+• To commit espionage (18 U.S.C. § 1030(a)(1));  
+• To obtain, without authorization, certain government, financial institution, or 
+commercial information (18 U.S.C. § 1030(a)(2)); 
+• To access, without authorization, a government computer (18 U.S.C. § 1030(a)(3)); 
+• To commit fraud ((18 U.S.C. § 1030(a)(4));  
+• To transmit a program, code, or command to damage a protected computer or to access 
+a protected computer that results in damage (18 U.S.C. § 1030(a)(5)) 
+• For trafficking in passwords (18 U.S.C. § 1030(a)(6)); 
+• To transmit extortionate threats (18 U.S.C. § 1030(a)(7).  
+ 
+Sections 1030(a)(5) and 1030(a)(4) are discussed in further detail below.  
+ 
+COMPUTER FRAUD (TITLE 18, U.S. CODE, SECTION 1030(a)(4)) 
+As noted above, section 1030(a)(4) outlaws fraud involving protected computers. There are 
+three elements of the crime, which include: 
+• Knowingly accessing a protected computer without authorization (or exceeding 
+authorization); 
+• With the intent to defraud; and  
+• Thereby obtaining anything of value (more than $5,000 over the course of a year). 
+ 
+CAUSING COMPUTER DAMAGE (TITLE 18, U.S. CODE SECTION 1030(a)(5)) 
+Section 1030(a)(5), which applies to computers used in interstate or foreign commerce or 
+communication, outlaws causing computer damage. But it contains two categories of 
+offense, depending on intent. The first category provides that it is illegal to knowingly 
+transmit a program, code, or command that intentionally causes damage a protected 
+computer. This offense applies even if the individual had authorization to access the 
+computer.  
+ 
+The second category provides that it is illegal to access a protected computer, without 
+authorization, that results in damage. Unlike the first category, this offense does not require 
+intent to damage, only the intent to access the information.  
+ 
+Unlawful actions under the first category of section 1030(a)(5) violations include 
+imprisonment up to one year and/or a fine. Violators under the second category of section 
+1030(a)(5) may receive up to five years imprisonment (not more than 10 years for repeat 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1865 
+offenders) and/or a fine. Both categories provide a civil remedy for any person who suffers 
+damage as a result of a violation of section 1030(a)(5).  
+ 
+To apply, section 1030(a)(5) requires that the defendant’s conduct “cause” damage to a 
+computer. Due to its broadness, the definition allows section 1030(a)(5) to apply in various 
+situations, including instances where an act causes information to be deleted or changed, 
+where an intruder alters the way a computer operates, or where an act makes information 
+unavailable. Even if an intruder did not make any alterations and the computer system works 
+as it did before, some courts have ruled that accessing and copying private data from 
+protected computers may cause damage to the data under section 1035(a)(5).  
+ 
+PENALTIES   
+The Computer Fraud and Abuse Act provides both criminal and civil liability. Section 1030 
+includes criminal punishment provisions; however, it provides different penalties, depending 
+on the specific conduct. The Act also provides civil remedies for individuals that suffered 
+damages resulting from section 1030 violations. 
+ 
+Can-Spam Act (Title 18, U.S. Code Section 1037) 
+The Can-Spam Act, or the Controlling the Assault of Non-Solicited Pornography and 
+Marketing Act, attempts to reduce the amount of unsolicited commercial e-mail, which is 
+also known as spam, by establishing national standards for sending e-mail solicitations. To 
+reduce the amount of spam, the Can-Spam Act provides several provisions that apply to 
+individuals or companies sending spam. More specifically, the Act prohibits several 
+deceptive and/or fraudulent practices commonly used in spam, including the prohibition of 
+using deceptive subject lines, using deceptive header information, and requiring sender 
+identification. Penalties under the Can-Spam Act include punishment by a fine and/or 
+imprisonment for not more than five years.  
+ 
+Access Device Fraud (Title 18, U.S. Code, Section 1029) 
+Title 18, U.S. Code, section 1029, criminalizes the production, use, trafficking, or possession 
+of unauthorized or counterfeit access devices. Access devices are devices that allow access to 
+account funds. Most importantly, section 1029 proh ibits the fraudulent use of credit cards. 
+However, because Congress broadly defined the term “access devices,” section 1029 also 
+applies to crimes using other access device numbers, including debit cards, ATM cards, 
+personal identification numbers (PINs), computer passwords, “or any other thing of value, 
+Computer and Internet Fraud  Financial Transactions   
+1.1866                           2011 Fraud Examiners Manual  
+or that can be used to initiate a transfer of funds (other than a transfer originated solely by 
+paper instrument).” 
+ 
+Identity Theft and Assumption Deterrence Act of 1998 (Title 18, U.S. Code, Section 1028) 
+As discussed in the Consumer Fraud section, the growth of identity theft led Congress to 
+pass the Identity Theft and Assumption Deterrence Act, which makes identity theft a federal 
+crime. This Act outlaws the intentional and unauthorized use of another individual’s 
+identification, with the intent to commit a crime. The Identity Theft and Assumption 
+Deterrence Act carries a maximum term of 15 years’ imprisonment, a fine, and criminal 
+forfeiture of any personal property used or intended to be used to commit the offense. The 
+penalty is increased to imprisonment of up to 30 years if the offense is committed to 
+facilitate an act of terrorism.  
+ 
+Interstate Transportation of Stolen Property (ITSP) (Title 18, U.S. Code, Section 2314) 
+The ITSP statute prohibits the transportation, transmittal, or transfer of fraudulently 
+received goods, wares, merchandise, securities, or money in interstate or foreign commerce, 
+when valued at $5,000 or more. Prosecutors of ten use the ITSP statute in fraud prosecutions 
+in conjunction with mail fraud counts, wire fraud counts, or to provide federal jurisdiction in 
+their absence. To apply, the ITSP statute requires that an individual transport the proceeds, 
+which must value at least $5,000, across state lin es. Defendants also violate the statute if they 
+induce their victim(s) to travel in interstate commerce as part of the scheme to defraud. 
+Courts may aggregate items valued at less than $5,000 as part of the same scheme to meet 
+the value requirement. 
+ 
+Additionally, it is clear that section 2314 applies when defendants steal tangible items, which 
+qualify as goods, wares, or merchandise, that contains intellectual property. However, courts 
+have had varying opinions on the characterization of intellectual property as “goods, wares, 
+merchandise, securities, or money” when an individual steals intangible property through 
+intangible means.  
+ 
+Electronic Communications Privacy Act of 1986  
+The Electronic Communications Privacy Act of 1986 (ECPA), codified at 18 U.S.C. §§ 
+2510–2521, 2701–2710, 3121–3126, governs the illegal interception of electronic 
+communication and the unauthorized access of electronically stored data. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1867 
+The ECPA is divided into three parts: the Wiretap Act, the Stored Communications Act, and 
+the Pen Register Act, which regulates pen registers and trap and trace devices. This section, 
+however, focuses on the Wiretap Act and the Stored Communications Act. 
+ 
+THE WIRETAP ACT (TITLE 18, U.S. CODE, SECTIONS 2510-2521) 
+In response to privacy breaches, Congress enacted the Wiretap Act, which prohibits anyone 
+from intentionally intercepting or attempting to intercept any wire, oral, or electronic 
+communication. 
+  
+Focusing on its applicability to computer fraud, the Wiretap Act prohibits the intentional 
+interception of certain electronic communications, including e-mail; it does not govern 
+stored communications. Under the Wiretap Act, an interception occurs by the acquisition of 
+the contents of any electronic communication through the use of any device. Most courts 
+have held that interception occurs only when the protected communications are obtained 
+contemporaneously with their transmission.  
+ 
+Additionally, most courts agree that interception does not occur when an individual obtains 
+access to an electronically stored copy of the communication, “whether such storage occurs 
+pre- or post-delivery, and even if the storage lasts only a few milliseconds.” As a result, the 
+Wiretap Act is often inadequate to protect electronic communications sent over the Internet.  
+ 
+The Wiretap Act also contains several exceptions to prosecution, including the consent 
+exception, which provides that parties to the communication may authorize others to 
+intercept the transmission.  
+ 
+Remedies for violating the Wiretap Act include criminal sanctions and civil relief. A criminal 
+violation under the Act is a felony and is punishable by up to five years imprisonment 
+and/or fines. Under a private cause of action, a court may award the plaintiff equitable relief, 
+actual damages, punitive damages, and attorneys’ fees.  
+  
+STORED COMMUNICATIONS ACT (TITLE 18, U.S. CODE, SECTION 2701) 
+As part of the Electronic Communications Privacy Act, Congress enacted the Stored 
+Communications Act (SCA) to protect stored electronic communications, such as e-mail, 
+and voicemail by prohibiting the unauthorized access of such communications that are in 
+storage. More specifically, the SCA prohibits unlawful access to a facility, which provides an 
+electronic communication service, and, then, obtaining, altering, or preventing authorized 
+Computer and Internet Fraud  Financial Transactions   
+1.1868                           2011 Fraud Examiners Manual  
+access to a wire or electronic communication while it is electronically stored in such  
+a system.  
+ 
+Unlike interception under the Wiretap Act, an electronic communication falls under the SCA 
+once a system receives and stores it. However, like the Wiretap Act, the SCA includes a 
+consent exception. Under this exception, a service provider may disclose electronic 
+communications with the lawful consent of the originator, an addressee, or the intended 
+recipient.  
+ 
+The SCA includes both civil and criminal penalties. Concerning civil penalties, the SCA 
+provides a private right of action and allows appropriate relief, including equitable relief, 
+damages, and attorneys fees. Regarding criminal penalties, the SCA provides that if the first 
+offense is committed for purposes of commercial advantage, malicious destruction, or 
+damage or private commercial gain, punishment may include a fine and/or imprisonment for 
+up to five years. For any subsequent offense, penalties include a fine and/or imprisonment 
+for not more than 10 years. In any other case, where it is a first offense, courts may impose a 
+fine or imprisonment for not more than six months, or both. For all subsequent convictions, 
+courts may impose a fine and/or imprisonment for up to 10 years. 
+ 
+Mail and Wire Fraud (Title 18, U. S. Code, Sections 1341 and 1343) 
+As discussed above, a computer may be the tool used to commit traditional crimes, including 
+mail and wire fraud. Due to the broad reach of the mail and wire fraud statutes, prosecutors 
+may use these traditional criminal statutes to prosecute computer fraud. In basic terms, the 
+laws prohibit the use of mails or wires, including the Internet, in furtherance of a fraudulent 
+scheme designed to obtain money or property.  
+ 
+Several cases have held that the federal mail and wire fraud statues apply to computer fraud. 
+Furthermore, prosecutors may use these statutes in addition to or in lieu of cases that 
+implicate trade secrets; counterfeit or illicit labels; counterfeit documentation or packaging; 
+or counterfeit trademarks, service marks, or certification marks. However, courts disagree on 
+whether the mail and wire fraud statutes reach criminal copyright infringement.  
+ 
+Penalties under the mail and wire fraud statues include fines, imprisonment up to five years, 
+or both. However, if the violation affects a financial institution, the violator may receive 
+fines up to $1,000,000, imprisonment up to thirty years, or both.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1869 
+False Statements (Title 18, U.S. Code, Section 1001) 
+Prosecutors most often use section 1001 to prosecute false statements made to law 
+enforcement or regulatory officials, not made under oath, in the course of an official 
+investigation, or on an application for such things as federal employment, credit, and visa 
+applications. Prosecutors may also use section 1001 in lieu of the misdemeanor provisions of 
+the IRS Code for filing false documents with tax returns.  
+ 
+Section 1001 violations may implicate other federal laws, including computer fraud (18 
+U.S.C. 1030(a)(4) and Internet Fraud (e.g., auction fraud or “phishing”) by making false 
+statements in any matter within the jurisdiction of the government. 
+ 
+The Economic Espionage Act of 1996 (Title 18, U.S. Code, Sections 1831-183 9) 
+The Economic Espionage Act of 1996 (EEA) makes the theft of trade secrets a federal 
+criminal offense. The EEA outlaws two types of trade secret misappropriation: section 1831 
+criminalizes economic espionage, which is the theft of a trade secret to benefit a foreign 
+government, instrumentality, or agent; and section 1832 criminalizes the theft of commercial 
+trade secrets to obtain an economic advantage.  
+ 
+Sections 1831 and 1832 provide significant penalties for trade secret violations. If done to 
+benefit a foreign government, the theft of trade secrets is punishable by up to fifteen years 
+imprisonment and up to a $500,000 fine. Trade secret theft for commercial benefit is 
+punishable by up to 10 years imprisonment and up to a $250,000 fine. The EEA, however, 
+does not provide any civil remedies. 
+ 
+Additionally, prosecutors can apply the EEA to a wide variety of misconduct because it 
+criminalizes attempts and conspiracies to violate the EEA. The same penalties apply to these 
+offenses with increased penalties if the trade secret misappropriation benefits a foreign 
+government, foreign instrumentality, or a foreign agent.  
+ 
+Moreover, the EEA authorizes the Attorney General to commence a civil action seeking 
+injunctive relief to prevent further disclosure of a trade secret by the defendant or third 
+parties.   
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1870                           2011 Fraud Examiners Manual  
+Criminal Infringement of a Copyright (Title 17, U.S. Code, Section 506 and Title 18, U.S. Code, Section 2319) 
+Title 17, U.S. Code, section 506, criminalizes willful copyright infringement and defines what 
+conduct is prohibited, while Title 18, U.S. Code, section 2319, imposes the criminal 
+punishment for a copyright infringement conviction, which is to be added to any other 
+penalties imposed by other provisions or laws. 
+ 
+Copyright law grants copyright holders six exclusive rights to their works, including the right 
+to reproduction. Generally, infringement occurs if an individual exercises any one of the 
+copyright holder’s exclusive rights without authorization or other legal authority. However, 
+not all infringements are criminal offenses. Instead, section 506 provides that copyright 
+infringement is criminal if an individual willfully reproduces or distributes, for commercial 
+advantage or private financial gain, one or more copies of copyrighted works totaling in 
+retail value $1,000 or more.  
+ 
+Section 2319 imposes punishment for both felony and misdemeanor crimes. Felony 
+penalties attach when the infringement consists of the reproduction or distribution of 10 or 
+more copies of copyrighted works within 180 days that, taken together, are worth more than 
+$2,500, or when the violation involves distribution of a “work being prepared for 
+commercial distribution” over “a computer network accessible to members of the public.” 
+Alternatively, misdemeanor crimes attach when the infringement consisted of any of  
+the following: 
+• Infringement of reproduction or distribution rights for private financial gain or 
+commercial advantage, regardless of the exact volume or value of the infringement;  
+• Infringement of reproduction or distribution rights of one or more copies of 
+copyrighted works within 180 days that are worth a total retail value of $1,000 or more, 
+and it does not involve private financial gain or commercial advantage; or  
+• Infringement of rights other than reproduction or distribution for private financial gain 
+or commercial advantage 
+ 
+In 1997, President Clinton signed The No Electronic Theft Act into law, which amended the 
+copyright laws to prohibit electronic infringements and extended the copyright infringement 
+to include acts that do not necessarily give rise to a profit.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1871 
+Limitations on Exclusive Rights: Computer Programs (Title 17, U.S. Code, Section 117) 
+Although copyright laws provide copyright holders the exclusive right to reproduction, this 
+right is subject to a number of limitations, including section 117, which allows the copying of 
+copyrighted software in limited circumstances. Under section 117, the owner of a copy of a 
+computer program is allowed to make additional copies of such program in two instances. 
+First, owners may copy a computer program if it is necessary for the use of the computer 
+program. Second, users may make a copy for archival purposes to prevent loss due to hard 
+drive failures and the like.  
+ 
+Even though the law authorizes copies made under section 117’s limitations, there are 
+restrictions. All copies must be destroyed when the possession of a computer program 
+ceases to be deemed rightful. Furthermore, any copies made in accordance with this section 
+may be transferred but must be accompanied by the original program from which copies 
+were made and with all rights in the program. 
+ 
+Digital Millennium Copyright Act (Title 17, U.S. Code, Sections 1201-1205) 
+The advent of the Internet and digital media has led to an increase in intellectual copyright 
+infringement. In response to this development, Congress enacted the Digital Millennium 
+Copyright Act of 1998 (DMCA). The DMCA outlaws the use of computers (and other 
+electronic devices) to infringe against copyright holders’ exclusive rights. To further this goal, 
+the DMCA provides liability limitations for transmitting copyrighted material online. The 
+DMCA also provides criminal penalties for circumventing copyright protection systems, 
+which are set forth in section 1201, and for compromising the integrity of copyright 
+management information pursuant to section 1202.  
+ 
+Violations under either section 1201 or 1202  are subject to a maximum of five years 
+imprisonment, up to $500,000 fine, or both. Subsequent offenses are subject to a maximum 
+of 10 years, a maximum fine of $1,000,000, or both. 
+ 
+Electronic Fund Transfers: Criminal Liability (Title 15, U.S. Code, Section 1693n) 
+Congress designed this legislation to allow consumers the ease and benefit of electronic fund 
+transfer, while defining the rights and liabilities of the parties involved in such transactions. 
+Section 1693n applies to paperless money transfers between accounts, including ATM 
+transactions, debit and credit card transactions, point-of-sale (POS) debit transactions, 
+telephone transfers, and, according to the Federal Deposit Insurance Corporation (FDIC), 
+Computer and Internet Fraud  Financial Transactions   
+1.1872                           2011 Fraud Examiners Manual  
+any “other electronic banking transactions that can result in the withdrawal of cash from 
+your bank account.” 
+ 
+In particular, this statute attaches criminal liability to the acts of: 
+• Giving false or inaccurate information under the banking laws and regulations; or 
+• Failing to provide information required under the banking laws and regulations. 
+ 
+It also prohibits certain actions affecting commerce, including: 
+• Using, attempting to use, or conspiring to use any fraudulently obtained debit 
+instrument, with knowledge of fraudulent character, to obtain anything with an 
+aggregating value of at least $1,000 within a one-year period; or 
+• Transporting, attempting to transport, or conspiring to transport a fraudulent debit 
+instrument with unlawful or fraudulent intent, and knowledge; or 
+• Selling or transporting in interstate or foreign commerce of any fraudulent debit 
+instrument, with knowledge; or 
+• Receiving, concealing, using, or transporting anything that is proceeds from a fraudulent 
+activity and that has a value exceeding $1,000 within any one-year period; or  
+• Receiving, concealing, using, selling, or transporting of one or more tickets for interstate 
+or foreign transportation that have a value aggregating $500 or more and were obtained 
+by use of a fraudulent debit instrument; or 
+• Furnishing money, property, services, or anything else of value, aggregating  
+$1,000 or more within a one-year period, in  conjunction with the use of a fraudulent 
+debit instrument.  
+ 
+State Laws 
+At the state level, statutes that might be of use in prosecuting computer crimes would 
+include the penal code violations of larceny (in its many forms), false pretenses, forgery, 
+fraud, embezzlement, vandalism, property destruction, malicious mischief, proprietary 
+information, theft, commercial bribery, and extortion. But most states now expressly provide 
+penalties for crimes perpetrated by use of computers or perpetrated against computers. See 
+the Law section for a complete listing of state computer fraud statutes. 
+ 
+ 
+  
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1873 
+
+
+
+:
+
+
+comput crime law
+intern law
+with a global commun network such as the internet the odd have dramat
+increas that a crime mai have been perpetr in a foreign nation or that record relat
+to a portion of the commun transmiss mai have pass through anoth countri
+thi can caus tremend complic for a fraud examin attempt to pursu hi
+investig
+victim of scam origin oversea usual find themselv with virtual no recours
+recent comput equip and softwar scam oper in former communist nation
+have specif target us user languag commun and distanc obstacl ar
+nearli insurmount in work with foreign law enforc offici to resolv such
+case in the futur greater intern cooper will be necessari to combat
+intern high tech crime
+financi transact comput and internet fraud
+2011 fraud examin manual 11863
+recent howev the us ha taken two substanti step to combat the inconsist in
+intern law pertain to comput fraud first on septemb 29 2006 the unit
+state becam a parti to the council of europ convent on cybercrim which is the
+onli legal bind multilater instrument specif address computerrel crime
+help protect citizen against comput hack and internet fraud as well as crime
+involv electron evid parti to the convent ar commit to harmon
+nation law to improv investig techniqu and to increas cooper
+second the us is an activ particip in the subgroup on hightech crime at g8 lyon
+group which wa creat to enhanc the abil of g8 countri to prevent investig
+and prosecut crime involv comput network commun and other new
+technolog on signific accomplish of the subgroup wa the creation of a
+network that allow law enforc author of member nation to receiv rapid
+cooper in investig comput crime
+feder law
+there ar mani law that can be us to prosecut comput crime and fraud in the
+unit state the basic law us to prosecut comput and other high tech crime ar
+divid into the feder law and state law
+comput fraud and abus act titl 18 us code section 1030
+most comput crime ar prosecut under tradit fraud theft and embezzl
+statut a statut enact in 1984 titl 18 us code section 1030 make certain
+computerrel activ a specif feder offens more inform on section 1030 is set
+out in the law relat to fraud chapter in the law section of the fraud examin manual
+in brief section 1030a prohibit seven act involv protect comput
+a protect comput under thi section includ
+a comput that is us exclus by a financi institut or the unit state
+govern
+ani comput the us of which affect a comput us by a financi institut or the
+feder govern
+a comput that is us in interst or foreign commerc or commun
+briefli section 1030a prohibit us a protect comput
+comput and internet fraud financi transact
+11864 2011 fraud examin manual
+to commit espionag 18 usc 1030a1
+to obtain without author certain govern financi institut or
+commerci inform 18 usc 1030a2
+to access without author a govern comput 18 usc 1030a3
+to commit fraud 18 usc 1030a4
+to transmit a program code or command to damag a protect comput or to access
+a protect comput that result in damag 18 usc 1030a5
+for traffick in password 18 usc 1030a6
+to transmit extortion threat 18 usc 1030a7
+section 1030a5 and 1030a4 ar discuss in further detail below
+comput fraud titl 18 us code section 1030a4
+as note abov section 1030a4 outlaw fraud involv protect comput there ar
+three element of the crime which includ
+knowingli access a protect comput without author or exceed
+author
+with the intent to defraud and
+therebi obtain anyth of valu more than 5000 over the cours of a year
+caus comput damag titl 18 us code section 1030a5
+section 1030a5 which appli to comput us in interst or foreign commerc or
+commun outlaw caus comput damag but it contain two categori of
+offens depend on intent the first categori provid that it is illeg to knowingli
+transmit a program code or command that intention caus damag a protect
+comput thi offens appli even if the individu had author to access the
+comput
+the second categori provid that it is illeg to access a protect comput without
+author that result in damag unlik the first categori thi offens doe not requir
+intent to damag onli the intent to access the inform
+unlaw action under the first categori of section 1030a5 violat includ
+imprison up to on year andor a fine violat under the second categori of section
+1030a5 mai receiv up to five year imprison not more than 10 year for repeat
+financi transact comput and internet fraud
+2011 fraud examin manual 11865
+offend andor a fine both categori provid a civil remedi for ani person who suffer
+damag as a result of a violat of section 1030a5
+to appli section 1030a5 requir that the defend conduct caus damag to a
+comput due to it broad the definit allow section 1030a5 to appli in variou
+situat includ instanc where an act caus inform to be delet or chang
+where an intrud alter the wai a comput oper or where an act make inform
+unavail even if an intrud did not make ani alter and the comput system work
+as it did befor some court have rule that access and copi privat data from
+protect comput mai caus damag to the data under section 1035a5
+penalti
+the comput fraud and abus act provid both crimin and civil liabil section 1030
+includ crimin punish provis howev it provid differ penalti depend
+on the specif conduct the act also provid civil remedi for individu that suffer
+damag result from section 1030 violat
+canspam act titl 18 us code section 1037
+the canspam act or the control the assault of nonsolicit pornographi and
+market act attempt to reduc the amount of unsolicit commerci email which is
+also known as spam by establish nation standard for send email solicit to
+reduc the amount of spam the canspam act provid sever provis that appli to
+individu or compani send spam more specif the act prohibit sever
+decept andor fraudul practic commonli us in spam includ the prohibit of
+us decept subject line us decept header inform and requir sender
+identif penalti under the canspam act includ punish by a fine andor
+imprison for not more than five year
+access devic fraud titl 18 us code section 1029
+titl 18 us code section 1029 crimin the product us traffick or possess
+of unauthor or counterfeit access devic access devic ar devic that allow access to
+account fund most importantli section 1029 proh ibit the fraudul us of credit card
+howev becaus congress broadli defin the term access devic section 1029 also
+appli to crime us other access devic number includ debit card atm card
+person identif number pin comput password or ani other thing of valu
+comput and internet fraud financi transact
+11866 2011 fraud examin manual
+or that can be us to initi a transfer of fund other than a transfer origin sole by
+paper instrument
+ident theft and assumpt deterr act of 1998 titl 18 us code section 1028
+as discuss in the consum fraud section the growth of ident theft led congress to
+pass the ident theft and assumpt deterr act which make ident theft a feder
+crime thi act outlaw the intent and unauthor us of anoth individu
+identif with the intent to commit a crime the ident theft and assumpt
+deterr act carri a maximum term of 15 year imprison a fine and crimin
+forfeitur of ani person properti us or intend to be us to commit the offens the
+penalti is increas to imprison of up to 30 year if the offens is commit to
+facilit an act of terror
+interst transport of stolen properti itsp titl 18 us code section 2314
+the itsp statut prohibit the transport transmitt or transfer of fraudul
+receiv good ware merchandis secur or monei in interst or foreign commerc
+when valu at 5000 or more prosecutor of ten us the itsp statut in fraud prosecut
+in conjunct with mail fraud count wire fraud count or to provid feder jurisdict in
+their absenc to appli the itsp statut requir that an individu transport the proce
+which must valu at least 5000 across state lin es defend also violat the statut if thei
+induc their victim to travel in interst commerc as part of the scheme to defraud
+court mai aggreg item valu at less than 5000 as part of the same scheme to meet
+the valu requir
+addition it is clear that section 2314 appli when defend steal tangibl item which
+qualifi as good ware or merchandis that contain intellectu properti howev court
+have had vari opinion on the character of intellectu properti as good ware
+merchandis secur or monei when an individu steal intang properti through
+intang mean
+electron commun privaci act of 1986
+the electron commun privaci act of 1986 ecpa codifi at 18 usc
+25102521 27012710 31213126 govern the illeg intercept of electron
+commun and the unauthor access of electron store data
+financi transact comput and internet fraud
+2011 fraud examin manual 11867
+the ecpa is divid into three part the wiretap act the store commun act and
+the pen regist act which regul pen regist and trap and trace devic thi section
+howev focus on the wiretap act and the store commun act
+the wiretap act titl 18 us code section 25102521
+in respons to privaci breach congress enact the wiretap act which prohibit anyon
+from intention intercept or attempt to intercept ani wire oral or electron
+commun
+focus on it applic to comput fraud the wiretap act prohibit the intent
+intercept of certain electron commun includ email it doe not govern
+store commun under the wiretap act an intercept occur by the acquisit of
+the content of ani electron commun through the us of ani devic most court
+have held that intercept occur onli when the protect commun ar obtain
+contemporan with their transmiss
+addition most court agre that intercept doe not occur when an individu obtain
+access to an electron store copi of the commun whether such storag occur
+pre or postdeliveri and even if the storag last onli a few millisecond as a result the
+wiretap act is often inadequ to protect electron commun sent over the internet
+the wiretap act also contain sever except to prosecut includ the consent
+except which provid that parti to the commun mai author other to
+intercept the transmiss
+remedi for violat the wiretap act includ crimin sanction and civil relief a crimin
+violat under the act is a feloni and is punish by up to five year imprison
+andor fine under a privat caus of action a court mai award the plaintiff equit relief
+actual damag punit damag and attornei fee
+store commun act titl 18 us code section 2701
+as part of the electron commun privaci act congress enact the store
+commun act sca to protect store electron commun such as email
+and voicemail by prohibit the unauthor access of such commun that ar in
+storag more specif the sca prohibit unlaw access to a facil which provid an
+electron commun servic and then obtain alter or prevent author
+comput and internet fraud financi transact
+11868 2011 fraud examin manual
+access to a wire or electron commun while it is electron store in such
+a system
+unlik intercept under the wiretap act an electron commun fall under the sca
+onc a system receiv and store it howev like the wiretap act the sca includ a
+consent except under thi except a servic provid mai disclos electron
+commun with the law consent of the origin an addresse or the intend
+recipi
+the sca includ both civil and crimin penalti concern civil penalti the sca
+provid a privat right of action and allow appropri relief includ equit relief
+damag and attornei fee regard crimin penalti the sca provid that if the first
+offens is commit for purpos of commerci advantag malici destruct or
+damag or privat commerci gain punish mai includ a fine andor imprison for
+up to five year for ani subsequ offens penalti includ a fine andor imprison
+for not more than 10 year in ani other case where it is a first offens court mai impos a
+fine or imprison for not more than six month or both for all subsequ convict
+court mai impos a fine andor imprison for up to 10 year
+mail and wire fraud titl 18 u s code section 1341 and 1343
+as discuss abov a comput mai be the tool us to commit tradit crime includ
+mail and wire fraud due to the broad reach of the mail and wire fraud statut prosecutor
+mai us these tradit crimin statut to prosecut comput fraud in basic term the
+law prohibit the us of mail or wire includ the internet in further of a fraudul
+scheme design to obtain monei or properti
+sever case have held that the feder mail and wire fraud statu appli to comput fraud
+furthermor prosecutor mai us these statut in addit to or in lieu of case that
+implic trade secret counterfeit or illicit label counterfeit document or packag
+or counterfeit trademark servic mark or certif mark howev court disagre on
+whether the mail and wire fraud statut reach crimin copyright infring
+penalti under the mail and wire fraud statu includ fine imprison up to five year
+or both howev if the violat affect a financi institut the violat mai receiv
+fine up to 1000000 imprison up to thirti year or both
+financi transact comput and internet fraud
+2011 fraud examin manual 11869
+fals statement titl 18 us code section 1001
+prosecutor most often us section 1001 to prosecut fals statement made to law
+enforc or regulatori offici not made under oath in the cours of an offici
+investig or on an applic for such thing as feder employ credit and visa
+applic prosecutor mai also us section 1001 in lieu of the misdemeanor provis of
+the ir code for file fals document with tax return
+section 1001 violat mai implic other feder law includ comput fraud 18
+usc 1030a4 and internet fraud eg auction fraud or phish by make fals
+statement in ani matter within the jurisdict of the govern
+the econom espionag act of 1996 titl 18 us code section 1831183 9
+the econom espionag act of 1996 eea make the theft of trade secret a feder
+crimin offens the eea outlaw two type of trade secret misappropri section 1831
+crimin econom espionag which is the theft of a trade secret to benefit a foreign
+govern instrument or agent and section 1832 crimin the theft of commerci
+trade secret to obtain an econom advantag
+section 1831 and 1832 provid signific penalti for trade secret violat if done to
+benefit a foreign govern the theft of trade secret is punish by up to fifteen year
+imprison and up to a 500000 fine trade secret theft for commerci benefit is
+punish by up to 10 year imprison and up to a 250000 fine the eea howev
+doe not provid ani civil remedi
+addition prosecutor can appli the eea to a wide varieti of misconduct becaus it
+crimin attempt and conspiraci to violat the eea the same penalti appli to these
+offens with increas penalti if the trade secret misappropri benefit a foreign
+govern foreign instrument or a foreign agent
+moreov the eea author the attornei gener to commenc a civil action seek
+injunct relief to prevent further disclosur of a trade secret by the defend or third
+parti
+comput and internet fraud financi transact
+11870 2011 fraud examin manual
+crimin infring of a copyright titl 17 us code section 506 and titl 18 us code section 2319
+titl 17 us code section 506 crimin will copyright infring and defin what
+conduct is prohibit while titl 18 us code section 2319 impos the crimin
+punish for a copyright infring convict which is to be ad to ani other
+penalti impos by other provis or law
+copyright law grant copyright holder six exclus right to their work includ the right
+to reproduct gener infring occur if an individu exercis ani on of the
+copyright holder exclus right without author or other legal author howev
+not all infring ar crimin offens instead section 506 provid that copyright
+infring is crimin if an individu willfulli reproduc or distribut for commerci
+advantag or privat financi gain on or more copi of copyright work total in
+retail valu 1000 or more
+section 2319 impos punish for both feloni and misdemeanor crime feloni
+penalti attach when the infring consist of the reproduct or distribut of 10 or
+more copi of copyright work within 180 dai that taken togeth ar worth more than
+2500 or when the violat involv distribut of a work be prepar for
+commerci distribut over a comput network access to member of the public
+altern misdemeanor crime attach when the infring consist of ani of
+the follow
+infring of reproduct or distribut right for privat financi gain or
+commerci advantag regardless of the exact volum or valu of the infring
+infring of reproduct or distribut right of on or more copi of
+copyright work within 180 dai that ar worth a total retail valu of 1000 or more
+and it doe not involv privat financi gain or commerci advantag or
+infring of right other than reproduct or distribut for privat financi gain
+or commerci advantag
+in 1997 presid clinton sign the no electron theft act into law which amend the
+copyright law to prohibit electron infring and extend the copyright infring
+to includ act that do not necessarili give rise to a profit
+financi transact comput and internet fraud
+2011 fraud examin manual 11871
+limit on exclus right comput program titl 17 us code section 117
+although copyright law provid copyright holder the exclus right to reproduct thi
+right is subject to a number of limit includ section 117 which allow the copi of
+copyright softwar in limit circumst under section 117 the owner of a copi of a
+comput program is allow to make addit copi of such program in two instanc
+first owner mai copi a comput program if it is necessari for the us of the comput
+program second user mai make a copi for archiv purpos to prevent loss due to hard
+drive failur and the like
+even though the law author copi made under section 117 limit there ar
+restrict all copi must be destroi when the possess of a comput program
+ceas to be deem right furthermor ani copi made in accord with thi section
+mai be transfer but must be accompani by the origin program from which copi
+were made and with all right in the program
+digit millennium copyright act titl 17 us code section 12011205
+the advent of the internet and digit media ha led to an increas in intellectu copyright
+infring in respons to thi develop congress enact the digit millennium
+copyright act of 1998 dmca the dmca outlaw the us of comput and other
+electron devic to infring against copyright holder exclus right to further thi goal
+the dmca provid liabil limit for transmit copyright materi onlin the
+dmca also provid crimin penalti for circumv copyright protect system
+which ar set forth in section 1201 and for compromis the integr of copyright
+manag inform pursuant to section 1202
+violat under either section 1201 or 1202 ar subject to a maximum of five year
+imprison up to 500000 fine or both subsequ offens ar subject to a maximum
+of 10 year a maximum fine of 1000000 or both
+electron fund transfer crimin liabil titl 15 us code section 1693n
+congress design thi legisl to allow consum the eas and benefit of electron fund
+transfer while defin the right and liabil of the parti involv in such transact
+section 1693n appli to paperless monei transfer between account includ atm
+transact debit and credit card transact pointofsal po debit transact
+telephon transfer and accord to the feder deposit insur corpor fdic
+comput and internet fraud financi transact
+11872 2011 fraud examin manual
+ani other electron bank transact that can result in the withdraw of cash from
+your bank account
+in particular thi statut attach crimin liabil to the act of
+give fals or inaccur inform under the bank law and regul or
+fail to provid inform requir under the bank law and regul
+it also prohibit certain action affect commerc includ
+us attempt to us or conspir to us ani fraudul obtain debit
+instrument with knowledg of fraudul charact to obtain anyth with an
+aggreg valu of at least 1000 within a oneyear period or
+transport attempt to transport or conspir to transport a fraudul debit
+instrument with unlaw or fraudul intent and knowledg or
+sell or transport in interst or foreign commerc of ani fraudul debit
+instrument with knowledg or
+receiv conceal us or transport anyth that is proce from a fraudul
+activ and that ha a valu exceed 1000 within ani oneyear period or
+receiv conceal us sell or transport of on or more ticket for interst
+or foreign transport that have a valu aggreg 500 or more and were obtain
+by us of a fraudul debit instrument or
+furnish monei properti servic or anyth els of valu aggreg
+1000 or more within a oneyear period in conjunct with the us of a fraudul
+debit instrument
+state law
+at the state level statut that might be of us in prosecut comput crime would
+includ the penal code violat of larceni in it mani form fals pretens forgeri
+fraud embezzl vandal properti destruct malici mischief proprietari
+inform theft commerci briberi and extort but most state now expressli provid
+penalti for crime perpetr by us of comput or perpetr against comput see
+the law section for a complet list of state comput fraud statut
+financi transact comput and internet fraud
+2011 fraud examin manual 11873

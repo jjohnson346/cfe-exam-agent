@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+allowed                                1
+to                                     3
+insurance                              2
+before                                 1
+states                                 1
+received                               1
+until                                  1
+rate                                   1
+unapproved                             2
+on                                     1
+be                                     1
+is                                     2
+may                                    1
+it                                     1
+premium                                1
+approval                               2
+charging                               2
+companies                              1
+rates                                  3
+the                                    4
+improperly                             1
+cannot                                 1
+charged                                1
+begin                                  1
+obtain                                 1
+insured                                1
+an                                     1
+company                                1
+require                                1
+their                                  1
+some                                   1
+
+Totals:                     31        43

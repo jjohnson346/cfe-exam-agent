@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=The Office of the Comptroller of the Currency (OCC) requires national banks to submit what type of report if there is a known or suspected criminal violation committed against the bank?
+
+Options=Suspicious Activity Report | Bank Fraud Act Report | IRS Form 1090 | Currency Transaction Report
+
+CorrectResponse=0
+
+Explanation=Effective April 1,1996, the Office of the Comptroller of the Currency (OCC) requires national banks to submit a Suspicious Activity Report (SAR) under certain circumstances (12 C.F.R. å¤21.11, as amended). Reports are required if there is a knov/n or suspected criminal violation committed against the bank or involving a transaction conducted through the bank and (1) the bank has a substantial basis for identifying responsible bank personnel; or (2) the amount involved is S5,000 or more and the bank has a substantial basis for identifying a possible suspect; or (3) the amount involved is S25.000 or more (if the amount involved is $25,000 or more, the bank is required to report even if the bank does not have a substantial basis for identifying a suspect); or (4) the amount involved is $5,000 or more and the potential for money laundering exists; or (5) the amount involved is $5,000 or more and the violation of the Bank Secrecy Act exists; or (6) the amount involved is $5,000 or more and the transaction has no business or apparent lawful purpose or is not the sort in which the particular customer would normally be expected to engage, and the institution knows of no reasonable explanation for the transaction after examining the available facts, including the background and possible purpose of the transaction.See page(s) 1.942-1.943 in the Fraud Examiner's Manual

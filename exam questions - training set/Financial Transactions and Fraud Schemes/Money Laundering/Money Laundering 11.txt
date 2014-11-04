@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Under the 1970 Bank Secrecy Act, which of the following organizations are required to report cash transactions in excess of $10,000?
+
+Options=Banks | Travel agencies | Car dealerships | All of the above
+
+CorrectResponse=3
+
+Explanation=Title II of the Bank Secrecy Act requires certain reports or records to be filed or kept by "financial institutions." The Act defines "financial institution" very broadly and includes not only banks, but also securities brokers; currency exchange houses; insurance companies; loan companies; travel agencies; telegraph companies; issuers or cashiers of checks or money orders; auto, boat, and airplane dealers; casinos; and persons involved in real estate closings and settlements.See page(s) 1.1621-1.623 in the Fraud Examiner's Manual

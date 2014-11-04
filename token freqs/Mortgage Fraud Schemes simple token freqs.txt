@@ -1,0 +1,7 @@
+Token                          Frequency
+-----------------------------  ---------
+schemes                                1
+mortgage                               1
+fraud                                  1
+
+Totals:                      3         3

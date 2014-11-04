@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Telemarketing frauds often employ the use of:E
+
+Options=Boilerplate rooms | Plate rooms | Boiler rooms | None of the above
+
+CorrectResponse=2
+
+Explanation=Telemarketing frauds are usually conducted in a boiler room, where the work is shared by fronters, closers, and verifiers. Terms in the scammer's vocabulary include banging, or nailing, the customer (i.e., closing the deal). A salesperson s most effective skill is puffing, the ability to sound convincing while exaggerating the value of a business opportunity or gift. To make the puffing more persuasive, marketers hire singers or criers to tell potential victims what a great deal they are getting. Calls from angry customers who realize they have been swindled are known as heat calls. These are handled by someone claiming to be the company’s manager or vice-president.See page(s) 1.1709 in the Fraud Examiner’s Manual

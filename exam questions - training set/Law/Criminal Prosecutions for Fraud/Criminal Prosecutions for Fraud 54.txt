@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under provisions of the Fifth Amendment, a defendant may NOT be required to produce, before the time of trial, relevant evidence to the prosecution.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The government may require the defense to produce before trial all relevant documents, items, test results, and other evidence the defendant intends to offer as evidence at trial. This provision does not violate the defendant's Fifth Amendment rights against self-incrimination, which protects him or her only from compelled production of testimonial statements. See page(s) 2.516 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Smith sues Jones and Black in a civil action. Under the Federal Rules of Civil Procedure, who may be served with interrogatories?
+
+Options=Jones and Black | Parties cannot be served with interrogatories under the Federal Rules | Smith | Smith. Jones, and Black
+
+CorrectResponse=3
+
+Explanation=Interrogatories are questions that are submitted to an opposing party in a suit. Interrogatories cannot be given to anyone other than a party to a suit. Since Smith, Jones and Black are all parties, they can all be served with interrogatories.See page(s) 2.604 in the Fraud Examiner's Manual

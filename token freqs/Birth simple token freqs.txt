@@ -1,0 +1,18 @@
+Token                          Frequency
+-----------------------------  ---------
+birth                                  2
+•                                      4
+citizenship                            1
+date                                   1
+living                                 2
+and                                    1
+father                                 1
+of                                     1
+mother                                 1
+if                                     2
+name                                   2
+when                                   2
+deceased                               2
+place                                  1
+
+Totals:                     14        23

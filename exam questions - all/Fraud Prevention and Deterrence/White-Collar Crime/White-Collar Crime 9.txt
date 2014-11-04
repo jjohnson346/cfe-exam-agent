@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=The term "white-collar crime" was first coined by ____________________ in December 1939 during an address to the American Sociological Society.
+
+Options=Donald R. Cressey  | Edwin H. Sutherland | Immanuel Kant | None of the above
+
+CorrectResponse=1
+
+Explanation=Since the term first was used there have been constant disputes regarding what is (or should be) the definition of white-collar crime The designation v/as coined by Edwin H. Sutherland in December I939 during his presidential address in Philadelphia to the American Sociological Society.See page(s) 4.401 in the Fraud Examiner's Manual

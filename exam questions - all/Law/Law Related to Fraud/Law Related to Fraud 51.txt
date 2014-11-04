@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is considered "obstruction of justice" under federal law?
+
+Options=Tampering with a witness | Destruction of documents | Obstruction of a federal audit | All of the above
+
+CorrectResponse=3
+
+Explanation=Obstruction of justice as a federal violation is contained in Title 18, U.S. Code, Section 1503, et seq. Obstruction of justice punishes, among other things, document destruction; influencing a juror; theft or alteration of a record or process; obstruction relating to court orders; tampering with a witness, victim, or an informant; obstruction of a federal audit; and obstructing the examination of a financial institution.See page(s) 2.332 in the Fraud Examiner's Manual

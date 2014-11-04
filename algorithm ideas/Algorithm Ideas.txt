@@ -1,0 +1,51 @@
+1.  Terminology algorithm - Question type - definition is provided in the stem, various terms are provided as options.  The correct response is the term that matches the definition.  Terminology algorithm - map the manual for each term and its definition.  Then, for each option, find the definition using the map, measure the coincidence of words in the stem with those in the definition.
+
+As a pilot, try this algorithm for just a small section of the manual, and determine its success from that.  Expand the mapping effort only if this algorithm shows promise.
+
+It also might be the case the options correspond to SUBsections in the manual whose locations are already mapped.  This might make the effort easier....
+
+See 
+1. Fraud Risk Assessment 28.txt
+2. Interview Theory and Application 27.txt
+3. Interview Theory and Application 60.txt
+4. Interview Theory and Application 63.txt
+5. Interview Theory and Application 66.txt
+6. Interview Theory and Application 70.txt
+7. Interview Theory and Application 72.txt
+8. Interview Theory and Application 74.txt - note NOT here...
+9. Interview Theory and Application 87.txt
+10.  Covert Examinations 39.txt
+11. Illicit Transactions 08.txt
+12 Evidence 3.txt
+
+
+2.  Inverted Terminology algorithm - the term is given in the question and each of the options is a possible definition for it.
+
+See
+1. Interview Theory and Application 62.txt
+2. Illicit Transactions 31.txt
+
+
+
+3.  True/False Terminology Algorithm - compare word sequences within the stem to the list of subsections for the section of the question.  Do this for all word sequence lengths n = 1, 2, and 3.  If there is a match to a subsection name, then assume this is the subsection from which the question is drawn.  Proceed with algorithm TBD from there....
+
+See
+1.  Interviewing Suspects and Signed Statements 11.txt (key phrase:  initial accusation).
+
+4.  Modify any of the above algorithm - include any of these choices is correct (or some part of it)
+
+See
+1.  Interviewing Suspects and Signed Statements 24.txt
+
+
+5.  True/False algorithm modification - consider false answer for all questions having the word ALWAYS or NEVER or ONLY, etc.
+
+6.  Consider implementing the Porter Stemmer Algorithm - there is source code available for this at 
+http://tartarus.org/~martin/PorterStemmer/
+
+7.  Grouping algorithm - consider a question in which the stem asks for the members of a group (or the
+one that does not fit in the group).  Find the one that does not fit by looking at the top document for each
+of the terms.  Then, for each top document, get the parent.  if the parent is the same for all but one,
+then this is the one that does not fit the group.  
+
+8.  Incorporate testing section into the search engine algorithms.   

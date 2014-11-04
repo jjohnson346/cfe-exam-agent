@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is the federal statute that criminalizes the theft of commercial trade secrets to obtain an economic advantage.
+
+Options=Economic Espionage Act | Identify Theft and Trade Secret Deterrence Act | Commercial Bribery Theft Act | Computer Fraud and Theft Act
+
+CorrectResponse=0
+
+Explanation=The Economic Espionage Act of 1996 outlaws two types of trade secret misappropriation: economic espionage and theft of commercial trade secrets. Section 1831 criminalizes the theft of a trade secret to benefit a foreign government, instrumentality, or agent. Section 1832 criminalizes the theft of commercial trade secrets to obtain an economic advantage.See page(s) 2.321 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=When documenting a computer's surroundings before seizing it, the examiner should consider:
+
+Options=Documenting any processes that are currently running | Documenting what is on the screen, if the system is on | Taking photographs of the equipment's physical connections | All of the above
+
+CorrectResponse=3
+
+Explanation=When documenting the condition of the evidence, the examiner should consider:•	Documenting what is on the screen, if the system is on•	Documenting any processes that are currently running•	Taking photographs of the various views of the equipment and media to document any damage or defects•	Taking photographs of the equipment’s physical connections•	Making a drawing of the location to document the layout and relative locations from which evidence was seizedSee page(s) 3.717 in the Fraud Examiner's Manual

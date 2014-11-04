@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Blue, a cash register teller, signed onto her register, rang a "no sale"? to open the drawer, and then removed several hundred dollars. According to Corporate Fraud Handbook, what kind of scheme is this?
+
+Options=A cash larceny scheme | A register disbursement scheme | A skimming scheme | None of the above
+
+CorrectResponse=0
+
+Explanation=The most straightforward cash larceny scheme is one in which the perpetrator just opens the register and removes currency. This might be done as a sale is being conducted to make the theft appear to be part of the transaction, or perhaps when no one is around to notice the perpetrator digging into the cash drawer. For instance, a teller could simply sign onto a register, ring a “no sale', and take currency from the drawer. A’’register disbursement scheme" cannot be correct because register disbursement schemes involve a fraudulent transaction that justifies the removal of cash from the register, such as a false return or a voided sale. Blue did not make any entry that would account for the missing money A "skimming scheme" cannot be correct because the money in the register was already a part of the company’s accounting system. There was no indication that the cash was part of an unrecorded or understated sale.See page(s) 105 in the Corporate Fraud Handbook

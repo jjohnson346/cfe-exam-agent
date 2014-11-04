@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+behalf                                 1
+to                                     1
+result                                 1
+person                                 1
+common                                 1
+liability                              2
+most                                   1
+slip-and-fall                          1
+where                                  1
+has                                    1
+of                                     2
+scheme                                 1
+on                                     1
+is                                     1
+claims                                 1
+schemes                                1
+a                                      2
+as                                     1
+did                                    1
+the                                    5
+in                                     1
+not                                    1
+that                                   1
+insured                                1
+an                                     1
+fall                                   1
+injury                                 1
+claimed                                1
+scam                                   1
+claimant                               1
+negligence                             1
+occur                                  1
+
+Totals:                     32        39

@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+replacement                            1
+send                                   1
+lost                                   1
+change                                 1
+by                                     1
+calling                                1
+actor                                  1
+acco                                   1
+of                                     1
+over                                   1
+report                                 1
+on                                     1
+card                                   2
+bank                                   1
+issuing                                1
+fake                                   1
+stolen                                 1
+unt                                    1
+may                                    1
+victim                                 1
+or                                     1
+requesting                             1
+a                                      2
+the                                    6
+and                                    1
+new                                    1
+address                                2
+take                                   1
+takeover                               1
+then                                   2
+will                                   1
+account                                2
+
+Totals:                     33        44

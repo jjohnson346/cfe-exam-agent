@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following are sources of information for the business profile?
+
+Options=Business reporting companies | Customers and competitors | Banks and lending institutions | All of the above
+
+CorrectResponse=3
+
+Explanation=Sources of information for the business profile include: (1) principals, employees, and records of suspect transactions; (2) customers and competitors; (3) banks and lending institutions; and (4) business reporting companiesSee page(s) 1.720 in the Fraud Examiner's Manual

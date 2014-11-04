@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=In very basic terms, the Securities Act of 1933 can be thought of as regulating the issuance of the securities themselves, while the Securities Exchange Act of 1934 regulates mainly ___________________.
+
+Options=Exempting securities from registration | Trading of securities | Earnings disclosures | None of the above
+
+CorrectResponse=1
+
+Explanation=Unlike the Securities Act of 1933. the Securities Exchange Act of 1934 mainly deals with post-issuance trading. The Securities Exchange Act of 1934, v/hich gave birth to the Securities and Exchange Commission (SEC), requires the registration of securities brokers and dealers. Simply put, the 1933 Act can be thought of as regulating the issuance of the securities themselves, while the 1934 Act covers subsequent trading.See page(s) 1.1502 in the Fraud Examiner’s Manual

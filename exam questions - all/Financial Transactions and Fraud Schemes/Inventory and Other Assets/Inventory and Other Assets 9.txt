@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=According to Corporate Fraud Handbook, which of the following is not a fraudulent financial statement scheme?
+
+Options=Fictitious revenues schemes | Concealed liabilities and expenses schemesF | Forged maker schemes | Timing differences schemes
+
+CorrectResponse=2
+
+Explanation=Fictitious revenues, timing differences, and concealed liabilities and expenses are fraudulent financial statement schemes. The remaining schemes are improper disclosure and improper asset valuation schemes. Forged maker schemes involve forgery of checks and are classified as asset misappropriation schemes according to Corporate Fraud Handbook.See page(s) 361, 127 in the Corporate Fraud Handbook

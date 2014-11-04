@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The National Crime Information Center is:
+
+Options=A computer database maintained by the FBI | A branch of the Census Bureau | An arm of the National Criminal Research Institute | None of the above
+
+CorrectResponse=0
+
+Explanation=The National Crime Information Center is a computer database maintained by the FBI and available to all federal, state, and local law enforcement agencies. It contains information on stolen and suspect vehicles, license plates, articles, securities, boats, and planes. The database also includes data about firearms, missing persons, and people who have warrants outstanding for their arrest. Access to this database generally is limited to law enforcement agencies.See page(s) 3.485-3.486 in the Fraud Examiner's Manual

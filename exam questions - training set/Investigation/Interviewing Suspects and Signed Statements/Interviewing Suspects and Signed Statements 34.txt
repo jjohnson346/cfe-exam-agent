@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Green, a Certified Fraud Examiner is conducting an admission-seeking interview of Brown, a fraud suspect. Although Brown is confessing to having committed the fraud, he is denying anyone else was involved, and Green knows better. What should Green do next?
+
+Options=Get Brown's admission before continuing the interview | Mention the penalties involved in perjury | Proceed as if the falsehood has been accepted as truth and return to it later | None of the above
+
+CorrectResponse=2
+
+Explanation=Because of the psychology of confessions, most confessors will lie about one or more aspects of the offense, even though confirming overall guilt. When this happens during the verbal confession, the interviewer should make a mental note of the discrepancy and proceed as though the falsehood has been accepted as truthful. Such discrepancies should be saved until all other relevant facts are provided by the accused. If the discrepancies are material to the offense, then the interviewer should either resolve them at the end of the verbal confession or wait and correct them in the written confession. If not material, such information can be omitted altogether from the written confession.See page(s) 3.265 in the Fraud Examiner's Manual

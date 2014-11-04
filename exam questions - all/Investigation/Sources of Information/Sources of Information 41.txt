@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Credit records include information such as:
+
+Options=Dates accounts were opened | Terms of payments | Paying habits | All of the above
+
+CorrectResponse=3
+
+Explanation=Practically all lines of business have specialized credit reporting associations that can provide credit information on individuals and businesses, including trade information, designation of lenders and creditors, types of businesses, date accounts were opened, terms of payment agreed upon, highest credit, balance owing, and paying habits. Some credit reports also give the name of the bank the subject does business with and the size of the subject's accounts. The three most frequently used sources are Equifax Services, Experian. and TransUnion. Generally, a subscription is required to obtain information from these sources, and their dissemination is governed by the Fair Credit Reporting Act.See page(s) 3.450 in the Fraud Examiner's Manual

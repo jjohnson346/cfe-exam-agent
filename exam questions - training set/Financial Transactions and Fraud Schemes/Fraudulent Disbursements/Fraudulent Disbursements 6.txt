@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a red flag of check tampering?
+
+Options=Canceled checks | Voided checks | Missing checks | Questionable payee addresses
+
+CorrectResponse=0
+
+Explanation=Check-Tampering Red Flags The following irregularities may indicate fraud:‰?¢	Voided checks may indicate employees have embezzled cash and charged the embezzlement to expense accounts. When the expense is paid (from accounts payable), fraudulent checks are marked and entered as void and removed from distribution points. An account-balancing journal entry is then made. The list of voided checks should be verified against physical copies of the checks. Bank statements should be reviewed to ensure that voided checks have not been processed.‰?¢	Missing checks may indicate lax control over the physical safekeeping of checks. Stop payments should be issued for all missing checks.‰?¢	Checks payable to employees, with the exception of regular payroll checks, should be closely scrutinized. Such an examination may indicate other schemes such as conflicts of interest, fictitious vendors, or duplicate expense reimbursements.‰?¢	Altered endorsements or dual endorsements of returned checks may indicate possible tampering.‰?¢	Returned checks with obviously forged or questionable signature endorsements should be verified with original payee.See page(s) 153 in the Corporate Fraud Handbook

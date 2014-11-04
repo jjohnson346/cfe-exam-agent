@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=According to the Corporation Sentencing Guidelines, the presence of an effective program to prevent and detect fraud within a company can lead to more lenient sentences in the event of criminal activity.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The introductory commentary to the Guidelines clearly states that they are designed to provide incentives for organizations to maintain internal mechanisms for preventing, detecting, and reporting criminal conduct. Among other things, the Guidelines suggest a substantial reduction of fines for organizations that have effective compliance programs.See page(s) 4.520 in the Fraud Examiner's Manual

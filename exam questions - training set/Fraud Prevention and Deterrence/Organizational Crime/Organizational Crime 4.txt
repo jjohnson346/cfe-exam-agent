@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=According to the Corporate Sentencing Guidelines, a corporate policy that mitigates the effect of an occurrence of fraud can reduce an organization's fine by as much as 95 percent.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fines are based on two factors: the seriousness of the offense and the level of culpability by the organization. The seriousness of the offense determines the base fine to be imposed This figure can be quite high. The organization's culpability is a measure of the actions taken by the organization which either mitigated or aggravated the situation. Depending on the culpability of the organization, the base fine can be increased by as much as 400 percent or reduced by as much as 95 percent.See page(s) 4.518-4.519 in the Fraud Examiner's Manual

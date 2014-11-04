@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Like all types of fraud, financial statement fraud is always committed for the personal gain of the perpetrator
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Unlike some other types of fraud (such as embezzlement), the motivation for financial fraud does not always involve personal gain. Sometimes, the cause of fraudulent financial reporting is the combination of situational pressures on either the company or the manager and the opportunity to commit the fraud without the perception of being detected.See page(s) 1.304 in the Fraud Examiner's Manual

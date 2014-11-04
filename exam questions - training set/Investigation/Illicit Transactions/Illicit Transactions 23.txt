@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The bank deposits method of tracing illicit funds is recommended as a primary method of proof when most of the subject's income is deposited and the subject's books and records are unavailable, withheld, incomplete, or maintained on a cash basis.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The bank deposits method is recommended as a primary method of proof when most of the subject's income is deposited and the subject‰??s books and records are unavailable, withheld, incomplete, or maintained on a cash basis.See page(s) 3.844 in the Fraud Examiner's Manual

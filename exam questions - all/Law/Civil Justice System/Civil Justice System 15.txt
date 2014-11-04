@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In a civil case if the court believes that none of the facts as presented are in dispute and that the moving party is entitled to judgment as a matter of law, the court may grant a motion for _________________________.
+
+Options=Acquittal | Verdict of guilt | Dismissal | Summary judgment
+
+CorrectResponse=3
+
+Explanation=Either side in a lawsuit can file for summary judgment. The motion is granted unless it can be shown that some of the facts as presented are in dispute.See page(s) 2.612 in the Fraud Examiner's Manual

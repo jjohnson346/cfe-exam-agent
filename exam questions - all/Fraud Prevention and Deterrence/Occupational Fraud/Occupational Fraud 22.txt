@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, which of the following anti-fraud measures was utilized by the highest percentage of victim organizations?
+
+Options=External audits of financial statements | Hotline | Fraud training for employees | Rewards for whistleblowers
+
+CorrectResponse=0
+
+Explanation=Respondents to our survey were asked to identify which, if any, of 15 common fraud-related controls had been implemented by the victim organization at the time the fraud occurred. External audits of financial statements were the most common anti-fraud control. Seventy-six percent of victims utilized independent external audits of their financial statements at the time of the fraud.See page(s) 4.635 in the Fraud Examiner's Manual

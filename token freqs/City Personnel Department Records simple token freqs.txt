@@ -1,0 +1,26 @@
+Token                          Frequency
+-----------------------------  ---------
+reports                                1
+employment                             1
+liens                                  1
+political                              1
+department                             2
+as                                     2
+well                                   1
+the                                    1
+from                                   1
+leaders                                1
+city                                   4
+and                                    2
+of                                     1
+personnel                              2
+statements                             1
+maintains                              1
+on                                     1
+personal-history                       1
+salary                                 1
+efficiency                             1
+records                                3
+employees                              2
+
+Totals:                     22        32

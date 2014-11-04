@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following laws prohibits deceptive and fraudulent practices commonly used in e-mail?
+
+Options=USA PATRIOT Act | Digital Millennium Copyright Act | Can-Spam Act | Gramm-Leach-Bliley Act
+
+CorrectResponse=2
+
+Explanation=The Can-Spam Act, or the Controlling the Assault of Non-Solicited Pornography and Marketing Act, attempts to reduce the amount of unsolicited commercial e-mail, which is also known as spam, by establishing national standards for sending e-mail solicitations. To reduce the amount of spam, the Can-SpamAct provides several provisions that apply to individuals or companies sending spam. More specifically, the Act prohibits several deceptive and/or fraudulent practices commonly used in spam, including the prohibition of using deceptive subject lines, using deceptive header information, and requiring sender identification.See page(s) 2.317 in the Fraud Examiner's Manual

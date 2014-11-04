@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=In addition to opening hidden bank accounts or purchasing real estate through a straw or front, a target might attempt to preserve his assets through which of the following?
+
+Options=Home mortgage pay-down | Cashier's checks and traveler's checks | Prepaid credit cards | All of the above
+
+CorrectResponse=3
+
+Explanation=In addition to opening hidden bank accounts or purchasing real estate through a straw or front, a target might attempt to preserve his assets by transferring them to other parties or to accounts that might escape detection. A target might attempt to preserve his assets by:Transferring assets to family members or parties under his controlTransferring assets to a children's or family trustPaying down a home mortgageMaking additional payments on insurance policiesPurchasing prepaid credit cardsPurchasing savings bondsPurchasing cashier's checks and traveler's checksSee page(s) 3.847-3.848 in the Fraud Examiner's Manual

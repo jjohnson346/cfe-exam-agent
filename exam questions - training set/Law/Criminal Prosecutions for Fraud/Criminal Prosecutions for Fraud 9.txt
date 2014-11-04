@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under the Federal Rules of Criminal Procedure, both the prosecution and defense are permitted closing arguments after the evidence has been presented. In what order are closing arguments made?
+
+Options=Defense, prosecution, defense | The order is at the discretion of the judge | Prosecution, defense, prosecution | None of the above
+
+CorrectResponse=2
+
+Explanation=In criminal trials, the prosecution argues first, the defense follows, and the prosecution has the opportunity for final rebuttal.See page(s) 2.522 in the Fraud Examiner's Manual

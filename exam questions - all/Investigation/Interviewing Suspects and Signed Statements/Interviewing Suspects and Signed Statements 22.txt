@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In admission-seeking interviews, it is generally legal to accuse an innocent person as long as certain conditions are met. Which of the following is NOT one of them?
+
+Options=Accuser has proof beyond a reasonable doubt | Accusation made under reasonable conditions | Accusation made under conditions of privacy | All of the above are conditions
+
+CorrectResponse=0
+
+Explanation=It is generally legal to accuse innocent people of misdeeds they did not commit as long as:•	The accuser has reasonable suspicion or predication to believe the accused has committed an offense•	The accusation is made under conditions of privacy.•	The accuser does not take any action likely to make an innocent person confess.•	The accusation is conducted under reasonable conditions.See page(s) 3.251 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The use of a legitimate business enterprise as a front to conceal and co-mingle illicit dollars is an example of what type of scheme?
+
+Options=Fictitious vendor | Fictitious trade payable | Money laundering | Money hiding
+
+CorrectResponse=2
+
+Explanation=One of the most common methods of laundering funds is to filter the money through a legitimate business, otherwise known as a ‰??front" business. A front business can be a very effective way to launder money because it provides a safe place for organizing and managing criminal activity, where the comings and goings of large numbers of people will not arouse undue suspicion.See page(s) 1.1603 in the Fraud Examiner‰??s Manual

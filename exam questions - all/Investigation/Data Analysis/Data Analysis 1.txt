@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=The ___________________ function is used to match data in a transaction file with records in a master file, such as matching invoice data in an accounts receivable file to a master list of vendors.
+
+Options=Compliance verification | Correlation analysis | Date | Join
+
+CorrectResponse=3
+
+Explanation=The join function gathers together the specified parts of different data files. Joining files combines fields from two sorted input files into a third file. Join is used to match data in a transaction file with records in a master file, such as matching invoice data in an accounts receivable file to a master cluster. For example, you may need to compare two different files to find differing records between files.See page(s) 3.607 in the Fraud Examiner's Manual

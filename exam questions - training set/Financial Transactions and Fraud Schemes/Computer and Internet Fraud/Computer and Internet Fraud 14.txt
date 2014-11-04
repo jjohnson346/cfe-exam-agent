@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=In a computerized system, maintenance controls perform all but which of the following functions?
+
+Options=Ensure that stored data has not been changed except through normal processing channels | Verify password compliance | Provide that data is kept up-to-date | Identify unusual data requiring further action
+
+CorrectResponse=1
+
+Explanation=Maintenance controls provide that data is kept up to date or identify unusual data requiring further action. They also ensure that data stored on file is not changed except through the normal processing cycle. Maintenance control techniques are used for one-for-one checking, batch control totals, and programmed checks.See page(s) 1.1847 in the Fraud Examiner's Manual

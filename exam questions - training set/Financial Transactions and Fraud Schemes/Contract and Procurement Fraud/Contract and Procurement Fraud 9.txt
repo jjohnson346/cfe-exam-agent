@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=All but which of the following activities are included in the pre-solicitation stage of the contracting procedure?
+
+Options=Need recognition | Award criteria | Developing the specifications | Bid submission
+
+CorrectResponse=3
+
+Explanation=The activities typically involved during pre-solicitation are: need recognition, notice of intent to contract, development of specifications, and award criteria

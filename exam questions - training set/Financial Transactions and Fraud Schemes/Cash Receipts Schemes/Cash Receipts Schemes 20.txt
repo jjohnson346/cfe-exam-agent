@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=An example of an independent check procedure over cash receipts might include which of the following?
+
+Options=Preparing a cash proof | Performing a surprise cash count | Reconciling the sales journal | None of the above
+
+CorrectResponse=1
+
+Explanation=Sometimes, surprise cash counts can turn up situations of employees "borrowing," or floating, small loans (often called "swapping"). It is important for detection and deterrence that these cash counts be done on an irregular, unannounced basis. If employee checks are included in the cash drawer register, then this might indicate that the employees are "swapping‰?? checks for cash.See page(s) 1.431 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=When conducting a covert operation a fraud examiner is always allowed to videotape someone in a public place.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Videotaping or photographing someone in a public place is legal if the person does not have a “reasonable expectation’ of privacy in such a place. For instance, a restroom or locker room might be a “public place," but people have a reasonable expectation of privacy that they will not be photographed there. If operatives or witnesses are used to record telephone or other conversations, written consent should be obtained.See page(s) 3.304 in the Fraud Examiner's Manual

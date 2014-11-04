@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=A financial advisor knows of a large order to sell a particular security. Knowing the order will certainly cause the stock price to fall, the advisor sells his shares of the stock at the higher price before he places the customer's order. This practice is called:
+
+Options=Conversion | Parking | Churning | Front running
+
+CorrectResponse=3
+
+Explanation=Front running an order is a type of insider trading. Although it usually will not cause a direct loss to the customer, it could and is a violation of exchange rules. Front running involves the privileged knowledge of an order, placed by a customer, to buy or sell a large amount of a commodities, options, or securities that, because of its size, is likely to move the market. Back office personnel could have knowledge of such an order and buy or sell for their own accounts ahead of the customer. Because order fillers on the exchange floor are allowed to trade for their own accounts and fill orders for customers (dual trading) they also have an opportunity.See page(s) 1.1534 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If a taxpayer receives a tax deficiency notice from the Internal Revenue Service, which of the following is the best defense against a tax fraud charge, assuming the facts will support the defense?
+
+Options=There is no deficiency | Reliance on an attorney | Ignorance of the law | Reliance on an accountant
+
+CorrectResponse=0
+
+Explanation=In order to prove innocence of tax fraud matters, the best defense is to establish that there is no deficiency. If there is no deficiency, there is no tax liability. A lack of willfulness reduces the fraud, no matter how great, to negligence.See page(s) 1.1409-1.1410 in the Fraud Examiner's Manual

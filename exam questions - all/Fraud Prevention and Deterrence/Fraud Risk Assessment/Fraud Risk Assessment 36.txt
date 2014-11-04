@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The fraud risk assessment team should consider both qualitative and quantitative factors when assessing the fraud risks to the organization.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The fraud risk assessment team should consider qualitative and quantitative factors when assessing the fraud risks to the organization. For example, a particular fraud risk that might only pose an immaterial direct financial risk to the organization, but that could greatly impact its reputation, would likely be deemed a significant risk to the organization.See page(s) 4.817 in the Fraud Examiner's Manual

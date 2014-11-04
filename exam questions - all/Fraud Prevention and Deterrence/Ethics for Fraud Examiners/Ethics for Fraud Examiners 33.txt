@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Martin conducted a fraud examination that led to a valid confession of Rutledge, an embezzler. In Martin’s report, he stated that, in his opinion, "Rutledge is guilty of embezzlement." Martin has just violated the Certified Fraud Examiner Code of Professional Ethics.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The guilt or innocence of any person or party is the sole judgment of the jury, and not of the Certified Fraud Examiner. Article V states that: "A CFE. in conducting examinations, will obtain evidence or other documentation to establish a reasonable basis for any opinion rendered. No opinion shall be expressed regarding the guilt or innocence of any person or party."See page(s) 4.1001 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=The Work Product Doctrine applies only to documents and things prepared in anticipation of litigation or for trial.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Work product protection applies only to documents and things prepared in anticipation of litigation or for trial. Documents and tangible things prepared in the course of an in-house or other pre-litigation investigation, even if at the direction of an attorney, may not be privileged if they were not prepared in anticipation of litigation. Just because there is a possibility of future litigation does not mean that the investigation is in anticipation thereof. Litigation must be actually planned and the work for which protection is sought must have been undertaken for the specific purpose of preparing for that litigation. However, if the work to be protected was done in anticipation of litigation, then it does not matter in most jurisdictions that no lawsuit has been filed yet. See page(s) 2.729-2.730 in the Fraud Examiner's Manual

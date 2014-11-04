@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following is an example of an indirect method of locating assets or tracing illicit funds?
+
+Options=Net worth analysis | Source and application of funds analysis | Bank deposit analysis | All of the above
+
+CorrectResponse=3
+
+Explanation=A subject's income can be established by the direct or indirect approach. The direct approach, or the specific-items method of proving income, relies on specific transactions, such as sales or expenses, to determine income. The indirect approach relies on circumstantial proof of income using such methods as net worth, source and application of funds, and bank deposits.See page(s) 3.829 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Which type of law sets forth the rules of the legal system?
+
+Options=Procedural laws | Substantive laws | Criminal laws | None of the above
+
+CorrectResponse=0
+
+Explanation=Procedural law sets out the rules of the legal system, the procedures to be followed in hearing a grievance‰??this means deadlines, filing requirements, steps to follow in bringing a claim, rules of evidence, and so on. Substantive law sets the terms of any dispute; procedural law dictates how a legal dispute is handled.See page(s) 2.102 in the Fraud Examiner's Manual

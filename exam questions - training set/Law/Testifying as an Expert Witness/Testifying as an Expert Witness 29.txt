@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Able, a Certified Fraud Examiner, has just finished testifying on direct examination. During cross-examination, the opposing counsel tries to imply that Able has examined only one area of the case and that his investigation was limited in extent or scope. The technique that the opposing counsel is using is called:
+
+Options=Sounding board | Contradiction | Voir dire | Myopic vision
+
+CorrectResponse=3
+
+Explanation="Myopic vision" entails getting the expert to admit to a great amount of time being spent in the investigation of a matter, then selecting an area to highlight about which the expert is unsure or has not done much work. This area might not be central to the issues in the case, but it must be relevant to the conclusions reached. Then, the opposing counsel will make a large issue of it and prove that the expert‰??s vision is myopic in that the work was limited in extent or scope and, as such, substandard.See page(s) 2.822 in the Fraud Examiner's Manual

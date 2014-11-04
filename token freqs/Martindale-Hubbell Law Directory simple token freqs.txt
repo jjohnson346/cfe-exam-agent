@@ -1,0 +1,21 @@
+Token                          Frequency
+-----------------------------  ---------
+law                                    3
+information                            1
+united                                 1
+canada                                 1
+biographical                           1
+states                                 1
+most                                   1
+lawyers                                1
+contains                               1
+firms                                  1
+the                                    2
+in                                     1
+and                                    2
+martindale-hubbell                     2
+practicing                             1
+directory                              2
+on                                     1
+
+Totals:                     17        23

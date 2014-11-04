@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Rule 9(b) of the Federal Rules of Civil Procedure makes which of the following circumstances more difficult for filing a suit based on fraud?
+
+Options=The damages have to be in excess of $10,000 | One cannot file in district court if it is a Rule 9(b) case | Discovery is not permissible under Rule 9(b) | Rule 9(b) requires the pleading be filed with "particularity"
+
+CorrectResponse=3
+
+Explanation=Rule 9(b) of the Federal Rules of Civil Procedure requires that the facts entitling a fraud plaintiff to relief be stated with "particularity." A fraud plaintiff must plead the alleged fraud in detail: the actual misrepresentations that were made, to whom, how they were false, and so on. depending on the type of fraud claim. Thus, whereas a plaintiff in a negligence case might get into court by merely alleging—without any details or supporting evidence—that the defendant operated his automobile in a negligent manner at such and such a place and time, a fraud plaintiff must plead the alleged fraud in detail: the actual misrepresentations that were made, to whom, how they were false, and so on. depending on the type of fraud claim.See page(s) 2.601 in the Fraud Examiner's Manual

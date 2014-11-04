@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Certified Fraud Examiners are required under the Code of Professional Ethics to maintain continuing professional education. On an annual basis, Certified Fraud Examiners are required to obtain an average of how many hours of continuing professional education?
+
+Options=20 hours | 30 hours | 40 hours | None of the above
+
+CorrectResponse=0
+
+Explanation=Continuing professional education is required of a Certified Fraud Examiner under Article I of the Code which states: "A CFE shall continually strive to increase the competence and effectiveness of professional services performed under his direction." Certified Fraud Examiners currently are required to have 20 hours of continuing professional education annually. Half of this amount must relate directly to the detection or deterrence of fraud.See page(s) 4.1021 in the Fraud Examiner‰??s Manual

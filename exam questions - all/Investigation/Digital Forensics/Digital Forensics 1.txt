@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Although public employees do have an expectation of privacy in the government workplace, a standard of "reasonableness" is sufficient for work-related intrusions by public employers.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Supreme Court case of O'Conner v. Ortega was the hallmark case in the argument over the reasonableness of searches and seizures, but there were a number of other issues that were decided at the lower-court level. In this case, the Supreme Court held that â€œthe realities of the workplace" made some expectations of privacy among public employees unreasonable when the intrusion was by a supervisor rather than a law enforcement official. Work-related searches, the Court found, were "merely incident to the primary business of the agency,â€? and a warrant requirement would "seriously disrupt the routine conduct of business.â€? The Court thus held that a standard ofâ€˜reasonableness' was sufficient for work-related intrusions by public employers.See page(s) 3.710 in the Fraud Examiner's Manual

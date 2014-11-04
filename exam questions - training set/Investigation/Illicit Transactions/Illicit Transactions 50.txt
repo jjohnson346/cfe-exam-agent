@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Able is investigating ABC Corporation and is able to obtain a copy of the account opening documents for its commercial bank account. Which of the following documents is typically included with these records?
+
+Options=Record of shareholders' vote on signature authorization | Partnership agreement authorizing who may sign on the account | Corporate resolution authorizing the account opening | None of the above
+
+CorrectResponse=2
+
+Explanation=Account opening documents include the records required to create a bank account, but the types of files required may vary depending on the type of account. Signature cards are the key records required to open and use a personal account. The signature card is the evidence of a contract between the customer and bank. When a depositor opens an account, the bank requires that a signature card be signed. By signing the card, the depositor becomes a party to a contract with the bank under which he accepts all rules and regulations of the bank and authorizes the bank to honor his orders for withdrawing funds. For a corporation or a partnership account, the signature card is accompanied by copies of resolutions of the board of directors or partnership agreements naming the person authorized to draw checks on the accounts. In this case, since ABC is a corporation, a resolution should be on file, but not a partnership agreement. A shareholders' authorization is generally not required.See page(s) 3.809-3.811 in the Fraud Examiner's Manual

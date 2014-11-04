@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The most common methods of inflating health care billings include each of the following EXCEPT:
+
+Options=Alterations | Sliding policies | Code manipulation | Adding services	
+
+CorrectResponse=1
+
+Explanation=Health care billings can be inflated by providers as well as the insured. The following are some of the most common fraud schemes encountered by investigators and claims	approvers:	• Alterations	• Adding services	• Code manipulation	See page(s) 1.1224 in the Fraud Examiner's Manual	

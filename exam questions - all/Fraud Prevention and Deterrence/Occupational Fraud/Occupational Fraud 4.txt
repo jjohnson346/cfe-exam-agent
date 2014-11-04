@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, which of the following scheme types is most common?
+
+Options=Payroll schemes | Fraudulent financial statements | Corruption | Non-cash schemes
+
+CorrectResponse=2
+
+Explanation=Among the fraud cases reported to us, corruption schemes were the most commonly reported subcategory fraud among the answer choices provided. Nearly one-fourth of all the frauds in our study involved some form of corruption (paying or receiving bribes, engaging in conflicts of interest, extorting illegal payments, or accepting illegal gratuities).See page(s) 4.626 in the Fraud Examiner's Manual

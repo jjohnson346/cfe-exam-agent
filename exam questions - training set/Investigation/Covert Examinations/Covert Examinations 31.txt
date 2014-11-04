@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=When a payment is made to a confidential informant, the examiner should:
+
+Options=Take a witness to observe the informant payment | Make no record whatsoever of the payment | Obtain a signed receipt from the informant | None of the above
+
+CorrectResponse=2
+
+Explanation=If a decision is made to pay an informant or source, the payment should be made in cash and a receipt should be secured. If the source will not sign a receipt, do not pay. There have been numerous instances where a receipt was not obtained and the informant subsequently denied receiving funds or challenged the amount. The examiner then has to defend himself without proof; indeed, some investigators have been accused of having embezzled the payments.See page(s) 3.317 in the Fraud Examiner's Manual

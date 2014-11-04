@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which Amendment to the U.S. Constitution covers double jeopardy?
+
+Options=Sixth Amendment | Fifth Amendment | Fourth Amendment | Fourteenth Amendment
+
+CorrectResponse=1
+
+Explanation=The Fifth Amendment covers double jeopardy. It states: "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment of indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of war or public danger; nor shall any person be subject for the same offense to be tv/ice put in jeopardy of life or limb; nor shall he be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation."See page(s) 2.501-2.502 in the Fraud Examiner's Manual

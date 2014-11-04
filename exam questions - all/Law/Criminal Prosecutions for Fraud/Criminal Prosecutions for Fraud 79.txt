@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Since a grand jury can only indict an individual, not sentence him, witnesses who appear before a grand jury do not have the 5th Amendment right against self-incrimination.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The grand jury has the right to subpoena witnesses and documents, and refusals to appear or produce may be punishable as contempt, with fines or jail terms until the subpoena is complied with, or the grand jury term expires. A witness or target of the grand jury retains the Fifth Amendment right against self-incrimination.See page(s) 2.507 in the Fraud Examiner's Manual

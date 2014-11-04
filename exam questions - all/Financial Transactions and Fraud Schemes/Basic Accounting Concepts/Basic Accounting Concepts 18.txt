@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=You have been retained to conduct a fraud examination of the accounting records of ABC Company. While examining the fixed asset acquisition records, you notice that a piece of machinery that the company is leasing has been recorded on the books as if it were purchased. When questioned, the controller of ABC Company justifies the departure from GAAP as an application of the accounting principle of:
+
+Options=Substance over form | Conservatism | Materiality | None of the above
+
+CorrectResponse=0
+
+Explanation=The economic substance of a transaction determines the accounting treatment, even when the legal aspects of the transaction indicate otherwise. For example, although a lease contract may not transfer property rights, if the true substance of the transaction is a sale, then the lessee should record the transaction as an acquisition and capitalize the property.See page(s) 1.118 in the Fraud Examiner's Manual

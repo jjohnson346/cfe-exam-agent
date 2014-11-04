@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=If both parties agree, a document can be entered into evidence by stipulating to its authenticity.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When everyone agrees, exhibits can be directly entered into the record, without foundational review, by a simple stipulation. Both parties sign the stipulation form, describing and acknowledging the exhibit. See page(s) 2.714 in the Fraud Examiner's Manual

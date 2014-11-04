@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=In reporting the results of a fraud examination, the Certified Fraud Examiner generally should include his opinion regarding the credibility of the witnesses.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Investigative reports on fraud examinations should convey pertinent information in the clearest possible language. If necessary, quote the respondent directly (provided the quotation does not distort the context). Convey only the facts: do not editorialize or give judgments. Use complex or technical terms in their proper contexts, and. where necessary, explain their meaning. Do not use jargon since the report might be read by people who are not familiar with esoteric or technical terminology.See page(s) 3.902 in the Fraud Examiner's Manual

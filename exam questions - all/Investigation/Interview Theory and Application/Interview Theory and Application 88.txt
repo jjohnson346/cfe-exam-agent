@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Which of the following is a sign of deception when displayed by a witness being interviewed?
+
+Options=Oaths | Change in voice pitch | Comments regarding the interview | All of the above
+
+CorrectResponse=3
+
+Explanation=Deceptive persons often speed up or slow down their speech or speak louder. There may be a change in the voice pitch. As a person becomes tense, the vocal chords constrict. Deceptive people also have a tendency to cough or clear their throats during times of deception. Deceptive people often will complain about the physical environment of the interview room or inquire how much longer the interview will take. Dishonest individuals will attempt to add credibility to their lies by use of such expressions as "I swear to God," or "Honestly," or "Frankly," or 'To tell the truth."See page(s) 3.239-3.241 in the Fraud Examiner's Manual

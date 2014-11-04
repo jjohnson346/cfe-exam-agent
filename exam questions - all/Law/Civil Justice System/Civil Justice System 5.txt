@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Lawsuits which involve parties from different states and have more than $75,000 in controversy are known as:
+
+Options=Intrastate cases | Interdiction cases | Diversity cases | Interstate cases
+
+CorrectResponse=2
+
+Explanation=Suits involving parties from different states and involving more than $75,000 in controversy can be brought in federal court. These suits are known as "diversity cases.â€?See page(s) 2.601 in the Fraud Examiner's Manual

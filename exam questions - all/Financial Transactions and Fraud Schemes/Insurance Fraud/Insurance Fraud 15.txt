@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=The insurance business is highly susceptible to fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The insurance business, by its very nature, is susceptible to fraud. Insurance is a risk distribution system that requires the accumulation of liquid assets in the form of reserve funds, which are in turn available to pay loss claims. Insurance companies generate a large steady flow of cash through insurance premiums.See page(s) 1.1101 in the Fraud Examiner's Manual

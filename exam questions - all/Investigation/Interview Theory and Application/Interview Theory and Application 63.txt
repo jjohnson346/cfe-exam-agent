@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Beta, a Certified Fraud Examiner, is interviewing Gamma, a fraud suspect. Beta begins the interview by asking routine, nonthreatening questions, so he can observe Gamma's behavior. Later when Beta asks Gamma about the fraud, he will observe Gamma's behavior again. This process is known as:
+
+Options=Invigilation | Calibration | Confirmation | None of the above
+
+CorrectResponse=1
+
+Explanation=In detecting deception during an interview, the examiner must remember that the interviewee or target might already be under stress because of the situation. This does not mean he is lying. Darting eyes, shallow breathing, stuttering, or any of the other classic stress signs may be exhibited because the witness is afraid of the situation, not because he is fearful of being caught in a lie. For this reason, it is necessary for the examiner to carefully assess the normal behavior of the individual before assessing any clues to deception. Assessing the norm also is called "calibrating the witness."See page(s) 3.238 in the Fraud Examiner's Manual

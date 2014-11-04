@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Which of the following controls will help prevent skimming?
+
+Options=The accounts receivable bookkeeper has access to collections from customers | The accounts receivable bookkeeper makes all entries in the cash receipts book | The accounts receivable bookkeeper is responsible for preparing the bank deposit | None of the above
+
+CorrectResponse=3
+
+Explanation=The discovery of skimming schemes involves proper controls on the receipt process. Deficiencies in the answers to these typical audit-program questions may be red flags.‰?¢	Is the accounts receivable bookkeeper restricted from‰?¢	Preparing the bank deposit?‰?¢	Obtaining access to the cash receipts book?‰?¢	Having access to collections from customers?‰?¢	Is mail opened by someone independent of cashier, accounts receivable bookkeeper, or other accounting employees who may initiate or post journal entries?‰?¢	Is the delivery of unopened business mail prohibited to employees having access to the accounting records?See page(s) 94-95 in the Corporate Fraud Handbook

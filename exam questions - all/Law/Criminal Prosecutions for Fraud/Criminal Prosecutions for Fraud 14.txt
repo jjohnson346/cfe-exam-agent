@@ -1,0 +1,11 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In a federal criminal trial, the defendant has how many days to file a notice of appeal?
+
+Options=60 | 7 | 30 | 10
+
+CorrectResponse=3
+
+Explanation=The defendant in a federal criminal trial is advised of his or her right to appeal at the sentencing hearing. A notice of appeal must be filed within 10 days or the right is lost, absent a showing of excusable neglect.
+See page(s) 2.528 in the Fraud Examiner's Manual
+

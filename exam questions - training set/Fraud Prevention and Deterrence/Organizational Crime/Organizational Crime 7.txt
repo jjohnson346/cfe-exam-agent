@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Criminal activities involving corporations are often rooted in organizational subcultures and values, developed overtime.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Criminal activities involving corporations are often rooted in organizational subcultures and values, developed over time. While individuals still carry out the criminal enterprise, their attitudes and characteristics are of little importance, as an organization will replace those employees unwilling to participate in a criminal activity.See page(s) 4.504 in the Fraud Examiner's Manual

@@ -1,0 +1,63 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Revenue/AGE RECEIVABLES, EXTRACT OLDER BALANCES, AND SUMMARIZE BY CUSTOMER
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+AGE RECEIVABLES, EXTRACT OLDER BALANCES, AND SUMMARIZE BY CUSTOMER 
+This test mainly recalculates the aging of the invoices in the accounts receivable ledger for 
+review against the company-derived report. Any differences between this calculation and the 
+report used by management may be due to a system error, a poorly designed report, or fraud. 
+To orchestrate fraud, management may hide the true payment patterns of customers to 
+minimize their bad debt valuation reserve at year end. 
+ 
+The aging report should be reconciled to the organization’s accounts receivable aging report. 
+Any differences should be investigated. One approach is to extract a sampling of invoices 
+(see previous test on reviewing a sample of invoices) within a specific aging group and 
+reconcile to the aging report on an invoice by invoice basis. This work may identify report 
+errors or an attempt by the organization to hide the true aging of accounts receivable.  
+The focus of test work should be on more current aging categories that may be 
+inappropriately inflated. 
+ 
+Once the invoices are summarized by customer, the aging report also highlights customer 
+balances, older than a pre-defined “old” limit. This may be 180 or 270 days after which 
+payment of such invoices is unlikely. Large customer balances could be reviewed with 
+management as to their collectability and, possibly, with the actual customer. This analysis 
+would further support the year-end bad debt reserve calculation. 
+ 
+
+
+
+:
+
+
+ag receiv extract older balanc and summar by custom
+thi test mainli recalcul the ag of the invoic in the account receiv ledger for
+review against the companyderiv report ani differ between thi calcul and the
+report us by manag mai be due to a system error a poorli design report or fraud
+to orchestr fraud manag mai hide the true payment pattern of custom to
+minim their bad debt valuat reserv at year end
+the ag report should be reconcil to the organ account receiv ag report
+ani differ should be investig on approach is to extract a sampl of invoic
+see previou test on review a sampl of invoic within a specif ag group and
+reconcil to the ag report on an invoic by invoic basi thi work mai identifi report
+error or an attempt by the organ to hide the true ag of account receiv
+the focu of test work should be on more current ag categori that mai be
+inappropri inflat
+onc the invoic ar summar by custom the ag report also highlight custom
+balanc older than a predefin old limit thi mai be 180 or 270 dai after which
+payment of such invoic is unlik larg custom balanc could be review with
+manag as to their collect and possibl with the actual custom thi analysi
+would further support the yearend bad debt reserv calcul

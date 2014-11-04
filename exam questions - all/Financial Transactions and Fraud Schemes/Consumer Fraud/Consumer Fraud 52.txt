@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The distinguishing feature of a Ponzi scheme is:
+
+Options=It always involves credit card payments | It lasts a long time | Old investors are paid with new investors' money | None of the above
+
+CorrectResponse=2
+
+Explanation=Even though the terms Ponzi scheme and pyramid are used interchangeably, there is a distinction between the two. Simply put, all Ponzi schemes are pyramids, but not all pyramids are Ponzi schemes. The key element in a Ponzi scheme is that initial investors are paid with subsequent investors’ money. There is little or no legitimate commerce.See page(s) 1.1742 in the Fraud Examiner’s Manual

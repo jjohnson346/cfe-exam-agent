@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=When creating the hypothesis required in the fraud theory approach, the fraud examiner should:
+
+Options=Form the hypothesis early in the investigation | NOT form the hypothesis until all witnesses have been interviewed  | Form the hypothesis late in the investigation  | NOT form the hypothesis until all documents have been examined
+
+CorrectResponse=0
+
+Explanation=To solve a fraud without complete evidence, the examiner must make certain assumptions. This is not unlike the scientist who postulates a theory based on observation and then tests it. In the case of complex fraud, fraud theory is almost indispensable. Fraud theory begins with the assumption, based on the known facts, of what might have occurred. Then that assumption is tested to determine whether it is provable. Thus, the hypothesis should be created early in the examination, and it should be based on the known facts at that time.See page(s) I-7 in the Fraud Examiner's Manual

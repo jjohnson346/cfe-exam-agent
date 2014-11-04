@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=The Work Product Doctrine only protects material prepared by an attorney.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The work product doctrine protects an attorney’s notes and certain other materials the attorney prepares in anticipation of litigation. Work undertaken by an accountant, investigator, or fraud examiner at the direction of an attorney also may be protected by the attorney-client privilege and the work product doctrine. See page(s) 2.729 in the Fraud Examiner's Manual

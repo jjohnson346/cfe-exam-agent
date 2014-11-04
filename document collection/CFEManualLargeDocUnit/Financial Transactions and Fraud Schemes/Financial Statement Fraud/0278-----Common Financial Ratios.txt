@@ -1,0 +1,273 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/FINANCIAL STATEMENT FRAUD/Financial Statement Analysis/Common Financial Ratios
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Financial Statement Fraud
+
+
+:
+
+
+Common Financial Ratios 
+CURRENT RATIO 
+The current ratio—current assets to current 
+liabilities—is probably the most commonly used ratio in financial statement analysis. This 
+comparison measures a company’s ability to meet  present obligations from its liquid assets. 
+The number of times that current assets exceed current liabilities has long been a quick 
+measure of financial strength.  
+ 
+In detecting fraud, this ratio can be a prime indicator of manipulation of the accounts 
+involved. Embezzlement will cause the ratio to decrease. Liability concealment will cause a 
+more favorable ratio. 
+ 
+In the case example, the drastic change in the current ratio from Year One (2.84) to Year 
+Two (1.70) should cause an examiner to look at these accounts in more detail. For instance, 
+a check-tampering scheme will usually result in a decrease in the current asset, cash, which 
+will in turn decrease the ratio.  
+ 
+QUICK RATIO 
+The quick ratio, often referred to as the acid test ratio, 
+compares the most liquid assets to current liabilities. This calculation divides the total of 
+cash, securities, and receivables by current liabilities to yield a measure of a company’s ability 
+to meet sudden cash requirements. The quick ratio is a conservative measure of liquidity that 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.339 
+Net Sales on Account 
+Average Net Receivables 
+365 
+Receivable Turnover 
+Cost of Goods Sold 
+Average Inventory 
+is often used in turbulent economic times to provide an analyst with a worst-case scenario of 
+a company’s working capital situation.  
+ 
+An examiner will analyze the quick ratio for fraud indicators. In Year One of the example, 
+the company balance sheet reflects a quick ratio of 2.05. This ratio drops to 1.00 in Year 
+Two. In this situation, a closer review of accounts receivable shows they are increasing at an 
+unusual rates, which could indicate that fictitious accounts receivable have been added to 
+inflate sales. Of more concern perhaps is the increase in accounts payable, which might 
+require, at a minimum, a closer review to determine why. 
+ 
+RECEIVABLE TURNOVER 
+Receivable turnover is defined as net sales on account 
+divided by average net receivables. It measures the number of times accounts receivable is 
+turned over during the accounting period. In other words, it measures the time between on-
+ account sales and collection of funds. This ratio is one that uses both income statement and 
+balance sheet accounts in its analysis. If the fraud includes fictitious sales, this bogus income 
+will never be collected. As a result, the turnover of receivables will decrease.  
+ 
+COLLECTION RATIO   
+Accounts receivable aging is measured by the 
+collection ratio. It divides 365 days by the receivable turnover ratio to arrive at the average 
+number of days to collect receivables. In general, the lower the collection ratio, the faster 
+receivables are collected. A fraud examiner may use this ratio as a first step in detecting 
+fictitious receivables or larceny and skimming schemes. Normally, this ratio will stay fairly 
+consistent from year to year, but changes in billing policies or collection efforts may cause a 
+fluctuation. The example shows a favorable reduction in the collection ratio from 226.3 in 
+Year One to 170.33 in Year Two. This means that the company is collecting its receivables 
+more quickly in Year Two than in Year One.  
+ 
+INVENTORY TURNOVER  
+The relationship between a company’s cost of goods 
+sold and average inventory is shown through the inventory turnover ratio. This ratio 
+measures the number of times inventory is sold during the period. This ratio is a good 
+determinant of purchasing, production, and sales efficiency. In general, a higher inventory 
+turnover ratio is considered more favorable. For example, if cost of goods sold has increased 
+due to theft of inventory (ending inventory has declined, but not through sales), then this 
+Financial Statement Fraud  Financial Transactions   
+1.340                         2011 Fraud Examiners Manual  
+365 
+Inventory Turnover 
+Total Liabilities  
+Total Equity 
+Net Income 
+Net Sales 
+ratio will be abnormally high. In the case example, inventory turnover increases in Year Two, 
+signaling the possibility that an embezzlement is buried in the inventory account. An 
+examiner should investigate the changes in the components of the ratio to determine where 
+to look for possible fraud. 
+ 
+AVERAGE NUMBER OF DAYS INVENTORY IS IN STOCK  
+The average number of days inventory is in stock ratio is a 
+restatement of the inventory turnover ratio expressed in days. This rate is important for 
+several reasons. An increase in the number of days inventory stays in stock causes additional 
+expenses, including storage costs, risk of inventory obsolescence, and market price 
+reductions, as well as interest and other expenses incurred due to tying up funds in inventory 
+stock. Inconsistency or significant variance in this ratio is a red flag for fraud investigators. 
+Examiners may use this ratio to examine inventory accounts for possible larceny schemes. 
+Purchasing and receiving inventory schemes can affect the ratio. As well, understating the 
+cost of goods sold will result in an increase in the ratio. Significant changes in the inventory 
+turnover ratio are good indicators of possible fraudulent inventory activity. 
+ 
+DEBT TO EQUITY RATIO  
+The debt to equity ratio is computed by dividing total 
+liabilities by total equity. This ratio is one that is heavily 
+considered by lending institutions. It provides a clear picture of the relative risk assumed by 
+the creditors and owners. The higher the ratio, the more difficult it will be for the owners to 
+raise capital by increasing long-term debt. Debt to equity requirements are often included as 
+borrowing covenants in corporate lending agreements. The example displays a very 
+favorable Year One ratio of 0.89. Year Two, however, shows a ratio of 1.84, which indicates 
+that debt is greatly increasing. In this case, the increase in the ratio corresponds with the rise 
+in accounts payable. Sudden changes in this ratio may signal an examiner to look for fraud.  
+ 
+PROFIT MARGIN    
+Profit margin ratio is defined as net income divided by 
+net sales. This ratio is often referred to as the efficiency ratio, in that it reveals profits earned 
+per dollar of sales. This percentage of net income to sales relates not only the effects of gross 
+margin changes, but also charges to sales and administrative expenses. As fraud is 
+committed, net income will be artificially overstated, and the profit margin ratio will be 
+abnormally high. False expenses and fraudulent disbursements will cause an increase in 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.341 
+Net Sales 
+Average Assets 
+expenses and a decrease in the profit margin ratio. Over time, this ratio should be  
+fairly consistent. 
+ 
+ASSET TURNOVER 
+Net sales divided by average operating assets is the 
+calculation used to determine the asset turnover ratio. This ratio is used to determine the 
+efficiency with which asset resources are utilized. The case example displays a greater use of 
+assets in Year Two than in Year One. 
+ 
+By performing an analysis of the financial statements, the examiner may be directed toward 
+the direct evidence to resolve an allegation of fraud. After performing a financial statement 
+analysis, the examiner can select statistical samples in the target account and eventually 
+examine the source documents. If an irregularity of overstatement is suspected, begin the 
+examination with the financial statements. If, however, an irregularity of understatement is 
+suspected, begin the examination with a review of the source documents. This rule of thumb 
+is especially effective in the area of omission of liabilities, such as litigation, contingent 
+liabilities, leases, and some product warranties.  
+ 
+
+
+
+:
+
+
+common financi ratio
+current ratio
+the current ratiocurr asset to current
+liabilitiesi probabl the most commonli us ratio in financi statement analysi thi
+comparison measur a compani abil to meet present oblig from it liquid asset
+the number of time that current asset exce current liabil ha long been a quick
+measur of financi strength
+in detect fraud thi ratio can be a prime indic of manipul of the account
+involv embezzl will caus the ratio to decreas liabil conceal will caus a
+more favor ratio
+in the case exampl the drastic chang in the current ratio from year on 284 to year
+two 170 should caus an examin to look at these account in more detail for instanc
+a checktamp scheme will usual result in a decreas in the current asset cash which
+will in turn decreas the ratio
+quick ratio
+the quick ratio often refer to as the acid test ratio
+compar the most liquid asset to current liabil thi calcul divid the total of
+cash secur and receiv by current liabil to yield a measur of a compani abil
+to meet sudden cash requir the quick ratio is a conserv measur of liquid that
+financi transact financi statement fraud
+2011 fraud examin manual 1339
+net sale on account
+averag net receiv
+365
+receiv turnov
+cost of good sold
+averag inventori
+is often us in turbul econom time to provid an analyst with a worstcas scenario of
+a compani work capit situat
+an examin will analyz the quick ratio for fraud indic in year on of the exampl
+the compani balanc sheet reflect a quick ratio of 205 thi ratio drop to 100 in year
+two in thi situat a closer review of account receiv show thei ar increas at an
+unusu rate which could indic that fictiti account receiv have been ad to
+inflat sale of more concern perhap is the increas in account payabl which might
+requir at a minimum a closer review to determin why
+receiv turnov
+receiv turnov is defin as net sale on account
+divid by averag net receiv it measur the number of time account receiv is
+turn over dure the account period in other word it measur the time between on
+account sale and collect of fund thi ratio is on that us both incom statement and
+balanc sheet account in it analysi if the fraud includ fictiti sale thi bogu incom
+will never be collect as a result the turnov of receiv will decreas
+collect ratio
+account receiv ag is measur by the
+collect ratio it divid 365 dai by the receiv turnov ratio to arriv at the averag
+number of dai to collect receiv in gener the lower the collect ratio the faster
+receiv ar collect a fraud examin mai us thi ratio as a first step in detect
+fictiti receiv or larceni and skim scheme normal thi ratio will stai fairli
+consist from year to year but chang in bill polici or collect effort mai caus a
+fluctuat the exampl show a favor reduct in the collect ratio from 2263 in
+year on to 17033 in year two thi mean that the compani is collect it receiv
+more quickli in year two than in year on
+inventori turnov
+the relationship between a compani cost of good
+sold and averag inventori is shown through the inventori turnov ratio thi ratio
+measur the number of time inventori is sold dure the period thi ratio is a good
+determin of purchas product and sale effici in gener a higher inventori
+turnov ratio is consid more favor for exampl if cost of good sold ha increas
+due to theft of inventori end inventori ha declin but not through sale then thi
+financi statement fraud financi transact
+1340 2011 fraud examin manual
+365
+inventori turnov
+total liabil
+total equiti
+net incom
+net sale
+ratio will be abnorm high in the case exampl inventori turnov increas in year two
+signal the possibl that an embezzl is buri in the inventori account an
+examin should investig the chang in the compon of the ratio to determin where
+to look for possibl fraud
+averag number of dai inventori is in stock
+the averag number of dai inventori is in stock ratio is a
+restat of the inventori turnov ratio express in dai thi rate is import for
+sever reason an increas in the number of dai inventori stai in stock caus addit
+expens includ storag cost risk of inventori obsolesc and market price
+reduct as well as interest and other expens incur due to ty up fund in inventori
+stock inconsist or signific varianc in thi ratio is a red flag for fraud investig
+examin mai us thi ratio to examin inventori account for possibl larceni scheme
+purchas and receiv inventori scheme can affect the ratio as well underst the
+cost of good sold will result in an increas in the ratio signific chang in the inventori
+turnov ratio ar good indic of possibl fraudul inventori activ
+debt to equiti ratio
+the debt to equiti ratio is comput by divid total
+liabil by total equiti thi ratio is on that is heavili
+consid by lend institut it provid a clear pictur of the rel risk assum by
+the creditor and owner the higher the ratio the more difficult it will be for the owner to
+rais capit by increas longterm debt debt to equiti requir ar often includ as
+borrow coven in corpor lend agreement the exampl displai a veri
+favor year on ratio of 089 year two howev show a ratio of 184 which indic
+that debt is greatli increas in thi case the increas in the ratio correspond with the rise
+in account payabl sudden chang in thi ratio mai signal an examin to look for fraud
+profit margin
+profit margin ratio is defin as net incom divid by
+net sale thi ratio is often refer to as the effici ratio in that it reveal profit earn
+per dollar of sale thi percentag of net incom to sale relat not onli the effect of gross
+margin chang but also charg to sale and administr expens as fraud is
+commit net incom will be artifici overst and the profit margin ratio will be
+abnorm high fals expens and fraudul disburs will caus an increas in
+financi transact financi statement fraud
+2011 fraud examin manual 1341
+net sale
+averag asset
+expens and a decreas in the profit margin ratio over time thi ratio should be
+fairli consist
+asset turnov
+net sale divid by averag oper asset is the
+calcul us to determin the asset turnov ratio thi ratio is us to determin the
+effici with which asset resourc ar util the case exampl displai a greater us of
+asset in year two than in year on
+by perform an analysi of the financi statement the examin mai be direct toward
+the direct evid to resolv an alleg of fraud after perform a financi statement
+analysi the examin can select statist sampl in the target account and eventu
+examin the sourc document if an irregular of overstat is suspect begin the
+examin with the financi statement if howev an irregular of understat is
+suspect begin the examin with a review of the sourc document thi rule of thumb
+is especi effect in the area of omiss of liabil such as litig conting
+liabil leas and some product warranti

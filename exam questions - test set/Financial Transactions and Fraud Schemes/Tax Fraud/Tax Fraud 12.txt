@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=All of the following are possible defenses to tax fraud EXCEPT:
+
+Options=Death of the taxpayer	| The taxpayer establishes that an objectively reasonable position was taken | The taxpayer establishes that there is no deficiency | The taxpayer establishes that he did not have an unrestricted right to the income
+
+CorrectResponse=0
+
+Explanation=Fraud penalties survive the death of the taxpayer	See page(s) 1.1411 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=If you are responsible for the backup computer system, which of the following general internal control categories should you find in your company's detailed procedures?UL
+
+Options=Data file controls | Implementation controls | System software controls | Computer operations
+
+CorrectResponse=0
+
+Explanation=Controls over data files ensure that correct files are used for each production job and that adequate backup files exist. Data-file label bypass options should be disabled. A data-file management system should be used to record and locate all data files. Data-file backup copies should be made and stored in a secure facility. Off-site backup file copies should be maintained in case of a disaster in the data center. Utilities that can modify data files should be removed from the system and used only under management supervision. Live data files should not be used for testing.See page(s) 1.1843 in the Fraud Examiner's Manual

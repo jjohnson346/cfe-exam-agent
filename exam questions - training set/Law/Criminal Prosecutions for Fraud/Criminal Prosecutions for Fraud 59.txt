@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Fraud examiners frequently encounter two general types of legal issues with respect to fraud cases. One is substantive and the other procedural. The substantive issue includes the right to counsel and the manner in which fraud examiners employed by law enforcement have conducted arrests, searches and seizures, and interrogations. The procedural issues have to do with proving each element of the offense beyond a reasonable doubt.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Two general types of legal issues‰??one substantive, the other procedural‰??are often encountered in fraud examinations. The substantive issue includes the proving of each element of the offense beyond a reasonable doubt, including the element of intent (if intent, in fact, is an element). The procedural issue includes the right to counsel and the manner in which fraud examiners employed by law enforcement have conducted arrests, searches and seizures, and interrogations. Fraud examiners are most likely to encounter legal problems over such issues as the condition, organization, and sanctity of their work papers and their audit assumptions if the case is based on an accounting hypothesis (net worth method, for example).See page(s) 2.519-2.520 in the Fraud Examiner's Manual

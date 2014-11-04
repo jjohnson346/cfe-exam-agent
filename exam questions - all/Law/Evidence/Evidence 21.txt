@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=A statement, other than that made by the declarant while testifying at a trial or hearing, offered in evidence to prove the truth of the matter asserted is called ____________________________.
+
+Options=Indirect evidence | Hearsay evidence | Circumstantial evidence | None of the above
+
+CorrectResponse=1
+
+Explanation=According to Rule 801(c), "hearsay" is a statement, other than one made...at the trial or hearing, offered in evidence to prove the truth of the matter asserted."See page(s) 2.717 in the Fraud Examiner's Manual

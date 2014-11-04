@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=During the opening statement by the prosecution, which of the following is NOT permitted?
+
+Options=Arguing the case | Explaining the charges against the defendant | Asking for a guilty verdict | Outlining the prosecution's evidence
+
+CorrectResponse=0
+
+Explanation=Once the jury is selected and sworn, and after some introductory remarks by the judge, the actual trial begins with the opening statement by the prosecution. In it, the prosecutor usually explains the charges, outlines the evidence he intends to produce, and tells the jury that the prosecution will ask for a verdict of guilty. The prosecutor is not permitted to argue the case at this point; that will be done at the end.See page(s) 2.517 in the Fraud Examiner's Manual

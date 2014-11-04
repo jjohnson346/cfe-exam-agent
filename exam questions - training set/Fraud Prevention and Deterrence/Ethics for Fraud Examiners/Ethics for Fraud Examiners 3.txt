@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=How many years of professional experience are required in order to be awarded the Certified Fraud Examiner designation?
+
+Options=Four | One | Three | Two
+
+CorrectResponse=3
+
+Explanation=One can sit for the Certified Fraud Examiner examination the last semester in college. However, to be awarded the designation, one must have a minimum of two years experience in a field related to fraud detection or deterrence before being certified.See page(s) 4.1003 in the Fraud Examiner‰??s Manual

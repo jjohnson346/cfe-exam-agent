@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Health care providers and insurance carriers use Physicians‰?? Current Procedural Terminology (CPT) to identify the procedure performed. CPT is administered by the American Medical Association.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Health care providers identify each procedure performed with a special code. Each service is identified using the American Medical Association‰??s uniformly accepted coding system, called the Physicians‰?? Current Procedural Terminology (CPT). This way, both the provider and the insurer know what procedure has been performed by the code number used.See page(s) 1.1225 in the Fraud Examiner‰??s Manual

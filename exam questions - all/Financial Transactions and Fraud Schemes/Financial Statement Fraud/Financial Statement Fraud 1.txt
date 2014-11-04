@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Recording expenses in the wrong period and early revenue recognition are classified as what type of financial fraud scheme?
+
+Options=Timing differences | Improper asset valuations | Fictitious revenues | Improper disclosures
+
+CorrectResponse=0
+
+Explanation=Financial statement fraud might involve timing differences, that is, the recording of revenue anchor expenses in improper periods. Failing to match revenues with expenses, early revenue recognition, and recording expenses in the wrong period are all types of timing differences.See page(s) 1.312 in the Fraud Examiner's Manual

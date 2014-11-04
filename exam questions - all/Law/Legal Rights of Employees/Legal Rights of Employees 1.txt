@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=The FBI asks IBC Manufacturing, a private company, to assist it in an investigation of one of IBC's employees. Specifically, the FBI asks one of IBC's managers to search the employee's locker and give the FBI any illegal drugs found. Which of the following statement is most correct?
+
+Options=IBC may be in violation of the 4th Amendment because it is acting at the request of the government | IBC cannot be guilty of violating the 4th Amendment because it is not a government agency | IBC could not be in violation of the 4th Amendment because it is a private company; however, it may be subject to civil liability | IBC's actions would be private action, not state action; therefore, the 4th Amendment would not apply
+
+CorrectResponse=0
+
+Explanation=In order for an employee to sue an employer for the violation of a constitutional right, there must be some form of "state action" involved. State action is involved during any investigation by a state or federal entity, including investigations of their own employees. There are no bright-line rules regarding when an investigation can be considered to involve state action. However, the following examples could be considered to involve state action:•	Investigations conducted by a private company but at the suggestion of the state or federal authorities•	Investigations begun by a private company that later are taken over by or expanded by state or federal authorities•	Joint investigations with or aided by state or federal authorities•	Investigations conducted by a private company that are required by state or federal law•	Searches or interrogations conducted by outside investigators who are off-duty state, local or federal authoritiesSee page(s) 2.403 in the Fraud Examiner's Manual

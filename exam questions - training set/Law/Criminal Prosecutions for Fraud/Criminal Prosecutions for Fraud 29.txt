@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under the Federal Rules of Criminal Procedure, each side in a criminal trial gets to dismiss a certain number of prospective jurors without having to provide a reason. These dismissals are called peremptory challenges. What is NOT a permissible reason for exercising a peremptory challenge?
+
+Options=The juror's race | The juror's clothing | The lawyer doesn't like the look on the juror's face | None of the above are permissible reasons to use a peremptory challenge
+
+CorrectResponse=0
+
+Explanation=Each side in a criminal trial has a limited number of peremptory challenges, depending on the offense charged, under which a party may strike a prospective juror without having to provide a reason. The prosecution may not use its peremptory challenges, however, in a way solely influenced by racial factors.See page(s) 2.517 in the Fraud Examiner's Manual

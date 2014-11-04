@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=When preparing a written report of a fraud examination, which of the following opinions is permissible to include in the report?
+
+Options=Opinions on the existence of fraud when evidence is speculative | Opinions on guilt of the suspect | Expert opinions | None of the above
+
+CorrectResponse=2
+
+Explanation=The fraud examiner should avoid stating opinions regarding the guilt or innocence of any person or party. The Certified Fraud Examiner's Code of Professional Ethics specifically prohibits statements of opinions regarding guilt or innocence, as this is the job of the judge or jury. Similarly, fraud examiners should refrain from opining the existence or absence of fraud in their reports. Opinions regarding technical matters are permitted if the fraud examiner is qualified as an expert in the matter being considered. For example, a permissible expert opinion might be in regard to the relative adequacy of an entity’s internal controls. Another opinion might discuss whether financial transactions conform to generally accepted accounting principles.See page(s) 3.903 in the Fraud Examiner's Manual

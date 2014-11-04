@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=How many sections are there to the Certified Fraud Examiner Code of Professional Ethics?
+
+Options=Eight | Nine | Ten | None of the above
+
+CorrectResponse=0
+
+Explanation=There are eight sections to the Certified Fraud Examiner Code of Professional Ethics. They are summarized as follows:I.	Commitment to professionalismII.	Illegal or unethical conductIII.	Professional competence of assignmentsIV.	Lawful orders of the courtsSee page(s) 4.1001 in the Fraud Examiner's Manual

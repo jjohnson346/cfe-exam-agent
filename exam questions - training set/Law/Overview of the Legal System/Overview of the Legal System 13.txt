@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=An appeal to the U.S. Supreme Court is accomplished by applying for a:
+
+Options=Writ of Appeals | Writ of Civitatem | Writ of Certiorari | Writ of Nisi Juratis
+
+CorrectResponse=2
+
+Explanation=In the federal system, an appeal to the U.S. Supreme Court is accomplished by applying for a "Writ of Certiorari." Relatively few appeals are granted. Usually they involve an important question of constitutional law, or they may be used to resolve a split or disagreement on a point of law among the circuits, or on issues which have considerable significance to the judicial system.See page(s) 2.110 in the Fraud Examiner's Manual

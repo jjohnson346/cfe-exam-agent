@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=In the area of criminal justice sanctions, __________________ is a sentence imposed prior to (and instead of) incarceration.
+
+Options=Parole | Probation | Pre-trial diversion | None of the above
+
+CorrectResponse=1
+
+Explanation=Many laypersons confuse probation with parole. Parole refers to the status of an offender after he has been released from prison or jail and is placed under supervision in the community. Probation typically is a sentence imposed prior to (and instead of) incarceration. Some judges, however, favor what is called “shock probation." They insist that the offender serve a brief time—perhaps only a week—in a penal institution in order to get a taste of what can be in store for them if they do not adhere to the law and to the probation conditions that are imposed upon them.See page(s) 4.303-4.304 in the Fraud Examiner's Manual

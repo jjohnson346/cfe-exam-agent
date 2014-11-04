@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In tracing illicit funds, proving on-book payments usually is easier than proving off-book payments.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Identifying and tracing off-book payments usually is more difficult than locating on-book schemes. Success generally depends upon (1) identifying the source of the funds or accounts (from which payments can be traced out). (2) using an inside witness, and (3) focusing on the point of receipt of the illicit payment.See page(s) 1.727 in the Fraud Examiner's Manual

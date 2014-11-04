@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Which of the following is a factor that influences the level of fraud risk faced by an organization?
+
+Options=The effectiveness of the internal controls within the business processes | The ethics and values of the company and the people within it | The organization's operating environment | All of the above
+
+CorrectResponse=3
+
+Explanation=There are many factors that influence how at risk an organization is to fraud. Some of the bigger factors are:•	The business it is in•	The environment in which it operates•	The effectiveness of the internal controls within the business processes•	The ethics and values of the company and the people within itSee page(s) 4.801-4.802 in the Fraud Examiner's Manual

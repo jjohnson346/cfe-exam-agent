@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Reviewing recurring monthly expenses and comparing them to posted/paid invoices is an example of a data analysis function that can be performed on accounts payable.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The following are typical examples of data analysis queries that can be performed by data analysis software on accounts payable:Audit paid invoices for manual comparison with actual invoices Summarize large invoices by amount, vendor, etc.Identify debits to expense accounts outside of set default accountsReconcile check registers to disbursements by vendor invoiceVerify vendor 1099 requirementsCreate vendor detail and summary analysis reportsReview recurring monthly expenses and compare to posted/paid invoicesGenerate a report on specified vouchers for manual audit or investigationSee page(s) 3.612 in the Fraud Examiner's Manual

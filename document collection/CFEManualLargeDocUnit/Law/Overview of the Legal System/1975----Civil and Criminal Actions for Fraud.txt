@@ -1,0 +1,324 @@
+2011 Fraud Examiners Manual/Law/OVERVIEW OF THE UNITED STATES LEGAL SYSTEM/Civil and Criminal Actions for Fraud
+
+
+:
+
+
+Law
+
+
+:
+
+
+Overview of the Legal System
+
+
+:
+
+
+Civil and Criminal Actions for Fraud 
+This section seeks to provide an overview of the law as it relates to fraud.  
+ 
+Criminal Versus Civil Actions for Fraud 
+Fraud may be prosecuted criminally, civilly, or both, in sequence or simultaneously, but there 
+are a number of differences between criminal and civil actions with which the Certified Fraud 
+Examiner should be familiar. The following is a brief description of some of the differences 
+between civil and criminal actions. More information about each action is contained in the 
+chapters on Criminal Prosecutions and the Civil Justice System. 
+ 
+One key difference between criminal and civil actions for fraud concerns who files the suit. 
+Criminal actions for fraud are brought by the government acting through the prosecutor’s 
+Law  Overview of the United States Legal System 
+2011 Fraud Examiners Manual    2.111 
+office. The prosecutor has almost unbridled discretion in such matters as whether to bring a 
+criminal case, what charges to file, who to charge, and whether to try the case or negotiate a 
+plea bargain. Conversely, civil actions may be brought by private individuals or organizations, 
+usually without the involvement or permission of the government or court. However, 
+corporate civil liability may be enforced by both private individuals as well as government 
+agencies (e.g., the SEC). Moreover, a civil action usually involves a dispute over something 
+(such as the terms of a contract) or a claim that one part has violated a legal duty owed to it 
+by the other party, which can be generally referred to as tort actions. 
+ 
+Another key distinction concerns who investigates the cases. Criminal cases are investigated 
+by law enforcement agencies, at times with the assistance of the prosecutor’s office and the 
+grand jury. The grand jury  is an investigative body that is empowered to issue subpoenas —
+ legal orders to produce documents, witnesses, or other things — for testimony and documents 
+to determine whether a violation of the law has occurred. Law enforcement agencies and the 
+prosecution can therefore subpoena evidence before charges are filed to determine whether 
+an offense has occurred. In civil actions brought by private parties, however, there generally is 
+no opportunity to compel the production of testimony or other evidence until a complaint is 
+filed. 
+ 
+Moreover, criminal investigations and prosecutions for fraud are subject to constitutional 
+limitations, such as those in the Fourth, Fifth, and Sixth Amendments, and other procedural 
+rules to protect the rights of the defendant, including the requirement to give Miranda 
+warnings. In general, these requirements have limited applicability to civil actions. Violations 
+of constitutional rights in a criminal case can result in the “suppression,” or exclusion, of any 
+evidence or statement obtained by such means, or in some instances, in dismissal of the 
+indictment. 
+ 
+Also, the burden of proof differs. The burden of proof in a criminal case is always beyond a 
+reasonable doubt. In civil cases, however, the burden of proof is lower, usually a preponderance of 
+the evidence.  
+ 
+Another difference between criminal and civil actions for fraud concerns the outcomes of 
+each type of case. Criminal cases are punished by outcomes such as imprisonment, fine, order 
+of restitution, probation, and community service.  
+ 
+Civil cases, if successful, result in an award of civil remedies. In general, remedy is a term used 
+Overview of the United States Legal System Law 
+2.112  2011 Fraud Examiners Manual  
+to refer to any process, procedure, or consequence of a legal wrong by which a victim of 
+misconduct can be redressed for his loss.  
+ 
+Civil remedies generally are of three principal types: monetary (damages), declaratory, and 
+equitable. Monetary (damages) remedies are remedies for the victim’s recovery of money 
+damages for the injury. Declaratory remedies  are remedies in which the court states or declares 
+the rights of the parties. For example, when a court interprets a will or a contract or when a 
+court decides who owns personal property, its decisions are declaratory in nature. Equitable 
+remedies are remedies used when the legal remedy by itself would be inadequate compensation 
+for the wronged suffered. One of the primary equitable remedies is the injunction, which is a 
+court order by which a party is required to perform, or is restrained from performing, a 
+specific act. 
+ 
+Parallel Proceedings 
+Parallel proceedings are simultaneous criminal and civil actions against the same defendant that 
+are based upon a single set of facts. The general rule is that criminal and civil actions for fraud 
+may proceed simultaneously even though such “parallel proceedings” present a dilemma for 
+the defendant. For example, a defendant lawfully may assert his Fifth Amendment right 
+against self-incrimination to avoid answering questions or producing certain documents in the 
+criminal investigation. He may not do so in the corresponding civil case, however, without 
+suffering the possibility of sanctions that can include the dismissal of affirmative defenses or 
+the striking of testimony. For example, if a defendant takes the stand in a civil case and 
+testifies on his own behalf, he cannot later invoke the Fifth Amendment and refuse to answer 
+questions concerning the same subject matter on cross-examination. If he does, the judge 
+may order that his testimony on direct examination be stricken from the record. 
+ 
+Generally, courts have not been sympathetic to the defendant’s dilemma and have allowed 
+civil discovery to proceed even though criminal charges are pending. In some instances, the 
+court or the parties may seal the civil record by agreement. In rare cases, the court may order 
+that the civil case be stayed pending resolution of the criminal case. Normally, however, the 
+court will allow the cases to proceed simultaneously despite the substantial prejudice to the 
+defendant. In parallel civil and criminal cases in which the government is a party, the criminal 
+process, including the use of grand jury subpoenas, may not be used to obtain evidence solely 
+for a civil case. 
+ 
+Law  Overview of the United States Legal System 
+2011 Fraud Examiners Manual    2.113 
+Parallel Investigations 
+Parallel investigations  are simultaneous independent investigations conducted by civil regulatory 
+agencies and federal prosecutors that involve substantially the same issues and parties. U.S. v. 
+Stringer, 521 F.3d 1189 (9th Cir. 2008) recently addressed the applicable boundaries of lawful 
+government conduct while conducting parallel investigations. Although parallel investigations 
+are generally permissible, the government may not initiate a civil action solely to obtain 
+evidence for its criminal prosecution, and it may not affirmatively mislead defendants to 
+conceal the existence of a criminal investigation. Stringer reaffirmed the broad discretion that 
+courts afford civil regulatory agencies and federal prosecutors in pursuing parallel 
+investigations, ruling that so long as targets are generally aware of the possibility of 
+prosecution, the government has no obligation to inform them about a criminal investigation. 
+Furthermore, where a regulatory agency initiates a legitimate civil investigation before a 
+criminal investigation, federal prosecutors may use and guide the civil investigation to 
+facilitate criminal prosecution. Thus, Stringer underscores the possibility that a federal criminal 
+investigation may be skulking behind every ongoing civil investigation.  
+ 
+Jurisdiction 
+Criminal and civil actions for fraud may be brought in federal or state court. Federal courts 
+have jurisdiction over federal criminal or civil statutes, certain common law claims involving 
+parties who are residents of different states, and controversies in which $75,000 or more is at 
+issue. State courts have jurisdiction over state statutes and most common law civil claims.  
+ 
+Corporate Civil and Criminal Liability 
+At the federal level and in many states corporate civil and criminal liability is vicarious liability 
+(the absolute liability of one party for the misconduct of another party) that is imposed under 
+the doctrine of respondeat superior. Under the doctrine of respondeat superior, a corporation is 
+liable for the acts of their employees if those acts occur within the scope of employment and 
+with some intent to benefit the corporation.  
+ 
+The doctrine of respondeat superior is very broad and will in fact impose liability on a 
+corporation even if those in management had no knowledge or participation in the underlying 
+criminal events. Moreover, the acts of any em ployee, from the lowest clerk to the CEO, can 
+impute liability upon a corporation, and a corporation may be liable for the acts of its 
+employees that violate security laws, banking laws, anti-bribery laws, and many others. 
+ 
+In addition, there is no due diligence defense to a federal criminal charge, meaning that it 
+Overview of the United States Legal System Law 
+2.114  2011 Fraud Examiners Manual  
+does not matter that a corporation had reasonable and effective policies in place to prevent an 
+employee from committing the illegal act. However, some states allow management’s due 
+diligence as a good-faith affirmative defense to corporate criminal liability.  
+ 
+Corporate Mens Rea 
+When a corporation is being charged with a crime that requires proof of a mental state, the 
+moving party must only show that the agent who committed the wrongdoing had the 
+required state of mind. Thus, the required mental state is attributable to the corporation. For 
+example, to impose liability against a corporation for fraud, the moving party must prove that 
+an agent of the corporation made the alleged false statements with specific intent to defraud. 
+ 
+Liability of a Corporation’s Directors and Officers 
+The current legal environment imposes civil and criminal liabilities on a corporation’s directors 
+and officers. Generally, director and officer liability stems from the certain duties imposed by 
+law to their corporation. The duties, which are discussed in more detail below, are as follows: 
+• Duty of loyalty. Directors and officers must act solely in the best interest of the 
+employer/principal, free of any self-dealing, conflicts of interest, or other abuse of the 
+principal for personal advantage. 
+• Duty of care. Directors and officers must conduct business affairs prudently with the skill 
+and attention normally exercised by people in similar positions. 
+• Statutory duties. Numerous state and federal laws regulate directors’ and officers’ actions 
+and decisions regarding the management of their companies, including: securities laws, 
+antitrust laws, racketeering laws, tax laws, intellectual property and patent laws, and state 
+corporation laws.  
+ 
+Even though directors and officers may be pursued in criminal proceedings, criminal law 
+often imposes mens rea (i.e., intent) requirements that generally make it more difficult to 
+impose criminal liability on directors and officers.  
+ 
+ 
+ 
+ 
+Law  The Law Related to Fraud (Part 1) 
+2011 Fraud Examiners Manual    2.201 
+
+
+
+:
+
+
+civil and crimin action for fraud
+thi section seek to provid an overview of the law as it relat to fraud
+crimin versu civil action for fraud
+fraud mai be prosecut crimin civilli or both in sequenc or simultan but there
+ar a number of differ between crimin and civil action with which the certifi fraud
+examin should be familiar the follow is a brief descript of some of the differ
+between civil and crimin action more inform about each action is contain in the
+chapter on crimin prosecut and the civil justic system
+on kei differ between crimin and civil action for fraud concern who file the suit
+crimin action for fraud ar brought by the govern act through the prosecutor
+law overview of the unit state legal system
+2011 fraud examin manual 2111
+offic the prosecutor ha almost unbridl discret in such matter as whether to bring a
+crimin case what charg to file who to charg and whether to try the case or negoti a
+plea bargain convers civil action mai be brought by privat individu or organ
+usual without the involv or permiss of the govern or court howev
+corpor civil liabil mai be enforc by both privat individu as well as govern
+agenc eg the sec moreov a civil action usual involv a disput over someth
+such as the term of a contract or a claim that on part ha violat a legal duti ow to it
+by the other parti which can be gener refer to as tort action
+anoth kei distinct concern who investig the case crimin case ar investig
+by law enforc agenc at time with the assist of the prosecutor offic and the
+grand juri the grand juri is an investig bodi that is empow to issu subpoena
+legal order to produc document wit or other thing for testimoni and document
+to determin whether a violat of the law ha occur law enforc agenc and the
+prosecut can therefor subpoena evid befor charg ar file to determin whether
+an offens ha occur in civil action brought by privat parti howev there gener is
+no opportun to compel the product of testimoni or other evid until a complaint is
+file
+moreov crimin investig and prosecut for fraud ar subject to constitut
+limit such as those in the fourth fifth and sixth amend and other procedur
+rule to protect the right of the defend includ the requir to give miranda
+warn in gener these requir have limit applic to civil action violat
+of constitut right in a crimin case can result in the suppress or exclus of ani
+evid or statement obtain by such mean or in some instanc in dismiss of the
+indict
+also the burden of proof differ the burden of proof in a crimin case is alwai beyond a
+reason doubt in civil case howev the burden of proof is lower usual a preponder of
+the evid
+anoth differ between crimin and civil action for fraud concern the outcom of
+each type of case crimin case ar punish by outcom such as imprison fine order
+of restitut probat and commun servic
+civil case if success result in an award of civil remedi in gener remedi is a term us
+overview of the unit state legal system law
+2112 2011 fraud examin manual
+to refer to ani process procedur or consequ of a legal wrong by which a victim of
+misconduct can be redress for hi loss
+civil remedi gener ar of three princip type monetari damag declaratori and
+equit monetari damag remedi ar remedi for the victim recoveri of monei
+damag for the injuri declaratori remedi ar remedi in which the court state or declar
+the right of the parti for exampl when a court interpret a will or a contract or when a
+court decid who own person properti it decis ar declaratori in natur equit
+remedi ar remedi us when the legal remedi by itself would be inadequ compens
+for the wrong suffer on of the primari equit remedi is the injunct which is a
+court order by which a parti is requir to perform or is restrain from perform a
+specif act
+parallel proceed
+parallel proceed ar simultan crimin and civil action against the same defend that
+ar base upon a singl set of fact the gener rule is that crimin and civil action for fraud
+mai proce simultan even though such parallel proceed present a dilemma for
+the defend for exampl a defend lawfulli mai assert hi fifth amend right
+against selfincrimin to avoid answer question or produc certain document in the
+crimin investig he mai not do so in the correspond civil case howev without
+suffer the possibl of sanction that can includ the dismiss of affirm defens or
+the strike of testimoni for exampl if a defend take the stand in a civil case and
+testifi on hi own behalf he cannot later invok the fifth amend and refus to answer
+question concern the same subject matter on crossexamin if he doe the judg
+mai order that hi testimoni on direct examin be stricken from the record
+gener court have not been sympathet to the defend dilemma and have allow
+civil discoveri to proce even though crimin charg ar pend in some instanc the
+court or the parti mai seal the civil record by agreement in rare case the court mai order
+that the civil case be stai pend resolut of the crimin case normal howev the
+court will allow the case to proce simultan despit the substanti prejudic to the
+defend in parallel civil and crimin case in which the govern is a parti the crimin
+process includ the us of grand juri subpoena mai not be us to obtain evid sole
+for a civil case
+law overview of the unit state legal system
+2011 fraud examin manual 2113
+parallel investig
+parallel investig ar simultan independ investig conduct by civil regulatori
+agenc and feder prosecutor that involv substanti the same issu and parti us v
+stringer 521 f3d 1189 9th cir 2008 recent address the applic boundari of law
+govern conduct while conduct parallel investig although parallel investig
+ar gener permiss the govern mai not initi a civil action sole to obtain
+evid for it crimin prosecut and it mai not affirm mislead defend to
+conceal the exist of a crimin investig stringer reaffirm the broad discret that
+court afford civil regulatori agenc and feder prosecutor in pursu parallel
+investig rule that so long as target ar gener awar of the possibl of
+prosecut the govern ha no oblig to inform them about a crimin investig
+furthermor where a regulatori agenc initi a legitim civil investig befor a
+crimin investig feder prosecutor mai us and guid the civil investig to
+facilit crimin prosecut thu stringer underscor the possibl that a feder crimin
+investig mai be skulk behind everi ongo civil investig
+jurisdict
+crimin and civil action for fraud mai be brought in feder or state court feder court
+have jurisdict over feder crimin or civil statut certain common law claim involv
+parti who ar resid of differ state and controversi in which 75000 or more is at
+issu state court have jurisdict over state statut and most common law civil claim
+corpor civil and crimin liabil
+at the feder level and in mani state corpor civil and crimin liabil is vicari liabil
+the absolut liabil of on parti for the misconduct of anoth parti that is impos under
+the doctrin of respondeat superior under the doctrin of respondeat superior a corpor is
+liabl for the act of their employe if those act occur within the scope of employ and
+with some intent to benefit the corpor
+the doctrin of respondeat superior is veri broad and will in fact impos liabil on a
+corpor even if those in manag had no knowledg or particip in the underli
+crimin event moreov the act of ani em ploye from the lowest clerk to the ceo can
+imput liabil upon a corpor and a corpor mai be liabl for the act of it
+employe that violat secur law bank law antibriberi law and mani other
+in addit there is no due dilig defens to a feder crimin charg mean that it
+overview of the unit state legal system law
+2114 2011 fraud examin manual
+doe not matter that a corpor had reason and effect polici in place to prevent an
+employe from commit the illeg act howev some state allow manag due
+dilig as a goodfaith affirm defens to corpor crimin liabil
+corpor men rea
+when a corpor is be charg with a crime that requir proof of a mental state the
+move parti must onli show that the agent who commit the wrongdo had the
+requir state of mind thu the requir mental state is attribut to the corpor for
+exampl to impos liabil against a corpor for fraud the move parti must prove that
+an agent of the corpor made the alleg fals statement with specif intent to defraud
+liabil of a corpor director and offic
+the current legal environ impos civil and crimin liabil on a corpor director
+and offic gener director and offic liabil stem from the certain duti impos by
+law to their corpor the duti which ar discuss in more detail below ar as follow
+duti of loyalti director and offic must act sole in the best interest of the
+employerprincip free of ani selfdeal conflict of interest or other abus of the
+princip for person advantag
+duti of care director and offic must conduct busi affair prudent with the skill
+and attent normal exercis by peopl in similar posit
+statutori duti numer state and feder law regul director and offic action
+and decis regard the manag of their compani includ secur law
+antitrust law racket law tax law intellectu properti and patent law and state
+corpor law
+even though director and offic mai be pursu in crimin proceed crimin law
+often impos men rea ie intent requir that gener make it more difficult to
+impos crimin liabil on director and offic
+law the law relat to fraud part 1
+2011 fraud examin manual 2201

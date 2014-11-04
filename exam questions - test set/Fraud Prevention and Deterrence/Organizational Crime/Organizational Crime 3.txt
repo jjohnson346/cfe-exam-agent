@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=In a complex organizational structure, it is less likely that misbehavior will be detected and punished than in a simple organizational structure.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Complex companies provide a structure that can foster misbehavior. They provide many settings where misconduct is possible. They isolate those settings in departments and in locations around a city, the country, or the world. The isolation, in turn, means that information about what one part of a company is doing may be unknown in another part. All this reduces the risk that misbehavior will be detected and punished. The larger a company grows, the more specialized its sub-units tend to become. An internally diversified company may have few employees who fully understand the detailed workings.See page(s) 4.505 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A victim impact statement is an assessment of the financial, social, psychological, and medical impact upon the victim of the crime. The Federal Rules of Criminal Procedure require that a victim impact statement be included with _________________________.
+
+Options=The judgment | The pre-sentence report | The jury instructions | The verdict
+
+CorrectResponse=1
+
+Explanation=Recent amendments to the Federal Rules of Criminal Procedure require that the pre-sentence report contain a victim impact statement, that is, an assessment of the financial, social, psychological, and medical impact upon, and cost to, the victim of the crime.See page(s) 2.523 in the Fraud Examiner's Manual

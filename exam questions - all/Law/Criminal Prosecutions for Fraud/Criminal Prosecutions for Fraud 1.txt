@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under the Fifth Amendment's protection against self-incrimination, a defendant can never be required to produce evidence to the prosecution.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If the defendant requests disclosure of the prosecution’s documents and tangible objects, reports of examinations and tests, and its expert witnesses, then the prosecution is correspondingly entitled to disclosure of these items from the defense. The prosecution is not, of course, entitled to disclosure of the defendant’s work product, nor is it entitled to statements made by prospective witnesses to the defendant or his attorneys. This provision does not violate the defendant's Fifth Amendment rights against selfincrimination, which protects only from compelled production of testimonial statements.See page(s) 2.516 in the Fraud Examiner's Manual

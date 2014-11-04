@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+last                                   1
+passed                                 1
+bill                                   1
+for                                    2
+was                                    2
+primary                                1
+carrier                                1
+information                            1
+phony                                  1
+submits                                1
+payment                                1
+hospitalized                           1
+a                                      3
+the                                    3
+he                                     1
+in                                     1
+sizable                                1
+and                                    1
+away                                   1
+that                                   1
+insured                                3
+month                                  1
+foreign                                3
+hospital                               1
+mailed                                 1
+
+Totals:                     26        36

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=DRG creep occurs when a hospitalization is coded as a more complex admission than occurred
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Diagnostic Related Groupings (DRG) is a reimbursement methodology for the payment of institutional claims. It is a patient classification scheme that categorizes patients who are medically related with respect to primary and secondary diagnosis, age, and complications. Reimbursements are determined by the DRG. DRG creep occurs when a hospitalization is coded as a more complex admission than occurred. When it becomes a pattern and intent is established, it becomes fraud For example, a hospital may code angina as a myocardial infarction, and thus be reimbursed at a higher level.See page(s) 1.1231 in the Fraud Examiner‰??s Manual

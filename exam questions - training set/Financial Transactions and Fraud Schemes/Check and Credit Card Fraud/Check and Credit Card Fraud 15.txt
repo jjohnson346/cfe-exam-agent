@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=The majority of check fraud in the United States is committed by which of the following?
+
+Options=Individuals | Domestic crime rings | Foreign crime rings | Large corporations
+
+CorrectResponse=2
+
+Explanation=Since the late 1980s, foreign crime rings have been the cause of the majority of check fraud in the United States. Most major financial institutions attribute more than 50 percent of all check fraud to organized crime rings. The perpetrators are often based in Nigeria. Russia. Vietnam, and Mexico. Most of the Vietnamese and Mexican rings operate in California, notably San Francisco. Orange County, and Sacramento. The Russian and Nigerian rings, centered in the Northeast, spread their criminal activities over a wide area and can be found passing through any part of the United States at any time. While most of these gangs are involved in drug trafficking and violent crimes, check and credit card fraud are considered ‰??safe" crimes. The chances of being arrested and prosecuted are relatively low and the penalties are not very harsh.See page(s) 1.1007 in the Fraud Examiner's Manual

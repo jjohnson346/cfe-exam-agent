@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=When a fraudster attempts to gain credibility by setting up a front operation and inviting investors for tours, this technique is known as:
+
+Options="Fly and buy" | "Reloading" | "Biz ops" | None of the above
+
+CorrectResponse=0
+
+Explanation=Some scams involve ventures such as vending machines, pay phones, and merchandise display racks. Fraudsters often gain credibility by setting up a front operation and inviting investors for tours. This part of the ruse is known as the “fly and buy.�?See page(s) 1.1716 in the Fraud Examiner’s Manual

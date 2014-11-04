@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Under the Sarbanes-Oxley Act, every public company is required to have a "financial expert" as a member of the board of directors.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Section 407 of the Act requires every public company to disclose in its periodic reports to the SEC whether the audit committee has at least one member who is a "financial expert." and if not to explain the reasons why. The Act defines a ‰??financial expert" as a person who, through education and experience as a public accountant or auditor, or a CFO, comptroller chief financial officer, or a similar position (1) has an understanding of generally accepted accounting principles and financial statements; (2) has experience in preparing or auditing financial statements of comparable companies and the application of such principles in accounting for estimates, accruals, and reserves; (3) has experience with internal controls; and (4) has an understanding of audit committee functions.See page(s) 1.1507 in the Fraud Examiner‰??s Manual

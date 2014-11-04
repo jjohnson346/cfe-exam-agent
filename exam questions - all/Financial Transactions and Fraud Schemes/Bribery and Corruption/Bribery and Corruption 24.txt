@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=During a fraud examination, all of the following methods might uncover an employee who had an undisclosed financial interest with an outside vendor EXCEPT:
+
+Options=Comparison of vendor addresses with employee addresses | Tips and complaints from employees or vendors | Comparison of customer account balances to billing files | Review of exit interviews
+
+CorrectResponse=2
+
+Explanation=Conflicts of interest are probably one of the most difficult schemes to uncover. Some of the more common methods are: tips and complaints, review of vendor ownership files, review of exit interviews, comparison of vendor addresses to addresses of subsequent employers, and interviews with purchasing personnel.See page(s) 1.738 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=People in the research and development department are typically very secretive about new products, and it is difficult to find out information from them.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=One would think that research and development would be the most heavily guarded department in a company, but access to research and development information is surprisingly easy. R personnel are almost always in the flow of information The open exchange of information is part of the nature of their job. They participate in conferences, attend trade shows, and work with academic institutions; however, at each of these functions, they leave themselves open for intelligence spies to listen, mingle, and ask questions.See page(s) 1.821 in the Fraud Examiner's Manual

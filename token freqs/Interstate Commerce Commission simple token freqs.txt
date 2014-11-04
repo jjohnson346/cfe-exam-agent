@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+insurance                              3
+car                                    1
+interstate                             3
+surface                                1
+for                                    1
+liability                              1
+by                                     1
+transportation                         1
+includes                               1
+commerce                               3
+of                                     2
+icc                                    2
+carrier                                1
+commission                             2
+all                                    1
+kept                                   1
+limits                                 1
+information                            1
+status                                 1
+companies                              1
+number                                 1
+the                                    8
+in                                     1
+and                                    4
+carriers                               1
+address                                1
+identification                         1
+engaged                                1
+policy                                 2
+foreign                                1
+identifies                             1
+
+Totals:                     31        51

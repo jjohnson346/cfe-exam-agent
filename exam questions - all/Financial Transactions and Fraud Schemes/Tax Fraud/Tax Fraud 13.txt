@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=The difference between tax avoidance and tax evasion is:
+
+Options=The former is lawful and the latter is unlawful | There is no difference because neither is lawful | The former is unlawful and the latter is lawful | The former is civil and the latter is criminal
+
+CorrectResponse=0
+
+Explanation=The U.S. courts have determined evasion to be unlawful, while avoidance has been deemed lawful.	See page(s) 1.1401 in the Fraud Examiner’s Manual

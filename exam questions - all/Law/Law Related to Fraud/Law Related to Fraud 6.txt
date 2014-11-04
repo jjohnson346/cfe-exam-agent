@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Green, a Certified Fraud Examiner was hired to testify in the bankruptcy trial of White. White knowingly purchased inventory on credit, sold off the inventory below cost, and absconded with the proceeds. Later he was placed in bankruptcy. Green will probably testify this scheme is commonly called a ________________.
+
+Options=Bust | Bustoff | Bustout | None of the above
+
+CorrectResponse=2
+
+Explanation=Bankruptcy fraud is a violation of Title 18, United States Code, Section 151, et seq. Two related types of criminal conduct fall under the heading of bankruptcy fraud. The first is the planned bankruptcy, or "bustout." In this scheme, the wrongdoer sells off inventory and other assets obtained on credit (often through false or inflated financial statements) for cash, usually below cost, and absconds with the proceeds. Formal bankruptcy proceedings are often not initiated and the crime may be prosecuted under other statutes, such as mail or wire fraud. The other type of scheme involves converting or hiding assets in contemplation of bankruptcy.See page(s) 2.258 in the Fraud Examiner's Manual

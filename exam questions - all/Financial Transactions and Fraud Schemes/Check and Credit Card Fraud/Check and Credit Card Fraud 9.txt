@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=The best solution for financial institutions and merchants to reduce losses from check fraud is to do which of the following?
+
+Options=Notify- police as soon as a bad check is received | Educate employees to recognize forged or fraudulent checks | Prosecute check offenders | Fingerprint customers
+
+CorrectResponse=1
+
+Explanation=The best solution for financial institutions and merchants to reduce losses from check fraud is to educate employees to recognize forged and fraudulent checks and the schemes behind them. Merchants and financial institutions should have a strict check acceptance policy with which all employees are familiar. When accepting checks, employees should always ask for identification and make sure it is valid. Many check passers mollify store personnel by showing them a small laminated rectangular document with a picture. After looking at several hundred of these, most employees tend not to scrutinize them. Check passers count on this. It is important for employees to examine each piece of identification closely every time they are presented with oneSee page(s) 1.1001 in the Fraud Examiner's Manual

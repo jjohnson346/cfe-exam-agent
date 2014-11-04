@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=In U.S. federal civil cases, either party may take discovery on any relevant or nonprivileged matter.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Discovery refers to the formal process whereby the parties collect evidence and learn of the details of the opposing case. Under federal rules, either party may take discovery regarding any matter, not privileged, which is relevant to the subject matter of the action, or which may lead to admissible evidence.See page(s) 2.602 in the Fraud Examiner's Manual

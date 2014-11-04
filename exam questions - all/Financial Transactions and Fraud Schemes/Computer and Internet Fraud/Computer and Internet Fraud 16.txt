@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=The predominant form of authenticating valid users on a computer system is to employ passwords. Which of the following are essential in maintaining effective password security?
+
+Options=Passwords revoked if the employee is terminated | Prohibition of shared passwords | Passwords of sufficient length (e.g., eight characters) | All of the above
+
+CorrectResponse=3
+
+Explanation=Passwords are the predominant form of authenticating valid users. Effective password administration is essential for maintaining security. Passwords should be of sufficient length (usually a minimum of eight characters) to avoid guessing. Group passwords and sharing of passwords should be prohibited so as to maintain individual accountability. Passwords of all terminated employees should be revoked immediately. Security administration often coordinates the notification of terminated employees with the personnel function. Employees who have changed job functions or transferred should have their old password canceled and a new one issued, if appropriate.See page(s) 1.1839 in the Fraud Examiner's Manual

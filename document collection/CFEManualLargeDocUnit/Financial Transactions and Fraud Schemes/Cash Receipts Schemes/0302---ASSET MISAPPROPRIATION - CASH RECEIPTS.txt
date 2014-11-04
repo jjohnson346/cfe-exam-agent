@@ -1,0 +1,1869 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ASSET MISAPPROPRIATION: CASH RECEIPTS
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Cash Receipts Schemes
+
+
+:
+
+
+ASSET MISAPPROPRIATION: CASH RECEIPTS  
+ 
+Asset misappropriations are by far the most common of all occupational frauds. There are 
+three major categories of asset misappropriation schemes. Cash receipts schemes will be 
+discussed in this section, fraudulent disbursements of cash will be addressed in the next 
+section, and the following section will cover schemes involving the theft of inventory and 
+other non-cash assets.  
+ 
+Cash is the focal point of most accounting entries. Cash, both on deposit in banks and on 
+hand as petty cash, can be misappropriated through many different schemes. These schemes 
+can be either on-book or off-book, depending on where they occur.  
+ 
+Cash receipts schemes fall into two categories, skimming  and larceny. The difference in the two 
+types of fraud depends completely on when the cash is stolen. Cash larceny is the theft of 
+money that has already appeared  on a victim organization’s books, while skimming is the theft 
+of cash that has not yet been recorded  in the accounting system. The way in which an employee 
+extracts the cash may be exactly the same for a cash larceny or skimming scheme.  
+ 
+ 
+Skimming 
+Skimming is the removal of cash from a victim entity prior to its entry in an accounting 
+system. Employees who skim from their companies steal sales or receivables before they are 
+recorded in the company books. Skimming schemes are known as “off-book” frauds, 
+meaning money is stolen before it is recorded in the victim organization’s accounts. This 
+aspect of skimming schemes means they leave no direct audit trail. Because the stolen funds 
+are never recorded, the victim organization may not be aware that the cash was ever 
+received. Consequently, it may be very difficult to detect that the money has been stolen. 
+This is the prime advantage of a skimming scheme to the fraudster.  
+ 
+Skimming is one of the most common forms of occupational fraud. It can occur at any point 
+where cash enters a business, so almost anyone who deals with the process of receiving cash 
+may be in a position to skim money. This includes salespeople, tellers, waitpersons, and 
+others who receive cash directly from customers.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.402                         2011 Fraud Examiners Manual  
+In addition, many skimming schemes are perpetrated by employees whose duties include 
+receiving and logging payments made by customers through the mail. These employees slip 
+checks out of the incoming mail instead of posting those checks to the proper revenue or 
+receivables accounts. Those who deal directly with customers or who handle customer 
+payments are obviously the most likely candidates to skim funds.  
+ 
+Sales Skimming 
+The most basic skimming scheme occurs when an employee sells goods or services to a 
+customer, collects the customer’s payment, but makes no record of the sale. The employee 
+simply pockets the money received from the customer instead of turning it over to his 
+employer. (See “Unrecorded Sales” flowchart.)   
+ 
+Consider one of the simplest and most common sales transactions, a sale of goods at the 
+cash register. In a normal transaction, a customer purchases an item and an employee enters 
+the sale on the register. The register tape reflects that the sale has been made and shows that 
+a certain amount of cash (the purchase price of the item) should have been placed in the 
+register. By comparing the register tape to the amount of money on hand, it may be possible 
+to detect thefts. For instance, if there were $500 worth of sales recorded on a particular 
+register on a given day, but only $400 cash in the register, it would be obvious that someone 
+had stolen $100 (assuming no beginning cash balance).  
+ 
+If the employee is skimming money, however, it will be impossible to detect theft simply by 
+comparing the register tape to the cash drawer. Returning to the example in the paragraph 
+above, assume that an employee wants to make off with $100. Through the course of the 
+day, there are $500 worth of sales at his register ; one sale is for $100. When the $100 sale is 
+made, the employee does not record the transaction on his register. The customer pays $100 
+and takes the merchandise home, but instead of placing the money in the cash drawer, the 
+employee pockets it. In order to create the appearance that the sale is being entered in the 
+register, the employee might ring a “no sale” or some other non-cash transaction. Since the 
+employee did not record the sale, at the end of the day the register tape will only reflect $400 
+in sales. There will be $400 on hand in the re gister ($500 in total sales minus the $100 that 
+the employee stole) so the register will balance. Thus by not recording the sale the employee 
+is able to steal money without the missing funds appearing on the books. Of course, the 
+theft will show up indirectly in the company’s records as inventory shrinkage. But the books 
+will provide no direct evidence of the theft. 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.403 
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.404                         2011 Fraud Examiners Manual  
+ The most difficult part in skimming at the register is that the employee must commit the 
+overt act of taking money. If the employee takes the customer’s money and shoves it into his 
+pocket without entering the transaction on the register, the customer will probably suspect 
+that something is wrong and might report the conduct to another employee or a manager. It 
+is also possible that a manager, a fellow employee, or a surveillance camera will spot the 
+illegal conduct. Therefore, it is often desirable for a perpetrator to act as though he is 
+properly recording a transaction while he skims sales.  
+ 
+Register Manipulation 
+Some employees might ring a “no sale” or ot her non-cash transaction to mask the theft of 
+sales. The false transaction is entered on the register so that it appears a sale is being rung up. 
+The perpetrator opens the register drawer and pretends to place the cash he has just received 
+in the drawer, but in reality he pockets the cash. To the casual observer it looks as though 
+the sale is being properly recorded.  
+ 
+Some employees may also rig their registers so that a sale can be entered on the register keys, 
+but will not appear on the register tapes. The employee can then safely skim the sale. Anyone 
+observing the employee will see the sale entered, see the cash drawer open, etc., yet the 
+register tape will not reflect the transaction.  
+ 
+EXAMPLE 
+A service station employee hid stolen gasoline sales by simply  lifting the ribbon from the 
+printer on his register. He collected and pocketed the sales, which were not recorded on the 
+register tape. The fraudster would then roll back the tape to the point where the next 
+transaction should appear and replace the ribb on. The next transaction would be printed 
+without leaving any blank space on the tape, apparently leaving no trace of the fraud.   
+ 
+When the ribbon is removed from the register, the result is a blank space on the register tape 
+where the skimmed sale should have been printed. Unusual gaps between transactions on a 
+register tape may mean that someone is skimming sales.  
+ 
+Fraudsters will often manually roll back the tape when they replace the ribbon on their 
+registers so that there is no gap between transactions. Most register transactions, however, 
+are sequentially numbered. If a transaction has been omitted from the register tape, the result 
+is a break in the sequence. For instance, if an employee skimmed sale #155, then the register 
+tape would only show transactions #153, #154, #156, #157 and so on. The missing 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.405 
+transaction numbers, omitted because the ribbon was lifted when they took place, would 
+indicate fraud.  
+ 
+Skimming During Nonbusiness Hours 
+Another way to skim unrecorded sales is to conduct sales during nonbusiness hours. For 
+instance, some employees will open stores on weekends or after hours without the 
+knowledge of the owners. They can pocket the proceeds of all sales made during these times 
+because the owners have no idea that their stores are even open for business.  
+ 
+EXAMPLE 
+A manager of a retail facility went to work two hours early every day, opening his store at 
+8:00 a.m. instead of 10:00 a.m., and pocketed all the sales made during these two hours. 
+He rang up sales on the register as if it was business as usual, but then removed the register 
+tape and all the cash he had accumulated. The manager then started from scratch at 10:00 
+as if the store was just opening. The tape was destroyed so there was no record of the before-
+ hours revenue. 
+ 
+To this point skimming has been discussed in the context of cash register transactions, but 
+skimming does not have to occur at a register. Some of the most costly skimming schemes 
+are perpetrated by employees who work at remote locations or without close supervision. 
+This can include on-site sales persons who do not deal with registers, independent salesmen 
+who operate off-site, and employees who work at branches or satellite offices. These 
+employees have a high level of autonomy in their jobs, which often translates into poor 
+supervision and, in turn, to fraud.  
+ 
+Skimming of Off-Site Sales 
+Several industries rely on remote salespersons to generate revenue. The fact that these 
+employees are largely unsupervised puts them in a good position to skim revenues. For 
+example, consider the apartment rental industry, where apartment managers handle the 
+day-to-day operations without much oversight. A common scheme is for an on-site employee to 
+identify the tenants who pay in currency and remove them from the books. This causes a 
+particular apartment to appear as vacant on the records when, in fact, it is occupied. The 
+manager can skim the rental payments from the “vacant” unit, and the revenue will never be 
+missed. As long as no one physically checks the apartment, the perpetrator can continue 
+skimming indefinitely.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.406                         2011 Fraud Examiners Manual  
+Another rental-skimming scheme occurs when apartments are rented out but no lease is 
+signed. On the books, the apartment will still a ppear to be vacant, even though there are 
+tenants on the premises. The perpetrator can skim the rental payments from these tenants 
+without fear that they will show up as past due in the company records. Sometimes the 
+employees in these schemes work in conjunction with the renters and give a “special rate” to 
+these people. In return, the renter’s payments are made directly to the employee and any 
+complaints or maintenance requests are directed only to that employee so the tenant’s 
+presence in the apartment remains hidden.  
+ 
+Instead of skimming rent, some property managers focus on less predictable forms of 
+revenue like application fees and late fees. Ownership may know when rent is due and how 
+many apartments are occupied, but often there is no control in place to track the number of 
+people who fill out rental applications or how many tenants pay their rent a day or two late. 
+Property managers can make thousands of dollars by skimming these “nickel and dime” 
+payments.  
+ 
+Off-site skimming is by no means limited to the apartment rental industry. The schemes 
+described above can easily translate into any arena where those who generate or collect 
+revenues operate in an independent fashion. A prime example is the insurance agent who 
+sells policies to customers, then neglects to file the policies with the carrier. Most customers 
+do not want to file claims on a policy, especially early in the term, for fear that their 
+premiums will rise. Knowing this, the agent k eeps all documentation on the policies instead 
+of turning it over to the carrier. The agent is able to skim the customer’s payments because 
+the carrier does not know the policy exists. The customer continues to make his payments, 
+thinking that he is insured, when in fact the policy is a ruse.  
+ 
+Poor Collection Procedures 
+Poor collection and recording procedures can make it easy for an employee to skim sales or 
+receivables.  
+ 
+EXAMPLE 
+A governmental authority that dealt with public housing was victimized because it failed to 
+itemize daily receipts. This agency received pa yments from several public housing tenants, 
+but at the end of the day, “money” received from tenants was listed as a whole. Receipt 
+numbers were not used to item ize the payments made by tenants, so there was no way to 
+pinpoint which tenant had paid how much. Consequently, the employee in charge of 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.407 
+collecting money from tenants was able to skim a portion of their payments. She simply did 
+not record the receipt of over $10,000. Her actions caused certain accounts receivable to be 
+overstated where tenant payments were not properly recorded.  
+ 
+Understated Sales  
+The discussion above focused on purely off-book sales, those which are never recorded. 
+Understated sales work differently because the transaction in question is posted to the 
+books, but for a lower amount than what the perpetrator actually collected. (See 
+“Understated Sales” flowchart.) One way employees commit understated sales schemes is by 
+altering receipts or preparing false receipts that misstate the amount of sales. 
+ 
+EXAMPLE 
+An employee wrote receipts to customers for their purchases, but she removed the carbon 
+paper backing on the receipts so that they did not produce a company copy. The employee 
+then used a pencil to prepare company copies that showed lower purchase prices. For 
+example, if the customer had paid $100, the company copy might reflect a payment of $80. 
+The employee skimmed the difference between the actual amount  of revenue and the amount 
+reflected on the fraudulent receipt. 
+ 
+Understated sales schemes are commonly undertaken by employees who work at the cash 
+register. In a typical scheme an employee enters a sales total that is lower than the amount 
+actually paid by the customer. The employee skims the difference between the actual 
+purchase price of the item and the sales figure recorded on the register. For instance, if an 
+item is sold for $100, the employee could ring up  the sale of an $80 item and skim the excess 
+$20.  
+ 
+Rather than reduce the price of an item, an employee might record the sale of fewer items. If 
+100 units are sold, for instance, an employee might only record the sale of 50 units and skim 
+the excess receipts.  
+ 
+A similar method is used when sales are made on account. The bill to the customer reflects 
+the true amount of the sale, but the receivable is understated in the company books. For 
+instance, a company might be owed $1,000, but the receivable is recorded as $800. (Sales are 
+correspondingly understated by $200.) When the customer makes payment on the account, 
+the employee can skim $200 and post the $800 to the account. The account will appear to 
+have been paid in full.  
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.408                         2011 Fraud Examiners Manual  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.409 
+FALSE DISCOUNTS 
+Those employees with the authority to grant discounts may utilize this authority to skim 
+sales and receivables. In a false discount skimming scheme, an employee accepts full 
+payment for an item, but records the transaction as if the customer had been given a 
+discount. The employee skims the amount of the discount. For example, on a $100 
+purchase, if an employee granted a false discount of 20 percent, he could skim $20 and leave 
+the company’s books in balance.  
+ 
+Theft of Checks Received Through the Mail 
+Checks received through the mail are a frequent target of employees seeking illicit gains. 
+Theft of incoming checks usually occurs when a single employee is in charge of opening the 
+mail and recording the receipt of payments. This employee simply steals one or more 
+incoming checks instead of posting them to customer accounts. (See “Theft of Incoming 
+Checks” flowchart.) When the task of receiving and recording incoming payments is left to a 
+single person, it is all too easy for that employee to make off with an occasional check.  
+ 
+EXAMPLE 
+A mailroom employee stole over $2 million in government checks arriving through the mail. 
+This employee simply identified and removed envelopes delivered from a government agency 
+known to send checks to the company. Using a group of accomplices acting under the names 
+of fictitious persons and companies, this indi vidual was able to launder the checks and 
+divide the proceeds with his cronies. 
+ 
+The theft of checks is not usually complicated, but it is sometimes more difficult to conceal a 
+check theft scheme than other forms of skimming. If the stolen checks were payments on 
+the victim company’s receivables, then these payments were expected. As receivables become 
+past due, the victim company will send notices of nonpayment to its customers. A customer 
+is likely to complain when he receives a second bill for a payment he has already made. In 
+addition, the cashed check will serve as evidence that the customer made his payment. The 
+methods used to conceal check theft schemes will be discussed later in this section. 
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.410                         2011 Fraud Examiners Manual  
+ 
+Financial Transactions Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.411 
+Check for Currency Substitutions 
+The intelligent criminal will generally prefer to steal currency rather than checks if given the 
+opportunity. The reasons why are obvious. First, currency is harder to trace than a check. A 
+cashed check eventually returns to the person who wrote it and may provide evidence of 
+who cashed it or where it was spent. Endorsements, bank stamps, and so forth may indicate 
+the identity of the thief. Currency, on the other hand, disappears into the economy once it is 
+stolen.  
+ 
+The second reason that currency is preferable to a check is the difficulty in converting the 
+check. When currency is stolen it can be spent immediately. A check, on the other hand, 
+must be endorsed and cashed or deposited before the thief can put his hands on the money 
+it represents. To avoid this problem, employees who steal unrecorded checks will frequently 
+substitute them for receipted currency. If, for example, an employee skims an incoming 
+check worth $500, he can add the check to the day’s receipts and remove $500 in currency. 
+The total receipts will match the amount of cash on hand, but payments in currency are 
+replaced by the check.  
+ 
+EXAMPLE 
+An employee responsible for receipting ticket and fine payments on behalf of a municipality 
+abused her position and stole incoming revenu es for nearly two years. When payments in 
+currency were received by this individual, she issued receipts, but when checks were received 
+she did not. The check payments were theref ore unrecorded revenues—ripe for skimming. 
+These unrecorded checks were placed in the days’ receipts  and an equal amount of cash was 
+removed. The receipts matched the amount of  money on hand except that payments in 
+currency had been replaced with checks.  
+ 
+The check for currency substitution is very common. While these substitutions make it easier 
+for a crook to convert stolen payments, the problem of concealing the theft still remains. 
+The fact that the stolen checks are not posted means that some customers’ accounts are in 
+danger of becoming past due. If this happens, the perpetrator’s scheme is in danger because 
+these customers will almost surely complain about the misapplication of their payments. 
+However, the misapplied payments can be concealed on the books by forcing account totals, 
+stealing customers’ account statements, lapping, and making other fraudulent accounting 
+entries. These concealment techniques will be discussed in more detail in the Skimming 
+Receivables section.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.412                         2011 Fraud Examiners Manual  
+Check for currency substitutions are especially common when an employee has access to 
+some unexpected source of funds such as a manufacturer’s refund that arrives outside the 
+regular stream of sales and receivables payments. In these cases the check can be swapped 
+for cash and there is usually no additional step required to conceal the crime. The refund 
+check, an unexpected source of funds, will not be missed by the victim organization, and the 
+party who issued the check expects no goods or services in return.  
+ 
+Skimming Receivables
+It is generally more difficult to conceal the skimming of receivables than the skimming of 
+sales because receivables payments are expected. The victim organization knows the customer 
+owes money and it is waiting for the payment to arrive. When unrecorded sales are skimmed, 
+it is as though the sale never existed. But when receivables are skimmed, the absence of the 
+payment appears on the books as a delinquent account. In order to conceal a skimmed 
+receivable, a perpetrator must somehow account for the payment that was due to the 
+company but never received. There are a number of common techniques fraudsters use to 
+conceal the skimming of receivables.  
+ 
+Forcing Account Balances or Destroying Transaction Records 
+Among the most dangerous receivables skimming schemes are those in which the 
+perpetrator is in charge of collecting and posting payments. If a fraudster has a hand in both 
+ends of the receipting process, he can falsify records to conceal the theft of receivables 
+payments. For example, the fraudster might post the customer’s payments to their 
+receivables accounts, even though the payments will never be deposited. This keeps the 
+receivable from aging, but it creates an imbalance in the cash account. The perpetrator hides 
+the imbalance by forcing the total on the cash account, overstating it to match the total 
+postings to accounts receivable. 
+ 
+EXAMPLE 
+The chief financial officer of a small corporation stole approximately $100,000 from his 
+company by diverting customer checks. This in dividual controlled all the books and records 
+for the victim company. He stole checks from customers and deposited them in his personal 
+bank account. The customers’ payments were still posted to keep the receivables from aging.  
+ 
+The perpetrator stole checks in an amount equal to the victim company’s tax liability. To 
+keep the books in balance, he would prepare checks payable to the IRS, but he never 
+mailed them. The checks were recorded in the victim’s records and the false disbursements 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.413 
+offset the amount of false postings to acco unts receivable. The scheme was uncovered when 
+the IRS notified the victim company that its taxes were delinquent.  
+ 
+Some fraudsters simply destroy all records that might prove that they have been stealing. 
+Destroying records en masse does not prevent the victim organization from realizing that it 
+is being robbed, but it may help conceal the identity of the thief.  
+ 
+Lapping 
+Lapping customer payments is one of the most common methods of concealing receivables 
+skimming. Lapping is the crediting of one a ccount through the abstraction of money from 
+another account. It is the fraudster’s version of “robbing Peter to pay Paul.”   
+ 
+Suppose a company has three customers, A, B, and C. When A’s payment is received, the 
+fraudster steals it instead of posting it to A’s account. Customer A expects that his account 
+will be credited with the payment he has made. If the payment has not been posted by the 
+time A’s next statement is mailed, he will see that the payment was not applied to his 
+account and will almost certainly complain. To avoid this, the thief must take some action to 
+make it appear that the payment was posted.  
+ 
+When B’s check arrives, the thief posts this money to A’s account. Payments now appear to 
+be up-to-date on A’s account, but B’s account is behind. When C’s payment is received, the 
+perpetrator applies it to B’s account. This process continues indefinitely until one of three 
+things happens: (1) someone discovers the scheme, (2) restitution is made to the accounts, or 
+(3) some concealing entry is made to adjust the accounts receivable balances.  
+ 
+EXAMPLE 
+A clerk working for a government agency committed a lapping scheme that involved the 
+theft of more than 150 customer payments, causing a total misappropriation of more than 
+$30,000 in government funds. This individual stole taxes, fees, and other incoming 
+payments from customers to cover his personal expenses. When a customer’s payment was 
+stolen, the documentation on that payment would be hidden until a later payment was 
+received. The later payment would be applied to the earlier customer’s records.  
+ 
+As the rotating schedule of applying and misapplying payments became more and more 
+complicated, the perpetrator insisted on exerting more and more control over the receipting 
+process. He insisted on handling all incoming mail, preparing the deposit and delivering the 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.414                         2011 Fraud Examiners Manual  
+deposit to the bank so that he could continue to delay the posting of payments. The fraud 
+was detected in large part because several consumers complained that they had not received 
+confirmation of their payments, even though their checks had cleared months earlier. 
+ 
+Because lapping schemes can become very intricate, fraudsters sometimes keep a second set 
+of books on hand detailing the true nature of the payments received. In many skimming 
+cases, a search of the fraudster’s work area will reveal a set of records tracking the actual 
+payments and how they have been misapplied to conceal the theft. It may seem odd that 
+people would keep records of their illegal activity on hand, but many lapping schemes 
+become extremely complicated as more and more payments are misapplied. The second set 
+of records helps the perpetrator keep track of the funds that were stolen and which accounts 
+need to be credited to conceal the fraud. Uncovering these records, if they exist, will greatly 
+facilitate the investigation of a lapping scheme.  
+ 
+While lapping is more commonly used to conceal receivables skimming, it can also be used 
+to disguise the skimming of sales. Employees sometimes steal all or part of one day’s receipts 
+and replace them with the receipts from the following day. This type of concealment 
+requires the employee to delay making the company deposit until enough money can be 
+collected to recoup the stolen funds. If an organization rigidly adheres to a deposit schedule, 
+it is unlikely that lapping will be effective in concealing this type of fraud.  
+ 
+Stolen Statements  
+When employees skim receivables, they may let the targeted accounts age instead of 
+attempting to force the balances. In other words, they steal an incoming check intended as 
+payment on a receivable, and they simply act as if the check never arrived. This method 
+keeps the victim organization’s cash account in balance, because the stolen payment is never 
+posted.  
+ 
+Of course, if the customer’s payment is not posted, the receivable will eventually become 
+past due. The customer will have proof in the form of a canceled check that a payment was 
+made on the account. The question will arise: where did the payment go? The answer, of 
+course, is that it went into the fraudster’s pocket. So the goal of the fraudster must be to 
+keep the customer from realizing that his account was not credited with the payment. If this 
+can be accomplished, the customer will not complain about the missing payment, and the 
+victim organization will not realize that skimming has occurred.  
+ 
+Financial Transactions Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.415 
+One way fraudsters attempt to conceal the fact that they have skimmed a payment from a 
+customer is to intercept the customer’s account statement and/or late notices. In some 
+cases, the perpetrator intercepts the account statement by changing the customer’s address in 
+the billing system so that statements are sent directly to the perpetrator’s home or to an 
+address where he can retrieve them. In other instances, the perpetrator physically intercepts 
+the statements before they are mailed.  
+ 
+Once the real statement indicating that the payment was not received has been intercepted, 
+the fraudster usually alters the statement or produces a counterfeit. The false statements 
+indicate that the customer’s payment was properly posted. This leads the customer to believe 
+that his account is up-to-date and keeps the customer from complaining about stolen 
+payments.  
+ 
+False Account Entries 
+Intercepting the customer’s statements will keep him in the dark as to the status of his 
+account, but as long as the customer’s payments are being skimmed, his account is slipping 
+further and further past due. The perpetrator must bring the account back up to date in 
+order to conceal his crime. Lapping is one way to keep accounts current as the employee 
+skims from them. Another way is to make false entries in the victim organization’s 
+accounting system.  
+ 
+DEBITS TO EXPENSE ACCOUNTS 
+An employee might conceal the skimming of funds by making unsupported entries in the 
+victim company’s books. If a payment is made on a receivable, for instance, the proper entry 
+is a debit to cash and a credit to the receivable. Instead of debiting cash, the employee might 
+choose to debit an expense account. This transaction still keeps the company’s books in 
+balance, but the incoming cash is never recorded. In addition, the customer’s receivable 
+account is credited, so it will not become delinquent.  
+ 
+DEBITS TO AGING OR FICTITIOUS RECEIVABLES 
+The same method discussed above is used when employees debit existing or fictitious 
+accounts receivable in order to conceal skimmed cash. For example, an employee who has 
+skimmed one customer’s payments might add the stolen amounts to aging accounts that are 
+soon to be written off as uncollectible, or to very large accounts where a small debit might 
+go unnoticed.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.416                         2011 Fraud Examiners Manual  
+Some perpetrators also set up completely fictitious accounts and debit them for the cost of 
+skimmed receivables. The employees then simply wait for the fictitious receivables to age 
+and be written off as uncollectable. In the meantime, the fictitious receivables carry the cost 
+of a skimming scheme where it will not be detected.  
+ 
+WRITING OFF ACCOUNT BALANCES 
+Some employees cover their skimming by posting entries to contra revenue accounts such as 
+“discounts and allowances.” If, for instance, an employee intercepts a $1,000 payment, he 
+would create a $1,000 “discount” on the acco unt to compensate for the missing money. 
+Another account that might be used in this type of concealment is the bad debts expense 
+account.  
+ 
+EXAMPLE 
+A billing manager was author ized to write off certain patient balances as hardship 
+allowances. This employee accepted payments from  patients, then instructed billing personnel 
+to write off the balance in question. The payments were never posted; they were intercepted 
+by the billing manager. She covered approximately $30,000 in stolen funds by using her 
+authority to write off patients’ balances.  
+ 
+Inventory Padding 
+A problem for fraudsters in some skimming schemes is the victim organization’s inventory. 
+Off-book sales of goods will always leave an in ventory shortage and a corresponding rise in 
+the cost of goods sold.  
+ 
+When a sale of goods is made, the physical inventory is reduced by the amount of 
+merchandise sold. For instance, when a retailer sells a pair of shoes there is one less pair of 
+shoes in the stock room If this sale is not recorded, however, the shoes are not removed 
+from the perpetual inventory records. Thus, there is one less pair of shoes on hand than in 
+the perpetual inventory. A reduction in the physical inventory without a corresponding 
+reduction in the perpetual inventory is known as “shrinkage.”  
+ 
+When an employee skims sales of services there is no shrinkage (because there is no 
+inventory for services), but when sales of goods are skimmed, shrinkage always occurs. Some 
+amounts of shrinkage are expected due to customer theft, faulty products, and spoilage, but 
+high levels of shrinkage serve as a warning that a company could be a victim of occupational 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.417 
+fraud. The general methods used to conceal inventory shrinkage are discussed in detail in the 
+Inventory and Other Assets section.  
+ 
+Detection of Skimming Schemes 
+The following are some detection methods that may be effective in detecting skimming 
+schemes. 
+ 
+Receipt or Sales Level Detection 
+Key analytical procedures, such as vertical and horizontal analysis of sales accounts, can be 
+used for skimming detection on a grand scale. These procedures analyze changes in the 
+accounts and can possibly point to skimming problems including understated sales.  
+Ratio analysis can also provide keys to the detection of skimming schemes. These 
+procedures are discussed in detail in the Fraudulent Financial Statement section.  
+ 
+Detailed inventory control procedures can also be utilized to detect inventory shrinkage due 
+to unrecorded sales. Inventory detection methods include statistical sampling, trend analysis, 
+reviews of receiving reports and inventory records, verification of material requisition and 
+shipping documentation, as well as actual physical inventory counts. These procedures are 
+reviewed in the section on Inventory and Other Assets. 
+ 
+Journal Entry Review 
+Skimming can sometimes be detected by reviewing and analyzing all journal entries made to 
+the cash and inventory accounts. Journal entries involving the following topics should be 
+examined: 
+• False credits to inventory to conceal unrecorded or understated sales. 
+• Write-offs of lost, stolen, or obsolete inventory. 
+• Write-offs of accounts receivable accounts. 
+• Irregular entries to cash accounts. 
+ 
+Detecting Lapping of Sales or Receivables   
+Lapping can usually be detected by comparing the dates of the customer’s payments with the 
+dates the customer’s accounts are posted. This will require an examination of the source 
+documents, such as the composition of bank deposits. Discrepancies should be investigated. 
+ 
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.418                         2011 Fraud Examiners Manual  
+Confirmation of customers’ accounts is another method that might detect lapping. 
+Confirmations are especially effective on large accounts where the time value of money is an 
+issue. However, customers who pay on invoice rather than on balance might not know the 
+exact balance of their account. If this is the case, it might be more effective to confirm by 
+invoice and reconstruct the account balance using the source documents in the files and the 
+results of the confirmation. If fraud is suspected, ask the customer or the bank to return a 
+copy of both the front and the back of the check(s) used to pay specific invoices. Match the 
+data on the check copies with the posting dates in the customer’s account. 
+ 
+Prevention of Skimming Schemes 
+Receipt or Sales Level Control  
+As with most fraud schemes, internal control procedures are a key to prevention of 
+skimming schemes. An essential part of developing control procedures is management’s 
+communication to employees. Controlling whether or not an employee will not record a sale, 
+understate a sale, or steal incoming payments is extremely difficult.  
+ 
+General Controls 
+Sales entries and general ledger access controls should include documented policies and 
+procedures, which are communicated directly from management. The control procedures 
+will generally cover the following subjects: 
+• Appropriate segregation of duties and access control procedures regarding who makes 
+ledger transactions will be followed. 
+• Transactions must be properly recorded as to amount, date of occurrence, and ledger 
+account.  
+• Proper safeguard measures will be adopted to ensure physical access to the account 
+systems. Additional measures should ensure the security of company assets.  
+• Independent reconciliations as well as internal verification of accounts will be performed 
+on ledger accounts.1 
+ 
+Skimming Controls 
+The discovery of thefts of checks and cash involves proper controls on the receipt process. 
+Deficiencies in the answers to these typical audit-program questions may be red flags.  
+• Is mail opened by someone independent of cashier, accounts receivable bookkeeper, or 
+other accounting employees who may initiate or post journal entries? 
+                                                          
+1 George Georgiades, Audit Procedures  (New York: Harcourt Brace Professional Publishing, 1995). 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.419 
+• Is the delivery of unopened business mail prohibited to employees having access to the 
+accounting records? 
+• Does the employee who opens the mail: 
+? Place restrictive endorsements (“For Deposit Only”) on all checks received? 
+? Prepare a list of the money, checks, and other receipts? 
+? Forward all remittances to the person responsible for preparing and making the daily 
+bank deposit? 
+? Forward the total of all remittances to the person responsible for comparing it to the 
+authenticated deposit ticket and amount recorded? 
+• Is a lock box used? 
+• Do cash sales occur? If yes: 
+? Are cash receipts prenumbered? 
+? Is an independent check of prenumbered receipts done daily and reconciled to cash 
+collections? 
+• Do cash refunds require approval? 
+• Are cash receipts deposited intact daily? 
+• Are employees who handle receipts bonded? 
+• Is the accounts receivable bookkeeper restricted from: 
+? Preparing the bank deposit? 
+? Obtaining access to the cash receipts book? 
+? Having access to collections from customers? 
+? Are banks instructed not to cash checks drawn to the order of the company? 
+• Is the cashier restricted from gaining access to the accounts receivable records and bank 
+and customer statements? 
+• Are areas where physical handling of cash takes place reasonably safeguarded? 
+• Is the person who makes postings to the general ledger independent of the cash receipts 
+and accounts receivable functions?  
+• Does a person independent of the cashier or accounts receivable functions handle 
+customer complaints? 
+ 
+ 
+Cash Larceny 
+In the occupational fraud setting, a cash larceny may be defined as the intentional taking of 
+an employer’s cash (the term cash includes both currency and checks) without the consent 
+and against the will of the employer.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.420                         2011 Fraud Examiners Manual  
+A cash larceny scheme can take place in any circumstance in which an employee has access 
+to cash. Every company must deal with the receipt, deposit, and distribution of cash, so 
+every company is potentially vulnerable to a cash larceny scheme. While the circumstances in 
+which an employee might steal cash are nearly limitless, most larceny schemes involve the 
+theft of incoming cash, currency on hand (in a cash register, cash box, etc.), or theft of cash 
+from the victim organization’s bank deposits.  
+ 
+Incoming Cash 
+Theft of Cash from the Register 
+A large percentage of cash larceny schemes occur at the cash register, and for good reason—
+ the register is usually where the cash is. The register (or similar cash collection points like 
+cash drawers or cash boxes) is usually the most common point of access to cash for 
+employees, so it is understandable that this is where larceny schemes frequently occur. 
+Furthermore, there is often a great deal of activity at the register, numerous transactions that 
+require employees to handle cash. This can serve as a cover for the theft of cash. In a flurry 
+of activity, with money being passed back and forth between customer and employee, an 
+employee can often slip cash out of the register and into his pocket undetected.  
+ 
+The most straightforward cash larceny scheme is to simply open the register and remove 
+currency or checks. (See “Cash Larceny from the Register” flowchart.) The theft is often 
+committed as a sale is being conducted so that it appears to be part of the transaction. In 
+other circumstances, the perpetrator waits for a slow moment when no one is around to 
+notice him digging into the cash drawer.  
+ 
+Recall that the difficulty in detecting skimming schemes comes from the fact that the stolen 
+funds are never entered on the victim organization’s accounts. In a larceny scheme, on the 
+other hand, the funds that the perpetrator steals have already been reflected on the register 
+tape. As a result, an imbalance will result between the register tape and the cash drawer.  
+ 
+A register is balanced by comparing the transactions on the register tape to the amount of 
+cash on hand. Sales, returns, and other register transactions that are recorded on the register 
+tape are added to or subtracted from a known balance to arrive at a total for the period in 
+question. The actual cash is then counted and the two totals are compared. If the register 
+tape shows that there should be more cash in the register than what is present, the 
+discrepancy may be due to larceny. 
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.421 
+ 
+ 
+The actual method for taking money at the register — opening the register and removing 
+currency — rarely varies. It is the methods used by perpetrators to avoid getting caught that 
+distinguish larceny schemes. Oddly, in many instances the perpetrator has no plan for 
+avoiding detection. A large part of fraud is rationalizing; the employee convinces himself that 
+he is somehow entitled to what he is taking, or that what he is doing is not actually a crime. 
+Register larceny schemes frequently begin when the perpetrator convinces himself that he is 
+only “borrowing” the funds to cover a temporary monetary need. These people might carry 
+the missing currency in their registers for several days, deluding themselves in the belief that 
+they will one day repay the funds they have stolen.  
+ 
+The employee who does nothing to camouflage his crimes is easily caught. More dangerous 
+is the person taking active steps to hide his crimes. One basic way for an employee to 
+disguise the fact that he is stealing currency is to take money from someone else’s register.  
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.422                         2011 Fraud Examiners Manual  
+In some retail organizations, employees are assigned to certain registers. Alternatively, one 
+register is used and each employee has an access code. When cash is missing from a certain 
+cashier’s register, that cashier is obviously the most likely suspect for the theft. Therefore, by 
+stealing from a coworker’s register, or by using someone else’s access code to enter the 
+register, the perpetrator makes sure that another employee will be the prime suspect in the 
+theft.  
+ 
+EXAMPLE 
+A teller for a retail sales company simply signed onto a register, rang a “no sale” and took 
+currency from the drawer. Over  a period of time, the teller took approximately $6,000 
+through this simple method. In order to get away with the theft, the teller waited until a 
+coworker was on break, then logged onto that person’s register, rang a “no sale” and took 
+the cash. The resulting cash shortage therefore appeared in the register of an honest 
+employee, deflecting attention from the true thief.  
+ 
+A very unsophisticated way to avoid detection is to steal currency in very small amounts over 
+an extended period of time. Because the missing amounts are small, the shortages may be 
+dismissed as accounting errors rather than theft. Typically, the employee becomes dependent 
+on the extra money he is pilfering and his thefts increase in scale or become more frequent, 
+which causes the scheme to be uncovered. Most retail organizations track overages or 
+shortages by employee, making this method largely ineffective. 
+ 
+REVERSING TRANSACTIONS 
+Some employees conceal cash larceny by processing reversing transactions, which cause the 
+register tape to reconcile to the amount of cash on hand after the theft. By processing false 
+voids or refunds, an employee can reduce the cash balance reflected on the register tape.  
+ 
+EXAMPLE 
+A cashier received payments from a customer and recorded the transactions on her system. 
+She stole the payments from the customers, then destroyed the company’s receipts that 
+reflected the transactions. To complete the cover-up, the cashier went back and voided the 
+transactions that she had entered at the time the payments were received. The reversing 
+entries brought the receipt totals in to balance with the cash on hand.  
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.423 
+REGISTER MANIPULATION 
+Instead of using reversing entries, an employee might manually alter the register tape. Again, 
+the purpose of this activity is to force a balance between the cash on hand and the actual 
+cash received. An employee might use white-out to cover up a sale whose proceeds were 
+stolen, or he might simply cross out or alter the numbers on the tape so that the register 
+total and the cash drawer balance. This type of concealment is not common because, in 
+general, the alterations will be noticeable. 
+ 
+ALTERING CASH COUNTS 
+Another method for concealing cash larceny is to alter the cash counts on registers. When 
+cash from a register is totaled and prepared for deposit, an employee simply records the 
+wrong amount so that the cash on hand appears to balance with the total on the register 
+tape. Obviously, employees who deal with the receipt of cash should not be charged with 
+verifying the amount of cash on hand in their own register, but this control is often 
+overlooked.  
+ 
+DESTROYING REGISTER TAPES   
+If the fraudster cannot make the cash and the tape balance, the next best thing is to prevent 
+others from computing the totals and discovering the imbalance. Employees who are 
+stealing from the register sometimes destroy detail tapes that would implicate them in a 
+crime. When detail tapes are missing or defaced, it may be because someone is trying to 
+conceal a fraud.  
+ 
+Other Larceny of Sales and Receivables 
+Not all receipts arrive via the cash register. Employees can just as easily steal money received 
+at other points. One of the more common methods is to take checks received through the 
+mail, post the payments to the accounting system, but steal the checks. (See “Other Cash 
+Larceny” flowchart.) Obviously, this type of scheme leaves the cash account out of balance. 
+From a perpetrator’s perspective, it would make  much more sense to take checks that have 
+not yet been posted to customer accounts. Often, this type of cash larceny scheme is 
+committed by an employee who claims to only be “borrowing” the funds for a short while—
+ one of the classic rationalizations in occupational fraud schemes.  
+ 
+Those employees who have total control of a company’s accounting system can overcome 
+the problem of out-of-balance accounts. It is common, especially in small businesses, for a 
+single person to control all of a company’s deposits and ledgers. These employees can steal 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.424                         2011 Fraud Examiners Manual  
+incoming cash that has already been posted, then conceal the crime by making unsupported 
+entries in the victim organization’s books. Poor separation of duties is very often the 
+weakness that allows cash larceny schemes to go undetected.  
+ 
+EXAMPLE 
+An employee posted customer payments to the accounts receivable journal but stole the cash 
+received. This resulted in an imbalance in the victim company’s cash account. But the 
+perpetrator had control over the company’s deposits and all its ledgers. This allowed her to 
+conceal her crime by making unsupported entr ies in the company’s books that produced a 
+fictitious balance between receipts and ledgers.  
+ 
+In circumstances in which payments are stolen but nonetheless posted to the cash receipts 
+journal, reversing entries are sometimes used to balance the victim company’s accounts. The 
+incoming payment is initially credited to the customer’s account, but the entry is later 
+reversed with an unauthorized adjustment such as a “courtesy discount.” 
+ 
+A less elegant way to hide a crime is to simply destroy all records that might prove that the 
+perpetrator has been stealing. This “slash and burn” concealment technique does not 
+prevent the victim company from realizing that it has been robbed, but it may help conceal 
+the identity of the thief.  
+ 
+Cash Larceny from the Deposit 
+At some point in every revenue-generating business, someone must physically take the 
+company’s currency and checks to the bank. This person or persons, left alone literally 
+holding the bag, will have an opportunity to take a portion of the money prior to depositing 
+it into the company’s accounts.  
+ 
+Typically, when a company receives cash, someone is assigned to tabulate the receipts, list 
+the form of payment (currency or check), and prepare a deposit slip for the bank. Then 
+another employee takes the cash and deposits it in the bank. The person who made out the 
+deposit generally retains one copy of the slip. This copy is matched to a receipted copy of 
+the slip, which is stamped by the bank when the deposit is made.  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.425 
+ 
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.426                         2011 Fraud Examiners Manual  
+This procedure is designed to prevent the theft of funds from the deposit, but thefts still 
+occur, often because the process is not adhered to. (See “Cash Larceny from the Deposit” 
+flowchart.) For example, when one person is in charge of preparing the deposit slips, making 
+the deposit, and reconciling the bank statement, that person can pilfer money from the day’s 
+receipts and conceal it by falsifying the deposit slips. If the day’s receipts are $1,000, the 
+perpetrator might fill out a deposit slip for $5 00 and steal the other $500. The employee then 
+makes correspondingly false entries in the books, understating the day’s receipts. This 
+process creates a false balance in the victim organization’s records.  
+ 
+A failure to reconcile the bank copy of the deposit slip with the office copy can result in 
+fraud. When the person making the deposit knows his company does not reconcile the two 
+copies, he can steal cash from the deposit on the way to the bank and alter the deposit slip 
+so that it reflects a lesser amount. In some cases sales records will also be altered to match 
+the diminished deposit.  
+ 
+When cash is stolen from the deposit, the receipted deposit slip will of course be out of 
+balance with the company’s copy of the deposit slip (unless the perpetrator also prepared the 
+deposit). To correct this problem, some perpetrators alter the bank copy of the deposit slip 
+after it has been validated. This brings the two copies back into balance.  
+ 
+EXAMPLE 
+An employee altered 24 deposit slips and validated bank receipts in the course of a year to 
+conceal the theft of over $15, 000. These documents were altered with white-out or a ball 
+point pen to match the company’s cash reports.  
+ 
+One common-sense issue that is sometimes over looked by organizations is the handling of 
+the deposit on the way to the bank. Once prepared, the deposit should immediately be put in 
+a safe place until it is taken to the bank. Unfortunately, some organizations leave their 
+deposits carelessly unattended. For example, some companies prepare the daily deposit, then 
+leave it in the office overnight to be taken to the bank the next morning. Employees familiar 
+with this routine have little trouble pilfering checks and currency from the deposit after 
+hours.  
+ 
+ 
+ 
+  
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.427 
+ 
+ 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.428                         2011 Fraud Examiners Manual  
+As with all cash larceny schemes, stealing from the company deposit can be rather difficult 
+to conceal. In most cases these schemes are only successful in the long term when the 
+person who counts the cash also makes the deposit. In any other circumstance the success of 
+the scheme depends primarily on the inattentiveness of those charged with preparing and 
+reconciling the deposit. 
+ 
+Deposit Lapping   
+One method that fraudsters sometimes use to conceal cash larceny from the deposit is 
+lapping. Lapping occurs when an employee steals the deposit from day one, then replaces it 
+with day two’s deposit. Day two is replaced with day three, and so on. The perpetrator is 
+always one day behind, but as long as no one demands an up-to-the minute reconciliation of 
+the deposits to the bank statement—and if daily receipts do not drop precipitously — he may 
+be able to avoid detection for a period of time. Lapping is discussed in more detail in the 
+Skimming section.  
+ 
+Deposits in Transit 
+A final strategy used to conceal stolen deposits is to carry the missing money as deposits in 
+transit, which are a way of accounting for discrepancies between the company’s records and 
+the bank statement.  
+ 
+EXAMPLE 
+An employee was responsible for receiving collections, issuing receipts, posting transactions, 
+reconciling accounts, and making deposits. This employee took over $20,000 in collections 
+from her employer over a five-month period. To hide her theft, the perpetrator carried the 
+missing money as deposits in transit, meaning that the missing money would appear on the 
+next month’s bank statement. Of course, it never did. The balance was carried for several 
+months as “d.i.t.” until an auditor recognized the discrepancy and put a halt to the fraud.  
+ 
+Detection of Cash Larceny 
+Receipt Recording  
+In-depth analysis of the cash receipts and recording process is the key to detecting a cash 
+larceny scheme. Areas of analysis may include: 
+• Mail and register receipt points. 
+• Journalizing and recording of the receipts. 
+• Security of the cash from receipt to deposit. 
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.429 
+Control Objectives 
+In analyzing the cash receipt process, it is important to meet the following control 
+objectives: 
+• Cash receipts must be complete. Each day’s receipts must be promptly collected and 
+deposited in full. 
+• Each receivable transaction recorded must be legitimate and have supporting 
+documentation.  
+• All information included in the transaction must be correctly verified as to amount, date, 
+account coding, and descriptions. 
+• The cash must be safeguarded while in the physical possession of the company. 
+• There must be appropriate personnel responsible for overseeing cash control processes.  
+• Cash register tape totals should be reconciled to the amount of cash in drawer. 
+• An independent listing of cash receipts should be prepared before the receipts are 
+submitted to the cashier or accounts receivable bookkeeper. 
+• An independent person should verify the listing against the deposit slips. 
+• Authenticated deposit slips should be retained and reconciled to the corresponding 
+amounts in the cash receipts records. 
+• The bank deposit should be made by someone other than the cashier or the accounts 
+receivable bookkeeper. A person independent of the cash receipts and accounts 
+receivable functions should compare entries to the cash receipts journal with: 
+? Authenticated bank deposit slips 
+? Deposit per the bank statements 
+• Areas where physical handling of cash takes place should be reasonably safeguarded. 
+ 
+Analytical Review 
+Analyzing the relationship between sales, cost of sales, and the returns and allowances can 
+detect inappropriate refunds and discounts.  
+• If a large cash fraud is suspected, a thorough review of these accounts may enlighten the 
+examiner as to the magnitude of the suspected fraud.  
+• An analysis of refunds and returns and allowances with the actual flow of inventory may 
+reveal some fraud schemes. The refund should cause an entry to inventory, even if it is 
+damaged inventory. Likewise, a return will cause a corresponding entry to an inventory 
+account.  
+  
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.430                         2011 Fraud Examiners Manual  
+• There should be a linear relationship between sales and returns and allowances over a 
+relevant range. Any change in this relationship may point to a fraud scheme unless there 
+is another valid explanation such as a change in the manufacturing process, change in 
+product line, or change in price. 
+ 
+Detection at the Register 
+• As cash is received, whether at a register or through the mail, it is important to ensure 
+that the employees responsible for completing these important tasks are informed of 
+their responsibility and properly supervised.  
+• Access to the register must be closely monitored and access codes must be kept secure.  
+• An employee other than the register worker should be responsible for preparing register 
+count sheets and agreeing them to register totals.  
+• Popular concealment methods must be watched for. These methods, discussed earlier, 
+include checks for cash, reversing transactions, register tape destruction or alteration, 
+and sales cash counts. 
+• Complete register documentation and cash must be delivered to the appropriate 
+personnel in a timely manner.  
+• Cash thefts are sometimes revealed by customers who have either paid money on an 
+account and have not received credit, or in some cases, when they notice that the credit 
+they have been given does not agree with the payment they have made. Complaints and 
+inquiries are also received frequently from banks. 
+ 
+Cash Account Analysis 
+Cash larceny can be detected by reviewing and analyzing all journal entries made to the cash 
+accounts. This review and analysis should be performed on a regular basis. If an employee is 
+unable to conceal the fraud through altering the source documents, such as the cash register 
+tape, then he may resort to making a journal entry directly to cash. In general (and except in 
+financial institutions), there are very few instances in everyday business activity where an 
+independent journal entry is necessary for cash. One of these exceptions is the recording of 
+the bank service charge. However, this is an easy journal entry to trace to its source 
+documentation, namely the bank statement. Therefore, all other entries directly to cash are 
+suspect and should be traced to their source documentation or explanation. Suspect entries 
+will generally credit the cash account and correspondingly debit various other accounts such 
+as a sales contra account or bad debt expenses. 
+ 
+ 
+Financial Transactions  Asset Misappropriation: Cash Receipts 
+2011 Fraud Examiners Manual   1.431 
+Prevention of Cash Larceny 
+Segregation of Duties 
+The primary prevention of cash larceny is segregation of duties. Whenever one individual 
+has control over the entire accounting transaction (e.g., authorization, recording, and 
+custody), the opportunity is present for cash fraud. Each of the following duties and 
+responsibilities should ideally be segregated:  
+• Cash receipts 
+• Cash counts 
+• Bank deposits 
+• Deposit receipt reconciliation 
+• Bank reconciliations 
+• Posting of deposits 
+• Cash disbursements 
+ 
+If any one person has the authority to collect the cash, deposit the receipts, record that 
+collection, and disburse company funds, the risk that fraud can occur is high. 
+ 
+Assignment Rotation and Mandatory Vacations 
+Many internal fraud schemes are continuous in nature and require ongoing efforts by the 
+employee to conceal defalcations. Mandatory job rotation is an excellent method of 
+detecting cash fraud. By establishing a mandatory job or assignment rotation, the 
+concealment element is interrupted. If mandatory vacations are within the company’s 
+policies, it is important that during the employee’s absence, the normal workload of that 
+employee be performed by another individual. The purpose of mandatory vacations is lost if 
+the work is allowed to remain undone during the employee’s time off.  
+ 
+Surprise Cash Counts and Procedure Supervision 
+Surprise cash counts and supervisory observations are a useful fraud prevention method if 
+properly used. It is important that employees know that cash will be counted on a sporadic 
+and unscheduled basis. These surprise counts must be made at all steps of the process from 
+receiving the check to deposit. 
+ 
+Physical Security of Cash 
+• Ensure proper segregation of duties of key personnel. 
+• Review the check and cash composition of the daily bank deposit during unannounced 
+cash counts and during substantive audit tests of cash receipts. 
+Asset Misappropriation: Cash Receipts Financial Transactions   
+1.432                         2011 Fraud Examiners Manual  
+• Review the entity’s records of the numerical series of printed prenumbered receipts, and 
+verify that these receipts are used sequentially (including voided documents). 
+• Review the timeliness of deposits from locations to the central treasurer function. 
+• Observe cash receipting operations of locations. 
+• Prepare and review a schedule of all cash receipting functions from a review of revenue 
+reports, from cash receipt forms at the central treasurer function, and from discussion 
+with knowledgeable employees. 
+• Prepare and analyze an inventory of all imprest and change funds by purpose, amount, 
+custodian, date, and location. 
+• Audit all revenue sources on a cycle. 
+• Periodically use comparative analytical reviews to determine which functions have 
+unfavorable trends. 
+• Determine reason(s) why revenue has changed from previous reporting periods. 
+• Confirm responses obtained from managers by using alternative records or through 
+substantive audit tests. 
+• Adhere to a communicated policy of unannounced cash counts. 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.501 
+
+
+
+:
+
+
+asset misappropri cash receipt
+asset misappropri ar by far the most common of all occup fraud there ar
+three major categori of asset misappropri scheme cash receipt scheme will be
+discuss in thi section fraudul disburs of cash will be address in the next
+section and the follow section will cover scheme involv the theft of inventori and
+other noncash asset
+cash is the focal point of most account entri cash both on deposit in bank and on
+hand as petti cash can be misappropri through mani differ scheme these scheme
+can be either onbook or offbook depend on where thei occur
+cash receipt scheme fall into two categori skim and larceni the differ in the two
+type of fraud depend complet on when the cash is stolen cash larceni is the theft of
+monei that ha alreadi appear on a victim organ book while skim is the theft
+of cash that ha not yet been record in the account system the wai in which an employe
+extract the cash mai be exactli the same for a cash larceni or skim scheme
+skim
+skim is the remov of cash from a victim entiti prior to it entri in an account
+system employe who skim from their compani steal sale or receiv befor thei ar
+record in the compani book skim scheme ar known as offbook fraud
+mean monei is stolen befor it is record in the victim organ account thi
+aspect of skim scheme mean thei leav no direct audit trail becaus the stolen fund
+ar never record the victim organ mai not be awar that the cash wa ever
+receiv consequ it mai be veri difficult to detect that the monei ha been stolen
+thi is the prime advantag of a skim scheme to the fraudster
+skim is on of the most common form of occup fraud it can occur at ani point
+where cash enter a busi so almost anyon who deal with the process of receiv cash
+mai be in a posit to skim monei thi includ salespeopl teller waitperson and
+other who receiv cash directli from custom
+asset misappropri cash receipt financi transact
+1402 2011 fraud examin manual
+in addit mani skim scheme ar perpetr by employe whose duti includ
+receiv and log payment made by custom through the mail these employe slip
+check out of the incom mail instead of post those check to the proper revenu or
+receiv account those who deal directli with custom or who handl custom
+payment ar obvious the most like candid to skim fund
+sale skim
+the most basic skim scheme occur when an employe sell good or servic to a
+custom collect the custom payment but make no record of the sale the employe
+simpli pocket the monei receiv from the custom instead of turn it over to hi
+employ see unrecord sale flowchart
+consid on of the simplest and most common sale transact a sale of good at the
+cash regist in a normal transact a custom purchas an item and an employe enter
+the sale on the regist the regist tape reflect that the sale ha been made and show that
+a certain amount of cash the purchas price of the item should have been place in the
+regist by compar the regist tape to the amount of monei on hand it mai be possibl
+to detect theft for instanc if there were 500 worth of sale record on a particular
+regist on a given dai but onli 400 cash in the regist it would be obviou that someon
+had stolen 100 assum no begin cash balanc
+if the employe is skim monei howev it will be imposs to detect theft simpli by
+compar the regist tape to the cash drawer return to the exampl in the paragraph
+abov assum that an employe want to make off with 100 through the cours of the
+dai there ar 500 worth of sale at hi regist on sale is for 100 when the 100 sale is
+made the employe doe not record the transact on hi regist the custom pai 100
+and take the merchandis home but instead of place the monei in the cash drawer the
+employe pocket it in order to creat the appear that the sale is be enter in the
+regist the employe might ring a no sale or some other noncash transact sinc the
+employe did not record the sale at the end of the dai the regist tape will onli reflect 400
+in sale there will be 400 on hand in the re gister 500 in total sale minu the 100 that
+the employe stole so the regist will balanc thu by not record the sale the employe
+is abl to steal monei without the miss fund appear on the book of cours the
+theft will show up indirectli in the compani record as inventori shrinkag but the book
+will provid no direct evid of the theft
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1403
+asset misappropri cash receipt financi transact
+1404 2011 fraud examin manual
+the most difficult part in skim at the regist is that the employe must commit the
+overt act of take monei if the employe take the custom monei and shove it into hi
+pocket without enter the transact on the regist the custom will probabl suspect
+that someth is wrong and might report the conduct to anoth employe or a manag it
+is also possibl that a manag a fellow employe or a surveil camera will spot the
+illeg conduct therefor it is often desir for a perpetr to act as though he is
+properli record a transact while he skim sale
+regist manipul
+some employe might ring a no sale or ot her noncash transact to mask the theft of
+sale the fals transact is enter on the regist so that it appear a sale is be rung up
+the perpetr open the regist drawer and pretend to place the cash he ha just receiv
+in the drawer but in realiti he pocket the cash to the casual observ it look as though
+the sale is be properli record
+some employe mai also rig their regist so that a sale can be enter on the regist kei
+but will not appear on the regist tape the employe can then safe skim the sale anyon
+observ the employe will see the sale enter see the cash drawer open etc yet the
+regist tape will not reflect the transact
+exampl
+a servic station employe hid stolen gasolin sale by simpli lift the ribbon from the
+printer on hi regist he collect and pocket the sale which were not record on the
+regist tape the fraudster would then roll back the tape to the point where the next
+transact should appear and replac the ribb on the next transact would be print
+without leav ani blank space on the tape appar leav no trace of the fraud
+when the ribbon is remov from the regist the result is a blank space on the regist tape
+where the skim sale should have been print unusu gap between transact on a
+regist tape mai mean that someon is skim sale
+fraudster will often manual roll back the tape when thei replac the ribbon on their
+regist so that there is no gap between transact most regist transact howev
+ar sequenti number if a transact ha been omit from the regist tape the result
+is a break in the sequenc for instanc if an employe skim sale 155 then the regist
+tape would onli show transact 153 154 156 157 and so on the miss
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1405
+transact number omit becaus the ribbon wa lift when thei took place would
+indic fraud
+skim dure nonbusi hour
+anoth wai to skim unrecord sale is to conduct sale dure nonbusi hour for
+instanc some employe will open store on weekend or after hour without the
+knowledg of the owner thei can pocket the proce of all sale made dure these time
+becaus the owner have no idea that their store ar even open for busi
+exampl
+a manag of a retail facil went to work two hour earli everi dai open hi store at
+800 am instead of 1000 am and pocket all the sale made dure these two hour
+he rang up sale on the regist as if it wa busi as usual but then remov the regist
+tape and all the cash he had accumul the manag then start from scratch at 1000
+as if the store wa just open the tape wa destroi so there wa no record of the befor
+hour revenu
+to thi point skim ha been discuss in the context of cash regist transact but
+skim doe not have to occur at a regist some of the most costli skim scheme
+ar perpetr by employe who work at remot locat or without close supervis
+thi can includ onsit sale person who do not deal with regist independ salesmen
+who oper offsit and employe who work at branch or satellit offic these
+employe have a high level of autonomi in their job which often translat into poor
+supervis and in turn to fraud
+skim of offsit sale
+sever industri reli on remot salesperson to gener revenu the fact that these
+employe ar larg unsupervis put them in a good posit to skim revenu for
+exampl consid the apart rental industri where apart manag handl the
+daytodai oper without much oversight a common scheme is for an onsit employe to
+identifi the tenant who pai in currenc and remov them from the book thi caus a
+particular apart to appear as vacant on the record when in fact it is occupi the
+manag can skim the rental payment from the vacant unit and the revenu will never be
+miss as long as no on physic check the apart the perpetr can continu
+skim indefinit
+asset misappropri cash receipt financi transact
+1406 2011 fraud examin manual
+anoth rentalskim scheme occur when apart ar rent out but no leas is
+sign on the book the apart will still a ppear to be vacant even though there ar
+tenant on the premis the perpetr can skim the rental payment from these tenant
+without fear that thei will show up as past due in the compani record sometim the
+employe in these scheme work in conjunct with the renter and give a special rate to
+these peopl in return the renter payment ar made directli to the employe and ani
+complaint or mainten request ar direct onli to that employe so the tenant
+presenc in the apart remain hidden
+instead of skim rent some properti manag focu on less predict form of
+revenu like applic fee and late fee ownership mai know when rent is due and how
+mani apart ar occupi but often there is no control in place to track the number of
+peopl who fill out rental applic or how mani tenant pai their rent a dai or two late
+properti manag can make thousand of dollar by skim these nickel and dime
+payment
+offsit skim is by no mean limit to the apart rental industri the scheme
+describ abov can easili translat into ani arena where those who gener or collect
+revenu oper in an independ fashion a prime exampl is the insur agent who
+sell polici to custom then neglect to file the polici with the carrier most custom
+do not want to file claim on a polici especi earli in the term for fear that their
+premium will rise know thi the agent k eep all document on the polici instead
+of turn it over to the carrier the agent is abl to skim the custom payment becaus
+the carrier doe not know the polici exist the custom continu to make hi payment
+think that he is insur when in fact the polici is a ruse
+poor collect procedur
+poor collect and record procedur can make it easi for an employe to skim sale or
+receiv
+exampl
+a government author that dealt with public hous wa victim becaus it fail to
+item daili receipt thi agenc receiv pa yment from sever public hous tenant
+but at the end of the dai monei receiv from tenant wa list as a whole receipt
+number were not us to item iz the payment made by tenant so there wa no wai to
+pinpoint which tenant had paid how much consequ the employe in charg of
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1407
+collect monei from tenant wa abl to skim a portion of their payment she simpli did
+not record the receipt of over 10000 her action caus certain account receiv to be
+overst where tenant payment were not properli record
+underst sale
+the discuss abov focus on pure offbook sale those which ar never record
+underst sale work differ becaus the transact in question is post to the
+book but for a lower amount than what the perpetr actual collect see
+underst sale flowchart on wai employe commit underst sale scheme is by
+alter receipt or prepar fals receipt that misstat the amount of sale
+exampl
+an employe wrote receipt to custom for their purchas but she remov the carbon
+paper back on the receipt so that thei did not produc a compani copi the employe
+then us a pencil to prepar compani copi that show lower purchas price for
+exampl if the custom had paid 100 the compani copi might reflect a payment of 80
+the employe skim the differ between the actual amount of revenu and the amount
+reflect on the fraudul receipt
+underst sale scheme ar commonli undertaken by employe who work at the cash
+regist in a typic scheme an employe enter a sale total that is lower than the amount
+actual paid by the custom the employe skim the differ between the actual
+purchas price of the item and the sale figur record on the regist for instanc if an
+item is sold for 100 the employe could ring up the sale of an 80 item and skim the excess
+20
+rather than reduc the price of an item an employe might record the sale of fewer item if
+100 unit ar sold for instanc an employe might onli record the sale of 50 unit and skim
+the excess receipt
+a similar method is us when sale ar made on account the bill to the custom reflect
+the true amount of the sale but the receiv is underst in the compani book for
+instanc a compani might be ow 1000 but the receiv is record as 800 sale ar
+correspondingli underst by 200 when the custom make payment on the account
+the employe can skim 200 and post the 800 to the account the account will appear to
+have been paid in full
+asset misappropri cash receipt financi transact
+1408 2011 fraud examin manual
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1409
+fals discount
+those employe with the author to grant discount mai util thi author to skim
+sale and receiv in a fals discount skim scheme an employe accept full
+payment for an item but record the transact as if the custom had been given a
+discount the employe skim the amount of the discount for exampl on a 100
+purchas if an employe grant a fals discount of 20 percent he could skim 20 and leav
+the compani book in balanc
+theft of check receiv through the mail
+check receiv through the mail ar a frequent target of employe seek illicit gain
+theft of incom check usual occur when a singl employe is in charg of open the
+mail and record the receipt of payment thi employe simpli steal on or more
+incom check instead of post them to custom account see theft of incom
+check flowchart when the task of receiv and record incom payment is left to a
+singl person it is all too easi for that employe to make off with an occasion check
+exampl
+a mailroom employe stole over 2 million in govern check arriv through the mail
+thi employe simpli identifi and remov envelop deliv from a govern agenc
+known to send check to the compani us a group of accomplic act under the name
+of fictiti person and compani thi indi vidual wa abl to launder the check and
+divid the proce with hi croni
+the theft of check is not usual complic but it is sometim more difficult to conceal a
+check theft scheme than other form of skim if the stolen check were payment on
+the victim compani receiv then these payment were expect as receiv becom
+past due the victim compani will send notic of nonpay to it custom a custom
+is like to complain when he receiv a second bill for a payment he ha alreadi made in
+addit the cash check will serv as evid that the custom made hi payment the
+method us to conceal check theft scheme will be discuss later in thi section
+asset misappropri cash receipt financi transact
+1410 2011 fraud examin manual
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1411
+check for currenc substitut
+the intellig crimin will gener prefer to steal currenc rather than check if given the
+opportun the reason why ar obviou first currenc is harder to trace than a check a
+cash check eventu return to the person who wrote it and mai provid evid of
+who cash it or where it wa spent endors bank stamp and so forth mai indic
+the ident of the thief currenc on the other hand disappear into the economi onc it is
+stolen
+the second reason that currenc is prefer to a check is the difficulti in convert the
+check when currenc is stolen it can be spent immedi a check on the other hand
+must be endors and cash or deposit befor the thief can put hi hand on the monei
+it repres to avoid thi problem employe who steal unrecord check will frequent
+substitut them for receipt currenc if for exampl an employe skim an incom
+check worth 500 he can add the check to the dai receipt and remov 500 in currenc
+the total receipt will match the amount of cash on hand but payment in currenc ar
+replac by the check
+exampl
+an employe respons for receipt ticket and fine payment on behalf of a municip
+abus her posit and stole incom revenu es for nearli two year when payment in
+currenc were receiv by thi individu she issu receipt but when check were receiv
+she did not the check payment were theref or unrecord revenuesrip for skim
+these unrecord check were place in the dai receipt and an equal amount of cash wa
+remov the receipt match the amount of monei on hand except that payment in
+currenc had been replac with check
+the check for currenc substitut is veri common while these substitut make it easier
+for a crook to convert stolen payment the problem of conceal the theft still remain
+the fact that the stolen check ar not post mean that some custom account ar in
+danger of becom past due if thi happen the perpetr scheme is in danger becaus
+these custom will almost sure complain about the misappl of their payment
+howev the misappli payment can be conceal on the book by forc account total
+steal custom account statement lap and make other fraudul account
+entri these conceal techniqu will be discuss in more detail in the skim
+receiv section
+asset misappropri cash receipt financi transact
+1412 2011 fraud examin manual
+check for currenc substitut ar especi common when an employe ha access to
+some unexpect sourc of fund such as a manufactur refund that arriv outsid the
+regular stream of sale and receiv payment in these case the check can be swap
+for cash and there is usual no addit step requir to conceal the crime the refund
+check an unexpect sourc of fund will not be miss by the victim organ and the
+parti who issu the check expect no good or servic in return
+skim receiv
+it is gener more difficult to conceal the skim of receiv than the skim of
+sale becaus receiv payment ar expect the victim organ know the custom
+ow monei and it is wait for the payment to arriv when unrecord sale ar skim
+it is as though the sale never exist but when receiv ar skim the absenc of the
+payment appear on the book as a delinqu account in order to conceal a skim
+receiv a perpetr must somehow account for the payment that wa due to the
+compani but never receiv there ar a number of common techniqu fraudster us to
+conceal the skim of receiv
+forc account balanc or destroi transact record
+among the most danger receiv skim scheme ar those in which the
+perpetr is in charg of collect and post payment if a fraudster ha a hand in both
+end of the receipt process he can falsifi record to conceal the theft of receiv
+payment for exampl the fraudster might post the custom payment to their
+receiv account even though the payment will never be deposit thi keep the
+receiv from ag but it creat an imbal in the cash account the perpetr hide
+the imbal by forc the total on the cash account overst it to match the total
+post to account receiv
+exampl
+the chief financi offic of a small corpor stole approxim 100000 from hi
+compani by divert custom check thi in dividu control all the book and record
+for the victim compani he stole check from custom and deposit them in hi person
+bank account the custom payment were still post to keep the receiv from ag
+the perpetr stole check in an amount equal to the victim compani tax liabil to
+keep the book in balanc he would prepar check payabl to the ir but he never
+mail them the check were record in the victim record and the fals disburs
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1413
+offset the amount of fals post to acco unt receiv the scheme wa uncov when
+the ir notifi the victim compani that it tax were delinqu
+some fraudster simpli destroi all record that might prove that thei have been steal
+destroi record en mass doe not prevent the victim organ from realiz that it
+is be rob but it mai help conceal the ident of the thief
+lap
+lap custom payment is on of the most common method of conceal receiv
+skim lap is the credit of on a ccount through the abstract of monei from
+anoth account it is the fraudster version of rob peter to pai paul
+suppos a compani ha three custom a b and c when as payment is receiv the
+fraudster steal it instead of post it to as account custom a expect that hi account
+will be credit with the payment he ha made if the payment ha not been post by the
+time as next statement is mail he will see that the payment wa not appli to hi
+account and will almost certainli complain to avoid thi the thief must take some action to
+make it appear that the payment wa post
+when bs check arriv the thief post thi monei to as account payment now appear to
+be uptod on as account but bs account is behind when cs payment is receiv the
+perpetr appli it to bs account thi process continu indefinit until on of three
+thing happen 1 someon discov the scheme 2 restitut is made to the account or
+3 some conceal entri is made to adjust the account receiv balanc
+exampl
+a clerk work for a govern agenc commit a lap scheme that involv the
+theft of more than 150 custom payment caus a total misappropri of more than
+30000 in govern fund thi individu stole tax fee and other incom
+payment from custom to cover hi person expens when a custom payment wa
+stolen the document on that payment would be hidden until a later payment wa
+receiv the later payment would be appli to the earlier custom record
+as the rotat schedul of appli and misappli payment becam more and more
+complic the perpetr insist on exert more and more control over the receipt
+process he insist on handl all incom mail prepar the deposit and deliv the
+asset misappropri cash receipt financi transact
+1414 2011 fraud examin manual
+deposit to the bank so that he could continu to delai the post of payment the fraud
+wa detect in larg part becaus sever consum complain that thei had not receiv
+confirm of their payment even though their check had clear month earlier
+becaus lap scheme can becom veri intric fraudster sometim keep a second set
+of book on hand detail the true natur of the payment receiv in mani skim
+case a search of the fraudster work area will reveal a set of record track the actual
+payment and how thei have been misappli to conceal the theft it mai seem odd that
+peopl would keep record of their illeg activ on hand but mani lap scheme
+becom extrem complic as more and more payment ar misappli the second set
+of record help the perpetr keep track of the fund that were stolen and which account
+need to be credit to conceal the fraud uncov these record if thei exist will greatli
+facilit the investig of a lap scheme
+while lap is more commonli us to conceal receiv skim it can also be us
+to disguis the skim of sale employe sometim steal all or part of on dai receipt
+and replac them with the receipt from the follow dai thi type of conceal
+requir the employe to delai make the compani deposit until enough monei can be
+collect to recoup the stolen fund if an organ rigidli adher to a deposit schedul
+it is unlik that lap will be effect in conceal thi type of fraud
+stolen statement
+when employe skim receiv thei mai let the target account ag instead of
+attempt to forc the balanc in other word thei steal an incom check intend as
+payment on a receiv and thei simpli act as if the check never arriv thi method
+keep the victim organ cash account in balanc becaus the stolen payment is never
+post
+of cours if the custom payment is not post the receiv will eventu becom
+past due the custom will have proof in the form of a cancel check that a payment wa
+made on the account the question will aris where did the payment go the answer of
+cours is that it went into the fraudster pocket so the goal of the fraudster must be to
+keep the custom from realiz that hi account wa not credit with the payment if thi
+can be accomplish the custom will not complain about the miss payment and the
+victim organ will not realiz that skim ha occur
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1415
+on wai fraudster attempt to conceal the fact that thei have skim a payment from a
+custom is to intercept the custom account statement andor late notic in some
+case the perpetr intercept the account statement by chang the custom address in
+the bill system so that statement ar sent directli to the perpetr home or to an
+address where he can retriev them in other instanc the perpetr physic intercept
+the statement befor thei ar mail
+onc the real statement indic that the payment wa not receiv ha been intercept
+the fraudster usual alter the statement or produc a counterfeit the fals statement
+indic that the custom payment wa properli post thi lead the custom to believ
+that hi account is uptod and keep the custom from complain about stolen
+payment
+fals account entri
+intercept the custom statement will keep him in the dark as to the statu of hi
+account but as long as the custom payment ar be skim hi account is slip
+further and further past due the perpetr must bring the account back up to date in
+order to conceal hi crime lap is on wai to keep account current as the employe
+skim from them anoth wai is to make fals entri in the victim organ
+account system
+debit to expens account
+an employe might conceal the skim of fund by make unsupport entri in the
+victim compani book if a payment is made on a receiv for instanc the proper entri
+is a debit to cash and a credit to the receiv instead of debit cash the employe might
+choos to debit an expens account thi transact still keep the compani book in
+balanc but the incom cash is never record in addit the custom receiv
+account is credit so it will not becom delinqu
+debit to ag or fictiti receiv
+the same method discuss abov is us when employe debit exist or fictiti
+account receiv in order to conceal skim cash for exampl an employe who ha
+skim on custom payment might add the stolen amount to ag account that ar
+soon to be written off as uncollect or to veri larg account where a small debit might
+go unnot
+asset misappropri cash receipt financi transact
+1416 2011 fraud examin manual
+some perpetr also set up complet fictiti account and debit them for the cost of
+skim receiv the employe then simpli wait for the fictiti receiv to ag
+and be written off as uncollect in the meantim the fictiti receiv carri the cost
+of a skim scheme where it will not be detect
+write off account balanc
+some employe cover their skim by post entri to contra revenu account such as
+discount and allow if for instanc an employe intercept a 1000 payment he
+would creat a 1000 discount on the acco unt to compens for the miss monei
+anoth account that might be us in thi type of conceal is the bad debt expens
+account
+exampl
+a bill manag wa author iz to write off certain patient balanc as hardship
+allow thi employe accept payment from patient then instruct bill personnel
+to write off the balanc in question the payment were never post thei were intercept
+by the bill manag she cover approxim 30000 in stolen fund by us her
+author to write off patient balanc
+inventori pad
+a problem for fraudster in some skim scheme is the victim organ inventori
+offbook sale of good will alwai leav an in ventori shortag and a correspond rise in
+the cost of good sold
+when a sale of good is made the physic inventori is reduc by the amount of
+merchandis sold for instanc when a retail sell a pair of shoe there is on less pair of
+shoe in the stock room if thi sale is not record howev the shoe ar not remov
+from the perpetu inventori record thu there is on less pair of shoe on hand than in
+the perpetu inventori a reduct in the physic inventori without a correspond
+reduct in the perpetu inventori is known as shrinkag
+when an employe skim sale of servic there is no shrinkag becaus there is no
+inventori for servic but when sale of good ar skim shrinkag alwai occur some
+amount of shrinkag ar expect due to custom theft faulti product and spoilag but
+high level of shrinkag serv as a warn that a compani could be a victim of occup
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1417
+fraud the gener method us to conceal inventori shrinkag ar discuss in detail in the
+inventori and other asset section
+detect of skim scheme
+the follow ar some detect method that mai be effect in detect skim
+scheme
+receipt or sale level detect
+kei analyt procedur such as vertic and horizont analysi of sale account can be
+us for skim detect on a grand scale these procedur analyz chang in the
+account and can possibl point to skim problem includ underst sale
+ratio analysi can also provid kei to the detect of skim scheme these
+procedur ar discuss in detail in the fraudul financi statement section
+detail inventori control procedur can also be util to detect inventori shrinkag due
+to unrecord sale inventori detect method includ statist sampl trend analysi
+review of receiv report and inventori record verif of materi requisit and
+ship document as well as actual physic inventori count these procedur ar
+review in the section on inventori and other asset
+journal entri review
+skim can sometim be detect by review and analyz all journal entri made to
+the cash and inventori account journal entri involv the follow topic should be
+examin
+fals credit to inventori to conceal unrecord or underst sale
+writeoff of lost stolen or obsolet inventori
+writeoff of account receiv account
+irregular entri to cash account
+detect lap of sale or receiv
+lap can usual be detect by compar the date of the custom payment with the
+date the custom account ar post thi will requir an examin of the sourc
+document such as the composit of bank deposit discrep should be investig
+asset misappropri cash receipt financi transact
+1418 2011 fraud examin manual
+confirm of custom account is anoth method that might detect lap
+confirm ar especi effect on larg account where the time valu of monei is an
+issu howev custom who pai on invoic rather than on balanc might not know the
+exact balanc of their account if thi is the case it might be more effect to confirm by
+invoic and reconstruct the account balanc us the sourc document in the file and the
+result of the confirm if fraud is suspect ask the custom or the bank to return a
+copi of both the front and the back of the check us to pai specif invoic match the
+data on the check copi with the post date in the custom account
+prevent of skim scheme
+receipt or sale level control
+as with most fraud scheme intern control procedur ar a kei to prevent of
+skim scheme an essenti part of develop control procedur is manag
+commun to employe control whether or not an employe will not record a sale
+underst a sale or steal incom payment is extrem difficult
+gener control
+sale entri and gener ledger access control should includ document polici and
+procedur which ar commun directli from manag the control procedur
+will gener cover the follow subject
+appropri segreg of duti and access control procedur regard who make
+ledger transact will be follow
+transact must be properli record as to amount date of occurr and ledger
+account
+proper safeguard measur will be adopt to ensur physic access to the account
+system addit measur should ensur the secur of compani asset
+independ reconcili as well as intern verif of account will be perform
+on ledger accounts1
+skim control
+the discoveri of theft of check and cash involv proper control on the receipt process
+defici in the answer to these typic auditprogram question mai be red flag
+is mail open by someon independ of cashier account receiv bookkeep or
+other account employe who mai initi or post journal entri
+1 georg georgiad audit procedur new york harcourt brace profession publish 1995
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1419
+is the deliveri of unopen busi mail prohibit to employe have access to the
+account record
+doe the employe who open the mail
+place restrict endors for deposit onli on all check receiv
+prepar a list of the monei check and other receipt
+forward all remitt to the person respons for prepar and make the daili
+bank deposit
+forward the total of all remitt to the person respons for compar it to the
+authent deposit ticket and amount record
+is a lock box us
+do cash sale occur if ye
+ar cash receipt prenumb
+is an independ check of prenumb receipt done daili and reconcil to cash
+collect
+do cash refund requir approv
+ar cash receipt deposit intact daili
+ar employe who handl receipt bond
+is the account receiv bookkeep restrict from
+prepar the bank deposit
+obtain access to the cash receipt book
+have access to collect from custom
+ar bank instruct not to cash check drawn to the order of the compani
+is the cashier restrict from gain access to the account receiv record and bank
+and custom statement
+ar area where physic handl of cash take place reason safeguard
+is the person who make post to the gener ledger independ of the cash receipt
+and account receiv function
+doe a person independ of the cashier or account receiv function handl
+custom complaint
+cash larceni
+in the occup fraud set a cash larceni mai be defin as the intent take of
+an employ cash the term cash includ both currenc and check without the consent
+and against the will of the employ
+asset misappropri cash receipt financi transact
+1420 2011 fraud examin manual
+a cash larceni scheme can take place in ani circumst in which an employe ha access
+to cash everi compani must deal with the receipt deposit and distribut of cash so
+everi compani is potenti vulner to a cash larceni scheme while the circumst in
+which an employe might steal cash ar nearli limitless most larceni scheme involv the
+theft of incom cash currenc on hand in a cash regist cash box etc or theft of cash
+from the victim organ bank deposit
+incom cash
+theft of cash from the regist
+a larg percentag of cash larceni scheme occur at the cash regist and for good reason
+the regist is usual where the cash is the regist or similar cash collect point like
+cash drawer or cash box is usual the most common point of access to cash for
+employe so it is understand that thi is where larceni scheme frequent occur
+furthermor there is often a great deal of activ at the regist numer transact that
+requir employe to handl cash thi can serv as a cover for the theft of cash in a flurri
+of activ with monei be pass back and forth between custom and employe an
+employe can often slip cash out of the regist and into hi pocket undetect
+the most straightforward cash larceni scheme is to simpli open the regist and remov
+currenc or check see cash larceni from the regist flowchart the theft is often
+commit as a sale is be conduct so that it appear to be part of the transact in
+other circumst the perpetr wait for a slow moment when no on is around to
+notic him dig into the cash drawer
+recal that the difficulti in detect skim scheme come from the fact that the stolen
+fund ar never enter on the victim organ account in a larceni scheme on the
+other hand the fund that the perpetr steal have alreadi been reflect on the regist
+tape as a result an imbal will result between the regist tape and the cash drawer
+a regist is balanc by compar the transact on the regist tape to the amount of
+cash on hand sale return and other regist transact that ar record on the regist
+tape ar ad to or subtract from a known balanc to arriv at a total for the period in
+question the actual cash is then count and the two total ar compar if the regist
+tape show that there should be more cash in the regist than what is present the
+discrep mai be due to larceni
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1421
+the actual method for take monei at the regist open the regist and remov
+currenc rare vari it is the method us by perpetr to avoid get caught that
+distinguish larceni scheme oddli in mani instanc the perpetr ha no plan for
+avoid detect a larg part of fraud is ration the employe convinc himself that
+he is somehow entitl to what he is take or that what he is do is not actual a crime
+regist larceni scheme frequent begin when the perpetr convinc himself that he is
+onli borrow the fund to cover a temporari monetari need these peopl might carri
+the miss currenc in their regist for sever dai delud themselv in the belief that
+thei will on dai repai the fund thei have stolen
+the employe who doe noth to camouflag hi crime is easili caught more danger
+is the person take activ step to hide hi crime on basic wai for an employe to
+disguis the fact that he is steal currenc is to take monei from someon els regist
+asset misappropri cash receipt financi transact
+1422 2011 fraud examin manual
+in some retail organ employe ar assign to certain regist altern on
+regist is us and each employe ha an access code when cash is miss from a certain
+cashier regist that cashier is obvious the most like suspect for the theft therefor by
+steal from a cowork regist or by us someon els access code to enter the
+regist the perpetr make sure that anoth employe will be the prime suspect in the
+theft
+exampl
+a teller for a retail sale compani simpli sign onto a regist rang a no sale and took
+currenc from the drawer over a period of time the teller took approxim 6000
+through thi simpl method in order to get awai with the theft the teller wait until a
+cowork wa on break then log onto that person regist rang a no sale and took
+the cash the result cash shortag therefor appear in the regist of an honest
+employe deflect attent from the true thief
+a veri unsophist wai to avoid detect is to steal currenc in veri small amount over
+an extend period of time becaus the miss amount ar small the shortag mai be
+dismiss as account error rather than theft typic the employe becom depend
+on the extra monei he is pilfer and hi theft increas in scale or becom more frequent
+which caus the scheme to be uncov most retail organ track overag or
+shortag by employe make thi method larg ineffect
+revers transact
+some employe conceal cash larceni by process revers transact which caus the
+regist tape to reconcil to the amount of cash on hand after the theft by process fals
+void or refund an employe can reduc the cash balanc reflect on the regist tape
+exampl
+a cashier receiv payment from a custom and record the transact on her system
+she stole the payment from the custom then destroi the compani receipt that
+reflect the transact to complet the coverup the cashier went back and void the
+transact that she had enter at the time the payment were receiv the revers
+entri brought the receipt total in to balanc with the cash on hand
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1423
+regist manipul
+instead of us revers entri an employe might manual alter the regist tape again
+the purpos of thi activ is to forc a balanc between the cash on hand and the actual
+cash receiv an employe might us whiteout to cover up a sale whose proce were
+stolen or he might simpli cross out or alter the number on the tape so that the regist
+total and the cash drawer balanc thi type of conceal is not common becaus in
+gener the alter will be notic
+alter cash count
+anoth method for conceal cash larceni is to alter the cash count on regist when
+cash from a regist is total and prepar for deposit an employe simpli record the
+wrong amount so that the cash on hand appear to balanc with the total on the regist
+tape obvious employe who deal with the receipt of cash should not be charg with
+verifi the amount of cash on hand in their own regist but thi control is often
+overlook
+destroi regist tape
+if the fraudster cannot make the cash and the tape balanc the next best thing is to prevent
+other from comput the total and discov the imbal employe who ar
+steal from the regist sometim destroi detail tape that would implic them in a
+crime when detail tape ar miss or defac it mai be becaus someon is try to
+conceal a fraud
+other larceni of sale and receiv
+not all receipt arriv via the cash regist employe can just as easili steal monei receiv
+at other point on of the more common method is to take check receiv through the
+mail post the payment to the account system but steal the check see other cash
+larceni flowchart obvious thi type of scheme leav the cash account out of balanc
+from a perpetr perspect it would make much more sens to take check that have
+not yet been post to custom account often thi type of cash larceni scheme is
+commit by an employe who claim to onli be borrow the fund for a short while
+on of the classic ration in occup fraud scheme
+those employe who have total control of a compani account system can overcom
+the problem of outofbal account it is common especi in small busi for a
+singl person to control all of a compani deposit and ledger these employe can steal
+asset misappropri cash receipt financi transact
+1424 2011 fraud examin manual
+incom cash that ha alreadi been post then conceal the crime by make unsupport
+entri in the victim organ book poor separ of duti is veri often the
+weak that allow cash larceni scheme to go undetect
+exampl
+an employe post custom payment to the account receiv journal but stole the cash
+receiv thi result in an imbal in the victim compani cash account but the
+perpetr had control over the compani deposit and all it ledger thi allow her to
+conceal her crime by make unsupport entr i in the compani book that produc a
+fictiti balanc between receipt and ledger
+in circumst in which payment ar stolen but nonetheless post to the cash receipt
+journal revers entri ar sometim us to balanc the victim compani account the
+incom payment is initi credit to the custom account but the entri is later
+revers with an unauthor adjust such as a courtesi discount
+a less eleg wai to hide a crime is to simpli destroi all record that might prove that the
+perpetr ha been steal thi slash and burn conceal techniqu doe not
+prevent the victim compani from realiz that it ha been rob but it mai help conceal
+the ident of the thief
+cash larceni from the deposit
+at some point in everi revenuegener busi someon must physic take the
+compani currenc and check to the bank thi person or person left alon liter
+hold the bag will have an opportun to take a portion of the monei prior to deposit
+it into the compani account
+typic when a compani receiv cash someon is assign to tabul the receipt list
+the form of payment currenc or check and prepar a deposit slip for the bank then
+anoth employe take the cash and deposit it in the bank the person who made out the
+deposit gener retain on copi of the slip thi copi is match to a receipt copi of
+the slip which is stamp by the bank when the deposit is made
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1425
+asset misappropri cash receipt financi transact
+1426 2011 fraud examin manual
+thi procedur is design to prevent the theft of fund from the deposit but theft still
+occur often becaus the process is not adher to see cash larceni from the deposit
+flowchart for exampl when on person is in charg of prepar the deposit slip make
+the deposit and reconcil the bank statement that person can pilfer monei from the dai
+receipt and conceal it by falsifi the deposit slip if the dai receipt ar 1000 the
+perpetr might fill out a deposit slip for 5 00 and steal the other 500 the employe then
+make correspondingli fals entri in the book underst the dai receipt thi
+process creat a fals balanc in the victim organ record
+a failur to reconcil the bank copi of the deposit slip with the offic copi can result in
+fraud when the person make the deposit know hi compani doe not reconcil the two
+copi he can steal cash from the deposit on the wai to the bank and alter the deposit slip
+so that it reflect a lesser amount in some case sale record will also be alter to match
+the diminish deposit
+when cash is stolen from the deposit the receipt deposit slip will of cours be out of
+balanc with the compani copi of the deposit slip unless the perpetr also prepar the
+deposit to correct thi problem some perpetr alter the bank copi of the deposit slip
+after it ha been valid thi bring the two copi back into balanc
+exampl
+an employe alter 24 deposit slip and valid bank receipt in the cours of a year to
+conceal the theft of over 15 000 these document were alter with whiteout or a ball
+point pen to match the compani cash report
+on commonsens issu that is sometim over look by organ is the handl of
+the deposit on the wai to the bank onc prepar the deposit should immedi be put in
+a safe place until it is taken to the bank unfortun some organ leav their
+deposit carelessli unattend for exampl some compani prepar the daili deposit then
+leav it in the offic overnight to be taken to the bank the next morn employe familiar
+with thi routin have littl troubl pilfer check and currenc from the deposit after
+hour
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1427
+asset misappropri cash receipt financi transact
+1428 2011 fraud examin manual
+as with all cash larceni scheme steal from the compani deposit can be rather difficult
+to conceal in most case these scheme ar onli success in the long term when the
+person who count the cash also make the deposit in ani other circumst the success of
+the scheme depend primarili on the inattent of those charg with prepar and
+reconcil the deposit
+deposit lap
+on method that fraudster sometim us to conceal cash larceni from the deposit is
+lap lap occur when an employe steal the deposit from dai on then replac it
+with dai two deposit dai two is replac with dai three and so on the perpetr is
+alwai on dai behind but as long as no on demand an uptoth minut reconcili of
+the deposit to the bank statementand if daili receipt do not drop precipit he mai
+be abl to avoid detect for a period of time lap is discuss in more detail in the
+skim section
+deposit in transit
+a final strategi us to conceal stolen deposit is to carri the miss monei as deposit in
+transit which ar a wai of account for discrep between the compani record and
+the bank statement
+exampl
+an employe wa respons for receiv collect issu receipt post transact
+reconcil account and make deposit thi employe took over 20000 in collect
+from her employ over a fivemonth period to hide her theft the perpetr carri the
+miss monei as deposit in transit mean that the miss monei would appear on the
+next month bank statement of cours it never did the balanc wa carri for sever
+month as dit until an auditor recogn the discrep and put a halt to the fraud
+detect of cash larceni
+receipt record
+indepth analysi of the cash receipt and record process is the kei to detect a cash
+larceni scheme area of analysi mai includ
+mail and regist receipt point
+journal and record of the receipt
+secur of the cash from receipt to deposit
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1429
+control object
+in analyz the cash receipt process it is import to meet the follow control
+object
+cash receipt must be complet each dai receipt must be promptli collect and
+deposit in full
+each receiv transact record must be legitim and have support
+document
+all inform includ in the transact must be correctli verifi as to amount date
+account code and descript
+the cash must be safeguard while in the physic possess of the compani
+there must be appropri personnel respons for overse cash control process
+cash regist tape total should be reconcil to the amount of cash in drawer
+an independ list of cash receipt should be prepar befor the receipt ar
+submit to the cashier or account receiv bookkeep
+an independ person should verifi the list against the deposit slip
+authent deposit slip should be retain and reconcil to the correspond
+amount in the cash receipt record
+the bank deposit should be made by someon other than the cashier or the account
+receiv bookkeep a person independ of the cash receipt and account
+receiv function should compar entri to the cash receipt journal with
+authent bank deposit slip
+deposit per the bank statement
+area where physic handl of cash take place should be reason safeguard
+analyt review
+analyz the relationship between sale cost of sale and the return and allow can
+detect inappropri refund and discount
+if a larg cash fraud is suspect a thorough review of these account mai enlighten the
+examin as to the magnitud of the suspect fraud
+an analysi of refund and return and allow with the actual flow of inventori mai
+reveal some fraud scheme the refund should caus an entri to inventori even if it is
+damag inventori likewis a return will caus a correspond entri to an inventori
+account
+asset misappropri cash receipt financi transact
+1430 2011 fraud examin manual
+there should be a linear relationship between sale and return and allow over a
+relev rang ani chang in thi relationship mai point to a fraud scheme unless there
+is anoth valid explan such as a chang in the manufactur process chang in
+product line or chang in price
+detect at the regist
+as cash is receiv whether at a regist or through the mail it is import to ensur
+that the employe respons for complet these import task ar inform of
+their respons and properli supervis
+access to the regist must be close monitor and access code must be kept secur
+an employe other than the regist worker should be respons for prepar regist
+count sheet and agre them to regist total
+popular conceal method must be watch for these method discuss earlier
+includ check for cash revers transact regist tape destruct or alter
+and sale cash count
+complet regist document and cash must be deliv to the appropri
+personnel in a time manner
+cash theft ar sometim reveal by custom who have either paid monei on an
+account and have not receiv credit or in some case when thei notic that the credit
+thei have been given doe not agre with the payment thei have made complaint and
+inquiri ar also receiv frequent from bank
+cash account analysi
+cash larceni can be detect by review and analyz all journal entri made to the cash
+account thi review and analysi should be perform on a regular basi if an employe is
+unabl to conceal the fraud through alter the sourc document such as the cash regist
+tape then he mai resort to make a journal entri directli to cash in gener and except in
+financi institut there ar veri few instanc in everydai busi activ where an
+independ journal entri is necessari for cash on of these except is the record of
+the bank servic charg howev thi is an easi journal entri to trace to it sourc
+document name the bank statement therefor all other entri directli to cash ar
+suspect and should be trace to their sourc document or explan suspect entri
+will gener credit the cash account and correspondingli debit variou other account such
+as a sale contra account or bad debt expens
+financi transact asset misappropri cash receipt
+2011 fraud examin manual 1431
+prevent of cash larceni
+segreg of duti
+the primari prevent of cash larceni is segreg of duti whenev on individu
+ha control over the entir account transact eg author record and
+custodi the opportun is present for cash fraud each of the follow duti and
+respons should ideal be segreg
+cash receipt
+cash count
+bank deposit
+deposit receipt reconcili
+bank reconcili
+post of deposit
+cash disburs
+if ani on person ha the author to collect the cash deposit the receipt record that
+collect and disburs compani fund the risk that fraud can occur is high
+assign rotat and mandatori vacat
+mani intern fraud scheme ar continu in natur and requir ongo effort by the
+employe to conceal defalc mandatori job rotat is an excel method of
+detect cash fraud by establish a mandatori job or assign rotat the
+conceal element is interrupt if mandatori vacat ar within the compani
+polici it is import that dure the employe absenc the normal workload of that
+employe be perform by anoth individu the purpos of mandatori vacat is lost if
+the work is allow to remain undon dure the employe time off
+surpris cash count and procedur supervis
+surpris cash count and supervisori observ ar a us fraud prevent method if
+properli us it is import that employe know that cash will be count on a sporad
+and unschedul basi these surpris count must be made at all step of the process from
+receiv the check to deposit
+physic secur of cash
+ensur proper segreg of duti of kei personnel
+review the check and cash composit of the daili bank deposit dure unannounc
+cash count and dure substant audit test of cash receipt
+asset misappropri cash receipt financi transact
+1432 2011 fraud examin manual
+review the entiti record of the numer seri of print prenumb receipt and
+verifi that these receipt ar us sequenti includ void document
+review the timeli of deposit from locat to the central treasur function
+observ cash receipt oper of locat
+prepar and review a schedul of all cash receipt function from a review of revenu
+report from cash receipt form at the central treasur function and from discuss
+with knowledg employe
+prepar and analyz an inventori of all imprest and chang fund by purpos amount
+custodian date and locat
+audit all revenu sourc on a cycl
+period us compar analyt review to determin which function have
+unfavor trend
+determin reason why revenu ha chang from previou report period
+confirm respons obtain from manag by us altern record or through
+substant audit test
+adher to a commun polici of unannounc cash count
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1501

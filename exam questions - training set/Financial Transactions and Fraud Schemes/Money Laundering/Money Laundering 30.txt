@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Which of the following is the primary focus of the Bank Secrecy Act?
+
+Options=Preventing the disclosure of confidential financial information | Reporting and recordkeeping requirements | Interstate transfer of funds | Tax evasion reporting
+
+CorrectResponse=1
+
+Explanation=The Bank Secrecy Act (BSA) consists of two titles. Title I contains provisions requiring that financial institutions and securities brokers and dealers keep extensive records of the transactions and accounts of their customers. Title II of the BSA (originally entitled Currency and Foreign Transactions Reporting Act) requires banks, "financial institutions" (which include casinos, securities brokers and dealers, and currency exchanges), and, in some cases, individuals to report to the government certain transactions.See page(s) 1.1621 in the Fraud Examiner‰??s Manual

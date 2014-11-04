@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+text-based                             1
+slides                                 1
+direction                              1
+e-mail                                 1
+spreadsheets                           1
+bookmarks                              1
+are                                    1
+created                                1
+on                                     1
+files                                  5
+books                                  1
+documents                              1
+so                                     1
+under                                  1
+image                                  1
+the                                    1
+include                                1
+and                                    2
+user-created                           2
+audio/video                            1
+address                                1
+presentation                           1
+databases                              1
+user                                   1
+internet                               1
+
+Totals:                     25        31

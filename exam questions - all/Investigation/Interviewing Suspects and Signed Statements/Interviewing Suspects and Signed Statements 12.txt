@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=During a confession, privacy laws usually prohibit the interviewer from asking the suspect to voluntarily surrender bank records for evidence.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Physical evidence—regardless of how limited it might be—should be obtained from the confessor. In many instances, illicit income from fraud is deposited directly in the bank accounts of the perpetrator. The interviewer will typically want to ask the confessor to surrender his banking records voluntarily for review. It is recommended that either (1) a separate written authorization be created, or (2) specific language be added to the confession noting the voluntary surrender of banking information. The first method is generally preferable. If there are other relevant records that can be obtained only with the confessor’s consent, permission to review those should be sought during the oral confession. In some instances, it might be advisable to delay this step until the written confession is obtained.See page(s) 3.269 in the Fraud Examiner's Manual

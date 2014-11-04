@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Able, an accounts payable supervisor for ABC Company, bought supplies for a company she owned on the side. Able entered vouchers in ABC Company's accounts payable system for the cost of the supplies. Checks were cut to pay for these unauthorized expenses during normal daily check runs. The goods were ordered drop-shipped to a location where Able could collect them. What type of Occupational Fraud is this?
+
+Options=An invoice kickback scheme | A billing scheme | An expense reimbursement scheme | A commission scheme
+
+CorrectResponse=1
+
+Explanation=One major form of billing fraud is the personal purchases scheme. Instead of undertaking billing schemes to generate cash, many fraudsters simply purchase personal items with their company’s money. Company accounts are used to buy items for fraudsters, their businesses, their families, and so on. Most of the employees in our study who undertook purchases schemes did so by running unsanctioned invoices through the accounts payable system. The fraudster in this type of scheme buys an item and submits the bill to his employer as if it represented a purchase on behalf of the company. The goal is to have the company pay the invoice.See page(s) 196. 199-200 in the Corporate Fraud Handbook

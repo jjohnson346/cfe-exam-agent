@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Companies conducting business over the Internet should be concerned about security both for themselves and their customers. Which of the following are safety procedures or concerns companies should have when using the Internet? \r\rI.	Encryption \rII.	Customer validation \rIII.	Automatic "lock-outs" \rIV.	Firewalls
+
+Options=I, II, and III | I, II, and IV | II, III, and IV | I, III, and IV
+
+CorrectResponse=1
+
+Explanation=Businesses should not be concerned about conducting business on the Internet, but they should be concerned about safeguarding themselves and their customers against thefts of compromising information. By taking some additional safety precautions, there is no reason a business cannot safely conduct business on the Internet. (1) Encryption. Any confidential information or credit card numbers should be encrypted in their entirety. An encryption system is comprised of a cryptographic function, whichSee page(s) 1.1833-1.1834 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=If an employee is a member of a union, the employer must generally notify the union if a union employee is being investigated, but the employee has no right to have a union representative present during the interview.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If the employee is a member of a union, the union contract or collective bargaining agreement might contain certain restrictions on the company's investigatory procedures. For instance, the company might be required to notify the union before the interview, and the employee may have the right to have a union representative present. (See NLRB v. Weingarten, Inc., 420 U.S. 251 [1975]). Other employees might have a written employment agreement which might contain provisions concerning the employee's rights during an investigation.See page(s) 2.402 in the Fraud Examiner's Manual

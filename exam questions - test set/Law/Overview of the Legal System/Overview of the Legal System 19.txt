@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=in criminal cases, the burden of proof is:
+
+Options=Beyond a reasonable doubt | The preponderance of evidence | Beyond a legal doubt | None of the above
+
+CorrectResponse=0
+
+Explanation=In a criminal case, the prosecution must prove its case beyond a reasonable doubt; in a civil case, the burden of proof is usually a preponderance of the evidence, a lower standard.See page(s) 2.109 in the Fraud Examiner's Manual

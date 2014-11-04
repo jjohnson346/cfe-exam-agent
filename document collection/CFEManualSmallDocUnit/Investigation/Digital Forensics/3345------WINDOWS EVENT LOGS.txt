@@ -1,0 +1,43 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Computer-created Files/WINDOWS EVENT LOGS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+WINDOWS EVENT LOGS 
+Event logs are files that record significant events on a computer. In Windows systems, there 
+are three types of events: system, applicat ion, and security. The system log tracks 
+Digital Forensics  Investigation 
+3.726   2011 Fraud Examiners Manual  
+miscellaneous system events, including events generated during system startup like hardware 
+and controller failures. The application log tracks application-related events and application 
+errors, such as failing to load a DLL. The security log, which is turned off by default, tracks 
+security-related events like logon and logoff times and changes to access rights.  
+ 
+
+
+
+:
+
+
+window event log
+event log ar file that record signific event on a comput in window system there
+ar three type of event system applicat ion and secur the system log track
+digit forens investig
+3726 2011 fraud examin manual
+miscellan system event includ event gener dure system startup like hardwar
+and control failur the applic log track applicationrel event and applic
+error such as fail to load a dll the secur log which is turn off by default track
+securityrel event like logon and logoff time and chang to access right

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In rationalizing their misdeeds, many miscreants believe their illegal conduct does not represent their true character.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Many miscreants believe their conduct constitutes an aberration in their lives and that it is not representative of their true character. The interviewer might establish this by the following examples: "I know this is totally out of character for you. I know that this would never have happened if something wasn't going on in your life. Isn't that right?" "Youâ€™ve worked hard all your life to get a good reputation. I feel you wouldn't have normally done something like this; it just doesn't fit unless you felt like you were forced into it. You felt forced to do this, didn't you?â€?See page(s) 3.257 in the Fraud Examiner's Manual

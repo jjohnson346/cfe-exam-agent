@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Information in a fraud examination report should be presented either chronologically or by transaction.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Because of the amount of information and the number of documents that might be collected during a fraud examination, the examiner should plan early and plan well. If circumstances permit, an information database should be established in the early phases of the case. Report information can be presented either in chronological order or by transaction.See page(s) 3.905 in the Fraud Examiner's Manual

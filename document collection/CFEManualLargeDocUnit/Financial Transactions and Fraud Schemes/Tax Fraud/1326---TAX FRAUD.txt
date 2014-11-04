@@ -1,0 +1,840 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/TAX FRAUD
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Tax Fraud
+
+
+:
+
+
+TAX FRAUD 
+ 
+Introduction 
+The most important distinction in determining whether an individual or company has 
+committed tax fraud is whether the tax-filing party intentionally filed an improper tax return 
+with the federal government. The intent of the party to wrongly file a return will determine 
+the difference between tax avoidance and tax evasion. The U.S. courts have determined evasion 
+to be unlawful, while avoidance has been deemed lawful. 
+ 
+The definition of tax fraud is 
+ 
+… the actual intentional wrongdoing, and the intent required … to evade a tax believed to 
+be owing. Fraud implies bad faith, intentional wrongdoing, and a sinister motive. It is 
+never imputed or presumed and the courts will not sustain findings of fraud upon 
+circumstances which at most create only suspicion.    
+ 
+This definition tells us that a false tax return is considered fraudulent if the responsible party 
+has knowingly attempted to defraud the government of owed tax dollars. In U.S. v. 
+Pomponio, the courts further refined the scope of tax fraud by stating that willfulness is “… a 
+voluntary, intentional violation of a known legal duty, [that] does not require proof of an evil 
+motive.” It can thus be accepted that accidental false tax returns do not qualify as fraudulent 
+returns.  
+ 
+Fraudulent Intent  
+An example of fraudulent intent is the filing of a tax return in the wrong district, when the 
+taxpayer (a CPA) knew or had reason to know the proper district (Spencer D. Lorton v. 
+Commissioner, TC Memo 1954–872). 
+ 
+Objectively Reasonable “Good Faith” Misunderstanding of the Law  
+Good faith or a legitimate misunderstanding of the requirements of the law negates 
+willfulness, [ U.S. v. Cheek, 931 F.2d 1206 (7th Cir 1991), aff’d. 111 U.S. 604 (1991)]. The case 
+held, however, that the belief that taxes are in violation of the Constitution was not 
+“objectively reasonable” so as to negate willfulness. 
+                                                          
+114 Mertens, Law of Federal Income Taxation, sec. 55.21, page 64, (1991 Rev);  Ross Glove Co. v. Commissioner, 60 TC 569 (1973). 
+2 U.S. v. Pomponio, 429 U.S. 10 (1976); 76-2 USTC 9695. 
+Tax Fraud  Financial Transactions   
+1.1402                           2011 Fraud Examiners Manual  
+Willfulness can be inferred from conduct, such as: 
+• Keeping a double set of books (not to be confused with GAAP and tax records). 
+• Making false entries or alterations or creating false invoices or documents. 
+• Destruction of books or records. 
+• Concealment of assets (illicit income). 
+• Covering up sources of income. 
+• Avoiding making records usual in transactions of the kind. 
+• Conduct that misleads or conceals [ Spies v. U.S., 317 U.S. 492 (1943).]. 
+ 
+ 
+Hallmarks (Badges) of Fraud 
+The courts recognize certain hallmarks or badges of tax fraud. Some of these are: 
+• Misrepresentation of facts 
+• Artifice 
+• Device to hide income or assets 
+• Double set of books 
+• Secret bank accounts under false names 
+• Overstatement of deductions 
+• Fictitious transactions 
+ 
+Fraud Is More Than a Mistake in Judgment  
+The failure to know and understand the rules of “first in, first out” (FIFO) is not sufficient 
+to sustain a fraud charge, Smith v. Commissioner, 40 BTA 387, supplemental opinion 42 BTA 
+505. There was no indication in this case that the taxpayer misrepresented any fact, withheld 
+any information, or resisted or prevented the discovery by the commissioner of any 
+pertinent data. 
+ 
+False Versus Fraudulent 
+Definitions of False 
+• When “false” appears by itself, and not coupled with a penalty or the creation of an 
+offense, then false means incorrect [ Eliot National Bank v. Gill, 218 F. 600 (1st Cir 1914)]. 
+• False means it is incorrect, but made in good faith [ National Bank of Commerce in St. Louis 
+v. Allen, 223 F. 472 (8th Cir 1915)]. 
+• Statements of opinion, as distinguished from those of material fact, are not fraud [ Ohio Brass 
+Co. v. Commissioner, 17 BTA 1199 (1929)]. 
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1403 
+Corporate Fraud  
+Corporate fraud  depends on the intent of the corporate officers [Auerbach Shoe Co. v. 
+Commissioner, 21 TC 191 (1st Cir. 1953)]. 
+ 
+EXAMPLE 
+Charging airline tickets to “air freight” (a false representat ion) coupled with the failure to 
+credit refunds for redeemed tickets to the corp oration was sufficient to render the corporate 
+returns fraudulent [ Kreps v.  Commissioner, 42 TC 660 (1964) aff’d, 351 F.2d 1 
+(2nd Cir 1965)]. 
+ 
+EXAMPLE 
+A 40 percent shareholder/officer of a corporation embezzled corporate funds for her 
+personal use, then falsified corporate records.  The corporation incorrectly claimed deductions 
+based on the false records. The fraud claim was not sustained against the corporation 
+[Botwinik Bros. of Mass., Inc. v. Commissioner, 39 TC 988 (1963)]. 
+ 
+Burden of Proof  
+In July of 1998, President Clinton signed in to law the IRS Restructuring and Reform Act. 
+This Act made sweeping changes in the structure and procedures of the IRS. One of the 
+most important changes involves the shift of the burden of proof in civil cases. The general 
+rule prior to the Act was that the taxpayer bears the burden of proof at trial in civil 
+proceedings. The Statutory Notice of Deficiency (90-day letter) enjoyed the presumption of 
+correctness. The presumption of correctness in favor of the IRS required the taxpayer to go 
+forward with prima facie evidence to disprove the IRS’s determination. After successfully 
+rebutting the presumption of correctness, taxpayers had the burden of proving their case by 
+at least a preponderance of the evidence.  
+ 
+However the rule established under the Reform Act is that IRS has the burden of proof in 
+civil court proceedings on income, gift, estate, or generation-skipping tax liability with 
+respect to factual issues that are relevant to determining the taxpayer’s tax liability, provided 
+the taxpayer: (1) provides credible evidence on the factual issue; (2) keeps records and backs 
+up items as presently required under the Code and regulations; and (3) cooperates with IRS 
+in regard to reasonable requests for meetings, interviews, witnesses, information, and 
+documents. Corporations, trusts, and partnerships with a net worth in excess of $7 million 
+continue to bear the burden of proof. The Senate Finance Committee Report states that if 
+Tax Fraud  Financial Transactions   
+1.1404                           2011 Fraud Examiners Manual  
+the taxpayer’s evidence and the IRS’s evidence are equally balanced, the court should find 
+that the IRS has not sustained its burden of proof.  
+ 
+Fraud 
+Even under the old IRS Code, there was no presumption of correctness afforded the IRS 
+when fraud was involved. Therefore, the IRS had the burden of proving fraud [ Armstrong v. 
+U.S., 354 F.2d 274; 173 Ct.Cl. 944 (1965)]. If the fraud claim is for more than one year, the 
+IRS must show that some part of the underpayment was due to fraud for each year that the 
+penalty is added [Professional Services v. Commissioner, 79 TC 888 (1982)]. First, there must be a 
+deficiency and second, the deficiency must be substantial [U.S. v. Morse, 491 F.2d 149 (1st Cir 
+1974)]. Substantiality  is a question of fact [U.S. v. Marks, 282 F. Supp. 546 (D Or 1966), aff’d  
+391 F.2d 210; (9th Cir 1968); cert denied 39 3 U.S. 839 (1968)]. There is controversy about 
+whether substantiality applies to the unpaid tax or to unreported income. Fraud penalties 
+survive the death of the taxpayer. 
+ 
+ 
+Civil Versus Criminal 
+Although the burden of proving fraud is on the IRS, the primary determinant of whether the 
+IRS pursues a civil rather than a criminal fraud charge is what it believes it can prove. There 
+also might be budgetary and staffing constraints that might dictate whether a suit is pursued 
+civilly or criminally.  
+ 
+The difference between civil and criminal in the view of the IRS is that a civil case never 
+ripens into a crime, and criminal offenses involve behavior too insidious to be disposed of 
+on a civil basis. Failure to cooperate might raise a civil case to a crime because it might 
+demonstrate willful intent. 
+ 
+ 
+Taxpayer Penalties 
+Taxpayers with a tax deficiency may be subject to civil or criminal penalties. The primary 
+determinant of whether the IRS pursues a civil rather than a criminal fraud charge is what it 
+believes it can prove.  
+ 
+From the IRS’s perspective, a civil case never ripens into a crime, but a criminal offense 
+involves behavior too insidious to be disposed of on a civil basis. 
+ 
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1405 
+Civil Taxpayer Penalties 
+Negligence, Title 26, U.S.C., § 6662 
+If a taxpayer’s underpayment is attributable  to negligence or one of the other reasons 
+specified in this section, the government may impose an accuracy-related penalty. Negligence 
+is strongly indicated where information is omitted on tax returns or deductions are “too 
+good to be true.” 
+ 
+If guilty under this law, the government will impose a penalty based on a percentage of the 
+underpayment in the case of negligence or disregard of rules and regulations, substantial 
+understatement of income tax, substantial valuation misstatement, substantial overstatement 
+of pension liabilities, or substantial understatement of estate or gift tax valuations.  
+ 
+Frivolous Return, Title 26, U.S.C., § 6702 
+If a taxpayer files a frivolous return — one that is incorrect on its face or one that does not 
+contain enough information to determine the tax liability — the government may impose a 
+separate $5,000 civil penalty. An example of a frivolous return is one written in Roman 
+numerals rather than Arabic numbers. 
+ 
+Fraud, Title 26, U.S.C., § 6663 
+If a taxpayer’s underpayment is attributable to fraud, the government may impose a penalty 
+of 75 percent of the portion of the underpayment that is attributable to fraud. If, however, 
+the taxpayer is successful in proving that a portion of the underpayment is not the result of 
+fraud, that portion might still be subject to the negligence penalty.  
+ 
+Criminal Taxpayer Penalties 
+Tax Evasion, Title 26, U.S.C., § 7201 
+If a taxpayer is found guilty of tax evasion, which is the intentional evasion of tax 
+obligations, the government shall impose a penalty of not more than $100,000 ($500,000 in 
+the case of a corporation) and/or imprisonment for not more than five years.  
+ 
+There are three elements to the crime of tax evasion. 
+ 
+WILLFULNESS 
+A willful and positive attempt to evade or defeat the tax in any manner lifts a misdemeanor to 
+a felony [Spies v. United States, 317 U.S. 492 (1943)]. A consistent pattern of not reporting or 
+Tax Fraud  Financial Transactions   
+1.1406                           2011 Fraud Examiners Manual  
+underreporting income is sufficient to infer willfulness [United States v. Stone, 770 F.2d 842 (9th 
+Cir 1985)]. 
+ 
+EXISTENCE OF A SUBSTANTIAL DEFICIENCY 
+There must be a deficiency and that deficiency must be substantial [Lawn v. United States, 355 
+U.S. 339. Morse, supra]. Therefore, there must also be a tax liability [§ 7202. But see Marks, 
+supra]. 
+ 
+AFFIRMATIVE ACT 
+There must be an affirmative act constituting an evasion or attempted evasion of tax 
+obligations, but to be found guilty of this felony, one needs only to attempt to evade the tax. 
+ 
+Making a False Return (Tax Perjury), Title 26, U.S.C., § 7206(1) 
+This crime occurs when a taxpayer uses false or misleading information on his tax return. 
+The elements of this crime include all of the following: 
+• The defendant made and subscribed a return, statement, or other document that was 
+false with regard to a material matter. 
+• The return, statement, or other document contained a written declaration that it was 
+made under the penalties of perjury. 
+• The defendant did not believe the return, statement, or other document was true and 
+correct as to every material matter. 
+• The defendant falsely subscribed to the return, statement, or other document willfully, 
+with the specific intent to violate the law. 
+ 
+Failure to File and Pay, Title 26, U.S.C., § 7203 
+This statute makes it a crime to willfully do any of the following:  
+• Fail to pay any tax or estimated tax 
+• Fail to file a return 
+• Fail to keep required records 
+• Fail to supply any required information.  
+ 
+A person convicted under this statute can be fined up to $25,000 ($100,000 in the case of a 
+corporation) or sentenced to up to one year in prison in addition to any other penalties. 
+ 
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1407 
+Conspiracy to Defraud the United States, Title 18, U.S.C., § 371 
+The criminal tax statutes of the Internal Revenue Code do not include a statute for the crime 
+of conspiracy, but tax conspiracies can be prosecuted under the general conspiracy statute 
+under section 371 of Title 18, U.S. Code. Section 371 makes it illegal for two or more 
+persons to agree to commit an offense against the United States or to defraud any federal 
+agency. Conspiracy in tax cases usually involves a conspiracy to commit tax evasion or to file 
+false tax returns. 
+ 
+ 
+Tax Preparer Penalties 
+ 
+Aiding and Abetting Understatement of Taxpayer's Liability, Title 26, U.S.C., § 6701 
+The Code imposes a civil penalty on any person who aids or assists, or procures or advises, 
+in the preparation or presentation of any tax-related document if the person knows or has 
+reason to believe that the document will be used in connection with a material tax matter 
+and will result in the understatement of a taxpayer’s liability. The penalty may also be 
+imposed if the person acts through an employee or agent by ordering or causing his 
+subordinate to act or by failing to prevent his subordinate from acting.  
+ 
+The amount of the penalty is $1,000 for each un derstating taxpayer ($10,000 in the case of a 
+corporate client return) per period.  
+ 
+Understatement of Taxpayer's Liability, Title 26, U.S.C., § 6694 
+Section 6694 provides a penalty against a return preparer for understating a taxpayer’s 
+liability due to an unreasonable position. Understatement means any understatement of the 
+net amount payable or any overstatement of the net amount refundable. 
+ 
+Section 6694 provides that unless there is a reasonable cause for an understatement and the 
+preparer acted in good faith, a penalty of the greater of $1, 000 or 50 percent of the income 
+derived (or to be derived) by the tax return preparer will be assessed against any preparer 
+who knew or reasonably should have known that a position taken on a return was: 
+• Not realistically possible of being sustained on its merits. 
+• Not disclosed under U.S.C., § 6662(d)(2)(B)(ii). 
+• A frivolous position. 
+ 
+Tax Fraud  Financial Transactions   
+1.1408                           2011 Fraud Examiners Manual  
+Additionally, the penalty increases to the greater of $5,000 or 50 percent of the income 
+derived (or to be derived) if the understatement is willful or reckless.  
+ 
+Criminal Fraud, Title 26, U.S.C., § 7206(2) 
+Aiding or Assisting in the Preparation of a False Return 
+Section 7206(2) makes it a crime to aid or assists in the preparation of a false return. Under 
+this section, a person is guilty of a felony and may be subject to a fine of up to $100,000 (or 
+$500,000 in the case of a corporation) and/or imprisonment of up to three years  
+ 
+This felony is without regard to the knowledge or consent of the person(s) authorized or 
+required to present the return, affidavit, claim, or other document. 
+ 
+EXAMPLE 
+Rudolf deSouza, president and owner of de fense contractor R.D. International, was 
+indicted on 86 counts of conspiracy, conversion of government property, money laundering, 
+filing false income tax returns, and submitting false claims and false statements. The 
+indictment is the result of a three-and-half-year investigation by the Naval Investigative 
+Service and the Criminal Investigative Division of the IRS.  
+ 
+According to the indictment, deSouza conspired to inflate the expenses of RDI — and his 
+own income — in an effort to impede the IRS. As  part of the conspiracy, he allegedly filed 
+false corporate income tax returns for RDI that claimed deductions for salaries that were 
+never paid. The indictment says that RDI used an accrual method of accounting, and 
+deducted as a business expense salaries that accrued to deSouza. During a five-year period, 
+the contractor claimed $490,000  in such deductions. The accrued salaries not paid were 
+entered on RDI’s books as loans from an officer. 
+ 
+In addition, the indictment alleges that RDI employees purchased computer equipment from 
+a vendor, and then leased it at deSouza’s dire ction to BKS Trading at an inflated price. 
+Consequently, RDI billed the government for the cost of the fictitious lease, and did not give 
+the computers to the government even though it had been reimbursed for them. Moreover, 
+the indictment accuses deSouza of  claiming thousands of dollars worth of personal expenses 
+as business expenses. Specifically, he is alleged to have charged the government for trips to 
+Disneyland, Disney World, and Canada. 
+ 
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1409 
+The money laundering charges involve allegations that deSouza used several bank accounts 
+to conduct approximately $900,000 in financial transactions designed to hide corporate 
+assets from the bankruptcy court. Specifically, deSouza is accused of having caused 
+numerous transfers of money from RDI acco unts to those of GM Technologies. These 
+transfers had the effect of reducing the balance of funds in RDI accounts. Further, deSouza 
+did not disclose to the bankruptcy court the existence of GM Technologies, his family’s 
+controlling interest, or the money transfers fr om RDI. The indictment  also alleges that 
+deSouza transferred money from RDI to another family-owned company while the 
+bankruptcy petition was pending.  
+ 
+ 
+Whistleblower Programs 
+As part of the Tax Relief and Health Care Act of 2006, Congress amended section 7623 of 
+the Internal Revenue Code to greatly enhance the IRS’s whistleblower program. Under this 
+amendment, taxpayers have a statutory right to rewards of 15–30 percent of the collected 
+proceeds (taxes, penalties, and interest) for information that leads directly to an 
+administrative or judicial action by the Treasury Department. It also provides for up to 10 
+percent of the collected proceeds for “less substantial” information. Congress also 
+eliminated any cap on the potential amount of recovery by the informant. 
+ 
+To manage this revised reward program, Congress established the IRS Whistleblower Office 
+(WBO). This was done in response to complaints that the previous reward program had  
+not been effectively managed.  
+ 
+One important note before you pick up the phone to call the IRS: These 15–30 percent 
+recoveries do not apply to smaller, individual cases. These larger percentage rewards do not 
+apply to reports against individuals who make less than $200,000 and whose tax liability is 
+less than $2 million. The rules do apply to all other individuals and entities. 
+  
+ 
+Defenses for Tax Fraud 
+ 
+No Deficiency 
+To prove innocence of tax fraud matters, the defendant can establish that there is no 
+deficiency. If there is no deficiency, there is no tax liability.  
+Tax Fraud  Financial Transactions   
+1.1410                           2011 Fraud Examiners Manual  
+Lack of Willfulness 
+A lack of willfulness reduces the defendant’s culpability for fraud. 
+ 
+Avoidance Not Evasion 
+In contrast to tax fraud, which refers to illegal methods of tax reduction, tax avoidance refers 
+to a legal means of lowering one’s tax bill through legitimate deductions, credits, and 
+shelters. Thus, establishing that the taxpayer was engaging in tax avoidance and not evasion 
+provides a defense to tax fraud.  
+ 
+Objectively Reasonable Position 
+A defendant might also claim that he took an “objectively reasonable” position with respect 
+to the tax return.  
+ 
+Claim of Right Doctrine 
+In the United States, a taxpayer must recognize income if he receives the income, even if he 
+does not have a fixed right to the income. Thus, a taxpayer may seek to evade paying their 
+income tax by claiming that he does not have an unrestricted right to the money at issue.  
+ 
+Other Defenses 
+Mental Illness 
+This defense is applicable in regard to the time the return was prepared. 
+ 
+Incompetent Bookkeeper 
+[Josey v. Commissioner, TC Memo 1956-153.] In one case a bookkeeper “filed” the tax return 
+by putting it in a file cabinet rather than sending it to the Internal Revenue Service. 
+ 
+Ignorance of the Law 
+[Rutana v. Commissioner, TC Memo 1986-336.] A court has held that consideration must be 
+given to the intelligence and expertise of the taxpayer. 
+ 
+Innocent Spouse 
+Innocent spouse relief permits a spouse to avoid tax liability. Under this doctrine, a spouse 
+may be excused from tax liability for tax or tax penalties if a joint tax return was filed and the  
+spouse can establish the following elements:  
+• The underpayment of tax is due to unreported income or disallowed deductions that are 
+attributable to the other spouse  
+Financial Transactions  Tax Fraud 
+2011 Fraud Examiners Manual   1.1411 
+• The spouse “did not know and did not have reason to know” of the facts surrounding 
+the underpayment of tax.  
+ 
+Additionally, innocent spouses may obtain relief for “erroneous” income items.  
+ 
+Reliance on an Attorney or Accountant 
+One can assert a defense of reliance on an attorney or accountant if all of the following 
+conditions are met: 
+• The reliance is specific. 
+• The expert is qualified, which is determined by a facts and circumstances test. 
+• Full disclosure to the expert is required. 
+ 
+Inappropriate Defenses 
+Some defenses are inappropriate. They include those discussed below. 
+ 
+Amended or Delinquent Return 
+A taxpayer will receive no mitigation of penalties for filing an amended or delinquent return. 
+[Badaracco v. Commissioner, 464 U.S. 386 (1984).] 
+ 
+Statute of Limitations 
+The three-year Statute of Limitations does not apply to tax fraud. [U.S.C., § 6501(c).] 
+ 
+Death of Taxpayer 
+Fraud penalties survive the death of the taxpayer. [Helvering v. Mitchell, 303 U.S. 391 (1938); 
+Rev. Rule 73 -293, 1973-2 C.B. 413.] 
+ 
+Bankruptcy
+Taxes owed as a result of filing fraudulent federal income tax returns are not dischargeable in 
+bankruptcy. [11, U.S.C., Sec. 523(a)(1)(c). In Re: Harris, 59 BR 545 (BC-DC Va. 1986); Rev. 
+Rule 87-99, 1987-2 C.B. 291.] 
+ 
+ 
+Evidence of Tax Fraud 
+Evidence of tax fraud may be direct or circumstantial. Direct evidence includes testimony that 
+tends to prove or disprove a fact in issue directly, such as eyewitness testimony or a 
+Tax Fraud  Financial Transactions   
+1.1412                           2011 Fraud Examiners Manual  
+confession. Circumstantial evidence is evidence that tends to prove or disprove facts in issue 
+indirectly, by inference. 
+ 
+Direct Evidence 
+Certain circumstances constitute direct evidence of tax fraud, including: 
+• Unexplained bank deposits (e.g., using bank accounts in another person’s name or a 
+fictitious name) 
+• Submission of false documents (e.g., if a taxpayer claims medical deductions but cannot 
+provide any evidence that he had seen or paid the bills) 
+• False explanations for prior conduct (e.g., the taxpayer destroyed his company’s cash 
+register tapes, which were the only records for the company’s sales) 
+• Participation in an illegal business (e.g., over several years, a taxpayer who ran an illegal 
+lottery substantially underreported his income) 
+• False claims of extra withholding exemptions (e.g., a taxpayer claimed 50 withholding 
+exemptions, but could not substantiate that he was entitled to claim them) 
+ 
+Circumstantial Evidence 
+Certain circumstances constitute circumstantial evidence of tax fraud, including: 
+• Illicit income, which can be proved by showing that the subject’s assets or expenditures 
+for a given period exceed that which can be accounted for from admitted sources of 
+income  
+• Income in excess of deposits (e.g., audits of service industry people in Texas led to 
+assessments of several thousand dollars in back taxas and penalties) 
+ 
+ 
+Other Legal Elements of Tax Fraud 
+Embezzled Money is immediately income to the embezzler even though he is under a duty 
+to repay it, but upon repayment, the embezzler gets a deduction for the repayment. For 
+example, in Stephens v. Commissioner, 905 F2d 667 (7th Cir. 1990), a taxpayer embezzled about 
+$530,000 from his employer (Raytheon) and recorded it on his tax return as “consulting 
+income.” The taxpayer was ordered to pay restitution to Raytheon plus interest. He was 
+allowed deductions under IRS Code section 165 (c)(2), relating to ordinary and necessary 
+business expense for the restitution amount in the year paid. But the court did not allow a 
+deduction for the interest. 
+  
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1501 
+
+
+
+:
+
+
+tax fraud
+introduct
+the most import distinct in determin whether an individu or compani ha
+commit tax fraud is whether the taxfil parti intention file an improp tax return
+with the feder govern the intent of the parti to wrongli file a return will determin
+the differ between tax avoid and tax evas the us court have determin evas
+to be unlaw while avoid ha been deem law
+the definit of tax fraud is
+the actual intent wrongdo and the intent requir to evad a tax believ to
+be ow fraud impli bad faith intent wrongdo and a sinist motiv it is
+never imput or presum and the court will not sustain find of fraud upon
+circumst which at most creat onli suspicion
+thi definit tell us that a fals tax return is consid fraudul if the respons parti
+ha knowingli attempt to defraud the govern of ow tax dollar in us v
+pomponio the court further refin the scope of tax fraud by state that will is a
+voluntari intent violat of a known legal duti that doe not requir proof of an evil
+motiv it can thu be accept that accident fals tax return do not qualifi as fraudul
+return
+fraudul intent
+an exampl of fraudul intent is the file of a tax return in the wrong district when the
+taxpay a cpa knew or had reason to know the proper district spencer d lorton v
+commission tc memo 1954872
+object reason good faith misunderstand of the law
+good faith or a legitim misunderstand of the requir of the law negat
+will us v cheek 931 f2d 1206 7th cir 1991 affd 111 us 604 1991 the case
+held howev that the belief that tax ar in violat of the constitut wa not
+object reason so as to negat will
+114 merten law of feder incom taxat sec 5521 page 64 1991 rev ross glove co v commission 60 tc 569 1973
+2 us v pomponio 429 us 10 1976 762 ustc 9695
+tax fraud financi transact
+11402 2011 fraud examin manual
+will can be infer from conduct such as
+keep a doubl set of book not to be confus with gaap and tax record
+make fals entri or alter or creat fals invoic or document
+destruct of book or record
+conceal of asset illicit incom
+cover up sourc of incom
+avoid make record usual in transact of the kind
+conduct that mislead or conceal spi v us 317 us 492 1943
+hallmark badg of fraud
+the court recogn certain hallmark or badg of tax fraud some of these ar
+misrepresent of fact
+artific
+devic to hide incom or asset
+doubl set of book
+secret bank account under fals name
+overstat of deduct
+fictiti transact
+fraud is more than a mistak in judgment
+the failur to know and understand the rule of first in first out fifo is not suffici
+to sustain a fraud charg smith v commission 40 bta 387 supplement opinion 42 bta
+505 there wa no indic in thi case that the taxpay misrepres ani fact withheld
+ani inform or resist or prevent the discoveri by the commission of ani
+pertin data
+fals versu fraudul
+definit of fals
+when fals appear by itself and not coupl with a penalti or the creation of an
+offens then fals mean incorrect eliot nation bank v gill 218 f 600 1st cir 1914
+fals mean it is incorrect but made in good faith nation bank of commerc in st loui
+v allen 223 f 472 8th cir 1915
+statement of opinion as distinguish from those of materi fact ar not fraud ohio brass
+co v commission 17 bta 1199 1929
+financi transact tax fraud
+2011 fraud examin manual 11403
+corpor fraud
+corpor fraud depend on the intent of the corpor offic auerbach shoe co v
+commission 21 tc 191 1st cir 1953
+exampl
+charg airlin ticket to air freight a fals representat ion coupl with the failur to
+credit refund for redeem ticket to the corp orat wa suffici to render the corpor
+return fraudul krep v commission 42 tc 660 1964 affd 351 f2d 1
+2nd cir 1965
+exampl
+a 40 percent shareholderoffic of a corpor embezzl corpor fund for her
+person us then falsifi corpor record the corpor incorrectli claim deduct
+base on the fals record the fraud claim wa not sustain against the corpor
+botwinik bro of mass inc v commission 39 tc 988 1963
+burden of proof
+in juli of 1998 presid clinton sign in to law the ir restructur and reform act
+thi act made sweep chang in the structur and procedur of the ir on of the
+most import chang involv the shift of the burden of proof in civil case the gener
+rule prior to the act wa that the taxpay bear the burden of proof at trial in civil
+proceed the statutori notic of defici 90dai letter enjoi the presumpt of
+correct the presumpt of correct in favor of the ir requir the taxpay to go
+forward with prima faci evid to disprov the irss determin after successfulli
+rebut the presumpt of correct taxpay had the burden of prove their case by
+at least a preponder of the evid
+howev the rule establish under the reform act is that ir ha the burden of proof in
+civil court proceed on incom gift estat or generationskip tax liabil with
+respect to factual issu that ar relev to determin the taxpay tax liabil provid
+the taxpay 1 provid credibl evid on the factual issu 2 keep record and back
+up item as present requir under the code and regul and 3 cooper with ir
+in regard to reason request for meet interview wit inform and
+document corpor trust and partnership with a net worth in excess of 7 million
+continu to bear the burden of proof the senat financ committe report state that if
+tax fraud financi transact
+11404 2011 fraud examin manual
+the taxpay evid and the irss evid ar equal balanc the court should find
+that the ir ha not sustain it burden of proof
+fraud
+even under the old ir code there wa no presumpt of correct afford the ir
+when fraud wa involv therefor the ir had the burden of prove fraud armstrong v
+us 354 f2d 274 173 ctcl 944 1965 if the fraud claim is for more than on year the
+ir must show that some part of the underpay wa due to fraud for each year that the
+penalti is ad profession servic v commission 79 tc 888 1982 first there must be a
+defici and second the defici must be substanti us v mors 491 f2d 149 1st cir
+1974 substanti is a question of fact us v mark 282 f supp 546 d or 1966 affd
+391 f2d 210 9th cir 1968 cert deni 39 3 us 839 1968 there is controversi about
+whether substanti appli to the unpaid tax or to unreport incom fraud penalti
+surviv the death of the taxpay
+civil versu crimin
+although the burden of prove fraud is on the ir the primari determin of whether the
+ir pursu a civil rather than a crimin fraud charg is what it believ it can prove there
+also might be budgetari and staf constraint that might dictat whether a suit is pursu
+civilli or crimin
+the differ between civil and crimin in the view of the ir is that a civil case never
+ripen into a crime and crimin offens involv behavior too insidi to be dispos of
+on a civil basi failur to cooper might rais a civil case to a crime becaus it might
+demonstr will intent
+taxpay penalti
+taxpay with a tax defici mai be subject to civil or crimin penalti the primari
+determin of whether the ir pursu a civil rather than a crimin fraud charg is what it
+believ it can prove
+from the irss perspect a civil case never ripen into a crime but a crimin offens
+involv behavior too insidi to be dispos of on a civil basi
+financi transact tax fraud
+2011 fraud examin manual 11405
+civil taxpay penalti
+neglig titl 26 usc 6662
+if a taxpay underpay is attribut to neglig or on of the other reason
+specifi in thi section the govern mai impos an accuracyrel penalti neglig
+is strongli indic where inform is omit on tax return or deduct ar too
+good to be true
+if guilti under thi law the govern will impos a penalti base on a percentag of the
+underpay in the case of neglig or disregard of rule and regul substanti
+understat of incom tax substanti valuat misstat substanti overstat
+of pension liabil or substanti understat of estat or gift tax valuat
+frivol return titl 26 usc 6702
+if a taxpay file a frivol return on that is incorrect on it face or on that doe not
+contain enough inform to determin the tax liabil the govern mai impos a
+separ 5000 civil penalti an exampl of a frivol return is on written in roman
+numer rather than arab number
+fraud titl 26 usc 6663
+if a taxpay underpay is attribut to fraud the govern mai impos a penalti
+of 75 percent of the portion of the underpay that is attribut to fraud if howev
+the taxpay is success in prove that a portion of the underpay is not the result of
+fraud that portion might still be subject to the neglig penalti
+crimin taxpay penalti
+tax evas titl 26 usc 7201
+if a taxpay is found guilti of tax evas which is the intent evas of tax
+oblig the govern shall impos a penalti of not more than 100000 500000 in
+the case of a corpor andor imprison for not more than five year
+there ar three element to the crime of tax evas
+will
+a will and posit attempt to evad or defeat the tax in ani manner lift a misdemeanor to
+a feloni spi v unit state 317 us 492 1943 a consist pattern of not report or
+tax fraud financi transact
+11406 2011 fraud examin manual
+underreport incom is suffici to infer will unit state v stone 770 f2d 842 9th
+cir 1985
+exist of a substanti defici
+there must be a defici and that defici must be substanti lawn v unit state 355
+us 339 mors supra therefor there must also be a tax liabil 7202 but see mark
+supra
+affirm act
+there must be an affirm act constitut an evas or attempt evas of tax
+oblig but to be found guilti of thi feloni on need onli to attempt to evad the tax
+make a fals return tax perjuri titl 26 usc 72061
+thi crime occur when a taxpay us fals or mislead inform on hi tax return
+the element of thi crime includ all of the follow
+the defend made and subscrib a return statement or other document that wa
+fals with regard to a materi matter
+the return statement or other document contain a written declar that it wa
+made under the penalti of perjuri
+the defend did not believ the return statement or other document wa true and
+correct as to everi materi matter
+the defend fals subscrib to the return statement or other document willfulli
+with the specif intent to violat the law
+failur to file and pai titl 26 usc 7203
+thi statut make it a crime to willfulli do ani of the follow
+fail to pai ani tax or estim tax
+fail to file a return
+fail to keep requir record
+fail to suppli ani requir inform
+a person convict under thi statut can be fine up to 25000 100000 in the case of a
+corpor or sentenc to up to on year in prison in addit to ani other penalti
+financi transact tax fraud
+2011 fraud examin manual 11407
+conspiraci to defraud the unit state titl 18 usc 371
+the crimin tax statut of the intern revenu code do not includ a statut for the crime
+of conspiraci but tax conspiraci can be prosecut under the gener conspiraci statut
+under section 371 of titl 18 us code section 371 make it illeg for two or more
+person to agre to commit an offens against the unit state or to defraud ani feder
+agenc conspiraci in tax case usual involv a conspiraci to commit tax evas or to file
+fals tax return
+tax prepar penalti
+aid and abet understat of taxpay liabil titl 26 usc 6701
+the code impos a civil penalti on ani person who aid or assist or procur or advis
+in the prepar or present of ani taxrel document if the person know or ha
+reason to believ that the document will be us in connect with a materi tax matter
+and will result in the understat of a taxpay liabil the penalti mai also be
+impos if the person act through an employe or agent by order or caus hi
+subordin to act or by fail to prevent hi subordin from act
+the amount of the penalti is 1000 for each un derstat taxpay 10000 in the case of a
+corpor client return per period
+understat of taxpay liabil titl 26 usc 6694
+section 6694 provid a penalti against a return prepar for underst a taxpay
+liabil due to an unreason posit understat mean ani understat of the
+net amount payabl or ani overstat of the net amount refund
+section 6694 provid that unless there is a reason caus for an understat and the
+prepar act in good faith a penalti of the greater of 1 000 or 50 percent of the incom
+deriv or to be deriv by the tax return prepar will be assess against ani prepar
+who knew or reason should have known that a posit taken on a return wa
+not realist possibl of be sustain on it merit
+not disclos under usc 6662d2bii
+a frivol posit
+tax fraud financi transact
+11408 2011 fraud examin manual
+addition the penalti increas to the greater of 5000 or 50 percent of the incom
+deriv or to be deriv if the understat is will or reckless
+crimin fraud titl 26 usc 72062
+aid or assist in the prepar of a fals return
+section 72062 make it a crime to aid or assist in the prepar of a fals return under
+thi section a person is guilti of a feloni and mai be subject to a fine of up to 100000 or
+500000 in the case of a corpor andor imprison of up to three year
+thi feloni is without regard to the knowledg or consent of the person author or
+requir to present the return affidavit claim or other document
+exampl
+rudolf desouza presid and owner of de fens contractor rd intern wa
+indict on 86 count of conspiraci convers of govern properti monei launder
+file fals incom tax return and submit fals claim and fals statement the
+indict is the result of a threeandhalfyear investig by the naval investig
+servic and the crimin investig divis of the ir
+accord to the indict desouza conspir to inflat the expens of rdi and hi
+own incom in an effort to imped the ir as part of the conspiraci he allegedli file
+fals corpor incom tax return for rdi that claim deduct for salari that were
+never paid the indict sai that rdi us an accrual method of account and
+deduct as a busi expens salari that accru to desouza dure a fiveyear period
+the contractor claim 490000 in such deduct the accru salari not paid were
+enter on rdi book as loan from an offic
+in addit the indict alleg that rdi employe purchas comput equip from
+a vendor and then leas it at desouza dire ction to bk trade at an inflat price
+consequ rdi bill the govern for the cost of the fictiti leas and did not give
+the comput to the govern even though it had been reimburs for them moreov
+the indict accus desouza of claim thousand of dollar worth of person expens
+as busi expens specif he is alleg to have charg the govern for trip to
+disneyland disnei world and canada
+financi transact tax fraud
+2011 fraud examin manual 11409
+the monei launder charg involv alleg that desouza us sever bank account
+to conduct approxim 900000 in financi transact design to hide corpor
+asset from the bankruptci court specif desouza is accus of have caus
+numer transfer of monei from rdi acco unt to those of gm technolog these
+transfer had the effect of reduc the balanc of fund in rdi account further desouza
+did not disclos to the bankruptci court the exist of gm technolog hi famili
+control interest or the monei transfer fr om rdi the indict also alleg that
+desouza transfer monei from rdi to anoth familyown compani while the
+bankruptci petit wa pend
+whistleblow program
+as part of the tax relief and health care act of 2006 congress amend section 7623 of
+the intern revenu code to greatli enhanc the irss whistleblow program under thi
+amend taxpay have a statutori right to reward of 1530 percent of the collect
+proce tax penalti and interest for inform that lead directli to an
+administr or judici action by the treasuri depart it also provid for up to 10
+percent of the collect proce for less substanti inform congress also
+elimin ani cap on the potenti amount of recoveri by the inform
+to manag thi revis reward program congress establish the ir whistleblow offic
+wbo thi wa done in respons to complaint that the previou reward program had
+not been effect manag
+on import note befor you pick up the phone to call the ir these 1530 percent
+recoveri do not appli to smaller individu case these larger percentag reward do not
+appli to report against individu who make less than 200000 and whose tax liabil is
+less than 2 million the rule do appli to all other individu and entiti
+defens for tax fraud
+no defici
+to prove innoc of tax fraud matter the defend can establish that there is no
+defici if there is no defici there is no tax liabil
+tax fraud financi transact
+11410 2011 fraud examin manual
+lack of will
+a lack of will reduc the defend culpabl for fraud
+avoid not evas
+in contrast to tax fraud which refer to illeg method of tax reduct tax avoid refer
+to a legal mean of lower on tax bill through legitim deduct credit and
+shelter thu establish that the taxpay wa engag in tax avoid and not evas
+provid a defens to tax fraud
+object reason posit
+a defend might also claim that he took an object reason posit with respect
+to the tax return
+claim of right doctrin
+in the unit state a taxpay must recogn incom if he receiv the incom even if he
+doe not have a fix right to the incom thu a taxpay mai seek to evad pai their
+incom tax by claim that he doe not have an unrestrict right to the monei at issu
+other defens
+mental ill
+thi defens is applic in regard to the time the return wa prepar
+incompet bookkeep
+josei v commission tc memo 1956153 in on case a bookkeep file the tax return
+by put it in a file cabinet rather than send it to the intern revenu servic
+ignor of the law
+rutana v commission tc memo 1986336 a court ha held that consider must be
+given to the intellig and expertis of the taxpay
+innoc spous
+innoc spous relief permit a spous to avoid tax liabil under thi doctrin a spous
+mai be excus from tax liabil for tax or tax penalti if a joint tax return wa file and the
+spous can establish the follow element
+the underpay of tax is due to unreport incom or disallow deduct that ar
+attribut to the other spous
+financi transact tax fraud
+2011 fraud examin manual 11411
+the spous did not know and did not have reason to know of the fact surround
+the underpay of tax
+addition innoc spous mai obtain relief for erron incom item
+relianc on an attornei or account
+on can assert a defens of relianc on an attornei or account if all of the follow
+condit ar met
+the relianc is specif
+the expert is qualifi which is determin by a fact and circumst test
+full disclosur to the expert is requir
+inappropri defens
+some defens ar inappropri thei includ those discuss below
+amend or delinqu return
+a taxpay will receiv no mitig of penalti for file an amend or delinqu return
+badaracco v commission 464 us 386 1984
+statut of limit
+the threeyear statut of limit doe not appli to tax fraud usc 6501c
+death of taxpay
+fraud penalti surviv the death of the taxpay helver v mitchel 303 us 391 1938
+rev rule 73 293 19732 cb 413
+bankruptci
+tax ow as a result of file fraudul feder incom tax return ar not discharg in
+bankruptci 11 usc sec 523a1c in re harri 59 br 545 bcdc va 1986 rev
+rule 8799 19872 cb 291
+evid of tax fraud
+evid of tax fraud mai be direct or circumstanti direct evid includ testimoni that
+tend to prove or disprov a fact in issu directli such as eyewit testimoni or a
+tax fraud financi transact
+11412 2011 fraud examin manual
+confess circumstanti evid is evid that tend to prove or disprov fact in issu
+indirectli by infer
+direct evid
+certain circumst constitut direct evid of tax fraud includ
+unexplain bank deposit eg us bank account in anoth person name or a
+fictiti name
+submiss of fals document eg if a taxpay claim medic deduct but cannot
+provid ani evid that he had seen or paid the bill
+fals explan for prior conduct eg the taxpay destroi hi compani cash
+regist tape which were the onli record for the compani sale
+particip in an illeg busi eg over sever year a taxpay who ran an illeg
+lotteri substanti underreport hi incom
+fals claim of extra withhold exempt eg a taxpay claim 50 withhold
+exempt but could not substanti that he wa entitl to claim them
+circumstanti evid
+certain circumst constitut circumstanti evid of tax fraud includ
+illicit incom which can be prove by show that the subject asset or expenditur
+for a given period exce that which can be account for from admit sourc of
+incom
+incom in excess of deposit eg audit of servic industri peopl in texa led to
+assess of sever thousand dollar in back taxa and penalti
+other legal element of tax fraud
+embezzl monei is immedi incom to the embezzl even though he is under a duti
+to repai it but upon repay the embezzl get a deduct for the repay for
+exampl in stephen v commission 905 f2d 667 7th cir 1990 a taxpay embezzl about
+530000 from hi employ raytheon and record it on hi tax return as consult
+incom the taxpay wa order to pai restitut to raytheon plu interest he wa
+allow deduct under ir code section 165 c2 relat to ordinari and necessari
+busi expens for the restitut amount in the year paid but the court did not allow a
+deduct for the interest
+financi transact secur fraud
+2011 fraud examin manual 11501

@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=White-collar criminals are more likely to be fined than to face prison terms as punishment.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=More often than prison, the punishment of choice for white-collar criminals is the imposition of fines. Whereas six percent of the “common criminals" in one notable survey received fines, all of the antitrust violators did.See page(s) 4.413 in the Fraud Examiner's Manual

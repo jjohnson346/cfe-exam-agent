@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+computer                               2
+to                                     2
+other                                  1
+can                                    1
+state                                  1
+states                                 1
+used                                   2
+are                                    2
+federal                                2
+basic                                  1
+crimes                                 2
+laws                                   5
+be                                     1
+united                                 1
+prosecute                              2
+into                                   1
+the                                    3
+in                                     1
+tech                                   1
+and                                    3
+many                                   1
+frauds                                 1
+that                                   1
+there                                  1
+divided                                1
+high                                   1
+
+Totals:                     26        41

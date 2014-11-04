@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Prior convictions of a defendant usually are NOT introduced at trial unless the defendant takes the stand.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If a defendant testifies in his or her own behalf in a criminal trial, he or she is subject to cross-examination, just like any other witness, and the prosecution may impeach his or her credibility by showing prior convictions. This usually is a death blow to the defense, and is the reason that many defendants do not testify.See page(s) 2.519 in the Fraud Examiner's Manual

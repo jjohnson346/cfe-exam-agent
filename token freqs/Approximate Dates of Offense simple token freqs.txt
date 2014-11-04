@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+about                                  1
+must                                   1
+of                                     3
+confessor                              1
+are                                    1
+unless                                 1
+dates                                  4
+if                                     1
+approximately                          1
+exact                                  1
+any                                    1
+approximate                            1
+offense                                3
+be                                     1
+is                                     1
+the                                    6
+should                                 1
+unsure                                 1
+that                                   1
+effect                                 1
+word                                   1
+known                                  1
+language                               1
+included                               1
+precede                                1
+
+Totals:                     26        38

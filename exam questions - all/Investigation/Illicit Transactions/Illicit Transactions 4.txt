@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=In computing comparative net worth using the asset method, all assets held by the subject should be valued at cost.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When computing comparative net worth using the asset method, CFEs should:•	Establish the starting point, generally the year before the target's illegal activities begin. This will be referred to as “year one’’ in the following computations.•	Compute the target's net worth at the end of year one. Identify all assets held by the subject, valued at cost, including assets acquired earlier, and the amount of current liabilities.•	Compute the difference between the value of the assets and the liabilities to determine the target s net worth at year one, or “opening net worth.�?See page(s) 3.840 in the Fraud Examiner's Manual

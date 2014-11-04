@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The board of directors does not necessarily have to be knowledgeable about the implementation of an organization's compliance and ethics program if they have delegated that responsibility to a compliance officer
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Guidelines require that the company’s "governing authority" shall be knowledgeable about the content and operation of the compliance and ethics program and shall exercise reasonable oversight with respect to the implementation and effectiveness of the program. “Governing authority" is defined as the board of directors, or if the organization does not have a board of directors, the highest-level governing body of the organization. Although day-to-day operations of the program can be delegated, the duties outlined above cannot.See page(s) 4.709 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Generally, computer forensics investigations involve four phases. Which of the following is NOT one of those phases?
+
+Options=Opening the hard drive phase | Reporting and testifying phase | Image-acquisition phase | Seizure phase
+
+CorrectResponse=0
+
+Explanation=Computer forensic examiners generally agree that investigations typically involve four phases: the seizure phase: the image-acquisition phase, the analysis phase, and the reporting and testifying phase.See page(s) 3.715 in the Fraud Examiner's Manual

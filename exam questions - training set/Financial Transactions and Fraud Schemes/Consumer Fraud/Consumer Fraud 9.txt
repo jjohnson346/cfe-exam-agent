@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Utility company, health club, and school records contain information that an identity thief can use to steal someone's identity.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Utility company, health club, and school records all carry identifiers that a fraudster can make use of. The Social Security number is used on many applications and is a key to obtaining other information.

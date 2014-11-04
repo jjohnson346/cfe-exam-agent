@@ -1,0 +1,1100 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Securities Fraud Schemes
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Securities Fraud Schemes 
+ 
+Securities Fraud by Registered Persons and Entities 
+Frequent allegations of misconduct by registered individuals or firms fall into one or more of 
+the following areas: 
+ 
+Churning  
+Churning is the excessive trading of a customer account for the purpose of generating 
+commissions. For securities and options there is a commission charged when the trade is 
+entered into and when the trade is liquidated. Commodity futures have a round-turn 
+commission scheme meaning that the commission covers both the purchase and sale. 
+Commissions on commodity futures are not charged until the trade is closed out.  
+ 
+DEFINITION OF EXCESSIVE TRADING ACTIVITY 
+The Commodity Futures Trading Commission (CFTC) states that to establish churning, a 
+complainant must prove that (1) the broker controlled the trading in an account; (2) the 
+volume of trading was excessive in light of the complainant’s trading objectives; and (3) the 
+broker acted with intent to defraud or with reckless disregard for the customer’s interests. 
+Hinch v. Commonwealth Financial Group, Inc.,  [1996-1998 Transfer Binder] Comm. Fut. L. Rep. 
+27,056 at 45,020 (CFTC May 13, 1997); Johnson v. Don Charles & Company, [1990-1992 
+Transfer Binder] Comm. Fut. L. Rep.  (CCH) 24,986 (CFTC Jan. 16, 1991).  
+ 
+Two questions arise in churning cases: who had trading authorization over the account and 
+when did the account activity and commissions become excessive. If customers are making 
+their own trades, they cannot possibly accuse the broker of churning their accounts. But 
+brokers or some other people have trading authority (discretion) over the accounts and 
+participate in the commissions, a conflict of interest exists and there may be predication for a 
+charge of churning.  
+Securities Fraud  Financial Transactions   
+1.1532                           2011 Fraud Examiners Manual  
+Many of the regulatory definitions of churning are inherently vague and offer little practical 
+guidance. Customer trading objectives are simple: make profits and avoid losses. The best 
+test to detect churning is to calculate the amount of monthly gross commissions generated 
+from the account as a percentage of the average account balance. For example, an active 
+trading account with an average daily balance of $10,000 might reasonably generate (on the 
+high side) about $500 dollars (5 percent) in gross commissions in an average month. Gross 
+commissions would probably increase in months when the markets are experiencing  
+greater price volatility and trading has been successful. The CFE should look for the 
+following indicators: 
+• Did the broker have trading authority (discretion) over the account? 
+• Have gross commissions increased during periods of decreasing market volatility?  
+• Are the gross commissions for the month in question substantially higher than the 
+average monthly gross commissions for this account? 
+• Are gross commissions greater than 5 percent of the average account balance? 
+• Did commissions consume realized profits and/or aggravate losses?  
+• Were numerous trades entered into and exited over short time periods for small gains or 
+losses? 
+• Was the trading unit (number of contracts per trade) too large for this account 
+(overtrading)? 
+• Were the trades made for this account recommended by the research department of the 
+brokerage and disseminated to other customers?  
+• Did unauthorized trading take place?    
+ 
+If the broker had discretionary authority to trade the account and any of the above factors 
+are true, further investigation for churning is warranted. Finally, brokerage supervisors are 
+required to perform due diligence to ensure that churning and other trading abuses do  
+not occur.  
+ 
+Unsuitable Recommendations 
+Securities representatives are required to “know their customer.” They must take into 
+account the financial profile and level of sophistication of the individual investor. Placing 
+clients into unsuitable securities, for example recommending high-risk options to a senior 
+citizen with limited assets, is prohibited. 
+ 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1533 
+ EXAMPLE 
+ 
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+Litigation Release No. 20438 / January 24, 2008 
+People of the State of California v. Daniel William Heath, Denis Timothy O’Brien, John 
+William Heath, and Larre Jaye Schlarmann, Superior Court of California, County 
+of Riverside, Case No. RIF117775 
+ 
+The Securities and Exchange Commission announced that on January 10 and 11, 2008 
+a jury in Riverside County, California, convicted three men on felony charges involving a 
+fraudulent scheme that was the subject of a prior enforcement action brought by the 
+Commission, which raised more than $187 mill ion from over 1,800 victims, mostly senior 
+citizens and the elderly. Convicted for their role in the scheme were Daniel William Heath, 
+51, formerly of Chino Hills, California, Denis Timothy O’Brien, 53, formerly of Yorba 
+Linda, California, and Heath’s father, John William Heath, 81, formerly of Covina, 
+California. Daniel Heath was found guilty on 400 felony counts, O’Brien on 70 felony 
+counts, and John Heath on 52 felony counts. In 2004, the Riverside County District 
+Attorney’s Office arrested and charged them with committing securities fraud, elder abuse, 
+grand theft, money laundering, tax fraud, and conspiracy, all under California law. Larre 
+Jaye Schlarmann, 52, formerly of Carlsbad, California, was also arrested, pleaded guilty to 
+securities fraud, elder abuse, money laundering, and tax fraud, and was sentenced to serve 
+15 years in state prison. Daniel Heath faces a maximum of 117 years in state prison, 
+O’Brien 37 years, and John Heath 28 years.  
+ 
+In April 2004, the Commission filed a compla int against Daniel Heath and his entities, 
+and O’Brien, alleging they fraudulently in duced elderly investors through “free lunch” 
+seminars to invest in “secured” notes that paid a “guaranteed” return. The court appointed 
+a permanent receiver over the Heath entities. Final judgments of permanent injunction and 
+other relief were entered against Heath and O’Brien enjoining them from violating the anti-fraud, 
+securities registration, and broker-dealer registrations provisions of the federal 
+securities laws for their role in the scheme.  The judgments ordered Heath and O’Brien to 
+disgorge to the receiver their ill-gotten gains plus prejudgment interest. The Commission then 
+instituted administrative proceedings against Heath and O’Brien barring them from 
+association with a broker or dealer. Heath and O’Brien consented to the entry of the final 
+judgments and administrative orders with out admitting or denying the Commission’s 
+allegations and findings. In September 2007, the Commission instituted administrative 
+Securities Fraud  Financial Transactions   
+1.1534                           2011 Fraud Examiners Manual  
+proceedings against Martin S. Duffield, 52, of West Covina, California, and Raul A. 
+Jordan, 52, of Pasadena, California, for viol ating the anti-fraud, securities registration, 
+and broker-dealer registrations provisions for their role in the scheme. Duffield was barred 
+association with any broker or dealer and Jordan was barred from association with any 
+broker or dealer, with the right to reapply for association after five (5) years to the 
+appropriate self-regulatory organization, or if there is none, to the Commission. Duffield 
+and Jordan were ordered to disgorge ill-gotten gains to the receiver plus prejudgment interest. 
+Duffield and Jordan consented to  the entry of the orders with out admitting or denying the 
+Commission's findings. 
+ 
+Administration of the court-order receivership over the Heath entities will continue. 
+ 
+Failure to Supervise  
+Broker-dealer firms are responsible for oversight of their representatives to ensure adherence 
+to Rules of Fair Practice and state and federal laws. 
+ 
+Failure to Report Client Complaints 
+Investment and advisory firms are required to report client complaints to the SEC, yet may 
+neglect to do so, fearing an investigation. 
+ 
+Parking
+Parking is the practice of selling a security to one party with the understanding that the seller 
+will repurchase the security later at an agreed-upon price. This scheme allows circumvention 
+of ownership reporting requirements and net capital rules. 
+ 
+Front Running — Dual Trading 
+Front running an order is a type of insider trading. Although it usually will not cause a direct 
+loss to the customer, it could, and is a violation of exchange rules. Front running involves 
+the use for profit of the privileged knowledge of a customer’s order to buy or sell a large 
+amount of a commodity, options, or security that, because of its size, is likely to move the 
+market. Back office personnel could have knowledge of such an order and buy or sell for 
+their own account ahead of the customer. Because order fillers on the exchange floor are 
+allowed to trade for their own account and fill orders for customers (dual trading) they also 
+have an opportunity.  
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1535 
+Consider the following scenario: an order is received from a hedger to sell 500 December 
+cattle futures contracts at the market. If the order filler knows that current market conditions 
+are such that this order will move the market significantly lower, it would be very tempting 
+to sell a few contracts for himself and profit from the market decline when he executes the 
+customer order. Order fillers are required to ope rate in the best interest of the customer and 
+“work” the order to get the best price. Howev er, once the trader has established his short 
+position, it is really in his own interest to drive the market as far down as possible when 
+executing the 500 contract sell order. In this situation, the order filler may not give his best 
+efforts and could hurt the customer. 
+ 
+The vast majority of exchange members would never put themselves ahead of a customer, 
+but it has happened in the past. In today’s markets with sophisticated surveillance, exchange 
+investigative personnel actively guard against this type of activity. The time stamps on the 
+customer order, time and sales reports from the exchange, and the account activity of the 
+trader would have to be obtained and examined to substantiate any front running allegation. 
+This information is easily obtainable. Brokerage compliance personnel should easily detect 
+front running by back office personnel by periodically checking their account activity or not 
+allowing them to open trading accounts at all. 
+ 
+Bucket Shops 
+Bucket shops are fraudulent enterprises that masquerade as licensed brokerage operations. A 
+true retail futures brokerage would be required to be registered and meet certain financial 
+thresholds. Salespeople would be required to pass the Series Three National Commodity 
+Futures Examination and all other personnel would need to be registered as Associated 
+Persons. There may also be other registration or licensing requirements depending on the 
+type of business that the brokerage engages in. (See 
+www.nfa.futures.org/registration/who_has_to_r egister.asp). Bucket shops bypass all these 
+requirements and operate like legitimate businesses. 
+ 
+The solution to finding whether or not an individual or firm is legitimate is easy. Go to: 
+www.nfa.futures.org/basicnet for commodity futures brokers and firms 
+www.finra.org/Investors/ToolsCalculators/BrokerCheck/index.htm for stock, options and 
+futures brokers and firms 
+www.sec.gov/investor/brokers.htm for securities brokers and firms 
+ 
+Securities Fraud  Financial Transactions   
+1.1536                           2011 Fraud Examiners Manual  
+You will be able to search files for any firm or individual authorized to do securities, options 
+or futures business, their license status and any complaints brought against them. If a firm or 
+professional does not appear on one of these pages they are not legitimate.  
+ 
+Excessive Markups 
+Excessive markups involve selling at a marked-up price or buying at a marked-down price 
+not reasonably related to the prevailing market price. 
+ 
+Misuse or Misappropriation of Customer’s Securities 
+This scheme may involve outright theft or using the securities in improper ways, for 
+example, as collateral for loans or to conduct other securities transactions (e.g., margin 
+trading). 
+ 
+Unauthorized Trading 
+Unless otherwise agreed to in writing, only the customer named on the trading account can 
+authorize trades. Any losses accruing to the customer account because of an unauthorized 
+trade, whether made by mistake or intentionally, are the responsibility of the brokerage firm 
+and must be reimbursed to the customer. Gains from unauthorized trades also belong to the 
+customer. This prevents brokers from executing unauthorized trades, claiming error, and 
+taking any profits that may occur. The only entries to the brokerage company error account 
+should be losses; profits in an error account should be investigated. Customers must report 
+unauthorized trades to the management of the brokerage firm as soon as detected. Silence 
+would imply ratification of the transaction. 
+ 
+Systematically Trading Accounts Against Each Other 
+Systematically trading accounts against each other usually occurs between investment pools. 
+The scheme involves someone with trading authority simultaneously establishing opposite 
+market positions in two separate investment pools that he controls. A person who has 
+trading authority and other controls over the pool may receive a monthly management fee of 
+about 1.5 percent of the pool balance, a percentage of any of the pool’s gains, perhaps 10 
+percent per quarter, and a portion or all of the commissions on trades. The conflicts of 
+interest in such a business arrangement are obvious. It is in the interest of the pool operator 
+to maintain account balances a high as possible, trade the accounts for commissions and to 
+have at least some profits. 
+ 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1537 
+Assume that a pool operator established two limited partnerships for trading commodities, 
+that he was general partner of both partnerships, and that he was to be compensated as 
+previously described. The general partner, who has trading authority, then buys 100 
+contracts of December Corn for Pool A, establishing a long market position, and at the 
+same time sells 100 contracts of December Corn for Pool B, establishing a short market 
+position. (If these transactions occurred in the same account they would offset each other.) 
+ 
+Over time one of the pools will suffer a loss while the other will enjoy a gain. For the general 
+partner things haven’t changed much. The amount of equity in the two pools combined will 
+be about the same with the loss in one pool being offset by the gain in the other pool. This 
+preserves the basis for the general partner’s management fee while the profitable pool will 
+owe him a percentage of the gain.  
+ 
+In the long run, one of the investment pools will dissolve because of trading losses while the 
+other will enjoy handsome profits. This then takes on some of the characteristics of a Ponzi 
+scheme when the pool operator creates a new limited partnership, advertises his success 
+from the results of the profitable pool, and participants in the successful pool tell their 
+friends. The trick here is to ensure that participants in the original two pools don’t know 
+each other.  
+ 
+Supervisors and compliance managers of brokerages should be on the lookout for this type 
+of activity. They can do little, however, if the general partner maintains the trading accounts 
+at two separate brokerages. The CFE will need to acquire the trading records of all pools run 
+by a pool operator in order to establish if such a trading scheme has occurred. The 
+comparison of market positions over time is simple and the information is easily obtainable 
+from the brokerages once it is discovered who they are.  
+ 
+The general partner would have committed a material breach of contract in that he failed in 
+his fiduciary duties to the limited partners. There are also numerous violations of federal 
+regulatory and SRO rules that prohibit this type of trading scheme. 
+ 
+Block Order Schemes 
+When several different accounts are combined on the same order it is called a block order. 
+For example, a broker may wish to execute the same buy order for 10 of his customers. To 
+accomplish this he may write an order ticket such as: “For account 12345 and others, buy 
+100 contracts of December cattle at the market.” The justification for this type of order is 
+Securities Fraud  Financial Transactions   
+1.1538                           2011 Fraud Examiners Manual  
+that time is of the essence. If the market is volatile, customers will need their order executed 
+as quickly as possible. Writing 10 separate order tickets for each account and calling the 
+orders to the trading floor separately would take too much time. By combining all the orders 
+on one ticket and providing one account number, time is saved and the other account 
+numbers and quantities can be added to the order ticket when the executed order (fill) is 
+reported back to the broker. 
+ 
+The potential for abuse is obvious. Prices move rapidly in volatile markets and the accounts 
+the order has been executed for have not all been made known. The time from when the 
+block order is placed and when the fill is reported back to the broker can take many minutes. 
+On some busy days it can take an hour or more. During this time the market is moving and 
+the executed order will either be in a loss or gain position by the time it is reported back. 
+This is where fraud can occur. 
+ 
+For example, assume that 100 contracts of December cattle were bought at 80.00 (cents per 
+pound) and that when the fill is reported thirty minutes later the market is at 81.00. This 
+favorable change in market price (100 points) is equivalent to $400 profit per contract or 
+$40,000 profit for the entire order. The broker then gives out the “other” account numbers 
+to the floor clerk to complete the order with 55 contracts going to a favored account and 5 
+contracts going to the other nine accounts. The broker then immediately sells 55 December 
+cattle contracts for the favored account realizing a $22,000 profit. Of course, if the market 
+had moved lower by the time the fill was reported the favored account would not have been 
+added to the order or the loss taken would have been minimal.  
+ 
+Proving such a scheme is easy. The CFE will need to obtain 1) the monthly brokerage recap 
+of the salesman, 2) copies of all order tickets written by the salesman for the time period in 
+question (brokerages must keep the hard copies for several years), 3) a copy of the telephone 
+audio recording of the placement of the order and reported fill from the trading floor (all 
+calls to the trading floor are recorded and archived), and 4) copies of the “daily equity 
+statements” provided to the salesman by the brokerage firm detailing account numbers, 
+account names, open positions and the cash value of all accounts represented by the 
+salesman. A block order scheme will easily be detected by analyzing this information. 
+ 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1539 
+Market Manipulation 
+Market manipulation consists of a series of transactions designed to artificially raise or lower 
+price or to give the appearance of trading activity for the purpose of inducing others to buy 
+or sell. This is especially common with penny stocks or micro-cap stocks. Penny stocks are 
+low-priced (usually less than $5), speculative securities that are registered but do not meet the 
+listing requirements of an exchange. Micro-cap just means the stocks of companies with very 
+small market capitalization. Once the price has been artificially inflated the stock is sold to 
+unsuspecting victims. 
+ 
+Insider Trading 
+Under the legal theory of misappropriation, the use of non-public information to profit from 
+purchase or sale of securities may violate the insiders’ fiduciary duty to their company or 
+shareholders. Although not all courts accept this argument, criminal charges are not unusual 
+in cases of this nature. Ivan Boesky and Michael Milken, indicted for insider trading in the 
+late 1980s, both served time in prison.  
+  
+EXAMPLE 
+A California psychotherapist, pleaded guilty to securities fraud after federal officials accused 
+him of making a nice profit after trading on some inside information he learned during a 
+counseling session with a client. 
+ 
+According to federal officials, the psychotherapist bought common stock in Lockheed Corp. 
+hours after his client — a company executive undergoing marriage counseling — mentioned 
+the secret and ultimately successful merger talks between Lockheed and Martin Marietta 
+Corp. 
+ 
+Under a legal doctrine known as the “misappropriation theory,” he was deemed to have 
+violated securities laws because he stole information from a person who had assumed his 
+trust and discretion, and then used the in formation to trade on the stock market. 
+ 
+PUBLIC DISCLOSURE REQUIREMENTS 
+In 2000, the SEC adopted rules concerning public disclosure of information. Regulation FD 
+(Fair Disclosure) was promulgated to eliminate “selective” disclosure by companies to 
+certain groups (such as brokers and analysts) before such information was made available to 
+the public. 
+ 
+Securities Fraud  Financial Transactions   
+1.1540                           2011 Fraud Examiners Manual  
+The Regulation states that if a company, or someone on its behalf, discloses “material non-
+ public” information to a particular group (primarily market securities professionals), it must 
+make a public disclosure of the information. The timing of the disclosure depends on 
+whether the disclosure was intentional or inadvertent. If the disclosure was intentional, then 
+company must make the disclosure simultaneously. If the disclosure was inadvertent, then 
+the company must make the disclosure “promptly.” 
+ 
+The SEC provides three options for proper dissemination: 
+1. File the information with the SEC on a Form 8-K.  
+2. Disseminate the information through a press release.  
+3. Disseminate the information through any other method or combination of methods that 
+are reasonably designed to provide broad public distribution of the information, such as 
+an announcement at a press conference open to the public.  
+ 
+Regulation FD only applies to material communications between company executives or 
+authorized spokespersons to analysts, institutional investors, and holders of the company’s 
+stock. Regulation FD also applies only to senior executives and excludes communications 
+with the media, with ratings agencies, and with customers conducted in the normal course of 
+business. Information is considered “material” if there is a substantial likelihood that a 
+reasonable shareholder would consider it important in making an investment decision, or if 
+it would have significantly altered the total mix of information available. 
+ 
+INSIDER TRADING RULES 
+Rule 10b-5, promulgated under section 10(b) of the Securities Exchange Act of 1934, 
+prohibits any false statements or other fraudulent activity in connection with the purchase or 
+sale of any security, including insider trading. It provides the main basis for the SEC to 
+investigate possible security fraud claims. Rule 10b-5 contains civil and administrative 
+remedies (such as the power to initiate actions to enjoin further violations) enforced by the 
+SEC as well as criminal sanctions enforced by the Department of Justice. Specifically, rule 
+10b-5 makes it unlawful for anybody to directly or indirectly conduct operations of business 
+that would deceive another person concerning transactions involving securities. Although 
+the text of the Securities Exchange Act does not provide for a private cause of action for 
+rule 10b-5 violations, the Supreme Court found an implied right, which typically requires the 
+plaintiff to prove (1) a material misstatement or omission; (2) intentional fraud or deceit by 
+the party charged with the violation; (3) relia nce on the misrepresentation or omission in the 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1541 
+purchase or sale of a security; and (4) econom ic loss caused by the purchase or sale of  
+the security.  
+ 
+However, 10b-5 claims do have certain limitations. For example, there is no private cause of 
+action against those who merely aided and abetted the primary violators, and in Stoneridge 
+Investment Partners, LLC v. Scientific-Atlanta, Inc., the Court held that there is no private cause 
+of action against third parties who neither make alleged misstatements nor engage in 
+deceptive conduct on which investors relied. 
+ 
+In Stoneridge, a group of investors in Charter Communications, Inc. accused two Charter 
+suppliers of entering in a business scheme with Charter, which allowed Charter to issue 
+fraudulent financial statements. In the alleged scheme, Charter gave its equipment vendor 
+above-normal payments for T.V. set-top boxes and the supplier then gave back the extra 
+payments as advertising fees. Charter then fraudulently accounted the returned payments as 
+revenue. The Court ruled that the Rule 10b-5 does not extend to third parties (aiders or 
+abettors) who do not make alleged misstatements and do not engage in deceptive conduct 
+on which investors relied. There was no basis for finding that the group of investors did not 
+rely on anything the suppliers said or did. The investors could not have relied upon the 
+suppliers’ deceptive acts for two reasons: (1) Charter’s suppliers did not take part in 
+preparing or distributing the fraudulent statements; and (2) the suppliers did not make any 
+misstatements relied upon by the public or violate any duty to disclose. As a result, the Court 
+held that the group of investors could not show reliance on any of the suppliers’ actions.  
+ 
+The interesting thing about the Stoneridge decision is that it cannot be broadly read to say that 
+secondary actors (lawyers, accountants, and bankers) are free from liability under Rule 10b-5. 
+The Court held that deceptive conduct can provide the basis for securities fraud liability if 
+plaintiffs can establish that they relied on that conduct. Unlike the relationship between the 
+investors and suppliers in Stoneridge, lawyers and accountants often serve as advisers, which 
+could be considered as taking part in activities that investors could rely upon.  
+ 
+The SEC also recently issued Rule 10b5-1 and Rule 10b5-2 to supplement section 10(b) of 
+the Securities Exchange Act of 1934 and Rule 10b-5. Rule 10b5-1 and Rule 10b5-2 deal with 
+unsettled issues that have arisen under Rule 10b-5. 
+ 
+ 
+Securities Fraud  Financial Transactions   
+1.1542                           2011 Fraud Examiners Manual  
+Rule 10b5-1 addresses the issue of when insider trading liability arises in connection with a 
+trader’s “use” or “knowing possession” of mater ial non-public information. Specifically, rule 
+10b5-1 prohibits the purchase or sale of a security “on the basis of” material, non-public 
+information. However, the Rule also sets forth an affirmative defense for traders if they can 
+show that such trades were made pursuant to a preexisting, written 10b5-1 trading plan.  
+ 
+Recently, the SEC indicated that it intends to scrutinize plans contemplated by Rule 10b5-1 
+more critically. This increased scrutiny likely resulted from the publication of a 2006 study by 
+Alan Jagolizer, an assistant professor at the Stanford University Graduate School of 
+Business, which suggested that on average, sales under Rule 10b5-1 plans were generating 
+“abnormal trade returns” and that such plans seemed to outperform the market.  
+ 
+Rule 10b5-2 addresses the issue of when a breach of a family or other non-business 
+relationship may give rise to liability under the misappropriation theory of insider trading. 
+Under the misappropriation theory, as defined by the Supreme Court case in United States v. 
+O’Hagan, 521 U.S. 642 (1997), a person is liable for securities fraud if he: 
+• Misappropriates confidential information, 
+• For the purpose of securities trading, 
+• In breach of a duty owed to the sources, and 
+• Trades based on the misappropriated information. 
+ 
+Rule 10b5-2 seeks to provide further guidance regarding what types of relationships create a 
+“duty” not to use the information received. For example, if a person agrees to keep the 
+information in confidence, a duty of trust or confidence will exist. Similarly, if two persons 
+have a “history, pattern, or practice of sharing confidences,” such that the recipient 
+reasonably should know that the other expects that the inside information will remain 
+confidential, a duty of trust or confidence will exist. 
+ 
+Subsection (b)(3) also creates a presumption that any person who receives inside information 
+from his spouse, parent, child, or sibling will owe that other person a duty of trust or 
+confidence. 
+ 
+Disclosures (Misrepresentations and Omissions) 
+Securities laws require that the investor receive full and fair disclosure of all material 
+information. Giving the investor or prospective investor false or misleading information is 
+clearly a misrepresentation. An omission occurs when the issuer, in connection with the 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1543 
+offer or sale of securities, omits a material fact necessary in order to make the statements 
+made not misleading. Making misrepresentations to the investor or failing to inform the 
+investor of certain facts (omissions) is a violation of both state and federal law only if the 
+misrepresentation or omission is material.  
+ 
+It is important to show the materiality of misrepresentations or omissions. Even if 
+representations made, for example in a prospectus, are clearly false, it is still necessary to 
+show materiality. In a 1988 decision, the Supreme Court stated that a fact is material “if its 
+disclosure would change the total mix of facts available and there is a substantial likelihood 
+that a reasonable shareholder would consider the facts important to her investment 
+decision.”  See, Basic Inc. v Levinson, 485 U.S. 224 (1988). 
+ 
+As a general rule, the examiner or investigator needs to determine the answer to the 
+following question: Would a reasonable investor wish to know this information in order to 
+make an informed decision? If the answer is “yes,” then this information, or the lack thereof, 
+has a high likelihood of being deemed material. (If an actual investor acted based on the 
+misrepresentation, that clearly strengthens the case, but it is not essential that the false or 
+misleading statement influenced an investor, merely that a reasonable investor could have 
+been so influenced.) 
+ 
+The issuer of a biotechnology stock falsely claiming that the Food and Drug Administration 
+has approved their new cancer drug would be an example of a misrepresentation that is 
+clearly material to any prospective investor. Similarly, if the Chairman of the company had 
+recently been released from prison after serving time for securities fraud, this fact should 
+feature prominently in any offering document. Failure to disclose this fact would obviously 
+constitute the omission of a material fact.    
+ 
+The SEC has adopted a so-called “safe harbor” provision whereby certain forward-looking 
+statements and projections will not be held to be fraudulent. Issuers will not be held liable if 
+these type of statements were believed true at the time and were accompanied by appropriate 
+cautionary language. 
+   
+Note also that federal and state laws usually prohibit the promoter from stating that the 
+offering has government approval of some kind. For example, even if the offering is 
+registered, the promoter cannot state that it is “SEC approved.” 
+ 
+Securities Fraud  Financial Transactions   
+1.1544                           2011 Fraud Examiners Manual  
+Securities Fraud by Unregistered Persons 
+In conducting investigations or examinations relating to alleged violations of the securities 
+laws, the fraud examiner should always begin by seeking the answer to these crucial 
+questions:  
+• Is the security registered? If not, does it meet an exemption? 
+• Is the person offering or selling the security registered? If not, is the transaction exempt? 
+• Are there indicators of fraud present? 
+ 
+Exemptions 
+Examples of exemptions under the 1933 Act include securities issued by the U.S. 
+Government and those issued by state or local governments. Registration is also not required 
+for limited offerings of securities issued pursuant to Regulation D of the Act. 
+ 
+Issuance of securities undertaken pursuant to Rules 501 through 508 of “Reg D” is fairly 
+complex, but for these purposes the essential elements are as follows:   
+• Rule 501 defines “accredited investors” to include banks, insurance companies, certain 
+charities, and individuals with a net worth exceeding $1 million or annual income of 
+more than $200,000 ($300,000 including spouse).  
+• Rule 504 allows an issuer to sell up to $1 million in securities in a 12-month period to 
+any number of purchasers. Rule 504 also allows general solicitation and advertising. 
+• Rule 505 increases the limit to $5 million, reduces the maximum number of non-
+ accredited investors to 35, and does not allow general solicitation or advertising. 
+• Rule 506 allows the issuance of any amount of securities to any number of accredited 
+and up to 35 non-accredited but sophisticated investors. Again no general solicitation or 
+advertising is allowed.  
+ 
+The most relied upon exemption from registration where we are likely to see fraud is the so-called
+“private placement” exemption. In most states, this exemption is available where the 
+security is sold to a small number of people and there is no general solicitation. In Florida, 
+for example, there must be no more than 35 non-accredited investors in a 12-month period, 
+they must receive full and fair disclosure of material information, and there is a prohibition 
+on general solicitation or advertising. It is common to find that one or more of the 
+conditions necessary for the claimed exemption are not present and/or that the offering  
+is fraudulent. 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1545 
+Backdating Stock Options 
+As a supplement to salary, companies frequently offer employees stock options, which grant 
+the recipient the privilege to purchase a share of the company’s stock at a future date for a 
+specific price, called the strike price. A strike price is the value of a share at a particular date. 
+Generally, the strike price is set at the price of the underlying stock on the day the option is 
+granted; therefore the option becomes valuable only with future increases in the stock price.  
+ 
+In this way, companies grant stock options as an incentive for employees to boost company 
+performance and thus raise the stock price. However, the practice of backdating stock 
+options gives the employee a chance to profit by purchasing stock at past low prices, 
+providing an immediate payoff. Backdating stock options occurs when a company alters the 
+date of the grant to a time when the stock was trading at a lower price in the interest of 
+making the option instantly valuable and further increasing the employee’s gain if the stock 
+price continues to rise.  
+ 
+For example, on June 1, 2008, Company XYZ grants its CEO a stock option that provides 
+the executive the right to purchase 100 shares of XYZ stock on January 1, 2009 for the 
+strike price. Per its usual policy, the strike price is set at the price of the company stock on 
+the date of the option grant. On June 1, 2008  (the grant date), XYZ stock was trading at $40 
+per share. Therefore, if the stock price increases to $45 per share by January 1, 2009, the 
+CEO could exercise the option and purchase the shares for $40 per share, then sell them 
+immediately on the market for $45 per share, resulting in a gain of $5 per share. However, 
+the company has recently experienced a dramatic increase in its share price. On May 24, 
+2008, the stock was trading for $15 per share.  To provide the CEO with an opportunity to 
+exploit the increase in share price, even though it has already occurred, the company chooses 
+to backdate the stock options to make it appear as if they were granted on May 24, 2008. 
+Because the strike price is set at the price of the stock on the option grant date, the strike 
+price is effectively changed to $15 per share. As a result, the CEO now has the option to buy 
+100 shares of XYZ stock on January 1, 2009 for $15 per share. Thus, the CEO has 
+immediately gained $25 per share (the difference between the stock price on the actual grant 
+date of June 1 and the stated grant date of May 24) based solely on the manipulation of the 
+grant date used.  
+ 
+Backdating stock options came to the attention of the U.S. Securities and Exchange 
+Commission (SEC) when academic research revealed a pattern of stock prices descending 
+just prior to many reported dates of option grants, then ascending immediately afterwards. 
+Securities Fraud  Financial Transactions   
+1.1546                           2011 Fraud Examiners Manual  
+Backdating is not necessarily illegal, but can be if not handled appropriately. In order to be 
+legal, the practice must be explicitly reported to shareholders and the government. Failure to 
+do so may constitute securities fraud.  
+ 
+In August of 2002, certain provisions laid out under the Sarbanes-Oxley Act took effect, 
+requiring companies to report stock options grants within two days. These rules greatly 
+reduced the time companies had to choose a favorable grant date; companies were 
+previously allowed weeks or months before they were required to report stock options 
+grants. Consequently, the apparent pattern of backdating nearly disappeared around this 
+time. However, reports of actual practices in stock options and the recorded data remain 
+inconsistent in many cases because not all companies adhere to Sarbanes-Oxley.  
+ 
+Additionally, the revelation of the prevalence of backdating has caused concern that 
+companies may not have recorded and disclosed the option grants on the financial 
+statements in an accurate manner. In response to the issue, the Public Company Accounting 
+Oversight Board (PCAOB) issued a practice alert to prepare auditors for the possibility of 
+financial misstatements due to backdating stock options. To keep a tight rope on the 
+possibility of this type of illegal activity, auditors should assess the information obtained 
+from the audit to determine the need for further procedures. 
+ 
+ 
+
+
+
+:
+
+
+secur fraud scheme
+secur fraud by regist person and entiti
+frequent alleg of misconduct by regist individu or firm fall into on or more of
+the follow area
+churn
+churn is the excess trade of a custom account for the purpos of gener
+commiss for secur and option there is a commiss charg when the trade is
+enter into and when the trade is liquid commod futur have a roundturn
+commiss scheme mean that the commiss cover both the purchas and sale
+commiss on commod futur ar not charg until the trade is close out
+definit of excess trade activ
+the commod futur trade commiss cftc state that to establish churn a
+complain must prove that 1 the broker control the trade in an account 2 the
+volum of trade wa excess in light of the complain trade object and 3 the
+broker act with intent to defraud or with reckless disregard for the custom interest
+hinch v commonwealth financi group inc 19961998 transfer binder comm fut l rep
+27056 at 45020 cftc mai 13 1997 johnson v don charl compani 19901992
+transfer binder comm fut l rep cch 24986 cftc jan 16 1991
+two question aris in churn case who had trade author over the account and
+when did the account activ and commiss becom excess if custom ar make
+their own trade thei cannot possibl accus the broker of churn their account but
+broker or some other peopl have trade author discret over the account and
+particip in the commiss a conflict of interest exist and there mai be predic for a
+charg of churn
+secur fraud financi transact
+11532 2011 fraud examin manual
+mani of the regulatori definit of churn ar inher vagu and offer littl practic
+guidanc custom trade object ar simpl make profit and avoid loss the best
+test to detect churn is to calcul the amount of monthli gross commiss gener
+from the account as a percentag of the averag account balanc for exampl an activ
+trade account with an averag daili balanc of 10000 might reason gener on the
+high side about 500 dollar 5 percent in gross commiss in an averag month gross
+commiss would probabl increas in month when the market ar experienc
+greater price volatil and trade ha been success the cfe should look for the
+follow indic
+did the broker have trade author discret over the account
+have gross commiss increas dure period of decreas market volatil
+ar the gross commiss for the month in question substanti higher than the
+averag monthli gross commiss for thi account
+ar gross commiss greater than 5 percent of the averag account balanc
+did commiss consum realiz profit andor aggrav loss
+were numer trade enter into and exit over short time period for small gain or
+loss
+wa the trade unit number of contract per trade too larg for thi account
+overtrad
+were the trade made for thi account recommend by the research depart of the
+brokerag and dissemin to other custom
+did unauthor trade take place
+if the broker had discretionari author to trade the account and ani of the abov factor
+ar true further investig for churn is warrant final brokerag supervisor ar
+requir to perform due dilig to ensur that churn and other trade abus do
+not occur
+unsuit recommend
+secur repres ar requir to know their custom thei must take into
+account the financi profil and level of sophist of the individu investor place
+client into unsuit secur for exampl recommend highrisk option to a senior
+citizen with limit asset is prohibit
+financi transact secur fraud
+2011 fraud examin manual 11533
+exampl
+unit state secur and exchang commiss
+litig releas no 20438 januari 24 2008
+peopl of the state of california v daniel william heath deni timothi obrien john
+william heath and larr jay schlarmann superior court of california counti
+of riversid case no rif117775
+the secur and exchang commiss announc that on januari 10 and 11 2008
+a juri in riversid counti california convict three men on feloni charg involv a
+fraudul scheme that wa the subject of a prior enforc action brought by the
+commiss which rais more than 187 mill ion from over 1800 victim mostli senior
+citizen and the elderli convict for their role in the scheme were daniel william heath
+51 formerli of chino hill california deni timothi obrien 53 formerli of yorba
+linda california and heath father john william heath 81 formerli of covina
+california daniel heath wa found guilti on 400 feloni count obrien on 70 feloni
+count and john heath on 52 feloni count in 2004 the riversid counti district
+attornei offic arrest and charg them with commit secur fraud elder abus
+grand theft monei launder tax fraud and conspiraci all under california law larr
+jay schlarmann 52 formerli of carlsbad california wa also arrest plead guilti to
+secur fraud elder abus monei launder and tax fraud and wa sentenc to serv
+15 year in state prison daniel heath face a maximum of 117 year in state prison
+obrien 37 year and john heath 28 year
+in april 2004 the commiss file a compla int against daniel heath and hi entiti
+and obrien alleg thei fraudul in duce elderli investor through free lunch
+seminar to invest in secur note that paid a guarante return the court appoint
+a perman receiv over the heath entiti final judgment of perman injunct and
+other relief were enter against heath and obrien enjoin them from violat the antifraud
+secur registr and brokerdeal registr provis of the feder
+secur law for their role in the scheme the judgment order heath and obrien to
+disgorg to the receiv their illgotten gain plu prejudg interest the commiss then
+institut administr proceed against heath and obrien bar them from
+associ with a broker or dealer heath and obrien consent to the entri of the final
+judgment and administr order with out admit or deni the commiss
+alleg and find in septemb 2007 the commiss institut administr
+secur fraud financi transact
+11534 2011 fraud examin manual
+proceed against martin s duffield 52 of west covina california and raul a
+jordan 52 of pasadena california for viol at the antifraud secur registr
+and brokerdeal registr provis for their role in the scheme duffield wa bar
+associ with ani broker or dealer and jordan wa bar from associ with ani
+broker or dealer with the right to reappli for associ after five 5 year to the
+appropri selfregulatori organ or if there is none to the commiss duffield
+and jordan were order to disgorg illgotten gain to the receiv plu prejudg interest
+duffield and jordan consent to the entri of the order with out admit or deni the
+commiss find
+administr of the courtord receivership over the heath entiti will continu
+failur to supervis
+brokerdeal firm ar respons for oversight of their repres to ensur adher
+to rule of fair practic and state and feder law
+failur to report client complaint
+invest and advisori firm ar requir to report client complaint to the sec yet mai
+neglect to do so fear an investig
+park
+park is the practic of sell a secur to on parti with the understand that the seller
+will repurchas the secur later at an agreedupon price thi scheme allow circumvent
+of ownership report requir and net capit rule
+front run dual trade
+front run an order is a type of insid trade although it usual will not caus a direct
+loss to the custom it could and is a violat of exchang rule front run involv
+the us for profit of the privileg knowledg of a custom order to bui or sell a larg
+amount of a commod option or secur that becaus of it size is like to move the
+market back offic personnel could have knowledg of such an order and bui or sell for
+their own account ahead of the custom becaus order filler on the exchang floor ar
+allow to trade for their own account and fill order for custom dual trade thei also
+have an opportun
+financi transact secur fraud
+2011 fraud examin manual 11535
+consid the follow scenario an order is receiv from a hedger to sell 500 decemb
+cattl futur contract at the market if the order filler know that current market condit
+ar such that thi order will move the market significantli lower it would be veri tempt
+to sell a few contract for himself and profit from the market declin when he execut the
+custom order order filler ar requir to op rate in the best interest of the custom and
+work the order to get the best price howev er onc the trader ha establish hi short
+posit it is realli in hi own interest to drive the market as far down as possibl when
+execut the 500 contract sell order in thi situat the order filler mai not give hi best
+effort and could hurt the custom
+the vast major of exchang member would never put themselv ahead of a custom
+but it ha happen in the past in todai market with sophist surveil exchang
+investig personnel activ guard against thi type of activ the time stamp on the
+custom order time and sale report from the exchang and the account activ of the
+trader would have to be obtain and examin to substanti ani front run alleg
+thi inform is easili obtain brokerag complianc personnel should easili detect
+front run by back offic personnel by period check their account activ or not
+allow them to open trade account at all
+bucket shop
+bucket shop ar fraudul enterpris that masquerad as licens brokerag oper a
+true retail futur brokerag would be requir to be regist and meet certain financi
+threshold salespeopl would be requir to pass the seri three nation commod
+futur examin and all other personnel would need to be regist as associ
+person there mai also be other registr or licens requir depend on the
+type of busi that the brokerag engag in see
+wwwnfafuturesorgregistrationwhohastor egisterasp bucket shop bypass all these
+requir and oper like legitim busi
+the solut to find whether or not an individu or firm is legitim is easi go to
+wwwnfafuturesorgbasicnet for commod futur broker and firm
+wwwfinraorginvestorstoolscalculatorsbrokercheckindexhtm for stock option and
+futur broker and firm
+wwwsecgovinvestorbrokershtm for secur broker and firm
+secur fraud financi transact
+11536 2011 fraud examin manual
+you will be abl to search file for ani firm or individu author to do secur option
+or futur busi their licens statu and ani complaint brought against them if a firm or
+profession doe not appear on on of these page thei ar not legitim
+excess markup
+excess markup involv sell at a markedup price or bui at a markeddown price
+not reason relat to the prevail market price
+misus or misappropri of custom secur
+thi scheme mai involv outright theft or us the secur in improp wai for
+exampl as collater for loan or to conduct other secur transact eg margin
+trade
+unauthor trade
+unless otherwis agre to in write onli the custom name on the trade account can
+author trade ani loss accru to the custom account becaus of an unauthor
+trade whether made by mistak or intention ar the respons of the brokerag firm
+and must be reimburs to the custom gain from unauthor trade also belong to the
+custom thi prevent broker from execut unauthor trade claim error and
+take ani profit that mai occur the onli entri to the brokerag compani error account
+should be loss profit in an error account should be investig custom must report
+unauthor trade to the manag of the brokerag firm as soon as detect silenc
+would impli ratif of the transact
+systemat trade account against each other
+systemat trade account against each other usual occur between invest pool
+the scheme involv someon with trade author simultan establish opposit
+market posit in two separ invest pool that he control a person who ha
+trade author and other control over the pool mai receiv a monthli manag fee of
+about 15 percent of the pool balanc a percentag of ani of the pool gain perhap 10
+percent per quarter and a portion or all of the commiss on trade the conflict of
+interest in such a busi arrang ar obviou it is in the interest of the pool oper
+to maintain account balanc a high as possibl trade the account for commiss and to
+have at least some profit
+financi transact secur fraud
+2011 fraud examin manual 11537
+assum that a pool oper establish two limit partnership for trade commod
+that he wa gener partner of both partnership and that he wa to be compens as
+previous describ the gener partner who ha trade author then bui 100
+contract of decemb corn for pool a establish a long market posit and at the
+same time sell 100 contract of decemb corn for pool b establish a short market
+posit if these transact occur in the same account thei would offset each other
+over time on of the pool will suffer a loss while the other will enjoi a gain for the gener
+partner thing havent chang much the amount of equiti in the two pool combin will
+be about the same with the loss in on pool be offset by the gain in the other pool thi
+preserv the basi for the gener partner manag fee while the profit pool will
+ow him a percentag of the gain
+in the long run on of the invest pool will dissolv becaus of trade loss while the
+other will enjoi handsom profit thi then take on some of the characterist of a ponzi
+scheme when the pool oper creat a new limit partnership advertis hi success
+from the result of the profit pool and particip in the success pool tell their
+friend the trick here is to ensur that particip in the origin two pool dont know
+each other
+supervisor and complianc manag of brokerag should be on the lookout for thi type
+of activ thei can do littl howev if the gener partner maintain the trade account
+at two separ brokerag the cfe will need to acquir the trade record of all pool run
+by a pool oper in order to establish if such a trade scheme ha occur the
+comparison of market posit over time is simpl and the inform is easili obtain
+from the brokerag onc it is discov who thei ar
+the gener partner would have commit a materi breach of contract in that he fail in
+hi fiduciari duti to the limit partner there ar also numer violat of feder
+regulatori and sro rule that prohibit thi type of trade scheme
+block order scheme
+when sever differ account ar combin on the same order it is call a block order
+for exampl a broker mai wish to execut the same bui order for 10 of hi custom to
+accomplish thi he mai write an order ticket such as for account 12345 and other bui
+100 contract of decemb cattl at the market the justif for thi type of order is
+secur fraud financi transact
+11538 2011 fraud examin manual
+that time is of the essenc if the market is volatil custom will need their order execut
+as quickli as possibl write 10 separ order ticket for each account and call the
+order to the trade floor separ would take too much time by combin all the order
+on on ticket and provid on account number time is save and the other account
+number and quantiti can be ad to the order ticket when the execut order fill is
+report back to the broker
+the potenti for abus is obviou price move rapidli in volatil market and the account
+the order ha been execut for have not all been made known the time from when the
+block order is place and when the fill is report back to the broker can take mani minut
+on some busi dai it can take an hour or more dure thi time the market is move and
+the execut order will either be in a loss or gain posit by the time it is report back
+thi is where fraud can occur
+for exampl assum that 100 contract of decemb cattl were bought at 8000 cent per
+pound and that when the fill is report thirti minut later the market is at 8100 thi
+favor chang in market price 100 point is equival to 400 profit per contract or
+40000 profit for the entir order the broker then give out the other account number
+to the floor clerk to complet the order with 55 contract go to a favor account and 5
+contract go to the other nine account the broker then immedi sell 55 decemb
+cattl contract for the favor account realiz a 22000 profit of cours if the market
+had move lower by the time the fill wa report the favor account would not have been
+ad to the order or the loss taken would have been minim
+prove such a scheme is easi the cfe will need to obtain 1 the monthli brokerag recap
+of the salesman 2 copi of all order ticket written by the salesman for the time period in
+question brokerag must keep the hard copi for sever year 3 a copi of the telephon
+audio record of the placement of the order and report fill from the trade floor all
+call to the trade floor ar record and archiv and 4 copi of the daili equiti
+statement provid to the salesman by the brokerag firm detail account number
+account name open posit and the cash valu of all account repres by the
+salesman a block order scheme will easili be detect by analyz thi inform
+financi transact secur fraud
+2011 fraud examin manual 11539
+market manipul
+market manipul consist of a seri of transact design to artifici rais or lower
+price or to give the appear of trade activ for the purpos of induc other to bui
+or sell thi is especi common with penni stock or microcap stock penni stock ar
+lowpric usual less than 5 specul secur that ar regist but do not meet the
+list requir of an exchang microcap just mean the stock of compani with veri
+small market capit onc the price ha been artifici inflat the stock is sold to
+unsuspect victim
+insid trade
+under the legal theori of misappropri the us of nonpubl inform to profit from
+purchas or sale of secur mai violat the insid fiduciari duti to their compani or
+sharehold although not all court accept thi argument crimin charg ar not unusu
+in case of thi natur ivan boeski and michael milken indict for insid trade in the
+late 1980 both serv time in prison
+exampl
+a california psychotherapist plead guilti to secur fraud after feder offici accus
+him of make a nice profit after trade on some insid inform he learn dure a
+counsel session with a client
+accord to feder offici the psychotherapist bought common stock in lockhe corp
+hour after hi client a compani execut undergo marriag counsel mention
+the secret and ultim success merger talk between lockhe and martin marietta
+corp
+under a legal doctrin known as the misappropri theori he wa deem to have
+violat secur law becaus he stole inform from a person who had assum hi
+trust and discret and then us the in format to trade on the stock market
+public disclosur requir
+in 2000 the sec adopt rule concern public disclosur of inform regul fd
+fair disclosur wa promulg to elimin select disclosur by compani to
+certain group such as broker and analyst befor such inform wa made avail to
+the public
+secur fraud financi transact
+11540 2011 fraud examin manual
+the regul state that if a compani or someon on it behalf disclos materi non
+public inform to a particular group primarili market secur profession it must
+make a public disclosur of the inform the time of the disclosur depend on
+whether the disclosur wa intent or inadvert if the disclosur wa intent then
+compani must make the disclosur simultan if the disclosur wa inadvert then
+the compani must make the disclosur promptli
+the sec provid three option for proper dissemin
+1 file the inform with the sec on a form 8k
+2 dissemin the inform through a press releas
+3 dissemin the inform through ani other method or combin of method that
+ar reason design to provid broad public distribut of the inform such as
+an announc at a press confer open to the public
+regul fd onli appli to materi commun between compani execut or
+author spokesperson to analyst institut investor and holder of the compani
+stock regul fd also appli onli to senior execut and exclud commun
+with the media with rate agenc and with custom conduct in the normal cours of
+busi inform is consid materi if there is a substanti likelihood that a
+reason sharehold would consid it import in make an invest decis or if
+it would have significantli alter the total mix of inform avail
+insid trade rule
+rule 10b5 promulg under section 10b of the secur exchang act of 1934
+prohibit ani fals statement or other fraudul activ in connect with the purchas or
+sale of ani secur includ insid trade it provid the main basi for the sec to
+investig possibl secur fraud claim rule 10b5 contain civil and administr
+remedi such as the power to initi action to enjoin further violat enforc by the
+sec as well as crimin sanction enforc by the depart of justic specif rule
+10b5 make it unlaw for anybodi to directli or indirectli conduct oper of busi
+that would deceiv anoth person concern transact involv secur although
+the text of the secur exchang act doe not provid for a privat caus of action for
+rule 10b5 violat the suprem court found an impli right which typic requir the
+plaintiff to prove 1 a materi misstat or omiss 2 intent fraud or deceit by
+the parti charg with the violat 3 relia nce on the misrepresent or omiss in the
+financi transact secur fraud
+2011 fraud examin manual 11541
+purchas or sale of a secur and 4 econom ic loss caus by the purchas or sale of
+the secur
+howev 10b5 claim do have certain limit for exampl there is no privat caus of
+action against those who mere aid and abet the primari violat and in stoneridg
+invest partner llc v scientificatlanta inc the court held that there is no privat caus
+of action against third parti who neither make alleg misstat nor engag in
+decept conduct on which investor reli
+in stoneridg a group of investor in charter commun inc accus two charter
+supplier of enter in a busi scheme with charter which allow charter to issu
+fraudul financi statement in the alleg scheme charter gave it equip vendor
+abovenorm payment for tv settop box and the supplier then gave back the extra
+payment as advertis fee charter then fraudul account the return payment as
+revenu the court rule that the rule 10b5 doe not extend to third parti aider or
+abettor who do not make alleg misstat and do not engag in decept conduct
+on which investor reli there wa no basi for find that the group of investor did not
+reli on anyth the supplier said or did the investor could not have reli upon the
+supplier decept act for two reason 1 charter supplier did not take part in
+prepar or distribut the fraudul statement and 2 the supplier did not make ani
+misstat reli upon by the public or violat ani duti to disclos as a result the court
+held that the group of investor could not show relianc on ani of the supplier action
+the interest thing about the stoneridg decis is that it cannot be broadli read to sai that
+secondari actor lawyer account and banker ar free from liabil under rule 10b5
+the court held that decept conduct can provid the basi for secur fraud liabil if
+plaintiff can establish that thei reli on that conduct unlik the relationship between the
+investor and supplier in stoneridg lawyer and account often serv as advis which
+could be consid as take part in activ that investor could reli upon
+the sec also recent issu rule 10b51 and rule 10b52 to supplement section 10b of
+the secur exchang act of 1934 and rule 10b5 rule 10b51 and rule 10b52 deal with
+unsettl issu that have arisen under rule 10b5
+secur fraud financi transact
+11542 2011 fraud examin manual
+rule 10b51 address the issu of when insid trade liabil aris in connect with a
+trader us or know possess of mater ial nonpubl inform specif rule
+10b51 prohibit the purchas or sale of a secur on the basi of materi nonpubl
+inform howev the rule also set forth an affirm defens for trader if thei can
+show that such trade were made pursuant to a preexist written 10b51 trade plan
+recent the sec indic that it intend to scrutin plan contempl by rule 10b51
+more critic thi increas scrutini like result from the public of a 2006 studi by
+alan jagol an assist professor at the stanford univers graduat school of
+busi which suggest that on averag sale under rule 10b51 plan were gener
+abnorm trade return and that such plan seem to outperform the market
+rule 10b52 address the issu of when a breach of a famili or other nonbusi
+relationship mai give rise to liabil under the misappropri theori of insid trade
+under the misappropri theori as defin by the suprem court case in unit state v
+ohagan 521 us 642 1997 a person is liabl for secur fraud if he
+misappropri confidenti inform
+for the purpos of secur trade
+in breach of a duti ow to the sourc and
+trade base on the misappropri inform
+rule 10b52 seek to provid further guidanc regard what type of relationship creat a
+duti not to us the inform receiv for exampl if a person agre to keep the
+inform in confid a duti of trust or confid will exist similarli if two person
+have a histori pattern or practic of share confid such that the recipi
+reason should know that the other expect that the insid inform will remain
+confidenti a duti of trust or confid will exist
+subsect b3 also creat a presumpt that ani person who receiv insid inform
+from hi spous parent child or sibl will ow that other person a duti of trust or
+confid
+disclosur misrepresent and omiss
+secur law requir that the investor receiv full and fair disclosur of all materi
+inform give the investor or prospect investor fals or mislead inform is
+clearli a misrepresent an omiss occur when the issuer in connect with the
+financi transact secur fraud
+2011 fraud examin manual 11543
+offer or sale of secur omit a materi fact necessari in order to make the statement
+made not mislead make misrepresent to the investor or fail to inform the
+investor of certain fact omiss is a violat of both state and feder law onli if the
+misrepresent or omiss is materi
+it is import to show the materi of misrepresent or omiss even if
+represent made for exampl in a prospectu ar clearli fals it is still necessari to
+show materi in a 1988 decis the suprem court state that a fact is materi if it
+disclosur would chang the total mix of fact avail and there is a substanti likelihood
+that a reason sharehold would consid the fact import to her invest
+decis see basic inc v levinson 485 us 224 1988
+as a gener rule the examin or investig need to determin the answer to the
+follow question would a reason investor wish to know thi inform in order to
+make an inform decis if the answer is ye then thi inform or the lack thereof
+ha a high likelihood of be deem materi if an actual investor act base on the
+misrepresent that clearli strengthen the case but it is not essenti that the fals or
+mislead statement influenc an investor mere that a reason investor could have
+been so influenc
+the issuer of a biotechnolog stock fals claim that the food and drug administr
+ha approv their new cancer drug would be an exampl of a misrepresent that is
+clearli materi to ani prospect investor similarli if the chairman of the compani had
+recent been releas from prison after serv time for secur fraud thi fact should
+featur promin in ani offer document failur to disclos thi fact would obvious
+constitut the omiss of a materi fact
+the sec ha adopt a socal safe harbor provis wherebi certain forwardlook
+statement and project will not be held to be fraudul issuer will not be held liabl if
+these type of statement were believ true at the time and were accompani by appropri
+cautionari languag
+note also that feder and state law usual prohibit the promot from state that the
+offer ha govern approv of some kind for exampl even if the offer is
+regist the promot cannot state that it is sec approv
+secur fraud financi transact
+11544 2011 fraud examin manual
+secur fraud by unregist person
+in conduct investig or examin relat to alleg violat of the secur
+law the fraud examin should alwai begin by seek the answer to these crucial
+question
+is the secur regist if not doe it meet an exempt
+is the person offer or sell the secur regist if not is the transact exempt
+ar there indic of fraud present
+exempt
+exampl of exempt under the 1933 act includ secur issu by the us
+govern and those issu by state or local govern registr is also not requir
+for limit offer of secur issu pursuant to regul d of the act
+issuanc of secur undertaken pursuant to rule 501 through 508 of reg d is fairli
+complex but for these purpos the essenti element ar as follow
+rule 501 defin accredit investor to includ bank insur compani certain
+chariti and individu with a net worth exceed 1 million or annual incom of
+more than 200000 300000 includ spous
+rule 504 allow an issuer to sell up to 1 million in secur in a 12month period to
+ani number of purchas rule 504 also allow gener solicit and advertis
+rule 505 increas the limit to 5 million reduc the maximum number of non
+accredit investor to 35 and doe not allow gener solicit or advertis
+rule 506 allow the issuanc of ani amount of secur to ani number of accredit
+and up to 35 nonaccredit but sophist investor again no gener solicit or
+advertis is allow
+the most reli upon exempt from registr where we ar like to see fraud is the socal
+privat placement exempt in most state thi exempt is avail where the
+secur is sold to a small number of peopl and there is no gener solicit in florida
+for exampl there must be no more than 35 nonaccredit investor in a 12month period
+thei must receiv full and fair disclosur of materi inform and there is a prohibit
+on gener solicit or advertis it is common to find that on or more of the
+condit necessari for the claim exempt ar not present andor that the offer
+is fraudul
+financi transact secur fraud
+2011 fraud examin manual 11545
+backdat stock option
+as a supplement to salari compani frequent offer employe stock option which grant
+the recipi the privileg to purchas a share of the compani stock at a futur date for a
+specif price call the strike price a strike price is the valu of a share at a particular date
+gener the strike price is set at the price of the underli stock on the dai the option is
+grant therefor the option becom valuabl onli with futur increas in the stock price
+in thi wai compani grant stock option as an incent for employe to boost compani
+perform and thu rais the stock price howev the practic of backdat stock
+option give the employe a chanc to profit by purchas stock at past low price
+provid an immedi payoff backdat stock option occur when a compani alter the
+date of the grant to a time when the stock wa trade at a lower price in the interest of
+make the option instantli valuabl and further increas the employe gain if the stock
+price continu to rise
+for exampl on june 1 2008 compani xyz grant it ceo a stock option that provid
+the execut the right to purchas 100 share of xyz stock on januari 1 2009 for the
+strike price per it usual polici the strike price is set at the price of the compani stock on
+the date of the option grant on june 1 2008 the grant date xyz stock wa trade at 40
+per share therefor if the stock price increas to 45 per share by januari 1 2009 the
+ceo could exercis the option and purchas the share for 40 per share then sell them
+immedi on the market for 45 per share result in a gain of 5 per share howev
+the compani ha recent experienc a dramat increas in it share price on mai 24
+2008 the stock wa trade for 15 per share to provid the ceo with an opportun to
+exploit the increas in share price even though it ha alreadi occur the compani choos
+to backdat the stock option to make it appear as if thei were grant on mai 24 2008
+becaus the strike price is set at the price of the stock on the option grant date the strike
+price is effect chang to 15 per share as a result the ceo now ha the option to bui
+100 share of xyz stock on januari 1 2009 for 15 per share thu the ceo ha
+immedi gain 25 per share the differ between the stock price on the actual grant
+date of june 1 and the state grant date of mai 24 base sole on the manipul of the
+grant date us
+backdat stock option came to the attent of the us secur and exchang
+commiss sec when academ research reveal a pattern of stock price descend
+just prior to mani report date of option grant then ascend immedi afterward
+secur fraud financi transact
+11546 2011 fraud examin manual
+backdat is not necessarili illeg but can be if not handl appropri in order to be
+legal the practic must be explicitli report to sharehold and the govern failur to
+do so mai constitut secur fraud
+in august of 2002 certain provis laid out under the sarbanesoxlei act took effect
+requir compani to report stock option grant within two dai these rule greatli
+reduc the time compani had to choos a favor grant date compani were
+previous allow week or month befor thei were requir to report stock option
+grant consequ the appar pattern of backdat nearli disappear around thi
+time howev report of actual practic in stock option and the record data remain
+inconsist in mani case becaus not all compani adher to sarbanesoxlei
+addition the revel of the preval of backdat ha caus concern that
+compani mai not have record and disclos the option grant on the financi
+statement in an accur manner in respons to the issu the public compani account
+oversight board pcaob issu a practic alert to prepar auditor for the possibl of
+financi misstat due to backdat stock option to keep a tight rope on the
+possibl of thi type of illeg activ auditor should assess the inform obtain
+from the audit to determin the need for further procedur

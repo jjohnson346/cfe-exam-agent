@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Gamma, a Certified Fraud Examiner, was interviewing a bank official. The official told Gamma that only national banks are insured by the Federal Deposit Insurance Corporation. This statement is:
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Federal or state banks or savings associations that apply to be insured by the Federal Deposit Insurance Corporation (FDIC) must submit an application that covers financial history, financial condition, capital structure, management, future earning prospects, convenience to and needs of the community, and consistency of corporate powers. FDIC-insured banks are examined annually by FDIC-insured examiners; FDIC savings associations are examined periodically by FDIC examiners. Each examination includes an appraisal of management, directors, officers, and staff. Inquiries regarding types of records available to the public (including records available under the Freedom of Information Act) should be directed to the appropriate FDIC regional office or to the Office of the Executive Secretary, at (202) 898-3811.See page(s) 3.475 in the Fraud Examiner's Manual

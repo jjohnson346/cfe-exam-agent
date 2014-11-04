@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The type of information available from public record services include:
+
+Options=Education records | Tax liens | Vehicle registration | All of the above
+
+CorrectResponse=3
+
+Explanation=The type of information available from public record services include:•	Credit reports•	Driving records•	County and state criminal convictions•	Workers' compensation records•	Education records•	Professional license records•	Social Security records•	National address recordsSee page(s) 3.457 in the Fraud Examiner's Manual

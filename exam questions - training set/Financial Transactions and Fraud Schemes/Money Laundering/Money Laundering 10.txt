@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The USA PATRIOT Act requires financial institutions to implement programs designed to verify the identity of any person seeking to open an account. These programs are called
+
+Options=Designation of a money laundering compliance officer | Development of internal policies, procedures, and controls to prevent money laundering | Inclusion of a $10,000 limit on all wire transfers | An ongoing training program for awareness in money laundering
+
+CorrectResponse=0
+
+Explanation=Section 352 of the PATRIOT Act requires all financial institutions to establish anti-money laundering programs, which must include, at a minimum: The development of internal policies, procedures, and controls to prevent money laundering. The designation of a money laundering compliance officer. An ongoing training program for awareness of money laundering. An independent audit function to test the programs. See page(s) 1.1616 in the Fraud Examiner?s Manual

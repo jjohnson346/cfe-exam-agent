@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=In the fraud theory approach to fraud examination, it is necessary that the fraud examiner perform ail of the following tasks EXCEPT:
+
+Options=Analyze the available data | Refine and amend the hypothesis | Create a hypothesis | Report hypothesis to management
+
+CorrectResponse=3
+
+Explanation=The fraud theory approach dictates that the fraud examiner: (1) analyze the available data, (2) create a hypothesis, (3) test the hypothesis, and (4) refine and amend the hypothesis. It is not necessary to record or report the theory. Indeed, this theory should not be shared with others. A theory is necessary in complex investigations. It is just that ?a theory.

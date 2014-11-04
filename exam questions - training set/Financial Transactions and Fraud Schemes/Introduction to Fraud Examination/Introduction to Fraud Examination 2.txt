@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=One way fraud is different from many other property crimes is
+
+Options=Fraud is often a crime of violence | Fraud doesn't occur at night | Fraud losses are never covered by insurance	| The perpetrator's identity is often known
+
+CorrectResponse=3
+
+Explanation=The fraud examiner must have the technical ability to understand financial concepts, and the ability to draw inferences from them A unique feature of fraud cases is that, unlike traditional property crimes, the perpetrator?s identity usually is known. In a bank robbery, for example, the issue is not whether a crime was committed, but rather who committed the crime. In fraud cases, the issue usually is not the identity of the culprit, but whether or not the conduct constitutes fraud.

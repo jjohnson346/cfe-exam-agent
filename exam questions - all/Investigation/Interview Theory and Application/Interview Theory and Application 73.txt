@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, certain forces facilitate communications.  ____________________________ refers to rewards motivating a respondent, other than those gained directly from being involved in the interview.
+
+Options=Sympathetic rewards | Cathartic rewards	r | Altruistic rewards | None of the above
+
+CorrectResponse=3
+
+Explanation=Extrinsic rewards are rewards the interviewee receives that are not directly related to the interview experience, and they cause the respondent to see the interview as a means to an end. Extrinsic rewards for interviewees can include money, job advancement, and retention of privileges. What is irrelevant to the interviewer might not be to the respondent. A sensitive interviewer will be able to recognize what extrinsic rewards the respondent receives, if any, from being interviewed.See page(s) 3.212 in the Fraud Examiner's Manual

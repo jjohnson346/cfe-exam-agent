@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following is NOT a type of loan that frequently turns up in corruption and fraud cases?
+
+Options=An actual loan made on favorable terms, such as interest-free | A legitimate loan from a third-party bank, the payments on which are made or guaranteed by the corrupt payer | An actual loan made at market rates | A prior outright payment described as an innocent loan
+
+CorrectResponse=2
+
+Explanation=Three types of loans, purported or actual, frequently turn up in corruption and fraud cases. They are (1) a prior outright payment falsely described as an innocent loan; (2) the recipient receives a legitimate loan, made by a third-party bank or other institution, with the payments being made or guaranteed by the payer (common method in more sophisticated schemes); and (3) the payer extends an actual loan to the recipient, which is to be repaid, but which is made interest free, at favorable terms, or under other circumstances which indicate it was a "thing of value" given and received with corrupt intent.See page(s) 1.715 in the Fraud Examiner's Manual

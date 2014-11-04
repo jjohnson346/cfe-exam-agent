@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Edward Gross and other criminologists have asserted that organizations are inherently:
+
+Options=Criminal | Criminogenic | Exploitative | None of the above
+
+CorrectResponse=1
+
+Explanation=Edward Gross has asserted that all organizations are inherently "criminogenic" (prone to committing crime), but not necessarily criminal Without necessarily meaning to. organizations can invite fraud as a means of obtaining goals. Gross makes this assertion because of the reliance on the "bottom line."See page(s) 4.507 in the Fraud Examiner's Manual

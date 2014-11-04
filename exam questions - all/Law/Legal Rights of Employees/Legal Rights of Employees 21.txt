@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Gray, a private investigator, illegally searches the house of a suspect. He will be found guilty of violating the Fourth Amendment rights of the suspect.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Fourth Amendment requirement only applies to actions by the police or other governmental authorities; searches and seizures conducted by private parties are not regulated, unless they are substantially directed by public officers. The private investigator, however, may be sued civilly for invasion of privacy, etc.See page(s) 2.402-2.403 in the Fraud Examiner's Manual

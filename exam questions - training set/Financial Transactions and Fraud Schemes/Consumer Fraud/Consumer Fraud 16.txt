@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In a telemarketing scam, the person who calls the potential victim and makes the initial pitch is known as the:
+
+Options=Verifier | Fronter | Closer | None of the above
+
+CorrectResponse=1
+
+Explanation=The fronter calls victims and makes the initial pitch. This low-level worker is usually breaking into the business and reads from a script to the prospective customer. Fronters seldom see the merchandise or know the full extent of the operation Keeping fronters in the dark, at least in theory, limits what they can tell investigators and protects them in the event of prosecution.See page(s) 1.1709 in the Fraud Examiner‰??s Manual

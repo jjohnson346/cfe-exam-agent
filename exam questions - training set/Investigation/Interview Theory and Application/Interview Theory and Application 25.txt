@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=During the introductory portion of an interview, the interviewer must state the purpose of the interview in a general way. This is known as:
+
+Options=Providing the introduction | Establishing the interview theme | Establishing rapport | None of the above
+
+CorrectResponse=1
+
+Explanation=The interviewer must state the purpose of the interview in some way prior to the commencement of serious questioning. Otherwise, the respondent may be confused, threatened, or overly cautious. Stating the purpose of the interview is known as establishing the interview theme.See page(s) 3.214 in the Fraud Examiner's Manual

@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+detail                                 1
+depositors                             1
+deposit                                1
+by                                     1
+its                                    1
+where                                  1
+of                                     3
+are                                    2
+e.g                                    1
+holders                                1
+debtors                                1
+bank                                   1
+all                                    1
+safe                                   1
+files                                  2
+important                              1
+the                                    2
+stored                                 1
+customers                              2
+should                                 1
+master                                 2
+and                                    1
+that                                   1
+box                                    1
+records                                1
+maintained                             1
+
+Totals:                     26        33

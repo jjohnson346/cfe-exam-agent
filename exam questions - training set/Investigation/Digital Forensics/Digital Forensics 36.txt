@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Often, it is necessary to examine printers as well as computers for data because printers may contain internal _____________________ that may contain information relevant to a fraud examination.
+
+Options=Phone connections | Network connections | Hard drives | Cartridges
+
+CorrectResponse=2
+
+Explanation=Many printers have internal hard drives that may contain information relevant to a fraud examination. In general, any information sent to and stored by a printer is recoverable unless the printer has overwritten the data.See page(s) 3.706 in the Fraud Examiner's Manual

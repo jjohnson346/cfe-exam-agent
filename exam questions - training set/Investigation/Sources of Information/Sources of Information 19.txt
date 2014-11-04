@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Which of the following directories should be reviewed to obtain information about corporations?
+
+Options=America's Corporate Families | Corporate Yellow Book | Standard and Poor's NetAdvantage | All of the above
+
+CorrectResponse=3
+
+Explanation=Standard and Poor‰??s NetAdvantage is a comprehensive source of business and investment information, offering online access to Standard & Poors independent research, data, and commentary on stocks, bonds, funds, and industries. America's Corporate Families, a three-volume directory published by D, provides complete demographic marketing data on leading U.S., Puerto Rico, and Virgin Island corporations and their subsidiaries, divisions, and major branches. Corporate Yellow Book is a quarterly directory of the people who manage, direct, and shape the largest public and privately held companies in the United States. Published quarterly, it enables subscribers to access corporate leaders, including board members who are taking increased responsibility for corporate decision making and administrative-services professionals.See page(s) 3.458, 3.468, 3.470 in the Fraud Examiner's Manual

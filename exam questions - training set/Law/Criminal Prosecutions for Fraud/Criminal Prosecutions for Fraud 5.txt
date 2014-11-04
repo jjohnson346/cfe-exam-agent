@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In a criminal trial, how many people typically comprise a jury?
+
+Options=Twelve | Nine | Ten | Eleven
+
+CorrectResponse=0
+
+Explanation=Most criminal cases are tried by a jury of 12 v/ith at least two alternates, but the parties may stipulate to a lesser number.See page(s) 2.516 in the Fraud Examiner's Manual

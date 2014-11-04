@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=All of the following are classifications of financial statement fraud EXCEPT:
+
+Options=Improper asset valuations | Improper disclosures | Lapping accounts | Fictitious revenues
+
+CorrectResponse=2
+
+Explanation=The five classifications of financial statement schemes are:•	Fictitious revenues•	Timing differences•	Concealed liabilities and expenses•	Improper disclosures•	Improper asset valuationsSee page(s) 1.309 in the Fraud Examiner's Manual

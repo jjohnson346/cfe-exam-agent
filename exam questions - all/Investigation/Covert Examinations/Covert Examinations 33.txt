@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=A search of which of the following records is the most powerful in locating people?
+
+Options=Voter registration records | Last name | Department of Motor Vehicles records | Credit bureau header
+
+CorrectResponse=3
+
+Explanation=Credit bureau header searches are among the most powerful locator tools, as nearly all people have been involved in some credit activity either under their true names or an assumed (“also known as") name. A last name search can be used if the past address is unknown. This search produces better results if the name is not common; however, if the last name is common, differentiating information should be included in the search. Department of Motor Vehicles (DMV) records used to be good locator tools, but recent restrictions on them have reduced the effectiveness of such searches. In a few states voter registration records are available, but as with DMV records, they may not be updated frequently.See page(s) 3.518 in the Fraud Examiner's Manual

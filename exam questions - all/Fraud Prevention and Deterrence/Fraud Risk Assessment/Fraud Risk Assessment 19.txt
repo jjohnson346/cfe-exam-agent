@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The fraud risk assessment process should be conducted in secret, so that assessment team members can get an accurate picture of what actually occurs in the business.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The fraud risk assessment process should be visible and communicated throughout the business. Employees will be more inclined to participate in the process if they understand why it is being done and what the expected outcomes will be. To that end, sponsors should be strongly encouraged to openly promote the process. The more personalized the communication from the sponsor, the more effective it will be in encouraging employees to participate in the process. Whether it is a video, a town hall meeting, or a companywide e-mail, the communication should be aimed at eliminating any reluctance employees have about participating in the fraud risk assessment process.See page(s) 4.811-4.812 in the Fraud Examiner's Manual

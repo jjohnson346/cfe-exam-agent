@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, one certain type of question is used to test the honest responses of the individual being interviewed. This type of question is called a(n) _________________________ question.
+
+Options=Truthful | Honesty | Deception | None of the above
+
+CorrectResponse=3
+
+Explanation=Assessment questions are those asked when the interviewer has reason to believe the respondent is being deceptive. These are nonaccusatory, hypothetical questions that will allow the interviewer to make a judgment about the honesty of that person's responses.See page(s) 3.203 in the Fraud Examiner's Manual

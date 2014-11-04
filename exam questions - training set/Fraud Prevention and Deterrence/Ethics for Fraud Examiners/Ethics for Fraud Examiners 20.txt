@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Article V of the Certified Fraud Examiner Code of Professional Ethics prohibits Certified Fraud Examiners from expressing opinions on the guilt or innocence of any person or party. The reason for this Article, in part, is to protect the examiner from:
+
+Options=Libel | Slander | Defamation | All of the above
+
+CorrectResponse=3
+
+Explanation=Defamation is composed of the torts of libel and slander. The former are written statements, while the latter is spoken statements. In order to be defamatory, a statement must (1) injure the person's reputation, (2) be communicated orally or in writing to others, (3) cause damages, and (4) be untrue. Expressing opinions regarding the guilt or innocence of any person or party runs the risk of defamation if the person is subsequently not found guilty of the offense.See page(s) 4.1005 in the Fraud Examiner‰??s Manual

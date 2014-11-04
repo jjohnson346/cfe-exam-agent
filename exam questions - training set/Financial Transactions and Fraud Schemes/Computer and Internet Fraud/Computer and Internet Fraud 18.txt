@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Computer biological access verification includes all but which of the following?
+
+Options=Fingerprints | Retina scans | DNA sampling | Voice prints
+
+CorrectResponse=2
+
+Explanation=Biological access verification, long the favorite stuff of movie makers, is now available. This verification technique includes fingerprints, palm prints, voice prints, signatures, and retina scans.See page(s) 1.1840 in the Fraud Examiner's Manual

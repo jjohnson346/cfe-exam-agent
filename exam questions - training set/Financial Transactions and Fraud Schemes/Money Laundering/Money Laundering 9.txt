@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The Office of Foreign Assets Control maintains a list of individuals, governmental entities, companies, and merchant vessels around the world that are known or suspected to engage in illegal activities. Persons or entities on the list are referred to as ___________________________.
+
+Options=Specially Designated Nationals and Blocked Persons (SDNs) | Delineated Asset Tracked Organizations (DATO) | OFAC Terrorist Connection List (TCL) Persons | Prohibited Persons and Entities (PPEs)
+
+CorrectResponse=0
+
+Explanation=The Office of Foreign Assets Control (OFAC) is an office within the Department of the Treasury charged with administering and enforcing U.S. sanction policies against targeted foreign organizations and individuals that sponsor terrorism, and international narcotics traffickers. OFAC maintains a list of individuals, governmental entities, companies, and merchant vessels around the world that are known or suspected to engage in illegal activities. Persons or entities on the list, known as Specially Designated Nationals and Blocked Persons (SDNs), include foreign agents, front organizations, terrorists and terrorist organizations, and drug traffickers.See page(s) 1.1620 in the Fraud Examiner‰??s Manual

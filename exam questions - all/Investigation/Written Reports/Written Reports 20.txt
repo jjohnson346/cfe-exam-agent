@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Reporting the results of fraud examinations is often facilitated through the use of visual aids. A _________________ shows relationships between people, organizations, and events.
+
+Options=Matrix | Link network diagram | Time flow diagram | None of the above
+
+CorrectResponse=1
+
+Explanation=Link networks show the relationships between people, organizations, and events. Different symbols are used to represent different entities: a square can symbolize an organization; a circle, a person; a triangle, an event; and so forth. It doesn’t matter which symbols you use as long as you use them consistently. Confirmed connections between entities can be represented by a solid line or enclosure within another symbol. Speculative or presumed relationships can be indicated by broken lines. To achieve its intended purpose, a graphic should always be clear. Don't cross lines if possible.See page(s) 3.922 in the Fraud Examiner's Manual

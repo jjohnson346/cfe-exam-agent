@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=_________________ rules require parties to disclose certain information before formal discovery begins.
+
+Options=Oral deposition | Prediscovery disclosure | Preemptive liability | Plaintiff counterclaim
+
+CorrectResponse=1
+
+Explanation=Prediscovery disclosure rules require parties to disclose certain information before formal discovery begins, including the disclosure of witnesses‰?? identities, materials that may be used to support claims or defenses, computations of damages, and insurance agreements that may cover the claim.See page(s) 2.603 in the Fraud Examiner's Manual

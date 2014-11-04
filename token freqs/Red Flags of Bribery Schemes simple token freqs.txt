@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+transactions                           1
+can                                    1
+most                                   1
+from                                   1
+through                                1
+honest                                 1
+analysis                               1
+people                                 1
+bribery                                2
+of                                     2
+allegations                            1
+ough                                   1
+are                                    1
+suspect                                1
+detected                               1
+these                                  1
+be                                     1
+with                                   1
+flags                                  2
+thr                                    1
+schemes                                2
+coworkers                              1
+or                                     2
+disgruntled                            1
+evaluated                              1
+the                                    2
+and                                    1
+red                                    2
+associated                             1
+tips                                   1
+vendors                                1
+
+Totals:                     31        38

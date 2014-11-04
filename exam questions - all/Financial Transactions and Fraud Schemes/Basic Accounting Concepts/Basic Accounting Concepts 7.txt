@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Which of the following is the correct accounting model?
+
+Options=Assets + liabilities = owners equity | Assets = liabilities - owners' equity | Assets = liabilities + owners equity | None of the above	
+
+CorrectResponse=2
+
+Explanation=Accounting is based on the model or accounting equation: Assets = Liabilities + Owners' Equity.See page(s) 1.101 in the Fraud Examiner's Manual

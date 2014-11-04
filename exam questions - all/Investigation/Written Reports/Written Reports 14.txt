@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Characteristics of a good fraud examination report include which of the following?
+
+Options=Clarity | Timeliness | Impartiality | All of the above
+
+CorrectResponse=3
+
+Explanation=The characteristics of a good report include accuracy, clarity, impartiality, and timeliness. A report should be based on the facts of the examination and should not include opinions of the writer with respect to guilt or innocence. Any other opinions must comply v/ith the Certified Fraud Examiner Code of Professional Ethics, specifically Articles and V.See page(s) 3.902 in the Fraud Examiner's Manual

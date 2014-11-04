@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=The formal process in legal actions whereby the parties collect evidence and learn details of the opposing cases is called:
+
+Options=Discovery | Inquisition | Interrogatory | None of the above
+
+CorrectResponse=0
+
+Explanation=Discovery refers to the formal process whereby the parties collect evidence and learn the details of the opposing case. Under federal rules, either party may take discovery regarding any matter, not privileged, that is relevant to the subject matter of the action, or that might lead to admissible evidence.See page(s) 2.602 in the Fraud Examiner's Manual

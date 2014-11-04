@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem="Protective" or "shadow" bidding are names also assigned to which of the following schemes?
+
+Options=Bid suppression | Phantom bids | Bid rotation | Complementary bids
+
+CorrectResponse=3
+
+Explanation=Complementary bidding, also known as "protective" or "shadow" bidding, occurs when competitors submit token bids that are too high to be accepted (or if competitive in price, then they list special terms that will not be acceptable). Such bids are not intended to be accepted, but designed merely to give the appearance of genuine competition.

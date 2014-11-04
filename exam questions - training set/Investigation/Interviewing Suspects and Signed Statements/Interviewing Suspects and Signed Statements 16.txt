@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Beta, a Certified Fraud Examiner, is conducting an admission-seeking interview of Delta, a fraud suspect. Although Beta has already interviewed several witnesses, he should not bring this fact up to Delta under any circumstances.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=One technique for diffusing alibis is to discuss the testimony of witnesses. The objective is to give enough information about what other people would say without providing too much. Ideally, the interviewer's statement will create the impression in the mind of the accused that many people are in a position to contradict his story. The interviewer is again cautioned about furnishing enough information to the accused so that he can identify the witnesses. This may place the witness in a difficult position, and the accused will contact the witness in an effort to influence testimony. The accused could also take reprisals against potential witnesses, though this is rare.See page(s) 3.262 in the Fraud Examiner's Manual

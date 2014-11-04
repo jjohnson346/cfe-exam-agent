@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The stage in which money laundering schemes are most often detected is called:
+
+Options=Integration | Placement | Washing | Layering
+
+CorrectResponse=1
+
+Explanation=Placement of funds into a financial institution is the initial step in the process. It is at this step that legislation has been developed to prevent launderers from depositing or converting large amounts of cash at financial institutions or taking cash out of the country. Money laundering schemes are most often detected at this stage.See page(s) 1.1601 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Illegal pyramids are promoted as investment opportunities. Ponzi schemes are promoted as pyramids.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Illegal pyramids are promoted as pyramids. Ponzi schemes are promoted as investment opportunities.See page(s) 1.1742 in the Fraud Examiner‰??s Manual

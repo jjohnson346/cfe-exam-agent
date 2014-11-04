@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following control procedures will NOT help prevent payroll fraud?
+
+Options=Payroll checks are prenumbered and issued in numerical sequence | The payroll accounting function is independent of the general ledger function | Personnel records are maintained independently of payroll and timekeeping functions | Those who prepare the payroll, also review and sign all payroll checks
+
+CorrectResponse=3
+
+Explanation=The following list of questions will help identify red flags of payroll distribution fraud and will help with the installation of control procedures:‰?¢	Are personnel records maintained independently of payroll and timekeeping functions?‰?¢	Is the payroll accounting function independent of the general ledger function?‰?¢	Are changes to payroll not made unless the personnel department sends approved notification directly to the payroll department?‰?¢	Are new hires references and backgrounds checked?‰?¢	Are all wage rates authorized in writing by a designated official?‰?¢	Are signed authorizations on file for employees whose wages are subject to special deductions?‰?¢	Are bonuses, commissions, and overtime approved in advance and reviewed for compliance?‰?¢	Are sick leave, vacations, and holidays reviewed for compliance?See page(s) 240-241 in the Corporate Fraud Handbook

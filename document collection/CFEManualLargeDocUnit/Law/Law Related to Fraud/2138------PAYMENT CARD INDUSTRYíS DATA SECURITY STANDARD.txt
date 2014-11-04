@@ -1,0 +1,97 @@
+2011 Fraud Examiners Manual/Law/THE LAW RELATED TO FRAUD (PART 1)/Federal Legislation Related to Fraud/Data Breaches and Breach Notification Laws/PAYMENT CARD INDUSTRY’S DATA SECURITY STANDARD
+
+
+:
+
+
+Law
+
+
+:
+
+
+Law Related to Fraud
+
+
+:
+
+
+PAYMENT CARD INDUSTRY’S DATA SECURITY STANDARD  
+In addition to state laws, management must be aware of its industry-specific data security 
+standards, such as the Payment Card Industry’s Data Security Standard (PCI DSS), one of 
+the most important private-industry data-security standards. 
+ 
+Developed by the five major credit card companies (American Express, Discover, JCB, 
+MasterCard, and Visa) to prevent security issues, the PCI DSS is a comprehensive set of 
+security due diligence practices to help ensure the safe handling of payment card data. All 
+companies that store, process, or transmit credit or debit card data must comply with this set 
+of standards. 
+ 
+The PCI DSS framework comprises the following 12 security requirements: 
+• Install and maintain a firewall configuration to protect cardholder data. 
+• Do not use vendor-supplied defaults of system passwords and other security parameters. 
+• Protect stored cardholder data. 
+• Encrypt transmission of cardholder data across open, public networks. 
+• Use and regularly update anti-virus software or programs. 
+• Develop and maintain secure systems and applications. 
+• Restrict access to cardholder data on a need-to-know basis. 
+• Assign a unique ID to each person with computer access. 
+• Restrict physical access to cardholder data. 
+• Track and monitor all access to network resources and cardholder data. 
+• Regularly test security systems and processes. 
+• Maintain a policy that addresses information security for employees and contractors. 
+ 
+Failure to comply with PCI DSS can result in severe consequences imposed by the card 
+brands, including: 
+• Fines up to $500,000 per data breach if data is compromised 
+• Fines up to $25,000 per month until compliance is obtained 
+• Liability for all fraud losses incurred from compromised account numbers 
+• Loss of ability to process payment card transactions 
+ 
+And while the federal government has not mandated compliance with the PCI DSS, some 
+The Law Related to Fraud (Part 1)  Law 
+2.272  2011 Fraud Examiners Manual  
+state laws force elements of the PCI DSS into law, and several states have considered 
+amending their breach-notification laws to include liability for an organization’s failure to 
+adopt certain safeguards required by the PCI DSS.  
+ 
+
+
+
+:
+
+
+payment card industri data secur standard
+in addit to state law manag must be awar of it industryspecif data secur
+standard such as the payment card industri data secur standard pci dss on of
+the most import privateindustri datasecur standard
+develop by the five major credit card compani american express discov jcb
+mastercard and visa to prevent secur issu the pci dss is a comprehens set of
+secur due dilig practic to help ensur the safe handl of payment card data all
+compani that store process or transmit credit or debit card data must compli with thi set
+of standard
+the pci dss framework compris the follow 12 secur requir
+instal and maintain a firewal configur to protect cardhold data
+do not us vendorsuppli default of system password and other secur paramet
+protect store cardhold data
+encrypt transmiss of cardhold data across open public network
+us and regularli updat antiviru softwar or program
+develop and maintain secur system and applic
+restrict access to cardhold data on a needtoknow basi
+assign a uniqu id to each person with comput access
+restrict physic access to cardhold data
+track and monitor all access to network resourc and cardhold data
+regularli test secur system and process
+maintain a polici that address inform secur for employe and contractor
+failur to compli with pci dss can result in sever consequ impos by the card
+brand includ
+fine up to 500000 per data breach if data is compromis
+fine up to 25000 per month until complianc is obtain
+liabil for all fraud loss incur from compromis account number
+loss of abil to process payment card transact
+and while the feder govern ha not mandat complianc with the pci dss some
+the law relat to fraud part 1 law
+2272 2011 fraud examin manual
+state law forc element of the pci dss into law and sever state have consid
+amend their breachnotif law to includ liabil for an organ failur to
+adopt certain safeguard requir by the pci dss

@@ -1,0 +1,123 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Insider Threats
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Insider Threats 
+By far the greatest threat to information systems in terms of computer crime comes from 
+employees inside an organization. It is not uncommon for operators, media librarians, 
+hardware technicians, and other staff members to find themselves in positions of 
+extraordinary privilege in relation to the key functions and assets of their organizations. A 
+consequence of this situation is the probability that such individuals are frequently exposed 
+to temptation. 
+ 
+A further complication is the tendency on the part of management to tolerate less stringent 
+supervisory controls over information system personnel. The premise is that the work is not 
+only highly technical and specialized but difficult to understand and control. As an example, 
+systems software support is often entrusted to a single programmer who generates the 
+version of the operating system in use, establishes password or other control lists, and 
+determines the logging and accounting features to be used. In addition, such personnel are 
+often permitted, and sometimes encouraged, to perform these duties during non-prime shift 
+periods, when demands on computer time are light. As a result, many of the most critical 
+software development and maintenance functions are performed in an unsupervised 
+environment. It is also clear that operators, librarians, and technicians often enjoy a degree 
+Computer and Internet Fraud  Financial Transactions   
+1.1838                           2011 Fraud Examiners Manual  
+of freedom quite different from that which would be considered normal in a more 
+traditional employment area.  
+ 
+Insiders are typically aware of the holes in the system of internal controls and often exploit 
+weaknesses just to see if they can get away with it. The most prevalent method of 
+committing computer fraud is probably alteration or falsification of input transactions 
+(and/or documents), including: 
+• Alteration of input 
+• Alteration of output 
+• Data file manipulation 
+• Communications systems 
+• Operating systems 
+• Computer operations 
+ 
+Characteristics 
+The characteristics of the traditional inside computer fraudster are very similar to those of 
+the hacker or other computer criminal: intelligent, hard working, seldom takes time off, 
+bored with the routine of the job, and has a very large ego. Many computer technicians have 
+demonstrated a greater loyalty to the technology than to the organization for which they 
+work. This technology loyalty can create an attitude that any behavior is acceptable if it is in 
+the name of technology.  
+ 
+The following are indicators of insider computer fraud: 
+• Access privileges beyond those required to perform assigned job functions. 
+• Exception reports not reviewed and resolved. 
+• Access logs not reviewed. 
+• Production programs run at unusual hours. 
+• Lack of separation of duties in the data center. 
+ 
+ 
+  
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1839 
+
+
+
+:
+
+
+insid threat
+by far the greatest threat to inform system in term of comput crime come from
+employe insid an organ it is not uncommon for oper media librarian
+hardwar technician and other staff member to find themselv in posit of
+extraordinari privileg in relat to the kei function and asset of their organ a
+consequ of thi situat is the probabl that such individu ar frequent expos
+to temptat
+a further complic is the tendenc on the part of manag to toler less stringent
+supervisori control over inform system personnel the premis is that the work is not
+onli highli technic and special but difficult to understand and control as an exampl
+system softwar support is often entrust to a singl programm who gener the
+version of the oper system in us establish password or other control list and
+determin the log and account featur to be us in addit such personnel ar
+often permit and sometim encourag to perform these duti dure nonprim shift
+period when demand on comput time ar light as a result mani of the most critic
+softwar develop and mainten function ar perform in an unsupervis
+environ it is also clear that oper librarian and technician often enjoi a degre
+comput and internet fraud financi transact
+11838 2011 fraud examin manual
+of freedom quit differ from that which would be consid normal in a more
+tradit employ area
+insid ar typic awar of the hole in the system of intern control and often exploit
+weak just to see if thei can get awai with it the most preval method of
+commit comput fraud is probabl alter or falsif of input transact
+andor document includ
+alter of input
+alter of output
+data file manipul
+commun system
+oper system
+comput oper
+characterist
+the characterist of the tradit insid comput fraudster ar veri similar to those of
+the hacker or other comput crimin intellig hard work seldom take time off
+bore with the routin of the job and ha a veri larg ego mani comput technician have
+demonstr a greater loyalti to the technolog than to the organ for which thei
+work thi technolog loyalti can creat an attitud that ani behavior is accept if it is in
+the name of technolog
+the follow ar indic of insid comput fraud
+access privileg beyond those requir to perform assign job function
+except report not review and resolv
+access log not review
+product program run at unusu hour
+lack of separ of duti in the data center
+financi transact comput and internet fraud
+2011 fraud examin manual 11839

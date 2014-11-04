@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=A million dollar fraud has occurred at the ABC company. Which of the following conditions could make ABC criminally responsible for the acts of its employees?
+
+Options=Management knew of the events | Management actively participated | Collective knowledge of the fraud by employees | Any of the above
+
+CorrectResponse=3
+
+Explanation=The corporation can be held criminally responsible even if those in management had no knowledge or participation in the underlying criminal events and even if there were specific policies or instructions prohibiting the activity undertaken by the employees. The acts of any employee, from the lowest clerk on up to the CEO, can impute liability upon a corporation. In fact, a corporation can be criminally responsible for the collective knowledge of several of its employees even if no single employee intended to commit an offense. Thus, the combination of vicarious or imputed corporate criminal liability and the new Sentencing Guidelines for Organizations creates an extraordinary risk for corporations today.See page(s) 4.702 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Each fraud examination begins with the proposition that all cases will end with litigation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If the examination is conducted under the assumption that the case will end with litigation, all of the appropriate rules of evidence will be followed. The investigation will be conducted in a professional manner which also will reduce the fraud examiner's potential civil liability.See page(s) I-7 in the Fraud Examiner's Manual

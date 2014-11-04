@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Gamma, a Certified Fraud Examiner, is attempting to locate the birthplace of Theta, a fraud suspect. Where is Gamma most likely to find such a record, if it exists?
+
+Options=State's driver's license bureau | County recorder | State's bureau of vital statistics | None of the above
+
+CorrectResponse=2
+
+Explanation=A state's bureau of vital statistics, where birth certificates generally are filed, is an excellent source of information. Birth certificates can provide a child's name, sex, date of birth, and place of birth, as well as the names of the attending physician, midwife, and/or other assistants; the parents' names, ages, addresses, races, places of birth, and occupations; the mother's maiden name; and the number of siblings. (In some states, birth certificates might be found at the city or county level.)See page(s) 3.426-3.427 in the Fraud Examiner's Manual

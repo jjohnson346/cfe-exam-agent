@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following would be considered a conflict of interest?
+
+Options=An employee who has an undisclosed economic or personal interest in a transaction that adversely affects his employer | An employee who has an undisclosed interest in a transaction and whose employer does not know of the employee's interest in the business deal | An employee who has an undisclosed interest in a transaction and who acts in a manner detrimental to his company in order to provide benefit to a relative, not himself | All of the above
+
+CorrectResponse=3
+
+Explanation=The vast majority of conflict cases occur because the fraudster has an undisclosed economic interest in a transaction. However, the fraudster's hidden interest does not necessarily have to be economic. In some scenarios, an employee acts in a manner detrimental to his company in order to provide a benefit to a friend or relative, even though the fraudster receives no financial benefit from the transaction himself. In order to be classified as a conflict of interest scheme, the employee's interest in the transaction must be undisclosed. The crux of a conflict case is that the fraudster takes advantage of his employer; the victim organization is unaware that its employee has divided loyalties. If an employer knows of the employee's interest in a business deal or negotiation, there can be no conflict of interest.See page(s) 1.731 in the Fraud Examiner's Manual

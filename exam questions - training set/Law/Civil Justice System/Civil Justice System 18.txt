@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=The ABC Company is being sued in a federal civil court for fraud in manufacturing a product. ABC did not actually manufacture the product, but rather assembled and distributed it. The manufacturer is also a defendant in the case. If ABC wishes to file its own claim against the manufacturer, this would be a:
+
+Options=Counterclaim | Cross-claim | Writ of attachment | None of the above
+
+CorrectResponse=1
+
+Explanation=A cross-claim is an action between co-parties, i.e., claims between two defendants or two plaintiffs.	See page(s) 2.612-2.613 in the Fraud Examiner‰??s Manual

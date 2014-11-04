@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=There are three types of situations in which computer evidence is generally discovered Which of the following is one of those situations?
+
+Options=Computer is the repository of evidence | Computer is the target of the crime | Computer is the instrument of the crime | All of the above
+
+CorrectResponse=3
+
+Explanation=There are three types of situations in which computer evidence is generally discovered: (1) computers as the target of crime. (2) computers as the instrument of crime, and (3) computers as the repository of evidence.See page(s) 3.701 in the Fraud Examiner's Manual

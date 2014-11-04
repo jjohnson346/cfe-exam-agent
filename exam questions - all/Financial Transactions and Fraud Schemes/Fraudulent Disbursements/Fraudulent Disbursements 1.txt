@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is a way for employees on commission to fraudulently increase their sales amount?
+
+Options=Altered sales | Converting sales of others | Fictitious sales | All of the above
+
+CorrectResponse=3
+
+Explanation=There are two ways employees on commission can fraudulently increase their pay: 1) falsify the amount of sales made or 2) increase the rate of commission Employees can falsify the amount of sales they have made in three ways, the first being the creation of fictitious sales. The second way for fraudsters to falsify the value of sales they have made is to alter the prices listed on sales documents. The third way employees can overstate sales is by claiming the sales of another employee as their own.See page(s) 221-222 in the Corporate Fraud Handbook

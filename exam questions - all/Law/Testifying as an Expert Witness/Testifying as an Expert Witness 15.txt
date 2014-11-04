@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=The testimony of an expert witness will be admitted if the testimony is relevant to any issue.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under Rule 702 of the Federal Rules of Evidence, a witness qualified as an expert by “knowledge, skill, experience, training or education' may testify in the form of an opinion or otherwise to “scientific, technical or other specialized knowledge" if such testimony will “assist the trier of fact to understand the evidence or to determine the fact in issue.’ Note that the standard is that the testimony will assist the jury, not whether it is relevant to any issue.See page(s) 2.811 in the Fraud Examiner's Manual

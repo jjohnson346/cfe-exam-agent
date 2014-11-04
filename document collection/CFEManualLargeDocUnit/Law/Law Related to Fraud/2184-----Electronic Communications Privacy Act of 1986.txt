@@ -1,0 +1,109 @@
+2011 Fraud Examiners Manual/Law/THE LAW RELATED TO FRAUD (PART 2)/Federal Legislation Related to Fraud (Cont.)/Electronic Communications Privacy Act of 1986
+
+
+:
+
+
+Law
+
+
+:
+
+
+Law Related to Fraud
+
+
+:
+
+
+Electronic Communications Privacy Act of 1986   
+The Electronic Communications Privacy Act of 1986 (ECPA), codified at 18 U.S.C. §§ 
+2510–2521, 2701–2710, 3121–3126, governs the illegal interception of electronic 
+communication and the unauthorized access of electronically stored data.  
+ 
+The ECPA is divided into three parts: the Wiretap Act, which governs the interception of 
+electronic communications; the Stored Communications Act, which covers access to stored 
+communications and records; and the Pen Register Act, which regulates pen registers and 
+trap and trace devices. This section focuses on the Wiretap Act and the Stored 
+Communications Act. 
+ 
+THE WIRETAP ACT (18 U.S.C. §§ 2510–2521) 
+In response to an increase in privacy breaches, Congress enacted the Wiretap Act, which 
+prohibits anyone from intentionally intercepting or attempting to intercept any wire, oral, or 
+electronic communication. Under the ECPA, electronic communications are defined as “any 
+transfer of signs, signals, writing, images, sounds, data, or intelligence of any nature 
+transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic, or photo 
+optical system that affects interstate or foreign commerce.” 
+ 
+Focusing on its applicability to computer fraud, section 2511 prohibits covert spying on 
+Law  The Law Related to Fraud (Part 2) 
+2011 Fraud Examiners Manual    2.319 
+voice and data communications, extending protection from eavesdropping on mail and 
+telephone communications to include digital data communications, such as e-mail and 
+remote computing; it does not govern stored communications. But because most courts 
+agree that interception does not occur when an individual obtains access to an electronically 
+stored copy of the communication, the Wiretap Act is often inadequate to protect electronic 
+communications sent over the Internet. For example, the Wiretap Act is often unsuccessful 
+in combating spyware. Although spyware’s main function is to make unauthorized 
+interceptions of electronic communication, spyware developers typically design spyware to 
+evade the Wiretap Act’s reach by engineering the software to record electronic information 
+while it is temporarily stored before, after, or during transmission.  
+ 
+The Wiretap Act is discussed in more detail in the “Individual Rights” chapter below. 
+ 
+THE STORED COMMUNICATIONS ACT (18 U.S.C. § 2701) 
+As part of the ECPA, Congress enacted the Stored Communications Act (SCA) to protect 
+stored electronic communications, such as e-mail and voicemail, by prohibiting the 
+unauthorized access of such communications that are in storage. More specifically, the SCA 
+prohibits unlawful access to a facility, which provides an electronic communication service, 
+and, then, obtaining, altering, or preventing authorized access to a wire or electronic 
+communication while it is electronically stored in such a system. An electronic 
+communication falls under the SCA once a system receives and stores it.   
+ 
+The SCA is discussed in more detail in the “Individual Rights” chapter below. 
+ 
+
+
+
+:
+
+
+electron commun privaci act of 1986
+the electron commun privaci act of 1986 ecpa codifi at 18 usc
+25102521 27012710 31213126 govern the illeg intercept of electron
+commun and the unauthor access of electron store data
+the ecpa is divid into three part the wiretap act which govern the intercept of
+electron commun the store commun act which cover access to store
+commun and record and the pen regist act which regul pen regist and
+trap and trace devic thi section focus on the wiretap act and the store
+commun act
+the wiretap act 18 usc 25102521
+in respons to an increas in privaci breach congress enact the wiretap act which
+prohibit anyon from intention intercept or attempt to intercept ani wire oral or
+electron commun under the ecpa electron commun ar defin as ani
+transfer of sign signal write imag sound data or intellig of ani natur
+transmit in whole or in part by a wire radio electromagnet photoelectron or photo
+optic system that affect interst or foreign commerc
+focus on it applic to comput fraud section 2511 prohibit covert spy on
+law the law relat to fraud part 2
+2011 fraud examin manual 2319
+voic and data commun extend protect from eavesdrop on mail and
+telephon commun to includ digit data commun such as email and
+remot comput it doe not govern store commun but becaus most court
+agre that intercept doe not occur when an individu obtain access to an electron
+store copi of the commun the wiretap act is often inadequ to protect electron
+commun sent over the internet for exampl the wiretap act is often unsuccess
+in combat spywar although spywar main function is to make unauthor
+intercept of electron commun spywar develop typic design spywar to
+evad the wiretap act reach by engin the softwar to record electron inform
+while it is temporarili store befor after or dure transmiss
+the wiretap act is discuss in more detail in the individu right chapter below
+the store commun act 18 usc 2701
+as part of the ecpa congress enact the store commun act sca to protect
+store electron commun such as email and voicemail by prohibit the
+unauthor access of such commun that ar in storag more specif the sca
+prohibit unlaw access to a facil which provid an electron commun servic
+and then obtain alter or prevent author access to a wire or electron
+commun while it is electron store in such a system an electron
+commun fall under the sca onc a system receiv and store it
+the sca is discuss in more detail in the individu right chapter below

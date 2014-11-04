@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The majority of criminal defendants never go to trial.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Prosecuting attorneys have the power to settle criminal charges with a plea bargain arrangement, avoiding the expenditures of time and effort involved at trial. About 90 percent of criminal defendants never go to trial, opting instead for a deal. Critics have charged that the plea privilege is abused by cynical prosecutors and leads to dangerous offenders being released quickly and without retributionSee page(s) 2.509 in the Fraud Examiner's Manual

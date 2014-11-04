@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The terms "Ponzi scheme" and "pyramid" are identical and should be used interchangeably.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The difference between a Ponzi and a pyramid lies in how the operation is promoted. Illegal pyramids are promoted as pyramids. Ponzi schemes are promoted as investment opportunities. Illegal pyramids announce themselves as pyramids: they hype levels or stages in their literature. The pyramidal structure helps draw new players, each believing that he will rise through the ranks of the pyramid to become ' golden," or “fully vested�?—whatever hokey titles the scammers have concocted. A Ponzi scheme, on the other hand, masquerades as some type of investment—in financial instruments, mineral rights, or some other form of speculation. The participants believe they’re buying mortgage-backed securities, or partial interest in an oil well. They have no idea they're funneling money into a bottomless pit. Certainly no one suggests moving on to the next level of the pyramid, because the pyramid isn’t part of the pitch.See page(s) 1.1742 in the Fraud Examiner’s Manual

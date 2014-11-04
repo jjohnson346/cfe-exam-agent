@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=State laws regulating securities are often referred to as ___________ laws.
+
+Options=Blue sky | Red hot | Gold coin | Hard money
+
+CorrectResponse=0
+
+Explanation=The first state securities laws of any substance v/ere enacted in Kansas around 1911. State securities laws are often referred to as "blue sky laws." The term "blue sky" came into use in 1917 after a judge issued an opinion describing their purpose as preventing "speculative schemes, which have no more basis than so many feet of blue sky."See page(s) 1.1514 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=According to Corporate Fraud Handbook which of the following occupational fraud schemes is not an "Improper Asset Valuation" scheme?
+
+Options=Inventory valuation scheme | Improper business combination | Booking of fictitious assets | Recording expenses in the wrong period
+
+CorrectResponse=3
+
+Explanation=Most improper asset valuations involve the fraudulent overstatement of inventory or receivables. Other improper asset valuations include manipulation of the allocation of the purchase price of an acquired business in order to inflate future earnings, misclassification of fixed and other assets, or improper capitalization of inventory or start-up costs. Improper asset valuations usually take the form of one of the following classifications: Inventory Valuation, Accounts Receivable, Business Combinations, and Fixed Assets.See page(s) 376 in the Corporate Fraud Handbook

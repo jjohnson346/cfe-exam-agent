@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Green, a Certified Fraud Examiner is employed by the ABC Corporation. He conducts an admission-seeking interview of White, a fraud suspect. Green must advise White of his Miranda warnings:
+
+Options=Under all circumstances | Only if Green intends to charge White with a crime | Only if White will be arrested following the interview | None of the above
+
+CorrectResponse=3
+
+Explanation=Green is not required to give White Miranda warnings under any circumstances. Miranda warnings are only required if the suspect is (1) held in custody (2) by public authorities. The warnings are not required at all when a person is being questioned by private parties; however, some fraud examiners may choose to do so as a matter of policy.See page(s) 2.504 in the Fraud Examiner's Manual

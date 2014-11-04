@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Which of the following is one of the two general types of surveillance?
+
+Options=Mobile | Undercover | Covert | Electronic
+
+CorrectResponse=0
+
+Explanation=There are two general types of surveillance: mobile and fixed. Mobile surveillance sometimes is referred to as ‘tailing" or “shadowing," and fixed surveillance as a “stakeout�? or ‘plant." Mobile surveillance can be done on foot or by vehicle and is carried out when people being observed move from location to location. Fixed surveillance is used when a person or activity remains in place, although the observers might move from one vantage point to another in the immediate area.See page(s) 3.305 in the Fraud Examiner's Manual

@@ -1,0 +1,23 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+accounts                               1
+or                                     1
+thefts                                 1
+accounting                             1
+the                                    1
+customer                               1
+general                                1
+up                                     1
+cover                                  1
+account                                1
+false                                  1
+entries                                1
+debit                                  1
+own                                    1
+credit                                 1
+their                                  1
+ledger                                 1
+employees                              1
+
+Totals:                     19        19

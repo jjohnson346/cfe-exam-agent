@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+www.i2inc.com                          1
+for                                    1
+data                                   2
+line                                   1
+visit                                  1
+analytical                             1
+collection                             1
+analysis                               1
+fraud                                  1
+ibase                                  1
+miner                                  1
+of                                     1
+tools                                  2
+more                                   1
+3.633                                  1
+on                                     1
+2011                                   1
+investigation                          1
+analyst                                3
+information                            1
+is                                     1
+and                                    2
+workstation                            2
+product                                1
+manual                                 1
+integrated                             1
+notebook                               1
+including                              1
+an                                     1
+examiners                              1
+reporting                              1
+i2                                     1
+
+Totals:                     32        38

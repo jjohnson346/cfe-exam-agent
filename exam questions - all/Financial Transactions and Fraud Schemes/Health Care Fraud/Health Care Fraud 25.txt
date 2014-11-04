@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Hospitals and other institutions sometimes illegally include golf outings, parties, or exotic vacations as items included in their cost reports for their government program reimbursement.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=Cost reports sometimes include noncovered items such as golf outings, parties, and exotic trips disguised as covered items. For example, an investigation disclosed that a hospital recovered silver from the processing of x-ray film, sold it, and gave it to the candy stripers, only to have it “donated" back to the hospital. Since Medicare doesn't consider donations as revenue, the hospital was able to claim higher expenses, and thus was able to receive more funds from Medicare.See page(s) 1.1231 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=____________________ generally review trial court decisions.
+
+Options=Chancery courts | Higher-level trial courts | Appellate courts | Superior appellate courts
+
+CorrectResponse=2
+
+Explanation=Lower courts try misdemeanors and preliminaries for felony cases, and civil disputes below a certain dollar amount (e.g., $10,000 or less). Higher-level trial courts (sometimes called Superior courts) try felony cases, and civil disputes above a certain amount (e.g., $10,000 or more). Appellate courts review trial court decisions.Superior appellate courts, or Supreme courts, review lower appellate court decisions.See page(s) 2.105 in the Fraud Examiner's Manual

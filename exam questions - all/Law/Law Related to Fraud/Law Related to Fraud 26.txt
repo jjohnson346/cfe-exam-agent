@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Blue, a United States Congressman, agrees with Brown to support congressional legislation to Brown's benefit if Brown will agree to make a sizable contribution to Blue's re-election campaign. Blue supports the bill, but it does not pass. Out of a sense of obligation. Brown later makes the contribution. Blue and Brown may be guilty of:
+
+Options=Bribery and conspiracy | Bribery | Larceny | Conspiracy
+
+CorrectResponse=0
+
+Explanation=The fact that Brown did not contribute to Blue's campaign until after Blue supported Brown's bill is immaterial to the offense of bribery. Title 18, U.S. Code Section 201(b) prohibits giving or receiving anything of value with the intent to influence an official act. Brown and Blue specifically agreed that the contribution was for supporting the bill. It therefore influenced Blue's official act. The fact that the bill did not pass is immaterial. Since Brown and Blue conspired and agreed together, they can also be charged under U.S. Code Section 371 (conspiracy). In order to be guilty of conspiracy, the two must agree together, and the agreement must be evidenced by at least one "overt act." Blue's voting for the bill is an overt act. Brown and Blue could probably be charged with bribery and conspiracySee page(s) 2.247, 2.329-2.330 in the Fraud Examiner's Manual

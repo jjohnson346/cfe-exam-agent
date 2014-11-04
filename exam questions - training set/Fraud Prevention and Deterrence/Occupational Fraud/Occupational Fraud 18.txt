@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to criminologist Donald Cressey, which of the following is NOT essential to the commission of fraud?
+
+Options=Information about company funds | Technical skill | Absence of controls | All of the above are essential
+
+CorrectResponse=2
+
+Explanation=In Cressey's view, there were two components of the perceived opportunity to commit a trust violation: general information and technical skill. General information is simply the knowledge of how the employee's position of trust could be violated. Technical skill refers to the ability to commit the violation.See page(s) 4.605-4.606 in the Fraud Examiner's Manual

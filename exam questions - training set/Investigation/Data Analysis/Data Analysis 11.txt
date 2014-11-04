@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Horizontal analysis is a technique for analyzing the percentage change in individual financial statement items from one year to the next.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Horizontal analysis is a technique for analyzing the percentage change in individual financial statement items from one year to the next. The first year in the analysis is considered the base year, and the changes to subsequent years are computed as a percentage of the base year.See page(s) 3.609 in the Fraud Examiner's Manual

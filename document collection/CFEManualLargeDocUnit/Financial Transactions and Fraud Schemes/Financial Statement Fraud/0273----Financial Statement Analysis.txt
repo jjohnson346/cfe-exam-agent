@@ -1,0 +1,488 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/FINANCIAL STATEMENT FRAUD/Financial Statement Analysis
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Financial Statement Fraud
+
+
+:
+
+
+Financial Statement Analysis  
+Comparative financial statements provide information for current and past accounting 
+periods. Accounts expressed in whole dollar amounts yield a limited amount of information. 
+The conversion of these numbers into ratios or percentages allows the reader of the 
+statements to analyze them based on their relationship to each other; in addition, it allows 
+the reader to more readily compare current performance with past performance. In fraud 
+detection and investigation, the determination of the reasons for relationships and changes 
+in amounts can be important. These determinations are the red flags that point an examiner 
+in the direction of possible fraud. If large enough, a fraudulent misstatement will affect the 
+financial statements in such a way that relationships between the numbers become 
+questionable. Many schemes are detected because  the financial statements, when analyzed 
+closely, do not make sense. Financial statement analysis includes the following: 
+• Vertical analysis 
+• Horizontal analysis 
+• Ratio analysis 
+ 
+Percentage Analysis — Horizontal and Vertical  
+There are traditionally two methods of percentage analysis of financial statements. Vertical 
+analysis  is a technique for analyzing the relationships between the items on an income 
+statement, balance sheet, or statement of cash flows by expressing components as 
+percentages. This method is often referred to as “common sizing” financial statements. In 
+the vertical analysis of an income statement, net sales is assigned 100 percent. For a balance 
+sheet, total assets is assigned 100 percent on the asset side, and total liabilities and equity is 
+expressed as 100 percent. All other items in each of the sections are expressed as a 
+percentage of these numbers. 
+ 
+Horizontal analysis  is a technique for analyzing the percentage change in individual financial 
+statement items from one period to the next. The first period in the analysis is considered 
+the base period, and the changes in the subsequent period are computed as a percentage of 
+the base period. If more than two periods are presented, each period’s changes are computed 
+as a percentage of the preceding period. As is the case with vertical analysis, this technique 
+will not work for small, immaterial frauds.  
+Financial Statement Fraud  Financial Transactions   
+1.336                         2011 Fraud Examiners Manual  
+The following is an example of financial statements that are analyzed by both horizontal and 
+vertical analysis: 
+ 
+ 
+ 
+Vertical Analysis Discussion 
+Vertical analysis  is the expression of the relationship or percentage of component items to a 
+specific base item. In the above example, vertical analysis of the income statement includes 
+total sales as the base amount, and all other items are then analyzed as a percentage of that 
+total. Vertical analysis emphasizes the relationship of statement items wi thin each accounting 
+period. These relationships can be used with historical averages to determine statement 
+anomalies.  
+ 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.337 
+In the above example, we can observe that accounts payable makes up 29 percent of total 
+liabilities in Year One. Historically, we may find that this account averages slightly over 25 
+percent of total liabilities. In Year Two, accounts payable, as a percentage of total liabilities, 
+increased to 51 percent. Although this increase may be explainable through a correlation 
+with a rise in sales, such a significant increase could also be the starting point of a fraud 
+examination. Source documents should be examined to determine the reason for the rise in 
+this percentage. With this type of examination, fraudulent activity might be detected. The 
+same type of change can be seen as selling expenses decline as a percentage of sales in Year 
+Two from 20 percent to 17 percent. Again, this change may be explainable with higher 
+volume sales or another bona fide explanation. But close examination may point a fraud 
+examiner to uncover fictitious sales, since there was not a corresponding increase in selling 
+expenses.  
+ 
+Horizontal Analysis Discussion 
+Horizontal statement analysis uses percentage comparison from one accounting period to the 
+next. The percentage change is calculated by dividing the amount of increase or decrease for 
+each item by the base period amount. The resulting percentages are then studied in detail. It 
+is important to consider the amount of change as well as the percentage in horizontal 
+comparisons. A 5 percent change in an account with a very large dollar amount may actually 
+be much more of a change than a 50 percent change in an account with much less activity. 
+ 
+In the above example, it is obvious that the 80 percent increase in sales has a much greater 
+corresponding increase in cost of goods sold, which rose 140 percent. These accounts are 
+often used to hide fraudulent expenses, withdrawals, or other illegal transactions.  
+ 
+Ratios Analysis 
+Ratio analysis  is a means of measuring the relationship between two different financial 
+statement amounts. The relationship and comparison are the keys to the analysis. Many 
+professionals, including bankers, investors, and business owners, as well as major investment 
+firms, use this method. Ratio analysis allows for internal evaluations using financial statement 
+data. Traditionally, financial statement ratios are compared to an entity’s industry averages. 
+The ratios and comparisons can be very useful in detecting red flags for a fraud examination.  
+ 
+The financial ratios present a significant change from one year to the next, or over a period 
+of years, it becomes obvious that there may a problem. As in all other analysis, specific 
+changes are often explained by changes in the business operations. Analyses change in 
+Financial Statement Fraud  Financial Transactions   
+1.338                         2011 Fraud Examiners Manual  
+Current Assets 
+Current Liabilities 
+Cash+Securities+Receivables
+ Current Liabilities 
+specific ratios is detected, the appropriate source accounts should be researched and 
+examined in detail to determine if fraud has occurred. For instance, a significant decrease in 
+a company’s current ratio may point to an incr ease in current liabilities or a reduction in 
+assets, both of which could be used to cover fraud.  
+ 
+In the analysis of financial statements, each reader of the statements will determine which 
+portions are most important. Like the statement analysis discussed previously, the analysis of 
+ratios is limited by its inability to detect fraud on a smaller, immaterial scale. Some of the 
+types of financial ratio comparisons are shown below. 
+ 
+Many of the possible ratios are used in industry-specific situations, but the nine comparisons 
+mentioned below are ratios that may lead to discovery of fraud. The following calculations 
+are based on the example financial statements presented earlier: 
+ 
+Common Financial Ratios 
+CURRENT RATIO 
+The current ratio—current assets to current 
+liabilities—is probably the most commonly used ratio in financial statement analysis. This 
+comparison measures a company’s ability to meet  present obligations from its liquid assets. 
+The number of times that current assets exceed current liabilities has long been a quick 
+measure of financial strength.  
+ 
+In detecting fraud, this ratio can be a prime indicator of manipulation of the accounts 
+involved. Embezzlement will cause the ratio to decrease. Liability concealment will cause a 
+more favorable ratio. 
+ 
+In the case example, the drastic change in the current ratio from Year One (2.84) to Year 
+Two (1.70) should cause an examiner to look at these accounts in more detail. For instance, 
+a check-tampering scheme will usually result in a decrease in the current asset, cash, which 
+will in turn decrease the ratio.  
+ 
+QUICK RATIO 
+The quick ratio, often referred to as the acid test ratio, 
+compares the most liquid assets to current liabilities. This calculation divides the total of 
+cash, securities, and receivables by current liabilities to yield a measure of a company’s ability 
+to meet sudden cash requirements. The quick ratio is a conservative measure of liquidity that 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.339 
+Net Sales on Account 
+Average Net Receivables 
+365 
+Receivable Turnover 
+Cost of Goods Sold 
+Average Inventory 
+is often used in turbulent economic times to provide an analyst with a worst-case scenario of 
+a company’s working capital situation.  
+ 
+An examiner will analyze the quick ratio for fraud indicators. In Year One of the example, 
+the company balance sheet reflects a quick ratio of 2.05. This ratio drops to 1.00 in Year 
+Two. In this situation, a closer review of accounts receivable shows they are increasing at an 
+unusual rates, which could indicate that fictitious accounts receivable have been added to 
+inflate sales. Of more concern perhaps is the increase in accounts payable, which might 
+require, at a minimum, a closer review to determine why. 
+ 
+RECEIVABLE TURNOVER 
+Receivable turnover is defined as net sales on account 
+divided by average net receivables. It measures the number of times accounts receivable is 
+turned over during the accounting period. In other words, it measures the time between on-
+ account sales and collection of funds. This ratio is one that uses both income statement and 
+balance sheet accounts in its analysis. If the fraud includes fictitious sales, this bogus income 
+will never be collected. As a result, the turnover of receivables will decrease.  
+ 
+COLLECTION RATIO   
+Accounts receivable aging is measured by the 
+collection ratio. It divides 365 days by the receivable turnover ratio to arrive at the average 
+number of days to collect receivables. In general, the lower the collection ratio, the faster 
+receivables are collected. A fraud examiner may use this ratio as a first step in detecting 
+fictitious receivables or larceny and skimming schemes. Normally, this ratio will stay fairly 
+consistent from year to year, but changes in billing policies or collection efforts may cause a 
+fluctuation. The example shows a favorable reduction in the collection ratio from 226.3 in 
+Year One to 170.33 in Year Two. This means that the company is collecting its receivables 
+more quickly in Year Two than in Year One.  
+ 
+INVENTORY TURNOVER  
+The relationship between a company’s cost of goods 
+sold and average inventory is shown through the inventory turnover ratio. This ratio 
+measures the number of times inventory is sold during the period. This ratio is a good 
+determinant of purchasing, production, and sales efficiency. In general, a higher inventory 
+turnover ratio is considered more favorable. For example, if cost of goods sold has increased 
+due to theft of inventory (ending inventory has declined, but not through sales), then this 
+Financial Statement Fraud  Financial Transactions   
+1.340                         2011 Fraud Examiners Manual  
+365 
+Inventory Turnover 
+Total Liabilities  
+Total Equity 
+Net Income 
+Net Sales 
+ratio will be abnormally high. In the case example, inventory turnover increases in Year Two, 
+signaling the possibility that an embezzlement is buried in the inventory account. An 
+examiner should investigate the changes in the components of the ratio to determine where 
+to look for possible fraud. 
+ 
+AVERAGE NUMBER OF DAYS INVENTORY IS IN STOCK  
+The average number of days inventory is in stock ratio is a 
+restatement of the inventory turnover ratio expressed in days. This rate is important for 
+several reasons. An increase in the number of days inventory stays in stock causes additional 
+expenses, including storage costs, risk of inventory obsolescence, and market price 
+reductions, as well as interest and other expenses incurred due to tying up funds in inventory 
+stock. Inconsistency or significant variance in this ratio is a red flag for fraud investigators. 
+Examiners may use this ratio to examine inventory accounts for possible larceny schemes. 
+Purchasing and receiving inventory schemes can affect the ratio. As well, understating the 
+cost of goods sold will result in an increase in the ratio. Significant changes in the inventory 
+turnover ratio are good indicators of possible fraudulent inventory activity. 
+ 
+DEBT TO EQUITY RATIO  
+The debt to equity ratio is computed by dividing total 
+liabilities by total equity. This ratio is one that is heavily 
+considered by lending institutions. It provides a clear picture of the relative risk assumed by 
+the creditors and owners. The higher the ratio, the more difficult it will be for the owners to 
+raise capital by increasing long-term debt. Debt to equity requirements are often included as 
+borrowing covenants in corporate lending agreements. The example displays a very 
+favorable Year One ratio of 0.89. Year Two, however, shows a ratio of 1.84, which indicates 
+that debt is greatly increasing. In this case, the increase in the ratio corresponds with the rise 
+in accounts payable. Sudden changes in this ratio may signal an examiner to look for fraud.  
+ 
+PROFIT MARGIN    
+Profit margin ratio is defined as net income divided by 
+net sales. This ratio is often referred to as the efficiency ratio, in that it reveals profits earned 
+per dollar of sales. This percentage of net income to sales relates not only the effects of gross 
+margin changes, but also charges to sales and administrative expenses. As fraud is 
+committed, net income will be artificially overstated, and the profit margin ratio will be 
+abnormally high. False expenses and fraudulent disbursements will cause an increase in 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.341 
+Net Sales 
+Average Assets 
+expenses and a decrease in the profit margin ratio. Over time, this ratio should be  
+fairly consistent. 
+ 
+ASSET TURNOVER 
+Net sales divided by average operating assets is the 
+calculation used to determine the asset turnover ratio. This ratio is used to determine the 
+efficiency with which asset resources are utilized. The case example displays a greater use of 
+assets in Year Two than in Year One. 
+ 
+By performing an analysis of the financial statements, the examiner may be directed toward 
+the direct evidence to resolve an allegation of fraud. After performing a financial statement 
+analysis, the examiner can select statistical samples in the target account and eventually 
+examine the source documents. If an irregularity of overstatement is suspected, begin the 
+examination with the financial statements. If, however, an irregularity of understatement is 
+suspected, begin the examination with a review of the source documents. This rule of thumb 
+is especially effective in the area of omission of liabilities, such as litigation, contingent 
+liabilities, leases, and some product warranties.  
+ 
+Tax Return Review 
+Tax returns are good sources of additional and comparative information on the operations 
+of the business. A complete review and comparison to the financial statement may provide 
+information unknown to the lender, or disclose unexplained discrepancies. Again, the lack of 
+properly prepared or timely filed tax returns may be a method of stalling or not providing 
+the required information. Most perpetrators of fraud are reluctant to continue the deception 
+and falsify a tax return. Year-after-year extensions and filing of the tax returns on the last 
+possible date could be a ploy to cover up financial statement and tax return differences. 
+ 
+ 
+
+
+
+:
+
+
+financi statement analysi
+compar financi statement provid inform for current and past account
+period account express in whole dollar amount yield a limit amount of inform
+the convers of these number into ratio or percentag allow the reader of the
+statement to analyz them base on their relationship to each other in addit it allow
+the reader to more readili compar current perform with past perform in fraud
+detect and investig the determin of the reason for relationship and chang
+in amount can be import these determin ar the red flag that point an examin
+in the direct of possibl fraud if larg enough a fraudul misstat will affect the
+financi statement in such a wai that relationship between the number becom
+question mani scheme ar detect becaus the financi statement when analyz
+close do not make sens financi statement analysi includ the follow
+vertic analysi
+horizont analysi
+ratio analysi
+percentag analysi horizont and vertic
+there ar tradition two method of percentag analysi of financi statement vertic
+analysi is a techniqu for analyz the relationship between the item on an incom
+statement balanc sheet or statement of cash flow by express compon as
+percentag thi method is often refer to as common size financi statement in
+the vertic analysi of an incom statement net sale is assign 100 percent for a balanc
+sheet total asset is assign 100 percent on the asset side and total liabil and equiti is
+express as 100 percent all other item in each of the section ar express as a
+percentag of these number
+horizont analysi is a techniqu for analyz the percentag chang in individu financi
+statement item from on period to the next the first period in the analysi is consid
+the base period and the chang in the subsequ period ar comput as a percentag of
+the base period if more than two period ar present each period chang ar comput
+as a percentag of the preced period as is the case with vertic analysi thi techniqu
+will not work for small immateri fraud
+financi statement fraud financi transact
+1336 2011 fraud examin manual
+the follow is an exampl of financi statement that ar analyz by both horizont and
+vertic analysi
+vertic analysi discuss
+vertic analysi is the express of the relationship or percentag of compon item to a
+specif base item in the abov exampl vertic analysi of the incom statement includ
+total sale as the base amount and all other item ar then analyz as a percentag of that
+total vertic analysi emphas the relationship of statement item wi thin each account
+period these relationship can be us with histor averag to determin statement
+anomali
+financi transact financi statement fraud
+2011 fraud examin manual 1337
+in the abov exampl we can observ that account payabl make up 29 percent of total
+liabil in year on histor we mai find that thi account averag slightli over 25
+percent of total liabil in year two account payabl as a percentag of total liabil
+increas to 51 percent although thi increas mai be explain through a correl
+with a rise in sale such a signific increas could also be the start point of a fraud
+examin sourc document should be examin to determin the reason for the rise in
+thi percentag with thi type of examin fraudul activ might be detect the
+same type of chang can be seen as sell expens declin as a percentag of sale in year
+two from 20 percent to 17 percent again thi chang mai be explain with higher
+volum sale or anoth bona fide explan but close examin mai point a fraud
+examin to uncov fictiti sale sinc there wa not a correspond increas in sell
+expens
+horizont analysi discuss
+horizont statement analysi us percentag comparison from on account period to the
+next the percentag chang is calcul by divid the amount of increas or decreas for
+each item by the base period amount the result percentag ar then studi in detail it
+is import to consid the amount of chang as well as the percentag in horizont
+comparison a 5 percent chang in an account with a veri larg dollar amount mai actual
+be much more of a chang than a 50 percent chang in an account with much less activ
+in the abov exampl it is obviou that the 80 percent increas in sale ha a much greater
+correspond increas in cost of good sold which rose 140 percent these account ar
+often us to hide fraudul expens withdraw or other illeg transact
+ratio analysi
+ratio analysi is a mean of measur the relationship between two differ financi
+statement amount the relationship and comparison ar the kei to the analysi mani
+profession includ banker investor and busi owner as well as major invest
+firm us thi method ratio analysi allow for intern evalu us financi statement
+data tradition financi statement ratio ar compar to an entiti industri averag
+the ratio and comparison can be veri us in detect red flag for a fraud examin
+the financi ratio present a signific chang from on year to the next or over a period
+of year it becom obviou that there mai a problem as in all other analysi specif
+chang ar often explain by chang in the busi oper analys chang in
+financi statement fraud financi transact
+1338 2011 fraud examin manual
+current asset
+current liabil
+cashsecuritiesreceiv
+current liabil
+specif ratio is detect the appropri sourc account should be research and
+examin in detail to determin if fraud ha occur for instanc a signific decreas in
+a compani current ratio mai point to an incr eas in current liabil or a reduct in
+asset both of which could be us to cover fraud
+in the analysi of financi statement each reader of the statement will determin which
+portion ar most import like the statement analysi discuss previous the analysi of
+ratio is limit by it inabl to detect fraud on a smaller immateri scale some of the
+type of financi ratio comparison ar shown below
+mani of the possibl ratio ar us in industryspecif situat but the nine comparison
+mention below ar ratio that mai lead to discoveri of fraud the follow calcul
+ar base on the exampl financi statement present earlier
+common financi ratio
+current ratio
+the current ratiocurr asset to current
+liabilitiesi probabl the most commonli us ratio in financi statement analysi thi
+comparison measur a compani abil to meet present oblig from it liquid asset
+the number of time that current asset exce current liabil ha long been a quick
+measur of financi strength
+in detect fraud thi ratio can be a prime indic of manipul of the account
+involv embezzl will caus the ratio to decreas liabil conceal will caus a
+more favor ratio
+in the case exampl the drastic chang in the current ratio from year on 284 to year
+two 170 should caus an examin to look at these account in more detail for instanc
+a checktamp scheme will usual result in a decreas in the current asset cash which
+will in turn decreas the ratio
+quick ratio
+the quick ratio often refer to as the acid test ratio
+compar the most liquid asset to current liabil thi calcul divid the total of
+cash secur and receiv by current liabil to yield a measur of a compani abil
+to meet sudden cash requir the quick ratio is a conserv measur of liquid that
+financi transact financi statement fraud
+2011 fraud examin manual 1339
+net sale on account
+averag net receiv
+365
+receiv turnov
+cost of good sold
+averag inventori
+is often us in turbul econom time to provid an analyst with a worstcas scenario of
+a compani work capit situat
+an examin will analyz the quick ratio for fraud indic in year on of the exampl
+the compani balanc sheet reflect a quick ratio of 205 thi ratio drop to 100 in year
+two in thi situat a closer review of account receiv show thei ar increas at an
+unusu rate which could indic that fictiti account receiv have been ad to
+inflat sale of more concern perhap is the increas in account payabl which might
+requir at a minimum a closer review to determin why
+receiv turnov
+receiv turnov is defin as net sale on account
+divid by averag net receiv it measur the number of time account receiv is
+turn over dure the account period in other word it measur the time between on
+account sale and collect of fund thi ratio is on that us both incom statement and
+balanc sheet account in it analysi if the fraud includ fictiti sale thi bogu incom
+will never be collect as a result the turnov of receiv will decreas
+collect ratio
+account receiv ag is measur by the
+collect ratio it divid 365 dai by the receiv turnov ratio to arriv at the averag
+number of dai to collect receiv in gener the lower the collect ratio the faster
+receiv ar collect a fraud examin mai us thi ratio as a first step in detect
+fictiti receiv or larceni and skim scheme normal thi ratio will stai fairli
+consist from year to year but chang in bill polici or collect effort mai caus a
+fluctuat the exampl show a favor reduct in the collect ratio from 2263 in
+year on to 17033 in year two thi mean that the compani is collect it receiv
+more quickli in year two than in year on
+inventori turnov
+the relationship between a compani cost of good
+sold and averag inventori is shown through the inventori turnov ratio thi ratio
+measur the number of time inventori is sold dure the period thi ratio is a good
+determin of purchas product and sale effici in gener a higher inventori
+turnov ratio is consid more favor for exampl if cost of good sold ha increas
+due to theft of inventori end inventori ha declin but not through sale then thi
+financi statement fraud financi transact
+1340 2011 fraud examin manual
+365
+inventori turnov
+total liabil
+total equiti
+net incom
+net sale
+ratio will be abnorm high in the case exampl inventori turnov increas in year two
+signal the possibl that an embezzl is buri in the inventori account an
+examin should investig the chang in the compon of the ratio to determin where
+to look for possibl fraud
+averag number of dai inventori is in stock
+the averag number of dai inventori is in stock ratio is a
+restat of the inventori turnov ratio express in dai thi rate is import for
+sever reason an increas in the number of dai inventori stai in stock caus addit
+expens includ storag cost risk of inventori obsolesc and market price
+reduct as well as interest and other expens incur due to ty up fund in inventori
+stock inconsist or signific varianc in thi ratio is a red flag for fraud investig
+examin mai us thi ratio to examin inventori account for possibl larceni scheme
+purchas and receiv inventori scheme can affect the ratio as well underst the
+cost of good sold will result in an increas in the ratio signific chang in the inventori
+turnov ratio ar good indic of possibl fraudul inventori activ
+debt to equiti ratio
+the debt to equiti ratio is comput by divid total
+liabil by total equiti thi ratio is on that is heavili
+consid by lend institut it provid a clear pictur of the rel risk assum by
+the creditor and owner the higher the ratio the more difficult it will be for the owner to
+rais capit by increas longterm debt debt to equiti requir ar often includ as
+borrow coven in corpor lend agreement the exampl displai a veri
+favor year on ratio of 089 year two howev show a ratio of 184 which indic
+that debt is greatli increas in thi case the increas in the ratio correspond with the rise
+in account payabl sudden chang in thi ratio mai signal an examin to look for fraud
+profit margin
+profit margin ratio is defin as net incom divid by
+net sale thi ratio is often refer to as the effici ratio in that it reveal profit earn
+per dollar of sale thi percentag of net incom to sale relat not onli the effect of gross
+margin chang but also charg to sale and administr expens as fraud is
+commit net incom will be artifici overst and the profit margin ratio will be
+abnorm high fals expens and fraudul disburs will caus an increas in
+financi transact financi statement fraud
+2011 fraud examin manual 1341
+net sale
+averag asset
+expens and a decreas in the profit margin ratio over time thi ratio should be
+fairli consist
+asset turnov
+net sale divid by averag oper asset is the
+calcul us to determin the asset turnov ratio thi ratio is us to determin the
+effici with which asset resourc ar util the case exampl displai a greater us of
+asset in year two than in year on
+by perform an analysi of the financi statement the examin mai be direct toward
+the direct evid to resolv an alleg of fraud after perform a financi statement
+analysi the examin can select statist sampl in the target account and eventu
+examin the sourc document if an irregular of overstat is suspect begin the
+examin with the financi statement if howev an irregular of understat is
+suspect begin the examin with a review of the sourc document thi rule of thumb
+is especi effect in the area of omiss of liabil such as litig conting
+liabil leas and some product warranti
+tax return review
+tax return ar good sourc of addit and compar inform on the oper
+of the busi a complet review and comparison to the financi statement mai provid
+inform unknown to the lender or disclos unexplain discrep again the lack of
+properli prepar or time file tax return mai be a method of stall or not provid
+the requir inform most perpetr of fraud ar reluct to continu the decept
+and falsifi a tax return yearafteryear extens and file of the tax return on the last
+possibl date could be a ploi to cover up financi statement and tax return differ

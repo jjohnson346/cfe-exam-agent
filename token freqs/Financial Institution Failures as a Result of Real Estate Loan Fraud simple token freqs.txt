@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+relate                                 1
+transactions                           1
+result                                 1
+institutions                           2
+most                                   1
+by                                     1
+fraud                                  1
+across                                 1
+real                                   3
+of                                     3
+are                                    1
+losses                                 2
+billions                               1
+substantial                            1
+globe                                  1
+these                                  1
+portion                                1
+institution                            1
+financial                              3
+reported                               1
+failures                               1
+a                                      2
+dollars                                1
+as                                     1
+the                                    2
+loan                                   1
+in                                     2
+loans                                  1
+invest                                 1
+heavily                                1
+estate                                 3
+
+Totals:                     32        45

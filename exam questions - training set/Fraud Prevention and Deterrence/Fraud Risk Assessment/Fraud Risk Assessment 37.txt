@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The fraud risk assessment team might include:
+
+Options=Accounting and finance personnel | External consultants | The general counsel | All of the above
+
+CorrectResponse=3
+
+Explanation=The fraud risk assessment team members might include internal and external resources, such as:‰?¢	Accounting and finance personnel who are familiar with the financial reporting processes and internal controls‰?¢	Nonfinanciai business unit and operations personnel who have knowledge of day-to-day operations, customer and vendor interactions, and issues within the industry‰?¢	Risk management personnel who can ensure that the fraud risk assessment process integrates with the organization‰??s enterprise risk management program‰?¢	The general counsel or other members of the legal department‰?¢	Members of any ethics or compliance functions within the organization‰?¢	Internal auditors‰?¢	External consultants with fraud and risk expertise‰?¢	Any business leader with direct accountability for the effectiveness of the organization‰??s fraud risk management effortsSee page(s) 4.809 in the Fraud Examiner's Manual

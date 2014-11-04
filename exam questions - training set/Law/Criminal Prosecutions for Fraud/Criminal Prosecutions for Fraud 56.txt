@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Immunity from criminal prosecution may be granted by:
+
+Options=The prosecutor | The court | The grand jury | All of the above
+
+CorrectResponse=0
+
+Explanation=A decision to immunize a witness is solely within the discretion of the prosecution If the application meets statutory requirements, the court must grant the order.See page(s) 2.507 in the Fraud Examiner's Manual

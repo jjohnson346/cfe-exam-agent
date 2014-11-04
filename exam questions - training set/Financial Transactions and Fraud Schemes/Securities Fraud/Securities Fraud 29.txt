@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The Securities Act of 1933 is also known as the __________________.
+
+Options=Investment Fraud Prevention Act | Truth in Securities Act | Truth in Lending Act | SEC Creation Act
+
+CorrectResponse=1
+
+Explanation=Concern over the 1929 stock market crash and over the manipulation of the securities markets precipitated the need for federal intervention. In 1933. the Securities Act was enacted to regulate the public offering of securities and protect investors. The 1933 Act is also knov/n as the Truth in Securities Act.See page(s) 1.1501 in the Fraud Examiner‰??s Manual

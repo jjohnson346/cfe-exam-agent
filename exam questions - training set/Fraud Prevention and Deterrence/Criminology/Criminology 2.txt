@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=According to the differential reinforcement theory, behavior is reinforced when positive rewards are gained or punishment is avoided.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=According to the differential reinforcement theory, people learn social behavior by operant conditioning, behavior controlled by stimuli that follow the behavior. Behavior is reinforced when positive rewards are gained or punishment is avoided (negative reinforcement). It is weakened by negative stimuli (punishment) and loss of reward (negative punishment). Whether deviant or criminal behavior is begun or persists depends on the degree to which it has been rewarded or punished and the rewards or punishments attached to its alternatives. This is the theory of differential reinforcement.See page(s) 4.210 in the Fraud Examiner's Manual

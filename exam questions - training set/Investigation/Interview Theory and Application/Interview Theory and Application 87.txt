@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, _______________________ is defined as a "relation marked by harmony, conformity, accord, or affinity.
+
+Options=Rapport | Calibration | Norming | None of the above
+
+CorrectResponse=0
+
+Explanation=Webster's defines rapport as a "relation marked by harmony, conformity, accord, or affinity " In other words, there must be some common ground established before questioning begins. This is usually accomplished by the interviewer spending a few minutes with the respondent in "small talk." This aspect, however, should not be overdone. Most people are aware that the interviewer is there for a meaningful purpose and not to chitchat.See page(s) 3.214 in the Fraud Examiner's Manual

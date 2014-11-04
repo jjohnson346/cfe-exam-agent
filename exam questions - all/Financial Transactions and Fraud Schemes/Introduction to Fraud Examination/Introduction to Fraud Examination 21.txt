@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=The initial step in the fraud theory approach to fraud examination is the confirmation of the predication.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The fraud theory approach consists of the following steps: (1) analyze the available data, (2) create a hypothesis, (3) test the hypothesis, and (4) refine and amend the hypothesis.See page(s) I-7 in the Fraud Examiner's Manual

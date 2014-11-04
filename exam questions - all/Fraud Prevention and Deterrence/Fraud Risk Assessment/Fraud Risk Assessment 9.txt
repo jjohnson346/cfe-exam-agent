@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=______________________ enable the fraud risk assessor to observe the interactions of employees as they discuss a question or issue.
+
+Options=Surveys | Anonymous feedback mechanisms | Interviews | Focus groups
+
+CorrectResponse=3
+
+Explanation=Several methods can be successfully used to gather information as part of a fraud risk assessment. These include.•	Interviews, which can be an effective way to conduct candid one-on-one conversations with employees•	Focus groups, which can enable the assessor to observe the interactions of employees as they discuss a question or issue•	Surveys, which are computer or paper questionnaires that can be either anonymous or directly attributable to the individual participants•	Anonymous feedback mechanisms, which can include means for anonymous employee suggestions or responses to questions posedSee page(s) 4.810-4.811 in the Fraud Examiner's Manual

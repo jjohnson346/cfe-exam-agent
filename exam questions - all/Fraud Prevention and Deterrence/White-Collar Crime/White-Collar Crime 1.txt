@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=Donald R. Cressey's 1953 study of embezzlers discovered that most offenders appeared outwardly successful but were often mired in debt.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Donald R. Cressey found in a 1953 study of embezzlers that most of those he examined “had lived beyond their means for some time before deciding to embezzle.�? Later authors have extended this statement more generally, remarking, “The most interesting fact about the white-collar offenders’ aggregate financial status is not the value of their assets but the extent of their liabilities." Offenders often “have the material goods associated with successful people but may barely be holding their financial selves together.�? These people have assembled a structure of respectability, but it is often built on the sands of debt.See page(s) 4.407 in the Fraud Examiner's Manual

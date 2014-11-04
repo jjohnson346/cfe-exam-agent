@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Evidence that shows prima facie the facts at issue is referred to as:
+
+Options=Circumstantial evidence | Direct evidence | Hearsay evidence | None of the above
+
+CorrectResponse=1
+
+Explanation=Direct evidence is that which shows prima facie the facts at issue. What constitutes direct evidence depends on the factors involved. For example, in the case of kickbacks, direct evidence might be a check from the person paying the kickback.See page(s) 3.102 in the Fraud Examiner's Manual

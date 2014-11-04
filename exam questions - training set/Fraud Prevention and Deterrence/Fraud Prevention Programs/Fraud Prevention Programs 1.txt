@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Most experts agree that it is much easier to detect fraud than it is to prevent it.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Most experts agree that it is much easier to prevent than detect fraud. To prevent fraud, we should understand something about the mind of the potential perpetrator. Increasing the perception of detection might be the most effective fraud prevention method. Controls, for example, do little good in forestalling theft and fraud, if those at risk do not know of the presence of possible detection.See page(s) 4.720 in the Fraud Examiner's Manual

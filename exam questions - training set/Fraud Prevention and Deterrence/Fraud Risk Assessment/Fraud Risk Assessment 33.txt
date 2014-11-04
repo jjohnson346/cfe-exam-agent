@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=As part of a fraud risk assessment, the assessment team should identify the individuals and departments most likely to commit fraud and the methods they are likely to use.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In identifying potential fraud risks, the risk assessment team will have evaluated the incentives and pressures on individuals and departments to commit fraud. The team should use the information gained in that process to identify the individuals and departments most likely to commit fraud and the methods they are likely to use. This knowledge will assist the organization in tailoring its fraud risk response, including establishing appropriate segregation of duties, proper review and approval chains of authority, and proactive fraud auditing procedures.See page(s) 4.817 in the Fraud Examiner's Manual

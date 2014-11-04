@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+phone                                  1
+d&b                                    2
+type                                   1
+countries                              1
+includes                               1
+business                               1
+businesses                             1
+of                                     2
+officers                               1
+over                                   1
+numbers                                1
+locations                              1
+sales                                  1
+approximately                          1
+on                                     1
+dollar                                 2
+worldwide                              1
+information                            2
+million                                3
+annual                                 1
+200                                    1
+23                                     1
+provides                               1
+number                                 1
+available                              1
+access                                 1
+in                                     1
+database                               2
+and                                    1
+corporate                              1
+employees                              1
+
+Totals:                     32        39

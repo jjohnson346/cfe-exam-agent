@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Falsified prescriptions, excessive supplies, milk supplement scams, lymphedema pumps, and scooter scams are forms of fraud commonly involving what type of health care entity?
+
+Options=Out-patient services groups | Workers' compensation carriers | Durable medical equipment suppliers | Hospitals
+
+CorrectResponse=2
+
+Explanation=The following are common types of fraud involving durable medical equipment suppliers: excessive supplies; equipment not delivered or billed before delivery; billing for equipment rental after equipment v/as returned; noncovered supplies (i.e., incontinent care kits); milk supplement scam; lymphedema pumps; scooter scam; and falsified prescriptions.See page(s) 1.1217 in the Fraud Examiner‰??s Manual

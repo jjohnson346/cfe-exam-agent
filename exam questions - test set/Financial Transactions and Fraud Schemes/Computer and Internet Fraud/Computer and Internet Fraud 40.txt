@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All but which of the following are anti-hacker measures?
+
+Options=Communication software that disconnects after no less than ten unsuccessful attempts | Encryption for sensitive data files | Changing default passv/ords on purchased software packages | Passwords of sufficient length to prevent "guessing"
+
+CorrectResponse=0
+
+Explanation=The following are some anti-hacking preventative measures that can be implemented:‰?¢	Passv/ords should be of sufficient length to deter "guessing."‰?¢	Most purchased software comes with a vendor supplied password that is used for installation and then deleted. All packages should be audited to ensure that these default passwords (which are widely known) have been changed.‰?¢	Encryption should be considered for sensitive data files, password files, and sensitive computer programs.‰?¢	Communications software should terminate any connection (whether dial-in or direct connect) after a reasonable number of unsuccessful attempts to enter a valid password (usually no more than three).See page(s) 1.1811-1.1813 in the Fraud Examiner‰??s Manual

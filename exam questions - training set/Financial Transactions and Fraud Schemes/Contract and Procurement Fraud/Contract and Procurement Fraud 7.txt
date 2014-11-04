@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=All BUT which of the following are elements of a contract?
+
+Options=Mutual promises and mutual obligations | Lawful subject matter | Competent parties | Must be in writing
+
+CorrectResponse=3
+
+Explanation=A contract is a mutual agreement, oral or written, between two or more parties that must contain the following elements: competent parties, lav/ful subject matter or objective, legal consideration(s), mutual promises, and mutual obligations. Valid contracts can be oral; only in certain instances are they required to be in writing.

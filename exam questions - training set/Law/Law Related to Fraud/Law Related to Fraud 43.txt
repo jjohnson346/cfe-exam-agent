@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Black is president of a major public corporation. White is an employee who embezzles substantial funds. Black hired White in good faith. Black is:
+
+Options=Not guilty of breach of fiduciary duties | Guilty of breach of fiduciary duties | Guilty of breach of due diligence | Guilty of breach of duty of loyalty
+
+CorrectResponse=0
+
+Explanation=Under the fact situation presented. Black would generally not be held liable for breach of fiduciary duty if he hired White in good faith. Corporate officers are not sureties (guarantors) to the corporation for the fidelity of an inferior officer or agent appointed by them, so as to be liable for other embezzlements and defalcations, if they have acted prudently and in good faith and had no knowledge that the person was untrustworthy.See page(s) 2.213 in the Fraud Examiner's Manual

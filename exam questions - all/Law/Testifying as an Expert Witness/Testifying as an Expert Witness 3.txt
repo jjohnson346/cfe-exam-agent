@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Green has been hired as an expert witness. He may be required to file a written report. This report would include not only his opinions regarding the case, but also a list of publications he has authored and a list of cases in which he has testified.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In federal courts, expert witnesses are governed by Federal Rule of Civil Procedure 26(a) (2) (B), which provides: "Except as otherwise stipulated or directed by the court, this disclosure shall, with respect to a witness who is retained or specially employed to provide expert testimony in the case or whose duties as an employee of the party regularly involve giving expert testimony, be accompanied by a written report prepared and signed by the witness. The report shall contain a complete statement of all opinions to be expressed and the basis and reasons therefore; the data or other information considered by the witness in forming the opinions: any exhibits to be used as a summary of or support for the opinions; the qualifications of the witness, including a list of all publications authored by the witness within the preceding ten years; the compensation to be paid for the study and testimony; and a listing of any other cases in which the witness has testified as an expert at trial or by deposition within the preceding four years.â€?See page(s) 2.806 in the Fraud Examiner's Manual

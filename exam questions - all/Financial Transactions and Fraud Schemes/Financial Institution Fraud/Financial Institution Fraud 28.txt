@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=The purpose of draw requests in construction lending is to provide:
+
+Options=Documentation that all architectural and engineering designs and quotes have been completed | Additional engineering quotes | Additional architectural designs | Documentation that costs have been incurred and reimbursement is sought
+
+CorrectResponse=3
+
+Explanation=Construction loan advances are generally supported by draw requests. A draw request is the documentation substantiating that a developer/borrower has incurred the appropriate construction expenses and is now seeking reimbursement or direct payment. A typical fraud scheme involves requesting advances on the loan for inappropriate costs, such as personal expenses and/or construction costs for an unrelated project. Draw requests may provide the greatest opportunity for a developer to commit fraud because the lender relies upon the developer's documentation.See page(s) 1.906 in the Fraud Examiner's Manual

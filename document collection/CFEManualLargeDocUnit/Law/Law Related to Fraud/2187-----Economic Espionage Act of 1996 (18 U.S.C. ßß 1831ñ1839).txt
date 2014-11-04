@@ -1,0 +1,251 @@
+2011 Fraud Examiners Manual/Law/THE LAW RELATED TO FRAUD (PART 2)/Federal Legislation Related to Fraud (Cont.)/Economic Espionage Act of 1996 (18 U.S.C. §§ 1831–1839)
+
+
+:
+
+
+Law
+
+
+:
+
+
+Law Related to Fraud
+
+
+:
+
+
+Economic Espionage Act of 1996 (18 U.S.C. §§ 1831–1839) 
+The Economic Espionage Act of 1996 (EEA) made the theft of trade secrets a federal 
+criminal offense. The Department of Justice now has sweeping authority to prosecute trade 
+secret theft whether it is in the United States, via the Internet, or outside the United States. 
+ 
+Section 1839 defines trade secrets as any secret “patterns, plans, compilations, program 
+devices, formulas, designs, prototypes, methods, techniques, processes, procedures, 
+programs, or codes” that have some independ ent economic value and are used to obtain an 
+economic advantage over competitors or customers. Furthermore, the EEA applies to 
+anyone who, without authorization, copies, duplicates, “downloads, uploads, alters, destroys 
+... replicates, transmits, delivers, sends, mails, communicates, or conveys a trade secret.” 
+ 
+The EEA outlaws two types of trade secret misappropriation: economic espionage and theft 
+of commercial trade secrets. Section 1831 criminalizes the theft of a trade secret to benefit a 
+foreign government, instrumentality, or agent. Section 1832, however, criminalizes the theft 
+of commercial trade secrets to obtain an economic advantage. Both sections are examined in 
+more detail below.  
+ 
+Prosecutors can apply the EEA to a wide variety of misconduct because it criminalizes 
+attempts and conspiracies to violate the EEA. The same penalties apply to these offenses 
+with increased penalties if the trade secret misappropriation benefits a foreign government, 
+foreign instrumentality, or a foreign agent.  
+ 
+Section 1834 of the EEA allows criminal forfeiture to the United States of (1) any property 
+constituting or derived from the proceeds of violations of the Act, and (2) the forfeiture of 
+any property used or intended to be used, in any manner or part, to commit or facilitate a 
+violation of the Act. (See 18 U.S.C. § 1834.) The criminal forfeiture provisions enable federal 
+prosecutors to dismantle entire Internet networks and seek criminal forfeiture of all the 
+computers, printers and other devices used to commit or facilitate the offenses proscribed by 
+the Act.  
+ 
+The EEA also authorizes the attorney general, deputy attorney general, or assistant attorney 
+The Law Related to Fraud (Part 2)  Law 
+2.322  2011 Fraud Examiners Manual  
+general in the Criminal Division of the Justice Department to apply for a federal court order 
+authorizing or approving the interception of wire or oral communications by the FBI or 
+other federal agencies having responsibility for the investigation of the offense. These are the 
+same investigative tools available in other federal criminal prosecutions. 
+ 
+The EEA also applies to offenses committed outside the United States if (1) the offender is 
+a citizen or permanent resident alien of the United States, (2) if the corporation or other 
+organization was incorporated or organized in the United States, or (3) an act in furtherance 
+of the offense was committed in the United States. See  18 U.S.C. § 1837. These 
+extraterritorial provisions in the Act will provide the Justice Department with broad 
+authority to prosecute the international theft of trade secrets and will prevent the willful 
+evasion of liability for trade secret misappropriation by using the Internet or other means to 
+transfer the trade secret information outside the United States. 
+ 
+Moreover, the EEA authorizes the attorney general to commence a civil action seeking 
+injunctive relief to prevent further disclosure of a trade secret by the defendant or third 
+parties. See 18 U.S.C. § 1836. There is no requirement in  the Act that criminal indictments be 
+issued first. Therefore, the Justice Department  may commence civil actions for injunctive 
+relief at any stage of the investigation. In any prosecution or other proceeding under the Act, 
+the Court is required to issue protective orders and to take such other action as be necessary 
+to preserve the confidentiality of the trade secrets consistent with the Federal Rules of 
+Criminal and Civil Procedure. See  18 U.S.C. § 1835. 
+ 
+Finally, violations under the EEA may implicate other federal laws, including: 
+• Disclosing government trade secrets (18 U.S.C. § 1905) 
+• Interstate transportation and receipt of stolen property or goods (18 U.S.C. § 2314) 
+• Mail or wire fraud (18 U.S.C. §§ 1341, 1343) 
+• Computer Fraud (18 U.S.C. 1030(a)) 
+• Criminal copyright infringement (17 U.S.C. § 506 and 18 U.S.C. § 2319) 
+ 
+ECONOMIC ESPIONAGE (18 U.S.C. § 1831) 
+Section 1831 of the EEA is targeted at economic espionage conducted by or on behalf of 
+foreign governments or instrumentalities. In addition to the three general elements of an 
+espionage case — that (1) the defendant stole or, with or without the authorization of the 
+owner, obtained, destroyed, or conveyed information; (2) the defendant knew the 
+information was proprietary; and (3) the information was in fact a trade secret) — there is a 
+Law  The Law Related to Fraud (Part 2) 
+2011 Fraud Examiners Manual    2.323 
+fourth element that the government must prove to successfully prosecute under section 
+1831. The government must show that the defendant intended or knew that the offense 
+would benefit a foreign government, foreign instrumentality, or foreign agent. Attempts and 
+conspiracies to commit these offenses are also punishable under section 1831.  
+ 
+The maximum punishment under section 1831 is 15 years imprisonment and a fine of 
+$500,000. If the offense is committed by an organization, the maximum fine is $10 million.  
+ 
+THEFT OF TRADE SECRETS (18 U.S.C. § 1832) 
+Section 1832 is concerned with conventional commercial theft and misappropriation of trade 
+secrets. It principally covers domestic crimes. In addition to three standard elements of 
+espionage, which were discussed above, a section 1832 action requires the government to 
+prove the following three additional elements:  
+• That the accused intended to convert the trade secret to the economic benefit of 
+someone other than the rightful owner;  
+• That the accused intended to injure the owner of the trade secret; and 
+• That the trade secret was related to or included in a product that is produced for or 
+placed in interstate or foreign commerce.  
+ 
+As evidenced by the additional elements, the requirements for prosecution under section 
+1832 are somewhat stricter than under section 1831. For example, section 1832 requires that 
+the defendant have intended for someone to gain by the misappropriation, whereas section 
+1831 prosecutions can succeed even when the benefits of a theft are noneconomic.  
+ 
+The maximum punishments for an offense under section 1832 are 10 years imprisonment, a 
+fine, or both. If the offense is committed by an organization, the fine can run as high as 
+$5,000,000. Attempts and conspiracies to commit the domestic theft of trade secrets are also 
+punishable under section 1832. 
+   
+ORDERS TO PRESERVE CONFIDENTIALITY (18 U.S.C. § 1835) 
+Trade secret theft victims often feel conflicted about whether to report these crimes to the 
+government. They want punishment but fear that their trade secrets will be disclosed during 
+the trial process.  
+ 
+Congress addressed this dilemma in section 1835, which gives the government procedures to 
+preserve the confidentiality of trade secrets throughout the trial. Section 1835 authorizes the 
+The Law Related to Fraud (Part 2)  Law 
+2.324  2011 Fraud Examiners Manual  
+court to enter orders and take actions “necessary and appropriate to preserve the 
+confidentiality of trade secrets.” In addition, section 1835 gives the government the right to 
+an interlocutory appeal from an order authorizing a trade secret’s disclosure. 
+ 
+CONSTRUCTION WITH OTHER LAWS (18 U.S.C. § 1838) 
+Section 1838 states that “[t]his chapter shall not be construed to preempt or displace any 
+other remedies, whether civil or criminal, provided by United States Federal, State... or to 
+affect the otherwise lawful disclosure of information by any government employees under 
+section 552 of title 5 (commonly known as the Freedom of Information Act).” Therefore, 
+the EEA does not bar the government from seeking any other remedies, whether civil or 
+criminal.  
+ 
+
+
+
+:
+
+
+econom espionag act of 1996 18 usc 18311839
+the econom espionag act of 1996 eea made the theft of trade secret a feder
+crimin offens the depart of justic now ha sweep author to prosecut trade
+secret theft whether it is in the unit state via the internet or outsid the unit state
+section 1839 defin trade secret as ani secret pattern plan compil program
+devic formula design prototyp method techniqu process procedur
+program or code that have some independ ent econom valu and ar us to obtain an
+econom advantag over competitor or custom furthermor the eea appli to
+anyon who without author copi duplic download upload alter destroi
+replic transmit deliv send mail commun or convei a trade secret
+the eea outlaw two type of trade secret misappropri econom espionag and theft
+of commerci trade secret section 1831 crimin the theft of a trade secret to benefit a
+foreign govern instrument or agent section 1832 howev crimin the theft
+of commerci trade secret to obtain an econom advantag both section ar examin in
+more detail below
+prosecutor can appli the eea to a wide varieti of misconduct becaus it crimin
+attempt and conspiraci to violat the eea the same penalti appli to these offens
+with increas penalti if the trade secret misappropri benefit a foreign govern
+foreign instrument or a foreign agent
+section 1834 of the eea allow crimin forfeitur to the unit state of 1 ani properti
+constitut or deriv from the proce of violat of the act and 2 the forfeitur of
+ani properti us or intend to be us in ani manner or part to commit or facilit a
+violat of the act see 18 usc 1834 the crimin forfeitur provis enabl feder
+prosecutor to dismantl entir internet network and seek crimin forfeitur of all the
+comput printer and other devic us to commit or facilit the offens proscrib by
+the act
+the eea also author the attornei gener deputi attornei gener or assist attornei
+the law relat to fraud part 2 law
+2322 2011 fraud examin manual
+gener in the crimin divis of the justic depart to appli for a feder court order
+author or approv the intercept of wire or oral commun by the fbi or
+other feder agenc have respons for the investig of the offens these ar the
+same investig tool avail in other feder crimin prosecut
+the eea also appli to offens commit outsid the unit state if 1 the offend is
+a citizen or perman resid alien of the unit state 2 if the corpor or other
+organ wa incorpor or organ in the unit state or 3 an act in further
+of the offens wa commit in the unit state see 18 usc 1837 these
+extraterritori provis in the act will provid the justic depart with broad
+author to prosecut the intern theft of trade secret and will prevent the will
+evas of liabil for trade secret misappropri by us the internet or other mean to
+transfer the trade secret inform outsid the unit state
+moreov the eea author the attornei gener to commenc a civil action seek
+injunct relief to prevent further disclosur of a trade secret by the defend or third
+parti see 18 usc 1836 there is no requir in the act that crimin indict be
+issu first therefor the justic depart mai commenc civil action for injunct
+relief at ani stage of the investig in ani prosecut or other proceed under the act
+the court is requir to issu protect order and to take such other action as be necessari
+to preserv the confidenti of the trade secret consist with the feder rule of
+crimin and civil procedur see 18 usc 1835
+final violat under the eea mai implic other feder law includ
+disclos govern trade secret 18 usc 1905
+interst transport and receipt of stolen properti or good 18 usc 2314
+mail or wire fraud 18 usc 1341 1343
+comput fraud 18 usc 1030a
+crimin copyright infring 17 usc 506 and 18 usc 2319
+econom espionag 18 usc 1831
+section 1831 of the eea is target at econom espionag conduct by or on behalf of
+foreign govern or instrument in addit to the three gener element of an
+espionag case that 1 the defend stole or with or without the author of the
+owner obtain destroi or convei inform 2 the defend knew the
+inform wa proprietari and 3 the inform wa in fact a trade secret there is a
+law the law relat to fraud part 2
+2011 fraud examin manual 2323
+fourth element that the govern must prove to successfulli prosecut under section
+1831 the govern must show that the defend intend or knew that the offens
+would benefit a foreign govern foreign instrument or foreign agent attempt and
+conspiraci to commit these offens ar also punish under section 1831
+the maximum punish under section 1831 is 15 year imprison and a fine of
+500000 if the offens is commit by an organ the maximum fine is 10 million
+theft of trade secret 18 usc 1832
+section 1832 is concern with convent commerci theft and misappropri of trade
+secret it princip cover domest crime in addit to three standard element of
+espionag which were discuss abov a section 1832 action requir the govern to
+prove the follow three addit element
+that the accus intend to convert the trade secret to the econom benefit of
+someon other than the right owner
+that the accus intend to injur the owner of the trade secret and
+that the trade secret wa relat to or includ in a product that is produc for or
+place in interst or foreign commerc
+as evidenc by the addit element the requir for prosecut under section
+1832 ar somewhat stricter than under section 1831 for exampl section 1832 requir that
+the defend have intend for someon to gain by the misappropri wherea section
+1831 prosecut can succe even when the benefit of a theft ar noneconom
+the maximum punish for an offens under section 1832 ar 10 year imprison a
+fine or both if the offens is commit by an organ the fine can run as high as
+5000000 attempt and conspiraci to commit the domest theft of trade secret ar also
+punish under section 1832
+order to preserv confidenti 18 usc 1835
+trade secret theft victim often feel conflict about whether to report these crime to the
+govern thei want punish but fear that their trade secret will be disclos dure
+the trial process
+congress address thi dilemma in section 1835 which give the govern procedur to
+preserv the confidenti of trade secret throughout the trial section 1835 author the
+the law relat to fraud part 2 law
+2324 2011 fraud examin manual
+court to enter order and take action necessari and appropri to preserv the
+confidenti of trade secret in addit section 1835 give the govern the right to
+an interlocutori appeal from an order author a trade secret disclosur
+construct with other law 18 usc 1838
+section 1838 state that thi chapter shall not be constru to preempt or displac ani
+other remedi whether civil or crimin provid by unit state feder state or to
+affect the otherwis law disclosur of inform by ani govern employe under
+section 552 of titl 5 commonli known as the freedom of inform act therefor
+the eea doe not bar the govern from seek ani other remedi whether civil or
+crimin

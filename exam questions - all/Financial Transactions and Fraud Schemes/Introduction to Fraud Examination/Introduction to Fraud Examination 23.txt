@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=The job of the fraud examiner is to conduct an examination to determine whether a particular person is guilty or innocent of a suspected act of fraud.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The existence of fraud is solely the purview of the courts and juries. The examiner must not express opinions on the guilt or innocence of any person or party. In resolving fraud issues, the examiner must postulate a theory—guilt or innocence—in order to attempt to prove that theory. Any discussion of guilt or innocence is only a part of that theory; the examiner must not make statements that could be construed to be conclusive in regard to the theory.See page(s) I-4 in the Fraud Examiner's Manual

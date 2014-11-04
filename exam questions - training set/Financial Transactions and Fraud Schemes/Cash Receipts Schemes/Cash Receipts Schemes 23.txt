@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=According to Corporate Fraud Handbook, schemes in which an employee physically misappropriates cash that has already appeared on the victim organization's books are known as:
+
+Options=Bribery schemes | Skimming schemes | Cash larceny schemes | Skimming and bribery schemes
+
+CorrectResponse=2
+
+Explanation=Receipt schemes are what we typically think of as the outright stealing of cash. The perpetrator does not rely on the submission of phony documents or the forging of signatures: he simply grabs the cash and takes it. The theft schemes fall into two categories: skimming and larceny schemes. Skimming is defined as the theft of off-book funds. Cash larceny schemes, however, involve the theft of money that has already appeared on a victim company‰??s books.See page(s) 100 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Possibly the most widely broadcast offering in "information scams" is:
+
+Options=Information on government job listings | Scholarship information | Information on wholesale crops or equipment | None of the above
+
+CorrectResponse=1
+
+Explanation=Maybe the most widely broadcast offering in the information racket is the college scholarship locator service. Whatever information scholarship services do provide is available for little or no cost (at most, a $5 or S10 fee) from legitimate institutions. The perpetrators imply that they have insider connections, or that they actually administer the dispersal of monies, when in reality they merely provide lists of scholarships offered by foundations and universities.See page(s) 1.1725-1.1726 in the Fraud Examiner's Manual

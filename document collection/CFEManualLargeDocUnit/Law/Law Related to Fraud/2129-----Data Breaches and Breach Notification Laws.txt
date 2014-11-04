@@ -1,0 +1,428 @@
+2011 Fraud Examiners Manual/Law/THE LAW RELATED TO FRAUD (PART 1)/Federal Legislation Related to Fraud/Data Breaches and Breach Notification Laws
+
+
+:
+
+
+Law
+
+
+:
+
+
+Law Related to Fraud
+
+
+:
+
+
+Data Breaches and Breach Notification Laws 
+Businesses with inadequate security safeguards not only leave customers’ confidential data 
+vulnerable to misuse or theft, but also increase their risk of regulatory or legal action, direct 
+economic loss, and loss of consumer confidence. 
+ 
+EXAMPLE  
+In September 2009, TJX Companies (the parent company of T.J. Maxx, Marshalls, 
+HomeGoods, and other enterprises) agreed to pay $525,000 to settle a class-action suit filed by 
+several banks related to the data breach of its computer system in which hackers compromised 
+94 million credit and debit card numbers. According to investigations, inadequate security 
+safeguards allowed hackers to access and steal this information. This settlement is one of several 
+for TJX, which has estimated that it will spend more than $250 million to address network-security 
+weaknesses and respond to lawsuits, investigations, and other claims stemming from the 
+breach. 
+ 
+EXAMPLE  
+On November 20, 2009, the Hartford Courant reported that Health Net, a health insurance 
+provider, lost a portable, external hard drive with unencrypted personal information of 
+approximately 1.5 million customers. The missing data included Social Security numbers and 
+bank account numbers of Health Net members in Arizona, Connecticut, New Jersey, and 
+New York. Although the hard drive reportedly disappeared from Health Net’s office in May 
+2009, the company waited six months before disclosing the breach. According to the 
+Connecticut Attorney General, Health Net may be in violation of state notification laws that 
+require companies to inform consumers of data breaches without unreasonable delay. 
+ 
+Law  The Law Related to Fraud (Part 1) 
+2011 Fraud Examiners Manual    2.267 
+Data breaches are one of the largest contributors to the escalating problem of identity theft, 
+which costs Americans more than $50 billion each year. In fact, the Identity Theft Resource 
+Center, a nonprofit organization dedicated to understanding and preventing identity theft, 
+estimates that in 2008, data breaches left more than 35 million personal records exposed. 
+ 
+Although these cases and statistics illustrate why strengthening information-security practices 
+should become a high priority for management in all types of organizations, complying with 
+U.S. privacy laws and regulations is becoming increasingly complex. This is primarily because 
+the United States uses a sectoral approach to protect information. This approach, which 
+relies on a mix of legislation, regulation, and self-regulation, creates a system in which 
+privacy standards emerge from a complex interplay of overlapping state and federal laws and 
+regulations, as well as industry practices.  
+ 
+In addition to a complex regulatory framework, organizations across various industries have 
+experienced a significant increase in the number of information privacy laws and regulations 
+affecting their operations. Particularly due to an onslaught of data-breach stories like the 
+ones above, concerns about the privacy of personal information have escalated, and this has 
+compelled government authorities to enact stronger consumer-protection legislation and 
+enhance enforcement efforts to identify and prosecute violations of laws protecting private-
+ consumer information. 
+ 
+Although businesses have become subject to a growing number of privacy laws and 
+regulations, information-privacy regulation in the United States is more prevalent in areas 
+where abuses of personal information are most likely to occur, such as the financial and 
+health care industries.  
+ 
+This increasingly complex area of law poses significant compliance challenges for 
+organizations operating in regulated industries. In this environment, management must 
+understand the complicated and expanding area of privacy law and continually work to 
+ensure that their organizations have and follow appropriate procedures and protocols 
+addressing information privacy. 
+ 
+This section seeks to provide a general overview on the subject by briefly examining some 
+important laws, regulations, and standards designed to protect the privacy, security, and 
+confidentiality of customer data. The discussion below is divided into the following  
+  
+The Law Related to Fraud (Part 1)  Law 
+2.268  2011 Fraud Examiners Manual  
+categories: financial privacy, private health in formation, and privacy protections applying to 
+businesses in other industries. 
+ 
+PRIVATE FINANCIAL INFORMATION 
+Privacy protections in the financial services industry are primarily contained in the Fair and 
+Accurate Credit Transactions Act (FACTA) and the Gramm-Leach-Bliley Act.  
+ 
+FAIR AND ACCURATE CREDIT TRANSACTIONS ACT’S RED FLAG RULES  
+In 2007, the Federal Trade Commission (FTC) issued final rules and guidelines (Red Flag 
+Rules) implementing sections 114 and 315 of the Fair and Accurate Credit Transactions Act 
+(FACTA).The Red Flag Rules require financial institutions and certain creditors to develop 
+and implement a formal written program to identify, detect, and respond to red flags of 
+possible identity theft. 
+ 
+See the chapter on “Financial Institution Fraud” in the Financial Transactions and Fraud 
+Schemes section of the Fraud Examiners Manual for more information about the Red Flag 
+Rules. 
+ 
+GRAMM-LEACH-BLILEY ACT  
+Like FACTA’s Red Flag Rules, the Gramm-Leach-Bliley Act, which protects customers’ 
+financial information held by banks working in personal finance, imposes privacy obligations 
+on financial institutions. Specifically, financial institutions have privacy obligations under the 
+Financial Privacy Rule and the Safeguards Rule of the Gramm-Leach-Bliley Act. 
+ 
+The Financial Privacy Rule requires financial institutions to provide their customers with 
+privacy notices explaining the institution’s policies for collecting and sharing personal 
+financial information. The Financial Privacy Rule also applies to companies — whether or not 
+they are financial institutions — that receive personal financial information. 
+ 
+Conversely, the Safeguards Rule requires all financial institutions to design, implement, and 
+maintain safeguards to protect the confidentiality and integrity of customers’ personal 
+information. The Safeguards Rule applies not only to financial institutions that collect 
+information from their own customers, but also to financial institutions that receive 
+customer information from other financial institutions. 
+ 
+Law  The Law Related to Fraud (Part 1) 
+2011 Fraud Examiners Manual    2.269 
+PRIVATE HEALTH INFORMATION 
+In addition, certain businesses may need to consider adopting a set of policies and 
+procedures to safeguard private health information, which includes any identifiable 
+information that relates to a patient’s health, health care, or payment for health care. Federal 
+privacy protections for consumers’ health care information are primarily located in the 
+Health Insurance Portability and Accountability Act (HIPAA) and the Health Information 
+Technology for Economic and Clinical Health Act (HITECH Act). 
+ 
+THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT  
+Although Congress originally enacted the Health Insurance Portability and Accountability 
+Act (HIPAA) to protect health insurance coverage for workers and their families, it 
+expanded the law to protect patient health information. The HIPAA Privacy Rule applies to 
+health care providers, health plans, and health care clearinghouses that electronically transmit 
+health information in connection with a covered transaction, and it governs access to and 
+use of “protected health information,” which includes any identifiable information that 
+relates to a patient’s health, health care, or payment for health care. 
+ 
+The HIPAA Privacy Rule generally provides that covered entities cannot use or disclose any 
+protected health information except as authorized by the subject of that information or as 
+specifically required or authorized by the regulations. It also provides that when the use or 
+disclosure of such information is permitted, covered entities must make all reasonable efforts 
+to use or disclose the minimum amount of protected information necessary to accomplish 
+the intended purpose.  
+ 
+If protected health information becomes an issue during a fraud examination, the examiner 
+should immediately contact the human resources (HR) department. The HR department 
+should have information about whether the entity is subject to HIPAA rules and can help 
+the examiner comply with those rules.  
+ 
+The most important thing to note is that if HIPAA rules do apply, examiners are restricted 
+as to the type of health information they can access without specific written authorization. 
+Examiners should never contact the health care provider, the health-plan administrator, or a 
+medical-billing service for copies of employee’s records without first consulting the 
+employer’s legal counsel or HR department. 
+ 
+ 
+The Law Related to Fraud (Part 1)  Law 
+2.270  2011 Fraud Examiners Manual  
+THE HEALTH INFORMATION TECHNOLOGY FOR ECONOMIC AND CLINICAL HEALTH ACT  
+The American Recovery and Reinvestment Act of 2009 (ARRA), which was enacted on 
+February 17, 2009, contains many compliance challenges for entities that create, maintain, 
+disclose, or use health information. Title XIII of ARRA, the Health Information Technology 
+for Economic and Clinical Health Act (HITECH Act), imposed additional requirements for 
+notifications of federal security breaches and added numerous privacy and data security 
+restrictions for covered entities under HIPAA. The act also increased the maximum fine 
+under HIPAA from $100,000 to $1,500,000. 
+ 
+BUSINESSES OUTSIDE THE FINANCIAL AND HEALTH CARE INDUSTRIES 
+Even if managers believe their companies fall outside of the financial services or health care 
+industries, they should determine if they are creditors under the Red Flag Rules and look to 
+state laws and industry standards, especially the Payment Card Industry’s Data Security 
+Standard (PCI DSS). 
+ 
+STATE PRIVACY LAWS  
+In addition to the federal laws summarized above, specific state laws may regulate the 
+collection and use of personal information by businesses in the private sector. During the 
+past few years, states have been aggressive in creating protections for personal information, 
+and these protections typically apply to a broad set of personal information and extend to all 
+businesses operating in the state.  
+ 
+Of particular concern for businesses are state laws pertaining to breach notification. Most 
+states have responded to the escalating number of security breaches by enacting these laws, 
+which typically require businesses to notify their customers of a security breach involving 
+personal information.  
+ 
+Although most states’ breach-notification laws contain similar provisions, they contain 
+varying definitions of personal information and require different types of notification. 
+Therefore, before establishing new policies and practices concerning the handling of  
+  
+                                                 
+2As of April 12, 2010, 46 states, the District of Columbia, Puerto Rico, and the Virgin Islands have enacted 
+legislation requiring notification of security breaches involving personal information. For a list of state breach 
+notification laws, visit the National Conference of State Legislatures website at www.ncsl.org.   
+Law  The Law Related to Fraud (Part 1) 
+2011 Fraud Examiners Manual    2.271 
+personal information, management should consult with legal counsel to identify what laws 
+apply.  
+ 
+PAYMENT CARD INDUSTRY’S DATA SECURITY STANDARD  
+In addition to state laws, management must be aware of its industry-specific data security 
+standards, such as the Payment Card Industry’s Data Security Standard (PCI DSS), one of 
+the most important private-industry data-security standards. 
+ 
+Developed by the five major credit card companies (American Express, Discover, JCB, 
+MasterCard, and Visa) to prevent security issues, the PCI DSS is a comprehensive set of 
+security due diligence practices to help ensure the safe handling of payment card data. All 
+companies that store, process, or transmit credit or debit card data must comply with this set 
+of standards. 
+ 
+The PCI DSS framework comprises the following 12 security requirements: 
+• Install and maintain a firewall configuration to protect cardholder data. 
+• Do not use vendor-supplied defaults of system passwords and other security parameters. 
+• Protect stored cardholder data. 
+• Encrypt transmission of cardholder data across open, public networks. 
+• Use and regularly update anti-virus software or programs. 
+• Develop and maintain secure systems and applications. 
+• Restrict access to cardholder data on a need-to-know basis. 
+• Assign a unique ID to each person with computer access. 
+• Restrict physical access to cardholder data. 
+• Track and monitor all access to network resources and cardholder data. 
+• Regularly test security systems and processes. 
+• Maintain a policy that addresses information security for employees and contractors. 
+ 
+Failure to comply with PCI DSS can result in severe consequences imposed by the card 
+brands, including: 
+• Fines up to $500,000 per data breach if data is compromised 
+• Fines up to $25,000 per month until compliance is obtained 
+• Liability for all fraud losses incurred from compromised account numbers 
+• Loss of ability to process payment card transactions 
+ 
+And while the federal government has not mandated compliance with the PCI DSS, some 
+The Law Related to Fraud (Part 1)  Law 
+2.272  2011 Fraud Examiners Manual  
+state laws force elements of the PCI DSS into law, and several states have considered 
+amending their breach-notification laws to include liability for an organization’s failure to 
+adopt certain safeguards required by the PCI DSS.  
+ 
+
+
+
+:
+
+
+data breach and breach notif law
+busi with inadequ secur safeguard not onli leav custom confidenti data
+vulner to misus or theft but also increas their risk of regulatori or legal action direct
+econom loss and loss of consum confid
+exampl
+in septemb 2009 tjx compani the parent compani of tj maxx marshal
+homegood and other enterpris agre to pai 525000 to settl a classact suit file by
+sever bank relat to the data breach of it comput system in which hacker compromis
+94 million credit and debit card number accord to investig inadequ secur
+safeguard allow hacker to access and steal thi inform thi settlement is on of sever
+for tjx which ha estim that it will spend more than 250 million to address networksecur
+weak and respond to lawsuit investig and other claim stem from the
+breach
+exampl
+on novemb 20 2009 the hartford courant report that health net a health insur
+provid lost a portabl extern hard drive with unencrypt person inform of
+approxim 15 million custom the miss data includ social secur number and
+bank account number of health net member in arizona connecticut new jersei and
+new york although the hard drive reportedli disappear from health net offic in mai
+2009 the compani wait six month befor disclos the breach accord to the
+connecticut attornei gener health net mai be in violat of state notif law that
+requir compani to inform consum of data breach without unreason delai
+law the law relat to fraud part 1
+2011 fraud examin manual 2267
+data breach ar on of the largest contributor to the escal problem of ident theft
+which cost american more than 50 billion each year in fact the ident theft resourc
+center a nonprofit organ dedic to understand and prevent ident theft
+estim that in 2008 data breach left more than 35 million person record expos
+although these case and statist illustr why strengthen informationsecur practic
+should becom a high prioriti for manag in all type of organ compli with
+us privaci law and regul is becom increasingli complex thi is primarili becaus
+the unit state us a sector approach to protect inform thi approach which
+reli on a mix of legisl regul and selfregul creat a system in which
+privaci standard emerg from a complex interplai of overlap state and feder law and
+regul as well as industri practic
+in addit to a complex regulatori framework organ across variou industri have
+experienc a signific increas in the number of inform privaci law and regul
+affect their oper particularli due to an onslaught of databreach stori like the
+on abov concern about the privaci of person inform have escal and thi ha
+compel govern author to enact stronger consumerprotect legisl and
+enhanc enforc effort to identifi and prosecut violat of law protect privat
+consum inform
+although busi have becom subject to a grow number of privaci law and
+regul informationprivaci regul in the unit state is more preval in area
+where abus of person inform ar most like to occur such as the financi and
+health care industri
+thi increasingli complex area of law pose signific complianc challeng for
+organ oper in regul industri in thi environ manag must
+understand the complic and expand area of privaci law and continu work to
+ensur that their organ have and follow appropri procedur and protocol
+address inform privaci
+thi section seek to provid a gener overview on the subject by briefli examin some
+import law regul and standard design to protect the privaci secur and
+confidenti of custom data the discuss below is divid into the follow
+the law relat to fraud part 1 law
+2268 2011 fraud examin manual
+categori financi privaci privat health in format and privaci protect appli to
+busi in other industri
+privat financi inform
+privaci protect in the financi servic industri ar primarili contain in the fair and
+accur credit transact act facta and the grammleachblilei act
+fair and accur credit transact act red flag rule
+in 2007 the feder trade commiss ftc issu final rule and guidelin red flag
+rule implement section 114 and 315 of the fair and accur credit transact act
+factath red flag rule requir financi institut and certain creditor to develop
+and implement a formal written program to identifi detect and respond to red flag of
+possibl ident theft
+see the chapter on financi institut fraud in the financi transact and fraud
+scheme section of the fraud examin manual for more inform about the red flag
+rule
+grammleachblilei act
+like facta red flag rule the grammleachblilei act which protect custom
+financi inform held by bank work in person financ impos privaci oblig
+on financi institut specif financi institut have privaci oblig under the
+financi privaci rule and the safeguard rule of the grammleachblilei act
+the financi privaci rule requir financi institut to provid their custom with
+privaci notic explain the institut polici for collect and share person
+financi inform the financi privaci rule also appli to compani whether or not
+thei ar financi institut that receiv person financi inform
+convers the safeguard rule requir all financi institut to design implement and
+maintain safeguard to protect the confidenti and integr of custom person
+inform the safeguard rule appli not onli to financi institut that collect
+inform from their own custom but also to financi institut that receiv
+custom inform from other financi institut
+law the law relat to fraud part 1
+2011 fraud examin manual 2269
+privat health inform
+in addit certain busi mai need to consid adopt a set of polici and
+procedur to safeguard privat health inform which includ ani identifi
+inform that relat to a patient health health care or payment for health care feder
+privaci protect for consum health care inform ar primarili locat in the
+health insur portabl and account act hipaa and the health inform
+technolog for econom and clinic health act hitech act
+the health insur portabl and account act
+although congress origin enact the health insur portabl and account
+act hipaa to protect health insur coverag for worker and their famili it
+expand the law to protect patient health inform the hipaa privaci rule appli to
+health care provid health plan and health care clearinghous that electron transmit
+health inform in connect with a cover transact and it govern access to and
+us of protect health inform which includ ani identifi inform that
+relat to a patient health health care or payment for health care
+the hipaa privaci rule gener provid that cover entiti cannot us or disclos ani
+protect health inform except as author by the subject of that inform or as
+specif requir or author by the regul it also provid that when the us or
+disclosur of such inform is permit cover entiti must make all reason effort
+to us or disclos the minimum amount of protect inform necessari to accomplish
+the intend purpos
+if protect health inform becom an issu dure a fraud examin the examin
+should immedi contact the human resourc hr depart the hr depart
+should have inform about whether the entiti is subject to hipaa rule and can help
+the examin compli with those rule
+the most import thing to note is that if hipaa rule do appli examin ar restrict
+as to the type of health inform thei can access without specif written author
+examin should never contact the health care provid the healthplan administr or a
+medicalbil servic for copi of employe record without first consult the
+employ legal counsel or hr depart
+the law relat to fraud part 1 law
+2270 2011 fraud examin manual
+the health inform technolog for econom and clinic health act
+the american recoveri and reinvest act of 2009 arra which wa enact on
+februari 17 2009 contain mani complianc challeng for entiti that creat maintain
+disclos or us health inform titl xiii of arra the health inform technolog
+for econom and clinic health act hitech act impos addit requir for
+notif of feder secur breach and ad numer privaci and data secur
+restrict for cover entiti under hipaa the act also increas the maximum fine
+under hipaa from 100000 to 1500000
+busi outsid the financi and health care industri
+even if manag believ their compani fall outsid of the financi servic or health care
+industri thei should determin if thei ar creditor under the red flag rule and look to
+state law and industri standard especi the payment card industri data secur
+standard pci dss
+state privaci law
+in addit to the feder law summar abov specif state law mai regul the
+collect and us of person inform by busi in the privat sector dure the
+past few year state have been aggress in creat protect for person inform
+and these protect typic appli to a broad set of person inform and extend to all
+busi oper in the state
+of particular concern for busi ar state law pertain to breach notif most
+state have respond to the escal number of secur breach by enact these law
+which typic requir busi to notifi their custom of a secur breach involv
+person inform
+although most state breachnotif law contain similar provis thei contain
+vari definit of person inform and requir differ type of notif
+therefor befor establish new polici and practic concern the handl of
+2a of april 12 2010 46 state the district of columbia puerto rico and the virgin island have enact
+legisl requir notif of secur breach involv person inform for a list of state breach
+notif law visit the nation confer of state legislatur websit at wwwncslorg
+law the law relat to fraud part 1
+2011 fraud examin manual 2271
+person inform manag should consult with legal counsel to identifi what law
+appli
+payment card industri data secur standard
+in addit to state law manag must be awar of it industryspecif data secur
+standard such as the payment card industri data secur standard pci dss on of
+the most import privateindustri datasecur standard
+develop by the five major credit card compani american express discov jcb
+mastercard and visa to prevent secur issu the pci dss is a comprehens set of
+secur due dilig practic to help ensur the safe handl of payment card data all
+compani that store process or transmit credit or debit card data must compli with thi set
+of standard
+the pci dss framework compris the follow 12 secur requir
+instal and maintain a firewal configur to protect cardhold data
+do not us vendorsuppli default of system password and other secur paramet
+protect store cardhold data
+encrypt transmiss of cardhold data across open public network
+us and regularli updat antiviru softwar or program
+develop and maintain secur system and applic
+restrict access to cardhold data on a needtoknow basi
+assign a uniqu id to each person with comput access
+restrict physic access to cardhold data
+track and monitor all access to network resourc and cardhold data
+regularli test secur system and process
+maintain a polici that address inform secur for employe and contractor
+failur to compli with pci dss can result in sever consequ impos by the card
+brand includ
+fine up to 500000 per data breach if data is compromis
+fine up to 25000 per month until complianc is obtain
+liabil for all fraud loss incur from compromis account number
+loss of abil to process payment card transact
+and while the feder govern ha not mandat complianc with the pci dss some
+the law relat to fraud part 1 law
+2272 2011 fraud examin manual
+state law forc element of the pci dss into law and sever state have consid
+amend their breachnotif law to includ liabil for an organ failur to
+adopt certain safeguard requir by the pci dss

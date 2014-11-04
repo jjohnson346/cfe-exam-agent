@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Evidence that tends to prove or disprove a fact of consequence is called:
+
+Options=Circumstantial concept | Relevant evidence | Legal relevancy | None of the above
+
+CorrectResponse=1
+
+Explanation=Rule 401 of the Federal Rules of Evidence defines relevant evidence as evidence ?having any tendency to make the existence of any fact that is of consequence to determination of the action more probable or less probable than it would be without the evidence.? In other words, relevant evidence is evidence that tends to prove or disprove a fact in issue. The facts in issue vary according to the case, but generally can be said to be those that tend to prove the essential elements of the offense or claim as well as related matters such as motive, opportunity, identity of the parties, and credibility. See page(s) 2.703 in the Fraud Examiner's Manual

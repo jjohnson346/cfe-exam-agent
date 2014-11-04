@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Sociologist Edward Gross has asserted that all organizations are inherently criminogenic, that is, prone to committing fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Sociologist Edv/ard Gross has asserted that all organizations are inherently criminogenic (that is, prone to committing crime), though not necessarily criminal. Gross makes this assertion because of the reliance on ?the bottom line." Without necessarily meaning to. organizations can invite fraud as a means of obtaining goals. Criminologist Oliver Williamson noted that because of a department?s concern v/ith reaching its goals, managers might well tend to maximize their department's own interests to the detriment of the organization.  See page(s) 4.507 in the Fraud Examiner's Manual

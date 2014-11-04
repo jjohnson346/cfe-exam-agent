@@ -1,0 +1,2334 @@
+2011 Fraud Examiners Manual/Law/BASIC PRINCIPLES OF EVIDENCE
+
+
+:
+
+
+Law
+
+
+:
+
+
+Evidence
+
+
+:
+
+
+BASIC PRINCIPLES OF EVIDENCE 
+ 
+Definition of Evidence 
+Black’s Law Dictionary defines evidence as: 
+ 
+Anything perceivable by the five senses, and any proof such as testimony of witnesses, records, 
+documents, facts, data, or tangible objects legally presented at trial to prove a contention and 
+induce a belief in the minds of a jury. 
+ 
+Evidence refers to an intricate rule, developed and refined over hundreds of years, that is 
+designed to ensure that only relevant and probative evidence is admitted in court proceedings, 
+and that irrelevant, unreliable, and prejudicial evidence is excluded so that cases can be fairly 
+and expeditiously decided. 
+ 
+Every aspect of trying a case — from filing the complaint through discovery, into the 
+presentation of witnesses and exhibits — is affected by rules of evidence. This body of law 
+covers not just what counts as evidence, but how that evidence is gathered, handled, and 
+presented.  
+ 
+Evidence in federal courts is governed by the Federal Rules of Evidence (FRE). These rules 
+set out what can and cannot be introduced during a dispute. In the late 1960s, a U.S. Supreme 
+Court panel began codifying centuries of common law into the FRE. What had previously 
+been a far-flung set of precedents, buried in local jurisdictions and lengthy appeals decisions, 
+was gathered into a singular body of information. Congress passed the Uniform Code of 
+Evidence in 1974 as Public Law No. 93-595. State and local courts often have some 
+specialized rules of evidence, but these rules are themselves based on federal guidelines.  
+ 
+The rules of evidence are complex, and counsel should be contacted if an important question 
+of evidence arises. This part focuses on the more important rules and those of greatest 
+interest to fraud examiners.  
+ 
+ 
+Three Basic Forms of Evidence 
+Evidence is anything perceptible by the five senses, which is invoked in the process of 
+arguing a case. Documents, spoken recollections, data of various sorts, and physical objects 
+are all potentially evidence. Evidence is simply anything that relates to the proving or 
+Basic Principles of Evidence  Law 
+2.702  2011 Fraud Examiners Manual  
+disproving of a fact or consequence. With the known universe available for court inspection, 
+legal authorities have narrowed the field by setting up categories to evaluate evidentiary 
+significance.  
+ 
+There are three basic forms, as distinguished from types, of evidence: testimonial, real, and 
+demonstrative. Testimony refers to the oral statements made by witnesses under oath. In 
+general, there are two types of testimonial witnesses: lay witnesses and expert witnesses. A lay  
+(or fact) witness is a non-expert witness who must testify from personal knowledge about a 
+matter at issue. An expert witness is a person who, by reason of education, training, skill, or 
+experience, is qualified to render an opinion or otherwise testify in areas relevant to resolution 
+of a legal dispute. 
+ 
+Real evidence describes physical objects that played a part in the issues being litigated. The term 
+includes both documentary evidence — such as canceled checks, invoices, ledgers, and 
+letters — as well as other types of physical evidence.  Therefore, a typewriter or printer in a case 
+involving questioned documents is clearly real evidence, as is a tape recording since members 
+of the court can experience the sounds firsthand.  
+ 
+Demonstrative evidence is a tangible item that illustrates some material proposition (e.g., a map, a 
+chart, or a summary). It differs from real evidence in that demonstrative evidence was not 
+part of the underlying event; it was created specifically for the trial. Its purpose is to provide a 
+visual aid for the jury. Nonetheless, it is evidence and can be considered by the jury in 
+reaching a verdict. 
+ 
+ 
+Direct Versus Circumstantial Evidence 
+There are two basic types of admissible evidence:  direct evidence and circumstantial evidence. 
+Direct evidence includes testimony that tends to prove or disprove a fact in issue directly, such 
+as eyewitness testimony or a confession. Circumstantial evidence is evidence that tends to prove 
+or disprove facts in issue indirectly, by inference. Many fraud cases are proved entirely by 
+circumstantial evidence, or by a combination of circumstantial and direct evidence, but 
+seldom by direct evidence alone. The most difficult element to prove in many fraud cases —
+fraudulent intent — is usually proved circumstantially, and necessarily so, because direct proof 
+of the defendant’s state of mind, absent a confession or the testimony of a co-conspirator, is 
+impossible. 
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.703 
+In a circumstantial case, the court may instruct the jury that the prosecution must exclude all 
+inferences from the facts other than its determination of guilt. Even if no such instruction is 
+given, the Certified Fraud Examiner should apply the same standard in preparing a 
+circumstantial case. 
+ 
+ 
+Admissibility of Evidence 
+Questions involving the admissibility of evidence occur when one party objects to another 
+party’s offer of evidence. If a judge sustains  an objection, the evidence is not admitted. If, 
+however, the judge overrules the objection, the evidence is admitted and can be considered by 
+the fact finder.  
+ 
+The admissibility of evidence depends on a wide variety of factors — and, in large part, on the 
+discretion of the trial judge. 
+ 
+Relevance 
+Although the admissibility of evidence depends on a number of factors, the most important 
+factor is relevance. The general rule of evidence provides that all relevant evidence is 
+admissible. Rule 401 of the Federal Rules of Evidence defines relevant evidence  as evidence 
+“having any tendency to make the existence of any fact that is of consequence to 
+determination of the action more probable or less probable than it would be without the 
+evidence.” In other words, evidence is relevant if it tends to make some fact in issue more or 
+less likely than it would be without the evidence. The facts in issue, of course, vary according 
+to the case, but generally can be said to be those that tend to prove the essential elements of 
+the offense or claim, as well as related matters such as motive, opportunity, identity of the 
+parties, and credibility. 
+ 
+Whether a particular piece of evidence is relevant or not depends on what the evidence is 
+offered to prove. An item of evidence might be relevant and admissible if offered to prove 
+one thing, but not relevant and inadmissible if offered to prove something else. For example, 
+under Rule 404(b) of the Federal Rules of Evidence, evidence of other crimes, wrongs, or acts 
+committed by the defendant would not be admissible if offered to prove that the defendant is 
+generally a bad person, and therefore is likely to have committed the crime with which he is 
+charged. However, evidence would be admissible if offered to prove motive, intent, identity, 
+absence of mistake, or modus operandi, if such factors are at issue. If evidence of other 
+wrongs or acts is admitted, the judge will instruct the jury that they may consider the evidence 
+Basic Principles of Evidence  Law 
+2.704  2011 Fraud Examiners Manual  
+only as it relates to the narrow issue for which it was admitted, and may not consider it for 
+any other purpose.  
+ 
+That evidence is relevant does not, however, automatically mean that it will be admitted. 
+Under Rule 403 of the Federal Rules of Evidence, relevant evidence still might be excluded if 
+it is unduly prejudicial, threatens to confuse or mislead the jury, threatens to cause 
+unnecessary delay or waste of time, or is merely cumulative. Relevant evidence also might be 
+excluded if it is subject to certain privileges as noted below. Thus, evidence of drug addiction 
+technically might be relevant to prove motive for embezzlement or fraud, but the judge still 
+might exclude the evidence if he believes that its probative value is outweighed by the danger 
+of prejudice to the defendant. Evidence of other crimes and acts, as discussed above, that are 
+otherwise relevant also might be excluded for the same reason. 
+ 
+ 
+Special Rules Concerning Some Types of Circumstantial Evidence 
+Special rules govern certain types of evidence that have been found over the years to be so 
+misleading and prejudicial that they have been categorically excluded. Such evidence is always 
+excluded unless an exception applies. 
+ 
+Character Evidence 
+In civil and criminal trials, there is strong policy against character evidence (FRE 404). 
+Character evidence (sometimes called propensity evidence) is testimony or exhibits that 
+purport to establish a “trait of character” or propensity to behave in a particular way, such as 
+carefulness, honesty, violence, or cowardice. There are some good reasons to leave character  
+out of the discussion whenever possible, such as the subjective nature of the description —
+one person’s “gruff” is another viewer’s “aggressive.”  
+ 
+Additionally, character is not an absolute indicator of behavior. That is, it is pretty common 
+to remark how “out of character” somebody’s actions were in a given situation. So there is 
+always a chance someone was acting out of character, making the behavioral propensity (if 
+there was one) useless in the legal exchange. 
+ 
+Finally, testimony about character has a reckless potential to be mistakenly founded, misled, 
+or concocted. It is always possible to “misjudge” someone, especially if we only know the 
+person in limited circumstances like work or a social club. Moreover, it is exceedingly easy to 
+fabricate incidents about character and, for shrewd talkers, to manipulate perceptions of 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.705 
+personality. In a fraud case, it must be shown that the defendant committed the act in 
+question. There is too great a danger of prejudicing the jury if you allow testimony about the 
+defendant just being a bad person. Whether he is a bad person or not ought to have no 
+bearing on whether or not he committed the act in question. 
+ 
+In general, character evidence is not admissible. In civil cases, character evidence is rarely 
+admissible, and the general rule in criminal cases provides that evidence of a defendant’s bad 
+character is not admissible at trial. For example, the government cannot offer evidence of a 
+defendant’s prior crimes or other bad acts to prove the defendant’s bad character.  
+ 
+There are, however, some instances where character evidence may be admitted in criminal 
+trials. Some of the exceptions for use of character evidence in criminal cases include:  
+• The accused may offer evidence of his good character, in which case the prosecution may 
+introduce evidence of the accused’s bad character. 
+• Character evidence may be admissible to reflect on the credibility of a witness. 
+ 
+Under Rule 404(b) of the Federal Rules of Evidence, evidence of other crimes, wrongs, or 
+acts is not admissible to prove the character of a person. In other words, such evidence is not 
+admissible to prove that the defendant is generally a bad person, and therefore is likely to 
+have committed the crime with which he is charged. For example, if a defendant is charged 
+with stealing money from his employer’s safe, the prosecution would not be permitted to 
+offer evidence that the defendant had previously stolen money from another employer to 
+show the defendant had a propensity to steal.  
+ 
+However, there are some uses of character evidence that may be admissible because they are 
+offered for a purpose other than showing character. Some of the exceptions for use of 
+character evidence in criminal cases include: 
+• To show the accused’s knowledge, intent, or motive for the crime 
+• To prove the existence of a larger plan of which the charged crime is a part 
+• To show the accused’s preparation to commit the charged crime 
+• To show the accused’s ability and means of committing the crime (possession of a 
+weapon, tool, or skill used in the commission of the act) 
+• To show the accused’s opportunity to commit the crime 
+• Threats or expressions of ill will by the accused 
+• To link the accused to physical evidence at the scene 
+• The suspect’s conduct and comments during arrest 
+Basic Principles of Evidence  Law 
+2.706  2011 Fraud Examiners Manual  
+• Attempts to conceal identity 
+• Attempts to destroy evidence 
+• Valid confessions 
+ 
+Opinion Testimony 
+During trial, most evidence is introduced through the testimony of witnesses. Evidence on 
+which the jury can make factual determinations must be introduced in the form of admissible 
+testimony or documentary evidence by law or fact (i.e., non-expert) witnesses.  
+ 
+The rules of evidence, however, limit the testimony of lay witnesses. Lay witnesses are only 
+allowed to testify about what they have actually experienced firsthand and their factual 
+observations (FRE 701). In general, witnesses provide a report on what they know and must 
+keep their opinions and conclusions to themselves.  
+ 
+Despite the general rule, there are ways to get a non-expert witness’s opinion into the record. 
+A lay witnesses may give opinions if the statement is “rationally based” on their own 
+perceptions, and if the opinion is helpful to a clear understanding of their testimony or the 
+determination of a fact.   
+ 
+Opinions are admissible if they pass a three-part test:  
+• The witness must have direct personal knowledge of the facts to which the opinion 
+pertains.  
+• The opinion must be of the common, everyday sort (i.e., does not involve specialized 
+knowledge or tests). 
+• The opinion is not part of a legal judgment, reserved for the jury or judge to decide. 
+ 
+Opinions from ordinary witnesses must be based on personal experience and have some 
+bearing on the facts (as opposed to the judgment) of the case. This distinction is further refined 
+in situations involving hearsay and personal judgment (discussed below).  
+ 
+In contrast to lay witnesses, expert witnesses are exempt from the opinion rule because 
+experts are hired to render a professional opinion. They possess education, training, skill, or 
+experience in drawing conclusions from certain types of data or information that lay 
+witnesses do not possess. Expert testimony, however, may be excluded if it embraces a legal 
+conclusion. Therefore, expert opinions addressing guilt or innocence will likely be excluded in 
+criminal cases.  
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.707 
+Exhibits 
+Exhibits are the tangible objects presented as evidence. Therefore, both real evidence and 
+demonstrative evidence are entered into the record as exhibits. This includes documents such 
+as contracts, letters, and receipts, as well as photographs, X-rays, baseball bats, knives, 
+fountain pens and computer files. In short, anything that is not testimony is an exhibit. 
+Testimony is what people say. Exhibits are the “props.” 
+ 
+Authenticating Typical Exhibits 
+At the most basic level, evidence must be established as reliable or authentic. Thus, evidence, 
+other than testimonial evidence, must be properly authenticated; that is, the party offering the 
+evidence must produce some evidence to show it is, in fact, what the party says it is. If a piece 
+of real evidence cannot be authenticated, the evidence will not be admitted even if it is plainly 
+relevant.  
+ 
+For proper authentication, the party offering the evidence must produce some evidence (e.g., 
+testimony from a person with first-hand knowledge) to show it is, in fact, what the party says 
+it is and that it has remained in the same condition from the moment it was seized until it is 
+used in court. 
+ 
+Similar to the authentication requirement for tangible evidence, there is a similar sort of 
+“credibility test” for witnesses. If testimony is to become admissible evidence, the witness 
+must demonstrate that the knowledge being communicated is believable and gained by 
+personal experience.  
+ 
+Below are some of the issues you will encounter in proving to the judge that a particular 
+exhibit is authentic. 
+ 
+Demonstrative Evidence 
+Again, demonstrative evidence refers to a tangible item that illustrates some material proposition. 
+It differs from real evidence in that demonstrative evidence is not part of the underlying 
+event; it is created specifically for the trial. Its purpose is to provide a visual aid for the jury. 
+ 
+An exhibit used for purely “illustrative purposes” is a type of demonstrative evidence. 
+Demonstrative evidence includes charts, graphs, and summaries that help to simplify 
+complicated evidence for the jury. In complex fraud cases, such evidence is extremely useful, 
+but it must be simple and easy to understand.   
+Basic Principles of Evidence  Law 
+2.708  2011 Fraud Examiners Manual  
+Demonstrative evidence is admissible if the court decides that it presents a fair and balanced 
+summary or picture of the evidence and is not unduly prejudicial, and if offered for its truth 
+value (and not just to illustrate a point), demonstrative evidence must be authenticated to 
+show that the evidence is in fact what it is claimed to be.  
+ 
+Also, demonstrative evidence must be made available to the other party, and the court may 
+order that the information used to create the exhibit be produced in court. 
+ 
+Diagrams 
+A diagram  is a schematic or technical drawing that is used to help make something easier to 
+understand. A diagram (on paper or some other tangible display) can be admitted as evidence 
+with no more foundation than the assent of a witness: “Is this a fair representation of the 
+suite where you work?” It does not have to be true to scale or particularly detailed. A diagram 
+can be prepared before trial, during trial, or prepped outside the court and finished during 
+questioning. If a party objects to the admission of a diagram, the offering party may need to 
+establish that it is reliable. Diagrams can be used in tandem with photos or other 
+representational evidence, or as assistance in demonstrations to the jury. 
+ 
+Writings 
+In general, authentication of a writing consists of establishing who authored the document. 
+Depending on the document and situation, this is done in one of several ways: (1) the author 
+testifies and claims authorship; (2) a witness testifies to seeing the author write the document; 
+(3) with handwritten letters, a witness verifies the author’s penmanship; (4) with typed or 
+machine-written documents, the witness verifies the author’s signature; (5) a witness testifies 
+that the contents of the document point decisively to the author. These and many other 
+document issues may require the participation of a questioned documents expert.  
+ 
+Business Records and Other Documents 
+Business records can encompass a broad range of documents, from all sorts of organizations, 
+including corporations, small businesses, nonprofit operations, and community groups. Like 
+other evidence, a party offering business records must provide testimony that the exhibit is 
+the business record in question. For proper authentication, the party offering the evidence 
+should be able to establish the following two things: 
+• The content of the document is complete and unaltered 
+• The document originated from the named place of origination 
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.709 
+Certain documents, such as business records, are self-authenticating and may be received into 
+evidence without independent proof of authenticity. Under the Federal Rules of Evidence, 
+business records are self-authenticating if a custodian or other qualified person certifies that 
+the records meet the following requirements:  
+• The records were prepared reasonably near the time of the event it describes. 
+• The records were made by, or based on information transmitted from, a person with 
+knowledge 
+• The document was prepared as a usual part of doing business (i.e., it was not prepared 
+specifically for litigation). 
+ 
+Business records are also vulnerable to hearsay objections. Put differently, offering the 
+contents of business records to establish the truth of their contents can constitute hearsay. 
+Thus, such materials can be barred as unreliable out-of-court statements unless a trustworthy 
+foundation can be established. If, however, there is certification that complies with the self-authenticating 
+rules listed above, the records will not only be self-authenticating, but the 
+contents of the records will be admissible to the prove the truth of the contents as an 
+exception to the rule against hearsay.  
+ 
+Government Documents 
+The requirements for government documents are the same as for other business records. The 
+distinction between government and business records arose because of narrow interpretations 
+of the law that separated nonprofit from for-profit enterprises. Today, most records, 
+regardless of origin, are called business records. 
+ 
+Phone Records 
+To be admitted into evidence, phone records  must meet the business records authentication test. 
+However, investigators must also be aware of the federal Telephone Records and Privacy 
+Protection Act of 2006 (TRPPA), which criminalizes the practice of obtaining and attempting 
+to obtain confidential phone record information through pretexting (gaining access through 
+the use of false statements) unless it is otherwise permitted by law. Violations of the Act are 
+criminal, and if convicted, a violator faces up to 10 years in prison and up to $100,000 in 
+fines.  
+ 
+Electronically Stored Information 
+Currently, there is still much controversy regarding how to authenticate electronically stored 
+information (ESI). The U.S. Department of Justice’s Computer Crime and Intellectual 
+Basic Principles of Evidence  Law 
+2.710  2011 Fraud Examiners Manual  
+Property Section has developed a manual for electronic search and seizure, which judges have 
+used as a guide as to whether digital evidence has been properly seized. If digital evidence 
+needs to be seized, it is vital that examiners engage the services of a trained computer forensic 
+technician. A properly trained technician should know the procedures to follow to ensure that 
+the files can be authenticated. 
+ 
+Generally, to be admissible, ESI evidence must meet the same authentication standards as 
+hard copy documents (i.e., to show that the item is what the proponent claims); however, 
+courts have recognized that the authentication of ESI evidence may require greater scrutiny 
+because ESI can easily be altered after creation. Thus, to prove that a particular electronic 
+document is authentic, those offering the evidence must demonstrate that the original 
+document was not modified after its creation.  
+ 
+Rule 901 of the Federal Rules of Evidence provides a non-exclusive, explicative list of 
+methods by which evidence can be authenticated, and some of the methods may be used to 
+authenticate ESI. Rule 901(b)(1) allows authentication through testimony of a witness with 
+knowledge that a matter is what it is claimed to be. Additionally, Rule 901(b)(3) allows for 
+authentication by comparison to already authenticated evidence by an expert witness or the 
+trier of fact. Similarly, Rule 901(b)(4) allows authentication by circumstantial evidence of 
+distinctive characteristics (e.g., hash values or metadata).  
+ 
+Furthermore, under Rule 902, some documents are self-authenticating, which means that they 
+may be received into evidence without independent proof of authenticity. For ESI purposes, 
+the three most relevant categories of self-authenticating documents are official publications, 
+trade inscriptions, and certified copies of business records.  
+ 
+In addition, different forms of ESI evidence may require different authentication approaches. 
+Therefore, it is helpful to examine a few common types.  
+ 
+E-MAIL 
+Unlike traditional business letters written on formal letterhead, e-mails are more prone to 
+authenticity issues and may be more difficult to properly authenticate. For example, the judge 
+in Lorraine v. Markel, 241 F.R.D. 534 (D. Md. 2007) refused to allow either party to offer e-mails
+of an arbitration negotiation as evidence, finding that neither party authenticated the e-mails 
+by simply attaching them to their motions as exhibits. 
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.711 
+E-mail authenticity issues usually arise because e-mail systems are unreliable and inherently 
+unsecure, making e-mails susceptible to alteration. Moreover, e-mails can lack reliability 
+because the identities of senders can be corrupted through unauthorized access and use.  
+ 
+Even so, there are numerous ways e-mail can be authenticated, including:  
+• Witness with personal knowledge (e.g., a witness testifies that he recognizes a copy of an 
+e-mail that he received or drafted) 
+• Comparison with authenticated examples (e.g., if one e-mail has been properly 
+authenticated, a second e-mail could by authenticated by comparing it with the first) 
+• Circumstantial evidence of distinctive characteristics (e.g., the presence of a party’s name 
+and e-mail address or the presence of metadata) 
+• Trade inscriptions purporting to have been affixed in the course of business and 
+indicating ownership, control, or origin (e.g., an automatic business signature at the end of 
+the e-mail) 
+• Certified copies of business records (e.g., e-mail is accompanied by a written certification 
+by its custodian) 
+ 
+TEXT AND INSTANT MESSAGES 
+As the use of text and instant messages continues to grow, parties are offering this ESI as 
+evidence in an increasing number of cases. However, given the nature of this type of 
+evidence, parties often encounter foundational issues when authenticating text and instant 
+messages. Notwithstanding the novel technology involved, these types of ESI can be 
+admissible when the proponent offers direct or circumstantial evidence as to its authenticity. 
+The most likely authenticate chat room and text messages are: 
+• Witness with personal knowledge (e.g., a witness testifies that he recognizes a copy 
+messages that he received or drafted) 
+• Circumstantial evidence of distinctive characteristics (e.g., the use of the defendant’s name 
+in the text messages and the subject matter of the messages) 
+ 
+COMPUTER RECORDS  
+Courts typically accept computer files and documents as evidence. In fact, courts themselves 
+are using more electronic resources because many aspects of litigation can now be conducted 
+electronically. 
+ 
+Traditionally, to be admitted as evidence, computerized records need only meet the usual 
+business-records authentication, which requires that the computerized records be 
+Basic Principles of Evidence  Law 
+2.712  2011 Fraud Examiners Manual  
+accompanied by certification by a qualified person stating that (1) the records were prepared 
+reasonably near the time of the event they describe, (2) the records were prepared as a usual 
+part of doing business, and (3) the organization’s way of keeping records is demonstrably 
+reliable.  
+ 
+The required supporting material to authenticate computer records will include information 
+on the computing machine used, any software, and the record-keeping process. A business 
+record, electronic or otherwise, is legal as long as it’s kept in the normal course of business. 
+When there are clear routines for compiling information, admitting the record into court will 
+be routine.  
+ 
+Recently, however, courts have recognized that authentication of computerized records may 
+require greater scrutiny because, unlike other ESI evidence, the primary authentication issue 
+regarding computerized records is what has, or may have, happened to the record in the time 
+between when it was entered in the files and the time of trial. Based upon this view, the most 
+likely methods of authenticating computerized records are: 
+• Witness with personal knowledge (e.g., an authenticating witness attests to the process by 
+which the computerized records are created, acquired, maintained, and preserved) 
+• Circumstantial evidence of distinctive characteristics (e.g., a person’s business habit is 
+consistent with the document) 
+• Certified copies of business records (e.g., computerized records are accompanied by 
+custodian’s written certification)  
+ 
+Website Data 
+A growing number of people are using social networking sites like LinkedIn, Facebook, 
+MySpace, and Twitter, and, as a result, the legal use of information obtained from social 
+media sites has increased. Many users don’t give much thought to what they post online. And 
+because most of the information that gets posted online becomes a permanent record 
+somewhere, investigators, attorneys, and employers are increasingly mining these sites for 
+information, photos, and videos that can become evidence in civil and criminal litigation. 
+ 
+As with all evidence, the proponent of social media evidence must be prepared to establish 
+that the evidence is authentic. The standard for authenticating evidence from social media 
+sites is no different than for any other types of evidence. That is, there must be sufficient 
+evidence to support a finding that the evidence is what the proponent claims.  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.713 
+In some courts, authenticity can be established by the testimony of a witness. Like any other 
+demonstrative exhibit, parties can authenticate a website with the testimony of a witness who 
+verifies that the exhibit at issue accurately reflects what he observed after logging on to the 
+site and reviewing what was there.  
+ 
+Alternately, the proponent may be able authenticate a website by providing testimony from 
+the webmaster or someone with personal knowlege to show that the data was posted by the 
+person to whom the information is attributed. For example, if website data is attributated to 
+the website owner, the webmaster can testify that a particular file or content was entered on a 
+site at a specific time. This is similar to authenticating writings by showing that the item was 
+written by the person to whom it is attributed. But because Facebook, MySpace, and Twitter-type
+evidence typically comes from third parties, who sometimes uses pseudonyms, 
+attributing this type of evidence to a certain person can be challenging.  
+ 
+Finally, some website data may be self-authenticated. To review, self-authenticating evidence 
+may be received into evidence without independent proof of authenticity. The types of 
+website evidence that may fall under this category include government material that appears 
+on official government websites or business-related material that appears on an organization’s 
+website. 
+ 
+Photographs 
+Concerning photographs, it is necessary to establish their fidelity to the object they claim to 
+represent. This means that the offering party must prove that the picture is unaltered and 
+shows what the proponent claims it shows. Generally it is enough to have a witness familiar 
+with the object or space in a photo to corroborate it (e.g., “Yes, that’s the hallway running 
+between our two buildings.”). The matter gets more complicated when a photo is 
+controversial. This can require technical specifications for proper foundation. In the most 
+famous trial since Sam Sheppard, O.J. Simpson’s lawyers challenged a photo of the defendant 
+wearing Bruno Mali shoes as “doctored.” Both sides introduced experts to discuss whether 
+the photo had been altered, what sort of camera, lens, and environmental conditions were 
+involved, etc. The same issues can arise with photos in any trial.   
+ 
+In some unusual situations, a photo may reveal information that no witness can corroborate. 
+There has been at least one instance where the background of a photo showed a stabbing that 
+took place in a crowd. No one, not even the photographer, saw the stabbing at the time. In 
+unusual situations where a photo communicates evidence not substantiated elsewhere, the 
+Basic Principles of Evidence  Law 
+2.714  2011 Fraud Examiners Manual  
+foundation of the photograph will need more strength — including technical details on the 
+camera, the film, who took the shot, why and where, etc.  
+ 
+The exceptions make photos seem more legally fraught than they are. They usually are 
+admitted with little objection. Photos do not even have to be contemporary with the crime or 
+grievance to which they pertain. If a photograph is established as accurate in its portrayal, it 
+can be shot after the original act.  
+ 
+General Points 
+Either side can enter exhibits into the record, given the proper foundation. Once admitted, 
+the evidence is available for use by either side. It does not matter who entered the item into 
+evidence; either side can use it during questioning.  
+ 
+It also does not matter when exhibits are admitted. They may be introduced into evidence 
+during direct examination: opposing counsel is allowed to inspect the exhibit and then the 
+witness confirms the exhibit, which has been marked Exhibit A (or Exhibit 1). Some courts 
+use letters for exhibits while some court use numbers. Usually the exhibit is identified by 
+which side enters it (e.g., Plaintiff’s Exhibit 1.)  
+ 
+When everyone agrees, exhibits can be directly entered into the record, without foundational 
+review, by stipulation — both parties sign the stipulation form, describing and acknowledging 
+the exhibit. 
+ 
+The “Best Evidence” Rule 
+Sometimes testimony may be rejected because of the “best evidence” rule, which prohibits a 
+party from testifying about the contents of a document without producing the document 
+itself. This rule, however, only applies when an original or copy is being used to prove the 
+contents of a writing.  
+ 
+Also known as the “original writing” rule, the best evidence rule provides that when a witness 
+testifies about the contents of a document, at least a fair copy of the original must be available 
+for inspection. If there is no original, a copy of the proven authentic document will do, but 
+the court must be assured that the copies are reliable and accurate. If the document is lost —
+no original, no copies — the judge will have to be convinced there is good reason to forgo the 
+exhibit and admit the testimony.  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.715 
+Fraud examiners can use copies in preparing their case reports, but at trial, the original must 
+be produced if it is available. Thus, when public records are involved in a fraud examination, 
+examiners should always obtain certified copies. 
+ 
+With regard to computerized data, the best evidence rule does not require the party offering 
+ESI as evidence to bring the original custodian’s computer, monitor, and other equipment to 
+display the information at trial. Rather, Rule 1001(3) provides that an original writing includes 
+any printout or other “output readable by sight, shown to reflect the data accurately.” Thus, 
+hard-copy printouts of documents, e-mail, and other ESI qualify as originals under the 
+Federal Rules of Evidence.  
+ 
+Objections to Exhibits 
+Just because an exhibit is authenticated does not mean it is automatically admitted. If the 
+evidence violates some other rule of evidence — such as the rules against hearsay, prejudice, or 
+relevance — the exhibit will likely be barred. 
+ 
+If an objection is made, the admissibility of some exhibits require separate hearings for the 
+judge to consider the issue. Fraud trials can be bogged down with lengthy challenges to the 
+sometimes mountainous stacks of documents offered as evidence. In deciding on the 
+admissibility of exhibits, judges can decide to admit the material just as it is, admit it with 
+alterations (such as expurgating parts of a text or obscuring certain images), or deny the 
+admission altogether. 
+ 
+Chain of Custody 
+If evidence is subject to change over time, or is susceptible to alteration, the offering party 
+may need to establish that the evidence has not been altered or changed from the time it was 
+collected through its production in court. This is done by establishing a chain of custody. The 
+chain of custody is both a process and a document that memorializes (1) who has had possession 
+of an object, and (2) what they have done with it; it is simply a means of establishing that 
+there has not been a material change or alteration to a piece of evidence. 
+ 
+Chain of custody issues are paramount issues in any case, affecting every piece of physical 
+evidence. When parties present evidence to a court, they must be ready to show that the item 
+they are offering is the same item that was seized. When that evidence is not distinctive but 
+fungible (e.g., bags of cash, bullet shell casings, or electronic data), the process or system 
+which authenticates the item is to maintain a chain of custody. 
+Basic Principles of Evidence  Law 
+2.716  2011 Fraud Examiners Manual  
+In general, establishing the chain of custody consists of documenting each person who had 
+control or custody of the evidence; how and when it was received; how it was maintained or 
+stored while in each person’s possession; what changes, if any, it underwent in that person’s 
+custody; and how it left that person’s custody.  The end result is a chain of testimony that 
+accounts for the movement and location of physical evidence from the time it is obtained to 
+the time it is proffered at trial. The goal is to show that access to the evidence was limited to 
+those who testified in the chain of custody and thereby demonstrate that the evidence has not 
+been materially altered. 
+ 
+Gaps in the chain of custody (e.g., when it is not clear what occurred with a set of records) or 
+outright mishandling (e.g., a group of questioned documents was not properly sealed), can 
+dishevel a case but not wreck it outright. Courts have found in some cases that even though 
+there have been mistakes in the chain of custody, the mistake affects the “weight,” though 
+not the “admissibility,” of evidence. That is to say, the evidence will still be allowed into the 
+record, but it is accompanied by a forthright description of any improprieties that have 
+occurred in the chain of custody. The jury and judge are supposed to consider the 
+improprieties when they deliberate, “weighing” the case for guilt or innocence.  
+ 
+In fraud cases, the array of physical evidence, all the paper documents, audio and video 
+recordings, and information-processing equipment, such as computers, demands some close 
+monitoring in the chain of custody. This is an area of the law which either side — plaintiff or 
+defendant — can manipulate to avoid talking about the evidence itself, rambling instead like a 
+filibustering senator over “who touched what and when and why that means we will not see 
+or discuss the item in question.”  
+ 
+The following are some general guidelines that will help examiners demonstrate the chain of 
+custody. They will also help examiners in authenticating obtained evidence: 
+• If records are received via mail or courier-receipted delivery (such as FedEx or UPS), 
+keep copies of the postmarked envelope or the delivery receipts. 
+• If a cover letter is included, make sure you keep it. 
+• If the cover letter or transmittal letter includes a list of the documents, check the package 
+immediately to ensure all documents are there. If something is missing, make a note in the 
+file and notify the sender immediately.  
+• If you receive documents in person, create a memo stating the date and time the 
+documents were received, who gave you the documents, where that individual obtained 
+the documents, and a complete list of the documents received. 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.717 
+• If you obtained the documents yourself from the original source (desk, file cabinet, etc.), 
+create a memo describing the date, time, exact location of where the documents were 
+found, and a complete list of the documents obtained. 
+• Keep the originals of these memos or delivery receipts in the case file and keep a copy 
+with the documents (it will be much easier to identify where the documents came from if 
+you have the information with the documents). 
+ 
+Additionally, because digital evidence can be easily altered or destroyed, a chain of custody 
+must be maintained for all electronic evidence gathered and analyzed in an investigation. ”At 
+a minimum, the following chain of custody procedures should be followed: 
+• Identify each item that contains relevant information.  
+• Document each item, who it was received from, who authorized its removal, the location 
+of the item, and the date and time the item was received.  
+• Maintain a continuous record of the item’s custody as it changes hands.  
+ 
+ 
+Hearsay 
+Simply put, hearsay refers to a statement that repeats what some other person said while 
+outside of court. FRE 801 defines hearsay as “a statement, other than one made … at the trial 
+or hearing, offered in evidence to prove the truth of the matter asserted.” Basically, hearsay 
+involves the following elements: 
+• A statement (anything intended to be an assertion; statements can be oral, written, or 
+nonverbal conduct, such as nodding a head) 
+• That is made outside the court’s supervision (statements made at trial or during deposition are 
+not hearsay because they are made during court proceedings, but a statement made at 
+work or at a crime scene is outside the court’s supervision and could be hearsay if the 
+other elements are also present) 
+• That is offered to prove the truth of the matter asserted (a party is offering a statement to prove the 
+truth of the matter asserted if the party is trying to prove that the assertion made by the 
+declarant [the person who made the out-of-court statement] is true) 
+ 
+This sets apart virtually anything said outside the courtroom or outside an officially 
+designated function of the court such as a deposition.  
+ 
+Under the general rule, hearsay is not admissible in court, but this rule is subject to numerous 
+exceptions. Excluding hearsay on one level means witnesses cannot say, “He said … she 
+Basic Principles of Evidence  Law 
+2.718  2011 Fraud Examiners Manual  
+said.” Each person testifies to his own experience.  This is designed to protect the credibility 
+and condition of testimony and to preserve each side’s right to cross-examine witnesses.  
+ 
+Each witness in the trial will be questioned about personal, firsthand encounters. Unless their 
+statements satisfy one of the exceptions discussed below, witnesses will speak only about 
+things they have experienced themselves. If possible, evidence should be presented in the 
+courtroom so that the jury can determine the weight to give each piece of evidence.  
+ 
+The hearsay rule often creates admissibility issues for electronically stored information (ESI) 
+because such evidence is often made out of court and offered to prove the truth of the matter 
+asserted.  
+ 
+Exceptions to the Hearsay Rule 
+The general rule against hearsay is full of exceptions — ways to get information into the 
+record — which accounts for the rule’s infamy in courtroom dramas and in real courtrooms. 
+The rules of evidence exempts several categories of statements that are not to be considered 
+hearsay, and there are many circumstances in which evidence, although hearsay, is admissible.  
+ 
+The Truth of the Statement Is Not at Issue 
+The hearsay rule only applies if the statement is being offered to prove the truth of the matter 
+contained in the statement. Therefore, if the statement is offered for some other purpose, it 
+technically is not hearsay. Any out-of-court statement can be admitted if it (1) is relevant to 
+some aspect of the proceedings and (2) is not offered for the truth of its contents. Such 
+statements are most often used to show a person’s knowledge or state of mind at a particular 
+time. For instance, a witness will be allowed to testify that she heard the defendant say, “I 
+can’t stand this company. They owe me big time.” The statement cannot be used to prove 
+that the defendant actually stole from the company; however, it can be admitted to show the 
+defendant’s state of mind — that he was disgruntled. 
+ 
+Admissions by an Adverse Party 
+Generally, the statement of an adverse party is not hearsay. Such statements are called 
+“admissions” and can be very powerful evidence. More specifically, an admission is an out-of-court 
+statement or conduct by a party to the lawsuit that tends to support the other side’s 
+position or diminish the declarant’s own position. Thus, anything spoken or written by a 
+party to a lawsuit can be entered into the record, provided that the statement can be  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.719 
+corroborated and is relevant. Each side can use its adversary’s out-of-court statements as 
+evidence.  
+ 
+For example, during your investigation of the case prior to trial, you interviewed the 
+defendant. During the interview, he tells you that he falsified the invoices. Later he denies 
+making the statement. If you take the stand and tell the jury that the defendant told you he 
+falsified invoices, technically that statement is hearsay. However, since it is an admission, it 
+will be admitted under this exception to the rule.  
+ 
+An admission is not necessarily an outright confession. A witness may testify that a bank 
+officer told her, “I have ways of getting loans approved that no one else knows about.” The 
+statement alone does not prove loan fraud against the officer, but it does establish, by his 
+own admission, his stated intent to subvert the security controls of the institution. 
+ 
+In cases involving corporations, large groups, or government agencies, any statement made by 
+a member of the organization is potentially an admission. The person who made the 
+statement has to be directly authorized to speak for the organization or perform a job related 
+to the issue under discussion. For example, an agent employed by Jefferson Realtors who 
+says, “You’ve been defrauded here” to an aggrieved client has made an admission on behalf 
+of the company. A janitor at Jefferson Realtors, however, cannot make the same admission 
+because janitorial duties are not related to the formation of contracts, and chances are the 
+janitor is not authorized to make corporate declarations. Since an agent makes contracts on 
+the company’s behalf, the statement is an admission even if the agent is not the official 
+spokesperson for Jefferson’s legal affairs.  
+ 
+Former Testimony Under Oath 
+Testimony given by the declarant at another hearing is admissible if the party against whom 
+the testimony is now offered had an opportunity and motive to examine the witness similar to 
+that in the present trial. 
+ 
+Business and Government Records 
+We commonly think of invoices, receipts, and official documents as the final legal word, but 
+like statements made outside of court, business and government records are hearsay; they are 
+prepared outside the courtroom. A special exception for these materials, however, makes 
+them admissible if they are provided with a legal foundation. The admissibility of such 
+records rests on two criteria:  
+Basic Principles of Evidence  Law 
+2.720  2011 Fraud Examiners Manual  
+• Have they been prepared during “regularly conducted business activity”? 
+• Are they verifiably trustworthy? 
+ 
+Materials prepared specifically for trial are not admissible as business records. Anything that 
+casts doubt on the veracity of these documents can bar them. In situations where the charge 
+involves altered documents, the materials are admitted to prove the charge of alteration — not 
+for their truth-value — so the hearsay rule does not apply.  
+ 
+Computerized records have had no trouble being accepted as evidence. Generally, the hearsay 
+exception for business records applies (i.e., they are admissible as long as the records have 
+been compiled as a regular facet of doing business).  
+ 
+However, it should be noted that a minority of courts follow a different approach when 
+addressing hearsay within computerized records, which has recently garnered much acclaim. 
+These courts distinguish between computer-stored records and computer-generated records 
+and hold that ESI containing only computer-generated records (such as log-in records from 
+ISPs, telephone records, and ATM receipts) untouched by human hands do not contain 
+hearsay. In such cases, there is no need to establish that a hearsay exception applies. 
+Alternatively, computer-stored records are created or maintained by a human and therefore 
+are deemed hearsay. Thus, they must meet a hearsay exception to be admitted. 
+ 
+Statement Against Interest 
+A statement against interest is a special form of admission in which a prior statement is at odds 
+with the declarant’s current claim. To be admissible under this exception, the statement must 
+meet three requirements:  
+• The declarant must be unavailable to testify. 
+• The statement must have been against important interests of the declarant when made. 
+• Corroborating circumstances must clearly establish the trustworthiness of the statement. 
+ 
+In prosecuting a tax evasion charge, for example, prosecutors may present a financial 
+statement used by the defendant to obtain a loan; this is a statement against interest because 
+the document declares a higher net worth than the defendant now claims to have. 
+ 
+Absence of an Entry in Business Records 
+Evidence that a matter is not included in the memoranda or reports kept in the regular course 
+of business may be admissible to prove that a certain event did not occur if the matter was 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.721 
+one about which a memorandum or report regularly was made and preserved. However, this 
+does not hold true if the source of information or the circumstances indicate a lack of 
+trustworthiness. 
+ 
+Recorded Recollections 
+A memorandum or record may be admissible if it concerns a matter that the witness once had 
+knowledge of but now has forgotten, if it was made or adopted by the witness when the 
+matter was fresh in memory, and if it is shown to be accurate. Such memoranda or records 
+also may be shown to a witness who has temporarily forgotten the events to refresh the 
+witness’s recollection and allow the testimony to be more complete or accurate. 
+ 
+Present Sense Impressions 
+Courts assume statements that are made during or immediately after significant events or 
+conditions and that describe or explain the events or conditions are reliable, so present sense 
+impressions are admissible. For example, a witness can report that he first suspected fraud at 
+Securities Plus by noting that his superior said, “Oh my God! This can’t be happening!” when 
+he was informed that there would be an audit. In a similar example, Mr. Whistler notices 
+Jenny Moore, a co-worker, in John Smith’s office and overhears her say, “Oh, here are some 
+bid sheets in the trash can.” If the government prosecutes Smith for bid rigging, which is 
+demonstrated by the bid sheets, Mr. Whistler can testify about Moore’s statement as a present 
+sense impression because the words described the scene before her. 
+ 
+Excited Utterances 
+There is also an exception for statements relating to a startling event or condition made while 
+the declarant was under the stress of its excitement. Unlike statements of present sense 
+impressions, excited utterances require an occurrence that is startling enough to produce 
+excitement.  In the Mr. Whistler scenario, for example, Moore’s statements might qualify as 
+an excited utterance if she discovered the bid sheets after months of searching for 
+incriminating evidence and told Whistler, while jumping up and down in excitement, “I’ve 
+found the evidence I’ve been waiting for a long time!” Here, the successful conclusion of the 
+search was sufficiently exciting.  
+ 
+Then Existing Mental, Emotional, or Physical Condition  
+Statements of the declarant’s then-existing state of mind, emotion, or physical condition are 
+also admissible as exceptions to the hearsay rule. Specifically, the Federal Rule of Evidence 
+803 lists “state of mind, emotion, sensation, or physical condition …, pain, and bodily health” 
+Basic Principles of Evidence  Law 
+2.722  2011 Fraud Examiners Manual  
+as acceptable subject matter, along with extremely personalized thought processes such as 
+“intent, plan, motive, design, mental feeling ….”  
+ 
+Defense attorneys at a fraud trial sometimes use arguments about what their client intended, or 
+the confusion and stress the person was suffering. For instance, the defendant was seen 
+shredding documents, and he was overheard to say, “They’ll never prove anything now.” The 
+statement may be admitted to show the defendant’s state of mind at the time he was 
+shredding the documents. It also shows that the defendant acted with the intent to destroy 
+the documents. Hearsay statements that help establish this intention are admissible as 
+exceptions. 
+ 
+Statements for Purposes of Medical Diagnosis or Treatment 
+Anything first communicated during a medical examination is admissible as a hearsay 
+exception. This includes medical history, symptoms, pain, and the general character of the 
+medical condition. These statements do not even have to have been made by the patient. 
+They can involve someone (parent or spouse) accompanying the patient.  
+ 
+Printed Matter, Learned Treatises, and Refresher Writings 
+Written materials that add to the court’s knowledge of an issue are excepted from the hearsay 
+rule. This exception often bears on the testimony of expert witnesses who often use 
+published material in their work. 
+ 
+Printed materials  that support technical or professional assertions, such as commodity market 
+reports, stock market quotes, mortality tables, cost of living indexes, etc., are admissible if 
+they are “generally used and relied upon by the public or by persons in particular 
+occupations.” The Federal Rules of Evidence specifically mentions market reports and 
+commercial publications. 
+ 
+The Federal Rules of Evidence also creates a hearsay exception for learned treatises, providing 
+that an authoritative work is admissible to either support or attack the opinion of an expert 
+witness and that the works are established as reliable authority. However, some courts limit 
+the rule. In these jurisdictions, specialized “treatises, periodicals, or pamphlets” can be 
+referenced only during cross-examination. In a world of proliferating and sometimes 
+contradictory sources of information, just what counts as a learned treatise and what is a 
+fringe group’s manifesto is not immediately clear. 
+Writing used to refresh a witness’s memory is admissible under special circumstances. Basically, 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.723 
+courts may permit testifying witnesses to refresh or revive their memory by referring to a 
+writing or anything else if the witnesses will thereafter be able to testify without depending on 
+the terms of the writing. For example, Whistler, who is serving as a witness at a fraud trial, 
+wants to see some notes he wrote two years ago to make sure he got the numbers right in his 
+testimony. He is allowed to consult the notes and continue with his testimony. There is a 
+lawyerly aspect to this rule—the text of the notes is admissible, too, but only if the opposing 
+attorney requests the admission.  
+ 
+Other Exceptions 
+Miscellaneous exceptions to the hearsay rule include things like dying declarations  and ancient 
+documents. For those instances not specified in any rule, there remains the judge’s discretion: 
+Anything the judge deems trustworthy for the purposes of its presentation is admissible. This is 
+the cornerstone of the rule. Hearsay is excluded in the first place because it supposedly lacks 
+trustworthiness. However, other kinds of hearsay that do not fall within any specific hearsay 
+exceptions may be admissible if they meet the same standards of trustworthiness as required 
+for the listed exceptions.   
+ 
+ 
+Excluding Illegally Seized Evidence 
+In general, evidence obtained improperly is tainted and unfit for trial. The Fourth 
+Amendment sets out this cornerstone exclusionary rule, barring anything obtained by 
+authorities without proper authorization from the owner or possessor, or through a court-ordered 
+search warrant. Generally, this rule applies only in criminal cases, But it also applies 
+to government employers. Therefore, a public employer cannot use illegally seized evidence 
+to discipline an employee. There is no Fourth Amendment prohibition against a private  
+employer using illegally seized evidence to discipline an employee, however. But if a private 
+employer does use illegally seized evidence to discipline an employee, the employer might be 
+exposing itself to litigation for invasion of privacy, trespass, or other common law causes of 
+action, even though the evidence may still be admitted in court. 
+ 
+ 
+Impeachment 
+The above discussion concerns the manner in which evidence is introduced at trial, usually 
+during direct examination. There is, of course, another side to testimony: cross-examination. 
+Under the Rules of Evidence and the Sixth Amendment — which guarantees a defendant the 
+right to confront witnesses — the adverse party is entitled to offer evidence to impeach the 
+Basic Principles of Evidence  Law 
+2.724  2011 Fraud Examiners Manual  
+testimony or credibility of a witness. Impeachment is the practice of bringing out matters that 
+attack a witness’s credibility.  
+ 
+There are numerous ways an attorney might impeach a witness, but the most common ways 
+include efforts to show that the witness:  
+• Is influenced by bias or self-interest 
+• Has an impaired ability to observe   
+• Made prior inconsistent statements 
+• Has been convicted of a felony 
+• Has a reputation for untruthfulness 
+ 
+Impeachment by bias shows that the witness has reason, or at least opportunity, to skew the 
+evidence against one of the parties in the litigation. Questioning on cross-examination will 
+cover any pecuniary interest the witness has in the case, any connection the witness might 
+have to any matter or litigant, and any other information that will make the witness appear to 
+have some interest in favoring one party over another. 
+ 
+Another way to impeach witnesses is to show that their ability to observe was impaired. Matters of 
+observance include the ability to see, hear, smell, or feel some item in question.  
+ 
+Nothing overturns a witness’s statements like inconsistency. Opposing lawyers will always 
+confront any witness on cross-examination with any apparent inconsistencies between the 
+trial testimony and statements, testimony, or information given by the witness on other 
+occasions.  
+ 
+A witness’s credibility may be challenged, though not automatically impeached, by showing that 
+the person has been convicted of a felony crime. The governing rule, Rule 609 of the Federal Rules of 
+Evidence, offers a few basic instructions. First, convictions for acts involving dishonesty, 
+such as larceny, theft, or fraud, are especially harmful to a witness’s testimony. Second, any 
+witness may be impeached with any prior felony conviction. Third, evidence of any prior 
+conviction is presumably inadmissible if the conviction is more than 10 years old. 
+ 
+Finally, any witness may be impeached by proof of reputation for untruthfulness.  
+ 
+Certified Fraud Examiners should keep in mind that the above methods of impeachment may 
+be used not only on the defendant and defense witnesses, but also on witnesses for the 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.725 
+prosecution or defense. Inquiries should be made before trial to determine if a prosecution or 
+defense witness is subject to impeachment, and, if so, appropriate steps should be taken. 
+ 
+ 
+Privileges 
+ 
+Introduction 
+There are certain evidentiary privileges that protect certain types of evidence from being 
+discovered or produced. Invoking a privilege for a piece of testimony or other evidence in a 
+legal encounter keeps the material outside trial proceedings. If a privilege applies, the court 
+and its petitioners are denied access to the privileged information, and judges and juries must 
+disregard any evidence they do actually hear if it is deemed privileged afterward.  
+ 
+The most important privileges are discussed below. 
+ 
+Attorney-Client Privilege 
+The attorney-client privilege precludes disclosure of communications between an attorney 
+and client, but only if the following conditions are met: 
+• The client retained the attorney 
+• To provide legal advice 
+• And thereafter communicated with the attorney on a confidential basis, and 
+• The privilege has not been waived 
+ 
+The attorney-client privilege applies to individuals as well as corporations or other business 
+entities. In the context of an investigation of a company, communications generally will be 
+protected under the attorney-client privilege if the following elements are present: 
+• The communications were made by corporate employees to counsel. 
+• The communications were made at the direction of corporate superiors in order for the 
+company to obtain legal advice from counsel. 
+• The employees were aware that the communications were being made in order for the 
+company to obtain legal advice. 
+• The information needed was not available from upper management. 
+• The communications concerned matters within the scope of the employees’ corporate 
+duties. 
+  
+Basic Principles of Evidence  Law 
+2.726  2011 Fraud Examiners Manual  
+• The communications were confidential when made and were kept confidential by the 
+company. 
+ 
+A general counsel’s participation in an investigation conducted by management does not 
+automatically create an attorney-client privilege. The key element is that the attorney (whether 
+in-house counsel or outside counsel) is conducting the investigation for the purpose of 
+providing legal advice to the company. The privilege generally extends to information 
+gathered by investigators if the investigator is acting at the direction of the attorney. 
+ 
+The attorney-client privilege prevents disclosure of the communications—the letters, memos, 
+or contents of telephone calls—b etween the attorney and client, not of the underlying facts 
+or documentary evidence in the case. A client may not refuse to produce documents or other 
+relevant evidence merely because such evidence was previously given to the attorney. 
+ 
+Similarly, the attorney-client privilege does not prevent disclosure of communications that 
+relate to business rather than legal advice. Corporate counsel is often consulted to give advice 
+on matters related to business conduct rather than legal issues. Such communications would 
+be discoverable. 
+ 
+Finally, the attorney-client privilege may not be asserted if the communication involved the 
+attempted or actual commission of a present crime or fraud. The attorney does not have to be 
+a participant in the fraud for the waiver to apply. 
+ 
+Waiver 
+Special care should be taken to ensure that the attorney-client privilege is not waived 
+inadvertently by giving documents or communicating information to anyone outside the 
+investigation team, including members of law enforcement. If information gathered during an 
+investigation is shared with law enforcement, then the privilege may be waived not only as to 
+the information given, but also to any other information relating to the same subject matter.  
+ 
+For example, if an investigator submits a copy of his report to the prosecutor who initiates 
+criminal proceedings based on the findings in the report, the criminal defendant may be able 
+to require the investigator to provide all the documents he used in writing the report. In such 
+an instance, the investigator may be considered to have waived the privilege. Likewise, if law 
+enforcement requests the results of an investigation or information gathered during an 
+investigation, the attorney should be consulted before turning over the information. Some 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.727 
+courts have held that the privilege is not waived if a company is subpoenaed to produce the 
+information. 
+ 
+Inadvertent Waiver 
+Moreover, some courts have held that inadvertent disclosure of a single privileged document, 
+including digital documents, waives the privilege as to all documents concerning the same 
+subject matter. For this reason, special care must also be taken to avoid inadvertent disclosure 
+from the use of electronic communications, including e-mail, cell phones, faxes, text 
+messages, instant messages, etc. It is clear that the attorney-client privilege extends to 
+electronic communications, and it is also clear that a matter voluntarily communicated to a 
+third-party who is not an agent of your counsel is not confidential and, therefore, not 
+privileged. Thus, when a party chooses to use a form of electronic communication, which is 
+vulnerable to interception and inadvertent disclosure, you run the risk that your messages 
+might be intercepted by, or disclosed to, an unintended third-party.  
+ 
+To illustrate how easily inadvertent disclosure of electronic communications may occur, 
+consider a few ways that an e-mail may unwittingly end up in the hands of an unintended 
+third-party. E-mails may be forwarded to additional unintended employees, indicating a lack 
+of confidential subject matter; they may be distributed to a large number of persons, 
+suggesting a lack of confidentiality; or the sender could mistakenly hit the wrong key on the 
+keyboard and send the e-mail to the wrong recipient. Therefore, fraud examiners must be 
+concerned about the risks of inadvertent disclosure of electronic communications and should 
+take cautionary measures to preserve the attorney-client privilege. 
+ 
+Unfortunately, fear over the consequences of subject-matter waiver has led to dramatic 
+litigation cost increases in today’s digital environment, where reviewing tens, hundreds, and 
+even thousands of gigabytes of information for privilege is time consuming and expensive.  
+ 
+Federal Rule of Evidence 502 
+In an effort to protect against inadvertent waiver of the attorney-client privilege or the work 
+product protection, President Bush signed into law S. 2450, a bill adding Evidence Rule 502 
+to the Federal Rules of Evidence. The legislation resolves conflict between courts throughout 
+the country on whether an inadvertent production of privileged material results in waiver. 
+Simply stated, under Rule 502, an inadvertent disclosure of a privileged communication can 
+no longer waive protection for all documents concerning the same subject matter. 
+ 
+Basic Principles of Evidence  Law 
+2.728  2011 Fraud Examiners Manual  
+Among other things, Rule 502 provides the following protections: 
+• If disclosure is made, then the privilege is waived to any other undisclosed information 
+only if (1) the waiver is intentional; (2) the other information relates to the same subject 
+matter; and (3) “fairness” requires further disclosure (Rule 502(a)).  
+• If disclosure is inadvertent, it does not result in waiver when the privilege holder “took 
+reasonable steps to prevent disclosure” and “promptly took reasonable steps to rectify the 
+error” (Rule 502(b)).  
+• If the disclosure was made in a state court proceeding, the disclosure does not waive 
+protection in a federal proceeding if one of two conditions is met: (1) the disclosure 
+would not have been a waiver under Rule 502; or (2) the disclosure is not a waiver under 
+state law (Rule 502(c)).  
+ 
+The McNulty Memorandum and the DOJ Guidelines 
+On December 12, 2006, the Department of Justice (DOJ) issued guidelines (in the form of 
+the McNulty Memorandum) for federal investigation and prosecution of business 
+organizations. The McNulty Memorandum, which addressed the practice of federal 
+prosecutors investigating and charging business organization misconduct, revised the DOJ’s 
+prior guidance outlined in the much maligned Thompson Memorandum, which provided that 
+federal prosecutors could seek waiver of the attorney-client privileges and attorney work 
+product protections as an element of a company’s cooperation. Specifically, the McNulty 
+Memorandum provided specific criteria that prosecutors were required to consider and 
+procedures they were required to follow before seeking waiver of privileges or work product 
+protection. 
+ 
+On August 28, 2008, the Department of Justice (DOJ) issued guidelines, which revised the 
+McNulty Memorandum, on how federal prosecutors investigate, charge, and prosecute 
+corporate crimes. Unlike the McNulty Memorandum, the guidelines are a part of the U.S. 
+attorney’s manual, which provides internal DOJ guidance but does not create any enforceable 
+law. 
+ 
+In an effort to stop congressional action, such that proposed by S. 445, the guidelines bar 
+prosecutors from judging corporate cooperation for leniency on whether an entity is willing 
+to waive the attorney-client privilege or work product protection. The guidelines also state 
+that prosecutors can no longer seek disclosure of information that is either privileged or 
+protected work product. In addition, the guidelines provide that when evaluating a 
+corporation’s cooperation, prosecutors may no longer consider whether a company is 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.729 
+advancing legal fees for its employees, whether a corporation has sanctioned or retained 
+culpable employees, or whether a corporation has entered into joint defense agreements.  
+ 
+Even though most observers agree that the guidelines are a significant improvement over the 
+McNulty Memorandum, many contend that comprehensive legislation is still needed to make 
+the DOJ’s reforms permanent and prevent a relapse in department policy, as well as to bar 
+similar waiver policies adopted by other federal agencies such as the Securities Exchange 
+Commission and the Internal Revenue Service. For this reason, the DOJ’s guidelines may 
+stop interested parties from supporting the enactment of legislation that would further 
+protect corporations and their employees from government-coerced waiver. 
+ 
+Selective Waiver 
+Under the selective waiver doctrine, a corporation seeking to cooperate with a government 
+investigation, pursuant to a confidentiality agreement, can disclose material protected by the 
+attorney-client privilege to the government without waiving those protections as to 
+nongovernmental parties, such as private plaintiffs. But it should be noted that most federal 
+circuit courts have rejected the selective waiver doctrine. In addition, Rule 502 of the Federal 
+Rules of Evidence does not explicitly acknowledge selective waiver, but it does not explicitly 
+eliminate selective waiver as a viable doctrine.  
+ 
+The Attorney Work Product Doctrine 
+Under Rule 26(b)(3) of the Federal Rules of Civil Procedure and under comparable state 
+rules, documents and tangible things that are prepared in anticipation of litigation are 
+protected by the attorney’s work product doctrine or privilege. The privilege is conditional in part: 
+The opposing party may obtain access to otherwise privileged investigative documents and 
+things through pre-trial discovery if it can show substantial need  for the protected information 
+and that the information cannot be obtained from another source. However, the attorney’s 
+mental impressions, opinions, and strategies concerning the litigation are absolutely privileged 
+and cannot be discovered even with a showing of substantial need. The privilege extends to not 
+only information and documents prepared by a party or the party’s attorneys, but also by the 
+consultants and examiners hired by the attorneys. For instance, communications with the 
+attorney and any work or analysis done by an expert with whom the attorney has consulted is 
+privileged as work product, although that privilege will be waived if the expert is called to 
+testify as an expert witness at trial.  
+ 
+Work product protection applies only to documents and things prepared  in anticipation of 
+Basic Principles of Evidence  Law 
+2.730  2011 Fraud Examiners Manual  
+litigation or for trial. Thus, documents and tangible things prepared in the course of an in-house 
+or other pre-litigation investigation, even if at the direction of an attorney, may not be 
+privileged if they were not prepared in anticipation of litigation. Just because there is a possibility 
+of future litigation does not mean that the investigation is in anticipation thereof. Litigation 
+must be actually planned and the work for which protection is sought must have been 
+undertaken for the specific purpose of preparing for that litigation. But if the work to be 
+protected was done in anticipation of litigation, then it does not matter in most jurisdictions that 
+no lawsuit has been filed yet. 
+ 
+The privilege protects documents and things prepared in anticipation of litigation from 
+compelled disclosure. Nevertheless, it does not render the facts themselves confidential, 
+privileged, or non-discoverable. Thus, while reports, interview notes, and transcripts might 
+not be discoverable under the privilege, the facts learned may have to be provided in response 
+to properly phrased discovery requests. Similarly, the privilege does not prevent discovery of 
+the identity of witnesses and the existence of interview notes, tapes, or transcripts. The extent 
+to which interview notes, transcripts, and other factual reports prepared in anticipation of 
+litigation are actually protected from discovery by a party opponent may vary between 
+jurisdictions and may depend on the facts and circumstances of a given case. 
+ 
+Waiver of Work Product Protection 
+Like the attorney-client privilege, work product protection can be waived. Moreover, the 
+Federal Rule of Evidence 502 expressly applies to disclosure of a communication or 
+information covered by work product protection. Therefore, the examiner should abide by 
+the same rules governing disclosure of materials protected by the attorney-client privilege.  
+ 
+Work Product Protection and Outside Auditors 
+In late 2004, a federal district judge in New York, under the work product doctrine, protected 
+the results of an internal investigation of a large company given to an outside auditor (Merrill 
+Lynch & Co., Inc. v. Allegheny Energy, Inc., 2004 U.S. Dist. LEXIS 21543). However, courts 
+continue to disagree as to whether such disclosure waives work product protection under the 
+Federal Rules of Evidence. 
+  
+Before disclosing work product to an outside auditor, a company should determine whether 
+the outside auditor is an “adversary.” Some courts consider auditors to be the “watchdogs” of 
+companies, and therefore inherently adversary to their corporate clients. Certainly, the role of 
+outside auditors is to independently ensure the accuracy of a company’s financials, find 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.731 
+inaccuracies, and detect fraud. However, the court in Merrill Lynch distinguished this kind of 
+adversary from a “litigation adversary.” A company’s auditor is not necessarily a “litigation 
+adversary” (which is required to invalidate the work product privilege). Rather, “[a] business 
+and its auditor can and should be aligned insofar as they both seek to prevent, detect, and 
+root out corporate fraud.”  
+ 
+The court also emphasized that a blanket waiver of privilege in this kind of situation would 
+likely discourage ethical disclosure and conduct by companies. Thus, the trend in litigation 
+seems to review the facts on a case-by-case basis to determine whether an auditor and 
+company share common interests and therefore are non-adversarial.  
+ 
+The following principles should aid companies in determining whether they should provide 
+work product to outside auditors: (1) ensure a common interest between the company and 
+the outside auditor; (2) only disclose information necessary to help the auditor assess 
+sufficiency of the company’s controls and the accuracy of the company’s audit/accounting 
+procedures; and (3) when disclosing informati on, always include a confidentiality agreement 
+acknowledging that the documents were prepared by counsel and therefore privileged, as well 
+as a covenant that the outside auditor is to maintain the strictest confidence of the 
+documents.  
+ 
+Self-Evaluation Privilege 
+The self-evaluation privilege (also referred to as the self-critical privilege) may provide some 
+protection for the investigative work product. This privilege is based on the need to 
+encourage voluntary internal reviews and compliance programs. It applies if an organization 
+can demonstrate that it is attempting to police itself in an area of public interest, and that 
+disclosure of the work product would prejudice such efforts. The privilege is a relatively new 
+concept and is not recognized in all jurisdictions. It is much weaker than the attorney-client 
+and attorney work product privileges. 
+ 
+Marital Privilege 
+Additionally, the marital privilege protects communications between husbands and wives. 
+There are two forms of the marital or spousal privilege: (1) the confidential communications 
+privilege, enabling either spouse to prevent the other from testifying regarding a 
+communication during marriage between the two that was intended to be in confidence, and 
+(2) the adverse testimony privilege, protecting spouses from being compelled to testify against each 
+other while they are married. Usually, the confidential communications privilege continues 
+Basic Principles of Evidence  Law 
+2.732  2011 Fraud Examiners Manual  
+after the termination of the marriage; the adverse testimony privilege does not.  
+ 
+There is no privilege that permits a person not to testify against other family members, 
+although, as a matter of policy, many law enforcement agencies will not compel testimony 
+from immediate family members. 
+ 
+Law Enforcement Privilege to Withhold the Identity of an Informant 
+Law enforcement agencies may legitimately withhold the identity of an informant unless 
+disclosure is necessary to ensure that the defendant receives a fair trial. In such circumstances, 
+the prosecution has to decide whether to forego prosecution or disclose the identity of the 
+informant. In the private sector, there is no equivalent privilege. Certified Fraud Examiners or 
+others who are investigating on behalf of a private client may be compelled by court order to 
+disclose the identity of an informant or any other witness. This possibility should be disclosed 
+to potential witnesses who may request confidentiality. See the Investigation Section of the 
+Fraud Examiners Manual for more information. 
+ 
+Accountant-Client Privilege 
+A few states have a weak accountant-client privilege that allows an accountant to resist 
+production of a client’s work papers or documents. No such privilege is recognized in federal 
+court, and the state privileges may be overcome by a showing of need or by the service of a 
+subpoena.  
+ 
+There is, however, a Federally Authorized Tax Practitioner Privilege under section 7525 of 
+the Internal Revenue Code. This privilege is a evidentiary privilege that provides limited 
+protection in federal tax law.  It applies only in situations where a CPA is providing tax advice  
+in noncriminal proceedings before the IRS or before a federal court.  
+ 
+Nevertheless, as discussed above, in federal proceedings, communications between a client 
+and a third-party, such as an accountant, may be protected under the attorney-client privilege 
+or the attorney work product doctrine.  
+ 
+The attorney-client privilege extends to accountants if the attorney hired the accountant to 
+assist in rendering legal advice. Additionally, the privilege extends to an accountant’s 
+documents, which were made at the attorney’s request, used to render legal advice. This 
+privilege was clarified in U.S. v. Cote, which concluded that there is no protection for 
+accounting services if no legal advice was sought. In Cote, the client engaged the accountant 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.733 
+before retaining the lawyer, the client and accountant had a long-standing professional 
+relationship, and the attorney did not control or supervise the accountant’s efforts or work 
+product.  
+ 
+In addition, the attorney work product protection extends to information and documents 
+prepared by the consultants and examiners hired by the attorneys, including accountants. 
+However, any protection will be waived if the accountant is called to testify as an expert 
+witness at trial.  
+ 
+In cases where accountants serve as expert witnesses, the work product doctrine may apply. 
+Protection under the work product doctrine generally depends on whether the accountant 
+serves as a testifying expert or a non-testifying (consulting) expert. Nothing created by the 
+testifying expert is privileged from discovery. Conversely, the rules of discovery generally 
+protect communications between a non-testifying expert, the attorney, and the party from 
+disclosure to adversaries. However, the protection against disclosure of communications with 
+non-testifying experts can be lost, and this commonly occurs when the non-testifying expert’s 
+communications are released to others, particularly to testifying experts. This topic is 
+discussed in further detail below.  
+ 
+There are a number of other privileges that are less likely to be asserted in fraud actions, 
+including the priest-penitent  and physician-patient  privileges. 
+ 
+ 
+  
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.801 
+
+
+
+:
+
+
+basic principl of evid
+definit of evid
+black law dictionari defin evid as
+anyth perceiv by the five sens and ani proof such as testimoni of wit record
+document fact data or tangibl object legal present at trial to prove a content and
+induc a belief in the mind of a juri
+evid refer to an intric rule develop and refin over hundr of year that is
+design to ensur that onli relev and prob evid is admit in court proceed
+and that irrelev unreli and prejudici evid is exclud so that case can be fairli
+and expediti decid
+everi aspect of try a case from file the complaint through discoveri into the
+present of wit and exhibit is affect by rule of evid thi bodi of law
+cover not just what count as evid but how that evid is gather handl and
+present
+evid in feder court is govern by the feder rule of evid fre these rule
+set out what can and cannot be introduc dure a disput in the late 1960 a us suprem
+court panel began codifi centuri of common law into the fre what had previous
+been a farflung set of preced buri in local jurisdict and lengthi appeal decis
+wa gather into a singular bodi of inform congress pass the uniform code of
+evid in 1974 as public law no 93595 state and local court often have some
+special rule of evid but these rule ar themselv base on feder guidelin
+the rule of evid ar complex and counsel should be contact if an import question
+of evid aris thi part focus on the more import rule and those of greatest
+interest to fraud examin
+three basic form of evid
+evid is anyth percept by the five sens which is invok in the process of
+argu a case document spoken recollect data of variou sort and physic object
+ar all potenti evid evid is simpli anyth that relat to the prove or
+basic principl of evid law
+2702 2011 fraud examin manual
+disprov of a fact or consequ with the known univers avail for court inspect
+legal author have narrow the field by set up categori to evalu evidentiari
+signific
+there ar three basic form as distinguish from type of evid testimoni real and
+demonstr testimoni refer to the oral statement made by wit under oath in
+gener there ar two type of testimoni wit lai wit and expert wit a lai
+or fact wit is a nonexpert wit who must testifi from person knowledg about a
+matter at issu an expert wit is a person who by reason of educ train skill or
+experi is qualifi to render an opinion or otherwis testifi in area relev to resolut
+of a legal disput
+real evid describ physic object that plai a part in the issu be litig the term
+includ both documentari evid such as cancel check invoic ledger and
+letter as well as other type of physic evid therefor a typewrit or printer in a case
+involv question document is clearli real evid as is a tape record sinc member
+of the court can experi the sound firsthand
+demonstr evid is a tangibl item that illustr some materi proposit eg a map a
+chart or a summari it differ from real evid in that demonstr evid wa not
+part of the underli event it wa creat specif for the trial it purpos is to provid a
+visual aid for the juri nonetheless it is evid and can be consid by the juri in
+reach a verdict
+direct versu circumstanti evid
+there ar two basic type of admiss evid direct evid and circumstanti evid
+direct evid includ testimoni that tend to prove or disprov a fact in issu directli such
+as eyewit testimoni or a confess circumstanti evid is evid that tend to prove
+or disprov fact in issu indirectli by infer mani fraud case ar prove entir by
+circumstanti evid or by a combin of circumstanti and direct evid but
+seldom by direct evid alon the most difficult element to prove in mani fraud case
+fraudul intent is usual prove circumstanti and necessarili so becaus direct proof
+of the defend state of mind absent a confess or the testimoni of a coconspir is
+imposs
+law basic principl of evid
+2011 fraud examin manual 2703
+in a circumstanti case the court mai instruct the juri that the prosecut must exclud all
+infer from the fact other than it determin of guilt even if no such instruct is
+given the certifi fraud examin should appli the same standard in prepar a
+circumstanti case
+admiss of evid
+question involv the admiss of evid occur when on parti object to anoth
+parti offer of evid if a judg sustain an object the evid is not admit if
+howev the judg overrul the object the evid is admit and can be consid by
+the fact finder
+the admiss of evid depend on a wide varieti of factor and in larg part on the
+discret of the trial judg
+relev
+although the admiss of evid depend on a number of factor the most import
+factor is relev the gener rule of evid provid that all relev evid is
+admiss rule 401 of the feder rule of evid defin relev evid as evid
+have ani tendenc to make the exist of ani fact that is of consequ to
+determin of the action more probabl or less probabl than it would be without the
+evid in other word evid is relev if it tend to make some fact in issu more or
+less like than it would be without the evid the fact in issu of cours vari accord
+to the case but gener can be said to be those that tend to prove the essenti element of
+the offens or claim as well as relat matter such as motiv opportun ident of the
+parti and credibl
+whether a particular piec of evid is relev or not depend on what the evid is
+offer to prove an item of evid might be relev and admiss if offer to prove
+on thing but not relev and inadmiss if offer to prove someth els for exampl
+under rule 404b of the feder rule of evid evid of other crime wrong or act
+commit by the defend would not be admiss if offer to prove that the defend is
+gener a bad person and therefor is like to have commit the crime with which he is
+charg howev evid would be admiss if offer to prove motiv intent ident
+absenc of mistak or modu operandi if such factor ar at issu if evid of other
+wrong or act is admit the judg will instruct the juri that thei mai consid the evid
+basic principl of evid law
+2704 2011 fraud examin manual
+onli as it relat to the narrow issu for which it wa admit and mai not consid it for
+ani other purpos
+that evid is relev doe not howev automat mean that it will be admit
+under rule 403 of the feder rule of evid relev evid still might be exclud if
+it is unduli prejudici threaten to confus or mislead the juri threaten to caus
+unnecessari delai or wast of time or is mere cumul relev evid also might be
+exclud if it is subject to certain privileg as note below thu evid of drug addict
+technic might be relev to prove motiv for embezzl or fraud but the judg still
+might exclud the evid if he believ that it prob valu is outweigh by the danger
+of prejudic to the defend evid of other crime and act as discuss abov that ar
+otherwis relev also might be exclud for the same reason
+special rule concern some type of circumstanti evid
+special rule govern certain type of evid that have been found over the year to be so
+mislead and prejudici that thei have been categor exclud such evid is alwai
+exclud unless an except appli
+charact evid
+in civil and crimin trial there is strong polici against charact evid fre 404
+charact evid sometim call propens evid is testimoni or exhibit that
+purport to establish a trait of charact or propens to behav in a particular wai such as
+care honesti violenc or cowardic there ar some good reason to leav charact
+out of the discuss whenev possibl such as the subject natur of the descript
+on person gruff is anoth viewer aggress
+addition charact is not an absolut indic of behavior that is it is pretti common
+to remark how out of charact somebodi action were in a given situat so there is
+alwai a chanc someon wa act out of charact make the behavior propens if
+there wa on useless in the legal exchang
+final testimoni about charact ha a reckless potenti to be mistakenli found misl
+or concoct it is alwai possibl to misjudg someon especi if we onli know the
+person in limit circumst like work or a social club moreov it is exceedingli easi to
+fabric incid about charact and for shrewd talker to manipul percept of
+law basic principl of evid
+2011 fraud examin manual 2705
+person in a fraud case it must be shown that the defend commit the act in
+question there is too great a danger of prejud the juri if you allow testimoni about the
+defend just be a bad person whether he is a bad person or not ought to have no
+bear on whether or not he commit the act in question
+in gener charact evid is not admiss in civil case charact evid is rare
+admiss and the gener rule in crimin case provid that evid of a defend bad
+charact is not admiss at trial for exampl the govern cannot offer evid of a
+defend prior crime or other bad act to prove the defend bad charact
+there ar howev some instanc where charact evid mai be admit in crimin
+trial some of the except for us of charact evid in crimin case includ
+the accus mai offer evid of hi good charact in which case the prosecut mai
+introduc evid of the accus bad charact
+charact evid mai be admiss to reflect on the credibl of a wit
+under rule 404b of the feder rule of evid evid of other crime wrong or
+act is not admiss to prove the charact of a person in other word such evid is not
+admiss to prove that the defend is gener a bad person and therefor is like to
+have commit the crime with which he is charg for exampl if a defend is charg
+with steal monei from hi employ safe the prosecut would not be permit to
+offer evid that the defend had previous stolen monei from anoth employ to
+show the defend had a propens to steal
+howev there ar some us of charact evid that mai be admiss becaus thei ar
+offer for a purpos other than show charact some of the except for us of
+charact evid in crimin case includ
+to show the accus knowledg intent or motiv for the crime
+to prove the exist of a larger plan of which the charg crime is a part
+to show the accus prepar to commit the charg crime
+to show the accus abil and mean of commit the crime possess of a
+weapon tool or skill us in the commiss of the act
+to show the accus opportun to commit the crime
+threat or express of ill will by the accus
+to link the accus to physic evid at the scene
+the suspect conduct and comment dure arrest
+basic principl of evid law
+2706 2011 fraud examin manual
+attempt to conceal ident
+attempt to destroi evid
+valid confess
+opinion testimoni
+dure trial most evid is introduc through the testimoni of wit evid on
+which the juri can make factual determin must be introduc in the form of admiss
+testimoni or documentari evid by law or fact ie nonexpert wit
+the rule of evid howev limit the testimoni of lai wit lai wit ar onli
+allow to testifi about what thei have actual experienc firsthand and their factual
+observ fre 701 in gener wit provid a report on what thei know and must
+keep their opinion and conclus to themselv
+despit the gener rule there ar wai to get a nonexpert witnesss opinion into the record
+a lai wit mai give opinion if the statement is ration base on their own
+percept and if the opinion is help to a clear understand of their testimoni or the
+determin of a fact
+opinion ar admiss if thei pass a threepart test
+the wit must have direct person knowledg of the fact to which the opinion
+pertain
+the opinion must be of the common everydai sort ie doe not involv special
+knowledg or test
+the opinion is not part of a legal judgment reserv for the juri or judg to decid
+opinion from ordinari wit must be base on person experi and have some
+bear on the fact as oppos to the judgment of the case thi distinct is further refin
+in situat involv hearsai and person judgment discuss below
+in contrast to lai wit expert wit ar exempt from the opinion rule becaus
+expert ar hire to render a profession opinion thei possess educ train skill or
+experi in draw conclus from certain type of data or inform that lai
+wit do not possess expert testimoni howev mai be exclud if it embrac a legal
+conclus therefor expert opinion address guilt or innoc will like be exclud in
+crimin case
+law basic principl of evid
+2011 fraud examin manual 2707
+exhibit
+exhibit ar the tangibl object present as evid therefor both real evid and
+demonstr evid ar enter into the record as exhibit thi includ document such
+as contract letter and receipt as well as photograph xrai basebal bat knive
+fountain pen and comput file in short anyth that is not testimoni is an exhibit
+testimoni is what peopl sai exhibit ar the prop
+authent typic exhibit
+at the most basic level evid must be establish as reliabl or authent thu evid
+other than testimoni evid must be properli authent that is the parti offer the
+evid must produc some evid to show it is in fact what the parti sai it is if a piec
+of real evid cannot be authent the evid will not be admit even if it is plainli
+relev
+for proper authent the parti offer the evid must produc some evid eg
+testimoni from a person with firsthand knowledg to show it is in fact what the parti sai
+it is and that it ha remain in the same condit from the moment it wa seiz until it is
+us in court
+similar to the authent requir for tangibl evid there is a similar sort of
+credibl test for wit if testimoni is to becom admiss evid the wit
+must demonstr that the knowledg be commun is believ and gain by
+person experi
+below ar some of the issu you will encount in prove to the judg that a particular
+exhibit is authent
+demonstr evid
+again demonstr evid refer to a tangibl item that illustr some materi proposit
+it differ from real evid in that demonstr evid is not part of the underli
+event it is creat specif for the trial it purpos is to provid a visual aid for the juri
+an exhibit us for pure illustr purpos is a type of demonstr evid
+demonstr evid includ chart graph and summari that help to simplifi
+complic evid for the juri in complex fraud case such evid is extrem us
+but it must be simpl and easi to understand
+basic principl of evid law
+2708 2011 fraud examin manual
+demonstr evid is admiss if the court decid that it present a fair and balanc
+summari or pictur of the evid and is not unduli prejudici and if offer for it truth
+valu and not just to illustr a point demonstr evid must be authent to
+show that the evid is in fact what it is claim to be
+also demonstr evid must be made avail to the other parti and the court mai
+order that the inform us to creat the exhibit be produc in court
+diagram
+a diagram is a schemat or technic draw that is us to help make someth easier to
+understand a diagram on paper or some other tangibl displai can be admit as evid
+with no more foundat than the assent of a wit is thi a fair represent of the
+suit where you work it doe not have to be true to scale or particularli detail a diagram
+can be prepar befor trial dure trial or prep outsid the court and finish dure
+question if a parti object to the admiss of a diagram the offer parti mai need to
+establish that it is reliabl diagram can be us in tandem with photo or other
+represent evid or as assist in demonstr to the juri
+write
+in gener authent of a write consist of establish who author the document
+depend on the document and situat thi is done in on of sever wai 1 the author
+testifi and claim authorship 2 a wit testifi to see the author write the document
+3 with handwritten letter a wit verifi the author penmanship 4 with type or
+machinewritten document the wit verifi the author signatur 5 a wit testifi
+that the content of the document point decis to the author these and mani other
+document issu mai requir the particip of a question document expert
+busi record and other document
+busi record can encompass a broad rang of document from all sort of organ
+includ corpor small busi nonprofit oper and commun group like
+other evid a parti offer busi record must provid testimoni that the exhibit is
+the busi record in question for proper authent the parti offer the evid
+should be abl to establish the follow two thing
+the content of the document is complet and unalt
+the document origin from the name place of origin
+law basic principl of evid
+2011 fraud examin manual 2709
+certain document such as busi record ar selfauthent and mai be receiv into
+evid without independ proof of authent under the feder rule of evid
+busi record ar selfauthent if a custodian or other qualifi person certifi that
+the record meet the follow requir
+the record were prepar reason near the time of the event it describ
+the record were made by or base on inform transmit from a person with
+knowledg
+the document wa prepar as a usual part of do busi ie it wa not prepar
+specif for litig
+busi record ar also vulner to hearsai object put differ offer the
+content of busi record to establish the truth of their content can constitut hearsai
+thu such materi can be bar as unreli outofcourt statement unless a trustworthi
+foundat can be establish if howev there is certif that compli with the selfauthent
+rule list abov the record will not onli be selfauthent but the
+content of the record will be admiss to the prove the truth of the content as an
+except to the rule against hearsai
+govern document
+the requir for govern document ar the same as for other busi record the
+distinct between govern and busi record aros becaus of narrow interpret
+of the law that separ nonprofit from forprofit enterpris todai most record
+regardless of origin ar call busi record
+phone record
+to be admit into evid phone record must meet the busi record authent test
+howev investig must also be awar of the feder telephon record and privaci
+protect act of 2006 trppa which crimin the practic of obtain and attempt
+to obtain confidenti phone record inform through pretext gain access through
+the us of fals statement unless it is otherwis permit by law violat of the act ar
+crimin and if convict a violat face up to 10 year in prison and up to 100000 in
+fine
+electron store inform
+current there is still much controversi regard how to authent electron store
+inform esi the us depart of justic comput crime and intellectu
+basic principl of evid law
+2710 2011 fraud examin manual
+properti section ha develop a manual for electron search and seizur which judg have
+us as a guid as to whether digit evid ha been properli seiz if digit evid
+need to be seiz it is vital that examin engag the servic of a train comput forens
+technician a properli train technician should know the procedur to follow to ensur that
+the file can be authent
+gener to be admiss esi evid must meet the same authent standard as
+hard copi document ie to show that the item is what the propon claim howev
+court have recogn that the authent of esi evid mai requir greater scrutini
+becaus esi can easili be alter after creation thu to prove that a particular electron
+document is authent those offer the evid must demonstr that the origin
+document wa not modifi after it creation
+rule 901 of the feder rule of evid provid a nonexclus explic list of
+method by which evid can be authent and some of the method mai be us to
+authent esi rule 901b1 allow authent through testimoni of a wit with
+knowledg that a matter is what it is claim to be addition rule 901b3 allow for
+authent by comparison to alreadi authent evid by an expert wit or the
+trier of fact similarli rule 901b4 allow authent by circumstanti evid of
+distinct characterist eg hash valu or metadata
+furthermor under rule 902 some document ar selfauthent which mean that thei
+mai be receiv into evid without independ proof of authent for esi purpos
+the three most relev categori of selfauthent document ar offici public
+trade inscript and certifi copi of busi record
+in addit differ form of esi evid mai requir differ authent approach
+therefor it is help to examin a few common type
+email
+unlik tradit busi letter written on formal letterhead email ar more prone to
+authent issu and mai be more difficult to properli authent for exampl the judg
+in lorrain v markel 241 frd 534 d md 2007 refus to allow either parti to offer email
+of an arbitr negoti as evid find that neither parti authent the email
+by simpli attach them to their motion as exhibit
+law basic principl of evid
+2011 fraud examin manual 2711
+email authent issu usual aris becaus email system ar unreli and inher
+unsecur make email suscept to alter moreov email can lack reliabl
+becaus the ident of sender can be corrupt through unauthor access and us
+even so there ar numer wai email can be authent includ
+wit with person knowledg eg a wit testifi that he recogn a copi of an
+email that he receiv or draft
+comparison with authent exampl eg if on email ha been properli
+authent a second email could by authent by compar it with the first
+circumstanti evid of distinct characterist eg the presenc of a parti name
+and email address or the presenc of metadata
+trade inscript purport to have been affix in the cours of busi and
+indic ownership control or origin eg an automat busi signatur at the end of
+the email
+certifi copi of busi record eg email is accompani by a written certif
+by it custodian
+text and instant messag
+as the us of text and instant messag continu to grow parti ar offer thi esi as
+evid in an increas number of case howev given the natur of thi type of
+evid parti often encount foundat issu when authent text and instant
+messag notwithstand the novel technolog involv these type of esi can be
+admiss when the propon offer direct or circumstanti evid as to it authent
+the most like authent chat room and text messag ar
+wit with person knowledg eg a wit testifi that he recogn a copi
+messag that he receiv or draft
+circumstanti evid of distinct characterist eg the us of the defend name
+in the text messag and the subject matter of the messag
+comput record
+court typic accept comput file and document as evid in fact court themselv
+ar us more electron resourc becaus mani aspect of litig can now be conduct
+electron
+tradition to be admit as evid computer record need onli meet the usual
+businessrecord authent which requir that the computer record be
+basic principl of evid law
+2712 2011 fraud examin manual
+accompani by certif by a qualifi person state that 1 the record were prepar
+reason near the time of the event thei describ 2 the record were prepar as a usual
+part of do busi and 3 the organ wai of keep record is demonstr
+reliabl
+the requir support materi to authent comput record will includ inform
+on the comput machin us ani softwar and the recordkeep process a busi
+record electron or otherwis is legal as long as it kept in the normal cours of busi
+when there ar clear routin for compil inform admit the record into court will
+be routin
+recent howev court have recogn that authent of computer record mai
+requir greater scrutini becaus unlik other esi evid the primari authent issu
+regard computer record is what ha or mai have happen to the record in the time
+between when it wa enter in the file and the time of trial base upon thi view the most
+like method of authent computer record ar
+wit with person knowledg eg an authent wit attest to the process by
+which the computer record ar creat acquir maintain and preserv
+circumstanti evid of distinct characterist eg a person busi habit is
+consist with the document
+certifi copi of busi record eg computer record ar accompani by
+custodian written certif
+websit data
+a grow number of peopl ar us social network site like linkedin facebook
+myspac and twitter and as a result the legal us of inform obtain from social
+media site ha increas mani user dont give much thought to what thei post onlin and
+becaus most of the inform that get post onlin becom a perman record
+somewher investig attornei and employ ar increasingli mine these site for
+inform photo and video that can becom evid in civil and crimin litig
+as with all evid the propon of social media evid must be prepar to establish
+that the evid is authent the standard for authent evid from social media
+site is no differ than for ani other type of evid that is there must be suffici
+evid to support a find that the evid is what the propon claim
+law basic principl of evid
+2011 fraud examin manual 2713
+in some court authent can be establish by the testimoni of a wit like ani other
+demonstr exhibit parti can authent a websit with the testimoni of a wit who
+verifi that the exhibit at issu accur reflect what he observ after log on to the
+site and review what wa there
+altern the propon mai be abl authent a websit by provid testimoni from
+the webmast or someon with person knowleg to show that the data wa post by the
+person to whom the inform is attribut for exampl if websit data is attribut to
+the websit owner the webmast can testifi that a particular file or content wa enter on a
+site at a specif time thi is similar to authent write by show that the item wa
+written by the person to whom it is attribut but becaus facebook myspac and twittertyp
+evid typic come from third parti who sometim us pseudonym
+attribut thi type of evid to a certain person can be challeng
+final some websit data mai be selfauthent to review selfauthent evid
+mai be receiv into evid without independ proof of authent the type of
+websit evid that mai fall under thi categori includ govern materi that appear
+on offici govern websit or businessrel materi that appear on an organ
+websit
+photograph
+concern photograph it is necessari to establish their fidel to the object thei claim to
+repres thi mean that the offer parti must prove that the pictur is unalt and
+show what the propon claim it show gener it is enough to have a wit familiar
+with the object or space in a photo to corrobor it eg ye that the hallwai run
+between our two build the matter get more complic when a photo is
+controversi thi can requir technic specif for proper foundat in the most
+famou trial sinc sam sheppard oj simpson lawyer challeng a photo of the defend
+wear bruno mali shoe as doctor both side introduc expert to discuss whether
+the photo had been alter what sort of camera len and environment condit were
+involv etc the same issu can aris with photo in ani trial
+in some unusu situat a photo mai reveal inform that no wit can corrobor
+there ha been at least on instanc where the background of a photo show a stab that
+took place in a crowd no on not even the photograph saw the stab at the time in
+unusu situat where a photo commun evid not substanti elsewher the
+basic principl of evid law
+2714 2011 fraud examin manual
+foundat of the photograph will need more strength includ technic detail on the
+camera the film who took the shot why and where etc
+the except make photo seem more legal fraught than thei ar thei usual ar
+admit with littl object photo do not even have to be contemporari with the crime or
+grievanc to which thei pertain if a photograph is establish as accur in it portray it
+can be shot after the origin act
+gener point
+either side can enter exhibit into the record given the proper foundat onc admit
+the evid is avail for us by either side it doe not matter who enter the item into
+evid either side can us it dure question
+it also doe not matter when exhibit ar admit thei mai be introduc into evid
+dure direct examin oppos counsel is allow to inspect the exhibit and then the
+wit confirm the exhibit which ha been mark exhibit a or exhibit 1 some court
+us letter for exhibit while some court us number usual the exhibit is identifi by
+which side enter it eg plaintiff exhibit 1
+when everyon agre exhibit can be directli enter into the record without foundat
+review by stipul both parti sign the stipul form describ and acknowledg
+the exhibit
+the best evid rule
+sometim testimoni mai be reject becaus of the best evid rule which prohibit a
+parti from testifi about the content of a document without produc the document
+itself thi rule howev onli appli when an origin or copi is be us to prove the
+content of a write
+also known as the origin write rule the best evid rule provid that when a wit
+testifi about the content of a document at least a fair copi of the origin must be avail
+for inspect if there is no origin a copi of the proven authent document will do but
+the court must be assur that the copi ar reliabl and accur if the document is lost
+no origin no copi the judg will have to be convinc there is good reason to forgo the
+exhibit and admit the testimoni
+law basic principl of evid
+2011 fraud examin manual 2715
+fraud examin can us copi in prepar their case report but at trial the origin must
+be produc if it is avail thu when public record ar involv in a fraud examin
+examin should alwai obtain certifi copi
+with regard to computer data the best evid rule doe not requir the parti offer
+esi as evid to bring the origin custodian comput monitor and other equip to
+displai the inform at trial rather rule 10013 provid that an origin write includ
+ani printout or other output readabl by sight shown to reflect the data accur thu
+hardcopi printout of document email and other esi qualifi as origin under the
+feder rule of evid
+object to exhibit
+just becaus an exhibit is authent doe not mean it is automat admit if the
+evid violat some other rule of evid such as the rule against hearsai prejudic or
+relev the exhibit will like be bar
+if an object is made the admiss of some exhibit requir separ hear for the
+judg to consid the issu fraud trial can be bog down with lengthi challeng to the
+sometim mountain stack of document offer as evid in decid on the
+admiss of exhibit judg can decid to admit the materi just as it is admit it with
+alter such as expurg part of a text or obscur certain imag or deni the
+admiss altogeth
+chain of custodi
+if evid is subject to chang over time or is suscept to alter the offer parti
+mai need to establish that the evid ha not been alter or chang from the time it wa
+collect through it product in court thi is done by establish a chain of custodi the
+chain of custodi is both a process and a document that memori 1 who ha had possess
+of an object and 2 what thei have done with it it is simpli a mean of establish that
+there ha not been a materi chang or alter to a piec of evid
+chain of custodi issu ar paramount issu in ani case affect everi piec of physic
+evid when parti present evid to a court thei must be readi to show that the item
+thei ar offer is the same item that wa seiz when that evid is not distinct but
+fungibl eg bag of cash bullet shell case or electron data the process or system
+which authent the item is to maintain a chain of custodi
+basic principl of evid law
+2716 2011 fraud examin manual
+in gener establish the chain of custodi consist of document each person who had
+control or custodi of the evid how and when it wa receiv how it wa maintain or
+store while in each person possess what chang if ani it underw in that person
+custodi and how it left that person custodi the end result is a chain of testimoni that
+account for the movement and locat of physic evid from the time it is obtain to
+the time it is proffer at trial the goal is to show that access to the evid wa limit to
+those who testifi in the chain of custodi and therebi demonstr that the evid ha not
+been materi alter
+gap in the chain of custodi eg when it is not clear what occur with a set of record or
+outright mishandl eg a group of question document wa not properli seal can
+dishevel a case but not wreck it outright court have found in some case that even though
+there have been mistak in the chain of custodi the mistak affect the weight though
+not the admiss of evid that is to sai the evid will still be allow into the
+record but it is accompani by a forthright descript of ani improprieti that have
+occur in the chain of custodi the juri and judg ar suppos to consid the
+improprieti when thei deliber weigh the case for guilt or innoc
+in fraud case the arrai of physic evid all the paper document audio and video
+record and informationprocess equip such as comput demand some close
+monitor in the chain of custodi thi is an area of the law which either side plaintiff or
+defend can manipul to avoid talk about the evid itself rambl instead like a
+filibust senat over who touch what and when and why that mean we will not see
+or discuss the item in question
+the follow ar some gener guidelin that will help examin demonstr the chain of
+custodi thei will also help examin in authent obtain evid
+if record ar receiv via mail or courierreceipt deliveri such as fedex or up
+keep copi of the postmark envelop or the deliveri receipt
+if a cover letter is includ make sure you keep it
+if the cover letter or transmitt letter includ a list of the document check the packag
+immedi to ensur all document ar there if someth is miss make a note in the
+file and notifi the sender immedi
+if you receiv document in person creat a memo state the date and time the
+document were receiv who gave you the document where that individu obtain
+the document and a complet list of the document receiv
+law basic principl of evid
+2011 fraud examin manual 2717
+if you obtain the document yourself from the origin sourc desk file cabinet etc
+creat a memo describ the date time exact locat of where the document were
+found and a complet list of the document obtain
+keep the origin of these memo or deliveri receipt in the case file and keep a copi
+with the document it will be much easier to identifi where the document came from if
+you have the inform with the document
+addition becaus digit evid can be easili alter or destroi a chain of custodi
+must be maintain for all electron evid gather and analyz in an investig at
+a minimum the follow chain of custodi procedur should be follow
+identifi each item that contain relev inform
+document each item who it wa receiv from who author it remov the locat
+of the item and the date and time the item wa receiv
+maintain a continu record of the item custodi as it chang hand
+hearsai
+simpli put hearsai refer to a statement that repeat what some other person said while
+outsid of court fre 801 defin hearsai as a statement other than on made at the trial
+or hear offer in evid to prove the truth of the matter assert basic hearsai
+involv the follow element
+a statement anyth intend to be an assert statement can be oral written or
+nonverb conduct such as nod a head
+that is made outsid the court supervis statement made at trial or dure deposit ar
+not hearsai becaus thei ar made dure court proceed but a statement made at
+work or at a crime scene is outsid the court supervis and could be hearsai if the
+other element ar also present
+that is offer to prove the truth of the matter assert a parti is offer a statement to prove the
+truth of the matter assert if the parti is try to prove that the assert made by the
+declar the person who made the outofcourt statement is true
+thi set apart virtual anyth said outsid the courtroom or outsid an offici
+design function of the court such as a deposit
+under the gener rule hearsai is not admiss in court but thi rule is subject to numer
+except exclud hearsai on on level mean wit cannot sai he said she
+basic principl of evid law
+2718 2011 fraud examin manual
+said each person testifi to hi own experi thi is design to protect the credibl
+and condit of testimoni and to preserv each side right to crossexamin wit
+each wit in the trial will be question about person firsthand encount unless their
+statement satisfi on of the except discuss below wit will speak onli about
+thing thei have experienc themselv if possibl evid should be present in the
+courtroom so that the juri can determin the weight to give each piec of evid
+the hearsai rule often creat admiss issu for electron store inform esi
+becaus such evid is often made out of court and offer to prove the truth of the matter
+assert
+except to the hearsai rule
+the gener rule against hearsai is full of except wai to get inform into the
+record which account for the rule infami in courtroom drama and in real courtroom
+the rule of evid exempt sever categori of statement that ar not to be consid
+hearsai and there ar mani circumst in which evid although hearsai is admiss
+the truth of the statement is not at issu
+the hearsai rule onli appli if the statement is be offer to prove the truth of the matter
+contain in the statement therefor if the statement is offer for some other purpos it
+technic is not hearsai ani outofcourt statement can be admit if it 1 is relev to
+some aspect of the proceed and 2 is not offer for the truth of it content such
+statement ar most often us to show a person knowledg or state of mind at a particular
+time for instanc a wit will be allow to testifi that she heard the defend sai i
+cant stand thi compani thei ow me big time the statement cannot be us to prove
+that the defend actual stole from the compani howev it can be admit to show the
+defend state of mind that he wa disgruntl
+admiss by an advers parti
+gener the statement of an advers parti is not hearsai such statement ar call
+admiss and can be veri power evid more specif an admiss is an outofcourt
+statement or conduct by a parti to the lawsuit that tend to support the other side
+posit or diminish the declar own posit thu anyth spoken or written by a
+parti to a lawsuit can be enter into the record provid that the statement can be
+law basic principl of evid
+2011 fraud examin manual 2719
+corrobor and is relev each side can us it adversari outofcourt statement as
+evid
+for exampl dure your investig of the case prior to trial you interview the
+defend dure the interview he tell you that he falsifi the invoic later he deni
+make the statement if you take the stand and tell the juri that the defend told you he
+falsifi invoic technic that statement is hearsai howev sinc it is an admiss it
+will be admit under thi except to the rule
+an admiss is not necessarili an outright confess a wit mai testifi that a bank
+offic told her i have wai of get loan approv that no on els know about the
+statement alon doe not prove loan fraud against the offic but it doe establish by hi
+own admiss hi state intent to subvert the secur control of the institut
+in case involv corpor larg group or govern agenc ani statement made by
+a member of the organ is potenti an admiss the person who made the
+statement ha to be directli author to speak for the organ or perform a job relat
+to the issu under discuss for exampl an agent emploi by jefferson realtor who
+sai youv been defraud here to an aggriev client ha made an admiss on behalf
+of the compani a janitor at jefferson realtor howev cannot make the same admiss
+becaus janitori duti ar not relat to the format of contract and chanc ar the
+janitor is not author to make corpor declar sinc an agent make contract on
+the compani behalf the statement is an admiss even if the agent is not the offici
+spokesperson for jefferson legal affair
+former testimoni under oath
+testimoni given by the declar at anoth hear is admiss if the parti against whom
+the testimoni is now offer had an opportun and motiv to examin the wit similar to
+that in the present trial
+busi and govern record
+we commonli think of invoic receipt and offici document as the final legal word but
+like statement made outsid of court busi and govern record ar hearsai thei ar
+prepar outsid the courtroom a special except for these materi howev make
+them admiss if thei ar provid with a legal foundat the admiss of such
+record rest on two criteria
+basic principl of evid law
+2720 2011 fraud examin manual
+have thei been prepar dure regularli conduct busi activ
+ar thei verifi trustworthi
+materi prepar specif for trial ar not admiss as busi record anyth that
+cast doubt on the verac of these document can bar them in situat where the charg
+involv alter document the materi ar admit to prove the charg of alter not
+for their truthvalu so the hearsai rule doe not appli
+computer record have had no troubl be accept as evid gener the hearsai
+except for busi record appli ie thei ar admiss as long as the record have
+been compil as a regular facet of do busi
+howev it should be note that a minor of court follow a differ approach when
+address hearsai within computer record which ha recent garner much acclaim
+these court distinguish between computerstor record and computergener record
+and hold that esi contain onli computergener record such as login record from
+isp telephon record and atm receipt untouch by human hand do not contain
+hearsai in such case there is no need to establish that a hearsai except appli
+altern computerstor record ar creat or maintain by a human and therefor
+ar deem hearsai thu thei must meet a hearsai except to be admit
+statement against interest
+a statement against interest is a special form of admiss in which a prior statement is at odd
+with the declar current claim to be admiss under thi except the statement must
+meet three requir
+the declar must be unavail to testifi
+the statement must have been against import interest of the declar when made
+corrobor circumst must clearli establish the trustworthi of the statement
+in prosecut a tax evas charg for exampl prosecutor mai present a financi
+statement us by the defend to obtain a loan thi is a statement against interest becaus
+the document declar a higher net worth than the defend now claim to have
+absenc of an entri in busi record
+evid that a matter is not includ in the memoranda or report kept in the regular cours
+of busi mai be admiss to prove that a certain event did not occur if the matter wa
+law basic principl of evid
+2011 fraud examin manual 2721
+on about which a memorandum or report regularli wa made and preserv howev thi
+doe not hold true if the sourc of inform or the circumst indic a lack of
+trustworthi
+record recollect
+a memorandum or record mai be admiss if it concern a matter that the wit onc had
+knowledg of but now ha forgotten if it wa made or adopt by the wit when the
+matter wa fresh in memori and if it is shown to be accur such memoranda or record
+also mai be shown to a wit who ha temporarili forgotten the event to refresh the
+witnesss recollect and allow the testimoni to be more complet or accur
+present sens impress
+court assum statement that ar made dure or immedi after signific event or
+condit and that describ or explain the event or condit ar reliabl so present sens
+impress ar admiss for exampl a wit can report that he first suspect fraud at
+secur plu by note that hi superior said oh my god thi cant be happen when
+he wa inform that there would be an audit in a similar exampl mr whistler notic
+jenni moor a cowork in john smith offic and overhear her sai oh here ar some
+bid sheet in the trash can if the govern prosecut smith for bid rig which is
+demonstr by the bid sheet mr whistler can testifi about moor statement as a present
+sens impress becaus the word describ the scene befor her
+excit utter
+there is also an except for statement relat to a startl event or condit made while
+the declar wa under the stress of it excit unlik statement of present sens
+impress excit utter requir an occurr that is startl enough to produc
+excit in the mr whistler scenario for exampl moor statement might qualifi as
+an excit utter if she discov the bid sheet after month of search for
+incrimin evid and told whistler while jump up and down in excit iv
+found the evid iv been wait for a long time here the success conclus of the
+search wa suffici excit
+then exist mental emot or physic condit
+statement of the declar thenexist state of mind emot or physic condit ar
+also admiss as except to the hearsai rule specif the feder rule of evid
+803 list state of mind emot sensat or physic condit pain and bodili health
+basic principl of evid law
+2722 2011 fraud examin manual
+as accept subject matter along with extrem person thought process such as
+intent plan motiv design mental feel
+defens attornei at a fraud trial sometim us argument about what their client intend or
+the confus and stress the person wa suffer for instanc the defend wa seen
+shred document and he wa overheard to sai theyll never prove anyth now the
+statement mai be admit to show the defend state of mind at the time he wa
+shred the document it also show that the defend act with the intent to destroi
+the document hearsai statement that help establish thi intent ar admiss as
+except
+statement for purpos of medic diagnosi or treatment
+anyth first commun dure a medic examin is admiss as a hearsai
+except thi includ medic histori symptom pain and the gener charact of the
+medic condit these statement do not even have to have been made by the patient
+thei can involv someon parent or spous accompani the patient
+print matter learn treatis and refresh write
+written materi that add to the court knowledg of an issu ar except from the hearsai
+rule thi except often bear on the testimoni of expert wit who often us
+publish materi in their work
+print materi that support technic or profession assert such as commod market
+report stock market quot mortal tabl cost of live index etc ar admiss if
+thei ar gener us and reli upon by the public or by person in particular
+occup the feder rule of evid specif mention market report and
+commerci public
+the feder rule of evid also creat a hearsai except for learn treatis provid
+that an authorit work is admiss to either support or attack the opinion of an expert
+wit and that the work ar establish as reliabl author howev some court limit
+the rule in these jurisdict special treatis period or pamphlet can be
+referenc onli dure crossexamin in a world of prolifer and sometim
+contradictori sourc of inform just what count as a learn treatis and what is a
+fring group manifesto is not immedi clear
+write us to refresh a witnesss memori is admiss under special circumst basic
+law basic principl of evid
+2011 fraud examin manual 2723
+court mai permit testifi wit to refresh or reviv their memori by refer to a
+write or anyth els if the wit will thereaft be abl to testifi without depend on
+the term of the write for exampl whistler who is serv as a wit at a fraud trial
+want to see some note he wrote two year ago to make sure he got the number right in hi
+testimoni he is allow to consult the note and continu with hi testimoni there is a
+lawyerli aspect to thi ruleth text of the note is admiss too but onli if the oppos
+attornei request the admiss
+other except
+miscellan except to the hearsai rule includ thing like dy declar and ancient
+document for those instanc not specifi in ani rule there remain the judg discret
+anyth the judg deem trustworthi for the purpos of it present is admiss thi is
+the cornerston of the rule hearsai is exclud in the first place becaus it supposedli lack
+trustworthi howev other kind of hearsai that do not fall within ani specif hearsai
+except mai be admiss if thei meet the same standard of trustworthi as requir
+for the list except
+exclud illeg seiz evid
+in gener evid obtain improperli is taint and unfit for trial the fourth
+amend set out thi cornerston exclusionari rule bar anyth obtain by
+author without proper author from the owner or possessor or through a courtord
+search warrant gener thi rule appli onli in crimin case but it also appli
+to govern employ therefor a public employ cannot us illeg seiz evid
+to disciplin an employe there is no fourth amend prohibit against a privat
+employ us illeg seiz evid to disciplin an employe howev but if a privat
+employ doe us illeg seiz evid to disciplin an employe the employ might be
+expos itself to litig for invas of privaci trespass or other common law caus of
+action even though the evid mai still be admit in court
+impeach
+the abov discuss concern the manner in which evid is introduc at trial usual
+dure direct examin there is of cours anoth side to testimoni crossexamin
+under the rule of evid and the sixth amend which guarante a defend the
+right to confront wit the advers parti is entitl to offer evid to impeach the
+basic principl of evid law
+2724 2011 fraud examin manual
+testimoni or credibl of a wit impeach is the practic of bring out matter that
+attack a witnesss credibl
+there ar numer wai an attornei might impeach a wit but the most common wai
+includ effort to show that the wit
+is influenc by bia or selfinterest
+ha an impair abil to observ
+made prior inconsist statement
+ha been convict of a feloni
+ha a reput for untruth
+impeach by bia show that the wit ha reason or at least opportun to skew the
+evid against on of the parti in the litig question on crossexamin will
+cover ani pecuniari interest the wit ha in the case ani connect the wit might
+have to ani matter or litig and ani other inform that will make the wit appear to
+have some interest in favor on parti over anoth
+anoth wai to impeach wit is to show that their abil to observ wa impair matter of
+observ includ the abil to see hear smell or feel some item in question
+noth overturn a witnesss statement like inconsist oppos lawyer will alwai
+confront ani wit on crossexamin with ani appar inconsist between the
+trial testimoni and statement testimoni or inform given by the wit on other
+occas
+a witnesss credibl mai be challeng though not automat impeach by show that
+the person ha been convict of a feloni crime the govern rule rule 609 of the feder rule of
+evid offer a few basic instruct first convict for act involv dishonesti
+such as larceni theft or fraud ar especi harm to a witnesss testimoni second ani
+wit mai be impeach with ani prior feloni convict third evid of ani prior
+convict is presum inadmiss if the convict is more than 10 year old
+final ani wit mai be impeach by proof of reput for untruth
+certifi fraud examin should keep in mind that the abov method of impeach mai
+be us not onli on the defend and defens wit but also on wit for the
+law basic principl of evid
+2011 fraud examin manual 2725
+prosecut or defens inquiri should be made befor trial to determin if a prosecut or
+defens wit is subject to impeach and if so appropri step should be taken
+privileg
+introduct
+there ar certain evidentiari privileg that protect certain type of evid from be
+discov or produc invok a privileg for a piec of testimoni or other evid in a
+legal encount keep the materi outsid trial proceed if a privileg appli the court
+and it petition ar deni access to the privileg inform and judg and juri must
+disregard ani evid thei do actual hear if it is deem privileg afterward
+the most import privileg ar discuss below
+attorneycli privileg
+the attorneycli privileg preclud disclosur of commun between an attornei
+and client but onli if the follow condit ar met
+the client retain the attornei
+to provid legal advic
+and thereaft commun with the attornei on a confidenti basi and
+the privileg ha not been waiv
+the attorneycli privileg appli to individu as well as corpor or other busi
+entiti in the context of an investig of a compani commun gener will be
+protect under the attorneycli privileg if the follow element ar present
+the commun were made by corpor employe to counsel
+the commun were made at the direct of corpor superior in order for the
+compani to obtain legal advic from counsel
+the employe were awar that the commun were be made in order for the
+compani to obtain legal advic
+the inform need wa not avail from upper manag
+the commun concern matter within the scope of the employe corpor
+duti
+basic principl of evid law
+2726 2011 fraud examin manual
+the commun were confidenti when made and were kept confidenti by the
+compani
+a gener counsel particip in an investig conduct by manag doe not
+automat creat an attorneycli privileg the kei element is that the attornei whether
+inhous counsel or outsid counsel is conduct the investig for the purpos of
+provid legal advic to the compani the privileg gener extend to inform
+gather by investig if the investig is act at the direct of the attornei
+the attorneycli privileg prevent disclosur of the communicationsth letter memo
+or content of telephon callsb etween the attornei and client not of the underli fact
+or documentari evid in the case a client mai not refus to produc document or other
+relev evid mere becaus such evid wa previous given to the attornei
+similarli the attorneycli privileg doe not prevent disclosur of commun that
+relat to busi rather than legal advic corpor counsel is often consult to give advic
+on matter relat to busi conduct rather than legal issu such commun would
+be discover
+final the attorneycli privileg mai not be assert if the commun involv the
+attempt or actual commiss of a present crime or fraud the attornei doe not have to be
+a particip in the fraud for the waiver to appli
+waiver
+special care should be taken to ensur that the attorneycli privileg is not waiv
+inadvert by give document or commun inform to anyon outsid the
+investig team includ member of law enforc if inform gather dure an
+investig is share with law enforc then the privileg mai be waiv not onli as to
+the inform given but also to ani other inform relat to the same subject matter
+for exampl if an investig submit a copi of hi report to the prosecutor who initi
+crimin proceed base on the find in the report the crimin defend mai be abl
+to requir the investig to provid all the document he us in write the report in such
+an instanc the investig mai be consid to have waiv the privileg likewis if law
+enforc request the result of an investig or inform gather dure an
+investig the attornei should be consult befor turn over the inform some
+law basic principl of evid
+2011 fraud examin manual 2727
+court have held that the privileg is not waiv if a compani is subpoena to produc the
+inform
+inadvert waiver
+moreov some court have held that inadvert disclosur of a singl privileg document
+includ digit document waiv the privileg as to all document concern the same
+subject matter for thi reason special care must also be taken to avoid inadvert disclosur
+from the us of electron commun includ email cell phone fax text
+messag instant messag etc it is clear that the attorneycli privileg extend to
+electron commun and it is also clear that a matter voluntarili commun to a
+thirdparti who is not an agent of your counsel is not confidenti and therefor not
+privileg thu when a parti choos to us a form of electron commun which is
+vulner to intercept and inadvert disclosur you run the risk that your messag
+might be intercept by or disclos to an unintend thirdparti
+to illustr how easili inadvert disclosur of electron commun mai occur
+consid a few wai that an email mai unwittingli end up in the hand of an unintend
+thirdparti email mai be forward to addit unintend employe indic a lack
+of confidenti subject matter thei mai be distribut to a larg number of person
+suggest a lack of confidenti or the sender could mistakenli hit the wrong kei on the
+keyboard and send the email to the wrong recipi therefor fraud examin must be
+concern about the risk of inadvert disclosur of electron commun and should
+take cautionari measur to preserv the attorneycli privileg
+unfortun fear over the consequ of subjectmatt waiver ha led to dramat
+litig cost increas in todai digit environ where review ten hundr and
+even thousand of gigabyt of inform for privileg is time consum and expens
+feder rule of evid 502
+in an effort to protect against inadvert waiver of the attorneycli privileg or the work
+product protect presid bush sign into law s 2450 a bill ad evid rule 502
+to the feder rule of evid the legisl resolv conflict between court throughout
+the countri on whether an inadvert product of privileg materi result in waiver
+simpli state under rule 502 an inadvert disclosur of a privileg commun can
+no longer waiv protect for all document concern the same subject matter
+basic principl of evid law
+2728 2011 fraud examin manual
+among other thing rule 502 provid the follow protect
+if disclosur is made then the privileg is waiv to ani other undisclos inform
+onli if 1 the waiver is intent 2 the other inform relat to the same subject
+matter and 3 fair requir further disclosur rule 502a
+if disclosur is inadvert it doe not result in waiver when the privileg holder took
+reason step to prevent disclosur and promptli took reason step to rectifi the
+error rule 502b
+if the disclosur wa made in a state court proceed the disclosur doe not waiv
+protect in a feder proceed if on of two condit is met 1 the disclosur
+would not have been a waiver under rule 502 or 2 the disclosur is not a waiver under
+state law rule 502c
+the mcnulti memorandum and the doj guidelin
+on decemb 12 2006 the depart of justic doj issu guidelin in the form of
+the mcnulti memorandum for feder investig and prosecut of busi
+organ the mcnulti memorandum which address the practic of feder
+prosecutor investig and charg busi organ misconduct revis the doj
+prior guidanc outlin in the much malign thompson memorandum which provid that
+feder prosecutor could seek waiver of the attorneycli privileg and attornei work
+product protect as an element of a compani cooper specif the mcnulti
+memorandum provid specif criteria that prosecutor were requir to consid and
+procedur thei were requir to follow befor seek waiver of privileg or work product
+protect
+on august 28 2008 the depart of justic doj issu guidelin which revis the
+mcnulti memorandum on how feder prosecutor investig charg and prosecut
+corpor crime unlik the mcnulti memorandum the guidelin ar a part of the us
+attornei manual which provid intern doj guidanc but doe not creat ani enforc
+law
+in an effort to stop congression action such that propos by s 445 the guidelin bar
+prosecutor from judg corpor cooper for lenienc on whether an entiti is will
+to waiv the attorneycli privileg or work product protect the guidelin also state
+that prosecutor can no longer seek disclosur of inform that is either privileg or
+protect work product in addit the guidelin provid that when evalu a
+corpor cooper prosecutor mai no longer consid whether a compani is
+law basic principl of evid
+2011 fraud examin manual 2729
+advanc legal fee for it employe whether a corpor ha sanction or retain
+culpabl employe or whether a corpor ha enter into joint defens agreement
+even though most observ agre that the guidelin ar a signific improv over the
+mcnulti memorandum mani contend that comprehens legisl is still need to make
+the doj reform perman and prevent a relaps in depart polici as well as to bar
+similar waiver polici adopt by other feder agenc such as the secur exchang
+commiss and the intern revenu servic for thi reason the doj guidelin mai
+stop interest parti from support the enact of legisl that would further
+protect corpor and their employe from governmentcoerc waiver
+select waiver
+under the select waiver doctrin a corpor seek to cooper with a govern
+investig pursuant to a confidenti agreement can disclos materi protect by the
+attorneycli privileg to the govern without waiv those protect as to
+nongovernment parti such as privat plaintiff but it should be note that most feder
+circuit court have reject the select waiver doctrin in addit rule 502 of the feder
+rule of evid doe not explicitli acknowledg select waiver but it doe not explicitli
+elimin select waiver as a viabl doctrin
+the attornei work product doctrin
+under rule 26b3 of the feder rule of civil procedur and under compar state
+rule document and tangibl thing that ar prepar in anticip of litig ar
+protect by the attornei work product doctrin or privileg the privileg is condit in part
+the oppos parti mai obtain access to otherwis privileg investig document and
+thing through pretrial discoveri if it can show substanti need for the protect inform
+and that the inform cannot be obtain from anoth sourc howev the attornei
+mental impress opinion and strategi concern the litig ar absolut privileg
+and cannot be discov even with a show of substanti need the privileg extend to not
+onli inform and document prepar by a parti or the parti attornei but also by the
+consult and examin hire by the attornei for instanc commun with the
+attornei and ani work or analysi done by an expert with whom the attornei ha consult is
+privileg as work product although that privileg will be waiv if the expert is call to
+testifi as an expert wit at trial
+work product protect appli onli to document and thing prepar in anticip of
+basic principl of evid law
+2730 2011 fraud examin manual
+litig or for trial thu document and tangibl thing prepar in the cours of an inhous
+or other prelitig investig even if at the direct of an attornei mai not be
+privileg if thei were not prepar in anticip of litig just becaus there is a possibl
+of futur litig doe not mean that the investig is in anticip thereof litig
+must be actual plan and the work for which protect is sought must have been
+undertaken for the specif purpos of prepar for that litig but if the work to be
+protect wa done in anticip of litig then it doe not matter in most jurisdict that
+no lawsuit ha been file yet
+the privileg protect document and thing prepar in anticip of litig from
+compel disclosur nevertheless it doe not render the fact themselv confidenti
+privileg or nondiscover thu while report interview note and transcript might
+not be discover under the privileg the fact learn mai have to be provid in respons
+to properli phrase discoveri request similarli the privileg doe not prevent discoveri of
+the ident of wit and the exist of interview note tape or transcript the extent
+to which interview note transcript and other factual report prepar in anticip of
+litig ar actual protect from discoveri by a parti oppon mai vari between
+jurisdict and mai depend on the fact and circumst of a given case
+waiver of work product protect
+like the attorneycli privileg work product protect can be waiv moreov the
+feder rule of evid 502 expressli appli to disclosur of a commun or
+inform cover by work product protect therefor the examin should abid by
+the same rule govern disclosur of materi protect by the attorneycli privileg
+work product protect and outsid auditor
+in late 2004 a feder district judg in new york under the work product doctrin protect
+the result of an intern investig of a larg compani given to an outsid auditor merril
+lynch co inc v allegheni energi inc 2004 us dist lexi 21543 howev court
+continu to disagre as to whether such disclosur waiv work product protect under the
+feder rule of evid
+befor disclos work product to an outsid auditor a compani should determin whether
+the outsid auditor is an adversari some court consid auditor to be the watchdog of
+compani and therefor inher adversari to their corpor client certainli the role of
+outsid auditor is to independ ensur the accuraci of a compani financi find
+law basic principl of evid
+2011 fraud examin manual 2731
+inaccuraci and detect fraud howev the court in merril lynch distinguish thi kind of
+adversari from a litig adversari a compani auditor is not necessarili a litig
+adversari which is requir to invalid the work product privileg rather a busi
+and it auditor can and should be align insofar as thei both seek to prevent detect and
+root out corpor fraud
+the court also emphas that a blanket waiver of privileg in thi kind of situat would
+like discourag ethic disclosur and conduct by compani thu the trend in litig
+seem to review the fact on a casebycas basi to determin whether an auditor and
+compani share common interest and therefor ar nonadversari
+the follow principl should aid compani in determin whether thei should provid
+work product to outsid auditor 1 ensur a common interest between the compani and
+the outsid auditor 2 onli disclos inform necessari to help the auditor assess
+suffici of the compani control and the accuraci of the compani auditaccount
+procedur and 3 when disclos informati on alwai includ a confidenti agreement
+acknowledg that the document were prepar by counsel and therefor privileg as well
+as a coven that the outsid auditor is to maintain the strictest confid of the
+document
+selfevalu privileg
+the selfevalu privileg also refer to as the selfcrit privileg mai provid some
+protect for the investig work product thi privileg is base on the need to
+encourag voluntari intern review and complianc program it appli if an organ
+can demonstr that it is attempt to polic itself in an area of public interest and that
+disclosur of the work product would prejudic such effort the privileg is a rel new
+concept and is not recogn in all jurisdict it is much weaker than the attorneycli
+and attornei work product privileg
+marit privileg
+addition the marit privileg protect commun between husband and wive
+there ar two form of the marit or spousal privileg 1 the confidenti commun
+privileg enabl either spous to prevent the other from testifi regard a
+commun dure marriag between the two that wa intend to be in confid and
+2 the advers testimoni privileg protect spous from be compel to testifi against each
+other while thei ar marri usual the confidenti commun privileg continu
+basic principl of evid law
+2732 2011 fraud examin manual
+after the termin of the marriag the advers testimoni privileg doe not
+there is no privileg that permit a person not to testifi against other famili member
+although as a matter of polici mani law enforc agenc will not compel testimoni
+from immedi famili member
+law enforc privileg to withhold the ident of an inform
+law enforc agenc mai legitim withhold the ident of an inform unless
+disclosur is necessari to ensur that the defend receiv a fair trial in such circumst
+the prosecut ha to decid whether to forego prosecut or disclos the ident of the
+inform in the privat sector there is no equival privileg certifi fraud examin or
+other who ar investig on behalf of a privat client mai be compel by court order to
+disclos the ident of an inform or ani other wit thi possibl should be disclos
+to potenti wit who mai request confidenti see the investig section of the
+fraud examin manual for more inform
+accountantcli privileg
+a few state have a weak accountantcli privileg that allow an account to resist
+product of a client work paper or document no such privileg is recogn in feder
+court and the state privileg mai be overcom by a show of need or by the servic of a
+subpoena
+there is howev a feder author tax practition privileg under section 7525 of
+the intern revenu code thi privileg is a evidentiari privileg that provid limit
+protect in feder tax law it appli onli in situat where a cpa is provid tax advic
+in noncrimin proceed befor the ir or befor a feder court
+nevertheless as discuss abov in feder proceed commun between a client
+and a thirdparti such as an account mai be protect under the attorneycli privileg
+or the attornei work product doctrin
+the attorneycli privileg extend to account if the attornei hire the account to
+assist in render legal advic addition the privileg extend to an account
+document which were made at the attornei request us to render legal advic thi
+privileg wa clarifi in us v cote which conclud that there is no protect for
+account servic if no legal advic wa sought in cote the client engag the account
+law basic principl of evid
+2011 fraud examin manual 2733
+befor retain the lawyer the client and account had a longstand profession
+relationship and the attornei did not control or supervis the account effort or work
+product
+in addit the attornei work product protect extend to inform and document
+prepar by the consult and examin hire by the attornei includ account
+howev ani protect will be waiv if the account is call to testifi as an expert
+wit at trial
+in case where account serv as expert wit the work product doctrin mai appli
+protect under the work product doctrin gener depend on whether the account
+serv as a testifi expert or a nontestifi consult expert noth creat by the
+testifi expert is privileg from discoveri convers the rule of discoveri gener
+protect commun between a nontestifi expert the attornei and the parti from
+disclosur to adversari howev the protect against disclosur of commun with
+nontestifi expert can be lost and thi commonli occur when the nontestifi expert
+commun ar releas to other particularli to testifi expert thi topic is
+discuss in further detail below
+there ar a number of other privileg that ar less like to be assert in fraud action
+includ the priestpenit and physicianpati privileg
+law testifi as an expert wit
+2011 fraud examin manual 2801

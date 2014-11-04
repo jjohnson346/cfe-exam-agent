@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=All of the following are classifications of billing schemes identified by Corporate Fraud Handbook EXCEPT:
+
+Options=Personal purchases with company funds | Shell company schemes | Invoicing via non-accomplice vendors | Bid rigging
+
+CorrectResponse=3
+
+Explanation=Corporate Fraud Handbook separates Billing Schemes into three major categories:•	Invoicing via shell companies•	Invoicing via nonaccomplice vendors•	Personal purchases with company fundsBid rigging is classified as a type of bribery scheme, not false billing.See page(s) 185 in the Corporate Fraud Handbook

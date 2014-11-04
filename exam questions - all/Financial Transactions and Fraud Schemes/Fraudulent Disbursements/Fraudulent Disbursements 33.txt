@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Expense reports should require all of the following: \r\rReceipts or other support documentation \rExplanation of the expense including specific business purpose \rTime period expense occurred \rPlace of expenditure \rAmount
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Detailed expense reports should require the following information:•	Receipts or other support documentation•	Explanation of the expense including specific business purpose•	Time period expense occurred•	Place of expenditure•	AmountSee page(s) 242 in the Corporate Fraud Handbook

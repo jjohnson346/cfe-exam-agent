@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=As a general rule, interrogatories in civil cases are served on:
+
+Options=Opposing parties | Witnesses | Jurors | None of the above
+
+CorrectResponse=0
+
+Explanation=Interrogatories are written questions which the party, through his attorney, is required to answer in writing. They are much less expensive than depositions, but are not nearly as productive, as counsel traditionally finds ways to avoid answering or provide minimal information. Interrogatories are served only on the opposing party, not witnesses.See page(s) 2.604 in the Fraud Examiner's Manual

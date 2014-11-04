@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Baker, a salesman for the ABC Company, conspired with the company president to defraud the U.S. Government, and Baker fraudulently billed the Department of Defense for defective work in furtherance of the agreement. What can Baker and the ABC Company be charged with as a criminal offense?
+
+Options=Making false statements | Conspiracy to defraud the United States | Making false statements and conspiracy to defraud the United States | None of the above
+
+CorrectResponse=0
+
+Explanation=A corporation cannot conspire with one of its own employees to commit an offense because the employee and employer are viewed legally as one. A corporation may, however, conspire with other business entities or third parties in violation of the statute. Chapter 47 of Title 18, U.S. Code, contains a number of related provisions that punish false or fraudulent statements, orally or in writing, made to various federal agencies and departments.See page(s) 2.330, 2.238 in the Fraud Examiner's Manual

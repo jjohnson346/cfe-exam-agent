@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Criminologist Donald Cressey divided occupational crime offenders into three categories. Which of the following is one of those categories?
+
+Options=Independent businessmen | Absconders | Long-term violators | All of the above are categories
+
+CorrectResponse=3
+
+Explanation=For further analysis, Cressey divided the subjects into three groups: independent businessmen, long-term violators, and absconders. He discovered that each group had its own types of rationalizations.See page(s) 4.607-4.609 in the Fraud Examiner's Manual

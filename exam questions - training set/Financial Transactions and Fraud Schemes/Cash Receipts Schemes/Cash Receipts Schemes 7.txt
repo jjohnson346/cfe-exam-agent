@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=The removal of cash from a victim organization before the cash is entered in the organization's accounting system is:
+
+Options=Skimming | Cash larceny | An illegal gratuity | A fraudulent disbursement
+
+CorrectResponse=0
+
+Explanation=Skimming is the removal of cash from a victim entity prior to its entry in an accounting system. Employees who skim from their companies steal sales or receivables before they are recorded in the company books. Because of this aspect of their nature, skimming schemes are known as ‰??off-book'‰?? frauds; they leave no direct audit trail.See page(s) 67 in the Corporate Fraud Handbook

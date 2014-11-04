@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The process by which counsel or the court asks questions of potential jurors is called:
+
+Options=Venire | Voir dire | Peremptory challenge | Res judicata
+
+CorrectResponse=1
+
+Explanation=Most criminal cases are tried by a jury of 12 v/ith at least two alternates, but the parties may stipulate to a lesser number. The jury is expected to be impartial. Counsel or the court may voir dire (ask questions of) the prospective jurors to determine their suitability. Each party may remove any number of prospective jurors for cause, such as admitted bias or prejudice, and each side has a limited number of peremptory challenges, depending on the offense charged, under which a party may strike a prospective juror v/ithout having to provide a reason. The prosecution may not use its peremptory challenges, however, in a way solely influenced by racial factors. The defendant also may challenge the entire jury pool—called the venire—if the selection procedures systematically exclude certain groups, such as minorities, women, or young people.See page(s) 2.516 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, there are three basic types of informational questions used by the interviewer. Which of the following is NOT one of those types of questions?
+
+Options=Discovery | Leading | Open | All of the above are question types
+
+CorrectResponse=0
+
+Explanation=There are three main informational question types: open, closed, and leading. Open questions are those which require a narrative answer, and are difficult to answer "yes" or "no." Open questions are suggested for developing information. Closed questions require a precise answer. Leading questions contain a suggested answer in the question. All three types are used in interviews.See page(s) 3.203, 3.222 in the Fraud Examiner's Manual

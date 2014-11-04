@@ -1,0 +1,8 @@
+Token                          Frequency
+-----------------------------  ---------
+shell                                  1
+via                                    1
+invoicing                              1
+companies                              1
+
+Totals:                      4         4

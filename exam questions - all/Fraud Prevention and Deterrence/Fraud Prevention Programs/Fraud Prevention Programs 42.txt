@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=According to the COSO report, there are five interrelated components of a company's internal control. Which of the following are NOT among COSO's components?
+
+Options=Executives' Authority | Risk Assessment | Monitoring | Control Activities
+
+CorrectResponse=0
+
+Explanation=COSO identified five interrelated components of internal control. The effectiveness of internal controls can be determined from an assessment of whether these five components are in place and functioning effectively. The five components are control environment, risk assessment, control activities, information and communication, and monitoring.See page(s) 4.704 in the Fraud Examiner's Manual

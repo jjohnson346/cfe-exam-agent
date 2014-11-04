@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=According to the court in Auerbach Shoe Co. v. Commissioner, whether or not the corporation is charged with tax fraud along with its officers depends on:
+
+Options=The intent of the officers | The size of the damages | The identity of the victim | The legal status of the corporation
+
+CorrectResponse=0
+
+Explanation=Corporate fraud charges depend on the intent of the corporate officers. Auerbach Shoe Co. v. Commissioner, 21 TC 191; affd. 216 F.2d 693, 54-2 USTC P 9673 (1st Cir. 1953).See page(s) 1.1403 in the Fraud Examiner’s Manual

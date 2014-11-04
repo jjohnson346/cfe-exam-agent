@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Under Title 18: Section 656 (bank embezzlement), which of the following is NOT an element of the statute?
+
+Options=Of any bank | Who willfully embezzled | Defendant was an officer, director, agent or employee | With the intent to injure or defraud the bank
+
+CorrectResponse=0
+
+Explanation=Title 18, Section 656, U.S. Code, describes the essential elements of the violation: (1) the defendant was an officer, director, agent, or employee of; (2) a federally insured bank; (3) who willfully embezzled; (4) v/ith the intent to injure or defraud the bank. Note that Section 656 does not cover all banks, only those that are federally insured.See page(s) 2.260 in the Fraud Examiner's Manual

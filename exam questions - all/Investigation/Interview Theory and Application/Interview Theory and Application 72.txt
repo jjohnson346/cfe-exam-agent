@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=A __________________ interview is one that has the potential to bring about strong emotional reactions in the respondent.
+
+Options=Evasive | Volatile | Chronemic | None of the above
+
+CorrectResponse=1
+
+Explanation=A volatile interview is one that has the potential to bring about strong emotional reactions in the respondent. Typical volatile interviews involve close friends and relatives of a miscreant, co-conspirators, and similar individuals. The personality characteristics of those involved in the volatile interview vary. Some individuals, by nature, are resentful of authority figures, such as fraud examiners and law enforcement officers. Friends, relatives and romantic interests of a target often make for a difficult interview. They perceive that the examiner is "out to get" someone close to them.See page(s) 3.232 in the Fraud Examiner's Manual

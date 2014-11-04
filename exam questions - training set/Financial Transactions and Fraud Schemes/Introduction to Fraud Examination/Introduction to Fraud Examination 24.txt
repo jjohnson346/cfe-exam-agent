@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Smith, a Certified Fraud Examiner for the Ajax Co., observes Jones, an accounts payable clerk, driving an expensive imported sports car to work. Smith also has knowledge that Jones recently had extensive remodeling done on her residence. Smith has sufficient predication to:
+
+Options=Conduct discreet inquiries into Jones' responsibilities as an accounts payable clerk | Confront Jones with an allegation of fraud | Notify management of the possibility that Jones has committed fraudulent acts | None of the above
+
+CorrectResponse=0
+
+Explanation=Predication is the totality of circumstances that would lead a reasonable, professionally trained, and prudent individual to believe a fraud has occurred, is occurring, and/or will occur. Predication is the basis upon which an examination is commenced. Fraud examinations should not be conducted without proper predication. Smith must make his actions match the predication. There is not sufficient predication to confront Jones or to make any direct allegations about fraud. If Smith ignored what he has seen, there is the possibility that he would let a fraud go undetected. Smith does have adequate predication to make discreet inquiries. Smith should design audit tests to carefully review Jones' job responsibilities. Smith should be familiar with common schemes employed by accounts payable clerks to commit fraudulent acts.See page(s) I-7 in the Fraud Examiner's Manual

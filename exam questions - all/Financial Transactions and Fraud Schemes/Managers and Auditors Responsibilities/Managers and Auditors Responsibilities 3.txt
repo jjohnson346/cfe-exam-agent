@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Under the Sarbanes-Oxley Act, members of the audit committee can be paid for consulting work done for the company, but only if the transaction is documented and conducted at arm's length.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Each member of the audit committee must be a member of the board of directors and must be “independent," meaning he receives compensation only for his service on the board. He cannot be paid by the company for any other consulting or advisory work.

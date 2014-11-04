@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Corporate Fraud Handbook defines a forged maker scheme as a check tampering scheme in which an employee misappropriates a signed check intended for a third party and converts the check by signing the third-party's name on the back.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=x A forged maker scheme may be defined as a check tampering scheme in which an employee misappropriates a check and fraudulently affixes the signature of an authorized maker thereon. Forged maker schemes only involve the forgery of the maker's signature. Forged endorsement frauds are those check tampering schemes in which an employee intercepts a company check intended for a third party and converts the check by signing the third-party’s name on the endorsement line of the check.See page(s) 127-128, 133 in the Corporate Fraud Handbook

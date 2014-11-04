@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Blue, an insurance agent, was paid a percentage of the sales he generated on behalf of his company. Blue wrote policies to fictitious customers in order to increase his sales totals for the month. According to Corporate Fraud Handbook this is an example of:
+
+Options=A falsified hours and salary scheme | An expense reimbursement scheme | A false billing scheme | None of the above
+
+CorrectResponse=3
+
+Explanation=Commission is a form of compensation calculated as a percentage of the amount of transactions a salesperson or other employee generates. It is a unique form of compensation that is not based on hours worked or a set yearly salary, but rather on an employee's revenue output. A commissioned employee's wages are based on two factors, the amount of sales he generates and the percentage of those sales he is paid. In other words, there are two ways an employee on commission can fraudulently increase his pay: (1) falsify the amount of sales made, or (2) increase his rate of commission.See page(s) 221 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=A subpoena duces tecum calls for the production of documents.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A subpoena duces tecum is a legal order for a witness to produce documents for reference during a deposition.See page(s) 2.604 in the Fraud Examiner's Manual

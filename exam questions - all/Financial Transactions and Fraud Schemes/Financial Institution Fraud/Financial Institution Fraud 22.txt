@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Common fraud schemes involving transfers of money include all of the following EXCEPT:
+
+Options=Unauthorized entry and interception | Dishonest bank employees | Misrepresentation of identity | "Knock and enter" techniques
+
+CorrectResponse=3
+
+Explanation=Some of the common fraud schemes involving transfers of money include: (1) dishonest bank employees, (2) misrepresentation of identity; (3) system password security compromised; (4) forged authorizations; and (5) unauthorized entry and interception.See page(s) 1.935 in the Fraud Examiner's Manual

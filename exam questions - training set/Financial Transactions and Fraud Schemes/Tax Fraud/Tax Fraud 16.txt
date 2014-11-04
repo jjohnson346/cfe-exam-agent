@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=According to cases interpreting the Tax Code, a taxpayer can be guilty of conducting an offense "willfully" even though he had a good faith or legitimate misunderstanding of the requirements.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Good faith or a legitimate misunderstanding of the requirements of the law negates willfulness, [U.S. v. Cheek, 91 1 USTC 50,012 (7th Cir 1991), aff‰??d. 111 U.S. 604 (1991)]. In U.S. v. Cheek, the court held, however, that the belief that taxes are in violation of the Constitution was not ‰??objectively reasonable" so as to negate willfulness.See page(s) 1.1401 in the Fraud Examiner‰??s Manual

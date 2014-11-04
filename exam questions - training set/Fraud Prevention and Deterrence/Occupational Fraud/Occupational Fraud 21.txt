@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=The majority of people who commit occupational fraud are repeat offenders with prior criminal records.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=As we found in our previous studies, the vast majority of employees who commit occupational fraud are first-time offenders. In 86 percent of the cases in our survey, the perpetrator had never been charged with or convicted of a fraud-related offense prior to the discovery of his or her scheme. Additionally, 82 percent of the fraudsters had never previously been punished or terminated by an employer for fraud or abuse.See page(s) 4.640-4.641 in the Fraud Examiner's Manual

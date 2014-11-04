@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Bars, restaurants, and nightclubs are favorite businesses through which to launder funds because:
+
+Options=They charge relatively high prices | Sales are generally in cash | It is difficult to match the cost of providing food, liquor, and entertainment with the revenues they produce | All of these choices are correct
+
+CorrectResponse=3
+
+Explanation=Businesses that deal in large amounts of cash sales have always been popular for money laundering. Such businesses make accurate audits difficult. These types of businesses include bars, restaurants, and nightclubs. These businesses charge relatively high prices, and customers vary widely in their purchases. Sales are generally in cash, and it is notoriously difficult to match the cost of providing food, liquor, and entertainment with the revenues they produce.See page(s) 1.1605 in the Fraud Examiner’s Manual

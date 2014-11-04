@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+summary                                1
+generate                               1
+for                                    2
+verify                                 1
+department                             3
+etc                                    2
+by                                     3
+purchase                               1
+analysis                               1
+amount                                 1
+disbursement                           1
+order                                  1
+trail                                  1
+bank                                   1
+all                                    1
+activity                               1
+limits                                 1
+•                                      4
+or                                     1
+vendor                                 3
+identify                               1
+disbursements                          3
+approval                               1
+audit                                  1
+supervisor                             1
+cash                                   3
+account                                1
+summarize                              1
+
+Totals:                     28        43

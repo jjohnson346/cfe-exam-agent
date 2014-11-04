@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The jury that actually hears the case at trial is called the:
+
+Options=The final panel | The maxima jury | The petit jury | The grand jury
+
+CorrectResponse=2
+
+Explanation=The jury that hears the case (the petit jury) is not required to reflect a cross-section of the community or contain individuals of the same race or age as the defendant.See page(s) 2.517 in the Fraud Examiner's Manual

@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+can                                    1
+instructed                             1
+have                                   1
+for                                    1
+set                                    1
+fraud                                  2
+honest                                 2
+workers                                1
+impact                                 1
+of                                     1
+if                                     1
+on                                     1
+proper                                 1
+employee                               2
+positive                               1
+want                                   1
+work                                   1
+tone                                   1
+is                                     1
+communication                          1
+a                                      3
+the                                    1
+helps                                  1
+morale                                 2
+properly                               1
+an                                     2
+company                                1
+policy                                 2
+
+Totals:                     29        37

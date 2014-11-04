@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Which of the following calculations of accounts receivable turnover is correct?
+
+Options=Days in the year divided by average receivables | Cost of sales divided by average receivables | Net sales on account divided by average net receivables | None of the above
+
+CorrectResponse=2
+
+Explanation=Net sales on account divided by the average net receivables is the receivable turnover ratio. It measures the number of times accounts receivable is turned over during the accounting period.See page(s) 1.339 in the Fraud Examiner's Manual

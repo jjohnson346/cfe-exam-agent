@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Mark has been arrested for fraud. At the preliminary examination, the magistrate rules that there is insufficient probable cause to sustain the complaint. The complaint is dismissed, and Mark is released. Because the complaint was dismissed by the magistrate, the prosecutor cannot file fraud charges against Mark a second time.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If the magistrate determines at the preliminary examination that there is no probable cause, the complaint will be dismissed and the defendant released. However, the government may institute a subsequent prosecution for the same offense, presumably with better evidence. Preliminary examinations often are used by defense counsel as an opportunity to get free "discoveryâ€? of the details of the prosecutionâ€™s case. The charges can be refiled. Since the person was not acquitted of the offense, there is no double jeopardy issue.See page(s) 2.506 in the Fraud Examiner's Manual

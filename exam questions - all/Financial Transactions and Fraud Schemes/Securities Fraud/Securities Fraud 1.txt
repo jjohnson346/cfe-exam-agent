@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=If a fraud examiner wishes to obtain more information about a particular securities dealer or broker, which of the following would be the best source of information?
+
+Options=Central Registration Depository | EDGAR databasex | Blue Sky Registration Association | Association of Certified Fraud Examiners
+
+CorrectResponse=0
+
+Explanation=The Central Registration Depository (CRD), run by National Association of Securities Dealers (NASD), is a national database of information on registered (and some unregistered) individuals and companies. Nov/ available via the Internet to authorized users, it includes qualification, employment, and disciplinary actions in addition to basic biographical data. The EDGAR database would have some information about brokers, but only incidentally. The ACFE does not have any records regarding individual brokers and dealers. The Blue Sky Registration Association does not existSee page(s) 1.1548 in the Fraud Examiner’s Manual

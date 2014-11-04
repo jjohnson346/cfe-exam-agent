@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Boiler room operations are generally very difficult to prosecute.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Boiler rooms are usually run by veteran criminals who know how to set up and shut down operations quickly. By the time enough complaints are generated to initiate an investigation, its participants have packed up and left.See page(s) 1.1715 in the Fraud Examiner’s Manual

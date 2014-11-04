@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=The information contained in the Uniform Crime Reports is taken from:
+
+Options=Court filings | Public surveys | Police departments | All of the above
+
+CorrectResponse=2
+
+Explanation=The Federal Bureau of Investigation (FBI) compiles statistics on the extent of crime in the United States in a document called the Uniform Crime Report (UCR). The report is put together on the basis of information voluntarily submitted by more than 15,000 law enforcement departments. This includes virtually every significant public policing agency in the country.See page(s) 4.315 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=Baker is about to stand trial for fraud. It is determined that he is a compulsive gambler Instead of going to trial, he agreed to be placed in a treatment program. If he completes the program successfully, he will not be tried for his fraud. This type of criminal justice sanction is called:
+
+Options=Diverted sentence | Optional prosecution | Pretrial diversion | None of the above
+
+CorrectResponse=2
+
+Explanation=While not truly a sentence, since it is not the consequence of a trial or a plea, pre-trial diversion is often used at the local level for offenders who seem suited to what it has to offer. Under its terms, selected individuals, after they have been arrested but before further proceedings, will be placed into some form of treatment program. If it is assumed, for instance, that their troubles with the criminal law were fundamentally related to alcoholism, they may be ordered to attend Alcoholics Anonymous meetings a certain number of times each week for a specified period. Other offenders, particularly juveniles, might be diverted to different kinds of counseling programs or placed in a remedial education group. Referrals to employment services might also be mandated.See page(s) 4.303 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Based on Dr. Albrecht's study, it appears that people who are living beyond their means are more at risk of committing fraud than are other individuals.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In Dr. Steve Albrecht’s study, the researchers gave internal auditors at companies that had experienced frauds two sets of 25 motivating factors and asked which factors were present in the frauds they had dealt with. Participants were asked to rank these factors on a seven-point scale indicating the degree to which each factor existed in their specific frauds. The top three most highly ranked factors from the list of personal characteristics, based on this study, were (1) living beyond their means, (2) an overwhelming desire for personal gain, and (3) high personal debt.See page(s) 4.611 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=When considering sources of income, it is important to remember to include which of the following?
+
+Options=Inheritances | Insurance settlements | Damages from legal actions | All of the above
+
+CorrectResponse=3
+
+Explanation=All of the following should be considered when developing sources of income for a subject:•	Salaries, wages, and business receipts•	Interest and dividends•	Sale of securities•	Rents and royalties•	Pensions, trusts, annuities, etc.•	Gifts (money, property, etc.)•	Inheritances•	LoansSee page(s) 3.803 in the Fraud Examiner's Manual

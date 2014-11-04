@@ -1,0 +1,76 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/INSURANCE FRAUD/Computer-Generated Detection Reports
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Insurance Fraud
+
+
+:
+
+
+Computer-Generated Detection Reports 
+Computers can be used to generate detection reports that provide the fraud examiner with 
+good leads to possible fraud.  
+ 
+Address Similarity Report 
+Address similarity reports electronically compare multiple checks going to the same address. 
+They are extremely useful because they might show a check defalcation or funds going to 
+another insurance company, broker, or fictitious payee.  
+ 
+Insurance Fraud  Financial Transactions   
+1.1114                           2011 Fraud Examiners Manual  
+Downloading of Files 
+Comparison of issue files to disbursement files can determine if funds are being used to 
+place new policies by using the equity of old policies. For example, computer-assisted 
+auditing tools and techniques (CAATTs) are used to download and compare electronic files, 
+such as comparing the administrative file on group business to the Social Security file to 
+determine if the company is paying out monthly payments on people who have passed away. 
+ 
+Electronic Confirmations 
+Mailed disbursements in force or lapsed premiums, change of address, etc., to verify that 
+company records agree with policyholder records. 
+ 
+Exception or Manual Override Reports 
+Computerized reports that list all exceptions to normal electronic processing. All human 
+intervention can appear on a periodic management information report and be test-checked 
+by management. It is imperative that management review on an ongoing basis all exception 
+reports for possible frauds. 
+ 
+ 
+
+
+
+:
+
+
+computergener detect report
+comput can be us to gener detect report that provid the fraud examin with
+good lead to possibl fraud
+address similar report
+address similar report electron compar multipl check go to the same address
+thei ar extrem us becaus thei might show a check defalc or fund go to
+anoth insur compani broker or fictiti paye
+insur fraud financi transact
+11114 2011 fraud examin manual
+download of file
+comparison of issu file to disburs file can determin if fund ar be us to
+place new polici by us the equiti of old polici for exampl computerassist
+audit tool and techniqu caatt ar us to download and compar electron file
+such as compar the administr file on group busi to the social secur file to
+determin if the compani is pai out monthli payment on peopl who have pass awai
+electron confirm
+mail disburs in forc or laps premium chang of address etc to verifi that
+compani record agre with policyhold record
+except or manual overrid report
+computer report that list all except to normal electron process all human
+intervent can appear on a period manag inform report and be testcheck
+by manag it is imper that manag review on an ongo basi all except
+report for possibl fraud

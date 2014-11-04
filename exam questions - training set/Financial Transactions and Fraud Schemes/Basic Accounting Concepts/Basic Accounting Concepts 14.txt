@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=To conceal an asset misappropriation in the company's books, a fraudster can enter:
+
+Options=A false credit to another asset account | A false debit to another asset account | A false credit to a liabilities account | None of the above
+
+CorrectResponse=1
+
+Explanation=Asset misappropriations generally are concealed in the books of account as either false debits or omitted credits. However, many misappropriations are not concealed at all, and they will be reflected in the books as an out-of-balance condition.See page(s) 58 in the Corporate Fraud Handbook

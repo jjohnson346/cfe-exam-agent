@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=If a fraud examiner conducted unannounced inspections and tests, reviewed a large sample of inspection reports, and selected and reviewed a large sample of product returns, the fraud examiner may be reacting to which of the following suspected schemes?
+
+Options=Labor mischarges | Product substitution | Bid-rigging | None of the above
+
+CorrectResponse=1
+
+Explanation=To detect product substitution schemes, the fraud examiner should consider the following procedures: (1) conduct both routine and unannounced inspections and tests; (2) carefully review the inspection and test reports, and (3) be aware that a high percentage of product returns to the vendor may signal noncompliance with specifications.

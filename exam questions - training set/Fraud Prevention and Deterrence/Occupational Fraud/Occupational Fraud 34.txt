@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=The term "occupational crime" covers at least four types of white-collar offenses. Which of the following is one of those types?
+
+Options=Crimes by officials | Crimes by professionals | Crimes by individuals | All of the above are types
+
+CorrectResponse=3
+
+Explanation=Gary Green, in honing the white-collar crime concept, uses the term "occupational crime," which he defines as "any act punishable by law which is committed through opportunity created in the course of an occupation which is legal." Green further delineates occupational crime into four categories:Crimes for the benefit of an employing organization (organizational occupational crime)Crimes by officials through exercise of their state-based authority (state authority occupational crime) Crimes by professionals in their capacity as professionals (professional occupational crime)Crimes by individuals as individualsSee page(s) 4.601 in the Fraud Examiner's Manual

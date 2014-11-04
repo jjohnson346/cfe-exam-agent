@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Which of the following is a reason that pyramid schemes continue to flourish?
+
+Options=Pyramids operate mainly through pre-existing affiliations. | Pyramids initially pay off. providing excellent word of mouth. | Pyramids use ingenuity and false logic in their pitches. | All of the above
+
+CorrectResponse=3
+
+Explanation=One reason that pyramid schemes continue to flourish could be that familiarity has lulled the public into a false sense of security. Pyramiders have several strong v/eapons at their disposal:

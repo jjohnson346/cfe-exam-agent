@@ -1,0 +1,10 @@
+Section=Money Laundering
+
+Stem=The title of the Congressional legislation passed in October of 2001 that aimed to curtail money laundering, particularly to prevent financing of terrorist activities, is referred to as which of the following?
+
+Options=The USA PATRIOT Act | The Anti-Money Laundering Act | The Anti-Terrorism Act | The Privacy Act
+
+CorrectResponse=0
+
+Explanation=On October 26, 2001, President George W. Bush signed into law the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act (the USA PATRIOT Act). The USA PATRIOT Act was a response to the tragedies of September 11, 2001, and reflected Congressional concern with the money laundering activities of the terrorists who committed those attacks. See page(s) 1.1615 in the Fraud Examiner’s Manual
+

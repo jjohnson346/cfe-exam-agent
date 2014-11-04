@@ -1,0 +1,66 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Reporting and Case Management Software/Indexer
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Indexer 
+Indexer is a text extraction program that clearly and automatically reveals critical connections 
+between information stored in a database. Indexer automatically extracts relevant 
+information from unstructured text using entities (such as a person, company, or an event), 
+attributes (such as occupation, sex, or company title), and relationships (such as located at, 
+works for, and involved in event). Xanalys provides various ways to ensure that the 
+information represented in the Index Plan is useful. These include loading them into a 
+database for analysis by Link Explorer or other reporting or analysis tools, in addition to 
+embedding the technology into third-party applications. With the key entities and 
+relationships contained in a structured environment, it is now possible to access and query 
+this information. Once a number of documents have been processed, a list of all the people 
+mentioned in the documents or a list of companies, vehicles, or phone numbers associated 
+with those listed people could be obtained. As new documents arrive, these can be 
+incorporated and augment the existing results. The full power of Indexer capabilities can be 
+embedded into a company’s own products and technologies. On the Windows platform, it 
+Data Analysis and Reporting Tools  Investigation 
+3.640   2011 Fraud Examiners Manual  
+includes a COM interface to direct the information extraction output into any required form, 
+such as input to some other process or to a database. 
+ 
+For more information on Link Explorer or Indexer, visit www.xanalys.com.  
+ 
+
+
+
+:
+
+
+index
+index is a text extract program that clearli and automat reveal critic connect
+between inform store in a databas index automat extract relev
+inform from unstructur text us entiti such as a person compani or an event
+attribut such as occup sex or compani titl and relationship such as locat at
+work for and involv in event xanali provid variou wai to ensur that the
+inform repres in the index plan is us these includ load them into a
+databas for analysi by link explor or other report or analysi tool in addit to
+embed the technolog into thirdparti applic with the kei entiti and
+relationship contain in a structur environ it is now possibl to access and queri
+thi inform onc a number of document have been process a list of all the peopl
+mention in the document or a list of compani vehicl or phone number associ
+with those list peopl could be obtain as new document arriv these can be
+incorpor and augment the exist result the full power of index capabl can be
+embed into a compani own product and technolog on the window platform it
+data analysi and report tool investig
+3640 2011 fraud examin manual
+includ a com interfac to direct the inform extract output into ani requir form
+such as input to some other process or to a databas
+for more inform on link explor or index visit wwwxanalyscom

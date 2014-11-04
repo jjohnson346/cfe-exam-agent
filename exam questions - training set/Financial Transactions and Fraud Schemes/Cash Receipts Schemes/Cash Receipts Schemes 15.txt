@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=According to Corporate Fraud Handbook, which type of scheme is generally hardest to detect?
+
+Options=Cash distraction | Cash larceny | Both cash larceny and skimming are equally difficult to detect | Skimming
+
+CorrectResponse=3
+
+Explanation=Because the cash stolen by an employee in a larceny scheme has already been recorded, its absence ought to be more easily detectable than the off-book funds taken in a skimming scheme. Consequently, we would expect larceny schemes to be less common and less successful than skimming schemes. Cash distraction is not a recognized scheme type.See page(s) 67. 100-101 in the Corporate Fraud Handbook

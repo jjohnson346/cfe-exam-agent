@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a nonunion suspect, arrived at a scheduled admission-seeking interview with his manager and insisted that the manager be allowed to sit in. The interview should NOT be conducted because:
+
+Options=The suspect will be less likely to make culpable admissions | The third-party could interfere | The presence of a third party could have liability consequences | All of the above
+
+CorrectResponse=3
+
+Explanation=Other than the subject and two examiners, no other observers usually should be permitted in the admission-seeking interview. If the accused is in a union, a union representative may have the right to attend. However, this might present legal problems in "broadcasting" the allegation to a third-party. It is very difficult to obtain a confession with witnesses present. The examiner should therefore consider whether the case can be proven without the admission-seeking interview.See page(s) 3.250 in the Fraud Examiner's Manual

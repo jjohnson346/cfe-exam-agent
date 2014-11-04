@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Freeware and shareware are two common ways a computer can become infected by a virus.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=‰?? Viruses can infect computer systems from many sources. Some of the more common virus carriers are.‰?¢	Unknown or unchecked application software‰?¢	Software or media brought in by employees‰?¢	Programs downloaded from modem bulletin boards‰?¢	Vendors and suppliers with infected software‰?¢	Uncontrolled and shared program applications‰?¢	Demonstration software‰?¢	Freeware and sharewareSee page(s) 1.1821-1.1822 in the Fraud Examiner's Manual

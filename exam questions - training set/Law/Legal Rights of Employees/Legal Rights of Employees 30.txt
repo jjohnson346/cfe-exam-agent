@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Katz v. United States is probably the most important of the Supreme Court's Fourth Amendment Decisions. Which of the following was NOT covered by the Katz decision?
+
+Options=A search without a warrant is "per se unreasonable" without exigent circumstances | Citizens are protected from unreasonable searches and seizures wherever there is a "reasonable expectation of privacy" | The Fourth Amendment protects people not places | Before interrogating a suspect, the police must warn him that he has a right to the assistance of an attorney
+
+CorrectResponse=3
+
+Explanation=Katz v. United States, 389 US 347 (1967), is probably the most important of the Supreme Court's Fourth Amendment decisions. The Supreme Court held that the Fourth Amendment ‰??protects people, not places" (meaning that its provisions extend beyond the property line of the citizen), that the amendment applies wherever there is a ‰??reasonable expectation of privacy,‰?? and that a search without a warrant is ‰??per se unreasonable," absent exigent circumstances. Thus, the police normally need to obtain a warrant not only to search a house, but also to intercept calls from a public telephone booth, or inspect the contents of a safe deposit box, or to otherwise intrude into matters which the courts would reasonably consider to be private. The duty of police to inform a suspect of his right to counsel is a Sixth Amendment issue, not a Fourth Amendment issue.See page(s) 2.417 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=As a general proposition, increasing the perception of detection is the single most effective method of fraud prevention.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Increasing the perception of detection may well be the most effective fraud prevention method. Controls, for example, do little good in forestalling internal theft and fraud if their presence is not known by those at risk. In the audit profession, this means letting employees, managers, and executives know that auditors are actively seeking out information concerning internal theft.See page(s) 4.720 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=The Voluntary Disclosure Program allows employees of government contractors to escape prosecution if they report their misconduct to the government.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Voluntary Disclosure Program, begun by the Department of Defense (DOD) in 1986, allows contractors to inform the DOD of irregularities. While the program does not state that voluntary disclosure will exempt contractors from prosecution or suspension, it does note that voluntary disclosure and full cooperation ‰??are strong indications of an attitude of contractor integrity even in the wake of disclosures of potential criminal liability."See page(s) 1.1919 in the Fraud Examiner‰??s Manual

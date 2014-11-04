@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=One of the drawbacks to computer history logs is "wrapping." Which of the following is the correct definition of wrapping?
+
+Options=Not having enough RAM | Not having enough memory in the hard drive | Forcing the software to record at the beginning of the file if the file is full and not printed out | Forcing the software to download the history before additional history can be recorded
+
+CorrectResponse=2
+
+Explanation=Many history files have a limited capacity and can be forced into "wrapping" if not printed periodically. Wrapping forces the software to record at the beginning of the file if the file is full and not printed out.See page(s) 1.1845 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Solicitations for pre-approved credit cards should be shredded before being discarded in the trash.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Most people do not destroy their personal financial data; they simply throw it away with the rest of their trash for pick-up by the garbage collectors on their regularly scheduled day. Solicitations for pre-approved credit cards are some of the most valuable pieces of trash that an identity thief can steal. Additionally, ? dumpster diving" as it is more popularly known as, can yield checks, credit card and bank statements, or other records that bear your name, address, and telephone number. In addition to targeting an individual?s trash, dumpster divers target the trash at banks, insurance companies, hospitals, and other businesses?locations that an individual has no control over.

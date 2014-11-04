@@ -1,0 +1,34 @@
+Token                          Frequency
+-----------------------------  ---------
+they                                   1
+have                                   1
+sometimes                              2
+for                                    1
+supervision                            2
+accountants                            1
+indirect                               1
+stock                                  1
+his                                    1
+interest                               2
+government                             1
+employee                               1
+these                                  1
+financial                              2
+direct                                 1
+perpetrator                            1
+problems                               1
+or                                     1
+a                                      3
+hold                                   1
+under                                  2
+companies                              1
+audit                                  1
+in                                     4
+often                                  1
+an                                     1
+company                                2
+will                                   1
+example                                1
+occur                                  1
+
+Totals:                     30        41

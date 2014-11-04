@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=In order to lower net income and income tax liability, an accountant could misstate financial statements by expensing expenditures which should be capitalized to an asset account.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Just as capitalizing expenses is improper, so is expensing costs that should be capitalized. The organization may do this in order to minimize its net income due to tax considerations. Expensing an item that should be depreciated over a period of time would help accomplish just that—net income is lower and so are taxes.See page(s) 372 in the Corporate Fraud Handbook

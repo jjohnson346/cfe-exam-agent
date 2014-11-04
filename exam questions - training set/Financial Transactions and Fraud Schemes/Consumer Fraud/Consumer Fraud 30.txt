@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The bank examiner swindle is usually perpetrated against _______________.
+
+Options=Older women | Teenagers | Older men | None of the above
+
+CorrectResponse=0
+
+Explanation=The bank examiner swindle is perpetrated on older women, especially widows with access to their husbands' life insurance policies. The con man impersonates a bank examiner investigating her bank. He asks her to withdraw a certain amount of cash from her account, place it in an envelope, and allow him to inspect the bills for counterfeits. Many con men use false IDs and dress to take on this role. See page(s) 1.1706 in the Fraud Examiner?s Manual

@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=The accounting concept of conservatism leads to asymmetrical accounting, where the revenues purposefully are overstated and the expenses purposefully are understated.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=By "conservatism," accountants mean that the financial figures presented by the company are at least as much as reflected in the statements, if not more. There is a saying in accounting: "Anticipate possible losses and omit potential profits." This results in asymmetrical accounting, where the expenses purposefully are overstated and the revenues purposefully are understated.See page(s) 331-332 in the Corporate Fraud Handbook

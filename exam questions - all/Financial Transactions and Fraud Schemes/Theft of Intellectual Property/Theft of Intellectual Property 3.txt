@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Shareholders' reports and company newsletters may give a competitor valuable information about a company's product secrets.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Publications printed by the firm, such as newsletters or reports to shareholders, can inadvertently provide just the information a competitor is looking for. Also, speeches by executives eager to impress colleagues or potential customers are a danger point.See page(s) 1.822 in the Fraud Examiner's Manual

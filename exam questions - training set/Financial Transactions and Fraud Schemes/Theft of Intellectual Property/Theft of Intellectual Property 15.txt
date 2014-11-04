@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Which of the following defenses against unauthorized access to confidential information should a company institute?
+
+Options=Cordless telephones | Automatic log-offs and password changes | Voice mail | All of the above
+
+CorrectResponse=1
+
+Explanation=Passwords are the most common defense against computer intrusion, but to be effective, there must be good control procedures. Passwords should be as complex as the user can memorize, but never less than six random alphanumeric characters. The company must change passwords regularly and close them out as soon as an employee leaves the organization. Management should train employees to log off terminals before leaving them unattended. The company can also install an automatic log-off program whereby a terminal that is not in use for a certain number of minutes will be automatically logged off.See page(s) 1.881 in the Fraud Examiner's Manual

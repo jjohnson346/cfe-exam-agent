@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Computer fraud statutes have established two important principles. The first is that the statutes define computer-related terms; the second is that the statutes provide an offense based on proof of access with a particular intent, separate from carrying away money or property.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Computer fraud statutes have established two very important principles. First, the statutes contain definitions of computer-related terms. These statutes allow the prosecutor to sidestep having to explain to the jury technical "computer speak" and its cumbersome fit with common law terminology. Secondly, the statutes create an offense based on proof of access with a particular intent. Success in carrying away property (money) does not have to be proven. Tracing the flow of proceeds is likely to be difficult without paper records, and access may be the only provable event.See page(s) 1.1804 in the Fraud Examiner's Manual

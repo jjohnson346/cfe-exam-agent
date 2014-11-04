@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=An interview is a structured conversation in which there are certain basic elements of communication. Which of the following is NOT one of the general elements of conversation?
+
+Options=Disapproval | Expression | Persuasion | All of the above are general elements
+
+CorrectResponse=0
+
+Explanation=Since an interview is basically a structured conversation, it is helpful to understand the basic elements of conversation. They are: expression, persuasion, therapy, ritual, and information exchange.See page(s) 3.205-3.207 in the Fraud Examiner's Manual

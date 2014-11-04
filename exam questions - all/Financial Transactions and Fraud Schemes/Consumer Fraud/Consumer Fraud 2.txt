@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=One illegal type of investment scam is called a:
+
+Options=Ponzi | Patsy | Percy | None of the above
+
+CorrectResponse=0
+
+Explanation=A Ponzi scheme is generally defined as an illegal business practice in which new investors' money is used to make payments to earlier investors.

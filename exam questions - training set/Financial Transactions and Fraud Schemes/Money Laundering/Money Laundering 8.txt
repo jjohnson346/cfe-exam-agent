@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=______________ is the disguising of the existence, nature, source, ownership, location, and disposition of property derived from criminal activity.
+
+Options=Bid solicitation | Embezzlement | Money laundering | None of the above
+
+CorrectResponse=2
+
+Explanation=Money laundering is the disguising of the existence, nature, source, ownership, location, and disposition of property derived from criminal activity. It is big business. The United Nations estimates that money produced by narcotics trafficking and other illegal activities might exceed S400 billion annually.See page(s) 1.1601 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=An arrest occurs at the point where:
+
+Options=The person is not free to leave | A magistrate issues a warrant | Probable cause exists | None of the above
+
+CorrectResponse=0
+
+Explanation=A police officer or private citizen may arrest in public without a v/arrant for a felony committed in his presence. An arrest occurs whenever a reasonable person would feel he is not free to leave.See page(s) 2.502 in the Fraud Examiner's Manual

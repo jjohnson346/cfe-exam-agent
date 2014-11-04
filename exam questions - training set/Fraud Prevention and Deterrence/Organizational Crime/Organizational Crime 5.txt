@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=There are two primary strategies to control corporate criminal behavior. They are:
+
+Options=Deterrence and enforcement | Compliance and deterrence | Enforcement and compliance | None of the above
+
+CorrectResponse=1
+
+Explanation=Enforcement strategies include two main theories: compliance and deterrence. Compliance hopes to achieve conformity' to the law v/ithout having to detect, process, or penalize violators. Compliance systems provide economic incentives for voluntary compliance to the laws and use administrative efforts to control violations before they occur. As a strategy to control crime, deterrence is designed to detect law violations, determine who is responsible, and penalize offenders in order to deter future violations. Deterrence systems try to control the immediate behavior of individuals, not the long-term behaviors targeted by compliance systems.See page(s) 4.516 in the Fraud Examiner's Manual

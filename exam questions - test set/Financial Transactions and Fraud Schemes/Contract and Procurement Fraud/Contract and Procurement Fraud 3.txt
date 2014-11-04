@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=Acceptance of a late bid, falsification of documents or receipts to get a late bid accepted, changes in the bid after other bidders' prices are known, and awarding the contract to the last bidder are typical red flags of which type of contract and procurement fraud?
+
+Options=Performance schemes | Bid-rigging schemes | Bid submission schemes | Presolicitation schemes
+
+CorrectResponse=2
+
+Explanation=To detect bid submission schemes, the fraud examiner should be aware of the following red flags:

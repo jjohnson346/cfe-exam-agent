@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+for                                    1
+state                                  2
+by                                     1
+fraud                                  3
+hcfac                                  1
+training                               1
+oig                                    1
+abuse                                  2
+on                                     1
+healthcare                             2
+control                                3
+is                                     1
+forums                                 1
+officials                              1
+agencies                               1
+provides                               1
+the                                    3
+and                                    5
+medicaid                               1
+ongoing                                1
+which                                  1
+program                                2
+directed                               1
+oversees                               1
+jointly                                1
+doj                                    1
+
+Totals:                     26        40

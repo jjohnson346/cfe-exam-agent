@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=No model - not even Cressey's "fraud triangle" - will fit every fraudulent situation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Cressey's classic fraud triangle helps explain the nature of many - but not all - occupational offenders. For example, although academicians have tested his model, it has still not fully found its way into practice in terms of developing fraud prevention programs. Common sense dictates that no one model‰??not even Cressey's‰??fits every situation.See page(s) 4.610 in the Fraud Examiner's Manual

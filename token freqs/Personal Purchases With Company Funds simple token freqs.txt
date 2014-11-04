@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+generate                               1
+buy                                    1
+for                                    1
+purchase                               1
+used                                   1
+businesses                             1
+of                                     1
+personal                               2
+are                                    1
+money                                  1
+on                                     1
+fraudsters                             1
+purchases                              1
+with                                   2
+accounts                               1
+schemes                                1
+so                                     1
+families                               1
+and                                    1
+many                                   1
+billing                                1
+funds                                  1
+simply                                 1
+items                                  2
+company                                3
+cash                                   1
+instead                                1
+undertaking                            1
+their                                  3
+employees                              1
+
+Totals:                     31        39

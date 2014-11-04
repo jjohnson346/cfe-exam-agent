@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A scheme whereby a bank buys, sells, and swaps its bad loans for the bad loans of another bank, creating new documentation in the process, is called what?
+
+Options=Linked financing | Nonexistent borrower scheme | Daisy chain | None of the above	
+
+CorrectResponse=2
+
+Explanation=In a daisy chain, a bank buys, sells, and swaps its bad loans for the bad loans of another bank, creating new documentation in the process. Its purpose is to mask or hide bad loans by making them look like they are recent and good.See page(s) 1.904 in the Fraud Examiner's Manual

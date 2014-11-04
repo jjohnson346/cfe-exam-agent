@@ -1,0 +1,21 @@
+Token                          Frequency
+-----------------------------  ---------
+theft                                  1
+office                                 1
+physical                               1
+building                               1
+remove                                 1
+or                                     1
+property                               1
+equipment                              1
+from                                   1
+and                                    1
+of                                     1
+materials                              1
+premises                               1
+furnishings                            1
+contractors                            1
+bank                                   1
+employees                              1
+
+Totals:                     17        17

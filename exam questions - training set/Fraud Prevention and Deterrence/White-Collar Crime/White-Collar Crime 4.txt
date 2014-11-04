@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=According to the authors of "Crimes of the Middle Classes," television and advertising influence economic crimes by promising that no one has to settle for second best.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The authors of "Crimes of the Middles Classes" observe an American culture based on affluence and ever-higher levels of success. ‰??The continued pressure of a value system that rewards economic affluence or its visible by-products has its effects on the broad middle of American society." Television, and advertising in general, promise that no one has to settle for second best, prompting those who find themselves running behind to fudge the difference, crossing ethical and sometimes legal lines.See page(s) 4.414 in the Fraud Examiner's Manual

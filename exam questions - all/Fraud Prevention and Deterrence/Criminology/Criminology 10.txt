@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=Social control theory asserts that institutions of every social system press its individuals into social conformity.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Essentially, control theory argues that the institutions of the social system train and press those with whom they are in contact into patterns of conformity. Schools train for adjustment in society, peers press the ethos of success and conventional behavior, and parents strive to inculcate law-abiding habits in their youngsters even, Hirschi stresses, parents who themselves play fast and loose with the rules. The theory rests on the thesis that to the extent a person fails to become attached to the variety of control agencies of the society, his or her chances of violating the law are increased.See page(s) 4.209 in the Fraud Examiner's Manual

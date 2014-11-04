@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=During the course of a fraud examination, White, an employee of the ABC Corp., approaches Blue, a Certified Fraud Examiner, and tells Blue that he wishes to furnish information in confidence. Blue also is employed by the ABC Corp. The Certified Fraud Examiner should:
+
+Options=Not agree to the request for confidentiality | Tell White that the information will be held in confidence, even though White knows it will not be | Agree to the request for confidentiality | None of the above
+
+CorrectResponse=0
+
+Explanation=Fraud examiners must remember that the confidentiality relationship runs first to the client or employer, and the promise of confidentiality is understood to exist without being spoken. In the case of the employee/informant, the Certified Fraud Examiner does not have an understood or unspoken promise of confidentiality. The Certified Fraud Examiner should tell White that he will try to keep the information as confidential as possible, but it would be unethical for Blue to promise confidentiality to the employee; his first obligation is to the employer.See page(s) 4.1016-4.1017 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=According to Diane Vaughan, an employee who is truly loyal to a company would never commit fraud on behalf of the company.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Diane Vaughan believes that organizations can be criminogenic because they encourage loyalty. This in turn causes company personnel to sometimes perceive that the organization might be worth committing crime to maintain and further its goals. The use of formal and informal rewards and punishments, plus social activities and pressures to participate, link an employee's needs and goals to the success of the company. When a company achieves its goals, its employees prosper. In short, the interests of an organization and its employees coincide, and that situation may set the stage for unlawful conduct by individuals on the organization's behalf.See page(s) 4.507 in the Fraud Examiner's Manual

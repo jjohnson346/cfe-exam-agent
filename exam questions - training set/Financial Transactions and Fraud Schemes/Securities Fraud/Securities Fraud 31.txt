@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Section 806 of the Sarbanes-Oxley Act creates civil liability for companies that retaliate against whistleblowers. The civil liability provisions of the Act apply to all companies regardless of whether or not their stock is publicly traded.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Section 806 of the Sarbanes-Oxley Act. which is codified in Title 18, U.S.C., å¤ 1514A, creates civil liability for companies that retaliate against whistleblowers. It should be noted that this provision does not provide universal whistleblower protection; it only protects employees of publicly traded companies.See page(s) 1.1509 in the Fraud Examiner‰??s Manual

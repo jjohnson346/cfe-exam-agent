@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=The Fair Credit Reporting Act is enforced by which federal agency?
+
+Options=Federal Trade Commission | FBI | Treasury Department | Department of Commerce
+
+CorrectResponse=0
+
+Explanation=The Federal Trade Commission (FTC) is the federal agency responsible for enforcement of the Fair Credit Reporting Act.See page(s) 2.440 in the Fraud Examiner's Manual

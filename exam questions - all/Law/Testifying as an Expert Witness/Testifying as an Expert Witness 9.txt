@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Under Rule 702 of the Federal Rules of Evidence, a witness qualified as an expert by "knowledge, skill, experience, training or education" may testify in the form of an opinion or otherwise to "scientific, technical or other specialized knowledge" if such testimony will "assist the trier of fact to understand the evidence or to determine the fact in issue." The jury must determine whether a witness is qualified as an expert.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under Rule 702 of the Federal Rules of Evidence, a witness qualified as an expert by “knowledge, skill, experience, training or education' may testify in the form of an opinion or otherwise to ‘scientific, technical or other specialized knowledge" if such testimony will “assist the trier of fact to understand the evidence or to determine the fact in issue.�? The determination of whether a witness is qualified as an expert or whether expert testimony is needed is left to the discretion of the trial judge. There is no particular educational requirement for expert testimony; a witness with no formal education may be qualified based on training or experience.See page(s) 2.811 in the Fraud Examiner's Manual

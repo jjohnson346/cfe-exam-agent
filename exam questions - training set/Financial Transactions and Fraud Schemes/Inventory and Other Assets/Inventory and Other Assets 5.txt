@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Which of the following is a means of measuring the relationship between two different financial statement amounts?
+
+Options=Ratio analysis | Relational comparison | Transaction detail analysis | Statement comparison
+
+CorrectResponse=0
+
+Explanation=Ratio analysis is a means of measuring the relationship between two different financial statement amounts. The relationship and comparison are the keys to the analysis, which allows for internal evaluations using financial statement data. Traditionally, financial statement ratios are used in comparisons to an entity's industry average. They can be very useful in detecting red flags for a fraud examination.See page(s) 392 in the Corporate Fraud Handbook

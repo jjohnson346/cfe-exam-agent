@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Appeals from decisions of the U.S. District Courts are heard in the U.S. Court of Appeals for the circuit, which covers a particular geographical area.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Appeals from decisions of the U.S. District Courts are heard in the U .S. Court of Appeals for the circuit, which covers a particular geographical area. The U .S. has 11 judicial districts, plus the District of Columbia. The U.S. Supreme Court is the highest appellate court in the federal system, and may also hear certain appeals from state courts, particulaiiy on constitutional grounds.See page(s) 2.109-2.110 in the Fraud Examiner's Manual

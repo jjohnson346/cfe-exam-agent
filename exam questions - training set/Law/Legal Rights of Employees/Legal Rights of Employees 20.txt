@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=An unlawful search and seizure will invalidate a subsequent conviction based on other evidence.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under the exclusionary rule in effect in all federal and state courts, evidence seized in violation of the Fourth Amendment will be suppressed; that is. it may not be used against the accused. An unlawful search and seizure, however, does not preclude prosecution or invalidate a subsequent conviction based on other evidence.See page(s) 2.431 in the Fraud Examiner's Manual

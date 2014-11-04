@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Blake, a Certified Fraud Examiner, is testifying in court as an expert witness in fraud matters. During cross-examination, opposing counsel keeps getting extremely close to Blake, invading his body space. What should Blake do?
+
+Options=Attempt to move away from opposing counsel | Ask the judge to intervene | Move toward opposing counsel, decreasing body space | None of the above
+
+CorrectResponse=3
+
+Explanation=Physical domination is sometimes used by opposing counsel. It is also common for the opposing counsel to: (1) use physical presence to intimidate; (2) use nonstop eye contact; (3) challenge the body space to the witness; (4) use a fast pace in questions to confuse the witness and (5) not allow the witness to explain or deviate from the exact question. It is not the expert's job to argue with or challenge opposing counsel. The expert should simply try to get through the cross-examination in the most professional way possible. If opposing counsel uses blatantly unfair practices, the jury will take note and such practices may hurt the opposing side's case. In no circumstances should the expert argue with opposing counsel.See page(s) 2.821-2.822 in the Fraud Examiner's Manual

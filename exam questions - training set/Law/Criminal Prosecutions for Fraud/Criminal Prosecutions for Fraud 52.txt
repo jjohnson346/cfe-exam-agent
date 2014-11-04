@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=According to the Federal Rules of Criminal Procedure, each defendant is entitled to a preliminary examination before a magistrate. Which of the following is NOT allowed at a preliminary hearing?
+
+Options=Cross-examination of adverse witnesses | Illegally obtained evidence | An attorney to represent the accused | Motions to suppress evidence
+
+CorrectResponse=3
+
+Explanation=At the initial appearance, a defendant who has not yet been indicted is informed of his right to a preliminary examination. This is a formal, adversary hearing, before a judge, at which the defendant may be represented by counsel and can cross-examine witnesses. The purpose of the hearing is to determine whether there is probable cause to hold the defendant for further proceedings, not to establish guilt or innocence Because of its limited purpose, hearsay and even illegally obtained evidence can be admissible. Motions to suppress must be made to the trial court.See page(s) 2.505-2.506 in the Fraud Examiner's Manual

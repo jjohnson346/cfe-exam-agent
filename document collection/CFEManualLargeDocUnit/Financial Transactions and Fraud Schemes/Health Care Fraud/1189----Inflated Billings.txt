@@ -1,0 +1,286 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/HEALTH CARE FRAUD/Inflated Billings
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Health Care Fraud
+
+
+:
+
+
+Inflated Billings 
+Health care billings can be inflated by providers as well as insureds. The following are some 
+of the most common fraud schemes encountered by investigators and claims approvers: 
+• Altering claims  
+• Adding services 
+• Code manipulation 
+ 
+Altered Claims 
+Altering valid claims can be accomplished using a pen; photocopier; or scanner, computer, 
+and printer. Common alterations are:  
+• Amounts changed 
+• Date of service changed 
+• Name of patient changed 
+ 
+Financial Transactions  Health Care Fraud 
+2011 Fraud Examiners Manual   1.1225 
+For example, a medical bill can be altered by placing an additional number in front of the 
+amount charged. The date of service can be altered so that it becomes a covered expense 
+rather than one that was incurred prior to being eligible for coverage. The individual 
+submitting a claim can change the name on the bill from a noncovered family member to 
+one who is covered under the contract. 
+ 
+Detection 
+Procedures can help identify altered claims include: 
+• Analyzing charges and identifying any excessive claims for prescription or medical 
+services above an acceptable level. 
+• Looking for any alterations, erasures, changes of  ink, or white-outs on the original bill 
+prior to paying the claim. This is important in today’s environment in which original 
+bills, checks, and other documents are destroyed as soon as they are microfilmed to 
+minimize storage space for record keeping.  
+• Training adjusters to look for obvious alterations when processing claims. 
+ 
+Added Services 
+Some fraudsters add on services never rendered to dates of actual services. In these cases, 
+the verification process is the same as the procedures listed under the alteration process. 
+ 
+Code Manipulation 
+Code manipulation is a problem that is faced by all health insurers. Each service is identified 
+using the American Medical Association’s uniformly accepted coding system, called the 
+Physicians’ Current Procedural Terminology (CPT). Medicare and most private insurers have 
+developed fee schedules that use CPT codes and their accompanying narrative descriptions 
+as the basis for paying providers.  
+ 
+However, because the coding system is complicated, providers and insurers often have 
+difficulty identifying the codes that most accurately describe the services provided. The 
+coding system is difficult to use because it attempts to identify codes for all accepted medical 
+procedures, including codes to describe minor procedures that are components of more 
+comprehensive procedures. Payment policies add to the difficulty. For example, the fee for 
+surgery often includes the cost of related services for the global service period, that is, for a 
+set number of days before and after the surgery. To prevent overpayment in these cases, 
+insurers need to identify when claims for surgery include codes that represent related 
+services and reduce the payment accordingly.  
+Health Care Fraud  Financial Transactions   
+1.1226                           2011 Fraud Examiners Manual  
+It is difficult for providers and insurers to maintain proficiency in proper coding practices 
+because a substantial number of the codes are changed each year. These complexities can 
+inadvertently lead providers to submit improperly coded claims. They also make insurers 
+vulnerable to abuse from providers or billing services that attempt to maximize 
+reimbursements by intentionally submitting claims containing inappropriate combinations  
+of codes. 
+ 
+Unbundling Charges/Fragmentation 
+Simple unbundling occurs when a provider charges a comprehensive code as well as one or 
+more component codes. For instance, in the examples illustrated below, the provider would 
+be overpaid because the fee for the total procedure already includes the value of its 
+component parts. 
+ 
+Procedure 
+Code Service Billed Correctly Billed Procedure 
+58150 
+58720 
+49000 
+44955 
+58740  
+Total Hysterectomy ($1,300)
+ Removal of ovaries & tubes ($950) 
+Exploration of abdomen ($671) 
+Appendectomy ($250) 
+Lysis of Adhesions ($550) 
+ 
+Total Charge $3,721 
+ 
+Total Hysterectomy
+  
+ 
+ 
+ 
+ 
+Total Payment $1,300 
+29877 
+ 
+29870 
+Knee arthroscopy with debridement 
+($1650) 
+Diagnostic knee arthroscopy ($1625) 
+ 
+Total Charge $3,275  
+Knee arthroscopy with debridement  
+ 
+Total Payment $1,650 
+ 
+47610 
+ 
+47600 
+Cholecystectomy with common bile duct 
+exploration ($1,997) 
+Cholecystectomy ($705) 
+ 
+Total Charge $2,702 
+Cholecystectomy with common bile 
+duct exploration 
+ 
+ 
+Total Payment $1,997 
+ 
+Unbundling can be detected through the use of a computer program that determines 
+whether each code submitted is a component of one or more comprehensive codes. 
+ 
+Mutually Exclusive Procedures 
+A variation of unbundling, this scam involves billing for procedures that are  
+either impossible to perform together or, by accepted standards, should not be  
+performed together.  
+ 
+Financial Transactions  Health Care Fraud 
+2011 Fraud Examiners Manual   1.1227 
+Global Service Period Violations 
+Some dishonest providers will bill for a major procedure—such as a surgery—as well as 
+related procedures, when the fee for the major procedure already includes the fee for related 
+procedures during the predefined time period (the global service period). This type of fraud 
+is possible because most surgery includes all related services for a set number of days before 
+and after the surgery. Detecting these abuses can be difficult because the examiner must 
+determine which services are related to the surgery and which are not. This difficulty is 
+compounded by the fact that such services may be rendered by more than one provider. 
+ 
+Upcoding 
+Upcoding is billing for a higher level of service than was rendered. One common form of 
+upcoding involves generic substitution—filling a prescription with a less expensive drug, 
+while billing for the more expensive form of the drug.  
+ 
+Misuse of New Patient Codes 
+The CPT coding system includes special codes for new patient visits, which enable the 
+physicians to be reimbursed for the additional work that new patient visits typically require. 
+Consequently, physicians who want to pad their claims may bill for visits with established 
+patients using new patient codes. 
+ 
+ 
+
+
+
+:
+
+
+inflat bill
+health care bill can be inflat by provid as well as insur the follow ar some
+of the most common fraud scheme encount by investig and claim approv
+alter claim
+ad servic
+code manipul
+alter claim
+alter valid claim can be accomplish us a pen photocopi or scanner comput
+and printer common alter ar
+amount chang
+date of servic chang
+name of patient chang
+financi transact health care fraud
+2011 fraud examin manual 11225
+for exampl a medic bill can be alter by place an addit number in front of the
+amount charg the date of servic can be alter so that it becom a cover expens
+rather than on that wa incur prior to be elig for coverag the individu
+submit a claim can chang the name on the bill from a noncov famili member to
+on who is cover under the contract
+detect
+procedur can help identifi alter claim includ
+analyz charg and identifi ani excess claim for prescript or medic
+servic abov an accept level
+look for ani alter erasur chang of ink or whiteout on the origin bill
+prior to pai the claim thi is import in todai environ in which origin
+bill check and other document ar destroi as soon as thei ar microfilm to
+minim storag space for record keep
+train adjust to look for obviou alter when process claim
+ad servic
+some fraudster add on servic never render to date of actual servic in these case
+the verif process is the same as the procedur list under the alter process
+code manipul
+code manipul is a problem that is face by all health insur each servic is identifi
+us the american medic associ uniformli accept code system call the
+physician current procedur terminolog cpt medicar and most privat insur have
+develop fee schedul that us cpt code and their accompani narr descript
+as the basi for pai provid
+howev becaus the code system is complic provid and insur often have
+difficulti identifi the code that most accur describ the servic provid the
+code system is difficult to us becaus it attempt to identifi code for all accept medic
+procedur includ code to describ minor procedur that ar compon of more
+comprehens procedur payment polici add to the difficulti for exampl the fee for
+surgeri often includ the cost of relat servic for the global servic period that is for a
+set number of dai befor and after the surgeri to prevent overpay in these case
+insur need to identifi when claim for surgeri includ code that repres relat
+servic and reduc the payment accordingli
+health care fraud financi transact
+11226 2011 fraud examin manual
+it is difficult for provid and insur to maintain profici in proper code practic
+becaus a substanti number of the code ar chang each year these complex can
+inadvert lead provid to submit improperli code claim thei also make insur
+vulner to abus from provid or bill servic that attempt to maxim
+reimburs by intention submit claim contain inappropri combin
+of code
+unbundl chargesfragment
+simpl unbundl occur when a provid charg a comprehens code as well as on or
+more compon code for instanc in the exampl illustr below the provid would
+be overpaid becaus the fee for the total procedur alreadi includ the valu of it
+compon part
+procedur
+code servic bill correctli bill procedur
+58150
+58720
+49000
+44955
+58740
+total hysterectomi 1300
+remov of ovari tube 950
+explor of abdomen 671
+appendectomi 250
+lysi of adhes 550
+total charg 3721
+total hysterectomi
+total payment 1300
+29877
+29870
+knee arthroscopi with debrid
+1650
+diagnost knee arthroscopi 1625
+total charg 3275
+knee arthroscopi with debrid
+total payment 1650
+47610
+47600
+cholecystectomi with common bile duct
+explor 1997
+cholecystectomi 705
+total charg 2702
+cholecystectomi with common bile
+duct explor
+total payment 1997
+unbundl can be detect through the us of a comput program that determin
+whether each code submit is a compon of on or more comprehens code
+mutual exclus procedur
+a variat of unbundl thi scam involv bill for procedur that ar
+either imposs to perform togeth or by accept standard should not be
+perform togeth
+financi transact health care fraud
+2011 fraud examin manual 11227
+global servic period violat
+some dishonest provid will bill for a major proceduresuch as a surgerya well as
+relat procedur when the fee for the major procedur alreadi includ the fee for relat
+procedur dure the predefin time period the global servic period thi type of fraud
+is possibl becaus most surgeri includ all relat servic for a set number of dai befor
+and after the surgeri detect these abus can be difficult becaus the examin must
+determin which servic ar relat to the surgeri and which ar not thi difficulti is
+compound by the fact that such servic mai be render by more than on provid
+upcod
+upcod is bill for a higher level of servic than wa render on common form of
+upcod involv gener substitutionfil a prescript with a less expens drug
+while bill for the more expens form of the drug
+misus of new patient code
+the cpt code system includ special code for new patient visit which enabl the
+physician to be reimburs for the addit work that new patient visit typic requir
+consequ physician who want to pad their claim mai bill for visit with establish
+patient us new patient code

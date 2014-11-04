@@ -1,0 +1,1111 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/THEFT OF INTELLECTUAL PROPERTY/Technical Surveillance
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Theft of Intellectual Property
+
+
+:
+
+
+Technical Surveillance 
+The popular image of the spy, at least as portrayed on television and in the movies, is very 
+often associated with all sorts of high-tech gadgets: everything from miniature cameras to 
+exotic listening devices to radio wristwatches and telephones hidden in shoes. Obviously, 
+many of these devices are fanciful and, while they may provide interesting entertainment, 
+they are far removed from the real world of corporate espionage. 
+ 
+Corporate spies do, however, employ various forms of technological surveillance equipment, 
+the tools varying according to the needs of the job at hand. In general, corporate spies only 
+resort to using high-tech equipment when simpler means are not available to accomplish the 
+task. In some cases a miniature camera might be called for to copy sensitive documents, but 
+not when a nearby copy machine can be used to achieve the same result. In other instances a 
+wiretap may be needed, but only when there is no other means to monitor a subject’s 
+communications. Sometimes satellite tracking of motor vehicles becomes necessary, but not 
+when simple visual surveillance will tell the spy where the subject has traveled. In other 
+words, corporate spies that know what they are doing do not employ technology for the sake 
+of using fancy gadgets.  
+ 
+When spies do resort to the use of technical surveillance equipment, it is usually to gather 
+nondocumentary evidence, or information that cannot be found through open sources or in 
+the target’s files. The methods that spies employ to gather nondocumentary information 
+include: (1) taking photographs, (2) conducting surveillance and visual sightings, (3) listening 
+to conversations, (4) monitoring computers and computer communications, (5) analyzing 
+traffic at a plant, and (6) monitoring emanations from computers and telecommunications 
+equipment. 
+ 
+Nondocumentary information has certain advantages. It captures changes over time 
+(photographs taken at different times) or processes as they occur (videotaping). Electronic 
+surveillance can provide the spy with information that would take many hours of 
+documentary analysis to acquire. Aerial photography provides a broad perspective on the 
+manufacturing physical plant that is not ordinarily possible with documents alone. 
+Theft of Intellectual Property  Financial Transactions   
+1.862                         2011 Fraud Examiners Manual  
+Intercepting computer communications and emanations can provide an inside look at the 
+supply, purchasing, manufacturing, and marketing channels of a target that cannot be 
+replicated by another source.  
+ 
+The fact that a technical activity is possible does not mean that it is advisable. Most types of 
+electronic surveillance carry potentially serious repercussions. In many cases they are clearly 
+illegal. Any prudent spy will employ technical intelligence methods with restraint. Only 
+amateurs will rush into a surveillance operation by “bugging” this line and that junction box. 
+These novices ignore the fact that the more one bugs, the greater the chances of having the 
+surveillance campaign discovered. In addition, a corporate spy with any seasoning will realize 
+that indiscriminate bugging produces too much signal traffic to analyze.  
+ 
+Experienced corporate spies know what they are looking for and devise carefully protected 
+collection plans before initiating their surveillance campaigns. They know that the more time 
+spent planning, the more likely it is that their electronic surveillance will go undetected and 
+the greater the intelligence yield will be. The rules most BI professionals use for protected 
+electronic surveillance include the following: 
+ 
+If devices (such as microphones or video cameras) are to be left on-site, those devices must 
+not be traceable back to the spy or the client. The markings on the equipment must not 
+establish a trail on which to build an investigation. Experienced spies use generic equipment 
+available from multiple sources. 
+ 
+Wire taps and their associated devices must blend into their surroundings so nothing appears 
+out of the ordinary to the layperson. Smart spies do not use contraptions that can easily be 
+identified as bugs.   
+ 
+Radio transmitters must not send signals in those parts of the electromagnetic spectrum that 
+are in common commercial use. Professionals avoid using cellular telephone bands, CB 
+channels, or AM or FM radio channels for covert transmissions. They also find out if the 
+target site uses commercial two-way radio frequencies and avoid using those bands. 
+ 
+A competent spy does not leave a hard wire connection between the wiretap and the place 
+where he conducts listening. If someone located the tap, all that person would have to do is 
+trace the hard wire line to locate the spy.  
+ 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.863 
+If the spy conducts off-site reception of computer emanations and signals, the reception 
+vehicle or site should have sufficient camouflage or should be adequately disguised to avoid 
+any notice or detection. 
+ 
+A good spy never reveals anything about an intelligence campaign to anyone except her 
+client, even after the job is finished. 
+ 
+Once a job is finished and a report has been written and delivered to the client, a spy 
+destroys all documentary evidence of the campaign. 
+ 
+Aerial Photography
+Though its origins lie in the military sector, aerial photography has emerged as a valuable 
+tool in business intelligence. Google Earth, a free, online tool that enables users to obtain an 
+aerial photo of properties by satellite, has made gathering this type of intelligence quite easy. 
+Additionally, there are private aerial photography firms that have fairly complete negatives 
+for land in their service area. These firms also accept special assignments to photograph 
+specific ground areas on a schedule specified by the client. Aerial photography is used by 
+spies to gather information on a competitor’s construction or expansion products, to 
+measure the size of its shipments, or to determine the number of employees that the 
+company has working, among other things. 
+ 
+Bugging and Wiretapping 
+Hidden microphones, wiretaps, and other forms of electronic surveillance equipment have 
+become extremely common ways for intelligence professionals to keep tabs on their 
+competition. The spy has two primary considerations in a wiretapping campaign: where to 
+insert the surveillance equipment and which of the various technologies to employ. 
+ 
+The Insertion Point 
+In identifying the insertion point, the spy not only has to choose an area where proprietary 
+information is likely to be discussed or displayed on computer screens, but also where 
+background noise and electronic interference remain minimal. Spies frequently choose areas 
+with proximity to computers and telecommunications equipment carrying proprietary data as 
+an insertion point.  
+ 
+Spies may also target areas conducive to employee conversations. This can include any place, 
+inside or outside the targeted company, where key personnel gather and chat. Examples 
+Theft of Intellectual Property  Financial Transactions   
+1.864                         2011 Fraud Examiners Manual  
+include smoking areas; recreational areas such as bars, lounges, and coffeehouses; employee 
+cafeterias; relaxation areas; exercise rooms; and meeting rooms. To target particular 
+operations such as information services, spies might wire the offices of key managers, which 
+are likely to provide access to a large portion of human information flow. 
+ 
+The Technology 
+In determining which technologies to employ, the spy must factor in environmental 
+conditions such as lighting (if video surveillance is employed), noise levels, and distance from 
+the source. Other factors include the risk of  the sensing device being discovered, power 
+supply problems, and access to the device for servicing after installation.  
+ 
+Common electronic eavesdropping devices include: 
+• Drop-in telephone bugs  
+• Carbon microphones 
+• Magnetic or dynamic microphones 
+• Electret microphone 
+• Spike microphones 
+• Cavity microphones 
+• Low power consumption transmitters 
+• Infinity transmitters  
+• Shotgun or parabolic microphones  
+• Cellular telephone receivers 
+• Video cameras and transmitters 
+• Satellite tracking of vehicles 
+ 
+It is not difficult at all for spies to purchase electronic listening equipment. The Internet, for 
+example, has a number of sites that advertise vast inventories of equipment ranging from 
+audio devices to miniature video cameras to satellite tracking systems. Most of these sites 
+urge their customers to use their merchandise only in a legally appropriate manner and 
+advertise the equipment for purposes like checking for intruders or ensuring one’s own 
+privacy. In truth, however, these devices can and are used by corporate spies to pilfer the 
+proprietary secrets of their targets.  
+ 
+Some of the more common forms of surveillance equipment are discussed in the following 
+sections.  
+ 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.865 
+SATELLITE TRACKING SYSTEMS 
+In most satellite tracking systems, a small transmitter is surreptitiously attached to the 
+subject’s vehicle. Common hiding areas include the trunk, inside fenders, or under the rear 
+bumper. The transmitter communicates with global positioning satellites (GPS) and converts 
+the coordinates of the vehicle onto a map. The spy only needs access to the Internet and a 
+password to enter a special, private home page where he can view maps that show the 
+vehicle’s location and path. These systems are capable of generating event lists and plain-text 
+histories of where the vehicle has traveled. A variation on this tracking design is that in some 
+satellite tracking software the system creates a trail of electronic breadcrumbs on the map 
+display. The map can be a powerful tool in tracking the movements of executives and key 
+company employees.  
+ 
+DROP-IN TELEPHONE BUGS 
+Spies frequently use drop-in telephone bugs, which have the advantage of blending in with 
+everyday existing telephone equipment. Drop-in bugs are simply inserted into the handset 
+device on a normal telephone. The target’s conv ersations are transmitted to a remote 
+receiver where they are recorded.  
+ 
+Drop-in bugs are rarely detected because most people never bother to unscrew the plastic 
+covers on the handset and perform a detailed check of the internal components. Thus, a 
+drop-in telephone bug offers minimal risk of exposure to the spy. When a spy has access to 
+the physical premises of a target and wants to be able to listen to conversations on a 
+particular telephone line, this device is usually the chosen method of surveillance.  
+ 
+CARBON MICROPHONES 
+Carbon microphones, while larger than most spy audio devices, provide good pick-up if 
+properly hidden and located. They offer excellent coverage of fixed locations: smoke rooms, 
+employee lounges, and other gathering spots. As with other forms of listening equipment, 
+these microphones are usually equipped with a transmitter that relays intercepted 
+conversations off-site to a recorder. This is much safer, from the spy’s perspective, than 
+maintaining a recorder on-site. With a remote transmitter, even if the microphone is 
+detected, the recorded material cannot be located or recovered by the target. 
+ 
+ 
+Theft of Intellectual Property  Financial Transactions   
+1.866                         2011 Fraud Examiners Manual  
+MAGNETIC AND ELECTRET MICROPHONES 
+Magnetic or dynamic microphones can be very  small. They are useful when a microphone 
+needs to be close to the speakers and hidden inside something small. Electret microphones 
+also provide good close range coverage. Both types of microphones are smaller than the 
+standard carbon microphone, though they tend to offer a lower range of coverage. 
+ 
+SPIKE AND CAVITY MICROPHONES 
+Spike and cavity microphones work best when the spy has access to an adjoining area and 
+needs to penetrate his surveillance into the next room. For example, if a spy has free range in 
+a utility room next door or in an adjacent hotel or motel room, a spike microphone can be 
+inserted through the adjoining wall to monitor conversations in the target’s room. This type 
+of microphone is so small at its insertion point that it is virtually undetectable to the casual 
+observer. 
+ 
+INFINITY TRANSMITTERS 
+Infinity transmitters are a special kind of device that can be activated from a remote location. 
+Once an infinity transmitter has been inserted  in a phone, a spy can call that telephone from 
+anywhere in the world and turn it into a listening device. Unknown to the parties present, 
+the telephone becomes a hidden microphone. 
+ 
+SHOTGUN OR PARABOLIC MICROPHONES 
+For listening to conversations at a long distance, shotgun microphones, parabolic 
+microphone devices, and laser audio detection equipment can overhear even quiet 
+discussions, provided background noise is not too high. The spy has to be mindful of having 
+adequate cover to protect the listening post.  
+ 
+WIRETAPS 
+Wiretapping involves splicing a listening or recording device into a wire (such as a telephone 
+wire, a PBX cable, an alarm system, or a local area network cable) that is used for 
+communication by the target. Standard phone systems, in particular, are very vulnerable to 
+wiretapping. Taps are usually placed at the telephone box in the basements of buildings, on 
+lines outside buildings, or on telephone pole junction boxes near the target’s offices. The 
+different types of wiretaps that can be utilized include: hardwired wiretap, soft wiretap, 
+record wiretap, and transmit wiretap. 
+ 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.867 
+Warning Signs of Bugging  
+Covert eavesdropping may be difficult to detect, particularly because most people do not 
+know what signs to look for. James M. Atki nson of the Granite Island Group, one of the 
+leading technical surveillance countermeasures firms in the U.S., has compiled a list of 27 
+warning signs that might indicate that an organization is the target of an electronic 
+eavesdropping campaign.1 Those red flags are listed below:   
+• Others seem to know your confidential business or trade secrets. This is the most 
+common indicator of a bugging campaign.  
+• Information discussed in secret meetings or contained in secret bids does not remain 
+secret. Confidential meetings are among the most popular targets of corporate spies.  
+• People seem to know about your organization’s activities when they should not.  
+• Strange sounds or volume changes are detected on your phone lines. This is a common 
+byproduct of wiretaps or activation of a similar listening device. 
+• You notice unusual static, popping, or scra tching on phone lines. This is another 
+common sign of a wiretap or bug. 
+• You can hear sounds coming from your phone handset when it is hung up. This is 
+typically caused by a device called a “hook switch bypass,” which turns a telephone 
+receiver into an eavesdropping microphone and speaker and allows a spy to monitor 
+conversations near the phone (usually within 20 feet).  
+• Your phone rings and nobody is on the other end of the line, but you hear a very faint 
+tone, or a high-pitched squeal and beep. This is an indicator of a slave device, or line 
+extender being used on your phone line. This is also a key indicator of a harmonica bug 
+or infinity transmitter being used. 
+• You hear a tone on your line when your phone is off the hook (by using an external 
+amplifier). 
+• An office radio suddenly develops strange interference. This could be caused by 
+eavesdropping devices that use frequencies within or just outside the FM radio band. 
+These signals tend drift and will quiet FM radios  in the vicinity of the bug. To check for 
+bugs, look for transmissions at the far ends of the FM radio band, and at any quiet area 
+along the FM band. If the radio begins to squeal, slowly move it around the room until 
+the sound becomes very high pitched. The radio should be set to the “mono” function 
+rather than “stereo,” as this will increase its level of sensitivity.  
+• A car radio suddenly starts “getting weird.” Keep in mind that the antenna used by a car 
+                                                          
+1 This list is provided courtesy of James M. Atkinson and The Granite Island Group, 127 Eastern Avenue, 
+#291, Gloucester, MA 01930, (978) 546-3803. (www.tscm.com). e-mail:  jmatk@tscm.com 
+Theft of Intellectual Property  Financial Transactions   
+1.868                         2011 Fraud Examiners Manual  
+may be (and often is) exploited by an eavesdropper and that such usage might interfere 
+with radio transmission. 
+• An office television suddenly develops interference. Eavesdropping devices can tend to 
+interfere with television reception.  
+• Your office appears to have been burglarized, but nothing was taken. Someone could 
+have entered the premises in order to plant a listening device. 
+• Electrical wall plates (covering outlets, switches, smoke alarms, and lighting fixtures) 
+appear to have been moved slightly. These are among the most popular locations for 
+hiding listening devices, which requires that the plates be removed. Watch for slight 
+variations in the color or appearance of the power outlets or light switches as these are 
+often swamped out by an eavesdropper.  
+• A dime-sized discoloration appears on an office wall or ceiling. This is a sign that a 
+pinhole microphone or video camera has been installed.  
+• One of your vendors gives you an electronic device such as a desk radio, alarm clock, 
+CD player, or small television. These gifts frequently contain secret eavesdropping 
+devices.  
+• A small bump or deformation has appeared on the baseboard by the floor. This is a 
+strong indicator that someone may have concealed covert wiring or a microphone 
+imbedded into the adhesive that holds the molding to the floor. 
+• A smoke detector, clock, lamp or exit sign in your office or home looks slightly crooked, 
+has a small hole in the surface, has a quasi reflective surface, or otherwise appears to 
+have been tampered with. These items are also common places for concealing bugs.  
+• Certain items just appear in your office without anyone knowing how they got there. 
+Typical items to watch for and beware of are: clocks, exit signs, sprinkler heads, radios, 
+picture frames, and lamps. They may contain listening equipment and could have been 
+placed in your offices by a spy. 
+• Drywall dust or debris is found on the floor next to a wall. This could be a sign that a 
+pinhole microphone or video camera has been installed nearby.  
+• Small pieces of ceiling tile or grit are found on the floor or on a desk. Also, a cracked, 
+chipped or gouged ceiling tile, sagging ceiling tiles, or ceiling tiles not properly set into 
+track may be observed. This indicates that a ceiling tile has been moved, possibly because 
+someone has installed a technical surveillance device above your ceiling. 
+• Phone company trucks and utilities workers seem to be spending a lot of time near your 
+home or office. These workers could actually be corporate spies in disguise. 
+• Telephone, cable, plumbing, or air conditioning repair people show up to work when no 
+one called them. This is a very common method for an eavesdropper to plant a bug.  
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.869 
+• Service or delivery trucks are often parked nearby with nobody in them. These vehicles 
+may be listening posts for spies. In particular, look for vehicles that have ladders or pipe 
+racks on the roof, have tinted windows, and are large enough to conceal a person in  
+the back.  
+• Your door locks suddenly do not “feel right,” they become “sticky,” or they fail 
+altogether. This is evidence that the lock has been picked, manipulated, or bypassed by 
+an intruder.  
+• Furniture appears to have been moved slightly and no one knows why. Eavesdropping 
+devices are commonly hidden behind or inside furniture.  
+• Things seem to have been rummaged through, but nothing is missing. This could be a 
+sign that someone has been looking through your papers, perhaps even copying them 
+before returning them to your work area. The most common “rummaging” targets are 
+the backs of desk drawers, the bottom of file cabinets, closets, and dresser drawers. 
+• An eavesdropper sends you a copy of your private conversations. As simple as it seems 
+this is the strongest indicator, and solid proof of eavesdropping. An eavesdropper will 
+sometimes send a victim a copy of a private conversation they intercepted in an attempt 
+at blackmail, or in an attempt to terrorize or just stalk the victim. This is commonly seen 
+in civil lawsuits, criminal court cases, marital problems, shareholder disputes, custody 
+battles, and other situations where one side has a position of weakness and is 
+psychologically trying to undermine their opponent. 
+ 
+Preliminary Search Procedures 
+If an organization suspects that wiretapping has occurred, there are a number of preliminary 
+search procedures that the layperson can perform. This section is not designed to make the 
+reader an expert at counter-surveillance techniques; professionals who offer those services 
+can easily be located. However, it is quite feasible for an ordinary person to conduct a basic 
+search for wiretapping equipment. When conducting an inspection for electronic 
+surveillance equipment, be mindful of safety concerns. Never reach into electrical boxes or 
+outlets unless you are sure the power is off, and do not grasp bare wires unless you know 
+they are not live. 
+ 
+Theft of Intellectual Property  Financial Transactions   
+1.870                         2011 Fraud Examiners Manual  
+KNOW YOUR DEVICES 
+Wiretapping devices, for the most part, look like hobbyist electronic circuit boards. The 
+major difference is that they are much smaller than the circuit boards of the past. Satellite 
+tracking equipment is usually housed in small metal boxes about the size of a paperback 
+book. They require small antennae that have to face toward the sky.  
+ 
+INSPECTING TELEPHONES 
+If the mouthpieces or earpieces on telephone handsets have screw-off plastic covers, remove 
+them and make sure no transmitters or unusual looking components are attached to the 
+microphone condensers. Also examine the markings on the condenser unit. Do they match a 
+condenser from a similar telephone kept in a secure area? If the markings are significantly 
+different, have them checked by a representative from the telephone manufacturer. 
+ 
+If the cover on the handset is one solid piece of plastic, look at the two screws that hold the 
+plastic plate on. If the screws have scratches on them (e.g., from a screwdriver) remove the 
+screws and take the plate off. Examine the condensers for signs of tampering or for 
+miniature transmitters.  
+ 
+Examine the back or underside of the telephones. Look for unusual components taped or 
+held by a magnet to the back metal plate. Also look for unusual wires protruding from the 
+phone. (This means any wires other than the regular plastic sheathed cord that is found on 
+all telephones.) If these examinations are negative, then the telephone is probably secure.  
+ 
+If you still suspect the presence of a listening device, do not attempt to disassemble the main 
+part of the telephone. You may damage the unit. Instead, look at the screws holding down 
+the main body of the phone to the metal plate. If those screws show signs of tampering, 
+have someone from the manufacturer examine the unit. 
+ 
+It is also a good idea to inspect the wall box where the telephone attaches to the wall. 
+Carefully remove the cover and check for any electronic components inside. In a normal 
+wall box, you should only see wires and screw points where the wires are tied together. 
+Extraneous components could be electronic listening devices. If you are not sure whether 
+the item you have identified is actually a transmitter or microphone, contact a qualified 
+                                                          
+2 The Granite Island Group, a technical surveillance countermeasures firm, provides photographs of some 
+electronic surveillance equipment on its website. (www.tscm.com/whatistscm.html) 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.871 
+countermeasures expert, the phone company, or a representative from the phone 
+manufacturer.  
+ 
+INTERFACE BOX 
+The interface box is a gray box typically located on the side of the building. If a business 
+operates in a multiple occupancy structure, the interface box may be located in a utility closet 
+close to the company’s offices. In order to ex amine the interface box, unscrew the side of 
+the box that is designed for customer access. Look inside with a flashlight. All wiring in the 
+box should look the same, using the colors red, blue, green, yellow, and black. You might see 
+some striped wires, but that is fine. There should also be a line coming into the side of the 
+box from the telephone company. What you should be looking for is a transmitter or some 
+form of unusual wiring that does not appear to come from the telephone company and does 
+not lead into your building or office. This could indicate a wiretap. 
+ 
+ABOVE THE CEILING 
+If an open space exists above the ceiling in your offices, access that area and look around 
+with a flashlight. Be on the lookout for everything from sophisticated transmitters to tape 
+recorders that are crudely hooked into telephone lines. If listening devices have been placed 
+in an attic or in a crawl space above the ceiling, they probably have not been elaborately 
+camouflaged. It should not be exceedingly difficult to spot surveillance equipment in these 
+areas.  
+ 
+It is a good idea to have the lights turned on in the room below while you search overhead. 
+If someone has drilled holes in the ceiling to insert a microphone, the light should shine 
+through the ceiling and you will be able to detect the holes. Surveillance personnel frequently 
+drill multiple holes before selecting just one as a listening spot or inserting a miniature video 
+camera.  
+ 
+OTHER PLACES TO SEARCH 
+Use a flashlight to look through the grill panels covering all air conditioning ducts for 
+transmitters or listening devices. Carefully inspect all electrical outlets by removing the cover 
+plates and looking inside with a flashlight. Examine any central utility closets for unusual 
+wiring and electronic devices. Look for signs of  debris on the floor under outlets or light 
+switches; this might indicate that someone has removed the wall plates to insert a listening 
+device. Any time ducts, outlet plates, light fixtures, or similar items have been searched and 
+replaced, their orientation and screw-head positions can be designated with ultra-violet 
+Theft of Intellectual Property  Financial Transactions   
+1.872                         2011 Fraud Examiners Manual  
+markers. By shining an ultra-violet light on the screws, it is easy to tell if the panels have 
+been removed. This technique makes it much easier to determine if someone has tampered 
+with those items since the last search.  
+ 
+Look under desks and tables in all office spaces  for electronic devices or wires that seem out 
+of place. Do not tear your office apart while conducting your search; feel your way around 
+and explore with your hands. Look under and behind couches and sofas. It is especially 
+important to closely examine furniture in areas where people are likely to sit and chat. The 
+tables and credenzas in meeting rooms should be checked on a regular basis.  
+ 
+Check any television sets, radios, lamps, telephones, computers, clocks, smoke detectors, or 
+sprinkler heads in the room. If any areas are served by cable TV, be sure to check out the 
+cable lines, converter box, line splitters, and connectors for anything that seems out of place. 
+Any electronic items and wiring that are not essential should be removed, as unused wiring 
+can be used for eavesdropping. 
+ 
+COMPUTERS 
+Always check the back of computers for monitoring devices taped to the back panel. 
+Examine all connections between the computer and the outside world: lines to printers, 
+network cables, lines to peripheral devices, or lines to monitors. Pay attention to any 
+connectors that have been placed between the computer and its external lines. These 
+connectors may look like they perform a legitimate function, but if the external line could 
+have been plugged directly into the computer, find out why the interface was inserted and 
+who put it there. 
+ 
+The area immediately around the computer should be checked for unusual wiring, electronic 
+boxes, or devices. Any closets or rooms dedicated to housing network equipment such as 
+hubs, routers, cabling rigs, or network monitoring gear needs close examination by a 
+qualified network technician to make sure no alien electronic devices are present.  
+ 
+Video Surveillance 
+The role that video cameras play in the corporate espionage campaigns has several 
+dimensions. Microcameras placed in a room of computer screens can focus on individual 
+screens and result in the taping of: passwords, logins, user manuals, text specifics, error 
+messages, contents of documents, and keyboard overlays during many hours of transactions. 
+Cameras can be used to monitor activity on receiving and shipping docks. Planted 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.873 
+microcameras can track activity on production lines or presentations in meeting rooms. They 
+can also capture executives or key employees at embarrassing moments. Such 
+documentation can later be used for blackmail. 
+ 
+Video cameras with a time and date stamp on the footage offer a means of determining the 
+security activity in the company. Times of security patrols, access to special areas like labs, 
+the emptying of security wastebaskets, and other activities can all be tracked. This 
+information can aid a spy in penetrating restricted or sensitive areas. 
+ 
+Photographic Cameras 
+Almost as ubiquitous as the bug, the miniature camera plays a lead role in the canon of 
+spycraft. Many a motion picture has shown the spy, whether af ter military or industrial 
+secrets, bent over documents quickly snapping the shutter. With the tiny cameras available 
+today, industrial spies can sneak out of a company’s premises with numerous secrets tucked 
+away in a purse or shirt pocket.  
+ 
+Minicameras 
+With the advent of copy machines in almost every American business, the need to employ 
+the minicamera to capture information from documents dramatically declined. Because 
+many sensitive documents are stored in electronic format, computer media such as disks, 
+CDs, USB flash drives, and other storage devices have also eroded the need for film 
+cameras. Some applications do, however, still exist for the minicamera. Documents such as 
+maps, schematics, diagrams, and engineering drawings frequently cannot be easily copied due 
+to their size. The minicamera is a viable option for capturing the information on these items.  
+ 
+Concealed stationary cameras with large rolls of film have largely been replaced by video 
+cameras. Film is difficult to replace at hidden, sensitive sites. It is also expensive to process. 
+Videotape is cheap, needs no processing, and ca n be recorded off-site, far from the video 
+camera/transmitter. Thus, even if the target company discovers the hidden video camera, 
+the footage will remain safely in the spy’s control.  
+
+Theft of Intellectual Property  Financial Transactions   
+1.874                         2011 Fraud Examiners Manual  
+ 
+Infrared Film 
+Infrared film has value when surveillance is done under very low light or when the spy needs 
+to examine damaged or erased documents. Even the contents of burned documents can be 
+detected under the right conditions with infrared film.  
+ 
+Digital Cameras 
+As digital cameras become smaller in both cost and size, they may become a more 
+formidable tool in the corporate spy’s arsenal. Digital images are captured on a small disk 
+whose contents can be loaded into a computer. The image can be enhanced and manipulated 
+using various software programs, thereby offering excellent resolution. The disk carrying the 
+stolen image can be carried off and on premises with little chance of detection. 
+
+For any good spy, a good digital camera is the mainstay in his surveillance arsenal. Even if 
+extensive aerial photographs are taken, observation of the target site at ground level is 
+essential. From the ground view many features like signs, lettering on the side of vehicles, 
+the configuration of buildings and streets, license plates, and other important details become 
+visible. Photographs of key employees of the target can also be valuable information in many 
+intelligence campaigns. 
+ 
+To avoid attracting attention, the intelligence specialist generally uses telescopic or reflective 
+lenses to zoom in on details from a safe distance. In building a visual file on a plant site, a 
+spy will take ground level photographs from around the entire circumference of the targeted 
+area. He will even photograph CRT and computer screens that are visible through windows.  
+ 
+To aid in analyzing photographs at a later date, the specialist will catalogue all photographs 
+as to: 
+• Subject matter 
+• Date/time of day 
+• Direction of shot 
+• Number in a sequence of shots 
+• Important features in shot 
+ 
+This data can be stored in a database like Microsoft Access ®. Photographs themselves can 
+be incorporated into the database by scanning them into the computer from a flat glass 
+scanner or by loading them from a digital camera. Photographic images, excerpts from 
+videotape surveillance, aerial photographs, and relevant diagrams, document images, or 
+drawings can be also integrated into one database for extensive analysis. Analytical 
+investigative databases like i2 allow for the organization of visual data. A database generates 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.875 
+various narrative reports, charts, diagrams, and chronologies. The opportunities for an 
+information multiplier effect are tremendous. 
+ 
+Cellular Telephones 
+Anyone who conducts a sensitive or confidential conversation on a cellular telephone is 
+either highly naive or plain foolish. These transmissions are transparent to the secret services 
+of all governments. Any amateur with a receiver can also pick up cellular communications. 
+Most corporate spies will, as a matter of course, scan cellular frequencies around a targeted 
+plant. They will also focus in on cellular telephone calls by executives and key employees. By 
+simple physical surveillance, a spy can observe an executive pull out his cellular telephone in 
+the car, in a restaurant, or in the grocery store. This will alert the spy to begin monitoring the 
+target’s cellular frequency. Employees should always keep in mind that someone could be 
+listening to their conversations. Sensitive information should not be conveyed by cellular 
+phone. As with other surveillance equipment, the tools necessary to monitor cellular 
+telephone conversations are easy to come by. 
+ 
+Monitoring Computer Emanations  
+Digital computers process information with a series of 0s and 1s. These two digits do not 
+translate to “on” and “off” states, but rather to high and low currents. These currents cause 
+pixels on a computer screen to fire, producing high voltage pulses that emanate into the 
+surrounding environment. Computer emanations form a detectable and decodable pattern. A 
+detector or receiver, known as a Van Eck unit, can reproduce keyboard entries on a 
+computer screen even from a considerable distance. 
+ 
+A Van Eck unit consists of a directional antenna, logic circuits, and two adjustable oscillators 
+(one for the vertical and one for the horizontal). With proper adjustments, a van parked 
+across the street, equipped with a Van Eck receiver, can decode the emanations from a 
+keyboard operator inside a neighboring building. Devices like CPUs, taped drives, disk 
+drives, and communications devices all generate electromagnetic radiation, which Van Eck 
+receivers can detect. 
+ 
+To prevent competitors from monitoring computer emanations, organizations can shield 
+their computer equipment and transmission lines: a process known as Tempesting. While this 
+process is used extensively in the military and by certain defense contractors, the costs 
+involved prevent many private sector businesses from employing Tempest procedures.  
+ 
+Theft of Intellectual Property  Financial Transactions   
+1.876                         2011 Fraud Examiners Manual  
+Tape Recorders 
+The best place for a spy to place a tape recorder is off-site, far away from the microphone. A 
+transmitter located with the microphone sends a signal to an off-site receiver that is 
+connected to the tape recorder. This precaution ensures that a compromise of the 
+microphone will not result in capture of the tape. Recorders can also be hooked up directly 
+to telephones in order to record tapped phone conversations.  
+ 
+All that is necessary to create a crude wireless phone tap is a capacitor (to block the DC 
+voltage from the telephone line) wired in series with a small AM or FM transmitter across 
+the telephone wire pair. An AM or FM radio plug ged into a tape recorder picks up the signal 
+by taking the output from the radio’s audio ja ck. A professional would not use this kind of 
+tap, but a security investigator has to be on the lookout for the amateur spy too. Some 
+employees want to get inside information to gain an advantage over their coworkers. 
+Bugging the boss’s telephone is a good way to do it. 
+ 
+Computer System Penetrations
+In some cases, information thieves will attempt to extract information by penetrating a 
+company’s computer defenses. This can be part of an organized intelligence campaign, or in 
+some cases it is simply a random attack by a hacker bent on mischief. For more information 
+on how outsiders attempt to penetrate computer systems, see the “Computer and Internet 
+Fraud” chapter in the Financial Transactions section of the Fraud Examiners Manual.  
+ 
+ 
+
+
+
+:
+
+
+technic surveil
+the popular imag of the spy at least as portrai on televis and in the movi is veri
+often associ with all sort of hightech gadget everyth from miniatur camera to
+exot listen devic to radio wristwatch and telephon hidden in shoe obvious
+mani of these devic ar fanci and while thei mai provid interest entertain
+thei ar far remov from the real world of corpor espionag
+corpor spi do howev emploi variou form of technolog surveil equip
+the tool vari accord to the need of the job at hand in gener corpor spi onli
+resort to us hightech equip when simpler mean ar not avail to accomplish the
+task in some case a miniatur camera might be call for to copi sensit document but
+not when a nearbi copi machin can be us to achiev the same result in other instanc a
+wiretap mai be need but onli when there is no other mean to monitor a subject
+commun sometim satellit track of motor vehicl becom necessari but not
+when simpl visual surveil will tell the spy where the subject ha travel in other
+word corpor spi that know what thei ar do do not emploi technolog for the sake
+of us fanci gadget
+when spi do resort to the us of technic surveil equip it is usual to gather
+nondocumentari evid or inform that cannot be found through open sourc or in
+the target file the method that spi emploi to gather nondocumentari inform
+includ 1 take photograph 2 conduct surveil and visual sight 3 listen
+to convers 4 monitor comput and comput commun 5 analyz
+traffic at a plant and 6 monitor eman from comput and telecommun
+equip
+nondocumentari inform ha certain advantag it captur chang over time
+photograph taken at differ time or process as thei occur videotap electron
+surveil can provid the spy with inform that would take mani hour of
+documentari analysi to acquir aerial photographi provid a broad perspect on the
+manufactur physic plant that is not ordinarili possibl with document alon
+theft of intellectu properti financi transact
+1862 2011 fraud examin manual
+intercept comput commun and eman can provid an insid look at the
+suppli purchas manufactur and market channel of a target that cannot be
+replic by anoth sourc
+the fact that a technic activ is possibl doe not mean that it is advis most type of
+electron surveil carri potenti seriou repercuss in mani case thei ar clearli
+illeg ani prudent spy will emploi technic intellig method with restraint onli
+amateur will rush into a surveil oper by bug thi line and that junction box
+these novic ignor the fact that the more on bug the greater the chanc of have the
+surveil campaign discov in addit a corpor spy with ani season will realiz
+that indiscrimin bug produc too much signal traffic to analyz
+experienc corpor spi know what thei ar look for and devis carefulli protect
+collect plan befor initi their surveil campaign thei know that the more time
+spent plan the more like it is that their electron surveil will go undetect and
+the greater the intellig yield will be the rule most bi profession us for protect
+electron surveil includ the follow
+if devic such as microphon or video camera ar to be left onsit those devic must
+not be traceabl back to the spy or the client the mark on the equip must not
+establish a trail on which to build an investig experienc spi us gener equip
+avail from multipl sourc
+wire tap and their associ devic must blend into their surround so noth appear
+out of the ordinari to the layperson smart spi do not us contrapt that can easili be
+identifi as bug
+radio transmitt must not send signal in those part of the electromagnet spectrum that
+ar in common commerci us profession avoid us cellular telephon band cb
+channel or am or fm radio channel for covert transmiss thei also find out if the
+target site us commerci twowai radio frequenc and avoid us those band
+a compet spy doe not leav a hard wire connect between the wiretap and the place
+where he conduct listen if someon locat the tap all that person would have to do is
+trace the hard wire line to locat the spy
+financi transact theft of intellectu properti
+2011 fraud examin manual 1863
+if the spy conduct offsit recept of comput eman and signal the recept
+vehicl or site should have suffici camouflag or should be adequ disguis to avoid
+ani notic or detect
+a good spy never reveal anyth about an intellig campaign to anyon except her
+client even after the job is finish
+onc a job is finish and a report ha been written and deliv to the client a spy
+destroi all documentari evid of the campaign
+aerial photographi
+though it origin lie in the militari sector aerial photographi ha emerg as a valuabl
+tool in busi intellig googl earth a free onlin tool that enabl user to obtain an
+aerial photo of properti by satellit ha made gather thi type of intellig quit easi
+addition there ar privat aerial photographi firm that have fairli complet neg
+for land in their servic area these firm also accept special assign to photograph
+specif ground area on a schedul specifi by the client aerial photographi is us by
+spi to gather inform on a competitor construct or expans product to
+measur the size of it shipment or to determin the number of employe that the
+compani ha work among other thing
+bug and wiretap
+hidden microphon wiretap and other form of electron surveil equip have
+becom extrem common wai for intellig profession to keep tab on their
+competit the spy ha two primari consider in a wiretap campaign where to
+insert the surveil equip and which of the variou technolog to emploi
+the insert point
+in identifi the insert point the spy not onli ha to choos an area where proprietari
+inform is like to be discuss or displai on comput screen but also where
+background nois and electron interfer remain minim spi frequent choos area
+with proxim to comput and telecommun equip carri proprietari data as
+an insert point
+spi mai also target area conduc to employe convers thi can includ ani place
+insid or outsid the target compani where kei personnel gather and chat exampl
+theft of intellectu properti financi transact
+1864 2011 fraud examin manual
+includ smoke area recreat area such as bar loung and coffeehous employe
+cafeteria relax area exercis room and meet room to target particular
+oper such as inform servic spi might wire the offic of kei manag which
+ar like to provid access to a larg portion of human inform flow
+the technolog
+in determin which technolog to emploi the spy must factor in environment
+condit such as light if video surveil is emploi nois level and distanc from
+the sourc other factor includ the risk of the sens devic be discov power
+suppli problem and access to the devic for servic after instal
+common electron eavesdrop devic includ
+dropin telephon bug
+carbon microphon
+magnet or dynam microphon
+electret microphon
+spike microphon
+caviti microphon
+low power consumpt transmitt
+infin transmitt
+shotgun or parabol microphon
+cellular telephon receiv
+video camera and transmitt
+satellit track of vehicl
+it is not difficult at all for spi to purchas electron listen equip the internet for
+exampl ha a number of site that advertis vast inventori of equip rang from
+audio devic to miniatur video camera to satellit track system most of these site
+urg their custom to us their merchandis onli in a legal appropri manner and
+advertis the equip for purpos like check for intrud or ensur on own
+privaci in truth howev these devic can and ar us by corpor spi to pilfer the
+proprietari secret of their target
+some of the more common form of surveil equip ar discuss in the follow
+section
+financi transact theft of intellectu properti
+2011 fraud examin manual 1865
+satellit track system
+in most satellit track system a small transmitt is surreptiti attach to the
+subject vehicl common hide area includ the trunk insid fender or under the rear
+bumper the transmitt commun with global posit satellit gp and convert
+the coordin of the vehicl onto a map the spy onli need access to the internet and a
+password to enter a special privat home page where he can view map that show the
+vehicl locat and path these system ar capabl of gener event list and plaintext
+histori of where the vehicl ha travel a variat on thi track design is that in some
+satellit track softwar the system creat a trail of electron breadcrumb on the map
+displai the map can be a power tool in track the movement of execut and kei
+compani employe
+dropin telephon bug
+spi frequent us dropin telephon bug which have the advantag of blend in with
+everydai exist telephon equip dropin bug ar simpli insert into the handset
+devic on a normal telephon the target conv ersat ar transmit to a remot
+receiv where thei ar record
+dropin bug ar rare detect becaus most peopl never bother to unscrew the plastic
+cover on the handset and perform a detail check of the intern compon thu a
+dropin telephon bug offer minim risk of exposur to the spy when a spy ha access to
+the physic premis of a target and want to be abl to listen to convers on a
+particular telephon line thi devic is usual the chosen method of surveil
+carbon microphon
+carbon microphon while larger than most spy audio devic provid good pickup if
+properli hidden and locat thei offer excel coverag of fix locat smoke room
+employe loung and other gather spot as with other form of listen equip
+these microphon ar usual equip with a transmitt that relai intercept
+convers offsit to a record thi is much safer from the spy perspect than
+maintain a record onsit with a remot transmitt even if the microphon is
+detect the record materi cannot be locat or recov by the target
+theft of intellectu properti financi transact
+1866 2011 fraud examin manual
+magnet and electret microphon
+magnet or dynam microphon can be veri small thei ar us when a microphon
+need to be close to the speaker and hidden insid someth small electret microphon
+also provid good close rang coverag both type of microphon ar smaller than the
+standard carbon microphon though thei tend to offer a lower rang of coverag
+spike and caviti microphon
+spike and caviti microphon work best when the spy ha access to an adjoin area and
+need to penetr hi surveil into the next room for exampl if a spy ha free rang in
+a util room next door or in an adjac hotel or motel room a spike microphon can be
+insert through the adjoin wall to monitor convers in the target room thi type
+of microphon is so small at it insert point that it is virtual undetect to the casual
+observ
+infin transmitt
+infin transmitt ar a special kind of devic that can be activ from a remot locat
+onc an infin transmitt ha been insert in a phone a spy can call that telephon from
+anywher in the world and turn it into a listen devic unknown to the parti present
+the telephon becom a hidden microphon
+shotgun or parabol microphon
+for listen to convers at a long distanc shotgun microphon parabol
+microphon devic and laser audio detect equip can overhear even quiet
+discuss provid background nois is not too high the spy ha to be mind of have
+adequ cover to protect the listen post
+wiretap
+wiretap involv splice a listen or record devic into a wire such as a telephon
+wire a pbx cabl an alarm system or a local area network cabl that is us for
+commun by the target standard phone system in particular ar veri vulner to
+wiretap tap ar usual place at the telephon box in the basement of build on
+line outsid build or on telephon pole junction box near the target offic the
+differ type of wiretap that can be util includ hardwir wiretap soft wiretap
+record wiretap and transmit wiretap
+financi transact theft of intellectu properti
+2011 fraud examin manual 1867
+warn sign of bug
+covert eavesdrop mai be difficult to detect particularli becaus most peopl do not
+know what sign to look for jame m atki nson of the granit island group on of the
+lead technic surveil countermeasur firm in the us ha compil a list of 27
+warn sign that might indic that an organ is the target of an electron
+eavesdrop campaign1 those red flag ar list below
+other seem to know your confidenti busi or trade secret thi is the most
+common indic of a bug campaign
+inform discuss in secret meet or contain in secret bid doe not remain
+secret confidenti meet ar among the most popular target of corpor spi
+peopl seem to know about your organ activ when thei should not
+strang sound or volum chang ar detect on your phone line thi is a common
+byproduct of wiretap or activ of a similar listen devic
+you notic unusu static pop or scra tching on phone line thi is anoth
+common sign of a wiretap or bug
+you can hear sound come from your phone handset when it is hung up thi is
+typic caus by a devic call a hook switch bypass which turn a telephon
+receiv into an eavesdrop microphon and speaker and allow a spy to monitor
+convers near the phone usual within 20 feet
+your phone ring and nobodi is on the other end of the line but you hear a veri faint
+tone or a highpitch squeal and beep thi is an indic of a slave devic or line
+extend be us on your phone line thi is also a kei indic of a harmonica bug
+or infin transmitt be us
+you hear a tone on your line when your phone is off the hook by us an extern
+amplifi
+an offic radio suddenli develop strang interfer thi could be caus by
+eavesdrop devic that us frequenc within or just outsid the fm radio band
+these signal tend drift and will quiet fm radio in the vicin of the bug to check for
+bug look for transmiss at the far end of the fm radio band and at ani quiet area
+along the fm band if the radio begin to squeal slowli move it around the room until
+the sound becom veri high pitch the radio should be set to the mono function
+rather than stereo as thi will increas it level of sensit
+a car radio suddenli start get weird keep in mind that the antenna us by a car
+1 thi list is provid courtesi of jame m atkinson and the granit island group 127 eastern avenu
+291 gloucest ma 01930 978 5463803 wwwtscmcom email jmatktscmcom
+theft of intellectu properti financi transact
+1868 2011 fraud examin manual
+mai be and often is exploit by an eavesdropp and that such usag might interfer
+with radio transmiss
+an offic televis suddenli develop interfer eavesdrop devic can tend to
+interfer with televis recept
+your offic appear to have been burglar but noth wa taken someon could
+have enter the premis in order to plant a listen devic
+electr wall plate cover outlet switch smoke alarm and light fixtur
+appear to have been move slightli these ar among the most popular locat for
+hide listen devic which requir that the plate be remov watch for slight
+variat in the color or appear of the power outlet or light switch as these ar
+often swamp out by an eavesdropp
+a dimes discolor appear on an offic wall or ceil thi is a sign that a
+pinhol microphon or video camera ha been instal
+on of your vendor give you an electron devic such as a desk radio alarm clock
+cd player or small televis these gift frequent contain secret eavesdrop
+devic
+a small bump or deform ha appear on the baseboard by the floor thi is a
+strong indic that someon mai have conceal covert wire or a microphon
+imbed into the adhes that hold the mold to the floor
+a smoke detector clock lamp or exit sign in your offic or home look slightli crook
+ha a small hole in the surfac ha a quasi reflect surfac or otherwis appear to
+have been tamper with these item ar also common place for conceal bug
+certain item just appear in your offic without anyon know how thei got there
+typic item to watch for and bewar of ar clock exit sign sprinkler head radio
+pictur frame and lamp thei mai contain listen equip and could have been
+place in your offic by a spy
+drywal dust or debri is found on the floor next to a wall thi could be a sign that a
+pinhol microphon or video camera ha been instal nearbi
+small piec of ceil tile or grit ar found on the floor or on a desk also a crack
+chip or goug ceil tile sag ceil tile or ceil tile not properli set into
+track mai be observ thi indic that a ceil tile ha been move possibl becaus
+someon ha instal a technic surveil devic abov your ceil
+phone compani truck and util worker seem to be spend a lot of time near your
+home or offic these worker could actual be corpor spi in disguis
+telephon cabl plumb or air condit repair peopl show up to work when no
+on call them thi is a veri common method for an eavesdropp to plant a bug
+financi transact theft of intellectu properti
+2011 fraud examin manual 1869
+servic or deliveri truck ar often park nearbi with nobodi in them these vehicl
+mai be listen post for spi in particular look for vehicl that have ladder or pipe
+rack on the roof have tint window and ar larg enough to conceal a person in
+the back
+your door lock suddenli do not feel right thei becom sticki or thei fail
+altogeth thi is evid that the lock ha been pick manipul or bypass by
+an intrud
+furnitur appear to have been move slightli and no on know why eavesdrop
+devic ar commonli hidden behind or insid furnitur
+thing seem to have been rummag through but noth is miss thi could be a
+sign that someon ha been look through your paper perhap even copi them
+befor return them to your work area the most common rummag target ar
+the back of desk drawer the bottom of file cabinet closet and dresser drawer
+an eavesdropp send you a copi of your privat convers as simpl as it seem
+thi is the strongest indic and solid proof of eavesdrop an eavesdropp will
+sometim send a victim a copi of a privat convers thei intercept in an attempt
+at blackmail or in an attempt to terror or just stalk the victim thi is commonli seen
+in civil lawsuit crimin court case marit problem sharehold disput custodi
+battl and other situat where on side ha a posit of weak and is
+psycholog try to undermin their oppon
+preliminari search procedur
+if an organ suspect that wiretap ha occur there ar a number of preliminari
+search procedur that the layperson can perform thi section is not design to make the
+reader an expert at countersurveil techniqu profession who offer those servic
+can easili be locat howev it is quit feasibl for an ordinari person to conduct a basic
+search for wiretap equip when conduct an inspect for electron
+surveil equip be mind of safeti concern never reach into electr box or
+outlet unless you ar sure the power is off and do not grasp bare wire unless you know
+thei ar not live
+theft of intellectu properti financi transact
+1870 2011 fraud examin manual
+know your devic
+wiretap devic for the most part look like hobbyist electron circuit board the
+major differ is that thei ar much smaller than the circuit board of the past satellit
+track equip is usual hous in small metal box about the size of a paperback
+book thei requir small antenna that have to face toward the sky
+inspect telephon
+if the mouthpiec or earpiec on telephon handset have screwoff plastic cover remov
+them and make sure no transmitt or unusu look compon ar attach to the
+microphon condens also examin the mark on the condens unit do thei match a
+condens from a similar telephon kept in a secur area if the mark ar significantli
+differ have them check by a repres from the telephon manufactur
+if the cover on the handset is on solid piec of plastic look at the two screw that hold the
+plastic plate on if the screw have scratch on them eg from a screwdriv remov the
+screw and take the plate off examin the condens for sign of tamper or for
+miniatur transmitt
+examin the back or undersid of the telephon look for unusu compon tape or
+held by a magnet to the back metal plate also look for unusu wire protrud from the
+phone thi mean ani wire other than the regular plastic sheath cord that is found on
+all telephon if these examin ar neg then the telephon is probabl secur
+if you still suspect the presenc of a listen devic do not attempt to disassembl the main
+part of the telephon you mai damag the unit instead look at the screw hold down
+the main bodi of the phone to the metal plate if those screw show sign of tamper
+have someon from the manufactur examin the unit
+it is also a good idea to inspect the wall box where the telephon attach to the wall
+carefulli remov the cover and check for ani electron compon insid in a normal
+wall box you should onli see wire and screw point where the wire ar ti togeth
+extran compon could be electron listen devic if you ar not sure whether
+the item you have identifi is actual a transmitt or microphon contact a qualifi
+2 the granit island group a technic surveil countermeasur firm provid photograph of some
+electron surveil equip on it websit wwwtscmcomwhatistscmhtml
+financi transact theft of intellectu properti
+2011 fraud examin manual 1871
+countermeasur expert the phone compani or a repres from the phone
+manufactur
+interfac box
+the interfac box is a grai box typic locat on the side of the build if a busi
+oper in a multipl occup structur the interfac box mai be locat in a util closet
+close to the compani offic in order to ex amin the interfac box unscrew the side of
+the box that is design for custom access look insid with a flashlight all wire in the
+box should look the same us the color red blue green yellow and black you might see
+some stripe wire but that is fine there should also be a line come into the side of the
+box from the telephon compani what you should be look for is a transmitt or some
+form of unusu wire that doe not appear to come from the telephon compani and doe
+not lead into your build or offic thi could indic a wiretap
+abov the ceil
+if an open space exist abov the ceil in your offic access that area and look around
+with a flashlight be on the lookout for everyth from sophist transmitt to tape
+record that ar crude hook into telephon line if listen devic have been place
+in an attic or in a crawl space abov the ceil thei probabl have not been elabor
+camouflag it should not be exceedingli difficult to spot surveil equip in these
+area
+it is a good idea to have the light turn on in the room below while you search overhead
+if someon ha drill hole in the ceil to insert a microphon the light should shine
+through the ceil and you will be abl to detect the hole surveil personnel frequent
+drill multipl hole befor select just on as a listen spot or insert a miniatur video
+camera
+other place to search
+us a flashlight to look through the grill panel cover all air condit duct for
+transmitt or listen devic carefulli inspect all electr outlet by remov the cover
+plate and look insid with a flashlight examin ani central util closet for unusu
+wire and electron devic look for sign of debri on the floor under outlet or light
+switch thi might indic that someon ha remov the wall plate to insert a listen
+devic ani time duct outlet plate light fixtur or similar item have been search and
+replac their orient and screwhead posit can be design with ultraviolet
+theft of intellectu properti financi transact
+1872 2011 fraud examin manual
+marker by shine an ultraviolet light on the screw it is easi to tell if the panel have
+been remov thi techniqu make it much easier to determin if someon ha tamper
+with those item sinc the last search
+look under desk and tabl in all offic space for electron devic or wire that seem out
+of place do not tear your offic apart while conduct your search feel your wai around
+and explor with your hand look under and behind couch and sofa it is especi
+import to close examin furnitur in area where peopl ar like to sit and chat the
+tabl and credenza in meet room should be check on a regular basi
+check ani televis set radio lamp telephon comput clock smoke detector or
+sprinkler head in the room if ani area ar serv by cabl tv be sure to check out the
+cabl line convert box line splitter and connector for anyth that seem out of place
+ani electron item and wire that ar not essenti should be remov as unus wire
+can be us for eavesdrop
+comput
+alwai check the back of comput for monitor devic tape to the back panel
+examin all connect between the comput and the outsid world line to printer
+network cabl line to peripher devic or line to monitor pai attent to ani
+connector that have been place between the comput and it extern line these
+connector mai look like thei perform a legitim function but if the extern line could
+have been plug directli into the comput find out why the interfac wa insert and
+who put it there
+the area immedi around the comput should be check for unusu wire electron
+box or devic ani closet or room dedic to hous network equip such as
+hub router cabl rig or network monitor gear need close examin by a
+qualifi network technician to make sure no alien electron devic ar present
+video surveil
+the role that video camera plai in the corpor espionag campaign ha sever
+dimens microcamera place in a room of comput screen can focu on individu
+screen and result in the tape of password login user manual text specif error
+messag content of document and keyboard overlai dure mani hour of transact
+camera can be us to monitor activ on receiv and ship dock plant
+financi transact theft of intellectu properti
+2011 fraud examin manual 1873
+microcamera can track activ on product line or present in meet room thei
+can also captur execut or kei employe at embarrass moment such
+document can later be us for blackmail
+video camera with a time and date stamp on the footag offer a mean of determin the
+secur activ in the compani time of secur patrol access to special area like lab
+the empti of secur wastebasket and other activ can all be track thi
+inform can aid a spy in penetr restrict or sensit area
+photograph camera
+almost as ubiquit as the bug the miniatur camera plai a lead role in the canon of
+spycraft mani a motion pictur ha shown the spy whether af ter militari or industri
+secret bent over document quickli snap the shutter with the tini camera avail
+todai industri spi can sneak out of a compani premis with numer secret tuck
+awai in a purs or shirt pocket
+minicamera
+with the advent of copi machin in almost everi american busi the need to emploi
+the minicamera to captur inform from document dramat declin becaus
+mani sensit document ar store in electron format comput media such as disk
+cd usb flash drive and other storag devic have also erod the need for film
+camera some applic do howev still exist for the minicamera document such as
+map schemat diagram and engin draw frequent cannot be easili copi due
+to their size the minicamera is a viabl option for captur the inform on these item
+conceal stationari camera with larg roll of film have larg been replac by video
+camera film is difficult to replac at hidden sensit site it is also expens to process
+videotap is cheap need no process and ca n be record offsit far from the video
+cameratransmitt thu even if the target compani discov the hidden video camera
+the footag will remain safe in the spy control
+theft of intellectu properti financi transact
+1874 2011 fraud examin manual
+infrar film
+infrar film ha valu when surveil is done under veri low light or when the spy need
+to examin damag or eras document even the content of burn document can be
+detect under the right condit with infrar film
+digit camera
+as digit camera becom smaller in both cost and size thei mai becom a more
+formid tool in the corpor spy arsen digit imag ar captur on a small disk
+whose content can be load into a comput the imag can be enhanc and manipul
+us variou softwar program therebi offer excel resolut the disk carri the
+stolen imag can be carri off and on premis with littl chanc of detect
+for ani good spy a good digit camera is the mainstai in hi surveil arsen even if
+extens aerial photograph ar taken observ of the target site at ground level is
+essenti from the ground view mani featur like sign letter on the side of vehicl
+the configur of build and street licens plate and other import detail becom
+visibl photograph of kei employe of the target can also be valuabl inform in mani
+intellig campaign
+to avoid attract attent the intellig specialist gener us telescop or reflect
+lens to zoom in on detail from a safe distanc in build a visual file on a plant site a
+spy will take ground level photograph from around the entir circumfer of the target
+area he will even photograph crt and comput screen that ar visibl through window
+to aid in analyz photograph at a later date the specialist will catalogu all photograph
+as to
+subject matter
+datetim of dai
+direct of shot
+number in a sequenc of shot
+import featur in shot
+thi data can be store in a databas like microsoft access photograph themselv can
+be incorpor into the databas by scan them into the comput from a flat glass
+scanner or by load them from a digit camera photograph imag excerpt from
+videotap surveil aerial photograph and relev diagram document imag or
+draw can be also integr into on databas for extens analysi analyt
+investig databas like i2 allow for the organ of visual data a databas gener
+financi transact theft of intellectu properti
+2011 fraud examin manual 1875
+variou narr report chart diagram and chronolog the opportun for an
+inform multipli effect ar tremend
+cellular telephon
+anyon who conduct a sensit or confidenti convers on a cellular telephon is
+either highli naiv or plain foolish these transmiss ar transpar to the secret servic
+of all govern ani amateur with a receiv can also pick up cellular commun
+most corpor spi will as a matter of cours scan cellular frequenc around a target
+plant thei will also focu in on cellular telephon call by execut and kei employe by
+simpl physic surveil a spy can observ an execut pull out hi cellular telephon in
+the car in a restaur or in the groceri store thi will alert the spy to begin monitor the
+target cellular frequenc employe should alwai keep in mind that someon could be
+listen to their convers sensit inform should not be convei by cellular
+phone as with other surveil equip the tool necessari to monitor cellular
+telephon convers ar easi to come by
+monitor comput eman
+digit comput process inform with a seri of 0s and 1s these two digit do not
+translat to on and off state but rather to high and low current these current caus
+pixel on a comput screen to fire produc high voltag puls that eman into the
+surround environ comput eman form a detect and decod pattern a
+detector or receiv known as a van eck unit can reproduc keyboard entri on a
+comput screen even from a consider distanc
+a van eck unit consist of a direct antenna logic circuit and two adjust oscil
+on for the vertic and on for the horizont with proper adjust a van park
+across the street equip with a van eck receiv can decod the eman from a
+keyboard oper insid a neighbor build devic like cpu tape drive disk
+drive and commun devic all gener electromagnet radiat which van eck
+receiv can detect
+to prevent competitor from monitor comput eman organ can shield
+their comput equip and transmiss line a process known as tempest while thi
+process is us extens in the militari and by certain defens contractor the cost
+involv prevent mani privat sector busi from emploi tempest procedur
+theft of intellectu properti financi transact
+1876 2011 fraud examin manual
+tape record
+the best place for a spy to place a tape record is offsit far awai from the microphon a
+transmitt locat with the microphon send a signal to an offsit receiv that is
+connect to the tape record thi precaut ensur that a compromis of the
+microphon will not result in captur of the tape record can also be hook up directli
+to telephon in order to record tap phone convers
+all that is necessari to creat a crude wireless phone tap is a capacitor to block the dc
+voltag from the telephon line wire in seri with a small am or fm transmitt across
+the telephon wire pair an am or fm radio plug ged into a tape record pick up the signal
+by take the output from the radio audio ja ck a profession would not us thi kind of
+tap but a secur investig ha to be on the lookout for the amateur spy too some
+employe want to get insid inform to gain an advantag over their cowork
+bug the bosss telephon is a good wai to do it
+comput system penetr
+in some case inform thiev will attempt to extract inform by penetr a
+compani comput defens thi can be part of an organ intellig campaign or in
+some case it is simpli a random attack by a hacker bent on mischief for more inform
+on how outsid attempt to penetr comput system see the comput and internet
+fraud chapter in the financi transact section of the fraud examin manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The following question is representative of what type of sampling? "If I believe some kind of irregularity might exist in the records, what sample size will I have to audit to have assurance of finding at least one example?"
+
+Options=Attribute sampling | Discovery sampling | Random sampling | Statistical Sampling
+
+CorrectResponse=1
+
+Explanation=Discovery sampling deals with the probability of discovering at least one error in a given sample size if the population error is a certain percentage. This is the best type of sampling for auditing for fraud because it is sampling until one occurrence is found. Discovery sampling is directed toward a specific objective, such as: â€˜If I believe some kind of error or irregularity might exist in the records, what sample size will I have to audit to have assurance of finding at least one example?â€?See page(s) 3.831 in the Fraud Examiner's Manual

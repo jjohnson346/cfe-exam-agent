@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Unless specific unacceptable conduct is detailed in a fraud prevention policy, there can be legal problems in discharging a dishonest employee.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Many companies have learned that it is best to spell out specific unacceptable conduct. If the type of conduct that is considered unacceptable is not accurately detailed, there might be legal problems in discharging a dishonest employee. Check with your counsel regarding any legal considerations with respect to a fraud policy. One of the most important legal considerations is to ensure everyone and every allegation is handled in a uniform manner.See page(s) 4.732 in the Fraud Examiner's Manual

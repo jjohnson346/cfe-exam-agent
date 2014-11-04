@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The basic functions of a bank include:
+
+Options=Pay checks | Receive deposits | Make loans | All of the above
+
+CorrectResponse=3
+
+Explanation=The basic bank functions are as follows:•	Receive deposits•	Pay checks•	Transfer funds•	Make loans•	Collect sundry financial instruments•	Hold and administer property for othersSee page(s) 3.806 in the Fraud Examiner's Manual

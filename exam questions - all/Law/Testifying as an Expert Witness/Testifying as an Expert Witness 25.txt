@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=The notes and materials of an expert, hired to testify on behalf of a client, are generally privileged from discovery.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=According to discovery rules governing expert testimony, everything the expert says or writes about the case after being hired is subject to discovery by opposing counsel. That means everything: narrative versions of the case, comments to the press or law enforcement, hypothetical reconstructions, even notes can be demanded and used by the opposing party. A shrewd attorney can use an expert’s notebook—which contains “dry runs�? at an opinion and other purely deliberative information—to call the witness's testimony into question. The only exception is when the expert is hired by the attorney purely on a consulting basis. In legalese, an expert witness has no privilege. The principle of privilege exists to protect certain core societal relationships (attorney-client, husband-wife), but the expert witness’ relationship with clients is not among those protected. If the expert’s opinions will be presented in court, everything related to the expert's opinion is discoverable.See page(s) 2.807-2.808 in the Fraud Examiner's Manual

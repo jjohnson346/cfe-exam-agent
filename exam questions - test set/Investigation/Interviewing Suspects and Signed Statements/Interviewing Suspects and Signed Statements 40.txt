@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a Certified Fraud Examiner, has gotten White, a fraud suspect, to confess to embezzling funds. Blue believes the amount involved is $500,000, but he doesn't tell White this. When Blue asked White how much money was involved, White replied, "I don't know." What should Blue's next question probably be?
+
+Options="Was it as much as $600,000? | "Of course you know. How much was it?" | "Was it as much as $400,000?" | "Was it as much as $500,000?
+
+CorrectResponse=0
+
+Explanation=In fraud matters especially, it is common for the accused to underestimate the amount of funds involved as well as the number of instances. This is probably because of a natural tendency of the human mind to block out unpleasant matters. Take the figures with a grain of salt. If the accused's response is "I don't know," start high with the amounts and gradually come down.See page(s) 3.266 in the Fraud Examiner's Manual

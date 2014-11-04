@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=An effective compliance program has which of the following characteristics?
+
+Options=Well implemented | Well enforced | Well designed | All of the above
+
+CorrectResponse=3
+
+Explanation=An effective compliance program is one that is reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detecting criminal conduct. Organizations should exercise due diligence in seeking to prevent and detect criminal conduct by its employees.See page(s) 4.709 in the Fraud Examiner's Manual

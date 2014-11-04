@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=There are two general types of pardons. They are:
+
+Options=Full and absolute, and conditional | Political and general | General and unconditional | None of the above
+
+CorrectResponse=0
+
+Explanation=A person may apply for a pardon that, if granted, releases that person from further punishment and restores the civil rights that are forfeited upon conviction. These rights include the right to vote, serve on a jury, or hold public office. There are two types of pardons: "full and absolute" and "conditional." Full and absolute pardons are usually granted only after conviction and upon showing that the offender was, in fact, innocent. The full and absolute pardon President Nixon received from President Ford before impeachment proceedings began was a rare exception to this rule. A conditional pardon usually implies guilt and for this reason may be rejected by the beneficiary The grant of any pardon or other clemency is usually a prerogative of the Executive Branch and may not be compelled by the petitioner.See page(s) 4.314-4.315 in the Fraud Examiner's Manual

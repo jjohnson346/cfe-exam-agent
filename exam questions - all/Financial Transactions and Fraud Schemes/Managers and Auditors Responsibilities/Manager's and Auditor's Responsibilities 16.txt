@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to The Institute of Internal Auditors’ International Standards for the Professional Practice of Internal Auditing, the internal audit activity must evaluate risk exposures relating to the organization's governance, operations, and information systems regarding all but which of the following?
+
+Options=Reliability and integrity of financial and operational information | Effectiveness and efficiency of operations | Sale of assets | Compliance with laws, regulations, and contracts
+
+CorrectResponse=2
+
+Explanation=The internal audit activity must evaluate risk exposures relating to the organization's governance, operations, and information systems regarding the:Reliability and integrity of financial and operational information; Effectiveness and efficiency of operations;Safeguarding of assets; andCompliance with laws, regulations, and contracts.See page(s) 1.243-1.244 in the Fraud Examiner's Manual

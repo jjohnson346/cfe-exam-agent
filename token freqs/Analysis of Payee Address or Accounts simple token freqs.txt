@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+reveal                                 1
+payroll                                1
+deposit                                1
+checks                                 1
+ghost                                  1
+analysis                               1
+of                                     2
+are                                    1
+if                                     1
+automatically                          1
+may                                    1
+accounts                               2
+duplicate                              2
+or                                     4
+deposited                              1
+a                                      1
+payee                                  1
+list                                   1
+either                                 1
+address                                1
+then                                   1
+payments                               1
+addresses                              1
+mailed                                 1
+employees                              1
+
+Totals:                     25        31

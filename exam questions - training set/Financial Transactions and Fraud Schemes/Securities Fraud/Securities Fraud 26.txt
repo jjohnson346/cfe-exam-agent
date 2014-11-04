@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The ______________ test is an alternative to the Howey test that many courts use in securities fraud cases.
+
+Options=Investment skills | Risk Capital | Profit management | Risk management
+
+CorrectResponse=1
+
+Explanation=As an alternative to the Howey Test many state and federal courts are using the "Risk Capital Test" This "test" allows the investor to play a more active role if the funds he contributes are part of the "risk capital" of the business. A person entrusts money or other capital to another with the expectation of deriving a profit. The failure or success of the venture is dependent upon the managerial efforts of the other person. Several states have formally adopted this test, sometimes known as the Hawaii Market Test, as an alternative definition of investment contract. However, the Supreme Court has expressly declined to decide if this test should be used.See page(s) 1.1518 in the Fraud Examiner‰??s Manual

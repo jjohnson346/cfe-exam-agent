@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=RICO stands for:
+
+Options=Racketeer Influenced and Corrupt Organizations | Racketeer Infiltrated Corrupt Organizations | Racketeer Influenced Corporate Organizations | None of the above
+
+CorrectResponse=0
+
+Explanation=RICO (Racketeer Influenced and Corrupt Organizations, Title 18, U.S. Code, Section 1961 et seq.) is probably the best-known and most controversial federal statute in use today.See page(s) 2.236 in the Fraud Examiner's Manual

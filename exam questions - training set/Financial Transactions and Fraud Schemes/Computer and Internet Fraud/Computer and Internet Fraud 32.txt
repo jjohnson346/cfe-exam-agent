@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is NOT a typical method used by informed insiders to perpetrate computer fraud?
+
+Options=Modifications to terminal identifiers | Data file manipulation | Alteration of output | Alteration of input
+
+CorrectResponse=0
+
+Explanation=The biggest fraud threat may be the insider‰??the employee, officer, or manager. In computer fraud, this threat is referred to as the "informed insider." Informed insiders are those who have knowledge of and access to computer systems. The most prevalent method of committing computer fraud probably is alteration or falsification of transactions (and/or documents), including the following: alteration of input, alteration of output, data file manipulation, communications systems, operating systems, and computer operations.See page(s) 1.1838 in the Fraud Examiner's Manual

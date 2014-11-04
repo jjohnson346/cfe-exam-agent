@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Violations of the Foreign Corrupt Practices Act may be punished by corporate fines or civil damages, but the statute makes no provision for jail terms.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under the anti-bribery provisions of the FCPA, corporations and other business entities are subject to a fine of up to $2,000,000. while officers, directors, stockholders, employees, and agents are subject to a fine of up to $250,000 and imprisonment for up to five years. Fines imposed on individuals may not be paid by their employer or principal. The maximum civil penalty for a violation by any firm, as v/ell as by any officer, director, employee, or agent, is $10,000 per occurrence. In addition, in an SEC enforcement action, the court may impose an additional fine not to exceed the greater of (1) the gross amount of the pecuniary gain to the defendant as a result of the violation, or (2) a specified dollar limitation based on the flagrancy of the violation. Under the accounting provisions of the FCPA, natural persons convicted of willful violations of the accounting provisions may be fined up to $5 million, imprisoned up to 20 years, or both. Corporations convicted of willful violations may be fined up to $25 million.See page(s) 2.251, 2.253 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=As long as the fraud examiner is not a government employee, promises of unqualified confidentiality for informants or sources are encouraged in order to get them to participate.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Fraud examiners are not in a position to offer unqualified confidentiality. Therefore, any promises made to an informant or source should be qualified. In the case of an examiner who is employed by a governmental agency, there might be an absolute duty not to hold sources and informants in confidence. In many law enforcement agencies, an investigator might not have informants or sources who are unknown to the agency. Governmental agencies also regularly share information on criminal investigations with prosecutors, including the identity of the source of information. The same regulations and considerations could govern business entities.See page(s) 3.318 in the Fraud Examiner's Manual

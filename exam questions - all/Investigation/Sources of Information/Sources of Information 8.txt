@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Which of the following sources would be most helpful in locating information about an association or professional organization?
+
+Options=Gale's Encyclopedia of Associations | The Association and Trade Magazine | The Professional Association Index | None of the above
+
+CorrectResponse=0
+
+Explanation=The Encyclopedia of Associations, published by Gale, lists each chartered public and private association in the United States and provides valuable information about the association's officers and purpose.See page(s) 3.461 in the Fraud Examiner's Manual

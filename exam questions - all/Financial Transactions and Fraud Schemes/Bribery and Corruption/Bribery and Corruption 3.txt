@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following is a general method of making illegal payments?
+
+Options=Gifts, travel, and entertainment | Payment of credit card bills | Checks and other financial interests | All of the above
+
+CorrectResponse=3
+
+Explanation=Certain traditional methods of making illegal payments fall into the hierarchical pattern as follows:•	Gifts, travel, and entertainment•	Checks and other financial interests•	Hidden interests•	Loans•	Payment of credit card bills•	Transfers at other than fair market value•	Promises of favorable treatment or subsequent employmentSee page(s) 1.714-1.716 in the Fraud Examiner's Manual

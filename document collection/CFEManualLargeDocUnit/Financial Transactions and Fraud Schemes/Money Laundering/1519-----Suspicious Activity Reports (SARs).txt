@@ -1,0 +1,433 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MONEY LAUNDERING/Federal and State Law/Suspicious Activity Reports (SARs)
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Money Laundering
+
+
+:
+
+
+Suspicious Activity Reports (SARs)   
+FINANCIAL INSTITUTIONS 
+The BSA also requires financial institutions to monitor suspicious activity and file suspicious 
+activity reports (SARs) to disclose known or suspected criminal offenses or transactions that 
+involve money laundering or violate the Act. For years, suspicious transactions were 
+reported on the Currency Transaction Report (CTR). However, such activity is now reported 
+using the Suspicious Activity Report (SAR). 
+ 
+The Office of the Comptroller of the Currency (OCC), which charters, regulates, and 
+supervises more than 2,500 national banks, adopted a requirement mandating that national 
+banks file SARs with the appropriate federal law enforcement agencies and the Treasury 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1627 
+Department, in accordance with the form’s instructions, by sending the reports to the 
+Financial Crimes Enforcement Network (FinCEN). These reporting requirements are found 
+in Title 12, Part 353 of the Code of Federal Regulations. This is an enormous improvement 
+on the old reporting systems because it establishes a centralized reporting system that is 
+shared throughout government agencies simultaneously. The DEA, for instance, can now 
+access the same information as the IRS when working on a suspicious report. The reporting 
+procedure has also been simplified for banks, making the information much easier for the 
+Department of the Treasury to obtain.  
+ 
+Financial institutions are also required to use SAR forms to report incidents of computer 
+intrusion. The term “computer intrusion” is defined as gaining access to the computer 
+system to remove, steal, or procure customers’  funds or other account information, or to 
+access the institution’s computer system with the intention of damaging or disabling any 
+critical computer systems. 
+ 
+SARs are used to report a known or suspected criminal offense or a transaction that involves 
+money laundering or violates the BSA. More specifically, a SAR must be filed with FinCEN 
+in each of the following instances: 
+• Any known or suspected criminal violation involving the financial institution when the 
+institution has a substantial basis for identifying one of its directors, officers, employees, 
+agents, or affiliated parties as having committed the act or aided in its commission. 
+• Any known or suspected criminal violation involving the financial institution and 
+aggregating $5,000 or more when the institution has a substantial basis for identifying a 
+possible suspect or group of suspects. 
+• Any known or suspected criminal violation involving the financial institution and 
+aggregating $25,000 or more regardless of whether the institution has a substantial basis 
+for identifying possible suspects. 
+• Any transaction conducted or attempted to be conducted through the financial 
+institution when the institution has reason to suspect that (1) the funds were derived 
+from illegal activities, (2) the transaction is designed to evade any regulations under the 
+Bank Secrecy Act, or (3) the transaction appears to have no business purposes or appears 
+unusual in normal banking practice. 
+ 
+When a financial institution reports a suspicious transaction to a government agency, the Act 
+(18, U.S.C., § 5318(g)(2)) makes it illegal for the financial institution to notify any person 
+involved in the suspicious transaction that such a report has been made.  
+Money Laundering  Financial Transactions   
+1.1628                           2011 Fraud Examiners Manual  
+Section 5318(g)(3) of the BSA also contains a safe harbor provision for financial institutions 
+that report suspicious transactions or that make voluntary disclosures to a government 
+agency of any other possible violation of a law or regulation. The Act provides that these 
+financial institutions shall not be liable under any law, regulation, or contract to any person 
+for making the report. Note that this safe harbor provision only applies to reports made to 
+government agencies, not to self-regulatory organizations.  
+ 
+A copy of the SAR report form is included at the end of this chapter. 
+ 
+MONEY SERVICES BUSINESSES 
+Even before the passage of the PATRIOT Act, the Treasury Department was in the process 
+of expanding its reporting guidelines to include businesses that did not fall under the 
+traditional definition of financial institutions but nevertheless perform a myriad of financial 
+services. One of these categories included money services businesses (MSBs), which comprise 
+various types of money transmitters, issuers of money orders and traveler’s checks, and 
+check cashing businesses. MSBs have long been  required to file CTRs, but otherwise very 
+little government regulation has been required.  
+ 
+In August 1999, many of the reporting and registration obligations contained in the Bank 
+Secrecy Act were extended to MS Bs. These businesses are now required to register with 
+FinCEN under Chapter 31, C.F.R. part 103, subchapter D. Those that fail to register can 
+incur substantial penalties.  
+ 
+Under the rules (1) money transmitters, (2) issuers, sellers, and redeemers of money orders, 
+(3) issuers, sellers, and redeemers of traveler’s checks, and (4) the U.S. Postal Service (except 
+with regard to the sale of postage or philatelic products) are required to report certain classes 
+of transactions that meet certain dollar thresholds to the Department of the Treasury after 
+January 1, 2002.  
+ 
+The reportable transactions include: 
+• Transactions involving funds derived from illegal activity or intended or conducted in 
+order to hide or disguise funds or assets derived from illegal activity; 
+• Transactions designed, whether through structuring or other means, to evade the 
+requirements of the BSA;  
+• Transactions that appear to serve no business or apparent lawful purpose; and 
+• Transactions that involve the use of a mutual fund to facilitate criminal activity. 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1629 
+The rule includes two different dollar thresholds depending on the stage and type of 
+transaction involved: 
+• For transactions conducted or attempted by, at, or through a money service business or 
+its agent, a threshold of $2,000 applies; 
+• For transactions identified by issuers of money orders or traveler’s checks from a review 
+of clearance records or other similar records of instruments that have been sold or 
+processed, a threshold of $5,000 applies. 
+ 
+MSBs are given 30 days after becoming aware of a suspicious transaction to complete a 
+Suspicious Activity Report by Money Services  Business (SAR-MSB; Form 109) and file it 
+with FinCEN; in situations involving violations that require immediate attention, such as 
+ongoing money laundering schemes, the MSB or MSBs are to notify the appropriate law 
+enforcement authority immediately, by telephone, in addition to filing the required form. 
+Supporting documentation relating to each SAR-MSB is to be collected and maintained by 
+the reporting MSB for review as needed by law enforcement and regulatory agencies. 
+Although the SAR-MSB form is not formatted for joint filing, MSBs may be included as 
+joint filers with other reporting financial institutions. 
+ 
+CURRENCY EXCHANGES 
+In a rule issued February 10, 2003, U.S. currency exchanges are required to file Suspicious 
+Activity Reports under the same rule that applies to money services businesses. 
+ 
+MUTUAL FUNDS 
+As part of the PATRIOT Act, mutual funds are also required to establish anti-money 
+laundering programs. In May 2003, the Department of Treasury and the Securities and 
+Exchange Commission (SEC) issued a regulation requiring mutual funds to implement 
+“reasonable measures” to establish customer identification procedures and to verify whether 
+customers appear on lists of any known or suspected terrorists.  
+ 
+In May 2006, the Treasury Department issued fi nal approval to regulations that require 
+mutual funds to report suspicious activities to FinCEN. Under these regulations, mutual 
+funds are required to report suspicious currency and non-currency transactions (or 
+attempted transactions) of $5,000 or more. The report would be filed on the “SAR-SF” 
+(Suspicious Activity for Securities and Futures Industries) Form 101.  
+ 
+Money Laundering  Financial Transactions   
+1.1630                           2011 Fraud Examiners Manual  
+The Rule states that four categories of transactions will require reporting. These are the same 
+four categories that trigger reporting requirements for money service businesses and 
+currency exchanges: 
+• Transactions involving funds derived from criminal activity, or intended or conducted to 
+hide or disguise funds from criminal activity; 
+• Transactions designed to evade Bank Secrecy Act (BSA) requirements; 
+• Transactions appearing to serve no business or apparent lawful purpose; or 
+• Transactions involving the use of the mutual fund to facilitate criminal activity. 
+ 
+SECURITIES BROKER-DEALERS 
+In 2002, FinCEN announced a rule requiring brokers and dealers in securities to report 
+suspicious activity via a Suspicious Activity Report by Securities and Futures Industries 
+(SAR-SF; FinCEN Form 101). These firms are obligated to report suspicious transactions 
+conducted or attempted by, at, or through a broker-dealer and involve or aggregate at least 
+$5,000 in funds or assets. This requirement took effect December 31, 2002. 
+ 
+Brokers and dealers in securities are required to report to FinCEN transactions that fall into 
+one of the four categories below. Again, these categories are substantially similar to those 
+that trigger reports by money service businesses and mutual funds (see above). 
+• Transactions involving funds derived from illegal activity, or intended or conducted in 
+order to hide or disguise funds derived from illegal activity; 
+• Transactions designed, whether through structuring or other means, to evade the 
+requirements of the Bank Secrecy Act; 
+• Transactions that appear to serve no business or apparent lawful purpose or are not the 
+sort of transactions in which the particular customer would be expected to engage, and 
+for which the broker-dealer knows of no reasonable explanation after examining the 
+available facts; or 
+• Transactions that involve the use of the broker-dealer to facilitate criminal activity. 
+ 
+Broker-dealers are also required to establish anti-money laundering programs that, among 
+other things, are designed to detect suspicious transactions, under recently promulgated self-regulatory 
+organization (SRO) rules. The SEC has the authority to examine broker-dealers 
+for compliance with the rule, and it is expected that the SROs will also be reviewing 
+compliance as part of the enforcement of their rules. 
+ 
+A copy of SAR-SF is included at the end of the chapter. 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1631 
+CASINOS AND CARD CLUBS 
+Effective March 25, 2003, casinos and card clubs with gross revenue over $1,000,000 must 
+file suspicious activity reports on form SAR-C. Under the rule, casinos and card clubs must 
+report suspicious activity if a transaction involves or aggregates at least $5,000 in funds and if 
+it meets one of the four categories that generally trigger SARs. (See previous sections on 
+Financial Institutions, Money Service Businesses, Mutual Funds, etc.) 
+ 
+Some possible examples of suspicious activity, according to FinCEN, include: 
+• Using wire transfers and cashier’s checks to deposit funds into casino accounts and using 
+the money for little or no gaming activity before cashing out; and 
+• Transferring chips to other individuals to cash out, or redeeming chips for casino checks 
+that total “significantly more” than the amount deposited with “no apparent winnings to 
+account for the excess amount.” 
+ 
+Casinos are also required to file Currency Transaction Reports via FinCEN Form 102 or the 
+Nevada state form (see above). 
+ 
+INSURANCE COMPANIES 
+Although insurance companies have always fallen under the definition of a “financial 
+institution” under the BSA, the Treasury Department had never issued any rules pertaining 
+to the industry. The PATRIOT Act, however, requires that all “financial institutions” 
+establish anti-money laundering programs, and it gives the Secretary of the Treasury the 
+discretion to determine which institutions would be required to file SARs. 
+ 
+In November 2005, FinCEN published rules pertaining to insurance companies that sell 
+certain types of insurance products. The rules apply only to companies that sell “covered 
+products” that FinCEN deemed to be more at risk for money laundering activities than 
+other types of insurance products. Companies that sell these covered products are required 
+to file SARs and to implement anti-money laundering programs. The rules define “covered 
+products” as any of the following: 
+• A permanent life insurance policy (other than a group policy); 
+• An annuity contract (other than a group annuity contract); or 
+• Any other insurance product with cash value or investment features. 
+ 
+Group insurance products, term life, property, casualty, health, and title insurance policies 
+are not considered “covered products.” 
+Money Laundering  Financial Transactions   
+1.1632                           2011 Fraud Examiners Manual  
+Also, insurance companies must report suspicious activities to FinCEN. FinCEN Form 
+108—Suspicious Activity Report by Insurance Companies—has been proposed; however, 
+until the Form is approved, insurance companies should use the Suspicious Activity 
+Reporting Form used by the securities and futures industries (FinCEN Form 101) to report 
+suspicious activities. 
+ 
+DEALERS IN PRECIOUS METALS, STONES, OR JEWELS 
+Persons who deal in jewels, precious metals, and precious stones are required to establish 
+anti-money laundering programs. “Dealers” are defined as persons who have purchased at 
+least $50,000 and  sold more than $50,000 worth of jewels, stones, or metals during the 
+preceding year. Additionally, the person must also be in the business of selling significant 
+amounts of such items; therefore, the rule wo uld not apply to occasional sellers or hobbyists. 
+Dealers, however, are not required to file SARs. FinCEN is developing a set of final rules to 
+address in more detail who is covered under the rule and what procedures will be required. 
+ 
+
+
+
+:
+
+
+suspici activ report sar
+financi institut
+the bsa also requir financi institut to monitor suspici activ and file suspici
+activ report sar to disclos known or suspect crimin offens or transact that
+involv monei launder or violat the act for year suspici transact were
+report on the currenc transact report ctr howev such activ is now report
+us the suspici activ report sar
+the offic of the comptrol of the currenc occ which charter regul and
+supervis more than 2500 nation bank adopt a requir mandat that nation
+bank file sar with the appropri feder law enforc agenc and the treasuri
+financi transact monei launder
+2011 fraud examin manual 11627
+depart in accord with the form instruct by send the report to the
+financi crime enforc network fincen these report requir ar found
+in titl 12 part 353 of the code of feder regul thi is an enorm improv
+on the old report system becaus it establish a central report system that is
+share throughout govern agenc simultan the dea for instanc can now
+access the same inform as the ir when work on a suspici report the report
+procedur ha also been simplifi for bank make the inform much easier for the
+depart of the treasuri to obtain
+financi institut ar also requir to us sar form to report incid of comput
+intrus the term comput intrus is defin as gain access to the comput
+system to remov steal or procur custom fund or other account inform or to
+access the institut comput system with the intent of damag or disabl ani
+critic comput system
+sar ar us to report a known or suspect crimin offens or a transact that involv
+monei launder or violat the bsa more specif a sar must be file with fincen
+in each of the follow instanc
+ani known or suspect crimin violat involv the financi institut when the
+institut ha a substanti basi for identifi on of it director offic employe
+agent or affili parti as have commit the act or aid in it commiss
+ani known or suspect crimin violat involv the financi institut and
+aggreg 5000 or more when the institut ha a substanti basi for identifi a
+possibl suspect or group of suspect
+ani known or suspect crimin violat involv the financi institut and
+aggreg 25000 or more regardless of whether the institut ha a substanti basi
+for identifi possibl suspect
+ani transact conduct or attempt to be conduct through the financi
+institut when the institut ha reason to suspect that 1 the fund were deriv
+from illeg activ 2 the transact is design to evad ani regul under the
+bank secreci act or 3 the transact appear to have no busi purpos or appear
+unusu in normal bank practic
+when a financi institut report a suspici transact to a govern agenc the act
+18 usc 5318g2 make it illeg for the financi institut to notifi ani person
+involv in the suspici transact that such a report ha been made
+monei launder financi transact
+11628 2011 fraud examin manual
+section 5318g3 of the bsa also contain a safe harbor provis for financi institut
+that report suspici transact or that make voluntari disclosur to a govern
+agenc of ani other possibl violat of a law or regul the act provid that these
+financi institut shall not be liabl under ani law regul or contract to ani person
+for make the report note that thi safe harbor provis onli appli to report made to
+govern agenc not to selfregulatori organ
+a copi of the sar report form is includ at the end of thi chapter
+monei servic busi
+even befor the passag of the patriot act the treasuri depart wa in the process
+of expand it report guidelin to includ busi that did not fall under the
+tradit definit of financi institut but nevertheless perform a myriad of financi
+servic on of these categori includ monei servic busi msb which compris
+variou type of monei transmitt issuer of monei order and travel check and
+check cash busi msb have long been requir to file ctr but otherwis veri
+littl govern regul ha been requir
+in august 1999 mani of the report and registr oblig contain in the bank
+secreci act were extend to ms bs these busi ar now requir to regist with
+fincen under chapter 31 cfr part 103 subchapt d those that fail to regist can
+incur substanti penalti
+under the rule 1 monei transmitt 2 issuer seller and redeem of monei order
+3 issuer seller and redeem of travel check and 4 the us postal servic except
+with regard to the sale of postag or philatel product ar requir to report certain class
+of transact that meet certain dollar threshold to the depart of the treasuri after
+januari 1 2002
+the report transact includ
+transact involv fund deriv from illeg activ or intend or conduct in
+order to hide or disguis fund or asset deriv from illeg activ
+transact design whether through structur or other mean to evad the
+requir of the bsa
+transact that appear to serv no busi or appar law purpos and
+transact that involv the us of a mutual fund to facilit crimin activ
+financi transact monei launder
+2011 fraud examin manual 11629
+the rule includ two differ dollar threshold depend on the stage and type of
+transact involv
+for transact conduct or attempt by at or through a monei servic busi or
+it agent a threshold of 2000 appli
+for transact identifi by issuer of monei order or travel check from a review
+of clearanc record or other similar record of instrument that have been sold or
+process a threshold of 5000 appli
+msb ar given 30 dai after becom awar of a suspici transact to complet a
+suspici activ report by monei servic busi sarmsb form 109 and file it
+with fincen in situat involv violat that requir immedi attent such as
+ongo monei launder scheme the msb or msb ar to notifi the appropri law
+enforc author immedi by telephon in addit to file the requir form
+support document relat to each sarmsb is to be collect and maintain by
+the report msb for review as need by law enforc and regulatori agenc
+although the sarmsb form is not format for joint file msb mai be includ as
+joint filer with other report financi institut
+currenc exchang
+in a rule issu februari 10 2003 us currenc exchang ar requir to file suspici
+activ report under the same rule that appli to monei servic busi
+mutual fund
+as part of the patriot act mutual fund ar also requir to establish antimonei
+launder program in mai 2003 the depart of treasuri and the secur and
+exchang commiss sec issu a regul requir mutual fund to implement
+reason measur to establish custom identif procedur and to verifi whether
+custom appear on list of ani known or suspect terrorist
+in mai 2006 the treasuri depart issu fi nal approv to regul that requir
+mutual fund to report suspici activ to fincen under these regul mutual
+fund ar requir to report suspici currenc and noncurr transact or
+attempt transact of 5000 or more the report would be file on the sarsf
+suspici activ for secur and futur industri form 101
+monei launder financi transact
+11630 2011 fraud examin manual
+the rule state that four categori of transact will requir report these ar the same
+four categori that trigger report requir for monei servic busi and
+currenc exchang
+transact involv fund deriv from crimin activ or intend or conduct to
+hide or disguis fund from crimin activ
+transact design to evad bank secreci act bsa requir
+transact appear to serv no busi or appar law purpos or
+transact involv the us of the mutual fund to facilit crimin activ
+secur brokerdeal
+in 2002 fincen announc a rule requir broker and dealer in secur to report
+suspici activ via a suspici activ report by secur and futur industri
+sarsf fincen form 101 these firm ar oblig to report suspici transact
+conduct or attempt by at or through a brokerdeal and involv or aggreg at least
+5000 in fund or asset thi requir took effect decemb 31 2002
+broker and dealer in secur ar requir to report to fincen transact that fall into
+on of the four categori below again these categori ar substanti similar to those
+that trigger report by monei servic busi and mutual fund see abov
+transact involv fund deriv from illeg activ or intend or conduct in
+order to hide or disguis fund deriv from illeg activ
+transact design whether through structur or other mean to evad the
+requir of the bank secreci act
+transact that appear to serv no busi or appar law purpos or ar not the
+sort of transact in which the particular custom would be expect to engag and
+for which the brokerdeal know of no reason explan after examin the
+avail fact or
+transact that involv the us of the brokerdeal to facilit crimin activ
+brokerdeal ar also requir to establish antimonei launder program that among
+other thing ar design to detect suspici transact under recent promulg selfregulatori
+organ sro rule the sec ha the author to examin brokerdeal
+for complianc with the rule and it is expect that the sro will also be review
+complianc as part of the enforc of their rule
+a copi of sarsf is includ at the end of the chapter
+financi transact monei launder
+2011 fraud examin manual 11631
+casino and card club
+effect march 25 2003 casino and card club with gross revenu over 1000000 must
+file suspici activ report on form sarc under the rule casino and card club must
+report suspici activ if a transact involv or aggreg at least 5000 in fund and if
+it meet on of the four categori that gener trigger sar see previou section on
+financi institut monei servic busi mutual fund etc
+some possibl exampl of suspici activ accord to fincen includ
+us wire transfer and cashier check to deposit fund into casino account and us
+the monei for littl or no game activ befor cash out and
+transfer chip to other individu to cash out or redeem chip for casino check
+that total significantli more than the amount deposit with no appar win to
+account for the excess amount
+casino ar also requir to file currenc transact report via fincen form 102 or the
+nevada state form see abov
+insur compani
+although insur compani have alwai fallen under the definit of a financi
+institut under the bsa the treasuri depart had never issu ani rule pertain
+to the industri the patriot act howev requir that all financi institut
+establish antimonei launder program and it give the secretari of the treasuri the
+discret to determin which institut would be requir to file sar
+in novemb 2005 fincen publish rule pertain to insur compani that sell
+certain type of insur product the rule appli onli to compani that sell cover
+product that fincen deem to be more at risk for monei launder activ than
+other type of insur product compani that sell these cover product ar requir
+to file sar and to implement antimonei launder program the rule defin cover
+product as ani of the follow
+a perman life insur polici other than a group polici
+an annuiti contract other than a group annuiti contract or
+ani other insur product with cash valu or invest featur
+group insur product term life properti casualti health and titl insur polici
+ar not consid cover product
+monei launder financi transact
+11632 2011 fraud examin manual
+also insur compani must report suspici activ to fincen fincen form
+108suspici activ report by insur companiesha been propos howev
+until the form is approv insur compani should us the suspici activ
+report form us by the secur and futur industri fincen form 101 to report
+suspici activ
+dealer in preciou metal stone or jewel
+person who deal in jewel preciou metal and preciou stone ar requir to establish
+antimonei launder program dealer ar defin as person who have purchas at
+least 50000 and sold more than 50000 worth of jewel stone or metal dure the
+preced year addition the person must also be in the busi of sell signific
+amount of such item therefor the rule wo uld not appli to occasion seller or hobbyist
+dealer howev ar not requir to file sar fincen is develop a set of final rule to
+address in more detail who is cover under the rule and what procedur will be requir

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, _________________ questions contain a suggested answer as part of the question.
+
+Options=Complex | Leading | Closed | None of the above
+
+CorrectResponse=1
+
+Explanation=Leading questions contain the answer as a part of the question. Most commonly, they are used to confirm facts already knov/n. Although leading questions usually are discouraged in court proceedings, they can be used effectively in interview situations. Examples: "So there have been no changes in the operation since last year?‰??; "Are you still employed by the Bailey Book Corporation?"; "You got promoted, right?"; "Don't you get your income from various sources?"See page(s) 3.223 in the Fraud Examiner's Manual

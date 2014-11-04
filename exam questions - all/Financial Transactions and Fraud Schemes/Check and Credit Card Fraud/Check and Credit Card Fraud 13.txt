@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Credit card fraud is successful because the chances of getting caught are small and prosecution is not assured.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Credit card fraud is successful because the chances of being caught are small and prosecution is not assured Retail stores have identified credit card thieves and contacted law enforcement only to be turned down for action.See page(s) 1.1014 in the Fraud Examiner's Manual

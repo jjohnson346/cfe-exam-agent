@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following procedures would be helpful in searching for a ghost employee?
+
+Options=Compare a listing of current and former employees on the payroll and personnel lists | Determine whether all employees have executed tax withholding forms | Determine which employees do not have any optional withdrawals such as benefit plan contributions or insurance premiums | All of the above
+
+CorrectResponse=3
+
+Explanation=Attempt to identify the ghost through the following steps:‰?¢	Compare a list of all current and former employees from the personnel office to the payroll list. Note discrepancies. Determine whether any employees have failed to execute tax withholding forms, or have not elected to receive any health benefits or other optional withdrawals, such as enforced savings plans. The absence of such elections is often an indication that the employee does not exist.‰?¢	A regular employee's normal salary also might be inflated, or, more commonly, travel and expense reimbursements might be padded to generate illicit funds. Look for unusual disbursements from the accounts in which such checks are deposited.See page(s) 1.726 in the Fraud Examiner's Manual

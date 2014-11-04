@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Under the Federal Rules of Evidence, evidence of a prior felony conviction is never admissible.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under Rule 609; evidence of a prior felony conviction may be admissible if the felony occurred within the last 10 years and the judge finds that the probative value of the evidence outweighs the prejudicial effect on the defendant.See page(s) 2.724 in the Fraud Examiner's Manual

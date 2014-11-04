@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Green is a defendant in a criminal fraud case. The prosecutor wants to call Green's wife to the stand to testify against him. If the prosecutor offers immunity to the wife, she must testify against Green.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The adversary testimony privilege protects spouses from being compelled to testify against each other v/hile they are married. This privilege does not usually continue past the termination of the marriage. There is no privilege that permits a person not to testify against other family members, although, as a matter of policy, many lav/ enforcement agencies will not compel testimony from immediate family members.See page(s) 2.731-2.732 in the Fraud Examiner's Manual

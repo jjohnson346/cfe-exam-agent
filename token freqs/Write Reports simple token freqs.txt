@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+series                                 1
+events                                 1
+writing                                1
+fraud                                  1
+occurred                               1
+has                                    1
+who                                    1
+of                                     3
+witnesses                              1
+admission                              1
+facts                                  1
+if                                     1
+report                                 2
+write                                  1
+perpetrator                            1
+reports                                1
+examinations                           1
+is                                     2
+appropriate                            1
+signed                                 1
+important                              1
+a                                      1
+the                                    6
+in                                     1
+and                                    1
+that                                   1
+narration                              1
+testify                                1
+an                                     1
+will                                   1
+step                                   1
+
+Totals:                     32        41

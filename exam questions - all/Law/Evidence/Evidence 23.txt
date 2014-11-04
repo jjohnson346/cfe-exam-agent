@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=The chain of custody only applies to evidence obtained through search warrants or subpoenas.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Chain of custody issues affect every piece of physical evidence, regardless of whether the evidence was seized or voluntarily provided.See page(s) 2.715 in the Fraud Examiner's Manual

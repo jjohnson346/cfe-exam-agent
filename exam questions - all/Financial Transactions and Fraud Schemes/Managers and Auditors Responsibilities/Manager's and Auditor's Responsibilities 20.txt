@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The Private Securities Litigation Reform Act of 1995 requires that each audit of the financial statements of a public company include procedures designed to provide _assurance of detecting illegal acts that would have a direct and material effect on the determination of the financial statement amounts.
+
+Options=Absolute | Reasonable | Material | None of the above
+
+CorrectResponse=1
+
+Explanation=The Private Securities Litigation Reform Act of 1995 drastically changed the procedures and proof required in securities fraud cases. Among other requirements, each audit of the financial statements of a public company must include procedures designed to provide reasonable assurance of detecting illegal acts that would have a direct and material effect on the determination of financial statement amounts.See page(s) 1.217 in the Fraud Examiner’s Manual

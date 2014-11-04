@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=The following conditions are conducive to fraudulent financial reporting EXCEPT:
+
+Options=Use of overly-aggressive accounting policies on the basis of materiality | Relatively small transactions or balances that are easy to audit | Significant and unusual related-party transactions | Domination of management by a single person or a small group
+
+CorrectResponse=1
+
+Explanation=Some of the more significant red flags of financial statement fraud listed in AU 316 are:‰?¢	Domination of management by a single person or small group (in a nonowner-managed business) without compensating controls.‰?¢	Profitability or trend level expectations of investment analysts, institutional investors, significant creditors, or other external parties (particularly expectations that are unduly aggressive or unrealistic), including expectations created by management in, for example, overly optimistic press releases or annual report messages.‰?¢	Ineffective communication, implementation, support, or enforcement of the entity's values or ethical standards by management, or the communication of inappropriate values or ethical standards.‰?¢	Recurring negative cash flows from operations or an inability to generate positive cash flows from operations v/hile reporting earnings and earnings growth.‰?¢	Rapid growth or unusual profitability, especially compared to that of other companies in the same industry.‰?¢	Significant, unusual, or highly complex transactions, especially those close to a period s end that pose difficult ‰??substance over form" questionsSee page(s) 1.331-1.332 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Sue. a Certified Fraud Examiner is hired by a client to conduct a fraud examination. She found nothing amiss. A year later, she was subpoenaed by the local district attorney's office to provide the client's file Under the Certified Fraud Examiner Code of Professional Ethics, she will not be able to respond to the subpoena.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Two articles cover Sue‰??s action. Article IV of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE will comply with lawful orders of the courts, and will testify to matters truthfully and without bias or prejudice." Article VI says: "A CFE shall not reveal any confidential information obtained during an engagement without proper authorization.‰??‰?? In this particular situation, the Certified Fraud Examiner must comply under Article IV, even though Article VI seems to be at odds. The latter states"... without proper authorization." It does not state that the authorization has to come from the client. A subpoena is proper authorization under the Code of Professional Ethics.See page(s) 4.1001 in the Fraud Examiner‰??s Manual

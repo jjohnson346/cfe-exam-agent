@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In the U.S. federal legal system, which of the following must be charged by indictment?
+
+Options=All crimes punishable by death and all felonies (unless waived) | All crimes with a possible fine of $10,000 or more | All crimes punishable by a term of imprisonment | None of the above
+
+CorrectResponse=0
+
+Explanation=In the U.S. federal legal system, all offenses punishable by death must be charged by an indictment; all felonies (crimes punishable by imprisonment for more than one year or at hard labor) must be charged by indictment unless indictment is waived by the defendant. If the indictment is waived, the prosecution may proceed by filing an informationSee page(s) 2.508 in the Fraud Examiner's Manual

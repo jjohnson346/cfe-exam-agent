@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Under the Sarbanes-Oxiey Act, who is required to personally certify in a company's annual SEC filings that "they have designed, maintained, and evaluated the company's internal controls"?
+
+Options=The lead external auditor | The audit committee | The internal auditors | The Chief Executive Officer and the Chief Financial Officer
+
+CorrectResponse=3
+
+Explanation=Under Section 302 of the Sarbanes-Oxley Act, Chief Executive Officers and Chief Financial Officers of public companies must personally certify annual and quarterly SEC filings. As part of this requirement, they must certify that they have designed, maintained, and evaluated the company’s internal controls; that they have evaluated the controls within 90 days prior to the report; and that they have presented their conclusions about the effectiveness of those controls in the report.See page(s) 1.1505 in the Fraud Examiner’s Manual

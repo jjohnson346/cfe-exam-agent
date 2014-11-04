@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=The purpose of the Chapter 7 bankruptcy filing is to allow the debtor breathing room from the creditors so that the debtor can reorganize its financial affairs and continue as a going concern.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The purpose of the Chapter 11 filing is to allow the debtor breathing room from the creditors so that the debtor can reorganize its financial affairs and continue as a going concern.See page(s) 1.1306 in the Fraud Examiner‰??s Manual

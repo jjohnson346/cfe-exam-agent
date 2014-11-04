@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Due process requires that the jury in a criminal trial reflect a cross-section of the defendant's community.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The jury that hears a criminal case is not required to reflect a cross-section of the community or contain individuals of the same race or age as the defendant.See page(s) 2.517 in the Fraud Examiner's Manual

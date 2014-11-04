@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=According to generally accepted accounting principles, revenue and corresponding expenses should not be recorded or matched in the same accounting period.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The matching concept requires that expenses be recorded in the same accounting period as the revenues they help generate. Estimates, accruals, and allocations are often required to meet this requirement. As a sale is made, the appropriate charges for cost of goods sold, or other expenses directly corresponding to the sale, should be recorded in the same accounting period.

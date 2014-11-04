@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=All certification programs must be licensed by the state.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Certification programs may or may not be regulated by state statute. Some, such as CPAs, doctors, and lawyers, are regulated. Others, such as the Certified Fraud Examiner and Certified Internal Auditor, are self-regulating.See page(s) 4.1003 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=___________________ is any intentional or deliberate act to deprive another of property or money by guile, deception, or other unfair means.
+
+Options=Misrepresentation | Embezzlement | Fraud | None of the above
+
+CorrectResponse=2
+
+Explanation=Fraud includes any intentional or deliberate act to deprive another of property or money by guile, deception or other unfair means.See page(s) 2.201 in the Fraud Examiner's Manual

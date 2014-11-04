@@ -1,0 +1,106 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/General Functions
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+General Functions 
+IDEA’s general functions are discussed below.  
+ 
+FILES, FILE MANAGEMENT, AND FILE MANIPULATION 
+IDEA’s file management and manipulation applications allow the user to import/export files 
+from almost any format, including XML and specific accounting packages; use an easy, 
+industry-standard file management program; generate a single database from several other 
+Data Analysis and Reporting Tools  Investigation 
+3.618   2011 Fraud Examiners Manual  
+databases; use a compare-database option to identify differences in a numeric field within 
+two files for a common key; combine fields from two databases into a single database to test 
+for data matches across files; and use the append-databases option, concatenate two or more 
+files into a single database for audit testing.  
+ 
+DATA APPLICATIONS 
+With IDEA’s data applications, users can exercise extraction or exception testing to identify 
+items that satisfy a specific characteristic, The Equation Editor allows you to create simple or 
+very complex extractions, and the @Functions are used to perform more complex 
+calculations and exception testing. The Search function can seek text or numeric values 
+across selected fields in multiple databases using standard or advanced search techniques. 
+IDEA Duplicates can identify items within a database in which up to eight fields of 
+information are the same. Users can also search for gaps in numeric sequence or 
+alphanumeric sequences with a user-defined mask. The Chart Data option allows data files 
+to be graphed or test results exhibited in bar, stacking bar, pie, plot, or area charts. Data 
+Action Fields allow users to set up relationships across multiple files. 
+ 
+SAMPLING 
+IDEA offers five sampling methods with the ability to calculate sample sizes based on 
+parameters entered and evaluate the results of sampling tests. The sampling methods 
+available are systematic, random, stratified random, monetary unit, and classical variables 
+sampling.  
+ 
+ANALYSIS 
+IDEA’s analysis applications allow users to apply Benford’s Law, stratification, 
+summarization, aging, and pivot tables to raw data.  
+ 
+PRODUCTIVITY 
+With the productivity application, there are several different functions that can display the 
+data, save the operations carried out on a database, generate statistics for all numeric and 
+date fields within a database, and create a script with the help of object-oriented 
+programming language. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.619 
+
+
+
+:
+
+
+gener function
+idea gener function ar discuss below
+file file manag and file manipul
+idea file manag and manipul applic allow the user to importexport file
+from almost ani format includ xml and specif account packag us an easi
+industrystandard file manag program gener a singl databas from sever other
+data analysi and report tool investig
+3618 2011 fraud examin manual
+databas us a comparedatabas option to identifi differ in a numer field within
+two file for a common kei combin field from two databas into a singl databas to test
+for data match across file and us the appenddatabas option concaten two or more
+file into a singl databas for audit test
+data applic
+with idea data applic user can exercis extract or except test to identifi
+item that satisfi a specif characterist the equat editor allow you to creat simpl or
+veri complex extract and the function ar us to perform more complex
+calcul and except test the search function can seek text or numer valu
+across select field in multipl databas us standard or advanc search techniqu
+idea duplic can identifi item within a databas in which up to eight field of
+inform ar the same user can also search for gap in numer sequenc or
+alphanumer sequenc with a userdefin mask the chart data option allow data file
+to be graph or test result exhibit in bar stack bar pie plot or area chart data
+action field allow user to set up relationship across multipl file
+sampl
+idea offer five sampl method with the abil to calcul sampl size base on
+paramet enter and evalu the result of sampl test the sampl method
+avail ar systemat random stratifi random monetari unit and classic variabl
+sampl
+analysi
+idea analysi applic allow user to appli benford law stratif
+summar ag and pivot tabl to raw data
+product
+with the product applic there ar sever differ function that can displai the
+data save the oper carri out on a databas gener statist for all numer and
+date field within a databas and creat a script with the help of objectori
+program languag
+investig data analysi and report tool
+2011 fraud examin manual 3619

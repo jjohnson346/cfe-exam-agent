@@ -1,0 +1,54 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Commodity Futures, Exchange-Traded Options, and OTC Options/Option Values and Premiums
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Option Values and Premiums 
+There are two values that make up option premiums: intrinsic value and time value.  
+To have any intrinsic value an option must be in the money. Out of the money options have 
+only time value. From the above example, the XYZ $85 call closed today at a premium of 
+$5.70 per share. This call option is $3 in the money because the underlying XYZ stock 
+closed above the strike price at $88 per share.  The premium has $3 intrinsic value while the 
+remaining $2.70 is time value. 
+ 
+While the concept of intrinsic value is rather straightforward the concept of time value is 
+complex and beyond the scope of this writing. It is worth noting, however, that the 
+mathematical formula for pricing option time value was first introduced by Fischer Black 
+and Myron S. Scholes in 1973. The formula takes six factors into account: underlying price, 
+strike price, time to expiration, volatility of the underlying, dividends and interest rates. For 
+further information on this and other topics on options, visit the Learning Center on the 
+CBOE Web page (www.cboe.com). 
+ 
+
+
+
+:
+
+
+option valu and premium
+there ar two valu that make up option premium intrins valu and time valu
+to have ani intrins valu an option must be in the monei out of the monei option have
+onli time valu from the abov exampl the xyz 85 call close todai at a premium of
+570 per share thi call option is 3 in the monei becaus the underli xyz stock
+close abov the strike price at 88 per share the premium ha 3 intrins valu while the
+remain 270 is time valu
+while the concept of intrins valu is rather straightforward the concept of time valu is
+complex and beyond the scope of thi write it is worth note howev that the
+mathemat formula for price option time valu wa first introduc by fischer black
+and myron s schole in 1973 the formula take six factor into account underli price
+strike price time to expir volatil of the underli dividend and interest rate for
+further inform on thi and other topic on option visit the learn center on the
+cboe web page wwwcboecom

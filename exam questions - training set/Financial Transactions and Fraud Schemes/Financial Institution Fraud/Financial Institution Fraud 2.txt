@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=A type of embezzlement scheme whereby an employee of a financial institution debits the general ledger to credit his own account or cover up customer account thefts is most properly called:
+
+Options=Unauthorized withdrawals | Unauthorized disbursement of funds to outsiders | Moving money from dormant accounts | False account entries
+
+CorrectResponse=3
+
+Explanation=f7 D False accounting entriesIn false accounting entries schemes, employees debit the general ledger to credit their own accounts or cover up customer account thefts.See page(s) 1.902 in the Fraud Examiner's Manual

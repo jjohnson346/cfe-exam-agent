@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Under federal law, all of the following need to be proven if a charge for a bankruptcy crime is to be sustained EXCEPT:
+
+Options=The defendant had fraudulent intent to defeat the bankruptcy laws. | Damages were suffered. | Crimes were committed during the pendency of a bankruptcy proceeding. | The defendant had knowledge of the crimes during the pendency of a bankruptcy proceeding.
+
+CorrectResponse=1
+
+Explanation=To constitute and be proved as a federal crime, bankruptcy crimes must have been committed during the pendency of a bankruptcy proceeding, with the defendant's knowledge, and with a fraudulent intent to defeat the bankruptcy laws. The FBI investigates bankruptcy crimes and the U.S. Attorney's Office prosecutes them.See page(s) 1.1314 in the Fraud Examiner's Manual

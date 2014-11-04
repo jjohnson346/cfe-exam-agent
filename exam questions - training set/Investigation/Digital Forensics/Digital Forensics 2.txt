@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=If files have been deleted from the target computer, it may be possible to recover those files.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=There are a variety of ways to recover deleted or hidden data from a target computer and its peripherals. A computer-forensic examiner is a trained professional who is capable of analyzing digital media at the hexadecimal level. The hexadecimal level means that every sector and all the bytes in those sectors are available for viewing. This includes deleted files, both purposefully deleted and those that were deleted through various Windows-automated processes. Deletion is a widely misunderstood function in computing because deleting data is not the same as destroying data. Choosing the delete option erases the file‰??s reference from the table of contents, but it does not erase the file; in fact, data is not erased from a computer‰??s hard drive until the file is overwritten.See page(s) 3.703, 3.726 in the Fraud Examiner's Manual

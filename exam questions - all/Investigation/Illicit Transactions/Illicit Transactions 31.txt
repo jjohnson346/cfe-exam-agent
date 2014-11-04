@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=What is a Letter Rogatory?
+
+Options=An order from a judge releasing a defendant from jail | A formal request by the courts of one country to the courts of another country | A demand by the defendant for release of exculpatory information | A formal request from the government to a defendant to produce documents
+
+CorrectResponse=1
+
+Explanation=The Office of International Affairs (OIA) uses a number of legal resources to obtain information from foreign countries. Letters Rogatory are formal requests by the courts of one country to the courts of another country. The OIA also uses Mutual Legal Assistance Treaties (MLATs) between the United States and foreign countries that provide for the exchange of information and documents relating to narcotics, money laundering, and other financial crimes.See page(s) 3.851 in the Fraud Examiner's Manual

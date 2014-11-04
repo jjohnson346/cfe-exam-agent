@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=According to Corporate Fraud Handbook, an expense reimbursement scheme falls under what major category of Occupational Fraud?
+
+Options=Corruption | Asset misappropriations | Fraudulent statementsX | None of the above
+
+CorrectResponse=1
+
+Explanation=Corporate Fraud Handbook established three major categories for occupational fraud: Corruption, Asset Misappropriations and Fraudulent Statements. It then broke down each category into several distinct scheme types. The subcategories of asset misappropriation schemes are listed below:‰?¢	Skimming schemes‰?¢	Cash larceny schemes‰?¢	Check tampering schemes‰?¢	Register disbursement schemes‰?¢	Billing schemes‰?¢	Expense schemes‰?¢	Payroll schemesSee page(s) 45-46 in the Corporate Fraud Handbook

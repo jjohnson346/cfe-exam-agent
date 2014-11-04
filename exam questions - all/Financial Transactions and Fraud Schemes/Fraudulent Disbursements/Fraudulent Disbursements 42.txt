@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Green was a salesman whose job required frequent travel. When Green took a vacation, he saved the receipts from his flight, hotel, and restaurant expenses. He turned in these receipts to his manager along with an expense report that described the expenses as business related. Green's company reimbursed him for the expenses. According to Corporate Fraud Handbook, this is an example of what type of expense reimbursement scheme?
+
+Options=A fictitious expense scheme | A mischaracterized expense schemex | An overstated expense scheme | A multiple reimbursement
+
+CorrectResponse=1
+
+Explanation=One of the most basic expense schemes is perpetrated by simply requesting reimbursement for a personal expense, claiming that it is business related. Examples of mischaracterized expenses indude claiming personal travel as a business trip, listing dinner with a friend as "business development," and so on. Fraudsters may submit the receipts from their personal expenses along with their reports and provide business reasons for the incurred costs.See page(s) 231-232 in the Corporate Fraud Handbook

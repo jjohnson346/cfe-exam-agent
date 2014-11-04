@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A CFE generally would not be able to accept an assignment to uncover fraud in a company in which he or she has a major interest.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A Certified Fraud Examiner does not have the same responsibilities as a Certified Public Accountant. A CPA generally would not be able to express an audit opinion on a company in which he or she held a major financial interest. In the case of this Certified Fraud Examiner, he would be able to accept such an assignment under most conditions, since the goal of the Certified Fraud Examiner is to gather facts regarding a potential fraud, not express an opinion. The examiner should, however, make appropriate disclosures regarding his ownership. Article II of the Certified Fraud Examiner Code of Professional Ethics states: "A CFE shall not engage in any illegal or unethical conduct, or any activity which would constitute a conflict of interest."See page(s) 4.1001 in the Fraud Examiner’s Manual

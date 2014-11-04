@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Materiality in a CFE's report is determined by the perceptions and conclusions of the report's user.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Evidence and conclusions are material if knowledge of them would affect a client's decisions based on a CFE's report. Materiality is a user-oriented concept. If matters omitted from the report were known to the users, and their own perceptions and conclusions would be different in light of this knowledge, the omitted information is material. CFEs are placed in the difficult position of determining not what they consider important and material, but what they think the users will consider important and material.See page(s) 4.1020 in the Fraud Examiner’s Manual

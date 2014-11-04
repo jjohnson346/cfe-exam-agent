@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to AU 316, judgments about a company's risk of material misstatement due to fraud have an effect on which of the following aspect(s) of an audit?
+
+Options=Choice of auditing procedures | Consideration of accounting principles used | Assignment and supervision of personnel | All of the above
+
+CorrectResponse=3
+
+Explanation=According to AU 316, judgments about the risk of material misstatements due to fraud have an overall effect on how the audit is conducted in several ways:‰?¢	Assignment of personnel and supervision. The auditor may need to consult with specialists in a particular field.‰?¢	Accounting principles. The auditor should consider management's selection and application of significant accounting principles.‰?¢	Predictability of auditing procedures. The auditor should incorporate an "element of unpredictability" in the selection of auditing procedures to be performed.See page(s) 1.228-1.229 in the Fraud Examiner's Manual

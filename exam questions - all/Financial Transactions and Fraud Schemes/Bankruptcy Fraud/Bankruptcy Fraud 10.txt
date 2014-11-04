@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=You are an accountant. One of your clients files bankruptcy. Several months later, the bankruptcy trustee calls and says that she wants to review your work papers and client documents. Which of the following is true?
+
+Options=The trustee has the right to review all of your documents regarding the client | You cannot allow the trustee to review the documents without a court order | You are prohibited from providing the documents without your client's written permission | The trustee has no authority to request the documents
+
+CorrectResponse=0
+
+Explanation=The trustee's powers enable him to gather financial information from various sources including the debtor’s attorneys and accountants. A trustee steps into the shoes of the debtor which allows him the opportunity to break the attorney-client privilege. Attorneys might attempt to raise the attorney-client privilege as a defense to providing information, but they are usually unsuccessful in this regard. Since the trustee is now the client, he must be able to understand what legal actions need to be taken. Therefore, it is imperative that the debtor’s attorney cooperate with the trustee. The trustee also should have access to the accountant’s work papers, tax returns, and client documents, which might provide the trustee and creditors v/ith the opportunity to locate and recover hidden assets. Another useful tool in the trustee's arsenal is the power to have access to debtor’s records that are in the possession of the criminal authorities. Since the trustee steps into the shoes of the debtor, he has the right to inspect and use these records to conduct the business affairs of the debtor.See page(s) 1.1310 in the Fraud Examiner's Manual

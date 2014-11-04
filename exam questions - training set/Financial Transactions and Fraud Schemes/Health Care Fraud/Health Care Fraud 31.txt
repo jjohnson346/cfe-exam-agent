@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=One form of psychiatric treatment abuse involves the use and submission of insurance claims for illegitimate, questionable, non-approved, or dangerous psychiatric treatments
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The following types of abuses can occur with regard to psychiatric treatment:‰?¢	Extending the length of treatment programs or delaying discharges because patients have additional insurance benefits remaining‰?¢	The use of illegitimate, questionable, non-approved, or dangerous treatment programs and forms of therapy, such as brain wave synchronization, magnet therapy, memory retrieval/enhancement therapy, and deep sleep therapy‰?¢	Engaging in excessive treatment of psychiatric patients such as thyroid testing, drug tests, or psychiatric evaluation testsSee page(s) 1.1239 in the Fraud Examiner‰??s Manual

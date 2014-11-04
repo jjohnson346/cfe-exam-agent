@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=During the introductory part of the interview, the interviewer should be about ____________________ from the respondent.
+
+Options=Four to six feet | Six to ten feet | Two to three feet | None of the above
+
+CorrectResponse=0
+
+Explanation=During the introductory part of the interview, the interviewer generally should remain at a distance of four to six feet. Do not invade the personal zone (closer than about three feet) as it might make the respondent uncomfortable.See page(s) 3.221 in the Fraud Examiner's Manual

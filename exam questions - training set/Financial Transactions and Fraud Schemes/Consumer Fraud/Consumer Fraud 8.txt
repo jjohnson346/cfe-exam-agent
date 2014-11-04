@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Telemarketing schemes target individuals, not businesses.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Telemarketing offenses are classified as consumer fraud, yet many businesses are affected by office supply and marketing services scams. The hit-and-run nature of phone rooms, the geographical distances between the crooks and their victims, and the resources and priorities of lav/ enforcement agencies all make enforcement efforts difficult. Only about one in 100 victims ever files a complaint.

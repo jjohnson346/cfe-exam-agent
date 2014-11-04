@@ -1,0 +1,28 @@
+Token                          Frequency
+-----------------------------  ---------
+methods                                1
+reports                                1
+is                                     2
+involves                               1
+accounts                               1
+second                                 1
+schemes                                1
+detecting                              1
+a                                      2
+reimbursement                          2
+the                                    2
+analysis                               1
+fraud                                  1
+and                                    1
+of                                     4
+two                                    1
+detection                              2
+expense                                4
+basic                                  1
+detailed                               1
+method                                 1
+first                                  1
+review                                 2
+these                                  1
+
+Totals:                     24        36

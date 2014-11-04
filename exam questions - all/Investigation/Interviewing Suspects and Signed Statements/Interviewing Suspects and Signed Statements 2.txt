@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In interview situations, the skillful interviewer knows that the reason most employees commit fraud is because of:
+
+Options=A need for money | Personality defects | Poor cash management | None of the above 
+
+CorrectResponse=3
+
+Explanation=Probably the most common explanation for criminal activity in general, and internal fraud in particular, is in the accused’s attempt to achieve equity. Studies have shown that counter-productive employee behavior—including stealing—is motivated primarily by job dissatisfaction. Employees and others feel that "striking back" is important to their selfesteem. The sensitive interviewer can capitalize on these feelings by suggesting to the accused that he is a victim.See page(s) 3.255-3.256 in the Fraud Examiner's Manual

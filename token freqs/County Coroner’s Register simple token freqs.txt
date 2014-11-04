@@ -1,0 +1,30 @@
+Token                          Frequency
+-----------------------------  ---------
+cause                                  1
+contains                               1
+coroner                                2
+its                                    1
+date                                   1
+de                                     1
+of                                     3
+inquest                                1
+ceased                                 1
+description                            1
+generally                              1
+if                                     1
+name                                   1
+any                                    1
+on                                     1
+deceased                               1
+disposition                            1
+death                                  1
+or                                     1
+a                                      2
+property                               1
+the                                    4
+and                                    2
+register                               2
+county                                 2
+found                                  1
+
+Totals:                     26        36

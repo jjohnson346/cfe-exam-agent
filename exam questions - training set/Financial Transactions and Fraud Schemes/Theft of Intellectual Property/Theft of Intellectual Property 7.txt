@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=When a hacker calls up someone at the target company and cajoles or tricks the person into providing valuable information, that technique is referred to as which of the following?
+
+Options=Social engineering | Spamming | Replicating | None of the above
+
+CorrectResponse=0
+
+Explanation=In a social engineering scheme, the information thief manipulates people into handing over secret information through use of trickery, persuasion, threats, or cajolery. The social engineer usually, though not always, operates by phone or email. In some cases, the social engineer obtains direct information from his victim about a company‰??s business operations, contracts, customer lists, or so on. In other cases, a hacker uses social engineering to obtain passwords or otherwise gain access to a computer system. Social engineering is thought to play at least some part in most computer system penetrations.See page(s) 1.847 in the Fraud Examiner's Manual

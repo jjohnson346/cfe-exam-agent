@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=One technique to prevent check and credit card fraud is the use of a "micro-line." This technique is useful because:
+
+Options=The line is actually a small hologram which is hard to recreate by counterfeiters | The line is made up of very small words or letters that are difficult to recreate by normal printing methods | An authentic line will change colors when held up to a light | The line contains a magnetic stripe that is read by a computer
+
+CorrectResponse=1
+
+Explanation=One technique used to prevent check and credit card fraud involves a printed “micro-line" that appears as a solid line when viewed normally. But using a magnifying glass will show that the line is actually very small words or letters, which are very difficult to recreate with the normal printing process. Other security measures include using a three dimensional hologram that is easily identifiable by the human eye, but is impossible to reproduce via ordinary copying or printing. Some checks have a security seal on the back of the check that is visible when held up to a light. Reproductions, even good ones, will not have a seal.See page(s) 1.1010 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=In order to charge someone with mail fraud, the mailing must contain a fraudulent representation.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The gist of the mail fraud offense is the use of the mails; without it, no matter how large or serious the fraud, there is no federal jurisdiction. The mailing itself does not need to contain false and fraudulent representations, as long as it is an "integral" part of the scheme.See page(s) 2.231 in the Fraud Examiner's Manual

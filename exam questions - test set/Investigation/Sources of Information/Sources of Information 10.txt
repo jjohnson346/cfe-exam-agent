@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The first three digits of a Social Security number (with the exception of the 700 series) reflect:Previous1X,å©Web CameraB00
+
+Options=State of issue | City of issue | Individual identifiers | None of the above
+
+CorrectResponse=0
+
+Explanation=With the exception of the 700 series, the first three digits of a Social Security number reflect the state of issue.	See page(s) 3.434 in the Fraud Examiner's Manual

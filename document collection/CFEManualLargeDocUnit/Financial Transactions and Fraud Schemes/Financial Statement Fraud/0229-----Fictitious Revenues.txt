@@ -1,0 +1,140 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/FINANCIAL STATEMENT FRAUD/Financial Statement Fraud Schemes/Fictitious Revenues
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Financial Statement Fraud
+
+
+:
+
+
+Fictitious Revenues  
+Fictitious or fabricated revenues involve the recording of sales of goods or services that did 
+not occur. Fictitious sales most often involve fake or phantom customers, but can also 
+involve legitimate customers. For example, a fictitious invoice can be prepared (but not 
+mailed) for a legitimate customer although the goods are not delivered or the services are not 
+rendered. At the beginning of the next accounting period, the sale might be reversed to help 
+conceal the fraud, but this may lead to a revenue shortfall in the new period, creating the 
+need for more fictitious sales. Another method is to use legitimate customers and artificially 
+inflate or alter invoices reflecting higher amounts or quantities than are actually sold.  
+ 
+Generally speaking, revenue is recognized when it is (1) realized or realizable, and (2) earned. 
+The Securities and Exchange Commission (SEC) issued Staff Accounting Bulletin (SAB) 
+Topic 13, Revenue Recognition (now codified in FASB ASC 605-10-S99), to provide additional 
+guidance on revenue recognition criteria and to rein in some of the inappropriate practices 
+that had been observed. FASB ASC 605-10-S99 states that revenue is typically considered 
+realized or realizable, and earned when all of the following criteria are met: 
+• Persuasive evidence of an arrangement exists; 
+• Delivery has occurred or services have been rendered; 
+• The seller’s price to the buyer is fixed or determinable; and 
+• Collectibility is reasonably assured. 
+ 
+EXAMPLE OF FICTITIOUS REVENUES 
+In one case, a foreign subsidiary of a U.S. company recorded several large fictitious sales to 
+a series of companies. They invoiced the sa les but did not collect any of the accounts 
+receivable, which became severely past due. The manager of the foreign subsidiary arranged 
+for false confirmations of  the accounts receivable for audit purposes and even hired actors to 
+pretend to be the customers during a visit fr om U.S. management. Background checks on 
+the customers would have revealed that some of the companies were fictitious while others 
+either were undisclosed related parties or operated in industries that would have no need for 
+the goods supposedly supplied. An investigation  revealed that the manager of the foreign 
+subsidiary directed the scheme to record fictitious revenues in order to meet unrealistic 
+revenue goals set by U.S. management.  
+ 
+In some cases, companies go to great lengths to conceal fictitious sales. A sample journal 
+entry from such a case is detailed below. A fictional entry is made to record a purported 
+Financial Transactions  Financial Statement Fraud 
+2011 Fraud Examiners Manual   1.311 
+purchase of fixed assets. This entry debits fixed assets for the amount of the alleged 
+purchase and the credit is to cash for the payment: 
+ 
+Date Description Ref. Debit Credit 
+12/01/X1 Fixed Assets 104 350,000  
+ Cash 101  350,000 
+ 
+A fictitious sales entry is then made for the same amount as the false purchase, debiting 
+accounts receivable and crediting the sales account. The cash outflow that supposedly paid 
+for the fixed assets is “returned” as payment on the receivable account, though in practice 
+the cash might never have moved if the fraudsters didn’t bother to falsify that extra 
+documentary support. 
+ 
+Date Description Ref. Debit Credit 
+12/01/X1 Accounts Rec 120 350,000  
+ Sales 400  350,000 
+12/15/X1 Cash 101 350,000  
+ Accounts Rec 120  350,000 
+ 
+The result of this completely fabricated sequence of events is an increase in both fixed assets 
+and revenue. The debit could alternatively have been directed to other accounts, such as 
+inventory or accounts payable, or simply left in accounts receivable if the fraud were 
+committed close to the year’s end and the receivable could be left outstanding without 
+attracting undue attention. 
+ 
+
+
+
+:
+
+
+fictiti revenu
+fictiti or fabric revenu involv the record of sale of good or servic that did
+not occur fictiti sale most often involv fake or phantom custom but can also
+involv legitim custom for exampl a fictiti invoic can be prepar but not
+mail for a legitim custom although the good ar not deliv or the servic ar not
+render at the begin of the next account period the sale might be revers to help
+conceal the fraud but thi mai lead to a revenu shortfal in the new period creat the
+need for more fictiti sale anoth method is to us legitim custom and artifici
+inflat or alter invoic reflect higher amount or quantiti than ar actual sold
+gener speak revenu is recogn when it is 1 realiz or realiz and 2 earn
+the secur and exchang commiss sec issu staff account bulletin sab
+topic 13 revenu recognit now codifi in fasb asc 60510s99 to provid addit
+guidanc on revenu recognit criteria and to rein in some of the inappropri practic
+that had been observ fasb asc 60510s99 state that revenu is typic consid
+realiz or realiz and earn when all of the follow criteria ar met
+persuas evid of an arrang exist
+deliveri ha occur or servic have been render
+the seller price to the buyer is fix or determin and
+collect is reason assur
+exampl of fictiti revenu
+in on case a foreign subsidiari of a us compani record sever larg fictiti sale to
+a seri of compani thei invoic the sa le but did not collect ani of the account
+receiv which becam sever past due the manag of the foreign subsidiari arrang
+for fals confirm of the account receiv for audit purpos and even hire actor to
+pretend to be the custom dure a visit fr om us manag background check on
+the custom would have reveal that some of the compani were fictiti while other
+either were undisclos relat parti or oper in industri that would have no need for
+the good supposedli suppli an investig reveal that the manag of the foreign
+subsidiari direct the scheme to record fictiti revenu in order to meet unrealist
+revenu goal set by us manag
+in some case compani go to great length to conceal fictiti sale a sampl journal
+entri from such a case is detail below a fiction entri is made to record a purport
+financi transact financi statement fraud
+2011 fraud examin manual 1311
+purchas of fix asset thi entri debit fix asset for the amount of the alleg
+purchas and the credit is to cash for the payment
+date descript ref debit credit
+1201x1 fix asset 104 350000
+cash 101 350000
+a fictiti sale entri is then made for the same amount as the fals purchas debit
+account receiv and credit the sale account the cash outflow that supposedli paid
+for the fix asset is return as payment on the receiv account though in practic
+the cash might never have move if the fraudster didnt bother to falsifi that extra
+documentari support
+date descript ref debit credit
+1201x1 account rec 120 350000
+sale 400 350000
+1215x1 cash 101 350000
+account rec 120 350000
+the result of thi complet fabric sequenc of event is an increas in both fix asset
+and revenu the debit could altern have been direct to other account such as
+inventori or account payabl or simpli left in account receiv if the fraud were
+commit close to the year end and the receiv could be left outstand without
+attract undu attent

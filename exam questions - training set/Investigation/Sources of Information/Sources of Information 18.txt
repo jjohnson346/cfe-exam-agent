@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Lyle, a Certified Fraud Examiner, is interested in a civil lawsuit that was rumored to have been filed in a state court against Blake, a fraud suspect. In order to obtain confirmation of the civil litigation, Lyle should contact:
+
+Options=The court clerk's office in the jurisdiction where the litigation was filed | Nobody, since the records are not public | The Civil Litigation Clearing Center | The Secretary of State's office
+
+CorrectResponse=0
+
+Explanation=Court clerks maintain files on all active and closed lawsuits in their jurisdictions. Many of the civil suits are readily accessible as a public record; however, criminal and juvenile actions might not be as open to review. Court levels vary by jurisdiction, as do the names of the levels. Different case types are filed at different levels and in different courts. Often, civil or criminal actions might not be readily known and the researcher must be able to identify the jurisdiction, county, or court involved. The researcher might be required to check several courts and several levels to uncover the information desired.See page(s) 3.414-3.415 in the Fraud Examiner's Manual

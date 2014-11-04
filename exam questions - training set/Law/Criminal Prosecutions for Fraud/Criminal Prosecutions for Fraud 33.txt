@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The parties to a trial may have fewer than 12 jurors.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Most criminal cases are tried by a jury of 12 with at least two alternates, but the parties may stipulate to a lesser number.

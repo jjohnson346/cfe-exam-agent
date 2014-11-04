@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Which of the following is an appropriate defense to tax fraud penalties?
+
+Options=Mental illness | Amended return | Bankruptcy | Death of the taxpayer
+
+CorrectResponse=0
+
+Explanation=Some defenses are inappropriate They include: an amended or delinquent tax return, the three-year statute of limitations, the death of the taxpayer, and bankruptcy. Mental illness may be an appropriate defense.See page(s) 1.1411 in the Fraud Examiner's Manual

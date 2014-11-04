@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Fraud in financial statements generally takes the form of overstated assets or revenue and understated liabilities or expenses.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraud in financial statements takes the form of overstated assets or revenue and understated liabilities and expenses. Overstating assets and revenues falsely reflects a financially stronger company by inclusion of fictitious asset costs or artificial revenues. Understated liabilities and expenses are shown through exclusion of costs or financial obligations. Both methods result in increased equity and net worth for the company. This overstatement and/or understatement results in increased earnings per share or partnership profit interests or a more stable picture of the company‰??s true situationSee page(s) 328-329 in the Corporate Fraud Handbook

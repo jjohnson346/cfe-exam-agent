@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=A check or draft that is presented for payment where the depository bank is also the payor bank is a:
+
+Options=Clearinghouse item | Deposit ticket | On-us item | Negotiated check
+
+CorrectResponse=2
+
+Explanation=An on-us item is a check or draft that is presented for payment where the depository bank is also the payor bank. For example, a check written by a customer of one bank is deposited by the payee at another branch of the same bank. The bank should be able to trace the source of any on-us items. The source might be loan proceeds, certificates of deposit, wire transfers, bank checks, or checks from other deposits at that bank. If the deposit is the proceeds from a loan, obtain and analyze the loan file (examination of the loan file is discussed later in this chapter). If the deposit came from a wire transfer, trace the wire transfer to the originating bank to see where the funds for the wire transfer originated. This search could lead to other accounts, other witnesses, co-conspirators, or offshore transactions.See page(s) 3.816 in the Fraud Examiner's Manual

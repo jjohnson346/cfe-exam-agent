@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=When a detective searches for a suspect's motive, the detective is using behaviorist methods of analysis.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When a detective searches for a suspect‰??s motive, the detective is using behaviorist methods of analysis. The suspect, it is assumed, was stimulated by some arrangement of factors. Many courses in criminology are built around the fundamental premise that crimes are particular sorts of behavior and best understood as the product of operant conditioning.See page(s) 4.101 in the Fraud Examiner's Manual

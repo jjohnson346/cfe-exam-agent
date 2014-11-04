@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=In preparing a memorandum reflecting information furnished by a confidential source, how should the source usually be identified on paper?
+
+Options=Confidential source information should not be written down in a report | By name | Symbols | None of the above
+
+CorrectResponse=2
+
+Explanation=When reporting contacts, it is recommended that all contact with informants and sources be reported on a memorandum of interview, although the confidential source‰??s or informant‰??s identity should not be included in the report. Symbols to denote the informant's identity should be used. It is further recommended that sources be preceded with an ‰??S' followed by a unique identifier (i.e., source #1 would be ‰??S-1"; source #2 would be ‰??S-2‰??). The symbols for informants would then be ‰??1-1" and ‰??I-2.‰??See page(s) 3.317 in the Fraud Examiner's Manual

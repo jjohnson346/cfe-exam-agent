@@ -1,0 +1,283 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BANKRUPTCY FRAUD/Introduction
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Bankruptcy Fraud
+
+
+:
+
+
+Introduction 
+ 
+The Bankruptcy System and Players 
+Bankruptcy Court 
+All bankruptcy cases are filed in the local district of the United States Bankruptcy Court. 
+Although bankruptcy courts are federal courts, they are not Article III courts, which derive 
+their power from Article III of the Constitution. Article III states that judicial power of the 
+United States rests with the Supreme Court and in inferior courts established by Congress. 
+Article III courts include the U.S. District Courts, the U.S. Circuit Courts of Appeal, and the 
+U.S. Supreme Court.  
+ 
+Bankruptcy courts are not contemplated within this scheme as “inferior” courts, but they are 
+considered as an adjunct to “inferior” U.S. District Courts. 
+ 
+Likewise, bankruptcy judges are not Article III judges, which derive their power from Article 
+III of the Constitution. Bankruptcy judges hear all cases involving debtors’ and creditors’ 
+rights, approve plans of reorganization, award fees to professionals, and conduct hearings 
+and trials when necessary to resolve disputes. 
+ 
+Office of the United States Trustee  
+The Office of the United States Trustee is a Department of Justice agency that is responsible 
+for administering bankruptcy cases; appointing trustees, examiners, and Chapter 11 
+committees; overseeing and monitoring trustees; reviewing employment and fee applications; 
+and appearing in court on matters of interest to the estate and creditors.  
+ 
+There are 21 regions in the Office of the U.S. Trustee comprising one or more federal 
+districts. Each region consists of a U.S. Trustee (or an Assistant Trustee in several regions). 
+The Office of the UST in each region principally is comprised of staff attorneys, bankruptcy 
+analysts (including accountants) and, in some instances, special investigative units. 
+ 
+Staff attorneys review pleadings (e.g., fee applications and motions to appoint trustees and 
+examiners) and represent the UST on these matters.  
+ 
+Bankruptcy Fraud  Financial Transactions   
+1.1302                           2011 Fraud Examiners Manual  
+Bankruptcy analysts analyze and review operating reports and other relevant financial 
+information and, in general, oversee the debtor’s case to ensure compliance with the 
+Bankruptcy Code and to protect the assets of the estate.  
+ 
+Special investigative units investigate criminal referrals (complaints) in bankruptcy cases. In some 
+cases they work with criminal investigative agencies, such as the Federal Bureau of 
+Investigation and the Internal Revenue Service Criminal Investigative Division. 
+ 
+Panel Trustees 
+Panel trustees are independent professionals (usually attorneys) who serve in Chapter 7 cases 
+in each federal district in the country. Trustees also might serve in Chapter 11 cases where 
+operation of the debtor’s business is considered appropriate. Trustees or others might 
+develop a plan of reorganization to conclude the Chapter 11 proceedings. If the business 
+cannot be reorganized, the trustee might petition the court to convert the case to Chapter 7 
+or develop a plan of liquidation under Chapter 11. The duties of a trustee are specifically 
+enumerated in Title 11, U.S.C., section 704 (in Chapter 7 cases) and Title 11, U.S.C., section 
+1106 (in Chapter 11 cases). The duties of a trustee are as follows: administer assets, liquidate 
+assets, pay creditors, litigate matters where necessary, have the right to sue and be sued, 
+conduct hearings, conduct investigations of financial affairs of the debtor, file reports as 
+required by the Office of the UST and, where a ppropriate, file criminal referrals with the 
+United States Attorney’s Office. A trustee’s compensation is statutorily defined under the 
+bankruptcy code. 
+ 
+Examiners 
+An examiner is normally appointed in a Chapter 11 bankruptcy proceeding to investigate 
+certain allegations of fraud and misconduct on the part of the debtor (or principals of the 
+debtor). In a typical motion for the appointment of a trustee or examiner, allegations of 
+fraud or misconduct are raised by creditors, the Office of the UST, or other interested 
+parties. A bankruptcy judge hears evidence submitted by all parties (creditors et al.), as well 
+as the debtor’s response to the allegations. After hearing the evidence, the judge has the 
+option either to appoint a trustee or an examiner, or leave the debtor in possession of the 
+business. If an examiner is appointed, the sole responsibility is to “investigate and report” 
+the results of the investigation to the court and other parties in interest as quickly as possible. 
+Examiners have the power to subpoena records and depose witnesses. They do not have the 
+power to run businesses, make business decisions, or propose plans of reorganizations 
+Financial Transactions  Bankruptcy Fraud 
+2011 Fraud Examiners Manual   1.1303 
+(generally speaking). Courts might expand the examiner’s powers to perform certain duties 
+of trustees or debtors-in-possession.  
+ 
+Debtors 
+A debtor is defined in Title 11, U.S.C., section 101(13) as a “person” or “municipality” who is 
+the subject of a filing under Title 11. “Person” is  defined as an individual, partnership, or 
+corporation. “Municipality” is defined as a political subdivision, public agency, or 
+instrumentality of a state. An individual debtor’s objective in a Chapter 7 case is to be 
+relieved of all dischargeable debts and to obtain a fresh start. This is accomplished by the 
+court granting the individual debtor a discharge. The debtor’s primary objective in a Chapter 
+11 should be to have a plan of reorganization confirmed by the court and preserve the 
+business operations. 
+ 
+Creditors 
+A creditor is defined by the code as one who holds a claim. Creditors can be either secured or 
+unsecured.  
+ 
+SECURED CREDITORS  
+A secured creditor  holds a claim for which there is a properly perfected security interest. It will 
+be considered a secured claim to the extent of the value of the property. When the debt is 
+undersecured (amount of note is greater than the value of the security interest), the debt will 
+be considered both unsecured and secured. For example, if a note for $500 is secured by 
+property having a value of $400, there will be a secured claim for $400 and an unsecured 
+claim for $100. If the debtor and the credit or cannot agree on the value of the collateral, 
+there will be a hearing under section 506 of the Bankruptcy Code and the court will 
+determine the value of the collateral. The bankruptcy court will rely on state law where the 
+property is located to determine if a secured claim exists. A security interest generally is 
+obtained in personal property by a UCC filing and in real property by filing a lien with the 
+county clerk in the county where the property is located. 
+ 
+At the time of the filing of the bankruptcy petition, an automatic stay precludes the creditor 
+from taking any action to repossess the property, unless relief from the stay is granted. In a 
+Chapter 11 case, the court generally will grant relief only if it can be shown that there is no 
+equity in the property and that the property is not needed for reorganizing the business. The 
+stay also might be removed if the property is declining in value and the debtor fails to 
+compensate the creditor for this decline (referred to as “adequate protection payments”). If 
+Bankruptcy Fraud  Financial Transactions   
+1.1304                           2011 Fraud Examiners Manual  
+the stay is removed, the creditor then can proceed under state law to obtain possession of 
+the property (often through a foreclosure) to satisfy the claim. 
+ 
+Holders of secured claims have priority over unsecured creditors and normally get paid first 
+in the distributions to creditors made by the trustee or debtor-in-possession. In the 
+development of a Chapter 11 plan, the rights of holders of secured claims normally are 
+provided for before the unsecured claim holders will receive material consideration.  
+ 
+UNSECURED CREDITORS  
+Unsecured creditors  are those that have a claim against the debtor that arose before the 
+bankruptcy petition was filed and do not have a perfected security interest. Title 11, U.S.C., 
+section 507 gives some of the holders of unsecured claims priority over other unsecured 
+claim holders. Among those claims that have priority are administrative expenses (costs 
+associated with the operation of the business and professional fees while the business or 
+individual is in bankruptcy), selected pre-petition unpaid wages, pre-petition contributions 
+required but not made to employees benefit plans, pre-petition unpaid alimony and support 
+payments, and selected pre-petition tax claims. 
+ 
+Adjusters 
+Adjusters, or operations agents as they are frequently called, are the “right hand” to trustees 
+and debtors. An adjuster or operations agent is an individual who handles the peripheral 
+duties of a trustee. Such duties include securing the business location, changing locks, 
+locating assets of the estate, locating business records, opening new bank accounts, 
+investigating thefts of assets in conjunction with the trustee, storing assets of the estate, and 
+arranging sales of assets. Adjusters also can assist debtors and trustees in operating the 
+debtor’s business and in helping to prepare bankruptcy schedules, as well as interim 
+statements and operating reports.  
+ 
+ 
+
+
+
+:
+
+
+introduct
+the bankruptci system and player
+bankruptci court
+all bankruptci case ar file in the local district of the unit state bankruptci court
+although bankruptci court ar feder court thei ar not articl iii court which deriv
+their power from articl iii of the constitut articl iii state that judici power of the
+unit state rest with the suprem court and in inferior court establish by congress
+articl iii court includ the us district court the us circuit court of appeal and the
+us suprem court
+bankruptci court ar not contempl within thi scheme as inferior court but thei ar
+consid as an adjunct to inferior us district court
+likewis bankruptci judg ar not articl iii judg which deriv their power from articl
+iii of the constitut bankruptci judg hear all case involv debtor and creditor
+right approv plan of reorgan award fee to profession and conduct hear
+and trial when necessari to resolv disput
+offic of the unit state truste
+the offic of the unit state truste is a depart of justic agenc that is respons
+for administ bankruptci case appoint truste examin and chapter 11
+committe overse and monitor truste review employ and fee applic
+and appear in court on matter of interest to the estat and creditor
+there ar 21 region in the offic of the us truste compris on or more feder
+district each region consist of a us truste or an assist truste in sever region
+the offic of the ust in each region princip is compris of staff attornei bankruptci
+analyst includ account and in some instanc special investig unit
+staff attornei review plead eg fee applic and motion to appoint truste and
+examin and repres the ust on these matter
+bankruptci fraud financi transact
+11302 2011 fraud examin manual
+bankruptci analyst analyz and review oper report and other relev financi
+inform and in gener overse the debtor case to ensur complianc with the
+bankruptci code and to protect the asset of the estat
+special investig unit investig crimin referr complaint in bankruptci case in some
+case thei work with crimin investig agenc such as the feder bureau of
+investig and the intern revenu servic crimin investig divis
+panel truste
+panel truste ar independ profession usual attornei who serv in chapter 7 case
+in each feder district in the countri truste also might serv in chapter 11 case where
+oper of the debtor busi is consid appropri truste or other might
+develop a plan of reorgan to conclud the chapter 11 proceed if the busi
+cannot be reorgan the truste might petit the court to convert the case to chapter 7
+or develop a plan of liquid under chapter 11 the duti of a truste ar specif
+enumer in titl 11 usc section 704 in chapter 7 case and titl 11 usc section
+1106 in chapter 11 case the duti of a truste ar as follow administ asset liquid
+asset pai creditor litig matter where necessari have the right to sue and be su
+conduct hear conduct investig of financi affair of the debtor file report as
+requir by the offic of the ust and where a ppropriat file crimin referr with the
+unit state attornei offic a truste compens is statutorili defin under the
+bankruptci code
+examin
+an examin is normal appoint in a chapter 11 bankruptci proceed to investig
+certain alleg of fraud and misconduct on the part of the debtor or princip of the
+debtor in a typic motion for the appoint of a truste or examin alleg of
+fraud or misconduct ar rais by creditor the offic of the ust or other interest
+parti a bankruptci judg hear evid submit by all parti creditor et al as well
+as the debtor respons to the alleg after hear the evid the judg ha the
+option either to appoint a truste or an examin or leav the debtor in possess of the
+busi if an examin is appoint the sole respons is to investig and report
+the result of the investig to the court and other parti in interest as quickli as possibl
+examin have the power to subpoena record and depos wit thei do not have the
+power to run busi make busi decis or propos plan of reorgan
+financi transact bankruptci fraud
+2011 fraud examin manual 11303
+gener speak court might expand the examin power to perform certain duti
+of truste or debtorsinpossess
+debtor
+a debtor is defin in titl 11 usc section 10113 as a person or municip who is
+the subject of a file under titl 11 person is defin as an individu partnership or
+corpor municip is defin as a polit subdivis public agenc or
+instrument of a state an individu debtor object in a chapter 7 case is to be
+reliev of all discharg debt and to obtain a fresh start thi is accomplish by the
+court grant the individu debtor a discharg the debtor primari object in a chapter
+11 should be to have a plan of reorgan confirm by the court and preserv the
+busi oper
+creditor
+a creditor is defin by the code as on who hold a claim creditor can be either secur or
+unsecur
+secur creditor
+a secur creditor hold a claim for which there is a properli perfect secur interest it will
+be consid a secur claim to the extent of the valu of the properti when the debt is
+undersecur amount of note is greater than the valu of the secur interest the debt will
+be consid both unsecur and secur for exampl if a note for 500 is secur by
+properti have a valu of 400 there will be a secur claim for 400 and an unsecur
+claim for 100 if the debtor and the credit or cannot agre on the valu of the collater
+there will be a hear under section 506 of the bankruptci code and the court will
+determin the valu of the collater the bankruptci court will reli on state law where the
+properti is locat to determin if a secur claim exist a secur interest gener is
+obtain in person properti by a ucc file and in real properti by file a lien with the
+counti clerk in the counti where the properti is locat
+at the time of the file of the bankruptci petit an automat stai preclud the creditor
+from take ani action to repossess the properti unless relief from the stai is grant in a
+chapter 11 case the court gener will grant relief onli if it can be shown that there is no
+equiti in the properti and that the properti is not need for reorgan the busi the
+stai also might be remov if the properti is declin in valu and the debtor fail to
+compens the creditor for thi declin refer to as adequ protect payment if
+bankruptci fraud financi transact
+11304 2011 fraud examin manual
+the stai is remov the creditor then can proce under state law to obtain possess of
+the properti often through a foreclosur to satisfi the claim
+holder of secur claim have prioriti over unsecur creditor and normal get paid first
+in the distribut to creditor made by the truste or debtorinpossess in the
+develop of a chapter 11 plan the right of holder of secur claim normal ar
+provid for befor the unsecur claim holder will receiv materi consider
+unsecur creditor
+unsecur creditor ar those that have a claim against the debtor that aros befor the
+bankruptci petit wa file and do not have a perfect secur interest titl 11 usc
+section 507 give some of the holder of unsecur claim prioriti over other unsecur
+claim holder among those claim that have prioriti ar administr expens cost
+associ with the oper of the busi and profession fee while the busi or
+individu is in bankruptci select prepetit unpaid wage prepetit contribut
+requir but not made to employe benefit plan prepetit unpaid alimoni and support
+payment and select prepetit tax claim
+adjust
+adjust or oper agent as thei ar frequent call ar the right hand to truste
+and debtor an adjust or oper agent is an individu who handl the peripher
+duti of a truste such duti includ secur the busi locat chang lock
+locat asset of the estat locat busi record open new bank account
+investig theft of asset in conjunct with the truste store asset of the estat and
+arrang sale of asset adjust also can assist debtor and truste in oper the
+debtor busi and in help to prepar bankruptci schedul as well as interim
+statement and oper report

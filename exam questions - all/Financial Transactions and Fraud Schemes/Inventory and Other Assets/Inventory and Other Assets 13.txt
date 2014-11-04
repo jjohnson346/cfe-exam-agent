@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=There is nothing inherently wrong with related party transactions, as long as they are fully disclosed and are at arm's-length.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=There is nothing inherently wrong with related party transactions, as long as they are fully disclosed. However, if the transactions are not conducted at an arm’s-length basis, the company may suffer economic harm, injuring shareholders.See page(s) 374 in the Corporate Fraud Handbook

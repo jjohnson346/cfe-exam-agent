@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=The most difficult part of a shell company scheme, from the fraudster's perspective, is producing invoices for fictitious goods or services.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The difficulty in a shell company scheme is not usually in producing the invoices, but in getting the victim company to pay them. Authorization for the fictitious purchase (and therefore payment of the bill) is the key. In a large percentage of the shell company cases in our study, the fraudster was in a position to approve payment on the very invoices he was fraudulently submitting.See page(s) 1S8 in the Corporate Fraud Handbook

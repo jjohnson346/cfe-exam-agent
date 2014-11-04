@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Generic fraud risk assessment frameworks are valuable because they have been developed to work perfectly for every organization.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=What works in one organization most likely will not easily work in another. Recognizing the nuances and differences of each business and tailoring the approach and execution to the specific organization can help make the fraud risk assessment successful. While a generic framework or toolset can be a valuable starting point for the development of the fraud risk assessment, it must be adapted to fit the business model, culture, and language of the organization. See page(s) 4.808 in the Fraud Examiner's Manual

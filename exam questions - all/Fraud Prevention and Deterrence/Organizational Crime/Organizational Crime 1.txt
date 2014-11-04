@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Under the Corporate Sentencing Guidelines, if an offending organization violates its probation, the penalties can include any of the following options EXCEPT:
+
+Options=New trial | The imposition of more restrictive conditions | Resentencing | None of the above
+
+CorrectResponse=0
+
+Explanation=If an offending organization violates its probation, this may result in:	•	Resentencing •	The terms of probation being extended •	The imposition of more restrictive conditions	See page(s) 4.524 in the Fraud Examiner's Manual

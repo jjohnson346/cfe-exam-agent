@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=5Gray, an internal auditor and Blue, an accounts receivable clerk, have had several heated disagreements over accounting procedures and policies. Gray has just been told that he will be the lead on the company's fraud risk assessment. During the fraud risk assessment, Gray should:
+
+Options=Include his disagreements with Blue as a factor when assessing the risk of fraud in the accounts receivable department | Confront Blue about the disagreements and discuss how they increase the department's risk of fraud | Automatically designate the accounts receivable department as a high-risk area | Have someone else perform the fraud risk assessment work related to the accounts receivable department's activities
+
+CorrectResponse=3
+
+Explanation=The people leading and conducting the work should be thoughtful and mindful about any personal biases they may have regarding the organization and the people within it, taking steps to reduce or eliminate all biases that may affect the fraud risk assessment process. For example, if an employee on the fraud risk assessment team had a very bad past experience with someone in the accounts payable department, he might allow that experience to affect his evaluation of the fraud risks related to that area of the business. To compensate for this bias, someone else should perform the fraud risk assessment work related to the accounts payable department’s activities.See page(s) 4.805 in the Fraud Examiner's Manual

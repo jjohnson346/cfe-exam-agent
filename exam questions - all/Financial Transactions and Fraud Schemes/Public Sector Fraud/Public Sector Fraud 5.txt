@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Government Auditing Standards, also known as the Yellow Book, apply to which of the following?
+
+Options=Performance audits | Financial audits | Financial-related audits | All of the above
+
+CorrectResponse=3
+
+Explanation=Government Auditing Standards, also known as the Yellow Book, are required to be followed by auditors and audit organizations when mandated by law, regulation, agreement, contract, or policy. Specifically, the Government Yellow Book standards apply to two types of governmental audits: financial audits (including financial-related audits) and performance audits.See page(s) 1.1901-1.1902 in the Fraud Examiner's Manual

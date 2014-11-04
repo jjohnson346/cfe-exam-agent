@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following accounts has the greatest potential of harboring smaller embezzlements?
+
+Options=Advertising expense | Travel and entertainment expenses | Revenue | AJI of the above
+
+CorrectResponse=1
+
+Explanation=Employees can manipulate an organization's expense reimbursement procedures to generate fraudulent disbursements. The four most common types of expense reimbursement schemes are mischaracterized expenses, overstated expenses, fictitious expenses, and multiple reimbursements. Overall, the best detection method for these types of schemes is a detailed review of employee expense reports. Additionally, the travel and entertainment expense accounts should be periodically audited, as these accounts are the most susceptible to the small fraudulent disbursements caused by expense reimbursement schemes.See page(s) 1.571 in the Fraud Examiner's Manual

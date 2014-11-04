@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=The use of trickery and deceit to obtain a confession will always render the confession inadmissible in a court of law.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Surprisingly, the use of deception to gain information can sometimes be employed legally. The theory is that information can be obtained by nearly any means, with the exception of force or threats. The interviewer, however, may not employ any deception likely to cause the innocent person to confess. The use of deception is not justified regarding promises of leniency, promises of confidentiality, or to obtain a monetary or business advantage.See page(s) 3.205 in the Fraud Examiner's Manual

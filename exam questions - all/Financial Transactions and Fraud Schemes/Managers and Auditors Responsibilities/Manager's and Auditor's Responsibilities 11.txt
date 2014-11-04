@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=At the close of an integrated audit performed under PCAOB Auditing Standard No. 5, the auditor may choose to issue a single report containing both an opinion on the company's financial statements and an opinion on its internal control over financial reporting, or to issue a separate report for each opinion.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=According to PCAOB Auditing Standard No. 5, at the close of the integrated audit, the auditor may choose to issue a single report containing both an opinion on the company’s financial statements and an opinion on its ICOFR, or to issue a separate report for each opinion.See page(s) 1.238 in the Fraud Examiner's Manual

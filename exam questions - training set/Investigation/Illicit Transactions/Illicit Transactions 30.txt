@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=If your suspect is investing alleged illicit payments in items that will increase his net worth, which of the following net-worth methods would yield the best result?
+
+Options=The expenditures method | The application of funds method | The income method | None of the above
+
+CorrectResponse=3
+
+Explanation=There are two basic methods of net-worth computation: the asset method, and the expenditures or sources and applications of funds method. The asset method should be used when the subject has invested illegal funds to accumulate wealth and acquire assets, causing net worth (value of assets over liabilities) to increase from year to year. The expenditures method is best used when the subject spends illicit income on consumables (such as travel and entertainment) that would not cause an increase in net worth.See page(s) 3.835 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=If an investment offering falls within the definition of a "security" under the Securities Act of 1933, it must be registered - there are no exceptions or exemptions.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Even though an offering may be considered a security under the 1933 Act. it may not have to be registered. The Act does provide some limited exemptions. Examples of exemptions under the 1933 Act include securities issued by the U.S. Government and those issued by state or local governments. Registration is also not required for limited offerings of securities issued pursuant to Regulation D of the Act.See page(s) 1.1544 in the Fraud Examiner‰??s Manual

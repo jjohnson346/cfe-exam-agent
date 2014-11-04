@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Beta, a Certified Fraud Examiner, is conducting an admission-seeking interview of Delta, a fraud suspect. In establishing a rationalization, Beta said to Delta: "I know you didn't do this for yourself; it was for your family." This technique is called:
+
+Options=Minor moral infraction | Altruism | Genuine Need | None of the above
+
+CorrectResponse=1
+
+Explanation=In many cases, the moral seriousness of the matter can be reduced by claiming the action was for the benefit of others. This is especially true if the accused views himself as a caring person. This is known as "altruism." In establishing this rationalization, the interviewer might say something similar to the following examples: "I know you didn’t do this for yourself. I have looked into this matter carefully, and I think you did this to help your husband, didn't you?" "You have a big responsibility in this company. A lot of people depend on you for their jobs. I just know you did this because you thought you were doing the right thing for the company, didn't you?"See page(s) 3.260 in the Fraud Examiner's Manual

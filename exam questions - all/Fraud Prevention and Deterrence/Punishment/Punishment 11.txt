@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=In the criminal justice system, which of the following sanctions are available to the courts?
+
+Options=Probation | Incapacitation | Pretrial diversion | All of the above are options
+
+CorrectResponse=3
+
+Explanation=There are a variety of sanctions available to the judge and, when they are charged with imposing sentences, the jury as well. Among others, there is pre-trial diversion, probation, and incapacitation or incarceration. If the sentence is imprisonment, it may be made under rules that dictate a determinate sentence (such as five years) or an indeterminate sentence (such as five to ten years). There are some offenses where the sentence is mandatory, dictated by a set of guidelines which typically allow for a decrease or increase of the stipulated amount of time to be served if certain other circumstances are present (for instance, whether the offender was armed).See page(s) 4.302 in the Fraud Examiner's Manual

@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+inspects                               1
+interstate                             1
+highway                                2
+licenses                               1
+its                                    1
+regulates                              1
+commerce                               1
+violations                             1
+of                                     4
+federal                                2
+motor                                  2
+inspections                            1
+carrier                                1
+all                                    1
+keeps                                  1
+it                                     1
+a                                      1
+the                                    1
+in                                     1
+and                                    2
+history                                1
+carriers                               2
+operating                              1
+registers                              1
+each                                   1
+records                                1
+administration                         2
+
+Totals:                     27        36

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=When conducting interviews, it is generally best to seek general information before seeking details.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=As a general rule, questioning should proceed from the general to the specific; that is, it is best to seek general information before seeking details. A variation is to "reach backward" with the questions, by beginning with known information and working toward unknown areas. An efficient method of doing this is to recount the known information and then frame the next question as a logical continuation of the facts previously related. It is common, especially in accounting and fraud-related matters, for figures or numbers to be critical. Unfortunately, some witnesses are unable to recall specific amounts. The interviewer can jog the memory of the respondent by comparing unknown items with items of known quantity.See page(s) 3.222 in the Fraud Examiner's Manual

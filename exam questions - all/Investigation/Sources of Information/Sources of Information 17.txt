@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Federal and state criminal conviction records are not available to the general public unless a judicial order has been issued.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although most of the papers filed in civil suits are accessible as public records, criminal and juvenile actions may not be as open to review. But generally, criminal conviction records are available to the publicSee page(s) 3.414 in the Fraud Examiner's Manual

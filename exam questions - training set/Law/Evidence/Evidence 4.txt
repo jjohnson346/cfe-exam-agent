@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Evidence which is proved indirectly and depends on the strength of the inference raised by the evidence is called:
+
+Options=Circumstantial evidence | Material evidence | Indirect evidence | None of the above
+
+CorrectResponse=0
+
+Explanation=Evidence may be either direct or circumstantial. Direct evidence includes testimony that tends to prove or disprove a fact in issue directly, such as eyewitness testimony or a confession. Circumstantial evidence is evidence that tends to prove or disprove facts in issue indirectly, by inference. See page(s) 2.702 in the Fraud Examiner's Manual

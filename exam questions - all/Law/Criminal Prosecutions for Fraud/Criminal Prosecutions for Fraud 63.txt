@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A charge signed by the prosecutor without the involvement of the grand jury is called an ex parte order.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=An "information" is a charge signed only by the prosecutor without the involvement of the grand jury. A misdemeanor may be charged by either an indictment or an information.See page(s) 2.508 in the Fraud Examiner's Manual

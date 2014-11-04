@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=An employee who is responsible for entering personnel information into the company's computer system deliberately deletes payroll information in the system for several coworkers. This type of action is most properly referred to as which of the following?
+
+Options=Unauthorized access | Computer fraud | Computer crime | None of the above
+
+CorrectResponse=2
+
+Explanation=‰?? X Computer fraud is generally defined as a defalcation or embezzlement accomplished by tampering with the computer or data files. Since the employee did not stand to benefit from the action, it is not properly classified as a defalcation or embezzlement. Since the employee was given access to the system by his employer to do his job. his action cannot be classified as unauthorized access. However, since the employee deliberately destroyed computer data, his action can be classified as a computer crime. Manipulation or destruction of data is most often classified as a computer crime and not computer fraudSee page(s) 1.1804 in the Fraud Examiner's Manual

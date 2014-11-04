@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=According to the Freedom of Information Act (FOIA), which of the following are NOT deemed public records?
+
+Options=Telephone records, stock ownership records, trust recordsy | Tax rolls, real property records, divorce/probate suits | Voter registration and assumed names records | None of the above
+
+CorrectResponse=0
+
+Explanation=Information NOT deemed to be public under the FOIA includes:•	Banking records•	Trust records•	Telephone records•	Passenger lists•	Stock ownershipThe FOIA provides for public access to the following information: See page(s) 3.404 in the Fraud Examiner's Manual

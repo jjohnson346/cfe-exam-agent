@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=An insurance agent collects payment from a person for insurance, but doesn't remit the check to the insurance company, keeping the payment. This is known as:
+
+Options=Equity fraud | Churning | Premium fraud | None of the above
+
+CorrectResponse=2
+
+Explanation=In premium fraud, an agent collects the premium, but doesn‰??t remit the check to the insurance carrierSee page(s) 1.1102 in the Fraud Examiner's Manual

@@ -1,0 +1,34 @@
+Token                          Frequency
+-----------------------------  ---------
+theft                                  1
+computer                               3
+technology                             1
+data                                   1
+of                                     3
+software                               1
+time                                   1
+possible                               1
+are                                    1
+would                                  1
+crimes                                 2
+these                                  1
+be                                     1
+termed                                 1
+information                            3
+is                                     1
+cases                                  2
+kinds                                  1
+the                                    3
+in                                     1
+without                                1
+and                                    1
+include                                1
+not                                    1
+crime                                  2
+weapon                                 1
+an                                     1
+active                                 1
+examples                               1
+some                                   1
+
+Totals:                     30        41

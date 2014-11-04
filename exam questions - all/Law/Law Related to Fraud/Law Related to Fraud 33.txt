@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=____________________ is the wrongful taking and carrying away of the personal property of another with the intent to convert it or to deprive the owner of its use and possession.
+
+Options=Larceny | Theft | Conversion | None of the above
+
+CorrectResponse=0
+
+Explanation=To the ordinary layman, the words theft, fraud, embezzlement and larceny are used interchangeably. Theft and stealing have become so generically understood and so commonly used that they are considered generic terms for a range of different crimes. The words themselves are rarely used in criminal statutes. The technical charge for the kind of behavior most of us think of as theft or stealing is called ''larceny.'' Larceny can be defined as the wrongful taking and carrying away of the personal property of another with the intent to convert it or deprive the owner of its use and possession. If the taking is by stealth, the crime is larceny. If taken by false representation, the crime is fraud.See page(s) 2.209 in the Fraud Examiner's Manual

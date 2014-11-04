@@ -1,0 +1,402 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Commodity Futures, Exchange-Traded Options, and OTC Options
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Commodity Futures, Exchange-Traded Options, and OTC Options 
+There have been numerous frauds involving commodity futures, exchange-traded options, 
+and OTC options. In December 1994, Orange County California became the largest 
+municipality ever to file for bankruptcy. This was largely caused by risky investment 
+Securities Fraud  Financial Transactions   
+1.1526                           2011 Fraud Examiners Manual  
+strategies utilizing OTC options that resulted in trading losses of about $10 billion. In more 
+recent news, the catastrophic failure of Enron was partially caused by a fraudulent hedge 
+transaction utilizing an OTC option. Through a company he controlled, Andrew S. Fastow 
+sold worthless options to Enron making it appear that the value of Enron’s investment in 
+Avici Systems, Inc. was hedged. Fastow pocketed the premium for the bogus options while 
+Enron appeared to have established a hedge position, protecting the value of their 
+investment. Other notable failures related to exchange-traded derivatives include Barings 
+PLC, the 223-year-old London merchant bank that helped finance the Louisiana Purchase, 
+and the Canadian Pacific Railway, which collapsed as a result of hidden derivatives losses.  
+ 
+Derivatives trading is risky business. But a lack of adequate internal controls led to many of 
+the losses mentioned above. Internal controls must be airtight in a firm that engages in 
+hedging or trading activities using exchange-traded or OTC derivatives. Insufficient market 
+and product knowledge was also a major factor in these financial debacles.  
+ 
+Commodity Futures Primer 
+As mentioned previously, commodity futures contracts are agreements between buyers and 
+sellers to make or take delivery of a commodity at a future date, at an agreed upon price. 
+Commodity futures contracts are standardized. Contract specifications such as the contract 
+size, delivery months, commodity grade, location of delivery, and other details for each 
+futures contract are preset in the contract terms. Price and quantity are the only things 
+negotiated by the counterparties to a trade. In the United States, agricultural, industrial, and 
+financial futures are traded on organized exchanges known as contract markets. 
+ 
+The possibility of delivery keeps futures contracts in line with their underlying cash markets. 
+If a contract rises too high in price relative to the cash market, traders might sell futures with 
+the intent of making delivery. This forces the futures price down and is the reason futures 
+markets reflect the price of their underlying cash market. Some futures contracts are “cash 
+settled.” The value of these contracts is derived from an underlying index value. When a 
+futures contract is cash settled, traders will often use a calculated “fair value” to determine if 
+the futures are high or low compared to the underlying index. If fair value indicates that 
+futures are too high, a trader might sell futures, expecting the difference to narrow.  
+ 
+Futures contracts do not have any intrinsic value in and of themselves; their value is derived 
+from the underlying commodity, index, or security. Because futures contracts “derive” their 
+price from their underlying cash market, they are called derivatives. There are other 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1527 
+derivative markets, such as exchange-traded options on futures, options on securities, and 
+over-the-counter (OTC) options, which will be discussed later in this section. The contracts 
+traded on these markets also derive their values from an underlying commodity, security,  
+or index. 
+ 
+The Principle of Offset 
+One of the features of commodity futures markets that make them so liquid and cost 
+effective is the principle of offset. The obligation of the buyer (to accept future delivery) and 
+the obligation of the seller (to make future delivery) is not with each other but with the 
+central clearing function of the exchange (exchanges may have a separate clearing 
+corporation or clearing may be a part of the exchange itself). Clearing matches futures 
+transactions and becomes counterparty to both sides of the trade, eliminating counterparty 
+credit risk by guarantying both sides of the transaction. As a result, traders can liquidate their 
+positions (obligations) by merely executing an equal and opposite offsetting transaction 
+(selling out a long position or buying back a short). Clearing also transfers funds between 
+firms when futures trades are marked to market at the end of each day.  
+ 
+Trading on Margin 
+Commodity futures are traded on margin. Only a small percentage, usually about 5 percent 
+of the contract’s notional value, is required to establish a position (long or short) in a futures 
+market (notional value is the contract size in units multiplied by the price per unit). Margins 
+are set by the exchange for each commodity and are raised or lowered from time to time to 
+reflect changing market volatility and notional contract values. Brokerage firms may require 
+greater margin of their customers but may not require less than what the exchange has set. 
+Each exchange will have a margin committee made up of exchange members and support 
+personnel that monitors and evaluates the markets and makes margin changes  
+as appropriate.  
+ 
+There are two types of margin: initial margin, the amount of money per contract that must 
+be present in the account when the position is initiated, and maintenance (variation) margin, 
+the minimum amount of money per contract that must be maintained in the account while 
+the position is open. For example, a December corn contract had a closing price of $2.84 
+1/4 per bushel. The notional value of this contract is $14,212 (5,000 bushels x $2.84 1/4). 
+The initial margin requirement set by the Chicago Board of Trade (CBOT) is $810 per 
+contract, which is 5.69 percent of the notional contract value, while maintenance margin is 
+Securities Fraud  Financial Transactions   
+1.1528                           2011 Fraud Examiners Manual  
+set at $625 per contract, which is 4.39 percent of the notional contract value. Positions can 
+be liquidated without customer authorization in accounts that violate margin requirements.  
+ 
+Trading Basics 
+A trader who buys futures contracts (assuming this is not an offsetting transaction) is long 
+the market and will profit if prices rise (for example, if you bought a December corn 
+contract at $2.70 per bushel and the price rose to $2.80 per bushel, you would have an 
+unrealized profit of $500 (.10  cents x 5,000 bushels)). Because open commodity positions 
+(transactions that are not offset) are marked to market at the end of the trading day, this 
+$500 profit will be credited to your trading a ccount and is available as margin for additional 
+contract purchases. This transfer of funds occurs through the clearing corporation of  
+the exchange.  
+ 
+The transaction counterpart of the long buyer is the short seller. Using the above example, if 
+you sold a December corn contract at $2.70 per bushel and the price rose to $2.80 per 
+bushel, you would have an unrealized loss of $500 (.10 cents x 5,000 bushels). Again, open 
+commodity positions are marked to market at the end of the trading day, meaning that this 
+$500 loss will be debited from your trading account. 
+ 
+Options Primer 
+Like commodity futures contracts, options contracts are agreements between counterparties. 
+The main difference between these markets is that commodity futures impose obligations on 
+both the buyer and the seller to either make or take physical delivery of the commodity or to 
+agree to cash settlement at contract expiration. Options contracts confer rights, not 
+obligations, to the option buyer and impose obligations on the option seller. Importantly, if 
+an option is not exercised, it just expires (over 90 percent of exchange-traded options expire 
+worthless). In contrast, if a commodity contract is held to expiration, the long gets delivery 
+and the short must make delivery. Options can be exchange-traded, over-the-counter (OTC), 
+between individual business entities, or between individual persons. Businesses and 
+individuals commonly use options in real estate, personal property, and interest rate 
+transactions.  
+ 
+Standardized exchange-traded options contracts are known as plain vanilla options. That is, 
+there are no embedded features that would affect the basic option contract  
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1529 
+(off-exchange or OTC options often have embedded features that can make them complex 
+or exotic). Standardized equity options are traded at several exchanges in the United States. 
+The most successful is the Chicago Board Options Exchange (CBOE).  
+ 
+Exchange-Traded Options 
+Like commodities futures, exchange-traded options are contract markets with central 
+clearing that eliminates individual counterparty credit risk and allows offsetting transactions. 
+Option contracts are standardized, expire at a future date, are marked to market, call for 
+physical delivery, and are derivatives. This is where the similarities to commodity futures 
+markets end.  
+ 
+The buyer of an option contract purchases the right, not the obligation, to buy or sell 
+something at a specified price (exercise or strike price) by the expiration date of the option 
+contract. The object of the option contract (what the option is written on) is called the 
+underlying. The value of the underlying is the main (but not only) factor from which the 
+option contract derives its value.  
+ 
+There are two kinds of options: calls and puts. A call option is the right but not the 
+obligation to purchase the underlying security at the strike (exercise) price by the option’s 
+expiration date. A put option is the right but not the obligation to sell the underlying security 
+at the strike (exercise) price by the option’s expiration date. In options transactions, the seller 
+of a call option is the call writer while the seller of put option is the put writer. Option 
+buyers pay a premium to option writers for the options they buy. Option writers (sellers) 
+collect this premium for the options they write and are obligated to deliver the underlying 
+security if the option is exercised.  
+ 
+Exchange-traded equity options are standardized, plain vanilla, American style options. 
+American Style options can be exercised at any time by the buyer (European style options 
+can only be exercised on the expiration day). For example, IBM call options traded at the 
+CBOE are for 100 shares of IBM common stock.  The option writer is obligated to deliver 
+100 shares of IBM common stock at the strike price if the option buyer chooses to exercise 
+the option.  
+ 
+Relationship of the Underlying Security to an Option 
+The value of options is primarily derived from the value of the underlying security. For 
+example, XYZ common stock closed today at $88.29 per share and the strike prices of the 
+Securities Fraud  Financial Transactions   
+1.1530                           2011 Fraud Examiners Manual  
+October 2008 XYZ calls ranged from $65 per share to $135 per share. The more that the 
+share price of XYZ is above a particular strike price the greater the value of that option. The 
+stock price of $88 per share is about $23 over  the strike price of the XYZ $65 calls. The 
+current premium for XYZ $65 calls is $22.90 per share. A trader who had previously bought 
+this call option could sell it back into the market for about $2,290 ($22.90 x 100 shares) or 
+could exercise the option and buy the stock at $65 with the market at $88.  
+ 
+Options can be in the money, out of the money, or at the money. A call option is in the 
+money when the price of the underlying security exceeds its strike price. Likewise, a put 
+option is in the money when the price of the underlying security is less than its strike price. 
+Options are at the money when the price of the underlying security is about the same as the 
+strike price. All other options are out of the money.  
+ 
+Option Values and Premiums 
+There are two values that make up option premiums: intrinsic value and time value.  
+To have any intrinsic value an option must be in the money. Out of the money options have 
+only time value. From the above example, the XYZ $85 call closed today at a premium of 
+$5.70 per share. This call option is $3 in the money because the underlying XYZ stock 
+closed above the strike price at $88 per share.  The premium has $3 intrinsic value while the 
+remaining $2.70 is time value. 
+ 
+While the concept of intrinsic value is rather straightforward the concept of time value is 
+complex and beyond the scope of this writing. It is worth noting, however, that the 
+mathematical formula for pricing option time value was first introduced by Fischer Black 
+and Myron S. Scholes in 1973. The formula takes six factors into account: underlying price, 
+strike price, time to expiration, volatility of the underlying, dividends and interest rates. For 
+further information on this and other topics on options, visit the Learning Center on the 
+CBOE Web page (www.cboe.com). 
+ 
+Over-the-Counter (OTC) Options 
+OTC options are agreements made between private parties. Banks, large brokerage firms, 
+insurance companies, and many other businesses are active in the OTC options markets. 
+Trillions of dollars in notional value are at stake in the OTC market on a daily basis. 
+ 
+OTC options are not centrally cleared or standardized. These options are usually customized 
+by the option writer to fit the needs of the option buyer. Because OTC options are not 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1531 
+centrally cleared counterparty, credit risk can be a major concern and risk factor. The option 
+is worthless if the option writer cannot perform.  
+ 
+OTC options can be plain vanilla, complex, or exotic. The complex and exotic forms can be 
+particularly problematic for market participants, accountants, and auditors and are beyond 
+the scope of this writing. 
+ 
+ 
+
+
+
+:
+
+
+commod futur exchangetrad option and otc option
+there have been numer fraud involv commod futur exchangetrad option
+and otc option in decemb 1994 orang counti california becam the largest
+municip ever to file for bankruptci thi wa larg caus by riski invest
+secur fraud financi transact
+11526 2011 fraud examin manual
+strategi util otc option that result in trade loss of about 10 billion in more
+recent new the catastroph failur of enron wa partial caus by a fraudul hedg
+transact util an otc option through a compani he control andrew s fastow
+sold worthless option to enron make it appear that the valu of enron invest in
+avici system inc wa hedg fastow pocket the premium for the bogu option while
+enron appear to have establish a hedg posit protect the valu of their
+invest other notabl failur relat to exchangetrad deriv includ bare
+plc the 223yearold london merchant bank that help financ the louisiana purchas
+and the canadian pacif railwai which collaps as a result of hidden deriv loss
+deriv trade is riski busi but a lack of adequ intern control led to mani of
+the loss mention abov intern control must be airtight in a firm that engag in
+hedg or trade activ us exchangetrad or otc deriv insuffici market
+and product knowledg wa also a major factor in these financi debacl
+commod futur primer
+as mention previous commod futur contract ar agreement between buyer and
+seller to make or take deliveri of a commod at a futur date at an agre upon price
+commod futur contract ar standard contract specif such as the contract
+size deliveri month commod grade locat of deliveri and other detail for each
+futur contract ar preset in the contract term price and quantiti ar the onli thing
+negoti by the counterparti to a trade in the unit state agricultur industri and
+financi futur ar trade on organ exchang known as contract market
+the possibl of deliveri keep futur contract in line with their underli cash market
+if a contract rise too high in price rel to the cash market trader might sell futur with
+the intent of make deliveri thi forc the futur price down and is the reason futur
+market reflect the price of their underli cash market some futur contract ar cash
+settl the valu of these contract is deriv from an underli index valu when a
+futur contract is cash settl trader will often us a calcul fair valu to determin if
+the futur ar high or low compar to the underli index if fair valu indic that
+futur ar too high a trader might sell futur expect the differ to narrow
+futur contract do not have ani intrins valu in and of themselv their valu is deriv
+from the underli commod index or secur becaus futur contract deriv their
+price from their underli cash market thei ar call deriv there ar other
+financi transact secur fraud
+2011 fraud examin manual 11527
+deriv market such as exchangetrad option on futur option on secur and
+overthecount otc option which will be discuss later in thi section the contract
+trade on these market also deriv their valu from an underli commod secur
+or index
+the principl of offset
+on of the featur of commod futur market that make them so liquid and cost
+effect is the principl of offset the oblig of the buyer to accept futur deliveri and
+the oblig of the seller to make futur deliveri is not with each other but with the
+central clear function of the exchang exchang mai have a separ clear
+corpor or clear mai be a part of the exchang itself clear match futur
+transact and becom counterparti to both side of the trade elimin counterparti
+credit risk by guaranti both side of the transact as a result trader can liquid their
+posit oblig by mere execut an equal and opposit offset transact
+sell out a long posit or bui back a short clear also transfer fund between
+firm when futur trade ar mark to market at the end of each dai
+trade on margin
+commod futur ar trade on margin onli a small percentag usual about 5 percent
+of the contract notion valu is requir to establish a posit long or short in a futur
+market notion valu is the contract size in unit multipli by the price per unit margin
+ar set by the exchang for each commod and ar rais or lower from time to time to
+reflect chang market volatil and notion contract valu brokerag firm mai requir
+greater margin of their custom but mai not requir less than what the exchang ha set
+each exchang will have a margin committe made up of exchang member and support
+personnel that monitor and evalu the market and make margin chang
+as appropri
+there ar two type of margin initi margin the amount of monei per contract that must
+be present in the account when the posit is initi and mainten variat margin
+the minimum amount of monei per contract that must be maintain in the account while
+the posit is open for exampl a decemb corn contract had a close price of 284
+14 per bushel the notion valu of thi contract is 14212 5000 bushel x 284 14
+the initi margin requir set by the chicago board of trade cbot is 810 per
+contract which is 569 percent of the notion contract valu while mainten margin is
+secur fraud financi transact
+11528 2011 fraud examin manual
+set at 625 per contract which is 439 percent of the notion contract valu posit can
+be liquid without custom author in account that violat margin requir
+trade basic
+a trader who bui futur contract assum thi is not an offset transact is long
+the market and will profit if price rise for exampl if you bought a decemb corn
+contract at 270 per bushel and the price rose to 280 per bushel you would have an
+unreal profit of 500 10 cent x 5000 bushel becaus open commod posit
+transact that ar not offset ar mark to market at the end of the trade dai thi
+500 profit will be credit to your trade a ccount and is avail as margin for addit
+contract purchas thi transfer of fund occur through the clear corpor of
+the exchang
+the transact counterpart of the long buyer is the short seller us the abov exampl if
+you sold a decemb corn contract at 270 per bushel and the price rose to 280 per
+bushel you would have an unreal loss of 500 10 cent x 5000 bushel again open
+commod posit ar mark to market at the end of the trade dai mean that thi
+500 loss will be debit from your trade account
+option primer
+like commod futur contract option contract ar agreement between counterparti
+the main differ between these market is that commod futur impos oblig on
+both the buyer and the seller to either make or take physic deliveri of the commod or to
+agre to cash settlement at contract expir option contract confer right not
+oblig to the option buyer and impos oblig on the option seller importantli if
+an option is not exercis it just expir over 90 percent of exchangetrad option expir
+worthless in contrast if a commod contract is held to expir the long get deliveri
+and the short must make deliveri option can be exchangetrad overthecount otc
+between individu busi entiti or between individu person busi and
+individu commonli us option in real estat person properti and interest rate
+transact
+standard exchangetrad option contract ar known as plain vanilla option that is
+there ar no embed featur that would affect the basic option contract
+financi transact secur fraud
+2011 fraud examin manual 11529
+offexchang or otc option often have embed featur that can make them complex
+or exot standard equiti option ar trade at sever exchang in the unit state
+the most success is the chicago board option exchang cboe
+exchangetrad option
+like commod futur exchangetrad option ar contract market with central
+clear that elimin individu counterparti credit risk and allow offset transact
+option contract ar standard expir at a futur date ar mark to market call for
+physic deliveri and ar deriv thi is where the similar to commod futur
+market end
+the buyer of an option contract purchas the right not the oblig to bui or sell
+someth at a specifi price exercis or strike price by the expir date of the option
+contract the object of the option contract what the option is written on is call the
+underli the valu of the underli is the main but not onli factor from which the
+option contract deriv it valu
+there ar two kind of option call and put a call option is the right but not the
+oblig to purchas the underli secur at the strike exercis price by the option
+expir date a put option is the right but not the oblig to sell the underli secur
+at the strike exercis price by the option expir date in option transact the seller
+of a call option is the call writer while the seller of put option is the put writer option
+buyer pai a premium to option writer for the option thei bui option writer seller
+collect thi premium for the option thei write and ar oblig to deliv the underli
+secur if the option is exercis
+exchangetrad equiti option ar standard plain vanilla american style option
+american style option can be exercis at ani time by the buyer european style option
+can onli be exercis on the expir dai for exampl ibm call option trade at the
+cboe ar for 100 share of ibm common stock the option writer is oblig to deliv
+100 share of ibm common stock at the strike price if the option buyer choos to exercis
+the option
+relationship of the underli secur to an option
+the valu of option is primarili deriv from the valu of the underli secur for
+exampl xyz common stock close todai at 8829 per share and the strike price of the
+secur fraud financi transact
+11530 2011 fraud examin manual
+octob 2008 xyz call rang from 65 per share to 135 per share the more that the
+share price of xyz is abov a particular strike price the greater the valu of that option the
+stock price of 88 per share is about 23 over the strike price of the xyz 65 call the
+current premium for xyz 65 call is 2290 per share a trader who had previous bought
+thi call option could sell it back into the market for about 2290 2290 x 100 share or
+could exercis the option and bui the stock at 65 with the market at 88
+option can be in the monei out of the monei or at the monei a call option is in the
+monei when the price of the underli secur exce it strike price likewis a put
+option is in the monei when the price of the underli secur is less than it strike price
+option ar at the monei when the price of the underli secur is about the same as the
+strike price all other option ar out of the monei
+option valu and premium
+there ar two valu that make up option premium intrins valu and time valu
+to have ani intrins valu an option must be in the monei out of the monei option have
+onli time valu from the abov exampl the xyz 85 call close todai at a premium of
+570 per share thi call option is 3 in the monei becaus the underli xyz stock
+close abov the strike price at 88 per share the premium ha 3 intrins valu while the
+remain 270 is time valu
+while the concept of intrins valu is rather straightforward the concept of time valu is
+complex and beyond the scope of thi write it is worth note howev that the
+mathemat formula for price option time valu wa first introduc by fischer black
+and myron s schole in 1973 the formula take six factor into account underli price
+strike price time to expir volatil of the underli dividend and interest rate for
+further inform on thi and other topic on option visit the learn center on the
+cboe web page wwwcboecom
+overthecount otc option
+otc option ar agreement made between privat parti bank larg brokerag firm
+insur compani and mani other busi ar activ in the otc option market
+trillion of dollar in notion valu ar at stake in the otc market on a daili basi
+otc option ar not central clear or standard these option ar usual custom
+by the option writer to fit the need of the option buyer becaus otc option ar not
+financi transact secur fraud
+2011 fraud examin manual 11531
+central clear counterparti credit risk can be a major concern and risk factor the option
+is worthless if the option writer cannot perform
+otc option can be plain vanilla complex or exot the complex and exot form can be
+particularli problemat for market particip account and auditor and ar beyond
+the scope of thi write

@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=You are a Certified Fraud Examiner who specializes in financial institution fraud prevention. One of your clients wants to auction off several large residential real estate holdings. Which of the following schemes would you be on the alert for?
+
+Options=Land flips | Fraudulent present value calculations | Advance fee | Equity skimming
+
+CorrectResponse=3
+
+Explanation=Equity skimming is a scheme whereby an individual, entity, or group of individuals purchases one or several single family homes. Typically, the financing is for a percentage of the purchase price (e.g., 80 percent to 90 percent) and the owner invests the balance of the purchase price as equity. The homes are then rented. The owners collect the rent from the tenants but fail to make the mortgage payments. This scheme is most successful with nonrecourse mortgages. Although equity skimming eventually collapses, it continues to be a problem as many residential homes are auctioned and bulk purchases are encouragedSee page(s) 1.922 in the Fraud Examiner's Manual

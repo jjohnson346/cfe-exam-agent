@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Equity funding techniques, known as piggybacking, increase the amount of life insurance on the insurance company's books, but the company receives little or no new funds.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Equity funding is the process of using existing premium/policy values to finance new businesses. So long as the insured is aware of, or consents to. what is being done by the agent and fully understands the long-range method of payment on the new contract, there is no apparent underwriting irregularity. Equity funding techniques, also known as piggybacking, usually do not produce quality business. Furthermore, the company increases the amount of life insurance on the books but receives little or no new funds while incurring increased sales and administrative expenses associated with the issue of that new business.See page(s) 1.1103 in the Fraud Examiner's Manual

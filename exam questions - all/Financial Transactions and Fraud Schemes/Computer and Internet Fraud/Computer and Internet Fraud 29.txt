@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Communications activity logs maintain what information?
+
+Options=Date, time, and duration of access | Programs executed | Modifications to password access capability | Data files accessed
+
+CorrectResponse=0
+
+Explanation=Computer systems maintain a variety of history files or logs. Communications activity logs keep track of the following: user ID; terminal identifier; dial-in port identifier; date, time and duration; error messages; and equipment malfunctions.See page(s) 1.1844-1.1845 in the Fraud Examiner's Manual

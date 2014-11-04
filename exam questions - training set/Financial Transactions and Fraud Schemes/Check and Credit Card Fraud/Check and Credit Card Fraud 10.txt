@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Traveler's checks are becoming increasingly popular as a form of payment.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The use of traveler‰??s checks is declining significantly and will likely eventually be replaced by electronic options. In fact, an increasing number of vendors in locations throughout Europe‰??and in other parts of the world‰??no longer accept traveler‰??s checks as a valid form of payment. However, for many travelers, traveler‰??s checks continue to provide a convenient payment method while abroad.See page(s) 1.1005 in the Fraud Examiner's Manual

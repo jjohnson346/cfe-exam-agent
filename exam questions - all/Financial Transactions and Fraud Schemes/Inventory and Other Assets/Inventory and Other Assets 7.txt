@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Baker was a cash register employee for a large retail store. When Baker's friend shopped at the store, he would take his merchandise to Baker's register. Instead of charging his friend, Baker would ring a "no sale" on the register and his friend would pretend to pay for the merchandise. Baker's friend would take the merchandise out of the store without paying for it, and the two would later split it. According to Corporate Fraud Handbook, what kind of fraud scheme is this?
+
+Options=A register disbursement scheme | Larceny of inventory | This is not occupational fraud because Baker's friend took the merchandise and he was not an employee of the victim company | Skimming
+
+CorrectResponse=1
+
+Explanation=The fake sale is one form of inventory larceny specifically discussed in Corporate Fraud Handbook. Asset misappropriations are not always undertaken solely by employees of the victim company. In many cases, corrupt employees utilize outside accomplices to help steal inventory. The fake sale is one method that depends upon an accomplice for its success. Like most inventory thefts, the fake sale is not difficult. A fake sale occurs when the accomplice of the employee-fraudster “buys" merchandise, but the employee does not ring up the sale, and the accomplice takes the merchandise without making any payment.See page(s) 255 in the Corporate Fraud Handbook

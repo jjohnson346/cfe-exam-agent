@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=Behavioral studies show that punishment is the least effective method of changing behavior.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Behavioral studies, such as those conducted by Skinner, show that punishment is the least effective method of changing behavior Punishing brings “a temporary suppression of the behavior,' but only with constant supervision and application. In repeated experiments, Skinner found that punishment—either applying a negative stimulus, or taking away a positive one—effectively extinguished a subject's behavior, but that the behavior returned “when the punishment was discontinued ... and eventually all responses came out" again.See page(s) 4.102 in the Fraud Examiner's Manual

@@ -1,0 +1,7 @@
+Token                          Frequency
+-----------------------------  ---------
+con                                    1
+other                                  1
+schemes                                1
+
+Totals:                      3         3

@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Jan, a Certified Fraud Examiner for a major insurance company, has received an anonymous tip that someone in the claims department is processing claims for his benefit during the weekends. In order to gather information about the validity of this tip, Jan should look at which of the following reports?
+
+Options=Manual override report | Address similarity report | Exception report | All of the above
+
+CorrectResponse=3
+
+Explanation=Address similarity reports electronically compare multiple checks going to the same address. They are extremely useful because they may show a check defalcation or funds going to another insurance company, broker, or fictitious payee. The exception or manual override reports list all exceptions to normal electronic processing, thereby pointing out when a computer is being used outside the normal processing time—such as on the weekend.See page(s) 1.1113-1.1114 in the Fraud Examiner's Manual

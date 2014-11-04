@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+call                                   1
+knowing                                1
+easily                                 1
+firms                                  1
+consumer                               1
+of                                     2
+his                                    1
+fix                                    1
+could                                  1
+request                                1
+report                                 1
+repair                                 1
+credit                                 4
+bureau                                 1
+these                                  1
+copy                                   1
+may                                    1
+problems                               1
+a                                      1
+unnecessary                            1
+fees                                   1
+the                                    2
+himself                                1
+and                                    1
+that                                   1
+charge                                 1
+some                                   1
+
+Totals:                     28        33

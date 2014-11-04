@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Blue, a fiscal officer, had access to company checks but was not authorized to sign them. Blue's company used an automated check signer which was guarded by a custodian. Blue took some blank checks and made them payable to himself, then snuck into the custodian's office and signed them with the check signer. According to Corporate Fraud Handbook, Blue committed:
+
+Options=A concealed check scheme | A forged maker scheme | An authorized maker scheme | An altered payee scheme
+
+CorrectResponse=1
+
+Explanation=Corporate Fraud Handbook defines a forged maker scheme as a check tampering scheme in which an employee misappropriates a check and fraudulently affixes the signature of an authorized maker thereon. Common methods for forging the maker's signature include: free-hand forgery, photocopied forgeries, and unauthorized use of automatic check-signers.See page(s) 127-128, 131-132 in the Corporate Fraud Handbook

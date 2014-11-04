@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Which of the following is NOT a favorite business for laundering money?
+
+Options=Wholesale distribution | Vending machines | Restaurants | Electronics stores
+
+CorrectResponse=3
+
+Explanation=Businesses that are commonly used to front money laundering operations include bars, restaurants, and nightclubs. These businesses charge relatively high prices, and customers vary widely in their purchases. Vending machine operations also possess many characteristics favorable to a money laundering operation. Wholesale distribution businesses have historically been a prominent part of money laundering. The revenues in a wholesaling business are not typically as flexible as in food service and vending machine operations, but with a diverse product line and falsified invoices, it is still possible to inject a good deal of illegal cash into the business.See page(s) 1.1605-1.1606 in the Fraud Examiner's Manual

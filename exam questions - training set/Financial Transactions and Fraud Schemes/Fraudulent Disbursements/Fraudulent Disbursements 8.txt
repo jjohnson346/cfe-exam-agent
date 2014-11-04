@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Baker, an employee of ABC Corporation, had complete control of the purchasing function for his department. Baker authorized the purchase of several thousand dollars worth of supplies which were unnecessary to ABC. Baker used these supplies to make improvements to his home. This is an example of what kind of fraud?
+
+Options=Theft of inventory | Check tampering | Personal purchases with company funds | None of the above
+
+CorrectResponse=2
+
+Explanation=Personal Purchases with Company Funds: Instead of undertaking billing schemes to generate cash, many fraudsters simply purchase personal items with their company's money. Company accounts are used to buy items for fraudsters, their businesses, their families, and so on. The fraudster in this type of scheme buys an item and submits the bill to his employer as if it represented a purchase on behalf of the company. The goal is to have the company pay the invoice. This kind of scheme is classified as a fraudulent billing scheme rather than a theft of inventory. The heart of the scheme is not the taking of the inventory but the purchasing of the inventory. In other words, when an employee steals merchandise from a warehouse, he is stealing an asset that the company needs, an asset that it has on hand for a particular reason. The harm to the victim company is not only the cost of the asset, but the loss of the asset itself. In a purchasing scheme, however, the asset which is taken is superfluous. The perpetrator causes the victim company to order and pay for an asset which it does not really need, so the only damage to the victim company is the money lost in purchasing the particular item.See page(s) 196 in the Corporate Fraud Handbook

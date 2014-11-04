@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The existence of a thorough control system is essential to fraud prevention.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraud prevention requires a system of rules, which, in their aggregate, minimize the likelihood of fraud occurring while maximizing the possibility of detecting any fraudulent activity that may transpire. The potential of being caught most often persuades likely perpetrators not to commit the fraud. Because of this principle, the existence of a thorough control system is essential to fraud prevention.See page(s) 4.701 in the Fraud Examiner's Manual

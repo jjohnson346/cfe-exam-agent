@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Parole was abolished in U.S. federal cases by the Sentencing Reform Act of 1984.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Under the Sentencing Act, a defendant will serve substantially the sentence he receives (a small reduction is possible for good behavior); the Sentencing Act abolished parole in federal cases.See page(s) 2.525 in the Fraud Examiner's Manual

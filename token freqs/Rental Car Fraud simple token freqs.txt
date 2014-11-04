@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+need                                   1
+car                                    1
+person                                 1
+using                                  1
+can                                    1
+automobile                             1
+vehicle                                1
+involve                                1
+most                                   1
+fraud                                  3
+perpetrated                            1
+doesn’t                                1
+are                                    1
+cars                                   1
+bodily                                 1
+be                                     1
+export                                 1
+schemes                                1
+a                                      2
+damage                                 1
+prevalent                              1
+property                               1
+the                                    1
+rental                                 2
+and                                    1
+that                                   1
+incur                                  1
+there                                  1
+injury                                 1
+several                                1
+own                                    1
+
+Totals:                     32        37

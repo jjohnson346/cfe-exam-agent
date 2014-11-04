@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Under the ACFE Code of Professional Ethics, evidence and conclusions are considered __________________ if knowledge of them would affect clients' decisions based on a CertifiedFraud Examiner's report.
+
+Options=Extraneous | Material | Confidential | Opinions
+
+CorrectResponse=1
+
+Explanation=Evidence and conclusions are material if knowledge of them would affect clients’ decisions based on a Certified Fraud Examiner’s report. Materiality is a user-oriented concept. If matters omitted from a report were known to the users, and their own perceptions and conclusions would be different in light of this knowledge, the omitted information is material. Article VII requires CFEs to reveal all material matters discovered during the course of an examination which, if omitted, could cause a distortion of the facts.See page(s) 4.1020 in the Fraud Examiner’s Manual

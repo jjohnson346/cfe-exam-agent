@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Baker, a cash register attendant at a department store, regularly inflates the amount of customer refunds. For instance, if a customer returns an item for $100, Baker records a $150 refund Then Baker gives the customer $100 and keeps $50 for himself According to Corporate Fraud Handbook, this scheme is known as:
+
+Options=Skimming | Cash larceny | An overstated refund scheme | A fictitious refund scheme
+
+CorrectResponse=2
+
+Explanation=One type of register disbursement scheme is the overstated refund. Rather than creating an entirely fictitious refund, a fraudster may overstate the value of a real customer's refund, pay the customer the actual amount owed for the returned merchandise, then keep the excess portion of the return for himself.See page(s) 166 in the Corporate Fraud Handbook

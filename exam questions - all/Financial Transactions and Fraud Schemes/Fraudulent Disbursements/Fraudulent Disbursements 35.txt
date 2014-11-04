@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Corporate Fraud Handbook discussed several methods that fraudsters use to conceal check tampering. These include:
+
+Options=Preparing bogus support documentation | Miscoding fraudulent checks | Forced reconciliations | All of the above
+
+CorrectResponse=3
+
+Explanation=Since most check tampering schemes do not consist of a single occurrence but instead continue over a period of time, concealing the fraud is arguably the most important aspect of the scheme. Concealment of the fraud means not only hiding the identity of the criminal, but in most cases hiding the fact of the fraud. The most successful frauds are those in which the victim company is unaware that it is being robbed. Obviously, once a business learns that it is being victimized it will take steps to staunch its bleeding and the end of the fraudster’s scheme will be at hand. The methods of concealment specifically identified by Corporate Fraud Handbook were:•	Forced reconciliations•	Re-altering canceled checks•	Entering false information in the disbursement journal•	Coding fraudulent checks to existing accounts•	Reissuing intercepted checksSee page(s) 144-151 in the Corporate Fraud Handbook

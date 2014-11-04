@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=A corporation's articles of incorporation include information about the company's ownership, stock value, and date of incorporation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Corporations are formed by filing articles of incorporation with the secretary of state (or state corporation bureau or corporate registry office) in the state of which the company does business. These corporate records are public record and will include:‰?¢	Corporate name‰?¢	Ownership information‰?¢	Stock value‰?¢	Initial shareholders‰?¢	Names of the directors and officers‰?¢	Registered agent‰?¢	Location of the principal office‰?¢	Date of incorporation‰?¢	Standing/statusSee page(s) 3.421 in the Fraud Examiner's Manual

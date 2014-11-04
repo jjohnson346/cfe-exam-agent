@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Because the Windows operating system locks files and prevents erasure, examiners should always follow the normal Windows shut-down process before taking a computer for examination.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Generally, if a computer is on. an investigator will not want it to go through its normal shutdown routine because Windows is very good about cleaning up after itself. A number of temporary files will be deleted and possibly overwritten during a normal shutdown, and some of these files may be important to the investigation. In most cases, the investigator should simply unplug a running computer.See page(s) 3.717 in the Fraud Examiner's Manual

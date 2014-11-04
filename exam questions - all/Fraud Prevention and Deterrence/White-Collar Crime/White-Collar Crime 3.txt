@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=Studies indicate that white-collar offenses are seen by the public to be as serious if not more serious than traditional kinds of crime.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Studies indicate that, at least in the abstract, white-collar offenses, particularly those that inflict physical harm, are seen by the public to be as serious if not more serious than more traditional kinds of crime—those offenses that, as one early criminologist noted, carry a “brimstone smell."See page(s) 4.403 in the Fraud Examiner's Manual

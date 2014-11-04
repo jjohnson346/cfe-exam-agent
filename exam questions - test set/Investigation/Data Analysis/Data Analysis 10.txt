@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=CaseMap is an excellent program to use if you wish to identify duplicate invoice numbers in a list of paid invoices sorted by vendor.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=CaseMap is a database product used to organize, evaluate, and explore the facts, characters, and issues in a case. It is not a financial data analysis program, such as ACL or IDEA, and would not be useful in looking for duplicate invoice numbers.See page(s) 3.633 in the Fraud Examiner's Manual

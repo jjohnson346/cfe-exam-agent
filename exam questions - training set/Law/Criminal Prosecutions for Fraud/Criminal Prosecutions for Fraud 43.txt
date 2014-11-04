@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Character witnesses often are used in criminal trials. In general, character witnesses may testify to:
+
+Options=Specific good deeds, but not to opinion on character | Opinion on character, but not specific good deeds | Either character or good deeds | None of the above
+
+CorrectResponse=1
+
+Explanation=A defendant is permitted to call character witnesses on his behalf, who often have no knowledge of the charges, but who are prepared to testify to the defendant's "good character.‰?? Such testimony must be given in the form of the witness' opinion or testimony as to the defendant's general good reputation; testimony as to specific incidents of good conduct is not permitted.See page(s) 2.519 in the Fraud Examiner's Manual

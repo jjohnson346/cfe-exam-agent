@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Which of the following types of informants is directly involved in the offense?
+
+Options=Basic lead informant | Accomplice/witness informant | Covert informant | Participant informant
+
+CorrectResponse=1
+
+Explanation=The accomplice/witness informant is called upon by investigators quite often to provide information on criminal activity. The distinction in this category is that if the accomplice/ witness informant were not feeding information to investigators, he would be liable to be prosecuted for the same offense. The accomplice informant is often persuaded to â€œspill the beansâ€? on a co-conspirator in exchange for leniency in the prosecution phase of the investigation. The basic lead informant supplies information to the police about illicit activities that they have encountered. The participant informant is directly involved in gathering preliminary evidence in the investigation. The covert informant is one who has been embedded in a situation or scenario for a number of years and is called upon only sporadically for tip-offs and leads.See page(s) 3.312-3.313 in the Fraud Examiner's Manual

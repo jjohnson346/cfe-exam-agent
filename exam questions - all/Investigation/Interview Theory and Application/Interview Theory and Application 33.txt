@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Baker, a Certified Fraud Examiner is assigned to the internal audit department of the ABC Company. He is getting ready to conduct a routine interview with another company employee In general, what title should Baker use in his introduction to the employee?
+
+Options=Auditor | Baker should omit a title altogether | Certified Fraud Examiner | None of the above
+
+CorrectResponse=1
+
+Explanation=When contacting a respondent for the first time, the interviewer must identify himself. This is best accomplished by stating your name. Unless a specific reason exists, the interviewer generally should omit a title. The less formality in general, the better. In some instances, stating a title cannot be avoided. In those cases, the title used should not conjure up emotion or possible fear in the mind of the respondent.See page(s) 3.214 in the Fraud Examiner's Manual

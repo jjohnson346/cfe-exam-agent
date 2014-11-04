@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=Funds are missing from the bank account of ABC Co. The fraud examiner assigned to the case begins thinking, "Who had the opportunity and the motive to get at this money"? Probably unknowingly, the fraud examiner is performing a __________________ analysis.
+
+Options=Behaviorist | Theorist | Empirical | Categorical
+
+CorrectResponse=0
+
+Explanation=When money is missing, the fraud examiner traces the known flow of funds and then asks, “Who had the opportunity and the motive to get at this money"? Even without being conscious of the fact, the examiner is performing a behaviorist analysis on the crime similar to B. F. Skinner's research.See page(s) 4.101 in the Fraud Examiner's Manual

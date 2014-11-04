@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Able, a salesman, "borrowed" a stack of blank receipts from a friend who was a waiter at a local restaurant. Able filled in the blank receipts to make it appear that he had been entertaining clients at business lunches. He submitted the receipts to his manager and was reimbursed for the "expenses" he had incurred. According to Corporate Fraud Handbook, this scheme can best be characterized as:
+
+Options=A false billing scheme | A mischaracterized expense scheme | A fictitious expense scheme | A kickback scheme
+
+CorrectResponse=2
+
+Explanation=Expense reimbursements are sometimes sought by employees for wholly fictitious items. Instead of overstating a real business expense or seeking reimbursement for a personal expense, an employee just invents a purchase which needs to be reimbursed.See page(s) 235 in the Corporate Fraud Handbook

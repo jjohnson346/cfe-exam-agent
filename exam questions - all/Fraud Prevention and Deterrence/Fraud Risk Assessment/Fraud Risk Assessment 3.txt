@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=To make the most of the fraud risk assessment process, management should use the results to:
+
+Options=Begin a dialogue across the company | Look for fraud in high-risk areas | Hold action owners accountable for progress | All of the above
+
+CorrectResponse=3
+
+Explanation=To make the most of the fraud risk assessment process, management should use the results to:•	Begin a dialogue across the company•	Look for fraud in high-risk areas•	Hold action owners accountable for progress•	Keep the assessment process alive and relevantSee page(s) 4.825 in the Fraud Examiner's Manual

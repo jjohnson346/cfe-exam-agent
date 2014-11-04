@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=In order to protect the security of a covert investigation, no reports or memoranda of the covert operation should be committed to paper.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Prior to the commencement of an undercover operation, it is essential that the predication for the operation be committed to writing, preferably in memorandum form. The memorandum should clearly state that: (1) the information received upon which the covert operation will be based; (2) the information that is expected to be gained from the operation: (3) the identities of suspects, if known: and (4) operatives under your care, custody, or control.See page(s) 3.301 in the Fraud Examiner's Manual

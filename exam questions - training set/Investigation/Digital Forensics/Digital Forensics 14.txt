@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=When attempting to remove a desktop computer for examination, if the computer is running, it is usually best to unplug it rather than allow it to go through its normal shutdown routine.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Generally, if a computer is on. an investigator will not want it to go through its normal shutdown routine because Windows is very good about cleaning up after itself. A number of temporary files will be deleted and possibly overwritten during a normal shutdown, and some of these files may be important to the investigation. In most cases, the investigator should simply unplug a running computer.See page(s) 3.717 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The federal law passed in 2003 that eliminated the requirement that banks return the physical check to the customer after the check has been negotiated is commonly referred to as which of the following?
+
+Options=The Electronic Check Act | Substitute Check Act | The Copy Check Act | Check 21
+
+CorrectResponse=3
+
+Explanation=In July 2003, Congress issued final regulations regarding the availability of funds and collection of checks. A new provision of Section 12r Part 229 of the Code of Federal Regulations, known as "Check 21,‰?? creates ‰??substitute checks," the new negotiable instruments that become the legal equivalent of paper checks. This provision facilitates the efficient collection and return of checks in electronic form by alleviating the collection requirement that depository banks actually send the original paper checks to collecting banks for payment.See page(s) 3.812 in the Fraud Examiner's Manual

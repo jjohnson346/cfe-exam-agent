@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=According to the Federal Sentencing Guidelines, a corporation cannot be held responsible for the criminal acts of its employees.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Corporations and other organizations can be held liable for criminal acts committed as a matter of organizational policy. Fortunately, most organizations do not expressly set out to break the law. However, corporations and other organizations may also be held liable for the criminal acts of their employees if those acts are done in the course and scope of their employment and for the ostensible purpose of benefiting the corporation. An employee’s acts are considered to be in the course and scope of his employment if the employee has actual authority or apparent authority to engage in those acts.See page(s) 4.701-4.702 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=In the reporting of fraud examination matters, ______________________ should be based on observation of the evidence.
+
+Options=Conclusions | Opinions | Speculations | None of the above
+
+CorrectResponse=0
+
+Explanation=In a report-writing context, conclusions and opinions are similar, but not identical. Conclusions are based on observations of the evidence, whereas opinions call for an interpretation of the facts. The fraud examiner must be very circumspect about drawing conclusions. In most situations, the conclusions from the examination should be self-evident and should not need to be pointed out in the report. If the conclusions are not obvious, the report might need to be clarified.See page(s) 3.903 in the Fraud Examiner's Manual

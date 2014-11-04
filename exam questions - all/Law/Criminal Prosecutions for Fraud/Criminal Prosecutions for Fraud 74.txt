@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=According to the Federal Rules of Criminal Procedure, which of the following statements concerning grand juries is NOT correct?
+
+Options=A grand jury may be used to obtain evidence of possible crimes | It may be used solely to obtain evidence to be used in a parallel civil trial | It has the power to subpoena witnesses and documents | The members meet in secret deliberation to hear evidence and vote on indictments
+
+CorrectResponse=1
+
+Explanation=The grand jury consists of 16 to 23 people sworn as jurors who meet in secret deliberation usually in biweekly or monthly sessions to hear witnesses and other evidence presented by prosecutors and to vote on indictments. The grand jury has the right to subpoena witnesses and documents, and refusals to appear or produce may be punishable as contempt, with fines or jail terms until the subpoena is complied with, or the grand jury term expires. A witness or target of the grand jury retains the Fifth Amendment right against self-incrimination. A grand jury may be used to obtain evidence of possible violations of the criminal law. and its process may not be used as a ruse to obtain evidence for parallel civil actions. A common example of such parallel proceedings v/ould be investigation of possible anti-trust violations. The grand jury may, however, with the appropriate court order, make evidence available to the proper government authorities for a civil proceeding, as long as the primary purpose of its inquiry was to enforce the criminal laws. Access by private parties through court orders to grand jury evidence for use in private civil proceedings is unlikely to be granted because of secrecy requirements, unless substantial need is demonstrated.See page(s) 2.506-2.507 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT one of the elements the federal government must prove to successfully claim a violation of the provisions of Title 18, U.S. Code, Section 1001 (false statements)?
+
+Options=The defendant made a false statement. | The defendant knew the statement was false. | The government relied on the false statement. | The false statement was material.
+
+CorrectResponse=2
+
+Explanation=A statement is false for the purposes of Section 1001 if it was known to be untrue when it was made, and it is fraudulent if it was known to be untrue and was made with the intent to deceive a government agency. For a violation to occur, the agency need not actually have been deceived, nor must it have in fact relied upon the false statement. The statement must have been capable, however, of influencing the agency involved. The elements of a typical section 1001 violation are set forth below:The defendant made a false statement (or used a false document)That was materialRegarding a matter within the jurisdiction of any agency of the United States With knowledge of its falsity. ,..:ii£..ii.. ---\.\.See page(s) 2.239 in the Fraud Examiner's Manual

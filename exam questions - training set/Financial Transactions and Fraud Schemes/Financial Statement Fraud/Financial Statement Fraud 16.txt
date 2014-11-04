@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=____________________ is the deliberate misrepresentation of the financial condition of an enterprise accomplished through the intentional misstatement or omission ofamounts or disclosures in the financial statements to deceive financial statement users.
+
+Options=Material misstatement | Occupational fraud | Extortion | Financial statement fraud
+
+CorrectResponse=3
+
+Explanation=Financial statement fraud is the deliberate misrepresentation of the financial condition of an enterprise accomplished through the intentional misstatement or omission of amounts or disclosures in the financial statements to deceive financial statement users.See page(s) 1.303 in the Fraud Examiner's Manual

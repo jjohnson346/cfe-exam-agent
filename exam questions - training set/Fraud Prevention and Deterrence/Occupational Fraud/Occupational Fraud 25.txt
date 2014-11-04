@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations on Occupational Fraud and Abuse, frauds committed by owners and executives had a lower median loss than those committed by rank-and-file employees.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=We examined the fraudsters in our study based on their positions within the victim organization and found that the majority of occupational frauds are committed by employees and managers. Owners and executives are involved less often (17 percent of all cases), but the median loss was over three times greater than the losses caused by managers and more than nine times higher than the median loss caused by employees.See page(s) 4.637 in the Fraud Examiner's Manual

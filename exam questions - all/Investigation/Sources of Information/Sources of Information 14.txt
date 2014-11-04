@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The last six digits of a Social Security number are:
+
+Options=Indicators of the city of issue | Indicators of the state of issue | Individual identifiers | None of the above
+
+CorrectResponse=2
+
+Explanation=There are nine digits in a Social Security number. The first three digits reflect the state of issue; the last six digits are individual identifiers.See page(s) 3.434 in the Fraud Examiner's Manual

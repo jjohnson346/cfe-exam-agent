@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Most telemarketing and other consumer frauds are committed against young people.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Older people are the favorite prey of telescammers. They make up 11 percent of the population but constitute 30 percent of the victims of consumer fraud and 50 percent of all phone scam victims. Forty-five percent of senior citizens have been offered investments by a person unknown to them. Seniors own more than half of all financial assets in the United States.See page(s) 1.1712-1.1713 in the Fraud Examiner's Manual

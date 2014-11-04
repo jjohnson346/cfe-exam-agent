@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=In identifying the fraud risks that could apply to the organization, the fraud risk assessment team should discuss
+
+Options=The risk of management's override of controls | Fraud risks pertaining to specific categories of fraud | The incentives, pressures, and opportunities to commit fraud | All of the above
+
+CorrectResponse=3
+
+Explanation=The fraud risk assessment team should brainstorm to identify the fraud risks that could apply to the organization. Brainstorming should include discussions regarding incentives, pressures, and opportunities to commit fraud; the potential for management’s override of controls; and the universe of fraud risks and the subset of risks pertaining to specific categories of fraud that apply to a particular organization.See page(s) 4.813-4.814 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT a legal element of a misrepresentation of material facts claim?
+
+Options=Negligence | Knowledge of the statement's falsity | Reliance on the false statement | Damages suffered
+
+CorrectResponse=0
+
+Explanation=Misrepresentation of material facts is most often thought of when the term fraud is used. The specific elements composing proof of misrepresentation vary somewhat according to the jurisdiction and whether the case is prosecuted as a criminal or civil action. The elements normally include:A material false statementKnowledge of its falsityReliance on the false statement by the victimDamages sufferedSee page(s) 2.202 in the Fraud Examiner's Manual

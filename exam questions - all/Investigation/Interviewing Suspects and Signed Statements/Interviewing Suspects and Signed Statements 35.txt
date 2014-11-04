@@ -1,0 +1,10 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=During an admission-seeking interview, it is critical to let the suspect know of the seriousness of his or her crime. Therefore, it is usually best to use strong words such as "steal,", "fraud," or "crime" to elicit a strong reaction.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The accusation should not be made in the form of a question, but as a statement. Emotive words such as "steal," "fraud." and "crime" should be avoided during the accusatory process. The accusation should be phrased as though the accused's guilt has already been established so that the accused is psychologically trapped, with no way out. See page(s) 3.251-3.252 in the Fraud Examiner's Manual
+

@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Credit information reported to a third-party by a consumer reporting agency is governed by:
+
+Options=The Fair Credit Reporting Act | The Credit Information Act | The Federal Credit Control Act | None of the above
+
+CorrectResponse=0
+
+Explanation=One of the primary statutes limiting access to information is the federal Fair Credit Reporting Act (FCRA). This statute regulates the dissemination of consumer information to third parties by consumer reporting agencies. Historically, the FCRA only applied to consumer credit reports. However, due to amendments in 1997, the FCRA now applies to the gathering of many other types of information about an individual through third parties. If the FCRA does apply, it means that an examiner cannot obtain certain information about a person unless that person has received certain notices and signed a consent form. The failure to do so can mean civil penalties.See page(s) 3.405 in the Fraud Examiner's Manual

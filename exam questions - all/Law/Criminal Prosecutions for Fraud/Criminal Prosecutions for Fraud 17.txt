@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In order for insanity to be used as a defense, notice of the insanity plea usually must be given before trial.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Insanity may be used as a defense, and often it is in crimes of violence. But notice of that defense usually must be given before trial.See page(s) 2.521 in the Fraud Examiner's Manual

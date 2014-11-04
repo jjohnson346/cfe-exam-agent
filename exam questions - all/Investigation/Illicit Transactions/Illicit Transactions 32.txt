@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=In reference to checks, MICR stands for which of the following?
+
+Options=Microsoft Imaging Character Resonance | Magnetic Ink Character Recognition | Microfilm Image Constant Reference | None of the above
+
+CorrectResponse=1
+
+Explanation=MICR stands for Magnetic Ink Character Recognition MICR is a machine language and is a check design standard to which all banks must conform. Numeric information is printed in magnetic ink on the bottom of bank checks and other documents. This coding is electronically scanned by computers that convert the magnetic ink notations into electronic impulses readable by a computer.See page(s) 3.813 in the Fraud Examiner's Manual

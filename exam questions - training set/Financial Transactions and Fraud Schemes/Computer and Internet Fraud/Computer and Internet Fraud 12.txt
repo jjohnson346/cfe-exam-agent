@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is/are the most effective component(s) of an internal computer security system?
+
+Options=Employee education | Vigorous disciplinary action for offenders | Reporting facilities | All of the above
+
+CorrectResponse=3
+
+Explanation=‰?? The most effective components of internal security are education, reporting facilities, and vigorous disciplinary action for offenders, including prosecution of illegal acts. An enterprise-wide employee awareness program should be combined with formal training in the area of information security. For employees to fulfill their security responsibilities, they should know what information needs to be kept confidential, how to recognize threats to security, and how to use backups and other aids for their desktop machines.See page(s) 1.1841 in the Fraud Examiner's Manual

@@ -1,0 +1,623 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Computer Viruses 
+Viruses are hidden computer programs that use all the computer’s resources, thereby 
+shutting down the system or slowing it down significantly. Computer viruses typically use 
+the infected computer’s resources to replicate itself and spread the infection to other 
+computer systems on a network or through the Internet via e-mail. Computer viruses range 
+from the relatively harmless (displaying a message or greeting) to shut-downs of entire 
+computer networks for extended periods. 
+ 
+A computer virus is a program that contains instruction codes to attack software. The attack 
+might erase data or display a message on the screen. The computer virus can copy itself to 
+other programs. This copy ability can affect large networks. In recent years, viruses have 
+disrupted large networks and caused the expenditure of millions of dollars in staff and 
+machine hours to remove these viruses and restore normal operations. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1817 
+Hoaxes 
+A massive amount of media attention in recent years has focused on computer viruses. Many 
+of the virus scares that occur, however, are hoaxes. While that is, on one hand, fortunate, 
+these phony warnings cause harm of their own. They slow down transmission of 
+information and have been known to cause overloads of organizational e-mail networks. 
+Most of these fraudulent warnings urge recipients to “forward this to everyone you know.” 
+Before forwarding a questionable warning, it is wise to consult a few of the authorities who 
+track viruses. The following sites can be accessed to confirm or debunk virus notifications: 
+• www.symantec.com/avcenter/hoax.html 
+• www.vmyths.com 
+• www.fsecure.com/virus-info/hoax/ 
+• www.snopes.com 
+ 
+Types and Terminology of Computer Viruses  
+Macro Virus 
+A macro is an instruction that carries out program commands automatically. Many common 
+applications (e.g., word processing, spreadsheet, and slide presentation applications) make 
+use of macros. Macro viruses are macros that self-replicate. If a user accesses a document 
+containing a viral macro and unwittingly executes this macro virus, it can then copy itself 
+into that application’s startup files. The computer is now infected — a copy of the macro 
+virus resides on the machine. 
+ 
+Any document on that machine that uses the same application can then become infected. If 
+the infected computer is on a network, the infection is likely to spread rapidly to other 
+machines on the network. Moreover, if a copy of an infected file is passed to anyone else 
+(for example, by e-mail or CD), the virus can spread to the recipient’s computer. This 
+process of infection will end only when the virus is noticed and all viral macros are 
+eradicated.  
+ 
+Macro viruses are the most common type of viruses, and are usually spread via e-mail 
+messages containing infected attachments. Macro viruses can be written with very little 
+specialist knowledge, and these viruses can spread to any platform on which the application 
+is running. However, the main reason for their success is that documents are exchanged far 
+more frequently than executables or disks, a direct result of e-mail’s popularity and Web use. 
+Opening the e-mail attachment infects your ma chine; the virus overwrites certain files on 
+your hard drive(s) and sends itself out to everyone in your e-mail address book. This 
+Computer and Internet Fraud  Financial Transactions   
+1.1818                           2011 Fraud Examiners Manual  
+attachment will most likely come from someone you know. Consequently, the best 
+protection against such viruses is to simply not open any attachment unless you are sure that 
+it is virus free. If you’re unsure, ask for the sender to confirm that the attachment was 
+intended for you.  
+ 
+Boot Sector Viruses 
+The boot sector is the first logical sector of a hard disk or floppy disk. Seventy-five to 90 
+percent of viruses have been boot sector viruses. These viruses use system BIOS, replace the 
+boot sector, and move the boot sector to another location. It then writes a copy of its own 
+program code that will run every time the system is booted or when programs are being run. 
+A boot sector cannot infect a computer if it is introduced after the machine is running the 
+operating system. An example of a boot sector virus is Parity Boot. This virus’s payload 
+displays the message “Parity Check” and fr eezes the operating system, rendering the 
+computer useless. This virus message is taken from an actual error message that is displayed 
+to users when a computer’s memory is faulty. As a result, a user whose computer is infected 
+with the Parity Boot virus is led to believe that the machine has a memory fault rather than a 
+disruptive virus infection. 
+ 
+Parasitic Viruses 
+Parasitic viruses attach themselves to programs known as executables. When a user launches 
+a program that has a parasitic virus, the virus is surreptitiously launched first. To cloak its 
+presence from the user, the virus then triggers the original program to open. The parasitic 
+virus, because the operating system understands it to be part of the program, is given the 
+same rights as the program to which the virus is attached. These rights allow the virus to 
+replicate, install itself into memory, or release its payload. In the absence of antivirus 
+software, only the payload might raise the normal user’s suspicions. A famous parasitic virus 
+called Jerusalem has a payload of slowing down the sy stem and eventually deleting every 
+program the user launches. 
+ 
+TSRAM Viruses 
+Terminate and Stay Resident (TSR) viruses usually hide in memory and cause system crashes, 
+depending on their memory location. The TSR takes control of the operating system by 
+passing its request to DOS each time DOS is executed. The virus Cascade B is a TSR virus 
+that sometimes causes the system to crash. It also causes characters to fall down the screen. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1819 
+Application Software Viruses 
+These types of viruses copy their virus code to a program file and modify the program so the 
+virus code gets executed first. The virus does this by writing over the existing code or 
+attaching itself to the program file. The more sophisticated types replicate themselves with a 
+.com extension each time the user accesses an executable program file. The virus Vienna is a 
+type of application virus. It increases infected files by 648 bytes and destroys the system by 
+making it reboot when running certain programs. 
+ 
+Multi-Partite Viruses  
+Multi-partite viruses share some of the characteristics of boot sector viruses and file viruses, 
+which increases its ability to spread. They can infect .com and .exe files, and the boot sector 
+of the computer’s hard drive. 
+ 
+On a computer booted up with an infected diskette, a typical multi-partite virus will first 
+reside in memory and then infect the boot sector of the hard drive. From there the virus can 
+infect a PC’s entire environment. This type of virus accounts for a large number of 
+infections. 
+ 
+The Tequila virus is a type of multi-partite virus. Tequila is a memory resident master boot 
+sector (partition table) and .exe file infector. It uses a complex encryption method and 
+garbling to avoid detection. When a program infected with Tequila is executed, the virus will 
+modify the hard disk master boot sector, if it is not already infected. The virus also copies 
+itself to the last six sectors of the system hard disk. When the workstation is later rebooted 
+from the system hard disk, Tequila will become memory resident. Once Tequila is memory 
+resident, it infects .exe files when they are executed.  
+ 
+The CHKDSK command will indicate the system has 3,072 fewer bytes of memory than 
+what is installed. Infected .exe programs increase in size by 2,468 bytes, though the file 
+length increase cannot be seen in the disk directory listing because the virus hides it.  
+Tequila activates four months after the initial date of infection. At this time, and every 
+month thereafter, the virus will display a graphic and the following message: “Execute: mov 
+ax, FE03 / int 21. Key to go on.”  
+ 
+Polymorphic Viruses 
+Polymorphic viruses create varied (though fully functional) copies of themselves as a way to 
+avoid detection by antivirus software. Some polymorphic viruses use different encryption 
+Computer and Internet Fraud  Financial Transactions   
+1.1820                           2011 Fraud Examiners Manual  
+schemes and require different decryption routines. Thus, the same virus may look 
+completely different on different systems or even within different files. Other polymorphic 
+viruses vary instruction sequences and use false commands in the attempt to thwart antivirus 
+software. One of the most advanced polymorphic viruses uses a mutation engine and 
+random-number generators to change the virus code and its decryption routine. 
+Spanska.4250  is a type of polymorphic virus. This virus infects program files (files with .exe 
+and .com extensions). When one of the programs is infected, the virus hides in the 
+computer’s memory. Spanska.4250 remains in memory on the lookout to infect programs 
+executed by users. Once Spanska.4250 carries out its infection the size of the infected 
+programs will increase by 4250 bytes (the virus size). Moreover, the following message will 
+be displayed: “(c) Spanska 97.” This virus uses an anti-tracing technique to make it more 
+difficult to detect. In addition, it uses the system date to encrypt itself so it will be possible to 
+find up to 366 different variants of this virus. 
+ 
+Stealth Viruses 
+Stealth viruses are more sophisticated viruses. They constantly change their patterns in an 
+effort to blend into the system. They attempt to avoid detection by bypassing DOS interrupt 
+calls when they are installed, and remove their code from the infected files before the file is 
+accessed by the requesting program. 
+ 
+The 4096 virus is a type of stealth virus. It increases the file size by 4096 bytes and decreases 
+the memory by approximately 6kb. The message “FRODO LIVES” might appear in the 
+middle of the screen. If the infected file is run on September 21, it causes the system  
+to crash. 
+ 
+Mutation Engine Viruses 
+This modern day virus uses a special language-driven algorithm generator that enables it to 
+create an infinite variety of original encryption algorithms. It avoids the checksum detection 
+method, like stealth viruses, by not changing the infected file size. Each time they replicate, 
+they produce a new and different code. 
+ 
+Network Viruses 
+It was just a matter of time before network-specific viruses were developed to attack the 
+increased number of Local Area Networks (LANs) and other types of networks coming 
+online. These viruses are generally developed to attack the file servers.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1821 
+The boot sector and partition table viruses infect the boot operation of the file server. This 
+virus does not spread from the workstation to the file server. However, if you are using 
+NetWare it can cause the software to lose the location of its partition table on the file server 
+if the file server is booted with an infected disk. 
+ 
+Viruses that infect programs seem to be limited to infecting files on the server. However, 
+because the files are continuously being accessed by workstations, this type of virus is 
+difficult to contain. 
+ 
+At least two NetWare-specific viruses have been discovered in Europe. One is the GP1 (Get 
+Password 1) virus. It was allegedly created to penetrate Novell security features and then 
+spread throughout the network. The second, CZ2986  virus, in Czechoslovakia. This virus 
+places itself in memory and intercepts NetWare function calls when the workstations log in to 
+the server. After it collects 15 user name/password combinations, it saves them in an infected 
+file and uses them to gain access to the network. 
+ 
+Worms 
+A worm is a self-replicating program that resides as a file on a system, executes an 
+autonomous process, and deliberately moves from system to system. It looks for other 
+nodes on the networks, copies itself to them, and causes the self-copy to execute on other 
+nodes. These programs find network utilities showing node names, monitor network traffic, 
+and randomly select network identification codes as well as other mischief. 
+ 
+An example of a worm is the SQL Slammer, which raced across the globe and wreaked havoc 
+on the Internet in January 2003. This worm doubled the number of computers it infected 
+every 8.5 seconds in the first minute of its appearance. The worm, which exploited a flaw in 
+Microsoft Corporation’s SQL Server database software, caused damage by rapidly replicating 
+itself and clogging the pipelines of the global data network. The worm did not erase or cause 
+damage to desktop computers, but was designed to replicate itself so fast and so effectively 
+that no other traffic could get through networks. 
+ 
+Virus Carriers 
+Viruses can infect computer systems from many sources. Some of the more common virus 
+carriers are: 
+• Unknown or unchecked application software 
+• Software or media brought in by employees 
+Computer and Internet Fraud  Financial Transactions   
+1.1822                           2011 Fraud Examiners Manual  
+• Programs downloaded from modem bulletin boards 
+• Unsolicited e-mails 
+• Vendors and suppliers with infected software 
+• Uncontrolled and shared program applications 
+• Demonstration software 
+• Freeware and shareware 
+ 
+Virus Indicators 
+The following are some of the indicators that a computer might exhibit suggesting that it 
+might be infected: 
+• A sudden and sometimes dramatic decrease of free space on your media. 
+• The system suddenly, and for no apparent reason, slows down its command-response 
+time. 
+• An increase in the size of some files. 
+• There has been a change in the length of executable files, a change in their content, or a 
+change in their file date/time stamp. 
+• An unexpected number of disk accesses, especially to particular file(s). 
+• The operating system and/or other programs suddenly begin behaving in unpredictable 
+ways. Sometimes disk files that should be there cannot be accessed or are suddenly 
+erased with no warning. 
+• Unusual messages and graphics. 
+• Unable to boot-up the system. 
+• Unable to access files. 
+• Unexplained and repeated maintenance repairs. 
+• System or data files disappear or become fragmented. 
+• Unexplained changes in memory. 
+• Unexplained changes in program sizes. 
+• Resident antiviral software programs display messages that a virus has been encountered. 
+Note that until the source of the virus has been identified and removed from the system, 
+antiviral systems might continually inform the operator that a virus is being encountered 
+and removed. 
+ 
+Virus Protection 
+Computer users should take measures to protect their computers against viruses. Some of 
+the steps that can be taken are: 
+• Do not use a disk to boot your system. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1823 
+• If you must boot your system from a disk, make sure it is properly labeled and 
+continuously protected. 
+• Don’t install shareware or other untested programs on your system, but if you do, don’t 
+put them in the root directory. 
+• In a network environment, don’t place untested programs on the server. 
+• If you are sharing information on disks, ensure they only contain information and no 
+executable files. 
+• Use current antivirus software to detect potential viruses. 
+• Back up all programs and files. 
+• Write virus-free warranties and indemnities into your purchase orders and contracts. 
+• Always write-protect your systems and program disks. 
+• Teach computer users about computer viruses so that they can recognize them. 
+• Always use caution when opening e-mail attachments. 
+ 
+Antivirus Software Operation 
+Conventional Disk Scanners 
+This is the standard virus check program. It is run when the user requests it, and it scans the 
+contents of the disk, directories, or files that the user wants, for any boot sectors and/or files 
+that contain viruses that it recognizes based on the virus description information in its virus 
+definition files. Usually run manually by the user either as a preventative maintenance activity 
+or when a virus is suspected, scanning can also be automated through the use of a program 
+scheduler.  
+ 
+Heuristic Scanners 
+These scanners inspect executable files for code using algorithms to identify operations that 
+would indicate an unknown virus. They might also examine macros to detect virus-like 
+behavior. 
+ 
+Behavior-Based Detection Scanners   
+These applications run continuously, looking for behavior that might indicate virus activity 
+(for example, instructions to format a hard drive.) 
+ 
+Change Detection Scanners   
+Change detection scanners generate a database of characteristics for executable files and 
+check for changes to these files that might signify a virus attack. 
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1824                           2011 Fraud Examiners Manual  
+Inoculation 
+This is a totally different approach to virus detection. Instead of looking for the viruses 
+themselves, this technique looks for the changes that the viruses make to files and boot 
+sectors. Starting with a clean system, the software “inoculates” each boot sector and 
+program file by storing a snapshot of information about it based on its content and size. 
+Then, periodically, it reexamines these files to see if anything has changed. If it has, then the 
+utility will inform the user; if the user hasn’t made the change, the virus may have. 
+ 
+The main advantage of this type of virus detection is that since it is looking at the effects of 
+the virus, it doesn’t need to know what the virus itself is; this means it will detect even new 
+viruses without requiring updated virus definition files all of the time. The disadvantage, and 
+why it is not used that often, is that it generates a substantial amount of false positives.   
+ 
+Investigating Virus Infections 
+Virus infections can be investigated by taking the following action:  
+• Isolate the system and all media 
+• Run antivirus software 
+• Document findings 
+• Interview the system custodian and all users, and determine: 
+? Symptoms 
+? Damage 
+? Prior clean-up conducted  
+? Access controls in place and working 
+? System malfunction 
+? Personal media used 
+? Unauthorized media used 
+? Virus identification 
+• Follow the audit trail of the infection 
+• Determine the source of the virus—person, system, or media 
+• Make users aware of protection policies and procedures 
+• Ensure countermeasures are in place and working 
+• Track costs of virus problems  
+ 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1825 
+
+
+
+:
+
+
+comput virus
+virus ar hidden comput program that us all the comput resourc therebi
+shut down the system or slow it down significantli comput virus typic us
+the infect comput resourc to replic itself and spread the infect to other
+comput system on a network or through the internet via email comput virus rang
+from the rel harmless displai a messag or greet to shutdown of entir
+comput network for extend period
+a comput viru is a program that contain instruct code to attack softwar the attack
+might eras data or displai a messag on the screen the comput viru can copi itself to
+other program thi copi abil can affect larg network in recent year virus have
+disrupt larg network and caus the expenditur of million of dollar in staff and
+machin hour to remov these virus and restor normal oper
+financi transact comput and internet fraud
+2011 fraud examin manual 11817
+hoax
+a massiv amount of media attent in recent year ha focus on comput virus mani
+of the viru scare that occur howev ar hoax while that is on on hand fortun
+these phoni warn caus harm of their own thei slow down transmiss of
+inform and have been known to caus overload of organiz email network
+most of these fraudul warn urg recipi to forward thi to everyon you know
+befor forward a question warn it is wise to consult a few of the author who
+track virus the follow site can be access to confirm or debunk viru notif
+wwwsymanteccomavcenterhoaxhtml
+wwwvmythscom
+wwwfsecurecomvirusinfohoax
+wwwsnopescom
+type and terminolog of comput virus
+macro viru
+a macro is an instruct that carri out program command automat mani common
+applic eg word process spreadsheet and slide present applic make
+us of macro macro virus ar macro that selfrepl if a user access a document
+contain a viral macro and unwittingli execut thi macro viru it can then copi itself
+into that applic startup file the comput is now infect a copi of the macro
+viru resid on the machin
+ani document on that machin that us the same applic can then becom infect if
+the infect comput is on a network the infect is like to spread rapidli to other
+machin on the network moreov if a copi of an infect file is pass to anyon els
+for exampl by email or cd the viru can spread to the recipi comput thi
+process of infect will end onli when the viru is notic and all viral macro ar
+erad
+macro virus ar the most common type of virus and ar usual spread via email
+messag contain infect attach macro virus can be written with veri littl
+specialist knowledg and these virus can spread to ani platform on which the applic
+is run howev the main reason for their success is that document ar exchang far
+more frequent than execut or disk a direct result of email popular and web us
+open the email attach infect your ma chine the viru overwrit certain file on
+your hard drive and send itself out to everyon in your email address book thi
+comput and internet fraud financi transact
+11818 2011 fraud examin manual
+attach will most like come from someon you know consequ the best
+protect against such virus is to simpli not open ani attach unless you ar sure that
+it is viru free if your unsur ask for the sender to confirm that the attach wa
+intend for you
+boot sector virus
+the boot sector is the first logic sector of a hard disk or floppi disk seventyf to 90
+percent of virus have been boot sector virus these virus us system bio replac the
+boot sector and move the boot sector to anoth locat it then write a copi of it own
+program code that will run everi time the system is boot or when program ar be run
+a boot sector cannot infect a comput if it is introduc after the machin is run the
+oper system an exampl of a boot sector viru is pariti boot thi viruss payload
+displai the messag pariti check and fr eez the oper system render the
+comput useless thi viru messag is taken from an actual error messag that is displai
+to user when a comput memori is faulti as a result a user whose comput is infect
+with the pariti boot viru is led to believ that the machin ha a memori fault rather than a
+disrupt viru infect
+parasit virus
+parasit virus attach themselv to program known as execut when a user launch
+a program that ha a parasit viru the viru is surreptiti launch first to cloak it
+presenc from the user the viru then trigger the origin program to open the parasit
+viru becaus the oper system understand it to be part of the program is given the
+same right as the program to which the viru is attach these right allow the viru to
+replic instal itself into memori or releas it payload in the absenc of antiviru
+softwar onli the payload might rais the normal user suspicion a famou parasit viru
+call jerusalem ha a payload of slow down the sy stem and eventu delet everi
+program the user launch
+tsram virus
+termin and stai resid tsr virus usual hide in memori and caus system crash
+depend on their memori locat the tsr take control of the oper system by
+pass it request to do each time do is execut the viru cascad b is a tsr viru
+that sometim caus the system to crash it also caus charact to fall down the screen
+financi transact comput and internet fraud
+2011 fraud examin manual 11819
+applic softwar virus
+these type of virus copi their viru code to a program file and modifi the program so the
+viru code get execut first the viru doe thi by write over the exist code or
+attach itself to the program file the more sophist type replic themselv with a
+com extens each time the user access an execut program file the viru vienna is a
+type of applic viru it increas infect file by 648 byte and destroi the system by
+make it reboot when run certain program
+multipartit virus
+multipartit virus share some of the characterist of boot sector virus and file virus
+which increas it abil to spread thei can infect com and ex file and the boot sector
+of the comput hard drive
+on a comput boot up with an infect diskett a typic multipartit viru will first
+resid in memori and then infect the boot sector of the hard drive from there the viru can
+infect a pc entir environ thi type of viru account for a larg number of
+infect
+the tequila viru is a type of multipartit viru tequila is a memori resid master boot
+sector partit tabl and ex file infector it us a complex encrypt method and
+garbl to avoid detect when a program infect with tequila is execut the viru will
+modifi the hard disk master boot sector if it is not alreadi infect the viru also copi
+itself to the last six sector of the system hard disk when the workstat is later reboot
+from the system hard disk tequila will becom memori resid onc tequila is memori
+resid it infect ex file when thei ar execut
+the chkdsk command will indic the system ha 3072 fewer byte of memori than
+what is instal infect ex program increas in size by 2468 byte though the file
+length increas cannot be seen in the disk directori list becaus the viru hide it
+tequila activ four month after the initi date of infect at thi time and everi
+month thereaft the viru will displai a graphic and the follow messag execut mov
+ax fe03 int 21 kei to go on
+polymorph virus
+polymorph virus creat vari though fulli function copi of themselv as a wai to
+avoid detect by antiviru softwar some polymorph virus us differ encrypt
+comput and internet fraud financi transact
+11820 2011 fraud examin manual
+scheme and requir differ decrypt routin thu the same viru mai look
+complet differ on differ system or even within differ file other polymorph
+virus vari instruct sequenc and us fals command in the attempt to thwart antiviru
+softwar on of the most advanc polymorph virus us a mutat engin and
+randomnumb gener to chang the viru code and it decrypt routin
+spanska4250 is a type of polymorph viru thi viru infect program file file with ex
+and com extens when on of the program is infect the viru hide in the
+comput memori spanska4250 remain in memori on the lookout to infect program
+execut by user onc spanska4250 carri out it infect the size of the infect
+program will increas by 4250 byte the viru size moreov the follow messag will
+be displai c spanska 97 thi viru us an antitrac techniqu to make it more
+difficult to detect in addit it us the system date to encrypt itself so it will be possibl to
+find up to 366 differ variant of thi viru
+stealth virus
+stealth virus ar more sophist virus thei constantli chang their pattern in an
+effort to blend into the system thei attempt to avoid detect by bypass do interrupt
+call when thei ar instal and remov their code from the infect file befor the file is
+access by the request program
+the 4096 viru is a type of stealth viru it increas the file size by 4096 byte and decreas
+the memori by approxim 6kb the messag frodo live might appear in the
+middl of the screen if the infect file is run on septemb 21 it caus the system
+to crash
+mutat engin virus
+thi modern dai viru us a special languagedriven algorithm gener that enabl it to
+creat an infinit varieti of origin encrypt algorithm it avoid the checksum detect
+method like stealth virus by not chang the infect file size each time thei replic
+thei produc a new and differ code
+network virus
+it wa just a matter of time befor networkspecif virus were develop to attack the
+increas number of local area network lan and other type of network come
+onlin these virus ar gener develop to attack the file server
+financi transact comput and internet fraud
+2011 fraud examin manual 11821
+the boot sector and partit tabl virus infect the boot oper of the file server thi
+viru doe not spread from the workstat to the file server howev if you ar us
+netwar it can caus the softwar to lose the locat of it partit tabl on the file server
+if the file server is boot with an infect disk
+virus that infect program seem to be limit to infect file on the server howev
+becaus the file ar continu be access by workstat thi type of viru is
+difficult to contain
+at least two netwarespecif virus have been discov in europ on is the gp1 get
+password 1 viru it wa allegedli creat to penetr novel secur featur and then
+spread throughout the network the second cz2986 viru in czechoslovakia thi viru
+place itself in memori and intercept netwar function call when the workstat log in to
+the server after it collect 15 user namepassword combin it save them in an infect
+file and us them to gain access to the network
+worm
+a worm is a selfrepl program that resid as a file on a system execut an
+autonom process and deliber move from system to system it look for other
+node on the network copi itself to them and caus the selfcopi to execut on other
+node these program find network util show node name monitor network traffic
+and randomli select network identif code as well as other mischief
+an exampl of a worm is the sql slammer which race across the globe and wreak havoc
+on the internet in januari 2003 thi worm doubl the number of comput it infect
+everi 85 second in the first minut of it appear the worm which exploit a flaw in
+microsoft corpor sql server databas softwar caus damag by rapidli replic
+itself and clog the pipelin of the global data network the worm did not eras or caus
+damag to desktop comput but wa design to replic itself so fast and so effect
+that no other traffic could get through network
+viru carrier
+virus can infect comput system from mani sourc some of the more common viru
+carrier ar
+unknown or uncheck applic softwar
+softwar or media brought in by employe
+comput and internet fraud financi transact
+11822 2011 fraud examin manual
+program download from modem bulletin board
+unsolicit email
+vendor and supplier with infect softwar
+uncontrol and share program applic
+demonstr softwar
+freewar and sharewar
+viru indic
+the follow ar some of the indic that a comput might exhibit suggest that it
+might be infect
+a sudden and sometim dramat decreas of free space on your media
+the system suddenli and for no appar reason slow down it commandrespons
+time
+an increas in the size of some file
+there ha been a chang in the length of execut file a chang in their content or a
+chang in their file datetim stamp
+an unexpect number of disk access especi to particular file
+the oper system andor other program suddenli begin behav in unpredict
+wai sometim disk file that should be there cannot be access or ar suddenli
+eras with no warn
+unusu messag and graphic
+unabl to bootup the system
+unabl to access file
+unexplain and repeat mainten repair
+system or data file disappear or becom fragment
+unexplain chang in memori
+unexplain chang in program size
+resid antivir softwar program displai messag that a viru ha been encount
+note that until the sourc of the viru ha been identifi and remov from the system
+antivir system might continu inform the oper that a viru is be encount
+and remov
+viru protect
+comput user should take measur to protect their comput against virus some of
+the step that can be taken ar
+do not us a disk to boot your system
+financi transact comput and internet fraud
+2011 fraud examin manual 11823
+if you must boot your system from a disk make sure it is properli label and
+continu protect
+dont instal sharewar or other untest program on your system but if you do dont
+put them in the root directori
+in a network environ dont place untest program on the server
+if you ar share inform on disk ensur thei onli contain inform and no
+execut file
+us current antiviru softwar to detect potenti virus
+back up all program and file
+write virusfre warranti and indemn into your purchas order and contract
+alwai writeprotect your system and program disk
+teach comput user about comput virus so that thei can recogn them
+alwai us caution when open email attach
+antiviru softwar oper
+convent disk scanner
+thi is the standard viru check program it is run when the user request it and it scan the
+content of the disk directori or file that the user want for ani boot sector andor file
+that contain virus that it recogn base on the viru descript inform in it viru
+definit file usual run manual by the user either as a prevent mainten activ
+or when a viru is suspect scan can also be autom through the us of a program
+schedul
+heurist scanner
+these scanner inspect execut file for code us algorithm to identifi oper that
+would indic an unknown viru thei might also examin macro to detect viruslik
+behavior
+behaviorbas detect scanner
+these applic run continu look for behavior that might indic viru activ
+for exampl instruct to format a hard drive
+chang detect scanner
+chang detect scanner gener a databas of characterist for execut file and
+check for chang to these file that might signifi a viru attack
+comput and internet fraud financi transact
+11824 2011 fraud examin manual
+inocul
+thi is a total differ approach to viru detect instead of look for the virus
+themselv thi techniqu look for the chang that the virus make to file and boot
+sector start with a clean system the softwar inocul each boot sector and
+program file by store a snapshot of inform about it base on it content and size
+then period it reexamin these file to see if anyth ha chang if it ha then the
+util will inform the user if the user hasnt made the chang the viru mai have
+the main advantag of thi type of viru detect is that sinc it is look at the effect of
+the viru it doesnt need to know what the viru itself is thi mean it will detect even new
+virus without requir updat viru definit file all of the time the disadvantag and
+why it is not us that often is that it gener a substanti amount of fals posit
+investig viru infect
+viru infect can be investig by take the follow action
+isol the system and all media
+run antiviru softwar
+document find
+interview the system custodian and all user and determin
+symptom
+damag
+prior cleanup conduct
+access control in place and work
+system malfunct
+person media us
+unauthor media us
+viru identif
+follow the audit trail of the infect
+determin the sourc of the virusperson system or media
+make user awar of protect polici and procedur
+ensur countermeasur ar in place and work
+track cost of viru problem
+financi transact comput and internet fraud
+2011 fraud examin manual 11825

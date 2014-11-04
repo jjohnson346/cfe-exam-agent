@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=You are a Certified Fraud Examiner who has been contacted by a client. He told you that he had paid a commission up front to a broker to help him obtain a loan. He found out later that the broker had taken his money and skipped town. This is a confidence scheme known as:
+
+Options=A Ponzi | A bait and switch | An advance fee swindle | None of the above
+
+CorrectResponse=2
+
+Explanation=Advance fee swindles are structured to obtain an illegal gain by falsely promising the delivery of a product or a service. In some schemes, the product is marketed to a large number of customers and then the operation is shut down prior to the delivery stage.See page(s) 1.1702 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,63 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Keyword Searches
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Keyword Searches 
+Once the collection process is complete, examiners are left with large volumes of digital data 
+that may contain relevant or irrelevant information. At this point, the examiner must process 
+and filter the digital information to reduce the amount of data (commonly known as data 
+culling) that has been collected by performing keyword searches to identify relevant 
+information. 
+ 
+Keyword searches involve identifying relevant evidence by searching for words that are 
+material to a case (e.g., names, dates, account numbers, etc.). This type of search will 
+minimize the amount of time used to complete an analysis, and it will help protect the fraud 
+examiner from allegations that his search was overly broad. 
+ 
+Based on the information known about the case, the examiner should establish a list of 
+relevant keywords. Because enormous amounts of data will need to be searched in most 
+fraud examinations, examiners and investigators should take care in keeping the list as short 
+and relevant as possible, and they should avoid common words or words that can be part of 
+other words. As a case progresses, there is a strong likelihood that more keywords will be 
+identified. Furthermore, search terms can be devised to look for patterns in data. 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.723 
+
+
+
+:
+
+
+keyword search
+onc the collect process is complet examin ar left with larg volum of digit data
+that mai contain relev or irrelev inform at thi point the examin must process
+and filter the digit inform to reduc the amount of data commonli known as data
+cull that ha been collect by perform keyword search to identifi relev
+inform
+keyword search involv identifi relev evid by search for word that ar
+materi to a case eg name date account number etc thi type of search will
+minim the amount of time us to complet an analysi and it will help protect the fraud
+examin from alleg that hi search wa overli broad
+base on the inform known about the case the examin should establish a list of
+relev keyword becaus enorm amount of data will need to be search in most
+fraud examin examin and investig should take care in keep the list as short
+and relev as possibl and thei should avoid common word or word that can be part of
+other word as a case progress there is a strong likelihood that more keyword will be
+identifi furthermor search term can be devis to look for pattern in data
+investig digit forens
+2011 fraud examin manual 3723

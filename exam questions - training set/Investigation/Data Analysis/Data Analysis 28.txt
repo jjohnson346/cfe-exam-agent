@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is an example of a data analysis function that can be performed to detect fraud through examination of the general ledger?
+
+Options=Calculate financial ratios | Create actual-to-budget comparison reports | Analyze and confirm specific ledger accounts for legitimate transaction activity | All of the above
+
+CorrectResponse=3
+
+Explanation=The following are typical examples of data analysis queries that can be performed by data analysis software on the general ledger:‰?¢	Select specific journal entries for analysis‰?¢	Create actual-to-budget comparison reports‰?¢	Analyze and confirm specific ledger accounts for legitimate transaction activity‰?¢	Speed account reconciliation through specialized account queries‰?¢	Calculate financial ratios‰?¢	Calculate percentage comparison ratio between accounts‰?¢	Prepare custom reports, cash flow, profit/loss, and asset and liability total reports‰?¢	Compare summaries by major account in any order (low-high, high-low)See page(s) 3.611 in the Fraud Examiner's Manual

@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+insurance                              1
+reveal                                 1
+have                                   1
+security                               1
+ghost                                  1
+because                                1
+of                                     1
+numbers                                2
+social                                 2
+required                               1
+employee                               1
+is                                     1
+may                                    1
+duplicate                              2
+such                                   1
+or                                     1
+government-issued                      1
+a                                      3
+as                                     1
+number                                 2
+identification                         2
+listing                                1
+each                                   1
+employees                              1
+
+Totals:                     25        32

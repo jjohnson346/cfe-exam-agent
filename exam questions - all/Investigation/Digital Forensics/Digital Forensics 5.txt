@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=When taking a computer for examination, if the computer is off, you should not turn it on before taking it.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When securing a computer system, follow the two golden rules: (1) if the computer is off, don’t turn it on, and (2) don’t peek through the files.See page(s) 3.717 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Fair market value is the value a willing seller and a willing buyer would exchange in an open market. Sales price, on the other hand, is the actual amount exchanged.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=Fair market value is the price the property would bring if freely offered on the open market with both a willing seller and a willing buyer (estimated). Sales price is the price paid for the property. It may be higher or lower than fair market value (actual). And, loan value is the percentage of a property's value (fair market value or sales price) a lender can or might loan a borrower.See page(s) 1.916 in the Fraud Examiner's Manual

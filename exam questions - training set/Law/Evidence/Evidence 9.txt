@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=A trial exhibit which was created specifically for the trial and which is illustrative of some issue in the case is classified as which of the following?
+
+Options=Demonstrative evidence | Testimonial evidence | Indirect evidence | Real evidence
+
+CorrectResponse=0
+
+Explanation=There are three basic forms, as distinguished from types, of evidence: testimonial, real, and demonstrative. Testimony refers to the oral statements made by witnesses under oath. Real evidence describes physical objects which played a part in the issues being litigated. A canceled check, an invoice, a ledger, letters and documents are real evidence, but the term includes any physical evidence. Therefore, a typewriter or printer in a case involving questioned documents is clearly real evidence; so is a tape recording, since members of the court can experience the sounds firsthand. Demonstrative evidence is a tangible item that illustrates some material proposition (e.g., a map, a chart, a summary).See page(s) 2.702 in the Fraud Examiner's Manual

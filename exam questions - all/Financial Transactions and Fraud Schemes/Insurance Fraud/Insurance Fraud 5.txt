@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=The largest amount of insurance fraud occurs in the area of:
+
+Options=Health care | Life insurance | Auto insurance | None of the above
+
+CorrectResponse=0
+
+Explanation=There are a multitude of insurance fraud schemes. Likewise, there are fraud schemes that are prevalent only in specific insurance areas. The largest amount of fraud is in health care. Health care is particularly susceptible because of the variety of schemes and perpetrators (i.e., providers, the insured, agents, insurance companies, employees, and lawyers).See page(s) 1.1101-1.1102 in the Fraud Examiner's Manual

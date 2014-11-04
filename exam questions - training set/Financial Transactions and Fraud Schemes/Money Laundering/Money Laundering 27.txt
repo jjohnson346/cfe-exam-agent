@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The _______________________ is an office within the Department of the Treasury charged with administering and enforcing U .S. sanction policies against targeted foreignorganizations and individuals that sponsor terrorism and international narcotics traffickers.
+
+Options=Office of Foreign Assets Control | Central Intelligence Agency | Office of Money Laundering Compliance | FinCEN
+
+CorrectResponse=0
+
+Explanation=The Office of Foreign Assets Control (OFAC) is an office within the Department of the Treasury charged with administering and enforcing U.S. sanction policies against targeted foreign organizations and individuals that sponsor terrorism and international narcotics traffickers. OFAC maintains a list of individuals, governmental entities, companies, and merchant vessels around the world that are known or suspected to engage in illegal activities. See page(s) 1.1620 in the Fraud Examiner?s Manual

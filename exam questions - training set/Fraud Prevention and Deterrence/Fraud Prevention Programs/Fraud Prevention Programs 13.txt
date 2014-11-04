@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Given all of the following fraud prevention methods within organizations, which one is probably the most effective?
+
+Options=Having an open-door policy | Reducing rationalization | Screening employees | Increasing the perception of detection
+
+CorrectResponse=3
+
+Explanation=Increasing the perception of detection may well be the most effective fraud prevention method. Controls, for example, do little good in forestalling internal theft and fraud if their presence is not known by those at risk. In the audit profession, this means letting employees, managers, and executives know that auditors are actively seeking out information concerning internal theft.See page(s) 4.720 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=A health care provider's practice of charging a comprehensive code as well as one or more component codes by billing separately for subcomponents of a single procedure is known as_
+
+Options=Upcoding | Capping | Unbundling | None of the above
+
+CorrectResponse=2
+
+Explanation=Coding fragmentation involves the separation of one medical procedure into separate components to increase charges. Instead of charging for a hysterectomy under one code, the provider would charge for a laparotomy (cutting the abdomen) as v/ell as for the removal of the individual organ. This is often referred to as unbundling.See page(s) 1.1226 in the Fraud Examiner‰??s Manual

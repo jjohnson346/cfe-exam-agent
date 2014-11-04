@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=If a publicly traded company is required to prepare an accounting restatement due to the company's material noncompliance, as a result of "misconduct," with any financial reporting requirement under securities laws, then the CEO and CFO must reimburse the company for which of the following?
+
+Options=Any bonus received during the 12 months after the initial filing of the report that requires restating | Any equity-based compensation received during the 12 months after the initial filing of the report that requires restating | Any profits realized from the sale of the company's securities during the 12 months after the initial filing of the report that requires restating | All of the above
+
+CorrectResponse=3
+
+Explanation=One of the most unique aspects of the Sarbanes-Oxley Act is § 304, which states that if a publicly traded company is required to prepare an accounting restatement due to the company’s material noncompliance, as a result of "misconduct/1 with any financial reporting requirement under securities laws, then the CEO and CFO must reimburse the company for:•	Any bonus or other incentive-based or equity-based compensation received during the 12 months after the initial filing of the report that requires restating; and•	Any profits realized from the sale of the company’s securities during the same 12-month period.See page(s) 1.1512 in the Fraud Examiner’s Manual

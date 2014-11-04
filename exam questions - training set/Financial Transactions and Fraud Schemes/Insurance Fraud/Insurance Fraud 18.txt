@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=The person who is used to recruit patients for an organized insurance fraud scheme is known as a:
+
+Options=Capper | Pigeon | Winger | None of the above
+
+CorrectResponse=0
+
+Explanation=A capper, also known as a runner, is used to recruit patients for the organized insurance fraud scheme. He may be employed by either the attorney or doctor and is paid, either on a percentage of the total take or on a per person basis, for bringing in patients. A capper may make as little as $150 per patient, or as much as SI ,500 per patient, depending on the area of the country. The capper approaches the patient at an unemployment compensation line, the work site, the scene of the accident, or at any other types of organized gatherings. With promises of enrichment, the patient is brought into the scheme.See page(s) 1.1118 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=When seizing a laptop computer for forensic examination, you should do which of the following first?
+
+Options=Close the lid | Remove the battery | Unplug the computer | Turn off the screen
+
+CorrectResponse=1
+
+Explanation=Laptop computers present special considerations. When seizing a laptop, it is important to remove the battery first and then pull the plug. It is essential when seizing a laptop to recover all of the components that belong to the laptop such as zip drives, CD- and DVD-ROMs, and power supply. Often laptop computers must be imaged with their drives installed and because of the proprietary nature of the laptops themselves, they will only function with their own components. Many times these components can be located in the laptop carrying case.See page(s) 3.718 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Which of the following situations is often present in real estate fraud schemes?
+
+Options=A false appraisal report | No expert assistance at closing | Attorneys filing false documents | None of the above
+
+CorrectResponse=0
+
+Explanation=Real estate transactions assume a willing buyer and a willing seller. Fraud can occur when the transaction breaks down or the expert assistance is not at arm's length. Many real estate fraud schemes have a false appraisal report as a condition precedent.See page(s) 1.915 in the Fraud Examiner's Manual

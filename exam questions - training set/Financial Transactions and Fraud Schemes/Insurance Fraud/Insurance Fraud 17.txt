@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Workers' compensation schemes are generally broken into four categories. Which of the following is NOT one of these categories?
+
+Options=Off-duty fraud | Agent fraudx | Claimant fraud | All of the above are categories
+
+CorrectResponse=0
+
+Explanation=Workers' compensation schemes are generally broken into four categories: premium fraud, agent fraud, claimant fraud, and organized fraud schemes.See page(s) 1.1114 in the Fraud Examiner's Manual

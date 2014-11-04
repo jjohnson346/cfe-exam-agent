@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=ABC Corporation is concerned about employee theft and wants to retain the right to conduct searches of employee workspaces. It also wants to avoid any possible invasion of privacy claims as a result of those searches. The corporation consults Black, a CFE. In order to eliminate the potential for invasion of privacy claims, Black should suggest:
+
+Options=Issuing a written search policy | That the company openly retain keys to all employee desks and lockers | That the company obtain employee consent before searches | All of the above will help eliminate invasion of privacy claims
+
+CorrectResponse=3
+
+Explanation=An employer can eliminate the potential for claim of invasion of privacy by publishing and following a “search" policy. Also the following measures can be taken:Having a written policy regarding searches, surveillance, and telephone monitoring Retaining a key to all desks, lockers, etc.Requiring employees to provide keys to all personal locks Obtaining consent to searchSee page(s) 2.435 in the Fraud Examiner's Manual

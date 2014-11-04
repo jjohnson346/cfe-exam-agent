@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=In the area of criminal justice, ________________________ specify the sentence for a criminal for a fixed number of years, usually set by the legislature, to be served upon conviction of a certain offense.
+
+Options=Indeterminate sentences | Determinate sentences | Split sentences | None of the above
+
+CorrectResponse=1
+
+Explanation=A determinate sentence is one of a fixed number of years, usually set by the legislature, to be served upon conviction of a certain offense. In so-called “flat0 determinate sentences, the offender must serve the entire time in prison, say five years for a fraud violation. More often (though decreasingly so in many jurisdictions) the flat sentence can be reduced, usually by as much as one-third, for ‘ good behavior." This carrot is considered important by some prison administrators because it offers a reward for conforming to institutional rules beyond the avoidance of punishments meted out within the walls, such as solitary confinement.See page(s) 4.309 in the Fraud Examiner's Manual

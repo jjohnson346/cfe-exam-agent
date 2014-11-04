@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=While the telephone, newspaper, and postal service used to be the key tools of telemarketing fraudsters, the Internet has afforded fraudsters a more fast paced and anonymous method to carry out their schemes.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=While the telephone, newspaper, and postal service used to be the key tools of telemarketers, the Internet has afforded fraudsters a more fast paced and anonymous method of carrying out their schemes. The number one scam currently found on the Internet, says the National Consumer's League Fraud Watch (NCL), is the fake check scam, in which consumers are paid with a phony check for work or items sold and are instructed to wire money back. This has been the number one ranking telemarketing fraud for two years running. Advance fee scams and phishing also rank in the top ten schemes on the World Wide Web.

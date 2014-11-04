@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=A list or amount of expensive jewelry and furs can sometimes be obtained through examination of a mortgage loan file.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A mortgage loan file often contains a copy of the borrower's home owner‰??s insurance policy. The home owner‰??s insurance policy might contain a rider that lists the home owner‰??s valuable assets, such as jewelry or furs, perhaps with appraisals and purchase receipts.See page(s) 3.822 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Loan fraud represents a high risk for financial institutions because although the loss amounts are lower than other types of fraud, the number of instances is usually higher.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Loan fraud is a multifaceted activity that includes several types of criminal activities. Larger loan fraud schemes often involve real estate lending and collusion between insiders and outsiders. Loan fraud represents the highest risk area for financial institutions. Although the number of occurrences might be small, the dollar amount per occurrence tends to be large.See page(s) 1.903 in the Fraud Examiner's Manual

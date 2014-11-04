@@ -1,0 +1,22 @@
+Token                          Frequency
+-----------------------------  ---------
+insurance                              1
+to                                     2
+phony                                  1
+agents                                 1
+set                                    1
+at                                     1
+bogus                                  1
+companies                              1
+rates                                  1
+health                                 1
+in                                     1
+up                                     1
+order                                  1
+sell                                   1
+will                                   1
+group                                  1
+groups                                 1
+individuals                            1
+
+Totals:                     18        19

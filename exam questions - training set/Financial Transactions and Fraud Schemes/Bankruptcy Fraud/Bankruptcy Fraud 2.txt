@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=The most common bankruptcy-related crime is:
+
+Options=Concealment of assets | A planned bustout | Multiple filing | A petition mill
+
+CorrectResponse=0
+
+Explanation=The most common bankruptcy-related crime is the concealment of assets rightfully belonging to the debtor estate. Concealments vary from little or no monetary value to tens of millions of dollars.

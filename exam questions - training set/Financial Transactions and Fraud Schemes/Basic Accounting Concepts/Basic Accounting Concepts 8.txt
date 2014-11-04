@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Which of the following is NOT one of the major standards of generally accepted accounting principles?
+
+Options=Accuracy | Going concern | Matching | Full disclosure
+
+CorrectResponse=0
+
+Explanation=Generally accepted accounting principles include these eight major standards:‰?¢	Materiality‰?¢	Matching‰?¢	Conservatism‰?¢	Going concern‰?¢	Cost‰?¢	Objective evidence‰?¢	Consistency‰?¢	Full disclosureSee page(s) 331 in the Corporate Fraud Handbook

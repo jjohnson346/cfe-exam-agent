@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The identity of the accountants of a public company can be obtained from:
+
+Options=The corporate charter | The secretary of state's office | The Securities and Exchange Commission | None of the above
+
+CorrectResponse=2
+
+Explanation=The Securities and Exchange Commission (SEC) maintains public records of corporations with stocks and securities sold to the public. These records include the following:‰?¢	Financial statements‰?¢	Identification of officers and directors‰?¢	Identification of owners of more than 10 percent of a business‰?? stock‰?¢	A description of the registrant's properties and businesses‰?¢	A description of the significant provisions of the security to be offered for sale and its relationship to the registrant's other capital securities‰?¢	Identification of events of interest to investors‰?¢	Identification of accountants and attorneys‰?¢	A history of the businessSee page(s) 3.443-3.444 in the Fraud Examiner's Manual

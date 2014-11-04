@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In admission-seeking interviews, the initial accusation of the accused should be made in the form of a question rather than a statement.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The accusation should not be made in the form of a question, but as a statement. Emotive words such as "steal," "fraud,‰?? and "crime" should be avoided during the accusatory process. The accusation should be phrased as though the accused's guilt has already been established so that the accused is psychologically trapped, with no way out.See page(s) 3.251 in the Fraud Examiner's Manual

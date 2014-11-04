@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Billing for mutually exclusive procedures, which encompasses procedures that are impossible to perform together, is another form of unbundling.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Billing for mutually exclusive procedures is a form of unbundling. It encompasses billing for procedures that are either impossible to perform together or. by accepted standards, should not be performed together.See page(s) 1.1226 in the Fraud Examiner’s Manual

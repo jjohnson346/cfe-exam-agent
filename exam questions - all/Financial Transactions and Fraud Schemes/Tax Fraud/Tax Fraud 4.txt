@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If a taxpayer embezzles money from his employer, reports the illicit income on his federal income tax return, and later pays the embezzled money back, what might the taxpayer be able to deduct on his tax return?
+
+Options=The amount paid back under the claim of right doctrinex | Nothing | The amount stolen and paid back as a theft loss | The amount stolen and paid back as an ordinary and necessary business expense
+
+CorrectResponse=3
+
+Explanation=In Stephens v. Commissioner, 905 F.2d 667 (7th Cir. 1990), a taxpayer embezzled about S530.000 from his employer (Raytheon) and recorded it on his tax return as "consulting income." The taxpayer was ordered to pay restitution to Raytheon plus interest. He was allowed deductions under IRS Code 165 (c) (2), relating to ordinary and necessary business expense for the restitution amount in the year paid. No deduction for interest was allowed.See page(s) 1.1412 in the Fraud Examiner’s Manual

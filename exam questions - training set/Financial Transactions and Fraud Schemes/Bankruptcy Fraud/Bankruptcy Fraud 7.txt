@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=All of the following are responsibilities of a bankruptcy judge EXCEPT: 
+
+Options=Hearing all cases regarding debtor and creditor rights | Recommending reorganization plans to district judges | Awarding fees to professionals | Conducting hearings and trials
+
+CorrectResponse=1
+
+Explanation=All bankruptcy cases are filed in the local district of the United States Bankruptcy Court. Bankruptcy judges hear all cases involving debtor and creditor rights, approve plans of reorganization, award fees to professionals, and conduct hearings and trials.See page(s) 1.1301 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=A successful Chapter 7 bankruptcy case results in the discharging of all of the person's dischargeable debts.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=An individual debtor's objective in a Chapter 7 case is to be relieved of all dischargeable debts and to obtain a fresh start. This is accomplished by the court granting the individual debtor a discharge.See page(s) 1.1303 in the Fraud Examiner's Manual

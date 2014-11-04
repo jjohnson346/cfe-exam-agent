@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Illicit income might be considered ____________ evidence of tax fraud.
+
+Options=Unreliable | Circumstantial | Questionable | Demonstrative
+
+CorrectResponse=1
+
+Explanation=Circumstantial evidence for tax fraud may include either illicit income or income in excess of deposits. Any illicit income can be considered circumstantial evidence of fraud.See page(s) 1.1412 in the Fraud Examiner‰??s Manual

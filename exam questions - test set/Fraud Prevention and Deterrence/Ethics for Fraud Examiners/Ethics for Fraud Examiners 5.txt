@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=If a Certified Fraud Examiner engaged in an illegal activity not knowing at the time that the activity was illegal. Article II of the Certified Fraud Examiner Code of Professional Ethics will protect the examiner as it states that "A CFE may not knowingly engage in illegal or unethical conduct.".
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Some rules for other professions insert the word "knowingly‰?? in relation to illegal activities, saying "One should not knowingly be a party to an illegal activity." The Certified Fraud Examiner Code of Professional Ethics does not include this way out. The article states: "A CFE shall not engage in any illegal or unethical conductCertified Fraud Examiners generally are not entitled to claim ignorance of the law. They are expected to know a considerable amount about the law in connection with investigations, and they are expected to know when to consult a lawyer.See page(s) 4.1006 in the Fraud Examiner‰??s Manual

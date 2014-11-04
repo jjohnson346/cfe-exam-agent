@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=If an insurance company does not attempt to uncover false claims by its insured, it can, under certain circumstances, be found guilty of health care or insurance fraud.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=Mishandling claims also arises primarily in the area of an insurance company acting as an intermediary administering the insurance program of the payer. The insurance company is under a duty to try to detect false claims. Although it is impossible to detect every fraudulent claim, if a company bypasses its own claims verification procedures, it can be guilty of fraud.See page(s) 1.1211 in the Fraud Examiner's Manual

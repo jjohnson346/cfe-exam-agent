@@ -1,0 +1,275 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Securities Fraud Schemes/Insider Trading
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Insider Trading 
+Under the legal theory of misappropriation, the use of non-public information to profit from 
+purchase or sale of securities may violate the insiders’ fiduciary duty to their company or 
+shareholders. Although not all courts accept this argument, criminal charges are not unusual 
+in cases of this nature. Ivan Boesky and Michael Milken, indicted for insider trading in the 
+late 1980s, both served time in prison.  
+  
+EXAMPLE 
+A California psychotherapist, pleaded guilty to securities fraud after federal officials accused 
+him of making a nice profit after trading on some inside information he learned during a 
+counseling session with a client. 
+ 
+According to federal officials, the psychotherapist bought common stock in Lockheed Corp. 
+hours after his client — a company executive undergoing marriage counseling — mentioned 
+the secret and ultimately successful merger talks between Lockheed and Martin Marietta 
+Corp. 
+ 
+Under a legal doctrine known as the “misappropriation theory,” he was deemed to have 
+violated securities laws because he stole information from a person who had assumed his 
+trust and discretion, and then used the in formation to trade on the stock market. 
+ 
+PUBLIC DISCLOSURE REQUIREMENTS 
+In 2000, the SEC adopted rules concerning public disclosure of information. Regulation FD 
+(Fair Disclosure) was promulgated to eliminate “selective” disclosure by companies to 
+certain groups (such as brokers and analysts) before such information was made available to 
+the public. 
+ 
+Securities Fraud  Financial Transactions   
+1.1540                           2011 Fraud Examiners Manual  
+The Regulation states that if a company, or someone on its behalf, discloses “material non-
+ public” information to a particular group (primarily market securities professionals), it must 
+make a public disclosure of the information. The timing of the disclosure depends on 
+whether the disclosure was intentional or inadvertent. If the disclosure was intentional, then 
+company must make the disclosure simultaneously. If the disclosure was inadvertent, then 
+the company must make the disclosure “promptly.” 
+ 
+The SEC provides three options for proper dissemination: 
+1. File the information with the SEC on a Form 8-K.  
+2. Disseminate the information through a press release.  
+3. Disseminate the information through any other method or combination of methods that 
+are reasonably designed to provide broad public distribution of the information, such as 
+an announcement at a press conference open to the public.  
+ 
+Regulation FD only applies to material communications between company executives or 
+authorized spokespersons to analysts, institutional investors, and holders of the company’s 
+stock. Regulation FD also applies only to senior executives and excludes communications 
+with the media, with ratings agencies, and with customers conducted in the normal course of 
+business. Information is considered “material” if there is a substantial likelihood that a 
+reasonable shareholder would consider it important in making an investment decision, or if 
+it would have significantly altered the total mix of information available. 
+ 
+INSIDER TRADING RULES 
+Rule 10b-5, promulgated under section 10(b) of the Securities Exchange Act of 1934, 
+prohibits any false statements or other fraudulent activity in connection with the purchase or 
+sale of any security, including insider trading. It provides the main basis for the SEC to 
+investigate possible security fraud claims. Rule 10b-5 contains civil and administrative 
+remedies (such as the power to initiate actions to enjoin further violations) enforced by the 
+SEC as well as criminal sanctions enforced by the Department of Justice. Specifically, rule 
+10b-5 makes it unlawful for anybody to directly or indirectly conduct operations of business 
+that would deceive another person concerning transactions involving securities. Although 
+the text of the Securities Exchange Act does not provide for a private cause of action for 
+rule 10b-5 violations, the Supreme Court found an implied right, which typically requires the 
+plaintiff to prove (1) a material misstatement or omission; (2) intentional fraud or deceit by 
+the party charged with the violation; (3) relia nce on the misrepresentation or omission in the 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1541 
+purchase or sale of a security; and (4) econom ic loss caused by the purchase or sale of  
+the security.  
+ 
+However, 10b-5 claims do have certain limitations. For example, there is no private cause of 
+action against those who merely aided and abetted the primary violators, and in Stoneridge 
+Investment Partners, LLC v. Scientific-Atlanta, Inc., the Court held that there is no private cause 
+of action against third parties who neither make alleged misstatements nor engage in 
+deceptive conduct on which investors relied. 
+ 
+In Stoneridge, a group of investors in Charter Communications, Inc. accused two Charter 
+suppliers of entering in a business scheme with Charter, which allowed Charter to issue 
+fraudulent financial statements. In the alleged scheme, Charter gave its equipment vendor 
+above-normal payments for T.V. set-top boxes and the supplier then gave back the extra 
+payments as advertising fees. Charter then fraudulently accounted the returned payments as 
+revenue. The Court ruled that the Rule 10b-5 does not extend to third parties (aiders or 
+abettors) who do not make alleged misstatements and do not engage in deceptive conduct 
+on which investors relied. There was no basis for finding that the group of investors did not 
+rely on anything the suppliers said or did. The investors could not have relied upon the 
+suppliers’ deceptive acts for two reasons: (1) Charter’s suppliers did not take part in 
+preparing or distributing the fraudulent statements; and (2) the suppliers did not make any 
+misstatements relied upon by the public or violate any duty to disclose. As a result, the Court 
+held that the group of investors could not show reliance on any of the suppliers’ actions.  
+ 
+The interesting thing about the Stoneridge decision is that it cannot be broadly read to say that 
+secondary actors (lawyers, accountants, and bankers) are free from liability under Rule 10b-5. 
+The Court held that deceptive conduct can provide the basis for securities fraud liability if 
+plaintiffs can establish that they relied on that conduct. Unlike the relationship between the 
+investors and suppliers in Stoneridge, lawyers and accountants often serve as advisers, which 
+could be considered as taking part in activities that investors could rely upon.  
+ 
+The SEC also recently issued Rule 10b5-1 and Rule 10b5-2 to supplement section 10(b) of 
+the Securities Exchange Act of 1934 and Rule 10b-5. Rule 10b5-1 and Rule 10b5-2 deal with 
+unsettled issues that have arisen under Rule 10b-5. 
+ 
+ 
+Securities Fraud  Financial Transactions   
+1.1542                           2011 Fraud Examiners Manual  
+Rule 10b5-1 addresses the issue of when insider trading liability arises in connection with a 
+trader’s “use” or “knowing possession” of mater ial non-public information. Specifically, rule 
+10b5-1 prohibits the purchase or sale of a security “on the basis of” material, non-public 
+information. However, the Rule also sets forth an affirmative defense for traders if they can 
+show that such trades were made pursuant to a preexisting, written 10b5-1 trading plan.  
+ 
+Recently, the SEC indicated that it intends to scrutinize plans contemplated by Rule 10b5-1 
+more critically. This increased scrutiny likely resulted from the publication of a 2006 study by 
+Alan Jagolizer, an assistant professor at the Stanford University Graduate School of 
+Business, which suggested that on average, sales under Rule 10b5-1 plans were generating 
+“abnormal trade returns” and that such plans seemed to outperform the market.  
+ 
+Rule 10b5-2 addresses the issue of when a breach of a family or other non-business 
+relationship may give rise to liability under the misappropriation theory of insider trading. 
+Under the misappropriation theory, as defined by the Supreme Court case in United States v. 
+O’Hagan, 521 U.S. 642 (1997), a person is liable for securities fraud if he: 
+• Misappropriates confidential information, 
+• For the purpose of securities trading, 
+• In breach of a duty owed to the sources, and 
+• Trades based on the misappropriated information. 
+ 
+Rule 10b5-2 seeks to provide further guidance regarding what types of relationships create a 
+“duty” not to use the information received. For example, if a person agrees to keep the 
+information in confidence, a duty of trust or confidence will exist. Similarly, if two persons 
+have a “history, pattern, or practice of sharing confidences,” such that the recipient 
+reasonably should know that the other expects that the inside information will remain 
+confidential, a duty of trust or confidence will exist. 
+ 
+Subsection (b)(3) also creates a presumption that any person who receives inside information 
+from his spouse, parent, child, or sibling will owe that other person a duty of trust or 
+confidence. 
+ 
+
+
+
+:
+
+
+insid trade
+under the legal theori of misappropri the us of nonpubl inform to profit from
+purchas or sale of secur mai violat the insid fiduciari duti to their compani or
+sharehold although not all court accept thi argument crimin charg ar not unusu
+in case of thi natur ivan boeski and michael milken indict for insid trade in the
+late 1980 both serv time in prison
+exampl
+a california psychotherapist plead guilti to secur fraud after feder offici accus
+him of make a nice profit after trade on some insid inform he learn dure a
+counsel session with a client
+accord to feder offici the psychotherapist bought common stock in lockhe corp
+hour after hi client a compani execut undergo marriag counsel mention
+the secret and ultim success merger talk between lockhe and martin marietta
+corp
+under a legal doctrin known as the misappropri theori he wa deem to have
+violat secur law becaus he stole inform from a person who had assum hi
+trust and discret and then us the in format to trade on the stock market
+public disclosur requir
+in 2000 the sec adopt rule concern public disclosur of inform regul fd
+fair disclosur wa promulg to elimin select disclosur by compani to
+certain group such as broker and analyst befor such inform wa made avail to
+the public
+secur fraud financi transact
+11540 2011 fraud examin manual
+the regul state that if a compani or someon on it behalf disclos materi non
+public inform to a particular group primarili market secur profession it must
+make a public disclosur of the inform the time of the disclosur depend on
+whether the disclosur wa intent or inadvert if the disclosur wa intent then
+compani must make the disclosur simultan if the disclosur wa inadvert then
+the compani must make the disclosur promptli
+the sec provid three option for proper dissemin
+1 file the inform with the sec on a form 8k
+2 dissemin the inform through a press releas
+3 dissemin the inform through ani other method or combin of method that
+ar reason design to provid broad public distribut of the inform such as
+an announc at a press confer open to the public
+regul fd onli appli to materi commun between compani execut or
+author spokesperson to analyst institut investor and holder of the compani
+stock regul fd also appli onli to senior execut and exclud commun
+with the media with rate agenc and with custom conduct in the normal cours of
+busi inform is consid materi if there is a substanti likelihood that a
+reason sharehold would consid it import in make an invest decis or if
+it would have significantli alter the total mix of inform avail
+insid trade rule
+rule 10b5 promulg under section 10b of the secur exchang act of 1934
+prohibit ani fals statement or other fraudul activ in connect with the purchas or
+sale of ani secur includ insid trade it provid the main basi for the sec to
+investig possibl secur fraud claim rule 10b5 contain civil and administr
+remedi such as the power to initi action to enjoin further violat enforc by the
+sec as well as crimin sanction enforc by the depart of justic specif rule
+10b5 make it unlaw for anybodi to directli or indirectli conduct oper of busi
+that would deceiv anoth person concern transact involv secur although
+the text of the secur exchang act doe not provid for a privat caus of action for
+rule 10b5 violat the suprem court found an impli right which typic requir the
+plaintiff to prove 1 a materi misstat or omiss 2 intent fraud or deceit by
+the parti charg with the violat 3 relia nce on the misrepresent or omiss in the
+financi transact secur fraud
+2011 fraud examin manual 11541
+purchas or sale of a secur and 4 econom ic loss caus by the purchas or sale of
+the secur
+howev 10b5 claim do have certain limit for exampl there is no privat caus of
+action against those who mere aid and abet the primari violat and in stoneridg
+invest partner llc v scientificatlanta inc the court held that there is no privat caus
+of action against third parti who neither make alleg misstat nor engag in
+decept conduct on which investor reli
+in stoneridg a group of investor in charter commun inc accus two charter
+supplier of enter in a busi scheme with charter which allow charter to issu
+fraudul financi statement in the alleg scheme charter gave it equip vendor
+abovenorm payment for tv settop box and the supplier then gave back the extra
+payment as advertis fee charter then fraudul account the return payment as
+revenu the court rule that the rule 10b5 doe not extend to third parti aider or
+abettor who do not make alleg misstat and do not engag in decept conduct
+on which investor reli there wa no basi for find that the group of investor did not
+reli on anyth the supplier said or did the investor could not have reli upon the
+supplier decept act for two reason 1 charter supplier did not take part in
+prepar or distribut the fraudul statement and 2 the supplier did not make ani
+misstat reli upon by the public or violat ani duti to disclos as a result the court
+held that the group of investor could not show relianc on ani of the supplier action
+the interest thing about the stoneridg decis is that it cannot be broadli read to sai that
+secondari actor lawyer account and banker ar free from liabil under rule 10b5
+the court held that decept conduct can provid the basi for secur fraud liabil if
+plaintiff can establish that thei reli on that conduct unlik the relationship between the
+investor and supplier in stoneridg lawyer and account often serv as advis which
+could be consid as take part in activ that investor could reli upon
+the sec also recent issu rule 10b51 and rule 10b52 to supplement section 10b of
+the secur exchang act of 1934 and rule 10b5 rule 10b51 and rule 10b52 deal with
+unsettl issu that have arisen under rule 10b5
+secur fraud financi transact
+11542 2011 fraud examin manual
+rule 10b51 address the issu of when insid trade liabil aris in connect with a
+trader us or know possess of mater ial nonpubl inform specif rule
+10b51 prohibit the purchas or sale of a secur on the basi of materi nonpubl
+inform howev the rule also set forth an affirm defens for trader if thei can
+show that such trade were made pursuant to a preexist written 10b51 trade plan
+recent the sec indic that it intend to scrutin plan contempl by rule 10b51
+more critic thi increas scrutini like result from the public of a 2006 studi by
+alan jagol an assist professor at the stanford univers graduat school of
+busi which suggest that on averag sale under rule 10b51 plan were gener
+abnorm trade return and that such plan seem to outperform the market
+rule 10b52 address the issu of when a breach of a famili or other nonbusi
+relationship mai give rise to liabil under the misappropri theori of insid trade
+under the misappropri theori as defin by the suprem court case in unit state v
+ohagan 521 us 642 1997 a person is liabl for secur fraud if he
+misappropri confidenti inform
+for the purpos of secur trade
+in breach of a duti ow to the sourc and
+trade base on the misappropri inform
+rule 10b52 seek to provid further guidanc regard what type of relationship creat a
+duti not to us the inform receiv for exampl if a person agre to keep the
+inform in confid a duti of trust or confid will exist similarli if two person
+have a histori pattern or practic of share confid such that the recipi
+reason should know that the other expect that the insid inform will remain
+confidenti a duti of trust or confid will exist
+subsect b3 also creat a presumpt that ani person who receiv insid inform
+from hi spous parent child or sibl will ow that other person a duti of trust or
+confid

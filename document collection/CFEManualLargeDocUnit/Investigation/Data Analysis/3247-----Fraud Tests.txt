@@ -1,0 +1,146 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Tests
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Fraud Tests 
+Fraud examiners and auditors can use IDEA’s data  analysis applications to identify potential 
+signs of fraud. The following are a few examples of the types of fraud schemes that 
+examiners can identify with IDEA’s data analyses applications.   
+ 
+EMPLOYEE FRAUD 
+• Identify employee accounts at financial institutions that have excess numbers of credit 
+memos.  
+• Identify employee accounts at financial institutions that have large deposits. 
+• Compare employee home addresses, Social Security numbers, telephone numbers, and 
+bank routing and account numbers to those of vendors from vendor master file. 
+• At financial institutions, compare employee Social Security numbers against those of 
+deposit and loan accounts to identify those not properly coded as employee accounts. 
+• Analyze all debits to income accounts, particularly debit memos. 
+• Monitor the activity in suspense accounts, including the age of suspense items and the 
+rolling of similar amounts. 
+• Analyze claims paid by corporate medical insurance providers. 
+• Obtain a Social Security number listing from an outside vendor to test for valid Social 
+Security numbers and determine whether the holder is alive or deceased. 
+ 
+QUESTIONABLE INVOICES 
+• Identify invoices without a valid purchase order. 
+• Look for invoices from vendors not in the approved-vendor file. 
+• Find invoices for more than one purchase order authorization. 
+• Identify multiple invoices with the same item description. 
+• Extract vendors with duplicate invoice numbers. 
+• Look for multiple invoices for the same amount on the same date. 
+• Find invoice payments issued on non-business days (Saturday and Sundays). 
+• Identify multiple invoices at or just under approval cut-off levels. 
+ 
+PHANTOM VENDOR SCHEMES 
+• Match names, addresses, phone numbers,  and Social Security numbers between 
+employee and vendor files. 
+• Check vendor addresses against mail drop address lists. 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.620   2011 Fraud Examiners Manual  
+KICKBACK OR CONFLICT OF INTEREST SCHEMES 
+• Look for vendor prices greater than the standard. 
+• Identify price increases greater than acceptable percentages. 
+• Check for continued purchases in spite of high rates of returns, rejects, or credits. 
+• Look for high volume purchases from one vendor. 
+ 
+DORMANT ACCOUNT SCHEMES 
+• Check that all applicable accounts have been flagged as dormant. 
+• Identify dormant accounts with activity. 
+• Check for transfers from dormant accounts to employee accounts. 
+• Check changes of addresses on dormant accounts. Cross-check new addresses with 
+employee addresses. 
+ 
+MONEY LAUNDERING SCHEMES 
+• Identify accounts with large average values of transactions. It is common for there to be 
+a small number of high-value transactions through an account being used for money 
+laundering. 
+• Identify matched debit and credit transactions on the same account within a short time 
+period.  
+• Search for large, rounded transaction values. 
+• Identify multiple accounts for particular individuals. 
+• Identify large cash deposits. 
+• Test customer identification procedures by searching for missing data fields, such as date 
+of birth, Social Security number, or driver’s license number. 
+• Cross check customer addresses against mail drop address lists. 
+ 
+For more information about IDEA, visit www.audimation.com. 
+ 
+
+
+
+:
+
+
+fraud test
+fraud examin and auditor can us idea data analysi applic to identifi potenti
+sign of fraud the follow ar a few exampl of the type of fraud scheme that
+examin can identifi with idea data analys applic
+employe fraud
+identifi employe account at financi institut that have excess number of credit
+memo
+identifi employe account at financi institut that have larg deposit
+compar employe home address social secur number telephon number and
+bank rout and account number to those of vendor from vendor master file
+at financi institut compar employe social secur number against those of
+deposit and loan account to identifi those not properli code as employe account
+analyz all debit to incom account particularli debit memo
+monitor the activ in suspens account includ the ag of suspens item and the
+roll of similar amount
+analyz claim paid by corpor medic insur provid
+obtain a social secur number list from an outsid vendor to test for valid social
+secur number and determin whether the holder is aliv or deceas
+question invoic
+identifi invoic without a valid purchas order
+look for invoic from vendor not in the approvedvendor file
+find invoic for more than on purchas order author
+identifi multipl invoic with the same item descript
+extract vendor with duplic invoic number
+look for multipl invoic for the same amount on the same date
+find invoic payment issu on nonbusi dai saturdai and sundai
+identifi multipl invoic at or just under approv cutoff level
+phantom vendor scheme
+match name address phone number and social secur number between
+employe and vendor file
+check vendor address against mail drop address list
+data analysi and report tool investig
+3620 2011 fraud examin manual
+kickback or conflict of interest scheme
+look for vendor price greater than the standard
+identifi price increas greater than accept percentag
+check for continu purchas in spite of high rate of return reject or credit
+look for high volum purchas from on vendor
+dormant account scheme
+check that all applic account have been flag as dormant
+identifi dormant account with activ
+check for transfer from dormant account to employe account
+check chang of address on dormant account crosscheck new address with
+employe address
+monei launder scheme
+identifi account with larg averag valu of transact it is common for there to be
+a small number of highvalu transact through an account be us for monei
+launder
+identifi match debit and credit transact on the same account within a short time
+period
+search for larg round transact valu
+identifi multipl account for particular individu
+identifi larg cash deposit
+test custom identif procedur by search for miss data field such as date
+of birth social secur number or driver licens number
+cross check custom address against mail drop address list
+for more inform about idea visit wwwaudimationcom

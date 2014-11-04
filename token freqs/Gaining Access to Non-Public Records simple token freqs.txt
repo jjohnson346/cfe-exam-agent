@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+methods                                1
+to                                     4
+using                                  1
+one                                    1
+limitations                            1
+by                                     1
+examiner                               1
+difficult                              1
+fraud                                  1
+of                                     1
+personal                               1
+more                                   1
+are                                    1
+able                                   1
+below                                  1
+on                                     1
+be                                     2
+non-public                             3
+may                                    2
+or                                     1
+the                                    3
+available                              1
+access                                 1
+gaining                                1
+and                                    1
+therefore                              1
+not                                    1
+obtaining                              1
+obtain                                 2
+discussed                              1
+public                                 1
+records                                4
+despite                                1
+
+Totals:                     33        46

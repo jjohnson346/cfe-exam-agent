@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Which of the following is an acceptable defense to bankruptcy crime?
+
+Options=Concealment of assets was not from all creditors | Creditors had actual knowledge of concealed assets | Concealed assets were returned to the estate | None of the above choices are acceptable
+
+CorrectResponse=3
+
+Explanation=Defendants cannot use as a defense to charges the fact that creditors have actual knowledge of concealed assets or that the concealment was not from all creditors. They also cannot use as a defense the fact that they returned the estate's assets, though this may mitigate damages.

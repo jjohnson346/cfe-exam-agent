@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=All of the following are basic methods of proving illegal payments EXCEPT:
+
+Options=Turning an inside witness | Making inquiries of the Internal Revenue Service | Identifying and tracing through audit steps | Secretly infiltrating ongoing transactions
+
+CorrectResponse=1
+
+Explanation=There are three basic v/ays to prove illegal payments: identify and trace them by audit steps, turn an inside witness, or secretly infiltrate or record ongoing transactions. An audit may focus on the point of suspected payment or receipt, or both. As a very general proposition, on-book schemes are best approached from the point of payment, and off-book schemes are most easily identified at the suspected point of receipt, or through the use of an inside witness or surveillance.See page(s) 1.720 in the Fraud Examiner's Manual

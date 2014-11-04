@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, certain inhibitors to communication exist. One inhibitor is _________________, which is the respondent's tendency to confuse the order of experiences.	
+
+Options=Inferential confusion | Unconscious confusion | Chronological confusion | None of the above
+
+CorrectResponse=2
+
+Explanation=Chronological confusion is commonly encountered in interviews seeking case history information. This term refers to the respondent's tendency to confuse the order of experiences. This can occur in two ways: two or more events might be correctly recalled, but the respondent is unsure of the sequence, or only one event might be recalled, and it is incorrectly assumed to have been true at an earlier point.See page(s) 3.209 in the Fraud Examiner's Manual

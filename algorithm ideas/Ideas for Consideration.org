@@ -1,0 +1,205 @@
+#+STARTUP: indent
+
+
+* 1.  Implement an IR system in the cfe agent
+
+** a.  Create a data structure for containing all of the documents
+
+Now that the concept of the manual section has been updated so that
+the text bodies of all manuals are mutually exclusive (i.e.,
+if section A is a parent to section B, section a no longer contains
+text in its body that includes the text for section b. Section A
+only contains that portion that is not included in a child subsection,
+such as a header paragraph before the start of the first child section)
+we need to arrange these mutually exclusive docs in a data structure
+that makes sense for easy access/manipulation - a hash map where the 
+key values are the paths for the respective docs and the values 
+are the references to the docs (sections - doc/section to be used
+interchangeably).
+
+*** 1.  Id assignment for each document (cfe manual section)
+
+Much thought has gone into whether a doc id (an integer reflecting the sequence
+of the document within the structure of the cfe manual) should be used for a key.
+However, it appears for the moment that using
+the path will not only be sufficient for use as the key, it will
+provide useful information
+at a glance about the location of the given doc within the text - something
+that would be missing if only an integer (doc id) were used.
+This issue will likely be revisited as we move forward with implementing
+this data struture.
+
+*** 2.  Internal structure of the document (cfe manual section)
+
+In pa7, the text of each document was stored as an array list of string,
+where each string contained a sentence from the document. 
+
+
+
+** a.  First, implement a basic inverted index boolean retrieval system.
+
+*** 1.  Build a boolean inverted index.
+
+Build an inverted index based on stemmed terms of the manual.
+
+*** 2.  Build functions for tokenizing and stemming the query.
+
+*** 3.  Build a simplistic evaluator 
+
+The performance evaluator should include a set of queries for which
+the desired documents are specified.  The evaluator should verify that
+each of the desired documents are members of the return set of the 
+ir system for each query.
+
+** b.  Build a tf-idf ir system.
+
+*** Build tf-idf index using counterMap data structure
+
+Should follow the design of that created in the pa7 assignment.
+
+*** Re-use functions for tokenizing the query.
+
+*** Build more sophisticated evaluator.
+
+Evaluator should measure the rank of the top document
+in the set of docs returned by the ir system.
+
+** c.  Build cosine-similarity ir system.
+
+** d.  
+
+* 2.  build a language model system for the manual
+
+It is unclear how a language model can be used in qa systems at this point.  
+This connection should be investigated further.
+
+* 3.  Include not assertions that are gathered from the multiple choice questions.
+
+Incorrect options in the multiple choice questions offer valuable information,
+particularly since given that the ontology is built programmatically, a reasoning agent
+can't be
+certain whether a relation not mentioned in the ontology does not actually exist, or
+whether
+the relationship was simply overlooked by the ontology generator.  Not-assertions
+offer conclusive evidence of a non-relationship between objects in the problem
+domain, and thus, offer a reasoning agent an improved framework for making
+inferences when attempting to answer new test questions.
+
+* 4.  Re-design the manual section lookup table (stored in the AbstractCFEManual class)
+
+This lookup table should be structured so that a given key value (question section name)
+can map to multiple cfe manual sections.  This is necessary in some cases, such as for
+the question section, "The Law Related to Fraud" where there are 2 manual sections:
+"The Law Related to Fraud (Part 1)" and "The Law Related to Fraud (Part 2)".
+
+* 5.  Re-design the DocumentCollection class 
+
+Model the design of the DocumentCollection class to be like that of the QuestionCollection
+class.
+
+* 6.  In the reasoning agent, use the information from the profiler to make the KB/ontology
+
+The reasoning agent should have in its knowledge base the information from the profiler,
+including factus such as within the training set, we see that for any question with 
+all of the above as a possible answer, all of the above is the correct answer with a
+probability greater than 80%.  And for True/False questions, True is the over-weighted
+correct answer.  And other such facts.  This will be a good application of probalistic
+logic????
+* 7.  Find pattern(s) for each class of questions within the training set to deduce semantics.
+
+The ontology generator should discover the syntax patterns of the different types of questions
+in the training set.  These patterns can be used to deduce the semantics of the concepts touched
+on in these questions.  There are a number of such question types for which there are likely
+common syntax patterns.  Question types would include 1. true/false, 2. none of the above, 3. all
+of the above, 4. short answer questions (where each answer consists of 1 or 2 words, suggesting
+that each answer is a concept for which the definition for one of them is contained in the question).
+(But there are more types, to be sure.)
+
+For each of these patterns, there are likely syntax constructs, (determined through probabilistic
+parsing) from which we could deduce the part of the question/answer that associates semantics for 
+the concept covered by the question.  
+
+Consider the following true/false question (Training Set: Analyzing Documents 15)
+
+Stem:  The art of forensic document identification is called "graphology".
+
+Options: True/False
+
+Syntax Tree for Stem:  Sentence
+                      /        \
+                    NP         VP
+                   /          /  \
+                 NP         Verb  NP
+                /          /       \
+        The art of...  {"is called"}   graphology
+        
+        in general, NP {is called} NP
+
+
+
+Consider a second example (Training Set: Analyzing Documents 2)
+
+Stem:  Evidence that shows prima facia the facts at issue is referred to as:
+
+Options:  Circumstantial Evidence | Direct Evidence | Hearsay Evidence | None of the Above
+
+Classification:  None of the above, which incidentally, is likely a subtype of short answer (check on this)
+
+Syntax Tree for Stem:  Sentence
+                      /       \ 
+                     NP        VP
+                   /             \
+          Evidence that shows...  "is referred to as"  (or "is called", or "is", etc.)
+
+          in general, NP {is referred to as | is called | is}
+
+Correct answer:  Direct Evidence
+
+This construct implies that for the correct answer to this question, we can deduce semantic descriptions,
+from the NP of the stem of the question and that we can also deduce that the proper 
+semantics for the other concepts are not the NP of the question.
+
+Acknowledge Hearst 1992 for discovery of these syntactic patterns.
+
+* 8.  Perform sentence segmentation using a machine learning algorithm
+
+This allows for probabilistic parsing of the sentence and thus, attempts at
+extraction of entities...
+
+This is a secondary goal.  Is it possible to extract the entities through
+simply doing NER on the corpus?  Or, is it possible to extract entities from
+using a combination of NER and using the titles and paths for each document
+in the document collection?
+
+* 9.  Use bootstrapping for doing relation extraction
+
+The idea here is to take Hearst 1992 idea one step further, (as he suggested), as follows:
+Also, reference Brin, 1998 Extracting Relations from the world wide web, "DIPRE".
+
+** a.  start with some seed tuples (pairs for which the relation holds)
+** b.  search for the pair within the text corpus.
+** c.  where found, consider the syntactic constructs between the entities.
+** d.  generalize the syntactic construct to discover patterns between entities.
+** e.  search for more pairs using these patterns.
+** f.  Use the new pairs as inputs to start this process again to find new patterns, iterate.
+* 10. Apply Dempster inference theory to the reasoner
+
+Dempster inference theory is based on two critical notions - one of a lower probability of event A
+and another of an upper probability of event A.  Lower probability is a measure of the evidence in 
+support of A while the upper probability is a measure of the evidence that does not surely stand
+against A.  
+
+This idea of the upper probability may be of use to the reasoner, who, when presented with a question,
+will have a number of options from which to choose the correct answer.  For each option there will
+be either no or some evidence that supports that option, and there will be no or some evidence that 
+stands against that option.  Importantly, not-assertions will act as contradicting evidence, which
+depending on how much the not-assertion lines up with the option under consideration, may make the 
+upper probability very low....  Nonetheless, these not-assertions may serve as the basis for calculating
+upper probabilities, which in conjunction with lower probabilities can be used to help the reasoner 
+determine the best option to pick.
+
+* 11. Build the agent to be a BLEND of the knowledge based approach and the information retrieval approach
+
+11/04/2014 - There is no law, based on the approach to the dissertation at this point, that requires 
+the agent to be based solely on the knowledge base approach.  Blend in information retrieval approaches
+as they prove effective relative to the KB approach.  Use basic optimization technique for this?

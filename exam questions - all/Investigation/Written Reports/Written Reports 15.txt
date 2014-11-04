@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=For a written statement to be legal and admissible into a court of law, the statement should be:
+
+Options=In the handwriting of the suspect | Typewritten | In the handwriting of the interviewer | Any of the above
+
+CorrectResponse=3
+
+Explanation=There is no legal requirement that a statement must be in the handwriting or wording of the declarant. Because the examiner usually knows how to draft a valid statement, to let a confessor draft the statement is generally not a good idea. However, a statement’s wording should be precise.See page(s) 3.921 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Fraudulent disbursement schemes can be broken down into several smaller categories, including check tampering schemes, billing schemes, payroll schemes, and expense schemes.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraudulent disbursements as a group can be broken down into the following scheme types:•	Check tampering schemes•	Register disbursements schemes•	Billing schemes•	Expense schemes•	Payroll schemesSee page(s) 123 in the Corporate Fraud Handbook

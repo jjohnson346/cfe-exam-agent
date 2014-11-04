@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Able, a Certified Fraud Examiner, conducted an interview of Baker, the controller of the ABC Company. Able asked the following question: "Since you were here when the controls were developed, can you tell me how they came about?" This kind of question is called a ___________________________.
+
+Options=Double-negative question | Complex question | Controlled answer technique | None of the above
+
+CorrectResponse=2
+
+Explanation=Controlled answer techniques or statements may be used to stimulate a desired answer or impression. These techniques direct the interview toward a specific point. For example, it might be possible to get a person to admit knov/ledge of a matter by phrasing the question: "I understand you were present when the internal controls were developed; would you please describe how they were constructed?" This phrasing provides a stronger incentive for the respondent to admit knowledge than does: "Were you present when the internal controls were developed?" To stimulate the person to agree to talk or provide information, you might use a prompt such as, "Because you are not involved in this matter, I am sure you would not mind discussing it with me." This provides a stronger incentive to cooperate than: "Do you have any objections to telling me what you know?" Avoid negative construction, such as, "I don't guess you would mind answering a few questions?"See page(s) 3.225 in the Fraud Examiner's Manual

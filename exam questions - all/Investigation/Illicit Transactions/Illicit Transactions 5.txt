@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following are records that should be maintained by a stock brokerage firm?
+
+Options=Application | Cash receipts | Confirmation slips | All of the above
+
+CorrectResponse=3
+
+Explanation=Many stock brokerage houses now offer the same type of services as banks, such as check-writing privileges, credit cards, loans (against the value of securities held), as well as their normal securities business. All records pertaining to the subject should be requested; however, make sure that the request specifically includes the following:•	Application: When a customer opens an account, he typically will fill out an account application that will contain personal and financial data, such as bank accounts.•	Customer account cards: This card is kept in the broker's files for reference. It will include all transactions conducted for the customer.•	Signature card: A signature card should be on file, which will show all those authorized to conduct transactions on the account.•	Securities receipts: These receipts are issued to a customer when he delivers securities to the broker for sale.•	Cash receipts: These receipts are issued to a customer when he delivers currency to the broker.•	Confirmation slips: These are issued to a customer to show the type of transaction (buy or sell) and the amount involved in the transaction.•	Securities delivered receipt: This receipt is signed by the customer when a securities purchase is delivered to the customer.See page(s) 3.824 in the Fraud Examiner's Manual

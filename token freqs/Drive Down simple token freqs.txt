@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+accident                               1
+merge                                  1
+vehicle                                1
+him                                    1
+colliding                              1
+after                                  1
+of                                     1
+scheme                                 1
+drive                                  1
+intentionally                          1
+on                                     2
+driver                                 2
+denies                                 1
+perpetrator                            2
+involves                               1
+with                                   1
+attempting                             1
+a                                      2
+waving                                 1
+front                                  1
+the                                    5
+in                                     1
+waved                                  1
+then                                   1
+merging                                2
+having                                 1
+down                                   1
+
+Totals:                     28        37

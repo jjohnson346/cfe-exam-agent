@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The federal bribery statute, Title 18, U.S. Code, Section 201, applies to virtually any U.S. official, juror, or witness.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Title 18. U.S. Code. Section 201 is the U.S. Government's principal federal anti-corruption statute, and applies to virtually any U.S. official, juror, or witness. The section contains two separate offenses: bribery of public officials and illegal gratuities.See page(s) 2.247 in the Fraud Examiner's Manual

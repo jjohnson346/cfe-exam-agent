@@ -1,0 +1,295 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/HEALTH CARE FRAUD/Electronic Claims Fraud
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Health Care Fraud
+
+
+:
+
+
+Electronic Claims Fraud 
+Auditing electronic claims may use the same techniques as auditing any other type of health 
+care if the original source documents are used. The difference may be that the audit may use 
+the information electronically transmitted rather than the original information. If reliance 
+could be placed on the information being submitted, then there wouldn’t be any difference. 
+However, history has proved that electronic claims can be a fertile source for fraud. 
+ 
+Electronic Data Interchange (EDI) is the exchange of electronic data between computers in 
+which there is no human interaction. This technology has advanced companies’ ability to 
+conduct business by light-years, but it has also provided would-be fraudsters an increased 
+opportunity to commit white-collar crimes. 
+ 
+EDI’s origins arise in the 1960s, when many industry groups began to develop EDI 
+standards in areas such as purchasing, transportation, and financial transactions. The next 
+major step forward came when the Transportation Data Coordinating Committee and the 
+National Association of Credit Management’s Credit Research Foundation developed the 
+first standards of electronic data interchange. At this time, they have developed over 300 
+different standards for individual industries concerning the transmission of EDI. These 
+standards are published by the Data Interchange Standards Association.  
+ 
+Although these standards have been adopted and used worldwide by a multitude of different 
+industries, the health care industry has been notoriously slow in adopting the new 
+technology. Only now have a handful of large health care providers such as Blue Cross Blue 
+Shield announced their endorsements of the health care industry conducting business 
+electronically. The reasoning behind the reluctance to convert is that the health care system 
+is so complicated that a switch in operation procedure of this magnitude would cause 
+considerable headache in the early phases. 
+ 
+EDI can be used internally within a business as a way of communication and data transfer 
+and it can also be used for the same purposes between different businesses. In the case of 
+the health care industry, EDI enables the different companies to send claims, invoices, and 
+other vital data that once was shipped in a paper format via airmail. The fact that EDI allows 
+for an immediate exchange of data makes the process of submitting and approving health 
+care claims much more efficient for the health care industry.  
+ 
+Financial Transactions  Health Care Fraud 
+2011 Fraud Examiners Manual   1.1249 
+The health care transactions that will be affected by the emerging of EDI technologies 
+include: 
+• Claims payment  
+• Enrollments 
+• Claims submission 
+• Eligibility 
+• Claim status 
+• Crossover COB 
+• Health care service review 
+• Patient information record 
+• Managed care encounter 
+• Capitated payment 
+• Interactive claim 
+• HMO reporting 
+• Provider information 
+ 
+In the current health care system, there are over 1,500 insurance companies that process 
+over four billion medical claims every year. Because the health care system uses over 450 
+different types of forms, it is estimated that in the past, the health care industry spent as 
+much as $100 billion per year to process its paperwork. Thus, EDI has the potential to save 
+the health care industry from $8 billion to $20 billion every year. It is very simply a more 
+efficient way for the health care industry to do business. However, fraud examiners fear that 
+a more efficient system also paves the way for more efficient ways to defraud the health  
+care industry. 
+ 
+Solid controls must be established to deal with the health care industry’s conversion to EDI 
+or the savings that the more efficient system will produce may be gobbled up by bigger fraud 
+losses. The electronic conversion of information completely removes paper-based controls. 
+ 
+EDI eliminates the abilities that fraud examiners have to detect fraud in the health care 
+industry in three ways: 
+• The automation of claims has erased claims professionals’ ability to detect suspicious-
+ looking claims. Because they are used to handling the paperwork of claims, EDI 
+hampers the claims professional from getting a good picture of the overall nature of an 
+account, instead reducing each transaction to individual claims. 
+• Because of the impersonal nature of electronic transactions, EDI raises the temptation 
+Health Care Fraud  Financial Transactions   
+1.1250                           2011 Fraud Examiners Manual  
+of would-be fraudsters to commit white-collar crime. 
+• EDI leaves no paper trail, making the process of fraud detection difficult for the  
+fraud examiner. 
+ 
+The reasons the health care industry is concerned about EDI’s potential to stimulate 
+fraudulent activity include: 
+• The lack of tools to detect EDI fraud. 
+• The variation of health care services precipitates the potential from a plethora of 
+dissimilar frauds. 
+• The efficiency of EDI allows for more vendors and thus more claims to account for. 
+• The swiftness in which transactions take place allow less time to uncover fraud. 
+ 
+In the past, the health care industry has developed sophisticated methods of detecting fraud 
+within the paper-based system. Now that the conversion to EDI is taking place, the health 
+care industry must find a way to convert those methods to uncovering fraud in the electronic 
+format. These methods will only be as sophisticated as the health care industry chooses to 
+make them; the less concern that the industry shows for creating fraud indicators, the more 
+opportunity they will be giving fraudsters to “beat the system.”   
+ 
+Fraud examiners should not fear that the conversion to EDI will eliminate any fraud-related 
+job opportunities. In fact, that conversion will actually open up many fraud examination 
+jobs, as the safeguards and red flag system against fraud has not been effectively established 
+at this time. Therefore, fraud examiners need to be aware that their jobs include not only 
+investigating fraud, but also to creating systems that will effectively deter fraud. 
+ 
+Many new and complicated legal issues are raised as a result of the health care industry’s 
+conversion to EDI. Some of the difficult questions that have been pressed include: 
+• How does the insurance company prove that all electronic claims are authentic? 
+• Who is responsible for errors in electronic health care claims? 
+• How does the fraud examiner prove that the contents of an electronic health care claim 
+are false? 
+• How does the health care industry ensure that all electronic transmissions are received 
+exactly as they are sent? 
+• What terms and conditions govern electronic claims? 
+• How will fraud examiners determine the actual origin of any electronic submission? 
+ 
+Financial Transactions  Health Care Fraud 
+2011 Fraud Examiners Manual   1.1251 
+Because automated claims are quite easily altered, the health care industry must ensure that 
+claims are authentic. Fraud examiners must document that claims have been received in the 
+same condition in which they were processed if they are to be admissible as evidence.  
+ 
+Some examples of ways to ensure claims’ authenticity include: 
+• Data encryption  
+• Digital signatures  
+• Message authentication codes  
+• Prior claims’ history checkups 
+• A variety of field checks 
+ 
+The Effects of Prosecution in an Electronic Environment 
+EDI creates another type of legal evidence, but the basic legal principles regarding that 
+evidence should remain intact. Therefore, the burden falls on the companies of the health 
+care industry to demonstrate that its electronic system has proven safeguards that counteract 
+fraud. If the system is proven to be reliable, the company can then show that it has created a 
+reliable record of transactions. 
+ 
+The greatest weakness within an EDI system is that in the prosecution, a defendant may 
+claim that he did not enter the claim or that the claim was mishandled by the health care 
+company. Thus, a health care company must maintain the integrity of its electronic records. 
+The health care company must have in place several ways to uncover fraud, from automatic 
+red flags to intricate fraud analysis programs that pick up on familiar patterns that may 
+ultimately lead to fraud. 
+ 
+A health care company must prove the origin of all electronic communication and the 
+original content of the transaction. They must also reduce the possibility that the original 
+claim’s content can be intentionally or unintentionally compromised. By doing these things, 
+the health care industry can effectively use EDI without substantially raising the possibility 
+of fraudulent activity. 
+ 
+ 
+
+
+
+:
+
+
+electron claim fraud
+audit electron claim mai us the same techniqu as audit ani other type of health
+care if the origin sourc document ar us the differ mai be that the audit mai us
+the inform electron transmit rather than the origin inform if relianc
+could be place on the inform be submit then there wouldnt be ani differ
+howev histori ha prove that electron claim can be a fertil sourc for fraud
+electron data interchang edi is the exchang of electron data between comput in
+which there is no human interact thi technolog ha advanc compani abil to
+conduct busi by lightyear but it ha also provid wouldb fraudster an increas
+opportun to commit whitecollar crime
+edi origin aris in the 1960 when mani industri group began to develop edi
+standard in area such as purchas transport and financi transact the next
+major step forward came when the transport data coordin committe and the
+nation associ of credit manag credit research foundat develop the
+first standard of electron data interchang at thi time thei have develop over 300
+differ standard for individu industri concern the transmiss of edi these
+standard ar publish by the data interchang standard associ
+although these standard have been adopt and us worldwid by a multitud of differ
+industri the health care industri ha been notori slow in adopt the new
+technolog onli now have a hand of larg health care provid such as blue cross blue
+shield announc their endors of the health care industri conduct busi
+electron the reason behind the reluct to convert is that the health care system
+is so complic that a switch in oper procedur of thi magnitud would caus
+consider headach in the earli phase
+edi can be us intern within a busi as a wai of commun and data transfer
+and it can also be us for the same purpos between differ busi in the case of
+the health care industri edi enabl the differ compani to send claim invoic and
+other vital data that onc wa ship in a paper format via airmail the fact that edi allow
+for an immedi exchang of data make the process of submit and approv health
+care claim much more effici for the health care industri
+financi transact health care fraud
+2011 fraud examin manual 11249
+the health care transact that will be affect by the emerg of edi technolog
+includ
+claim payment
+enrol
+claim submiss
+elig
+claim statu
+crossov cob
+health care servic review
+patient inform record
+manag care encount
+capit payment
+interact claim
+hmo report
+provid inform
+in the current health care system there ar over 1500 insur compani that process
+over four billion medic claim everi year becaus the health care system us over 450
+differ type of form it is estim that in the past the health care industri spent as
+much as 100 billion per year to process it paperwork thu edi ha the potenti to save
+the health care industri from 8 billion to 20 billion everi year it is veri simpli a more
+effici wai for the health care industri to do busi howev fraud examin fear that
+a more effici system also pave the wai for more effici wai to defraud the health
+care industri
+solid control must be establish to deal with the health care industri convers to edi
+or the save that the more effici system will produc mai be gobbl up by bigger fraud
+loss the electron convers of inform complet remov paperbas control
+edi elimin the abil that fraud examin have to detect fraud in the health care
+industri in three wai
+the autom of claim ha eras claim profession abil to detect suspici
+look claim becaus thei ar us to handl the paperwork of claim edi
+hamper the claim profession from get a good pictur of the overal natur of an
+account instead reduc each transact to individu claim
+becaus of the imperson natur of electron transact edi rais the temptat
+health care fraud financi transact
+11250 2011 fraud examin manual
+of wouldb fraudster to commit whitecollar crime
+edi leav no paper trail make the process of fraud detect difficult for the
+fraud examin
+the reason the health care industri is concern about edi potenti to stimul
+fraudul activ includ
+the lack of tool to detect edi fraud
+the variat of health care servic precipit the potenti from a plethora of
+dissimilar fraud
+the effici of edi allow for more vendor and thu more claim to account for
+the swift in which transact take place allow less time to uncov fraud
+in the past the health care industri ha develop sophist method of detect fraud
+within the paperbas system now that the convers to edi is take place the health
+care industri must find a wai to convert those method to uncov fraud in the electron
+format these method will onli be as sophist as the health care industri choos to
+make them the less concern that the industri show for creat fraud indic the more
+opportun thei will be give fraudster to beat the system
+fraud examin should not fear that the convers to edi will elimin ani fraudrel
+job opportun in fact that convers will actual open up mani fraud examin
+job as the safeguard and red flag system against fraud ha not been effect establish
+at thi time therefor fraud examin need to be awar that their job includ not onli
+investig fraud but also to creat system that will effect deter fraud
+mani new and complic legal issu ar rais as a result of the health care industri
+convers to edi some of the difficult question that have been press includ
+how doe the insur compani prove that all electron claim ar authent
+who is respons for error in electron health care claim
+how doe the fraud examin prove that the content of an electron health care claim
+ar fals
+how doe the health care industri ensur that all electron transmiss ar receiv
+exactli as thei ar sent
+what term and condit govern electron claim
+how will fraud examin determin the actual origin of ani electron submiss
+financi transact health care fraud
+2011 fraud examin manual 11251
+becaus autom claim ar quit easili alter the health care industri must ensur that
+claim ar authent fraud examin must document that claim have been receiv in the
+same condit in which thei were process if thei ar to be admiss as evid
+some exampl of wai to ensur claim authent includ
+data encrypt
+digit signatur
+messag authent code
+prior claim histori checkup
+a varieti of field check
+the effect of prosecut in an electron environ
+edi creat anoth type of legal evid but the basic legal principl regard that
+evid should remain intact therefor the burden fall on the compani of the health
+care industri to demonstr that it electron system ha proven safeguard that counteract
+fraud if the system is proven to be reliabl the compani can then show that it ha creat a
+reliabl record of transact
+the greatest weak within an edi system is that in the prosecut a defend mai
+claim that he did not enter the claim or that the claim wa mishandl by the health care
+compani thu a health care compani must maintain the integr of it electron record
+the health care compani must have in place sever wai to uncov fraud from automat
+red flag to intric fraud analysi program that pick up on familiar pattern that mai
+ultim lead to fraud
+a health care compani must prove the origin of all electron commun and the
+origin content of the transact thei must also reduc the possibl that the origin
+claim content can be intention or unintention compromis by do these thing
+the health care industri can effect us edi without substanti rais the possibl
+of fraudul activ

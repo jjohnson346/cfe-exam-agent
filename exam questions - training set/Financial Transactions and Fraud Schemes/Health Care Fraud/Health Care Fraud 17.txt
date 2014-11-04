@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Because of their access to claims and subscriber files, employees of insurers present a large fraud risk.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Employees of insurers, especially claims examiners and customer service representatives, can present additional problems to the fraud examiner. Due to their ability to access claims and subscriber files, the frauds perpetrated can be almost limitless. They can have claims paid to themselves or friends or sell or otherwise improperly use medical and other personal information.See page(s) 1.1212 in the Fraud Examiner‰??s Manual

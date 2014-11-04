@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=ABC, Inc and XYZ, Inc. are the only two companies in Lincoln County that lay asphalt. An audit reveals that the state is paying more for asphalt work in Lincoln County than in other counties in the state. A review of the records reveals that of the last ten asphalt contracts awarded, five have gone to ABC and five have gone to XYZ What scheme might ABC and XYZ be involved in?
+
+Options=Bid rotation | Phantom bidding | Altering bids | Bid suppression
+
+CorrectResponse=0
+
+Explanation=Bid rotation is a form of collusive bidding whereby a group of prospective vendors exchanges information on contract solicitations, taking turns at submitting the “low bid."See page(s) 1.2004 in the Fraud Examiner’s Manual

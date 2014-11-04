@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=A computer forensic examiner has tools to access many types of deleted files. Which of the following types of files can often be recovered with the appropriate tools?
+
+Options=Temporary auto-save files | Print spool files | Link files | All of the above
+
+CorrectResponse=3
+
+Explanation=A computer-forensic examiner is a trained professional who is capable of analyzing digital media at the hexadecimal level. The hexadecimal level means that every sector and all the bytes in those sectors are available for viev/ing. This includes deleted files, both purposefully deleted and those that v/ere deleted through various Windows-automated processes. This can also include temporary auto-save files, print-spool files, deleted e-mails, and link files. The hexadecimal level also contains various items found in restore points and registry files that define hardware, such as external drives and websites visited, in addition to the document revisions and files created and maintained by the user.See page(s) 3.703-3.704 in the Fraud Examiner's Manual

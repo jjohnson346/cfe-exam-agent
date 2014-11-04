@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, as a general proposition, it is best to phrase questions so that they can be answered "yes" rather than "no.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The examiner should seek continuous agreement. This means that throughout the interview process‰??from the introduction to the close‰??the interviewer should attempt to phrase questions so that they can be answered "yes." It is easier for people to reply in the affirmative than the negative. EXAMPLES: "Okay?‰?? "Can you help me?" "That‰??s okay, isn't it?‰??See page(s) 3.221 in the Fraud Examiner's Manual

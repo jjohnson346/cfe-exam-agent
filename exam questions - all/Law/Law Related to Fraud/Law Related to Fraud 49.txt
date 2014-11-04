@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Prosecution under U.S. federal criminal laws requires:
+
+Options=Agreement with the states | Federal jurisdictional basis | A minimum amount of money involved | All of the above
+
+CorrectResponse=1
+
+Explanation=Under the U.S. federal system, the prosecution of most common-law white-collar crimes, such as embezzlement, larceny, and false pretenses, is left to the states. The criminal fraud statutes in the U.S. Code require a federal jurisdictional basis, such as an effect on interstate commerce or mail uses. The U.S. laws are often used to prosecute the larger and more serious crimes primarily because of the generally superior resources of federal law enforcement agencies and their nationwide jurisdiction.See page(s) 2.214 in the Fraud Examiner's Manual

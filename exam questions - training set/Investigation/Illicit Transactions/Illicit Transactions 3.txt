@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Steven needs to obtain some court documents from a foreign country Which of the following items should he use?
+
+Options=Judgment NOV | Letters Rogatory | Request for Production | None of the above
+
+CorrectResponse=1
+
+Explanation=The Office of International Affairs (OIA) uses a number of legal resources to obtain information from foreign countries. Letters Rogatory are formal requests by the courts of one country to the courts of another country.See page(s) 3.851 in the Fraud Examiner's Manual

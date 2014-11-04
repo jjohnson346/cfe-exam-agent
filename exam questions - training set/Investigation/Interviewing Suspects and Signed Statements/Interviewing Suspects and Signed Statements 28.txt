@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Alien, a Certified Fraud Examiner for Cole Inc.. has conducted an examination of allegations of misconduct against Roberts, controller. Allen plans to meet with Roberts to ask him about the allegations. Allen's meeting with Roberts is referred to as a(n):-
+
+Options=Admission-seeking interview | Interview | Confrontation | None of the above
+
+CorrectResponse=0
+
+Explanation=The interviewer should ask accusatory or admission-seeking questions only when there is a reasonable probability that the respondent has committed the act in question.See page(s) 3.248 in the Fraud Examiner's Manual

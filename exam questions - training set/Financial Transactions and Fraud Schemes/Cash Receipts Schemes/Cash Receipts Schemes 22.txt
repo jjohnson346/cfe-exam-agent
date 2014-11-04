@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=_____________________ is the crediting of one account through the abstraction of money from another account.
+
+Options=Lapping | Skimming | Padding | Rigging
+
+CorrectResponse=0
+
+Explanation=Lapping customer payments is one of the most common methods of concealing skimming, and may be particularly useful to employees who skim receivables. Lapping is the crediting of one account through the abstraction of money from another account.See page(s) 88 in the Corporate Fraud Handbook

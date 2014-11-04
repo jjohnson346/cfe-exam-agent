@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=A form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder is called which of the following?
+
+Options=Credit doctor fraud | True name fraud | Non-receipt fraud | None of the above
+
+CorrectResponse=2
+
+Explanation=Non-receipt fraud is a form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder. Losses attributable to mail theft have declined significantly as a result of card activation programs, in which the cardholder must call his financial institution and confirm his identity before the card is activated.

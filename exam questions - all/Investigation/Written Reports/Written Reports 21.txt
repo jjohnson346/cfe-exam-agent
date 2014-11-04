@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=When preparing a written report of a fraud examination, it is permissible to include only the facts which substantiate a fraud allegation.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Report all facts without bias. Everything relevant should be included regardless of which side it favors or what it proves or disproves. At the outset of a fraud examination, the examiner should carefully determine what information will be needed to prove the case and attempt to include only this information. A report should include only those matters that are relevant to the examination. However, almost every investigation yields much information of which the relevance is not immediately known. In such cases, it is best to opt for completeness.See page(s) 3.902 in the Fraud Examiner's Manual

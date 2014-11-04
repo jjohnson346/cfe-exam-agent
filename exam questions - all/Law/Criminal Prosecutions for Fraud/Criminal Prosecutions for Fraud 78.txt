@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Bailey, a fraud defendant, was granted immunity from prosecution in order to testify against his boss. The two of them had conspired together to commit an embezzlement. During the course of Bailey's grand jury testimony, it was revealed that Bailey had also committed a second, unrelated fraud With respect to Bailey, the grand jury:
+
+Options=Cannot indict on any of the frauds | Can indict on either fraud | Can indict on the first fraud, but not the second | Can indict on the second fraud, but not the first
+
+CorrectResponse=3
+
+Explanation=An immunity order protects the witness only from prosecution of past crimes about v/hich his or her testimony is compelled; other undiscovered crimes are not covered, nor is the witness immune from prosecution for perjury based on the immunized testimony. Such testimony may also be used against a witness in a civil proceeding.See page(s) 2.507 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Turning on a computer has little effect on the files contained on the computer system.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Examiners should be aware that computer files can be altered simply through the normal startup process. Most of the Microsoft operating systems, such as Windows XP, change the time and date stamps on a number of files during startup and delete a number of temporary files during the shutdown process. These pieces of information could be critical to the investigation.See page(s) 3.702 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=In preparing the net-worth analysis, assets should be included at current market value to eliminate any question about estimates.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In computing the comparative net worth, these issues should be considered:•	All assets should be valued at cost, not fair market value Subsequent appreciation or depreciation of assets should be ignored.•	The amount of funds available to the subject from legitimate sources should be estimated or computed generously.•	The subject should be interviewed to identify all alleged sources of funds and to negate defenses that he might raise later.See page(s) 3.839-3.840 in the Fraud Examiner's Manual

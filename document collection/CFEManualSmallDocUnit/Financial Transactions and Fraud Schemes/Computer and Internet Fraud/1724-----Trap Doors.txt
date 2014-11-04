@@ -1,0 +1,35 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Hacking/Trap Doors
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Trap Doors 
+When developing large programs, programmers insert instructions for additional code and 
+intermediate output capabilities. The design of computer operating systems attempts to 
+prevent this from happening. Therefore, programmers insert instructions that allow them to 
+circumvent these controls. Hackers take advantage of these trap doors. 
+ 
+
+
+
+:
+
+
+trap door
+when develop larg program programm insert instruct for addit code and
+intermedi output capabl the design of comput oper system attempt to
+prevent thi from happen therefor programm insert instruct that allow them to
+circumv these control hacker take advantag of these trap door

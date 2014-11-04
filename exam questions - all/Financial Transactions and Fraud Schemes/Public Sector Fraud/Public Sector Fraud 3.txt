@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=False statements made to the government can only be prosecuted under the False Claims Act.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=There are a number of federal statutes related to false claims and statements made to the federal government. Among the most useful are:Conspiracy to Defraud the Government with Respect to Claims (Title 18, U.S. Code, Section 286) False, Fictitious, or Fraudulent Claims (Title 18. U.S. Code, Section 287)False Statements (Title 18, U.S. Code, Section 1001)Major Fraud Against the United States (Title 18, U.S. Code, Section 1031)Obstruction of Federal Audit (Title 18, U.S. Code. Section 1516)Racketeer Influenced and Corrupt Organizations (RICO) (Title 18, U.S. Code, Section 1961, et. seq.) Federal Corruption Statutes (Title 18, U.S. Code, Section 201, et. seq.)Anti-Kickback Act of 1986 (Title 41, U.S. Code, Sections 51 to 58)See page(s) 1.1911-1.1912 in the Fraud Examiner's Manual

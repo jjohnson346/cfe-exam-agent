@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, which of the following types of organizations suffered the largest median losses from occupational fraud?
+
+Options=Public companies | Private companies | Governments | Not-for-profit organizations
+
+CorrectResponse=1
+
+Explanation=Frauds at the private companies cited in our survey caused the greatest median loss at S231,000. This is $30,000 greater than the median loss suffered by public companies and nearly two-and-a-half times the median loss that occurred at government agencies and non-profit organizations.See page(s) 4.631 in the Fraud Examiner's Manual

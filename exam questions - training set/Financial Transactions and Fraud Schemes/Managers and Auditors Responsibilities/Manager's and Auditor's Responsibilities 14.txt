@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to PCAOB Auditing Standard No. 5. an auditor should implement a bottom-up approach when auditing an entity's internal control over financial reporting.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=According to PCAOB Auditing Standard No. 5, auditors should implement a top-down approach in performing an audit of internal control over financial reporting. A top-down approach ‰??begins at the financial statement level and with the auditor‰??s understanding of the overall risks to internal control over financial reporting. The auditor then focuses on entity-level controls and works down to significant accounts and disclosures and their relevant assertions/‰?? (Paragraph 21) This approach focuses auditors on those accounts, disclosures, and assertions that are most likely to result in material misstatement of the company‰??s financial statements The standard makes explicit mention, however, that this approach describes the auditor‰??s thought process when identifying risks and the controls to test, rather than the order in which the auditor should perform the audit procedures.See page(s) 1.236 in the Fraud Examiner's Manual

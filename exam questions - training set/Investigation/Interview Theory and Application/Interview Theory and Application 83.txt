@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, it is usually advisable to err on the side of taking too many notes rather than too few.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The interviewer will frequently need to take notes during the interview. Start each interview on a separate sheet of paper. This procedure can be especially helpful should documents from a particular interview be subpoenaed. Do not try to write down all the information you are given during an interview, only the pertinent facts. Taking too many notes will make the interview process cumbersome and might inhibit the respondent. If a quote is particularly relevant, try to write it down verbatim. Enclose all direct quotes in quotation marks. Do not slow down the interview process for note-taking. Instead, jot down key words or phrases, then go back over the details at the end of the interview. In general, it is better to err on the side of taking too few notes rather than too manySee page(s) 3.212 in the Fraud Examiner's Manual

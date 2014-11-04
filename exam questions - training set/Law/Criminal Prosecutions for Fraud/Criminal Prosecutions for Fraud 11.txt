@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Green, an agent for the White Corporation, acting within the scope of his duties and for the benefit of White, committed an act of fraud. According to the Sentencing Guidelines effective in 1991, White cannot be held criminally liable for Green's actions.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Corporations and other organizations may be criminally liable for offenses committed by their agents if committed in the scope of the agent's duty and with the intended purpose of benefiting the organization.See page(s) 2.525 in the Fraud Examiner's Manual

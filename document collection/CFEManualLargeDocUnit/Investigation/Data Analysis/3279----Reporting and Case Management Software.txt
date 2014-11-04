@@ -1,0 +1,431 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Reporting and Case Management Software
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Reporting and Case Management Software 
+There are a number of programs that can assist the fraud examiner in managing the data and 
+information gathered. These programs can also be used to create reports, graphs, and charts 
+of a particular case. Some of the most useful of these programs for fraud investigations are 
+discussed below. 
+ 
+i2’s Analysis Product Line 
+i2 offers a line of analytical tools that allow users to search, store, visualize and analyze data. 
+Some of those tools are discussed below.  
+ 
+Analyst’s Notebook 
+i2 Inc. offers a professional visualization and analysis tool called Analyst’s Notebook. 
+Analyst’s Notebook is a visual investigative analys is software program that brings clarity to 
+complex investigations and intelligence analysis. It enables investigators and analysts to turn 
+large volumes of disparate data into actionable intelligence. It creates charts and graphs to 
+allow users to:  
+• Visualize large volumes of investigative data to understand the big picture. 
+• Reveal patterns and hidden connections to help focus the investigation. 
+• Create analytical charts manually or automatically generate link and timeline charts from 
+structured data. 
+• Communicate complex cases with intuitive briefing charts that capture and organize 
+supporting data. 
+ 
+iBase 
+iBase is i2’s investigative database that is. It allows users to configure a data store, capture 
+data, and perform data analysis in a controlled environment.  
+ 
+Data Miner 
+Data Miner is a data mining application that can only be installed with Analyst’s 
+Workstation. It allows users to analyze large amounts of data and find any patterns that may 
+exist.  
+ 
+Analyst’s Workstation 
+Analyst’s Workstation is an integrated collection of analytical tools, including Analyst's 
+Notebook, iBase, and Data Miner. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.633 
+For more information on i2’s product line, visit www.i2inc.com. 
+ 
+CaseMap by CaseSoft 
+CaseMap is a case analysis tool that makes it easy to organize, evaluate, and explore the facts, 
+characters, and issues in a case. It is designed for use on all types of cases and by all types of 
+litigators and investigators. CaseMap software integrates with numerous other litigation-support 
+and electronic-discovery tools, including Adobe Acrobat, Applied Discovery, 
+Binder, Concordance, JFS Litigator’s Notebook, KPMG’s Discovery Radar, LiveNote, and 
+Sanction. 
+ 
+Spreadsheets 
+When a CaseMap file is created, the program auto matically sets up a series of spreadsheets 
+used to organize critical case knowledge. These spreadsheets can be used to organize 
+information about the facts, documents, characters, issues, and case law in every case.  
+ 
+ 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.634   2011 Fraud Examiners Manual  
+ 
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.635 
+FACTS SPREADSHEET 
+The facts spreadsheets include a case chronology in which the investigator can enter facts, 
+dates, times, and the source of each piece of information. Investigators can also distinguish 
+between disputed and undisputed facts and keep track of the status of each item. 
+ 
+ 
+ 
+OBJECTS SPREADSHEET 
+The objects spreadsheet allows investigators to organize the cast of characters—a list of the 
+individuals and organizations involved in the case, and it should also catalog key documents 
+and other important pieces of physical evidence.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.636   2011 Fraud Examiners Manual  
+ 
+ 
+ISSUE SPREADSHEET 
+The issue spreadsheet provides an outline of the issues, including both legal claims and 
+critical factual disputes. The outline can be any number of levels deep.  
+ 
+QUESTION SPREADSHEET 
+Because many questions occur during the early stages of an investigation, the question 
+spreadsheet allows users to filter and sort their open items using various criteria.  
+ 
+RESEARCH SPREADSHEETS 
+CaseMap has three research spreadsheets: Authorities, Extracts from Authorities and a 
+combination of Authorities and Extracts. The research spreadsheets will organize and 
+explore the user’s knowledge about the precedents and statutes relevant to their case, and it 
+include links to actual case law using the authorities and extracts. The authorities spreadsheet 
+can be used to manage top-level information about precedents, statutes, and other types of 
+case research. The extracts spreadsheet can be used to capture details about particular 
+sections of interest excerpted from important case law and statutes.  
+ 
+Linking 
+CaseMap also provides the ability to link pieces  of data in one spreadsheet with the source 
+data or other relevant data in another sheet. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.637 
+ 
+ 
+Filtering 
+Once information is organized, CaseMap users can explore it. The most powerful case-exploration 
+tool in CaseMap is the filtering function. A filter operation limits the rows that 
+appear in a spreadsheet and on your printed report to those that meet criteria you specify.  
+ 
+ 
+ 
+For more information, visit www.casesoft.com. 
+Data Analysis and Reporting Tools  Investigation 
+3.638   2011 Fraud Examiners Manual  
+Actimize Enterprise Risk Case Manager 
+Actimize Enterprise Risk Case Manager is case managements software that empowers 
+companies to address enterprise-wide risk and compliance management. It is designed to 
+help companies detect and react to fraud attacks more efficiently by consolidating all fraud 
+and compliance issues into a central location. According to Actimize, the Risk Case Manager 
+supports risk operations with workflow management, evidence collection, and 
+documentation, and as a result, it allows users to: 
+• Improve risk and compliance operations 
+• Detect more issues; reduce risk, losses, and fines 
+• Enable efficient and collaborative investigations 
+• Reduce IT and operational costs 
+ 
+Xanalys Suite 
+Xanalys offers a suite of case management software applications to help users collect, 
+manage, analyze, and share investigative intelligence. It offers three products: PowerCase, 
+Link Explorer, and Indexer.  
+ 
+PowerCase 
+PowerCase provides an end-to-end platform for conducting large-scale investigations. It 
+manages all aspects of an investigation team’s activities through the entire investigative 
+process by providing the following functionality: 
+• Provides centralized data storage 
+• Establishes a document workflow to ensure that all evidence is examined a reviewed 
+• Checks new case information against existing data for commonalities and associations 
+• Assigns and tracks lines of investigation  
+• Provides a range of search features 
+• Allows users to visualize case data 
+• Generates a complete audit trail of all user activity within the system 
+ 
+Link Explorer 
+Link Explorer allows users to construct database queries in natural, everyday language and 
+displays the results in graphic form. Simply ask a question by dragging and dropping icons 
+onto a query screen. Xanalys Link Explorer then  generates easy-to-read interactive charts 
+that map how people, events, telephone calls, e-mail messages, and other case details are 
+linked. As new information arrives, the displays are instantly updated. Information can be 
+viewed in a variety of ways. In addition to powerful link analysis charts, Link Explorer can 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.639 
+display results in numerous other formats, including a report, a timeline with events 
+organized in a chronological order, or a hierarchy chart showing relationships among people. 
+Link Explorer offers several methods to import,  enter, merge, or modify data, as well as to 
+create new objects and links. These include a text importer, flexible data importer, data entry 
+forms, QuickChart toolbox, and object cards.  
+ 
+ 
+ 
+Indexer 
+Indexer is a text extraction program that clearly and automatically reveals critical connections 
+between information stored in a database. Indexer automatically extracts relevant 
+information from unstructured text using entities (such as a person, company, or an event), 
+attributes (such as occupation, sex, or company title), and relationships (such as located at, 
+works for, and involved in event). Xanalys provides various ways to ensure that the 
+information represented in the Index Plan is useful. These include loading them into a 
+database for analysis by Link Explorer or other reporting or analysis tools, in addition to 
+embedding the technology into third-party applications. With the key entities and 
+relationships contained in a structured environment, it is now possible to access and query 
+this information. Once a number of documents have been processed, a list of all the people 
+mentioned in the documents or a list of companies, vehicles, or phone numbers associated 
+with those listed people could be obtained. As new documents arrive, these can be 
+incorporated and augment the existing results. The full power of Indexer capabilities can be 
+embedded into a company’s own products and technologies. On the Windows platform, it 
+Data Analysis and Reporting Tools  Investigation 
+3.640   2011 Fraud Examiners Manual  
+includes a COM interface to direct the information extraction output into any required form, 
+such as input to some other process or to a database. 
+ 
+For more information on Link Explorer or Indexer, visit www.xanalys.com.  
+ 
+Enterprise Investigation Management 
+Norkom Technologies’s Enterprise Investigation Management software is case management 
+software for anti-money laundering and fraud investigations. It links information from 
+multiple insider sources like foreign travel reporting databases and debriefings, employee 
+security background information, network logs, and cyber activity logs to compose a picture 
+of potential insider security threats. This composite approach puts otherwise disconnected 
+pieces of information in context to help prevent sensitive information and capabilities from 
+being compromised. For more information on Enterprise Investigation Management visit 
+www.norkom.com. 
+ 
+Multi-Channel Fraud 
+Norkom Technology’s multi-channel fraud management solution provides an end-to-end 
+fraud solution — from advanced detection to investigation, response, and recovery — and is 
+built on Norkom’s unique, configurable financial crime and compliance platform, which 
+enables users to customize the technology as their needs change and new fraud techniques 
+emerge. Norkom’s sophisticated detection analytics are optimized to detect a wide range of 
+fraud, including plastic fraud, applications fraud, check fraud, deposit fraud, sleeper fraud, 
+electronic banking fraud, phishing, internal fraud, insurance fraud, account takeover, and 
+identity theft. The solution provides fraud detection by uniting the analytical power of 
+specialized techniques, including pre-defined fraud detection scenarios, in-depth behavioral 
+and peer group profiling, unusualness analytics, predictive modeling, and network analytics. 
+For more information on Multi-Channel Fraud visit www.norkom.com. 
+ 
+i-Sight Case Management Software 
+i-Sight Case Management Software is a type of case management software for investigations, 
+complaints, corrective and preventive action management, and other business processes that 
+require case management. It allows users to record investigation notes, create and assign 
+tasks with due dates and reminders, send e-mails from within a case record, use template 
+letters, record investigative findings, record investigative resolutions, create follow-up tasks, 
+track time and costs, effectuate corrective actions, keep an audit trail, and attach documents.  
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.641 
+EthicsPoint Issue and Event Manager 
+EthicsPoint provides hotline and anti-fraud reporting and case management services. Its 
+Issue and Event Manager helps businesses ma nage reported issues (e.g., HR management 
+issues, work-related injuries, security investigations, conflict of interest, competitor 
+misconduct, any code of conduct violation, etc.). EthicsPoint’s offers web report forms to 
+help streamline issues documentation, providing management with a reporting mechanism 
+that automatically integrates an entity’s re ported data within a centralized database.  
+ 
+ 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.701 
+
+
+
+:
+
+
+report and case manag softwar
+there ar a number of program that can assist the fraud examin in manag the data and
+inform gather these program can also be us to creat report graph and chart
+of a particular case some of the most us of these program for fraud investig ar
+discuss below
+i2 analysi product line
+i2 offer a line of analyt tool that allow user to search store visual and analyz data
+some of those tool ar discuss below
+analyst notebook
+i2 inc offer a profession visual and analysi tool call analyst notebook
+analyst notebook is a visual investig anali is softwar program that bring clariti to
+complex investig and intellig analysi it enabl investig and analyst to turn
+larg volum of dispar data into action intellig it creat chart and graph to
+allow user to
+visual larg volum of investig data to understand the big pictur
+reveal pattern and hidden connect to help focu the investig
+creat analyt chart manual or automat gener link and timelin chart from
+structur data
+commun complex case with intuit brief chart that captur and organ
+support data
+ibas
+ibas is i2 investig databas that is it allow user to configur a data store captur
+data and perform data analysi in a control environ
+data miner
+data miner is a data mine applic that can onli be instal with analyst
+workstat it allow user to analyz larg amount of data and find ani pattern that mai
+exist
+analyst workstat
+analyst workstat is an integr collect of analyt tool includ analyst
+notebook ibas and data miner
+investig data analysi and report tool
+2011 fraud examin manual 3633
+for more inform on i2 product line visit wwwi2inccom
+casemap by casesoft
+casemap is a case analysi tool that make it easi to organ evalu and explor the fact
+charact and issu in a case it is design for us on all type of case and by all type of
+litig and investig casemap softwar integr with numer other litigationsupport
+and electronicdiscoveri tool includ adob acrobat appli discoveri
+binder concord jf litig notebook kpmg discoveri radar livenot and
+sanction
+spreadsheet
+when a casemap file is creat the program auto matic set up a seri of spreadsheet
+us to organ critic case knowledg these spreadsheet can be us to organ
+inform about the fact document charact issu and case law in everi case
+data analysi and report tool investig
+3634 2011 fraud examin manual
+investig data analysi and report tool
+2011 fraud examin manual 3635
+fact spreadsheet
+the fact spreadsheet includ a case chronolog in which the investig can enter fact
+date time and the sourc of each piec of inform investig can also distinguish
+between disput and undisput fact and keep track of the statu of each item
+object spreadsheet
+the object spreadsheet allow investig to organ the cast of charactersa list of the
+individu and organ involv in the case and it should also catalog kei document
+and other import piec of physic evid
+data analysi and report tool investig
+3636 2011 fraud examin manual
+issu spreadsheet
+the issu spreadsheet provid an outlin of the issu includ both legal claim and
+critic factual disput the outlin can be ani number of level deep
+question spreadsheet
+becaus mani question occur dure the earli stage of an investig the question
+spreadsheet allow user to filter and sort their open item us variou criteria
+research spreadsheet
+casemap ha three research spreadsheet author extract from author and a
+combin of author and extract the research spreadsheet will organ and
+explor the user knowledg about the preced and statut relev to their case and it
+includ link to actual case law us the author and extract the author spreadsheet
+can be us to manag toplevel inform about preced statut and other type of
+case research the extract spreadsheet can be us to captur detail about particular
+section of interest excerpt from import case law and statut
+link
+casemap also provid the abil to link piec of data in on spreadsheet with the sourc
+data or other relev data in anoth sheet
+investig data analysi and report tool
+2011 fraud examin manual 3637
+filter
+onc inform is organ casemap user can explor it the most power caseexplor
+tool in casemap is the filter function a filter oper limit the row that
+appear in a spreadsheet and on your print report to those that meet criteria you specifi
+for more inform visit wwwcasesoftcom
+data analysi and report tool investig
+3638 2011 fraud examin manual
+actim enterpris risk case manag
+actim enterpris risk case manag is case manag softwar that empow
+compani to address enterprisewid risk and complianc manag it is design to
+help compani detect and react to fraud attack more effici by consolid all fraud
+and complianc issu into a central locat accord to actim the risk case manag
+support risk oper with workflow manag evid collect and
+document and as a result it allow user to
+improv risk and complianc oper
+detect more issu reduc risk loss and fine
+enabl effici and collabor investig
+reduc it and oper cost
+xanali suit
+xanali offer a suit of case manag softwar applic to help user collect
+manag analyz and share investig intellig it offer three product powercas
+link explor and index
+powercas
+powercas provid an endtoend platform for conduct largescal investig it
+manag all aspect of an investig team activ through the entir investig
+process by provid the follow function
+provid central data storag
+establish a document workflow to ensur that all evid is examin a review
+check new case inform against exist data for common and associ
+assign and track line of investig
+provid a rang of search featur
+allow user to visual case data
+gener a complet audit trail of all user activ within the system
+link explor
+link explor allow user to construct databas queri in natur everydai languag and
+displai the result in graphic form simpli ask a question by drag and drop icon
+onto a queri screen xanali link explor then gener easytoread interact chart
+that map how peopl event telephon call email messag and other case detail ar
+link as new inform arriv the displai ar instantli updat inform can be
+view in a varieti of wai in addit to power link analysi chart link explor can
+investig data analysi and report tool
+2011 fraud examin manual 3639
+displai result in numer other format includ a report a timelin with event
+organ in a chronolog order or a hierarchi chart show relationship among peopl
+link explor offer sever method to import enter merg or modifi data as well as to
+creat new object and link these includ a text import flexibl data import data entri
+form quickchart toolbox and object card
+index
+index is a text extract program that clearli and automat reveal critic connect
+between inform store in a databas index automat extract relev
+inform from unstructur text us entiti such as a person compani or an event
+attribut such as occup sex or compani titl and relationship such as locat at
+work for and involv in event xanali provid variou wai to ensur that the
+inform repres in the index plan is us these includ load them into a
+databas for analysi by link explor or other report or analysi tool in addit to
+embed the technolog into thirdparti applic with the kei entiti and
+relationship contain in a structur environ it is now possibl to access and queri
+thi inform onc a number of document have been process a list of all the peopl
+mention in the document or a list of compani vehicl or phone number associ
+with those list peopl could be obtain as new document arriv these can be
+incorpor and augment the exist result the full power of index capabl can be
+embed into a compani own product and technolog on the window platform it
+data analysi and report tool investig
+3640 2011 fraud examin manual
+includ a com interfac to direct the inform extract output into ani requir form
+such as input to some other process or to a databas
+for more inform on link explor or index visit wwwxanalyscom
+enterpris investig manag
+norkom technologiess enterpris investig manag softwar is case manag
+softwar for antimonei launder and fraud investig it link inform from
+multipl insid sourc like foreign travel report databas and debrief employe
+secur background inform network log and cyber activ log to compos a pictur
+of potenti insid secur threat thi composit approach put otherwis disconnect
+piec of inform in context to help prevent sensit inform and capabl from
+be compromis for more inform on enterpris investig manag visit
+wwwnorkomcom
+multichannel fraud
+norkom technolog multichannel fraud manag solut provid an endtoend
+fraud solut from advanc detect to investig respons and recoveri and is
+built on norkom uniqu configur financi crime and complianc platform which
+enabl user to custom the technolog as their need chang and new fraud techniqu
+emerg norkom sophist detect analyt ar optim to detect a wide rang of
+fraud includ plastic fraud applic fraud check fraud deposit fraud sleeper fraud
+electron bank fraud phish intern fraud insur fraud account takeov and
+ident theft the solut provid fraud detect by unit the analyt power of
+special techniqu includ predefin fraud detect scenario indepth behavior
+and peer group profil unusu analyt predict model and network analyt
+for more inform on multichannel fraud visit wwwnorkomcom
+isight case manag softwar
+isight case manag softwar is a type of case manag softwar for investig
+complaint correct and prevent action manag and other busi process that
+requir case manag it allow user to record investig note creat and assign
+task with due date and remind send email from within a case record us templat
+letter record investig find record investig resolut creat followup task
+track time and cost effectu correct action keep an audit trail and attach document
+investig data analysi and report tool
+2011 fraud examin manual 3641
+ethicspoint issu and event manag
+ethicspoint provid hotlin and antifraud report and case manag servic it
+issu and event manag help busi ma nage report issu eg hr manag
+issu workrel injuri secur investig conflict of interest competitor
+misconduct ani code of conduct violat etc ethicspoint offer web report form to
+help streamlin issu document provid manag with a report mechan
+that automat integr an entiti re port data within a central databas
+investig digit forens
+2011 fraud examin manual 3701

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=As a strategy to control crime, __________________ is designed to detect law violations, determine who is responsible, and penalize the offender to deter future violations.
+
+Options=Prevention | Deterrence | Compliance | None of the above
+
+CorrectResponse=1
+
+Explanation=As a strategy to control crime, deterrence is designed to detect law violations, determine who is responsible, and penalize offenders in order to deter future violations. Deterrence theory assumes that people are rational in their behavior patterns. People seek profit and pleasure while they try to avoid pain. Deterrence assumes that an individual‰??s propensity toward lav/breaking is in inverse proportion to the perceived probability of negative consequences.See page(s) 4.516 in the Fraud Examiner's Manual

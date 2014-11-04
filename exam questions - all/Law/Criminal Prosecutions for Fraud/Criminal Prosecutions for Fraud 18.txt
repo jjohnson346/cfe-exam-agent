@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Miranda warnings are required under which of the following conditions?
+
+Options=The suspect is being interrogated | Interrogation is conducted by public authorities | The suspect is in the custody of public authorities | All of the above conditions must be met
+
+CorrectResponse=3
+
+Explanation=Miranda warnings are required only if the suspect is (1) interrogated (2) while held in custody (3) by public authorities. Certain exceptions to the warning requirement apply, such as v/hen immediate questioning is necessary to ensure public safety. The warnings generally are not required when a person is being questioned by private parties.See page(s) 2.504 in the Fraud Examiner's Manual

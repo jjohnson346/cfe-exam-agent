@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Although obtaining a check negotiated by a subject can be helpful, the information that can be obtained from it is generally limited to the name of the payee, the amount of the check, and the date.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Canceled checks written by a subject or received from others provide the fraud examiner with much more than amounts and payees. The back of the check identifies who endorsed the check, when it was negotiated, and where the funds where paid.See page(s) 3.811 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=In the book "Criminal Investigations" the authors identify several different types of informants. Which of the following is NOT one of the types of informants they identify?
+
+Options=Basic lead informant | Participant informant | Non-covert informant | Accomplice/witness
+
+CorrectResponse=2
+
+Explanation=In the book "Criminal Investigations," authors Paul B. Weston and Kenneth M. Wells identify several different types of informants: the basic lead, the participant, the covert, and		the accomplice/witness.See page(s) 3.312 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Criminologist Charles McCaghy has stated that __________________________ is the single most compelling factor behind deviance by organizations.
+
+Options=Government regulation | Profit pressure | Employee demands | None of the above
+
+CorrectResponse=1
+
+Explanation=Charles McCaghy says profit pressure is ‰??the single most compelling factor behind deviance by industry, whether it be price fixing, the destruction of competition or the misrepresentation of a product," such as making a shoddy product that will wear out and need to be replaced. Clinard and Yeager say certain industries, such as the drug and chemical businesses, have such severe competition and strong profit drives due to demands for continual development of new products that they may feel pressured to falsify test data, market new products before their full effects are known, or engage in unethical sales techniques that can have disastrous effects on human beings and the environment.See page(s) 4.510 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=With the Health Insurance Portability and Accountability Act of 1996. Congress added which of the following offenses to the federal code?
+
+Options=Theft or embezzlement in connection with health care | Health care fraud | False statement relating to health care fraud | All of the above
+
+CorrectResponse=3
+
+Explanation=As part of the Health Insurance Portability and Accountability Act of 1996r Congress made a number of changes to the federal criminal code. The act established several new criminal statutes related specifically to health care fraud. The new statutes are:Health care fraudTheft or embezzlement in connection with health care False statements relating to health care matters Obstruction of criminal investigations of health care offensesSee page(s) 1.1201 in the Fraud Examiner‰??s Manual

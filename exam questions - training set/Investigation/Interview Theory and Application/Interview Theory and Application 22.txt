@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=The types of questions an interviewer can ask fall into several categories. Which of the following is one of them?
+
+Options=Open | Closed | Leading | All of the above are categories
+
+CorrectResponse=3
+
+Explanation=Informational questions are nonconfrontational, nonthreatening, and are asked for information-gathering purposes. The great majority of the interviewer's questions fall into this category. Informational questions seek to elicit unbiased factual information. The interviewer will be alert to inconsistency in facts or behavior. Informational questions‰??as well as others‰??fall into several general categories: open, closed, leading, double-negative, complex, and attitude.See page(s) 3.222-3.223 in the Fraud Examiner's Manual

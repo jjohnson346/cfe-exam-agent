@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=At least two witnesses must sign a confession; otherwise, it cannot be admitted in court.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Witnesses are not required to make a signed statement valid; only one person attesting to the authenticity of the signature is required. This person normally is the interviewer. However, although there is no legal requirement, it is a good idea to have two people witness the signing of a statement.See page(s) 3.921 in the Fraud Examiner's Manual

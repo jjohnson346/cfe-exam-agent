@@ -1,0 +1,295 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS/Generally Accepted Accounting Principles (GAAP)
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Basic Accounting Concepts
+
+
+:
+
+
+Generally Accepted Accounting Principles (GAAP) 
+In preparing financial statements, management, accountants, and auditors are charged with 
+following measurement and reporting practices known as generally accepted accounting principles  
+(GAAP). The accounting practices that compose GAAP have developed through the 
+accumulation of authoritative accounting pronouncements issued by several authoritative 
+bodies. Historically, these pronouncements included Accounting Research Bulletins, 
+Accounting Principles Board (APB) Opinions, Financial Accounting Standards Board 
+(FASB) Statements and Interpretations, Emerging Issues Task Force Abstracts, and SEC 
+Staff Accounting Bulletins.  
+ 
+In 2009, FASB launched the FASB Accounting Standards Codification(FASB ASC)  as the 
+sole source of authoritative U.S. GAAP for non-governmental organizations. The 
+Codification compiles and organizes all previous sources of GAAP by topic, providing an 
+efficient and easy-to-use structure for researching and referencing accounting standards. The 
+FASB ASC effectively supersedes the pre-Codification GAAP hierarchy established in SAS 
+No. 69 and FASB Statement No. 162.  
+ 
+While the U.S. has its own set of accounting standards that form GAAP, the various 
+accounting rules from different countries are converging. The International Accounting 
+Standards Board (IASB) is developing a single set of standards, called International Financial 
+Reporting Standards (IFRS). For each accounting function, the IASB is looking for the most 
+appropriate principle for how transactions should be accounted for, or the most suitable 
+method of reporting the results. The IASB has sought the best, sometimes adopting a 
+standard from one country or another, other times creating a new standard entirely. 
+Currently, more than 120 countries require or permit the use of IFRS, with several more 
+planning to adopt IFRS in the next few years. A list of the countries that have adopted the 
+IFRS is available at www.iasplus.com/country/useias.htm.  
+ 
+Basic Underlying Accounting Principles 
+Basic accounting principles, referred to as generally accepted accounting principles, are the 
+rules by which a company’s financial transactions are recorded into their appropriate account 
+classifications. These principles have evolved over time and are expected to continue 
+changing in response to shifts in social and economic conditions, advancements in 
+technology, and demand by users for more useful or productive standards. The following is 
+a list of the basic underlying principles on which accountants should base their practices.  
+ 
+Accounting Concepts  Financial Transactions   
+1.116                         2011 Fraud Examiners Manual  
+Historical Cost 
+Although some exceptions exist, historical cost is, generally, the proper basis for the 
+recording of assets, expenses, equities, etc. For example, a piece of operational machinery 
+should be shown on the balance sheet at initial acquisition cost and not at current market 
+value or an estimated replacement value. 
+ 
+Revenue Recognition 
+In general, revenue is recognized or recorded when it becomes realized or realizable, and 
+earned. These criteria are usually met when:  
+• Persuasive evidence of an arrangement exists,  
+• Delivery has occurred or services have been rendered,  
+• The seller’s price to the buyer is fixed or determinable, and 
+• Collectibility is reasonably assured.  
+ 
+Therefore, revenue should not be recognized for work that is to be performed in subsequent 
+accounting periods, even though the work may currently be under contract; the revenue 
+should be recognized in the period in which the work is performed.  
+ 
+Matching 
+The matching principle requires that expenses be recorded in the same accounting period as 
+the revenues they help generate. Estimates, accruals, and allocations are often needed to 
+meet this requirement. When a sale is recorded, the appropriate charges for cost of goods 
+sold, or other expenses directly corresponding to the sale, should be recorded in the same 
+accounting period.  
+ 
+Consistency 
+Entities should employ consistent accounting procedures from period to period. Variations 
+or changes in accounting policies and procedures must be justifiable. Standards used to value 
+inventory, depreciate assets, or accrue expenses should be consistent from one accounting 
+period to the next. 
+ 
+Full Disclosure 
+The financial statements of an entity should include all information necessary for the 
+formation of valid decisions by the users. The statements should not include too much 
+information, but are required to include enough information so that the user is not misled. 
+Supplemental notes to the financial statements are usually required to meet these criteria. 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.117 
+Objectivity 
+Accounting records should be designed and kept on objective, rather than subjective, 
+evidence. Underlying verifiability must exist for the information contained in the statements. 
+For example, assets are carried at historical cost and not at an estimated current value. 
+Historical cost should be verifiable through legitimate proof of purchase.  
+ 
+Separate Entity Assumption 
+Economic activity of an entity should be kept separate from other personal or business 
+entities. For example, personal business transactions of an entity’s owners or operators 
+should not be included in the financial reports of the entity.  
+ 
+Going Concern — Continuity Assumption 
+There is an assumption that an entity will continue as a going concern; that is, the life of the 
+entity will be long enough to fulfill its financial and legal obligations. Any evidence to the 
+contrary must be reported in the financial statements of the entity. 
+ 
+Unit of Measure 
+All financial reports are based on the monetary unit, e.g., the dollar for U.S. entities. This 
+assumption recognizes that the monetary unit is an effective means of communicating 
+financial information. Adjustments for inflationary trends are not shown in the financial 
+statements of the entity. 
+ 
+Periodicity—Time Period Assumption 
+The life of an entity is divided into economic time periods on which reporting statements are 
+fashioned. These reporting periods vary, but a year is the most common. Some companies 
+follow the calendar year, while others use a business year that ends near the lowest point of 
+business activity in a 12-month cycle, regardless of where that point falls in the calendar year.  
+ 
+Departures from GAAP — Modifying Conventions 
+As with rules for most things, departures from GAAP are sometimes required. The 
+following modifying conventions give guidance and should be considered when deviating 
+from what is generally acceptable. 
+ 
+Conservatism 
+When considering an accounting matter in which there are two alternatives that equally 
+satisfy conceptual and implementation principles for a transaction, an accountant should 
+Accounting Concepts  Financial Transactions   
+1.118                         2011 Fraud Examiners Manual  
+take a conservative approach, and follow the alternative that will have the least favorable 
+impact on the net income of the entity. 
+ 
+Industry Practices and Peculiarities 
+The peculiarities and practices of an industry (such as banking, investment, and insurance) 
+may warrant selective exceptions to accounting principles. Some differences in accounting 
+also occur in response to legal requirements, such as those entities subject to regulatory 
+controls.  
+ 
+Substance over Form 
+The economic substance of a transaction determines the accounting treatment, which may 
+differ from the legal treatment. For example, although a lease contract may not transfer 
+property rights, if the true substance of the transaction is a sale, then the lessee should 
+record the transaction as an acquisition and capitalize the property.  
+ 
+Application of Judgment 
+An accountant may depart from GAAP if the results of departure appear reasonable under 
+the circumstances, especially when strict adherence to GAAP will produce unreasonable 
+results and the departure is properly disclosed.  
+ 
+Materiality 
+The amount of an item is material if its omission would affect the judgment of a reasonable 
+person who is relying on the financial statements. The materiality threshold does not mean 
+that immaterial items do not have to be recorded; rather, strict adherence to GAAP is 
+necessary only when the item has a significant impact on the financial statements of an 
+entity. In addition, the aggregate effect of immaterial items must also be considered. 
+ 
+Cost-Benefit 
+A departure from GAAP is permitted if the expected costs of reporting a transaction in 
+compliance with GAAP exceed the expected benefits of compliance. 
+ 
+2011 Fraud Examiners Manual   1.201 
+
+
+
+:
+
+
+gener accept account principl gaap
+in prepar financi statement manag account and auditor ar charg with
+follow measur and report practic known as gener accept account principl
+gaap the account practic that compos gaap have develop through the
+accumul of authorit account pronounc issu by sever authorit
+bodi histor these pronounc includ account research bulletin
+account principl board apb opinion financi account standard board
+fasb statement and interpret emerg issu task forc abstract and sec
+staff account bulletin
+in 2009 fasb launch the fasb account standard codificationfasb asc as the
+sole sourc of authorit us gaap for nongovernment organ the
+codif compil and organ all previou sourc of gaap by topic provid an
+effici and easytous structur for research and referenc account standard the
+fasb asc effect supersed the precodif gaap hierarchi establish in sa
+no 69 and fasb statement no 162
+while the us ha it own set of account standard that form gaap the variou
+account rule from differ countri ar converg the intern account
+standard board iasb is develop a singl set of standard call intern financi
+report standard ifr for each account function the iasb is look for the most
+appropri principl for how transact should be account for or the most suitabl
+method of report the result the iasb ha sought the best sometim adopt a
+standard from on countri or anoth other time creat a new standard entir
+current more than 120 countri requir or permit the us of ifr with sever more
+plan to adopt ifr in the next few year a list of the countri that have adopt the
+ifr is avail at wwwiaspluscomcountryuseiashtm
+basic underli account principl
+basic account principl refer to as gener accept account principl ar the
+rule by which a compani financi transact ar record into their appropri account
+classif these principl have evolv over time and ar expect to continu
+chang in respons to shift in social and econom condit advanc in
+technolog and demand by user for more us or product standard the follow is
+a list of the basic underli principl on which account should base their practic
+account concept financi transact
+1116 2011 fraud examin manual
+histor cost
+although some except exist histor cost is gener the proper basi for the
+record of asset expens equiti etc for exampl a piec of oper machineri
+should be shown on the balanc sheet at initi acquisit cost and not at current market
+valu or an estim replac valu
+revenu recognit
+in gener revenu is recogn or record when it becom realiz or realiz and
+earn these criteria ar usual met when
+persuas evid of an arrang exist
+deliveri ha occur or servic have been render
+the seller price to the buyer is fix or determin and
+collect is reason assur
+therefor revenu should not be recogn for work that is to be perform in subsequ
+account period even though the work mai current be under contract the revenu
+should be recogn in the period in which the work is perform
+match
+the match principl requir that expens be record in the same account period as
+the revenu thei help gener estim accrual and alloc ar often need to
+meet thi requir when a sale is record the appropri charg for cost of good
+sold or other expens directli correspond to the sale should be record in the same
+account period
+consist
+entiti should emploi consist account procedur from period to period variat
+or chang in account polici and procedur must be justifi standard us to valu
+inventori depreci asset or accru expens should be consist from on account
+period to the next
+full disclosur
+the financi statement of an entiti should includ all inform necessari for the
+format of valid decis by the user the statement should not includ too much
+inform but ar requir to includ enough inform so that the user is not misl
+supplement note to the financi statement ar usual requir to meet these criteria
+financi transact account concept
+2011 fraud examin manual 1117
+object
+account record should be design and kept on object rather than subject
+evid underli verifi must exist for the inform contain in the statement
+for exampl asset ar carri at histor cost and not at an estim current valu
+histor cost should be verifi through legitim proof of purchas
+separ entiti assumpt
+econom activ of an entiti should be kept separ from other person or busi
+entiti for exampl person busi transact of an entiti owner or oper
+should not be includ in the financi report of the entiti
+go concern continu assumpt
+there is an assumpt that an entiti will continu as a go concern that is the life of the
+entiti will be long enough to fulfil it financi and legal oblig ani evid to the
+contrari must be report in the financi statement of the entiti
+unit of measur
+all financi report ar base on the monetari unit eg the dollar for us entiti thi
+assumpt recogn that the monetari unit is an effect mean of commun
+financi inform adjust for inflationari trend ar not shown in the financi
+statement of the entiti
+periodicitytim period assumpt
+the life of an entiti is divid into econom time period on which report statement ar
+fashion these report period vari but a year is the most common some compani
+follow the calendar year while other us a busi year that end near the lowest point of
+busi activ in a 12month cycl regardless of where that point fall in the calendar year
+departur from gaap modifi convent
+as with rule for most thing departur from gaap ar sometim requir the
+follow modifi convent give guidanc and should be consid when deviat
+from what is gener accept
+conservat
+when consid an account matter in which there ar two altern that equal
+satisfi conceptu and implement principl for a transact an account should
+account concept financi transact
+1118 2011 fraud examin manual
+take a conserv approach and follow the altern that will have the least favor
+impact on the net incom of the entiti
+industri practic and peculiar
+the peculiar and practic of an industri such as bank invest and insur
+mai warrant select except to account principl some differ in account
+also occur in respons to legal requir such as those entiti subject to regulatori
+control
+substanc over form
+the econom substanc of a transact determin the account treatment which mai
+differ from the legal treatment for exampl although a leas contract mai not transfer
+properti right if the true substanc of the transact is a sale then the lesse should
+record the transact as an acquisit and capit the properti
+applic of judgment
+an account mai depart from gaap if the result of departur appear reason under
+the circumst especi when strict adher to gaap will produc unreason
+result and the departur is properli disclos
+materi
+the amount of an item is materi if it omiss would affect the judgment of a reason
+person who is reli on the financi statement the materi threshold doe not mean
+that immateri item do not have to be record rather strict adher to gaap is
+necessari onli when the item ha a signific impact on the financi statement of an
+entiti in addit the aggreg effect of immateri item must also be consid
+costbenefit
+a departur from gaap is permit if the expect cost of report a transact in
+complianc with gaap exce the expect benefit of complianc
+2011 fraud examin manual 1201

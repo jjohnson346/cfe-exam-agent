@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+libraries                              2
+to                                     1
+might                                  1
+for                                    2
+wish                                   1
+by                                     1
+technical                              1
+every                                  1
+formats                                1
+magazine                               1
+bowker                                 1
+almost                                 1
+describes                              1
+are                                    1
+stock                                  1
+published                              1
+lists                                  1
+scholarly                              1
+a                                      1
+available                              1
+the                                    2
+in                                     1
+general                                1
+and                                    2
+that                                   1
+which                                  1
+library                                1
+magazines                              3
+
+Totals:                     28        34

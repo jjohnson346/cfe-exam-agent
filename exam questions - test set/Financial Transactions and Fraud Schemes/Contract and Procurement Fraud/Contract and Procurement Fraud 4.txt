@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=All BUT which of the following red flags are indicators of bid-rigging schemes?
+
+Options=Joint ventures by firms who could have bid individually | Other qualified vendors fail to submit proposals | Successful bidder consulting with buyer in need recognition stage | Wide disparity in bid prices
+
+CorrectResponse=2
+
+Explanation=null

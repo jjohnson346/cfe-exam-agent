@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=The United States Sentencing Commission was formed to address the belief in Congress that:
+
+Options=Prisoners were being released too early | A great disparity existed in penalties for similar crimes | Fraud was rampant in American business | The Department of Justice was soft on crime
+
+CorrectResponse=1
+
+Explanation=Congress, in the Comprehensive Crime Control Act of 1984, mandated the uniform sentencing guidelines. The act also established the United States Sentencing Commission (USSC) v/hich began studying sentences for individuals soon after the passage of the act It was widely held in Congress that there was a great disparity of penalties for similar crimes committed by individuals. After three years of study, the USSC announced Sentencing Guidelines for Individuals. In November of 1987, these guidelines were applied in the 94 Federal Courts of the United States.See page(s) 4.517 in the Fraud Examiner's Manual

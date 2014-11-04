@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=A scheme in which competitors agree to refrain from bidding or agree to withdraw a previously submitted bid would be described as which of the following:
+
+Options=Phantom bids | Bid rotation | Complementary bidding | Bid suppression
+
+CorrectResponse=3
+
+Explanation=Bid suppression is a scheme in which one or more competitors agrees with at least one other competitor to refrain from bidding or agrees to withdraw a previously submitted bid so that a contractor's bid will be accepted. Other forms of this activity involve agreements by competitors to fabricate bid protests or to coerce suppliers and subcontractors not to deal with nonconspirators who submit bids.

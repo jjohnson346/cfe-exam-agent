@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Blue sold $1000 worth of merchandise and collected payment from his customer in currency. Blue only recorded the sale of $800 worth of merchandise. Blue turned $800 over to his employer and pocketed the remaining $200. According to Corporate Fraud Handbook, Blue's scheme is:
+
+Options=A false billing scheme | A cash larceny scheme | An unrecorded sales (skimming) scheme | An understated sales (skimming) scheme
+
+CorrectResponse=3
+
+Explanation=Understated sales work differently than unrecorded sales schemes. The transaction is posted to the books, but for a lower amount than the perpetrator collected from the customer. For instance, a company might be owed $1,000, but the sale is recorded as $800. When the customer makes payment, the fraudster can skim $200 and post the $800.See page(s) 77 in the Corporate Fraud Handbook

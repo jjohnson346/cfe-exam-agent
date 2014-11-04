@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=Predication is defined as:
+
+Options=The initial phase of the interview | The basis upon which a fraud examination is undertaken | The initial phase of the investigative process  | None of the above
+
+CorrectResponse=1
+
+Explanation=Predication is the totality of circumstances that would lead a reasonable, professionally trained, and prudent individual to believe a fraud has occurred, is occurring, and/or will occur Predication is the basis upon which an examination is commenced. Fraud examinations should not be conducted without proper predication.See page(s) I-7 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Which of the following is the correct calculation of the quick ratio?
+
+Options=(Cash + securities) / accounts payable | Current assets / current liabilities | (Cash + receivables) / current liabilities | (Cash + marketable securities + receivables) / current liabilities
+
+CorrectResponse=3
+
+Explanation=Quick ratio = (cash + marketable securities + receivables) / current liabilitiesSee page(s) 1.338 in the Fraud Examiner's Manual

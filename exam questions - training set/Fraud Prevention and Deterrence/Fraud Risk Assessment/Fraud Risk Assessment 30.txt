@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=A fraud risk assessment report should reflect the assessment team's subjective perspective and opinions that were formed during the assessment engagement.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A lot of instinct and judgment goes into performing the fraud risk assessment. When reporting the results of the assessment, however, the team must stick to the facts and keep all opinions and biases out of the report. A report that is peppered with the assessment team‰??s subjective perspective will dilute and potentially undermine the results of the work.See page(s) 4.823 in the Fraud Examiner's Manual

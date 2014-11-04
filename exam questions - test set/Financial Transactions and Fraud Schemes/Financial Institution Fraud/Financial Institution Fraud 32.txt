@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Change orders are often submitted along with draw requests. Although many times the change orders represent legitimate construction changes (for design, cost, or other things), they can also be indicators of fraud schemes. Which of the following is NOT a problem situation that may be concealed using change orders?
+
+Options=Short cuts are shoring up other problems | Collusive bidding is occurring | Design changes were requested | The original project is not feasible.
+
+CorrectResponse=2
+
+Explanation=An increase in the number of change orders or amounts on change orders may be an indication that construction changes have taken place that would alter the originally planned project to such an extent as to render the underwriting inappropriate. Change orders may have the same impact on a project as altering the original documents. As with anything that is contracted for on a bid basis, change orders could also be an indication of collusive bidding. Change orders might be an indication that the original project was not feasible and short cuts are shoring up other problem areas. Change orders should be approved by the architect and engineer on the project in addition to the lender's inspector.See page(s) 1.909 in the Fraud Examiner's Manual

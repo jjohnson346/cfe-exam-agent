@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=In bankruptcy court, the debtor may be which of the following?
+
+Options=An individual | A partnership | A corporation | Any of the above
+
+CorrectResponse=3
+
+Explanation=A debtor is defined in Title 11, U.S. Coder Section 101(13) as a person or municipality involved in a case under this title which has been commenced. A debtor may be an individual, partnership, or corporation.See page(s) 1.1303 in the Fraud Examiner's Manual

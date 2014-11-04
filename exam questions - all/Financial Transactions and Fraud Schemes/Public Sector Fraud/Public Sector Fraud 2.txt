@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=According to Government Auditing Standards, _______________ is a type of illegal act that involves obtaining something of value through willful misrepresentation. 
+
+Options=Abuse| Fraud | Theft | None of the above
+
+CorrectResponse=1
+
+Explanation=Government Auditing Standards, paragraph 7.30, states "In planning the audit, auditors should assess risks of fraud occurring that is significant within the context of the audit objectives. (Fraud is a type of illegal act involving the obtaining of something of value through willful misrepresentation. Whether an act is, in fact, fraud is a determination to be made through the judicial or other adjudicative system and is beyond auditors’ professional responsibility.)"See page(s) 1.1909 in the Fraud Examiner’s Manual

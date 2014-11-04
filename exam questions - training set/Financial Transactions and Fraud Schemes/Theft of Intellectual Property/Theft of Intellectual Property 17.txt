@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Although employees can be required to sign a nondisclosure agreement, contractors and suppliers should not be required to sign such agreements.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=All employees should sign a nondisclosure agreement. Everyone involved with the company should sign such an agreement, including subcontractors and their employees, clerical staff, consultants, and temporaries. Besides the legal value, a comprehensive nondisclosure agreement sends a signal to employees that the company has a tough attitude toward preventing leaks. It might also be necessary to have suppliers and distributors sign nondisclosure agreements. Although suppliers and distributors have to receive information about certain aspects of a business, employees dealing with them should be made aware of the potential for the misuse of the information and should be instructed to provide them with only the information that is essential for them to do their jobSee page(s) 1.879 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=A common type of fraud encountered in oil/gas and other mineral securities investments is:
+
+Options=Exaggeration of discovery and production potential | An invalid mineral rights lease | Inflated drilling and completion costs | All of the above
+
+CorrectResponse=3
+
+Explanation=In all cases of securities fraud, one should look for discrepancies in promoters‰?? credentials, business history, and commission. The following misrepresentations and omissions are often encountered:‰?¢	Drilling and completion costs: Costs are often hugely inflated to bilk the investor.‰?¢	Lease: Promoters frequently do not have a valid mineral rights lease.‰?¢	Discovery and production potential: The investor may be misled regarding the likelihood of striking oil and the amount produced. This information is usually contained in the geologist‰??s report.‰?¢	Wells: The promoter may exaggerate the number and depth of wells, thus inflating the operating costs paid by investors.‰?¢	Self-dealing: The promoter may declare a good well dry in order to reap the benefits of a productive well later when the investors have given up.‰?¢	Dry holes: Often these are completed by the promoter solely to improve his completion record and collect completion funds from investors.See page(s) 1.1521-1.1522 in the Fraud Examiner's Manual

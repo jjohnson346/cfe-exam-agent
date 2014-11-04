@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=If you _________________ data, you arranqe the data in a meaningful order.
+
+Options=Duplicate | Verify | Sort | Join
+
+CorrectResponse=2
+
+Explanation=To sort means to arrange data in a meaningful order. Sorting is nothing new; most reports you read are sorted in some way. With sorted data, you can quickly pick out what is important. An investigator can ask a program to sort information using different methods, such as alphabetically or numerically. For instance, when searching for a suspected fraudster‰??s name within thousands in a check disbursement file, the software can quickly sort a list of payee names.See page(s) 3.606 in the Fraud Examiner's Manual

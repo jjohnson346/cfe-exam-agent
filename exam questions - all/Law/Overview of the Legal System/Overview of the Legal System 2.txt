@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Under the United States system of law, judges are not obligated to follow previous decisions by higher courts.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The common law is based not on statutes passed by the legislatures but upon "precedent" established by previously decided cases stretching back hundreds of years in U.S. and English courts. The decision in an individual case binds judges in later cases of a similar nature, until or unless the rule of law established is overturned by a higher court or the legislature.See page(s) 2.103 in the Fraud Examiner's Manual

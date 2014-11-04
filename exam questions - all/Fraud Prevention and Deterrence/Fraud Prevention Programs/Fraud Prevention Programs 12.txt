@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Corporations and other organizations cannot be held liable for the criminal acts of their employees.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Corporations and other organizations can be held liable for criminal acts committed as a matter of organizational policy. Fortunately, most organizations do not expressly set out to break the law. However, corporations and other organizations may also be held liable for the criminal acts of their employees if those acts are done in the course and scope of their employment and for the ostensible purpose of benefiting the corporationSee page(s) 4.701 in the Fraud Examiner's Manual

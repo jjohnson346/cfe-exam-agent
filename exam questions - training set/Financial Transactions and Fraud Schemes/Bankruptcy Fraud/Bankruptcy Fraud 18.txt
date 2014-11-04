@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Under the bankruptcy laws, an examiner is an expert appointed by the court. All of the following powers are afforded the examiner EXCEPT the power to:
+
+Options=Run the business | Investigate and report the results of the investigation | Depose witnesses	| Subpoena records
+
+CorrectResponse=0
+
+Explanation=An examiner is normally appointed in a Chapter 11 bankruptcy proceeding to investigate certain allegations of fraud and misconduct on the part of the debtor (or principals of the debtor). If the examiner is appointed, his sole responsibility is to "investigate and report" the results of his investigation to the court and the interested parties as quickly as possible. Examiners have the power to subpoena records and depose witnesses. They do not have the power to run businesses, make business decisions, or propose reorganization plans. Courts might expand the examiner‰??s powers to perform certain duties of trustees or debtors-in-possessionSee page(s) 1.1302 in the Fraud Examiner's Manual

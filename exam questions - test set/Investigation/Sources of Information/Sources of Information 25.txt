@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Delta, a Certified Fraud Examiner, is attempting to determine if Baker, a fraud suspect, has spent part of his ill-gotten gains on a new home. Where are records likely to be kept if Baker has purchased real estate?
+
+Options=Federal land office | Probate court | Department of Housing and Urban Development | None of the above
+
+CorrectResponse=3
+
+Explanation=A tax assessor's office maintains maps of real property in the city, including a property's dimensions, address, owner, taxable value, and improvements. A city tax collector's office maintains the following information:Names and addresses of payers of property taxes, even if the taxes were paid by individuals other than the apparent ownersLegal descriptions of propertyAmounts of taxes paid on real and personal propertyDelinquency status of taxesNames of former property owners Real property records for the area can also be reviewed to determine ownership.See page(s) 3.413 in the Fraud Examiner's Manual

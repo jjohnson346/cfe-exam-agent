@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=One confidence scheme involves "diploma mills." The characteristic warning sign of a possible diploma mill is:
+
+Options=A fancy-sounding university | The processing fee charged | That advanced standing for courses is granted | None of the above
+
+CorrectResponse=1
+
+Explanation=For what often is a hefty fee, a diploma can be purchased by those who apply. The fraudster usually claims that the heavy fee is for processing the application or for verifying the existence of the experience necessary to be granted a degree. Correspondence schools offering advanced education do exist The hallmark of the diploma mill is the ease with which the degree is obtained; however, because the school is not accredited, the degree is essentially worthless.See page(s) 1.1703 in the Fraud Examiner‰??s Manual

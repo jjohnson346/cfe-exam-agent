@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=All information that influences a decision-maker in reaching decisions is known as:
+
+Options=Evidence | Data | Information | None of the above
+
+CorrectResponse=0
+
+Explanation=Evidence can be defined as all the information that influences a decision-maker in reaching decisions. This evidence may take the form of a report, a set of recommendations, or similar items. Evidence may be quantitative or qualitative; it may be objective or it may have subjective qualities; it may be absolutely compelling to a decision or it may only be mildly persuasive.See page(s) 4.1013 in the Fraud Examiner’s Manual

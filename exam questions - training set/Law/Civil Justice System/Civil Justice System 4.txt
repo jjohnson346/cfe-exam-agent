@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Able sues Baker and Charlie for breach of contract. Baker files a claim against Charlie alleging that Charlie failed to pay Baker money he was owed under the same contract. Baker's claim against Charles is called a:
+
+Options=Third-party practice | Counterclaim | Cross-claim | Joinder of parties
+
+CorrectResponse=2
+
+Explanation=A defendant may file a cross-claim against one of its co-defendants. A cross-claim is simply an action between co-parties, i.e., claims between two defendants or two plaintiffs.See page(s) 2.612-2.613 in the Fraud Examiner's Manual

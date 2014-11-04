@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Under the Sentencing Reform Act of 1984, organizations that have been convicted are subject to a fine and/or probation. Additionally, the organization may be required to publicize its conviction and the nature of the offense.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=An organization must be ordered to serve a period of probation under certain circumstances, such as when no fine is assessed. The length of probation may not exceed five years. Additionally, the court has discretion to order the defendant organization to publicize its conviction and the nature of the offense.See page(s) 2.525-2.526 in the Fraud Examiner's Manual

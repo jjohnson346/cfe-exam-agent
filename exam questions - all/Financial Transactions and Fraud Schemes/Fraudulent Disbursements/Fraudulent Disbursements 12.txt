@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Cain, the authorized signer on his company's accounts, prepared and signed a check payable to the company's plumber. He gave the check to Baker, his secretary, and asked her to mail the check to the plumber. Instead, Baker took the check home, signed the plumber's name on the back and had her husband cash the check at their grocery store. According to Corporate Fraud Handbook, Baker committed which of the following schemes?
+
+Options=A forged maker scheme | An authorized maker scheme | An altered payee scheme | A forged endorsement scheme
+
+CorrectResponse=3
+
+Explanation=Forged endorsement frauds are those check tampering schemes in which an employee intercepts a company check intended for a third party and converts the check by signing the third party's name on the endorsement line of the check.See page(s) 133 in the Corporate Fraud Handbook

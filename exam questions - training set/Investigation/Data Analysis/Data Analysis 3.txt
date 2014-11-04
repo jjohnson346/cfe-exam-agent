@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=When conducting data analysis, it is important to ensure the validity and integrity of the data you are relying upon.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=As you move data from one venue to another there is always a concern. One of the concerns is data validity. Is the data valid and pertinent to your investigation? The second concern is integrity. Is the valid data you have selected correct? A simple check or audit of the validity and integrity of the data should be the first step in data analysis.See page(s) 3.613 in the Fraud Examiner's Manual

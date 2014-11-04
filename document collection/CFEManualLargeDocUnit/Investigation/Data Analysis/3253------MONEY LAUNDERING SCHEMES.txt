@@ -1,0 +1,52 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Tests/MONEY LAUNDERING SCHEMES
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+MONEY LAUNDERING SCHEMES 
+• Identify accounts with large average values of transactions. It is common for there to be 
+a small number of high-value transactions through an account being used for money 
+laundering. 
+• Identify matched debit and credit transactions on the same account within a short time 
+period.  
+• Search for large, rounded transaction values. 
+• Identify multiple accounts for particular individuals. 
+• Identify large cash deposits. 
+• Test customer identification procedures by searching for missing data fields, such as date 
+of birth, Social Security number, or driver’s license number. 
+• Cross check customer addresses against mail drop address lists. 
+ 
+For more information about IDEA, visit www.audimation.com. 
+ 
+
+
+
+:
+
+
+monei launder scheme
+identifi account with larg averag valu of transact it is common for there to be
+a small number of highvalu transact through an account be us for monei
+launder
+identifi match debit and credit transact on the same account within a short time
+period
+search for larg round transact valu
+identifi multipl account for particular individu
+identifi larg cash deposit
+test custom identif procedur by search for miss data field such as date
+of birth social secur number or driver licens number
+cross check custom address against mail drop address list
+for more inform about idea visit wwwaudimationcom

@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=All of the following represent notable differences between criminal and civil trials, EXCEPT:
+
+Options=The parties in a civil case may stipulate that the verdict need not be unanimous | The burden of proof for a criminal prosecutor is lower than that of the civil plaintiff | Juries in criminal cases typically have 12 members, whereas it's not uncommon to have only 6 jurors in a civil case | The Fifth Amendment privilege against self-incrimination is more limited in civil proceedings
+
+CorrectResponse=1
+
+Explanation=Trial procedures in civil actions are similar to criminal cases with several notable exceptions. In most states, criminal juries are composed of 12 people, but in all states it's common for civil cases to be heard by only 6 jurors. The parties also may stipulate that the verdict need not be unanimous. The burden of proof for the civil plaintiff is lower than for the criminal prosecutor. In most cases, the plaintiff must prove his case by only the preponderance of the evidence, meaning that there must be only slightly more evidence in favor than against. The Fifth Amendment privilege against self-incrimination is more limited in civil proceedings; a party still may refuse to answer questions or produce evidence, but if he does, inferences might be drawn and the refusal may be disclosed to the jury. The judge also may enter sanctions against the party refusing to produce evidence up to and including the entry of a judgment against such party.See page(s) 2.614 in the Fraud Examiner's Manual

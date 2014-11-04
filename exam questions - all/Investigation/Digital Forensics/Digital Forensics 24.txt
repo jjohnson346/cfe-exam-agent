@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=To satisfy the requirements under the Fourth Amendment, all warrants for searches must be judicially sanctioned and supported by probable cause, and they must "particularly" describe the place to be searched or the things to be seized.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=All warrants must satisfy the requirements under the Fourth Amendment. That is. all warrants for searches must be judicially sanctioned and supported by “probable cause," and they must ‘ particularly�? describe the place to be searched or things to be seized. Only a judge can issue a search warrant and only law enforcement can seek and serve a search warrant.See page(s) 3.712 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a type of check tampering scheme?
+
+Options=Forged maker | Forged endorsement | Authorized maker | False voids
+
+CorrectResponse=3
+
+Explanation=Five methods are used to commit check tampering frauds:‰?¢	Forged maker schemes‰?¢	Forged endorsements‰?¢	Altered payees‰?¢	Concealed check schemes‰?¢	Authorized maker schemesFalse voids are a type of register disbursement scheme.See page(s) 122,170 in the Corporate Fraud Handbook

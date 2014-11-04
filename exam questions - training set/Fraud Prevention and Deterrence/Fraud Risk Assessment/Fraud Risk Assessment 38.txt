@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=In addition to the specific risks related to each of the three primary categories of fraud (fraudulent financial reporting, asset misappropriation, and corruption), the fraud risk assessment team should consider:
+
+Options=Risk to information technology | Reputation risk | The risk of regulatory and legal misconduct | All of the above
+
+CorrectResponse=3
+
+Explanation=The fraud risk assessment team should brainstorm to identify the fraud risks that could apply to the organization. In addition to each of the major areas of fraud risks‰?? fraudulent financial reporting, asset misappropriation, and corruption‰??certain other types of risks must be considered, including the risk of regulatory and legal misconduct, reputation risk, and risk to information technology (IT).See page(s) 4.815-4.816 in the Fraud Examiner's Manual

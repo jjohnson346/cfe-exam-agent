@@ -1,0 +1,311 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Seizing Digital Evidence
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Seizing Digital Evidence 
+Perhaps the most critical step in the forensics process is how data is collected or acquired. 
+Acquisition of digital evidence must be completed in such a way as to ensure that all relevant 
+evidence is seized and secured in a forensically sound manner so that the evidence is not 
+tainted or destroyed.  
+ 
+In fact, there are a number of practical considerations and procedures to employ when the 
+decision is made to go forward with a computer seizure. One of the primary considerations 
+that is often neglected is debriefing the subject, which involves asking the subject for 
+passwords and whether any encrypted data exists on the target computer. 
+ 
+The Scientific Working Group on Digital Evidence (SWGDE) from the Organization of 
+American States has published a document, titled Best Practices for Computer Forensics, 
+which provides a good foundation for digital forensics examiners. Although a complete 
+                                                 
+5  Scientific Working Group on Digital Evidence of the National Center for Forensic Science. Best Practices for 
+Computer Forensics V2, 2006. http://www.oas.org/juridico/s panish/cyb_best_pract.pdf.  
+Digital Forensics  Investigation 
+3.716   2011 Fraud Examiners Manual  
+review of the entire document is beyond the scope of this course, several guidelines deserve 
+review. According to the SWGDE, examiners should adhere to the following guidelines: 
+• Before obtaining evidence, ensure that there is legal authority to seize evidence and 
+review the data associated with the evidence. This may require obtaining a warrant in a 
+criminal matter or ensuring that internal policies authorize seizure for an internal 
+investigation.  
+• If removing evidence from the scene is impractical, copy or image the items of evidence 
+according to established procedures. 
+• Remove all suspects, witnesses, and bystanders from the proximity of the digital 
+evidence. Keep in mind that remote access to computers can put potential evidence at 
+risk even if no person has physical access to the computer. Also, consider the wide range 
+of mobile data storage devices today (e.g., USB flash drives) that can be hidden. 
+• Ensure that no suspects, witnesses, and bystanders possess any items containing 
+potential evidence.   
+• Thoroughly and systematically search the scene for potential evidence. Once again, 
+consider the wide range of data storage media and devices.  
+ 
+Unless completely unavoidable, data should not be analyzed on the machine from which it 
+was collected. Instead, the examiner should make forensically sound copies of all data 
+storage devices — primarily hard drives — and analyze the data on these copies.  
+ 
+To ensure that a machine can be fully analyzed, the examiner should take the following 
+steps: 
+• Examine and document the machine’s surroundings. 
+• Secure the evidence. 
+• Power down carefully. 
+• Inspect for traps. 
+• Implement a system to manage the evidence. 
+ 
+EXAMINE AND DOCUMENT THE MACHINE’S SURROUNDINGS 
+The first step in the evidence collection process is to examine and document the machine’s 
+surroundings. This includes collecting all printouts, disks, notes, and other physical evidence 
+for further analysis. Document the scene with photographs or a diagram, depending on the 
+complexity of the setup, remembering that it may be a year or longer before testimony about 
+what the office looked like on the day of the seizure will be asked for in a legal proceeding.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.717 
+When documenting the condition of the evidence, the examiner should consider: 
+• Documenting what is on the screen, if the system is on. 
+• Documenting any processes that are currently running. 
+• Taking photographs of the various views of the equipment and media to document any 
+damage or defects. 
+• Taking photographs of the equipment’s physical connections. 
+• Making a drawing of the location to document the layout and relative locations from 
+which evidence was seized. 
+ 
+Additionally, because many people have a habit of writing down or recording their 
+passwords near their computers, examiners should look around for notes that may appear to 
+be passwords. This may aid in discovering passwords needed to access encrypted data if the 
+subject of the investigation is being uncooperative. 
+ 
+Take good notes on the machine’s state at the ti me of the seizure. Record the time and date 
+that the system was seized and the personnel involved in the seizure. The status of the 
+system should also be noted. Was it on, off, or on standby? Was there anything unusual 
+attached to the system? Was there any obvious damage? Did any files have to be saved? 
+Also, if the computer was active, record any open applications. Make sure to start a chain of 
+custody document and note each person and storage location through which each piece of 
+evidence passes. 
+ 
+In addition to documenting the machine’s state at the time of seizure, the examiners should 
+document any serial numbers and other potential identifying markings (e.g., manufacturer, 
+model number, asset tracking number, etc.), and he should photograph and diagram the 
+system’s entire configuration. 
+ 
+SECURE THE EVIDENCE 
+When securing a computer system, follow the two golden rules. The first rule is, if the 
+computer is off, don’t turn it on. Also, if a comp uter is on, an investigator will not want it to 
+go through its normal shutdown routines because Windows is very good about cleaning up 
+after itself. A number of temporary files will be deleted and possibly overwritten during a 
+normal shutdown, and some of these files may be important to the investigation. In most 
+cases, the investigator should simply unplug a running computer. Once the investigator takes 
+possession of the computer he should not allow anyone access it, with the exception of a 
+trained forensic examiner. 
+Digital Forensics  Investigation 
+3.718   2011 Fraud Examiners Manual  
+There are other reasons to conduct the seizure in this way. By preserving the state of the 
+system at the time of seizure one can help to defeat an argument by opposing counsel that 
+exculpatory information was somehow tainted or erased due to mishandling of the system. If 
+one bit is changed in the system’s data, it will ha ve a completely different hash value; that is 
+to say, it would be different than the original, even though the average person may not be 
+able to recognize any difference at all.  
+ 
+All data is composed of bits (binary digits). It takes eight bits to make one byte, which is 
+what we are commonly used to hearing when we talk about storage capacity, such as 256 
+megabytes. One megabyte equals 1024 kilobytes, and one kilobyte equals 1024 bytes. As you 
+can see, one bit is a relatively infinitesimal piece of data, but it is important that not even one 
+bit of data be altered by the forensic process. 
+ 
+The second golden rule when securing a computer is, do not peek through the files. This 
+also applies to disks. If a system is running, the examiner may be tempted to click on the My 
+Computer icon to look for evidence or copy files to a flash or optical storage device. This 
+should never be done, because each file the investigator touches will have its original time 
+stamps changed; once this is done the original time stamps cannot be recovered. It will be 
+obvious to the forensic examiner that this has occurred. 
+ 
+There are two methods for shutting down a running system, a hard shutdown and a graceful 
+shutdown. Generally, the hard shutdown is preferred. There may be extenuating 
+circumstances that would lead the investigator to perform a graceful shutdown, so it is 
+important to evaluate the best shutdown option based on the type of data being preserved 
+and the possible ramifications of a hard shutdown based on the type of operating system 
+installed. A hard shutdown is basically pulling the power cord from the back of the PC. 
+ 
+Laptop computers, however, require additional considerations. When seizing a laptop, it is 
+important to remove the battery first and then pull the plug. It is essential when seizing a 
+laptop to recover all of the components that belong to the laptop, such as flash drives, CD-ROMs 
+and DVD–ROMs, and power supplies. Often, laptop computers must be imaged with their 
+drives installed, and because of the proprietary nature of the laptops themselves, they will 
+only function with their own components. Many  times these components can be located in 
+the laptop carrying case. 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.719 
+Similarly, networked computers also present unique considerations. When powering down a 
+networked computer, remove the power supply from the back of the computer.  
+ 
+When handling servers, however, it is important to use extreme caution when removing 
+power from a server without using proper shut-down methods because this can damage the 
+system and expose the examiner to liability.  
+ 
+Once a computer is seized, it is necessary to secure it in such a way that will allow the 
+investigator to testify, if need be, that no unauthorized access to the suspect system 
+occurred. 
+ 
+INSPECT FOR TRAPS 
+Examiners should also inspect the computer’s chassis for traps, intrusion detection software, 
+and self-destruct mechanisms. Although completely destroying a hard drive is extremely 
+difficult, it is not difficult to make recovery very difficult.   
+ 
+IMPLEMENT A SYSTEM TO MANAGE THE EVIDENCE 
+Examiners should have a system to track and manage physical and digital evidence. The 
+most common method used to track physical evidence is to assign each item a unique 
+evidence number. Although this number can be in any format, it should be consistent and 
+never repeated.  
+ 
+
+
+
+:
+
+
+seiz digit evid
+perhap the most critic step in the forens process is how data is collect or acquir
+acquisit of digit evid must be complet in such a wai as to ensur that all relev
+evid is seiz and secur in a forens sound manner so that the evid is not
+taint or destroi
+in fact there ar a number of practic consider and procedur to emploi when the
+decis is made to go forward with a comput seizur on of the primari consider
+that is often neglect is debrief the subject which involv ask the subject for
+password and whether ani encrypt data exist on the target comput
+the scientif work group on digit evid swgde from the organ of
+american state ha publish a document titl best practic for comput forens
+which provid a good foundat for digit forens examin although a complet
+5 scientif work group on digit evid of the nation center for forens scienc best practic for
+comput forens v2 2006 httpwwwoasorgjuridico panishcybbestpractpdf
+digit forens investig
+3716 2011 fraud examin manual
+review of the entir document is beyond the scope of thi cours sever guidelin deserv
+review accord to the swgde examin should adher to the follow guidelin
+befor obtain evid ensur that there is legal author to seiz evid and
+review the data associ with the evid thi mai requir obtain a warrant in a
+crimin matter or ensur that intern polici author seizur for an intern
+investig
+if remov evid from the scene is impract copi or imag the item of evid
+accord to establish procedur
+remov all suspect wit and bystand from the proxim of the digit
+evid keep in mind that remot access to comput can put potenti evid at
+risk even if no person ha physic access to the comput also consid the wide rang
+of mobil data storag devic todai eg usb flash drive that can be hidden
+ensur that no suspect wit and bystand possess ani item contain
+potenti evid
+thoroughli and systemat search the scene for potenti evid onc again
+consid the wide rang of data storag media and devic
+unless complet unavoid data should not be analyz on the machin from which it
+wa collect instead the examin should make forens sound copi of all data
+storag devic primarili hard drive and analyz the data on these copi
+to ensur that a machin can be fulli analyz the examin should take the follow
+step
+examin and document the machin surround
+secur the evid
+power down carefulli
+inspect for trap
+implement a system to manag the evid
+examin and document the machin surround
+the first step in the evid collect process is to examin and document the machin
+surround thi includ collect all printout disk note and other physic evid
+for further analysi document the scene with photograph or a diagram depend on the
+complex of the setup rememb that it mai be a year or longer befor testimoni about
+what the offic look like on the dai of the seizur will be ask for in a legal proceed
+investig digit forens
+2011 fraud examin manual 3717
+when document the condit of the evid the examin should consid
+document what is on the screen if the system is on
+document ani process that ar current run
+take photograph of the variou view of the equip and media to document ani
+damag or defect
+take photograph of the equip physic connect
+make a draw of the locat to document the layout and rel locat from
+which evid wa seiz
+addition becaus mani peopl have a habit of write down or record their
+password near their comput examin should look around for note that mai appear to
+be password thi mai aid in discov password need to access encrypt data if the
+subject of the investig is be uncoop
+take good note on the machin state at the ti me of the seizur record the time and date
+that the system wa seiz and the personnel involv in the seizur the statu of the
+system should also be note wa it on off or on standbi wa there anyth unusu
+attach to the system wa there ani obviou damag did ani file have to be save
+also if the comput wa activ record ani open applic make sure to start a chain of
+custodi document and note each person and storag locat through which each piec of
+evid pass
+in addit to document the machin state at the time of seizur the examin should
+document ani serial number and other potenti identifi mark eg manufactur
+model number asset track number etc and he should photograph and diagram the
+system entir configur
+secur the evid
+when secur a comput system follow the two golden rule the first rule is if the
+comput is off dont turn it on also if a comp uter is on an investig will not want it to
+go through it normal shutdown routin becaus window is veri good about clean up
+after itself a number of temporari file will be delet and possibl overwritten dure a
+normal shutdown and some of these file mai be import to the investig in most
+case the investig should simpli unplug a run comput onc the investig take
+possess of the comput he should not allow anyon access it with the except of a
+train forens examin
+digit forens investig
+3718 2011 fraud examin manual
+there ar other reason to conduct the seizur in thi wai by preserv the state of the
+system at the time of seizur on can help to defeat an argument by oppos counsel that
+exculpatori inform wa somehow taint or eras due to mishandl of the system if
+on bit is chang in the system data it will ha ve a complet differ hash valu that is
+to sai it would be differ than the origin even though the averag person mai not be
+abl to recogn ani differ at all
+all data is compos of bit binari digit it take eight bit to make on byte which is
+what we ar commonli us to hear when we talk about storag capac such as 256
+megabyt on megabyt equal 1024 kilobyt and on kilobyt equal 1024 byte as you
+can see on bit is a rel infinitesim piec of data but it is import that not even on
+bit of data be alter by the forens process
+the second golden rule when secur a comput is do not peek through the file thi
+also appli to disk if a system is run the examin mai be tempt to click on the my
+comput icon to look for evid or copi file to a flash or optic storag devic thi
+should never be done becaus each file the investig touch will have it origin time
+stamp chang onc thi is done the origin time stamp cannot be recov it will be
+obviou to the forens examin that thi ha occur
+there ar two method for shut down a run system a hard shutdown and a grace
+shutdown gener the hard shutdown is prefer there mai be extenu
+circumst that would lead the investig to perform a grace shutdown so it is
+import to evalu the best shutdown option base on the type of data be preserv
+and the possibl ramif of a hard shutdown base on the type of oper system
+instal a hard shutdown is basic pull the power cord from the back of the pc
+laptop comput howev requir addit consider when seiz a laptop it is
+import to remov the batteri first and then pull the plug it is essenti when seiz a
+laptop to recov all of the compon that belong to the laptop such as flash drive cdrom
+and dvdrom and power suppli often laptop comput must be imag with their
+drive instal and becaus of the proprietari natur of the laptop themselv thei will
+onli function with their own compon mani time these compon can be locat in
+the laptop carri case
+investig digit forens
+2011 fraud examin manual 3719
+similarli network comput also present uniqu consider when power down a
+network comput remov the power suppli from the back of the comput
+when handl server howev it is import to us extrem caution when remov
+power from a server without us proper shutdown method becaus thi can damag the
+system and expos the examin to liabil
+onc a comput is seiz it is necessari to secur it in such a wai that will allow the
+investig to testifi if need be that no unauthor access to the suspect system
+occur
+inspect for trap
+examin should also inspect the comput chassi for trap intrus detect softwar
+and selfdestruct mechan although complet destroi a hard drive is extrem
+difficult it is not difficult to make recoveri veri difficult
+implement a system to manag the evid
+examin should have a system to track and manag physic and digit evid the
+most common method us to track physic evid is to assign each item a uniqu
+evid number although thi number can be in ani format it should be consist and
+never repeat

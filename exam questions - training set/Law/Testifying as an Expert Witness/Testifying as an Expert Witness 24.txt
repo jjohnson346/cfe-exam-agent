@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Blue, an attorney, plans to call Green, a CFE, as an expert witness at trial. A week before the trial, the two meet to discuss their strategy. Blue tells Green what questions he will ask at trial and the two discuss how Green's evidence should be presented to the jury. Blue is subject to sanction for witness tampering.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Before testifying at a deposition or at trial, the expert should ensure that all important discussions with the lawyer have been held, and that the expert has a complete understanding of the relevant issues. The expert should ensure that he has agreement with counsel as to the sequence of evidence and the strategy for presenting it. It often is useful to have a "dry run‰?? at the direct testimony, v/ith all the questions posed by the counsel to the expert, to avoid surprises during trial. Blue cannot tell Green what to say or suggest that Green change his evidence to help Blue's case, but it is permissible to plan how to most effectively present Green's testimony.See page(s) 2.816 in the Fraud Examiner's Manual

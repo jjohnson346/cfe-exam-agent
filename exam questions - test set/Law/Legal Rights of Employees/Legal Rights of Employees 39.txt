@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Black, a Certified Fraud Examiner, interviews Green, a fraud suspect. No one else is present. During the interview Black accuses Green of being a "crook." Later, it turns out that Green is innocent. Green can sue and recover from Black on a claim of defamation.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Even though Green is innocent, he generally will not be able to recover under a defamation theory, because Black's statement was not "published" to a third party. The four elements of defamation are a false statement of fact; tending to subject the person to whom it referred to ill will or disrepute; published to one or more persons; and made without privilege.See page(s) 2.414-2.415 in the Fraud Examiner's Manual

@@ -1,0 +1,10 @@
+Section=Money Laundering
+
+Stem="Financial institutions," as defined by the USA PATRIOT Act, include not only commercial banks, but also insurance companies and travel agencies.
+
+Options=True | False 
+
+CorrectResponse=0
+
+Explanation=The USA PATRIOT Act defines the term ‘"financial institution" broadly to include not only insured and commercial banks, but also securities brokers and dealers, investment companies, currency exchanges, issuers of cashiers checks and money orders, credit card companies, insurance companies, travel agencies, and a host of other businesses. The complete list can be found at 31 U.S.C. Section 312 (a)(2). See page(s) 1.1616 in the Fraud Examiner’s Manual
+

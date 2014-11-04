@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Donald R. Cressey developed a hypothesis that has come to be known as the "fraud triangle." One leg of the triangle represents a perceived unsharable financial need. The second leg is for perceived opportunity, and the final is for ____________________.
+
+Options=Perceived acquiescence | Immediate financial resources | Rationalization | None of the above
+
+CorrectResponse=2
+
+Explanation=Over the years, Cressey's hypothesis has become more well known as the ‰??fraud triangle." One leg of the triangle represents a perceived unsharable financial need. The second leg is for perceived opportunity, and the final is for rationalization. The role of the nonsharable problem is important. Cressey said, ‰??When the trust violators were asked to explain why they refrained from violation of other positions of trust they might have held at previous times, or why they had not violated the subject position at an earlier time, those who had an opinion expressed the equivalent of one or more of the following quotations: (a) There was no need for it like there was this time.‰?? (b) The idea never entered my head.‰?? (c) ‰??I thought it was dishonest then, but this time it did not seem dishonest at first.‰??1See page(s) 4.603 in the Fraud Examiner's Manual

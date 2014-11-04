@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+basis                                  1
+made                                   1
+must                                   3
+real                                   1
+time                                   1
+current                                1
+on                                     1
+plain                                  1
+concerning                             1
+these                                  1
+be                                     2
+financial                              1
+information                            1
+disclosures                            2
+disclose                               1
+condition                              1
+or                                     1
+a                                      1
+under                                  1
+companies                              1
+rapid                                  1
+in                                     2
+section                                1
+material                               1
+and                                    2
+409                                    1
+operations                             1
+public                                 1
+their                                  1
+english                                1
+publicly                               1
+sarbanes-oxley                         1
+changes                                1
+
+Totals:                     33        39

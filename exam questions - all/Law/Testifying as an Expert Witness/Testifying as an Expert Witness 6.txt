@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=CFEs who testify as expert witnesses are prohibited from:
+
+Options=Testifying that, according to the evidence, they believe the accused committed the offense | Testifying about characteristics of fraud found in the case | Testifying that the defendant is guilty | Testifying that a document is fraudulent
+
+CorrectResponse=2
+
+Explanation=Certain standards for Certified Fraud Examiners are found in the Code of Professional Ethics. Specifically, Certified Fraud Examiners are prohibited from expressing opinions as to guilt or innocence of any person or party. This is not to say that the expert witness cannot testify to the badges or hallmarks or characteristics of fraud found in the case. It also does not mean that the Certified Fraud Examiner cannot testify that, based on the evidence, he believes that the accused may have committed the offense. But the ultimate guilt or innocence of any person or party is the sole responsibility of the judge and jury. The Certified Fraud Examiner typically will not be permitted to testify to the ultimate fact questions.See page(s) 2.820 in the Fraud Examiner's Manual

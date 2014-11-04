@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Which of the following is an example of an intangible asset?
+
+Options=Patents | Leaseholds | Goodwill | All of the above are intangible assets
+
+CorrectResponse=3
+
+Explanation=According to Marshall and McManus, "intangible assets" are "long-lived assets that differ from property, plant, and equipment that has been purchased outright or acquired under a capital lease—either because the asset is represented by a contractual right, or because the asset results from a purchase transaction but is not physically identifiable. Examples of the first type of intangible assets are leaseholds, patents, and trademarks; the second type of asset is known as goodwill."See page(s) 51 in the Corporate Fraud Handbook

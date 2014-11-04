@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Smart phones, MP3 players, thumb drives, and other such personal electronic devices cannot be searched or seized in the government workplace under any circumstances because they are strictly personal devices.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Employees often carry smart phones, thumb drives, or MP3 players into the office. Each of these devices is capable of storing large amounts of data and can easily be used to steal a company‰??s intellectual property. Because these devices are often purchased by the employee for personal use. a search warrant may be needed to seize or search these devices because employees may have a ‰??reasonable expectation of privacy" in these types of personal devices. Therefore, it is extremely important to include such devices in the company's search policy. The policy should clearly state that any personal electronic devices, including laptops, smart phones, thumb drives. MP3 players, and so forth, are (just like handbags and briefcases) subject to search if brought onto the company‰??s premises.See page(s) 3.712 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=In securities law, intent to defraud is defined more broadly than in other areas of common law fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Specific intent to defraud is an essential element of Section 17(a) and Rule 10b-5; however, "intent to defraud" is defined more broadly in securities regulation than in other areas of common-law fraud, and includes reckless statements, as well as the knowing circulation of half-truths and false opinions or predictions, which elsewhere may be considered nonactionable "puffing."See page(s) 2.256 in the Fraud Examiner's Manual

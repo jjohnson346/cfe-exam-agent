@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=A fraud scheme in which an accountant fails to write down obsolete inventory to its current market value has a _____________________ effect on the current ratio of the balance sheet.
+
+Options=Positive | Negative
+
+CorrectResponse=0
+
+Explanation=Many schemes are used to inflate or have a positive effect on the current ratio at the expense of long-term assets. The net effect is seen in the current ratio. The misclassification of long-term assets as current assets can be of critical concern to lending institutions that often require the maintenance of certain ratios. This is of particular consequence when the loan covenants are on unsecured or under-secured lines of credit and other short-term borrowings. Sometimes these misclassifications are referred to as "window dressing.‰??See page(s) 376 in the Corporate Fraud Handbook

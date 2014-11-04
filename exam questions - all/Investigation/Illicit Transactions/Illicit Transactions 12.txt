@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=Which of the following is NOT an advantage of using a home mortgage pay-down to spend illicit funds?
+
+Options=It is difficult to trace the payments | It may allow the individual to shelter the asset through a homestead exemption | Mortgage payments raise less suspicion than offshore transfers | It increases the available equity in the house
+
+CorrectResponse=0
+
+Explanation=In many cases, subjects seek to hide their assets from seizure by prepaying a significant portion of their home mortgage. This might allow the subject to shelter his assets in a homestead exemption (as allowed in Texas, Florida, and other states) that will survive bankruptcy or other claims against them. By documenting the mortgage prepayment, the fraud examiner can often show undisclosed or hidden income from outside sources. Mortgage payments raise less suspicion from banks than do wire transfers or off-shore transfers; however, the disadvantage of such payments is that they are easily traced.See page(s) 3.847-3.848 in the Fraud Examiner's Manual

@@ -1,0 +1,284 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Privacy Issues
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Privacy Issues  
+Before searching and seizing an item, the examiner must determine whether an employee has 
+a privacy interest in the item(s) to be searched. In every case where it becomes necessary to 
+seize a computer or other device capable of storing digital evidence, the investigator should 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.709 
+consult with legal counsel. It is imperative that legal counsel be involved in the seizure 
+process and be knowledgeable of case law pertaining to workplace seizures.  
+ 
+Case law governing workplace seizures in the private sector is different from case law 
+governing seizures in the government workplace, but generally, it all comes down to the 
+employee’s expectation of privacy. Although the Fourth Amendment constitutional right 
+guarantees protection against unreasonable searches and seizures, typically, the Fourth 
+Amendment does not protect private sector employees.  
+ 
+In the private sector, disputes over unreasonable searches and seizures usually come down 
+on the side of the corporation. The case law in the private sector tends to support the 
+argument that corporations have the right to decrease the level of privacy employees can 
+expect with regard to workplace searches of computers and other digital media. Thus, 
+companies to adopt a written policy establishing that all computer systems (e.g., the Internet, 
+e-mail communications, hardware, and files) are solely for business use and that the 
+company reserves the absolute right to review, audit, and disclose all matters sent over the 
+system or placed in storage. And as long as written policies are in effect that support 
+management’s actions, the corporation can avoid liability for violating an employee’s right to 
+privacy. 
+ 
+Additionally, when conducting an internal investigation or inquiry into allegations of 
+misconduct or illegal activities in both the private and governmental sector, it is important to 
+be aware of what the employee policy protects against and what it allows. It should also be 
+determined whether steps have been taken to nullify any expectations of privacy. 
+ 
+Governmental employees, whether local, state, or federal, have been provided special 
+protections that do not generally apply to employees in the private sector. In all cases where 
+it becomes necessary to seize a governmental employee’s computer or other digital device, it 
+is imperative that the investigator consult with the entity’s legal counsel.  
+ 
+Bryan R. Lemons, Branch Chief of the Legal Di vision Office of Training Operations at the 
+FLETC training center in Georgia, has written an excellent paper on the subject of 
+governmental workplace searches and seizures, in which he summarizes a number of cases 
+where the courts have rendered opinions on governmental workplace searches and seizures. 
+In his paper, Mr. Lemons defined the term workplace to include those areas and items that are 
+Digital Forensics  Investigation 
+3.710   2011 Fraud Examiners Manual  
+related to work and are generally within the employer’s control, which includes file cabinets, 
+desks, and computers. 
+ 
+Case law on this issue has attempted to answer several questions. Can a government 
+employee have a reasonable expectation of privacy in the workplace? If so, what standards 
+should be followed to ensure that a supervisor is conducting a lawful search of an 
+employee’s work space? Is there a lesser standa rd employed in the case of mere suspicion? 
+ 
+The Supreme Court case of O’Conner v. Ortega  was the hallmark case in the argument about 
+the reasonableness of searches and seizures, but there were a number of other issues that 
+were decided at the lower-court level. In O’Conner, the Supreme Court held that “the 
+realities of the workplace” made some exp ectations of privacy among public employees 
+unreasonable when the intrusion was by a supervisor rather than a law enforcement official. 
+Work-related searches, the Court found, were “m erely incident to the primary business of 
+the agency,” and a warrant requirement would “seriously disrupt the routine conduct of 
+business.” The Court thus held that a standard  of “reasonableness” was sufficient for work-
+ related intrusions by public employers. 
+ 
+To simplify the decision-making process when considering a workplace search, Lemons 
+explains that there is a two-part analysis that will offer some guidance. The first part requires 
+a determination of the employee’s reasonable ex pectation of privacy in the area to be 
+searched. Second, if a reasonable expectation of privacy does exist, then any search that 
+occurs in the workplace must be reasonable under the given circumstances.  
+ 
+In United States v. Gonzalez 4, the court dealt with the search of a government employee’s 
+personal belongings. In this case, the employee (Gonzalez), as a condition of employment, 
+signed a paper that indicated, among other things, his personal belongings might be searched 
+in an effort to discourage employee theft. Gonzalez worked at a military exchange. He was 
+stopped one day during his departure from the store and his backpack was searched by store 
+security. The search revealed that Gonzalez’s backpack contained merchandise stolen from 
+the store. On appeal, Gonzalez claimed that his Fourth Amendment rights had been 
+violated. The court looked to the paper that was originally signed by Gonzalez and stated 
+                                                 
+4  United States v. Gonzalez, 300 F.3d 1048 (9th Cir. 2002). 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.711 
+that Gonzalez was put on notice that his personal belongings might be searched and as a 
+result his expectation of privacy was limited by his knowledge of store policy. 
+ 
+In Gossmeyer v. McDonald, the court dealt with the question of whether there was a reasonable 
+expectation of privacy regarding personally purchased items that were used to store work-
+ related materials in the government workplace. In this case, a local detective received an 
+anonymous tip from one of Gossmeyer’s coworkers that Gossmeyer was storing illegal 
+pornographic material in a storage container that was purchased at Gossmeyer’s own 
+expense. The local detective relayed the information to Gossmeyer’s supervisor who 
+proceeded to search Gossmeyer’s workplace, including the storage cabinet. The supervisor 
+found evidence to substantiate the allegation but no charges were ever filed. Gossmeyer filed 
+a lawsuit alleging that her Fourth Amendment rights had been violated by the search of her 
+personal property. The court disagreed, stating that the cabinet was not merely an item of 
+personal property such as a purse or briefcase brought into the workplace, but that it was 
+being used to house work-related materials and therefore, the cabinet was a part of the 
+workplace and not a part of her personal domain. 
+ 
+In O’Conner, the Supreme Court ruled that it is possible to reduce the expectation of privacy 
+on the part of government employees, for example, in the form of a written notice signed by 
+the employee that gives the employer the right to access or inspect information stored on the 
+employee’s computer. In the case of United States v. Simons,  the defendant, Simons, was found 
+to have visited several illicit websites that were prohibited by agency policy. The policy 
+specifically prohibited access to unlawful material and further prohibited any personal use of 
+the agency’s Internet. A remote audit of the hard drive on Simons’s government-owned 
+computer revealed that the computer contained several illegal images. In Simons’s challenge 
+of the search under the Fourth Amendment, he claimed that his rights were violated when 
+the hard drive was searched remotely. The Fourth Circuit Court of Appeals held that Simons 
+had no legitimate expectation of privacy because of the agency’s Internet use policy. The 
+policy’s language placed employees on notice of  their diminished expectation of privacy. 
+ 
+When determining whether to conduct a search of government-workplace computers it is 
+important to determine whether a reasonable expectation of privacy exists. To answer that 
+question, one must look at whether there was a prior notice that diminishes the expectation. 
+One can also look at the policy practices of the agency. Having a policy and only selectively 
+enforcing it tends to diminish the policy to the point that it may not negate the privacy 
+expectation. One must also look to the openness and accessibility of the workplace to other 
+Digital Forensics  Investigation 
+3.712   2011 Fraud Examiners Manual  
+employees. Finally, was there a written waiver of the employee’s expectati on of privacy? If an 
+expectation of privacy does not exist, then the Fourth Amendment will not apply. If it is 
+determined that an expectation of privacy does exist, then what is the purpose behind the 
+search? Is it a work-related search, such as looking for a missing file, or is it due to an 
+allegation of misconduct? If it is a work-related  search, the search must be justified based on 
+the overall circumstances; it must be justified in its inception and permissible in scope. If the 
+search under these conditions is solely for the purpose of a criminal investigation, then a 
+probable cause warrant will generally be necessary in addition to the employee consent. 
+ 
+It should also be noted that personal digital devices are becoming more common in the 
+workplace. Employees often carry smart phones, thumb drives, or MP3 players into the 
+office. Each of these devices is capable of storing large amounts of data and can easily be 
+used to steal a company’s intellectual property. Because these devices are often purchased by 
+the employee for personal use, a search warrant may be needed to seize or search these 
+devices because employees may have a “reasonable expectation of privacy” in these types of 
+personal devices. Therefore, it is extremely important to include such devices in the 
+company’s search policy. The policy should cl early state that any personal electronic devices, 
+including laptops, cell phones, smart phones, thumb drives, MP3 players, and so forth, are 
+(just like handbags and briefcases) subject to search if brought onto the company’s premises. 
+ 
+
+
+
+:
+
+
+privaci issu
+befor search and seiz an item the examin must determin whether an employe ha
+a privaci interest in the item to be search in everi case where it becom necessari to
+seiz a comput or other devic capabl of store digit evid the investig should
+investig digit forens
+2011 fraud examin manual 3709
+consult with legal counsel it is imper that legal counsel be involv in the seizur
+process and be knowledg of case law pertain to workplac seizur
+case law govern workplac seizur in the privat sector is differ from case law
+govern seizur in the govern workplac but gener it all come down to the
+employe expect of privaci although the fourth amend constitut right
+guarante protect against unreason search and seizur typic the fourth
+amend doe not protect privat sector employe
+in the privat sector disput over unreason search and seizur usual come down
+on the side of the corpor the case law in the privat sector tend to support the
+argument that corpor have the right to decreas the level of privaci employe can
+expect with regard to workplac search of comput and other digit media thu
+compani to adopt a written polici establish that all comput system eg the internet
+email commun hardwar and file ar sole for busi us and that the
+compani reserv the absolut right to review audit and disclos all matter sent over the
+system or place in storag and as long as written polici ar in effect that support
+manag action the corpor can avoid liabil for violat an employe right to
+privaci
+addition when conduct an intern investig or inquiri into alleg of
+misconduct or illeg activ in both the privat and government sector it is import to
+be awar of what the employe polici protect against and what it allow it should also be
+determin whether step have been taken to nullifi ani expect of privaci
+government employe whether local state or feder have been provid special
+protect that do not gener appli to employe in the privat sector in all case where
+it becom necessari to seiz a government employe comput or other digit devic it
+is imper that the investig consult with the entiti legal counsel
+bryan r lemon branch chief of the legal di vision offic of train oper at the
+fletc train center in georgia ha written an excel paper on the subject of
+government workplac search and seizur in which he summar a number of case
+where the court have render opinion on government workplac search and seizur
+in hi paper mr lemon defin the term workplac to includ those area and item that ar
+digit forens investig
+3710 2011 fraud examin manual
+relat to work and ar gener within the employ control which includ file cabinet
+desk and comput
+case law on thi issu ha attempt to answer sever question can a govern
+employe have a reason expect of privaci in the workplac if so what standard
+should be follow to ensur that a supervisor is conduct a law search of an
+employe work space is there a lesser standa rd emploi in the case of mere suspicion
+the suprem court case of oconn v ortega wa the hallmark case in the argument about
+the reason of search and seizur but there were a number of other issu that
+were decid at the lowercourt level in oconn the suprem court held that the
+realiti of the workplac made some exp ectat of privaci among public employe
+unreason when the intrus wa by a supervisor rather than a law enforc offici
+workrel search the court found were m er incid to the primari busi of
+the agenc and a warrant requir would serious disrupt the routin conduct of
+busi the court thu held that a standard of reason wa suffici for work
+relat intrus by public employ
+to simplifi the decisionmak process when consid a workplac search lemon
+explain that there is a twopart analysi that will offer some guidanc the first part requir
+a determin of the employe reason ex pectat of privaci in the area to be
+search second if a reason expect of privaci doe exist then ani search that
+occur in the workplac must be reason under the given circumst
+in unit state v gonzalez 4 the court dealt with the search of a govern employe
+person belong in thi case the employe gonzalez as a condit of employ
+sign a paper that indic among other thing hi person belong might be search
+in an effort to discourag employe theft gonzalez work at a militari exchang he wa
+stop on dai dure hi departur from the store and hi backpack wa search by store
+secur the search reveal that gonzalez backpack contain merchandis stolen from
+the store on appeal gonzalez claim that hi fourth amend right had been
+violat the court look to the paper that wa origin sign by gonzalez and state
+4 unit state v gonzalez 300 f3d 1048 9th cir 2002
+investig digit forens
+2011 fraud examin manual 3711
+that gonzalez wa put on notic that hi person belong might be search and as a
+result hi expect of privaci wa limit by hi knowledg of store polici
+in gossmey v mcdonald the court dealt with the question of whether there wa a reason
+expect of privaci regard person purchas item that were us to store work
+relat materi in the govern workplac in thi case a local detect receiv an
+anonym tip from on of gossmey cowork that gossmey wa store illeg
+pornograph materi in a storag contain that wa purchas at gossmey own
+expens the local detect relai the inform to gossmey supervisor who
+proceed to search gossmey workplac includ the storag cabinet the supervisor
+found evid to substanti the alleg but no charg were ever file gossmey file
+a lawsuit alleg that her fourth amend right had been violat by the search of her
+person properti the court disagre state that the cabinet wa not mere an item of
+person properti such as a purs or briefcas brought into the workplac but that it wa
+be us to hous workrel materi and therefor the cabinet wa a part of the
+workplac and not a part of her person domain
+in oconn the suprem court rule that it is possibl to reduc the expect of privaci
+on the part of govern employe for exampl in the form of a written notic sign by
+the employe that give the employ the right to access or inspect inform store on the
+employe comput in the case of unit state v simon the defend simon wa found
+to have visit sever illicit websit that were prohibit by agenc polici the polici
+specif prohibit access to unlaw materi and further prohibit ani person us of
+the agenc internet a remot audit of the hard drive on simonss governmentown
+comput reveal that the comput contain sever illeg imag in simonss challeng
+of the search under the fourth amend he claim that hi right were violat when
+the hard drive wa search remot the fourth circuit court of appeal held that simon
+had no legitim expect of privaci becaus of the agenc internet us polici the
+polici languag place employe on notic of their diminish expect of privaci
+when determin whether to conduct a search of governmentworkplac comput it is
+import to determin whether a reason expect of privaci exist to answer that
+question on must look at whether there wa a prior notic that diminish the expect
+on can also look at the polici practic of the agenc have a polici and onli select
+enforc it tend to diminish the polici to the point that it mai not negat the privaci
+expect on must also look to the open and access of the workplac to other
+digit forens investig
+3712 2011 fraud examin manual
+employe final wa there a written waiver of the employe expectati on of privaci if an
+expect of privaci doe not exist then the fourth amend will not appli if it is
+determin that an expect of privaci doe exist then what is the purpos behind the
+search is it a workrel search such as look for a miss file or is it due to an
+alleg of misconduct if it is a workrel search the search must be justifi base on
+the overal circumst it must be justifi in it incept and permiss in scope if the
+search under these condit is sole for the purpos of a crimin investig then a
+probabl caus warrant will gener be necessari in addit to the employe consent
+it should also be note that person digit devic ar becom more common in the
+workplac employe often carri smart phone thumb drive or mp3 player into the
+offic each of these devic is capabl of store larg amount of data and can easili be
+us to steal a compani intellectu properti becaus these devic ar often purchas by
+the employe for person us a search warrant mai be need to seiz or search these
+devic becaus employe mai have a reason expect of privaci in these type of
+person devic therefor it is extrem import to includ such devic in the
+compani search polici the polici should cl earli state that ani person electron devic
+includ laptop cell phone smart phone thumb drive mp3 player and so forth ar
+just like handbag and briefcas subject to search if brought onto the compani premis

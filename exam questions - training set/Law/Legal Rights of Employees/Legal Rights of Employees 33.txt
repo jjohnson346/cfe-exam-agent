@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Under the Fair Credit Reporting Act, which of the following information may be obtained under an "investigative consumer report" without notification of the consumer?
+
+Options=General reputation | Character | Mode of living | None of the above
+
+CorrectResponse=3
+
+Explanation=Under the Fair Credit Reporting Act, a person cannot obtain an "investigative consumer report" on any consumer that includes information about the consumer's character, general reputation, personal characteristics, or mode of living, unless the consumer is notified in advance of the requested report. The consumer may then demand additional information about the nature and scope of the requested reportSee page(s) 2.442 in the Fraud Examiner's Manual

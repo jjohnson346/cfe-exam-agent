@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The most difficult type of insurance fraud to detect is generally collusion, in which several people (such as the doctor and patient or adjuster and insured) are involved in concealing the fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Collusion is the most difficult insurance fraud to detect since several people are involved in committing the fraud. Usually cases of this nature are disclosed by accident or by a tip received from someone who might have been involved and has had a falling-out.See page(s) 1.1228 in the Fraud Examiner‰??s Manual

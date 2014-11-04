@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, ________________________ questions require more than a "yes" or "no" response.
+
+Options=Complex | Monologue | Open | None of the above
+
+CorrectResponse=2
+
+Explanation=Open questions are those worded in a way which makes it difficult to answer "yes" or "no." Nor is the answer dependent on the question. The typical open question calls for a monologue response, and it can be answered in several different ways. During the information phase of the interview, the interviewer should endeavor to ask primarily open questions. This is to stimulate conversation. Some of the best open questions are subtle commands. Examples: "Please tell me about your job"; "Please tell me about the operation of your department"; "What do you think about this problem?": and "Please describe the procedures to me"See page(s) 3.223 in the Fraud Examiner's Manual

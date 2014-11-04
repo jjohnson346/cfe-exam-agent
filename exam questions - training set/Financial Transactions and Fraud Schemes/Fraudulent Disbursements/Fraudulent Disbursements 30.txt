@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=In order to prevent fraudulent register disbursements, an employee other than the register worker should be responsible for preparing register count sheets and agreeing them to register totals.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In order to prevent fraudulent register disbursements, an employee other than the register worker should be responsible for preparing register count sheets and agreeing them to register totals.See page(s) 174 in the Corporate Fraud Handbook

@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Disadvantages of a covert operation include which of the following?
+
+Options=Potential liability | Large time commitment | Costliness | All of the above
+
+CorrectResponse=3
+
+Explanation=In addition to the legal problems a fraud examiner might encounter, a covert operation is the most costly and risky work an examiner can undertake. Such operations consume great amounts of human resources. They should be used only v/ith extreme care, and as a last resort. If the case can be made any other way, the fraud examiner should stay away from covert operations.See page(s) 3.304 in the Fraud Examiner's Manual

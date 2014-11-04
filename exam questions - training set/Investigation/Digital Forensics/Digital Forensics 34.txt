@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Before removing a computer system from a scene for further analysis, it is important to document the system setup through photographs or diagrams.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Before removing a system, be certain to document the scene with photographs or a diagram, depending on the complexity of the setup, remembering that it may be a year or longer before testimony about what the office looked like on the day of the seizure will be asked for in a legal proceeding. Additionally, it is important to document what is on the screen if the system is on, as well as what processes are currently running.See page(s) 3.716-3.717 in the Fraud Examiner's Manual

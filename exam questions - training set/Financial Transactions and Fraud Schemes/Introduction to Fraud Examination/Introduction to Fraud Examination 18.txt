@@ -1,0 +1,9 @@
+Section=Introduction to Fraud Examination
+
+Stem=The hypothesis formed at the beginning of an examination is usually a _____________ scenario.
+
+Options="Worst-case" | Presumption of innocence | "Best-case" | Hypothetical
+
+CorrectResponse=0
+
+Explanation=The hypothesis is invariably a "worst-case" scenario. That is, based on the allegation, what is the worst possible outcome? A hypothesis can be created for any specific allegation, i.e.. a bribery or kickback scheme, embezzlement, conflict of interest, financial statement fraud, and so forth. In furtherance of the hypotheses, fraud examiners know that each specific scheme has its own unique characteristics that constitute the badges or red flags of fraud.See page(s) I-9 in the Fraud Examiner's Manual

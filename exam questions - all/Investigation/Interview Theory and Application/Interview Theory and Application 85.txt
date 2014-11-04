@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In potentially volatile interviews, in what sequence should informational questions be asked?
+
+Options=Reverse order | By transaction or event | Chronological | None of the above
+
+CorrectResponse=3
+
+Explanation=In a potentially volatile interview, the order of questions should be out of sequence. This is to keep the volatile respondent from knowing exactly the nature of the inquiry and where it is leading. Although the interviewer will endeavor to obtain information regarding who, what, why, when, where, and how, the order of the questioning will vary from that of other interviews. This technique is especially important in situations where the respondent may be attempting to protect himself.See page(s) 3.233 in the Fraud Examiner's Manual

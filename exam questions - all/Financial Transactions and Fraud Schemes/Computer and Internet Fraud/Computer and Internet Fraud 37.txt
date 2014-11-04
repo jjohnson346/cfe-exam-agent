@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is NOT a characteristic of computer hacking?r
+
+Options=Unauthorized access of computer and telecommunications systems | Spamming | Valid password access found by experimentation or systematic "guessing" | All of the above are characteristics of hacking
+
+CorrectResponse=1
+
+Explanation=Hacking is basically the breaking into computers and telecommunications systems by learning the vulnerabilities of various hardware and software and using a computer to systematically “guess’’ the user’s system identification and passwordSee page(s) 1.1805 in the Fraud Examiner's Manual

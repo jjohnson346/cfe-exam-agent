@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Social Security frauds, false claims for benefits, and Supplemental Security Income fraud can properly be classified as which of the following:
+
+Options=Beneficiary fraud | Consumer fraud | Health care fraud | None of the above
+
+CorrectResponse=0
+
+Explanation=Beneficiary frauds tend to be perpetrated by individuals, without collusion or bribery. The motive for this type of fraud is personal gain (or reduction of loss) by the perpetrator. An example of this type of fraud might include a taxpayer v/ho claims an unearned tax credit on his federal income tax return. This person has perpetrated a fraud against the government. Some reported cases typifying these frauds are:‰?¢	Social Security frauds‰?¢	False claims for benefits‰?¢	Supplemental Security Income fraud‰?¢	Fraudulent Social Security numbers‰?¢	Improper billing procedures‰?¢	False Medicare claimsSee page(s) 1.1915 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Which Amendment to the U.S. Constitution covers the right to counsel?
+
+Options=Fourth Amendment | Fourteenth Amendment | Sixth Amendment | Fifth Amendment
+
+CorrectResponse=2
+
+Explanation=The Sixth Amendment covers the right to counsel. It states: "In all criminal prosecutions, the accused shall enjoy the right to speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law. and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor; and to have the assistance of counsel for his defense."See page(s) 2.101 in the Fraud Examiner's Manual

@@ -1,0 +1,1714 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Direct Methods of Tracing Financial Transactions
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+Direct Methods of Tracing Financial Transactions 
+A subject’s income can be established by the direct or indirect approach. The direct 
+approach, or the specific-items method of proving income, relies on specific transactions, 
+such as sales or expenses, to determine income. The indirect approach relies on 
+circumstantial proof of income. Indirect methods will be discussed in the next section. 
+ 
+To trace financial transactions using the direct method, the examiner must obtain relevant 
+financial records. 
+ 
+Financial Institutions 
+Fraud examiners should recognize that in most instances bank records are not readily 
+obtainable. Substantial requirements usually must be met to justify legal process (e.g., 
+subpoena, search warrant, and the like), which banks will customarily demand as a condition 
+for disclosure. Preliminary investigation is of the utmost importance to lay the basis for 
+obtaining such records. More information on banking transactions is contained in the 
+Financial Transactions section of the Fraud Examiners Manual.  
+ 
+The availability of investigative avenues often determines whether a promising fraud 
+examination will grind to a halt or proceed successfully. Legal advice from a prosecutor or 
+civil counsel should be sought in all such instances. It should also be recognized that bank 
+officials and employees can be questioned by fraud examiners in the same manner as any 
+other potential witnesses and that their responses to proper inquiries might provide 
+important information. 
+ 
+Bank records are perhaps the single most important financial source available to a fraud 
+examiner. In addition to their use as evidence for fraud, a bank’s records might provide leads 
+on sources of funds, expenditures, and personal affairs. 
+Tracing Illicit Transactions  Investigation 
+3.806   2011 Fraud Examiners Manual  
+The following information can be of value to fraud examiners seeking information from 
+banks concerning pertinent financial transactions of economic crime perpetrators. It is based 
+in part on the operational guidelines issued by the American Bankers Association to all 
+member banks in the United States and on the training guides issued by the U.S. 
+Department of the Treasury. 
+ 
+Types of Financial Institutions  
+Banks are classified primarily by their major services. 
+• Commercial banks  offer businesses and individuals such services as checking accounts, 
+loans, and exchange instruments. 
+• Savings banks  and savings and loan associations  handle savings accounts and mortgage loans. 
+• Trust companies  handle property for others under various types of fiduciary 
+accommodations. 
+ 
+Many banks combine all three services. Banks are organized under either state or national 
+banking laws. 
+ 
+The basic bank functions are as follows: 
+• Receive deposits 
+• Pay checks 
+• Transfer funds 
+• Make loans 
+• Collect sundry financial instruments 
+• Hold and administer property for others 
+• Perform other services, such as renting safe deposit boxes 
+ 
+Internal Bookkeeping Procedures 
+The internal record-keeping practices and procedures of banks not only are complex but 
+they constantly are changing because of the growing sophistication of computer technology. 
+Banks are moving steadily toward an electronic funds-transfer system that will eliminate the 
+use of checks. Such a system will automatically transfer money from the account of the 
+purchaser to the account of the seller. Paper trails will disappear. Detailed familiarity with the 
+intricacies of internal bank operations is not essential, however, for the fraud examiner to 
+obtain the types of information necessary for investigations. What is essential is the 
+knowledge that records of customers’ transactions are maintained and retained. 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.807 
+Electronic Banking 
+Electronic banking is possibly the most common form of banking today. Electronic banking 
+includes automated teller machine transactions; point-of-sale transactions using credit or 
+debit cards; smart cards, which are gaining popularity in the U.S. (and are already popular in 
+Europe); wire transfers; online bill payment through Internet banking and biller websites; 
+and traditional automated clearing house (ACH) applications of direct payment and direct 
+deposit. 
+ 
+All of these forms of electronic banking are governed by the Electronic Fund Transfer Act 
+(EFTA) (15, U.S.C., § 1693 (See Appendix A)). The EFTA currently requires financial 
+institutions to keep records on all transactions of $3,000 or more. 
+ 
+Retention of Records 
+The Bank Secrecy Act set forth a system of reporting and recordkeeping requirements 
+designed to help track large or unusual financial transactions. The Act consists of two titles. 
+Title I contains provisions requiring financial institutions and securities brokers and dealers 
+to keep extensive records of the transactions and accounts of their customers. Title II of the 
+Act (originally entitled Currency and Foreign Transactions Reporting Act) requires banks, 
+“financial institutions” (which include casinos, securities brokers and dealers, currency 
+exchanges, and others), and, in some cases, individuals to report certain transactions to the 
+government.  
+ 
+Title I—Recordkeeping 
+The regulations governing recordkeeping are set forth in Chapter 31 of the Code of Federal 
+Regulations at Part 103, Subpart C. The recordkeeping requirements are set forth for banks, 
+nonbank financial institutions, securities brokers, casinos, and currency dealers and 
+exchangers. Under these regulations, all institutions are required to keep a record of any 
+financial transaction of more than $10,000. 
+ 
+These regulations provide, in part, that banks must keep an original, microfilm, or other 
+copy or reproduction of most demand deposits (checking account) and savings account 
+records must be retained for five years. The records must include signature cards; 
+statements, ledger cards or other records disclosing all transactions, that is, deposits and 
+withdrawals; and copies of customers’ check s, bank drafts, money orders, and cashier’s 
+checks drawn on the bank or issued and payable by it. 
+ 
+Tracing Illicit Transactions  Investigation 
+3.808   2011 Fraud Examiners Manual  
+In addition, banks also must retain, for two years, all records necessary to reconstruct a 
+customer’s checking account. These records must include copies of customers’ deposit 
+tickets. They must also retain records necessary to trace and supply a description of a check 
+deposited to a customer’s checking account. 
+ 
+Although some of these requirements apply to checks written or deposits made in excess of 
+$100, most banks find it cheaper to microfilm all pertinent records, including the checks and 
+deposits in amounts less than $100, rather than sort their records into two categories. The 
+Bank Secrecy Act also requires financial institutions to retain a record of any extension of 
+credit of more than $10,000 as well as each tr ansfer of $10,000 or more outside the United 
+States. 
+ 
+Title II—Reporting and Recordkeeping 
+Title II of the Bank Secrecy Act is codified as 31, U.S.C., §§ 5311–5330. The purpose of 
+these sections is to require certain reports or records to be filed or kept by “financial 
+institutions.” Section 5312(a)(2) defines “financial institution” very broadly to include not 
+only banks, but also securities brokers; curre ncy exchange houses; insurance companies; loan 
+companies; travel agencies; telegraph companie s; issuers or cashiers of checks or money 
+orders; auto, boat, and airplane dealers; casinos; and persons involved in real estate closings 
+and settlements. Only recently has the Treasury Department begun to reign in much of the 
+non-financial institution transaction business in the by requiring registration of these diverse 
+enterprises. 
+ 
+Gaining Access to Records Held by Financial Institutions 
+One of the most difficult challenges to the fraud examiner will be to gain access to the 
+records held by financial institutions. Although bank records are one of the most important 
+sources available to fraud examinations, they are not readily obtainable. Most suspects will 
+not willingly give their records to a fraud examiner, especially if the records contain 
+potentially incriminating evidence.  
+ 
+Moreover, financial institutions’ authority to di sclose bank records is restricted by federal 
+and state law. For example, the Right to Financial Privacy Act prohibits financial institutions 
+from disclosing financial information about individual customers until the governmental 
+authority obtains the customer’s consent, a court order, a subpoena, a search warrant, or 
+some other formal demand, with limited exceptions. And even though Right to Financial 
+Privacy Act applies only to demands by governmental agencies, most banks and other 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.809 
+financial institutions also will not release such information to private parties absent legal 
+process, such as a subpoena issued in a civil lawsuit. 
+ 
+As a result, substantial requirements must generally be met before banks will disclose such 
+information. In general, bank records can be obtained in most jurisdictions by using one of 
+the following methods: 
+• Civil discovery 
+• Administrative subpoena or summons 
+• Civil summons 
+• Customer authorized disclosure 
+• Court subpoena 
+• Grand jury subpoena 
+• Search warrant  
+ 
+Furthermore, the cost of obtaining bank records can be quite high. Banks generally charge 
+both public and private entities to search and retrieve records. There are usually additional 
+costs for the reproduction of records. It might be prudent for the examiner to limit record 
+requests as much as possible.  
+ 
+Despite such complications, the examiner might attempt to obtain the financial records of 
+suspects by contacting their former spouses. Former spouses might have banking records 
+useful to the fraud examiner that they may be happy to turn over. Similarly, the banking 
+records might also be a part of a divorce settlement or a lawsuit. 
+ 
+Types of Financial Records 
+The financial records identified and discussed below are limited to those of particular 
+interest to fraud examiners. 
+ 
+Account Opening Documents 
+Account opening documents include the records required to create a bank account, but the 
+types of files required may vary depending on the type of account. 
+ 
+PERSONAL ACCOUNTS 
+Signature cards are the key records required to open and use a personal account. The 
+signature card is the evidence of a contract between the customer and bank. When a 
+depositor opens an account, the bank requires that a signature card be signed. By signing the 
+Tracing Illicit Transactions  Investigation 
+3.810   2011 Fraud Examiners Manual  
+card, the depositor becomes a party to a contract with the bank under which he accepts all 
+rules and regulations of the bank and authorizes the bank to honor his orders for 
+withdrawing funds. For a corporation or a partnership account, the signature card is 
+accompanied by copies of resolutions of the board of directors or partnership agreements 
+naming the person authorized to draw checks on the accounts. 
+ 
+The signature card is a source of valuable information. Although its form varies, the card 
+usually contains such data as banking connections and the date and amount of the initial 
+deposit. The initial deposit traced through the bank’s records may disclose a source of 
+income. The identification of the person who opened the account might be significant, 
+especially if the depositor used an alias. 
+ 
+Many banks investigate the references give n by a new customer. They might also make 
+inquiries of various credit reporting agencies. This information is contained in a 
+correspondence file or a credit file that can contain comments of the person who opened the 
+account and might show information given by the depositor when opening the account. 
+ 
+In banks using Automatic Data Processing (ADP), the signature card also contains an 
+account number assigned to the customer. In tracing information about a subject’s 
+transactions with the bank, the account number must be used. If it does not appear on the 
+signature card, it can be located in the bank’s cross-reference file. Assigned account numbers 
+are encoded on other documents relating to the depositor by means of a system called 
+Magnetic Ink Character Recognition (MICR). The card also might contain the depositor’s 
+Social Security number. 
+ 
+The signature card might define the account as either a regular or a special checking account. 
+The main difference between the two is the service charge made by the bank. The regular 
+checking account is used mostly by businesses and individuals who maintain large average 
+balances. The special checking account is used by individuals who usually have small  
+account balances. 
+ 
+When requesting the signature card, the fraud examiner should determine whether the bank 
+maintains any type of central file. Most large banks have a central file that lists all 
+departments with which a customer has had dealings. If the bank has such a file, the 
+examiner does not need to check with each department to obtain information. The subject 
+might at one time have had a bank account that later was closed. Requests for information 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.811 
+from a bank about a subject should always include a reference to both active and closed 
+accounts. Records of closed accounts are usually maintained in a separate file. 
+ 
+In addition to a signature card, the account-opening file for a personal account might 
+contain a copy of some form of identification (e.g., driver’s license) the account holder 
+provided the bank. 
+ 
+BUSINESS ACCOUNTS 
+In addition to the documentation required for opening a personal account, the opening 
+documents for a corporate account will include a copy of the corporate resolution 
+authorizing the opening of a bank account and possibly the company’s articles of 
+incorporation. These documents should indicate who the company’s corporate officers are 
+and its date of incorporation.  
+ 
+For an unincorporated company to open a bank account, the baking institution might 
+require the company to provide a doing business as (DBA) registration, fictitious name 
+registration, or business registration certificate. Generally, the required documentation 
+depends on the applicable state laws. 
+ 
+Negotiated Checks 
+Canceled checks written by a subject or received from others provide the fraud examiner 
+with much more than amounts, payees, and endorsees. Of particular interest are checks that 
+have been cashed. All banks use a series of codes or symbols imprinted on the front of a 
+check to show that the check has been cashed. The specific codes used in various areas can 
+be obtained locally. 
+ 
+A useful technique to help examine negotiated checks is to list the information from the 
+checks on a spreadsheet (either manual or electronic). Checks should be listed by number 
+and date on the left with the payee, amount, and purpose of the check, if known, to the 
+right. This will show the subject’s routine monthly or annual expenditures that can be useful 
+for computing the comparative net worth. The absence of a check for a recurring payment 
+for a particular month might indicate a cash payment, which in turn would indicate possible 
+undisclosed cash income. Examine the backs of checks payable to cash and note where they 
+were cashed. The depository stamp can identify the bank at which the check was cashed. 
+This information may provide a lead to another bank account. 
+ 
+Tracing Illicit Transactions  Investigation 
+3.812   2011 Fraud Examiners Manual  
+CHECK 21 
+“With image exchange, and the emerging fraud detection technology, banks will be able to 
+know if sufficient funds are in the account … whether the customer is who he claims to be 
+… and whether the check is legitimate.” 6 
+ 
+In July 2003, Congress issued final regulations regarding the availability of funds and 
+collection of checks. These regulations, known as “Check 21,” created “substitute checks,” a 
+type of negotiable instrument that became the legal equivalent of paper checks. This 
+provision facilitates the efficient collection and return of checks in electronic form by 
+alleviating the collection requirement that depository banks actually send the original paper 
+checks to collecting banks for payment.  
+ 
+Under Check 21, a depository bank can transfer check information electronically to a 
+collecting bank via a substitute check for presentment. The collecting bank is then required 
+to take presentment of the substitute check as long as it meets all the legal requirements of 
+the original check. Therefore, rather than actually processing and sending an original  
+paper check across cities and states, the depositing bank can now collect the substitute  
+check electronically. 
+ 
+A substitute check is a paper reproduction of the original check that states, “This is a legal 
+copy of your check. You can use it the same  way you would use the original check.” Upon 
+transfer, presentment, or return, a bank warrants that the substitute check submitted is an 
+accurate depiction of the physical check, and that no depository bank, drawee, drawer, or 
+endorser will be asked or required to pay a check that has already been paid. Essentially, this 
+legend on the substitute check informs consumers of their rights to expedited recrediting of 
+an amount charged if there is a disputed item and the original or substituted copy is 
+necessary to prove the validity of the charge on the account. Under this law, the validity of a 
+charge becomes an issue when a consumer is charged twice for a check, the substitute check 
+is illegible, or the original check was not properly copied during the imaging process. 
+ 
+Furthermore, Check 21 places the risk of loss associated with substitute checks on the 
+reconverting bank that first transferred, presented, or returned the substitute check. 
+                                                 
+6 Robertson, Bill and Ken Gahre. White-Collar Crime Fighter. Vol. 6, No. 1, Check 21: Blackjack for Check Fraud 
+Fighters?   Ridgefield, CT: White Collar Crime101, LLC., 2004. 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.813 
+Although the reconverting banks can allocate such loss among themselves, they may remain 
+liable under warranty claim, indemnity, or recrediting claims. 
+ 
+TRACING CHECKS 
+Tracing checks is facilitated by the use of bank identification symbols. Fraud examiners do 
+not have to understand the internal bookkeeping procedures used by banks. The concept of 
+bank identification symbols, however, is of interest. All checks printed for banking 
+institutions contain an ABA transit number. These numbers represent an identification code 
+developed by the American Bankers Association. The ABA transit number enables a check 
+to be routed to the bank of origin. In the process of routing, a trail is left. 
+ 
+MAGNETIC INK CHARACTER RECOGNITION 
+Magnetic ink character recognition (MICR) is a machine language and is a check design 
+standard to which all banks must conform. Numeric information is printed in magnetic ink 
+on the bottom of bank checks and other documents. This coding is electronically scanned by 
+computers that convert the magnetic ink notations into electronic impulses readable by a 
+computer. MICR information is printed in groupings called fields. The first field on the left 
+on bank checks is the Federal Reserve check routing code and the next is the ABA transit 
+number. These numbers also appear in the upper right corner of the check. 
+ 
+The account number field shows the drawer’s assigned account number at the bank. When 
+the check is processed through the bank, an additional field is added on the right for the 
+amount of the check. The dollar amount of the check should always equal the encoded 
+MICR amount. These two figures should be compared to make sure that the subject did not 
+alter the returned check. All checks, drafts, and similar items that are not encoded with 
+magnetic ink cannot be cleared through the Federal Reserve system without special handling. 
+ 
+PREFIX NUMBERS OF CITIES IN NUMERICAL ORDER 
+When the ABA established the city and state prefix numbering system, it did so by the 
+geographical location of the reserve cities in existence at the time. The prefix numbers 
+identify city and state documents. For example, numbers 1 through 49, as seen in the 
+following examples, were given to the most populated reserve cities and major banking 
+centers at the time. The rest of the numbers, 50 through 99, were assigned to the states from 
+East to West. The principal numbers 50, 60, 70, 80, and 90 were given to the main collecting 
+financial centers (New York, Pennsylvania, Illi nois, Missouri and California). The numbers 
+before and after each principal number were generally designated to nearby states. 
+Tracing Illicit Transactions  Investigation 
+3.814   2011 Fraud Examiners Manual  
+PREFIX NUMBERS OF CITIES AND STATES  
+1–49   Reserve Cities 
+50–99  States 
+50–58  Eastern States 
+59  Alaska, American Samoa, Guam, Hawaii, Puerto Rico, and the Virgin Islands 
+60–69  Southeastern States  
+70–79  Central States 
+80–88  Southwestern States 
+90–99  Western States  
+ 
+RESERVE CITY, MAJOR BANKING CENTER, AND STATE PREFIX NUMBERS  
+  1 New York, NY 34 Tacoma, WA 68 Virginia 
+  2 Chicago, IL 35 Houston, TX 69 West Virginia 
+  3 Philadelphia, PA 36 St. Joseph, MO 70 Illinois 
+  4 St. Louis, MO 37 Fort Worth, TX 71 Indiana 
+  5 Boston, MA 38 Savannah, GA 72 Iowa 
+  6 Cleveland, OH 39 Oklahoma City, OK 73 Kentucky 
+  7 Baltimore, MD 40 Wichita, KS 74 Michigan 
+  8 Pittsburgh, PA 41 Sioux City, IA 75 Minnesota 
+  9 Detroit, MI 43 Lincoln, NE 76 Nebraska 
+10 Buffalo, NY 44 Topeka, KS 77 North Dakota  
+11 San Francisco, CA 45 Dubuque, IA 78 South Dakota 
+12 Milwaukee, WI 46 Galveston, TX 79 Wisconsin 
+13 Cincinnati, OH  47 Cedar Rapids, IA 80 Missouri 
+14 New Orleans, LA 48 Waco, TX 81 Arkansas 
+15 Washington, D.C. 49 Muskogee, OK 82 Colorado  
+16 Los Angeles, CA 50 New York 83 Kansas 
+17 Minneapolis, MN 51 Connecticut 84 Louisiana  
+18 Kansas City, MO 52 Maine 85 Mississippi 
+19 Seattle, WA 53 Massachusetts 86 Oklahoma 
+20 Indianapolis, IN 54 New Hampshire 87 Tennessee 
+21 Louisville, KY 55 New Jersey 88 Texas 
+22 St. Paul, MN 56 Ohio 89 --- 
+23 Denver, CO 57 Rhode Island 90 California 
+24 Portland, OR 58 Vermont 91 Arizona 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.815 
+25 Columbus, OH 59 AL, AS, GU, HI, PR, VI 7 92 Idaho 
+26 Memphis, TN 60 Pennsylvania 93 Montana 
+27 Omaha, NE 61 Alabama 94 Nevada 
+28 Spokane, WA 62 Delaware 95 New Mexico 
+29 Albany, NY 63 Florida 96 Oregon 
+30 San Antonio, TX 64 Georgia 97 Utah 
+31 Salt Lake City, UT 65 Maryland 98 Washington 
+32 Dallas, TX 66 North Carolina 99 Wyoming 
+ 
+All banks in an area served by a Federal Reserve bank or branch carry the routing symbol of 
+the Federal Reserve bank or branch. The Federal Reserve routing symbol (FRRS) 
+encompasses the first four digits of the nine-digit routing number. This routing symbol 
+identifies where the Federal Reserve bank is located. The first two numbers of the FRRS 
+designate the Federal Reserve District in which the bank is located (as shown below). The 12 
+Federal Reserve Districts and numbers are as follows:  
+ 
+01—Boston, MA 
+02—New York, NY 
+03—Philadelphia, PA 
+04—Cleveland, OH 
+05—Richmond, VA 
+06—Atlanta, GA 
+07—Chicago, IL 
+08—St. Louis, MO 
+09—Minneapolis, MN 
+10—Kansas City, KS 
+11—Dallas, TX 
+12—San Francisco, CA 
+ 
+The next two numbers designate the specific bank location of the Federal Reserve branch. A 
+thrift institution is designated when “2” is added to the first digit of the FRRS. For example, 
+if there is a thrift institution in the first district (Boston) the designation would be “21.” If 
+the thrift institution is in a district that has a double digit, such as San Francisco, the 
+designation becomes “32.” The next four numbers of the routing number sequence are 
+                                                 
+7 AL: Alaska; AS: American Samoa; GU: Guam; HI: Hawaii; PR: Puerto Rico; VI: Virgin Islands 
+Tracing Illicit Transactions  Investigation 
+3.816   2011 Fraud Examiners Manual  
+always unique to the financial institution; and the last number of the nine digit routing 
+number is a digit derived from an algorithmic calculation. 
+ 
+Deposit Tickets 
+The deposit ticket is the principal source document for crediting the customer’s account. 
+Deposits are first recorded on the deposit ticket or slip that usually segregates currency, 
+coins, and checks. The checks are listed separately. In many localities the depositor writes 
+the ABA number or the name of the maker of the check on the deposit ticket. Either of 
+these might help to identify the source of the check. In other localities the bank writes the 
+ABA number on the deposit ticket, and in some banks no identifying data is entered on the 
+deposit ticket. Regardless of the detail contained on a deposit ticket, bank record-keeping 
+systems allow deposits to be identified and traced to their sources.  
+ 
+In working with deposit tickets, the fraud examiner must remember that sometimes the 
+depositor splits the deposit, meaning only part of the check is actually deposited. In these 
+instances, the customer either receives cash or requests that part of the proceeds be applied 
+to a note or interest due to the bank. In some instances, it might be important to determine 
+the total amount of cash and checks presented for deposit before deductions. When this is 
+the case, the fraud examiner should inquire from the bank how split deposits are handled. 
+ 
+Deposit items can be broken down into two types: on-us items and clearinghouse items. 
+ 
+ON-US ITEMS 
+An on-us item  is a check or draft that is presented for payment where the depository bank is 
+also the payor bank. For example, a check written by a customer of one bank is deposited by 
+the payee at another branch of the same bank. The bank should be able to trace the source 
+of any on-us items. The source might be loan proceeds, certificates of deposit, wire transfers, 
+bank checks, or checks from other deposits at that bank. If the deposit is the proceeds from 
+a loan, obtain and analyze the loan file (examination of the loan file is discussed later in this 
+chapter). If the deposit came from a wire transfer, trace the wire transfer to the originating 
+bank to see where the funds for the wire transfer originated. This search could lead to other 
+accounts, other witnesses, co-conspirators, or offshore transactions. 
+ 
+Bank checks (such as cashier’s checks and money orders) could be an indication of smurfing 
+operations. Smurfing  is the process by which a subject structures a deposit into several 
+transactions, each less than $10,000, to avoid filing a currency transaction report as required 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.817 
+under the Bank Secrecy Act. As the video portion of this course makes clear, smurfing is a 
+very common technique for avoiding reporting requirements. Look for large numbers of 
+cashier’s checks in even amounts deposited on a regular basis.  
+ 
+CLEARINGHOUSE ITEMS 
+Clearinghouse items  are those that must clear through other local banks and are therefore sent 
+to a local clearinghouse for processing, and they include those items that are sent to out-of-
+ town banks, such as Federal Reserve Banks. Because tracking down these items will involve 
+obtaining records from third-party banks, the tracing process might be more time 
+consuming and will probably require legal process. 
+ 
+To determine whether an item is an on-us item or a clearinghouse item, first look to see 
+whether the bank on which the check was drawn is the same as the bank in which it was 
+deposited. If the names are not the same, check the endorsements on the back of the check. 
+If the item has a different bank’s endorsement or  a Federal Reserve bank’s endorsement, it is 
+a clearinghouse item. The endorsement should contain the name of the processing bank or 
+its transit number. 
+ 
+Wire Transfers 
+A wire transfer  is a method of transferring money from one bank to another. These transfers 
+are processed by banks and by wire remittance companies such as Western Union and 
+MoneyGram.  
+ 
+Like other transactions, banks keep records of wire transfers. The records will identify who 
+sent the wire, where it was sent, the date, and the amount. If the transfer was to a bank in 
+the United States, the bank should have a record of the account number of the account into 
+which the funds were deposited. If the wire was sent offshore, however, tracing the transfer 
+depends on the laws and policies of the country and the receiving institution. 
+ 
+Intrabank Transfers 
+Other departments within a bank can credit the depositor’s account for funds collected, such 
+as the proceeds of loans or items held by the bank for collection. Items held by the bank for 
+collection are not always deposited to the customer’s account but are sometimes remitted 
+directly to the customer. 
+ 
+Tracing Illicit Transactions  Investigation 
+3.818   2011 Fraud Examiners Manual  
+Savings Accounts 
+These are referred to as time deposits  because sometimes they are not as readily available to the 
+customer as deposits to a checking account. Funds in a savings account might be subject to a 
+30-day notice of withdrawal. 
+ 
+Certificates of Deposit 
+Certificates of deposit  (CDs) are interest bearing investment products that provide limited access 
+to the money invested and a modest rate of interest. CDs are intended to be held until 
+maturity, at which time the money may be withdrawn together with the accrued interest. 
+Many banks impose penalties on money with drawn from a CD before maturity.  
+ 
+Bank Statements 
+A bank statement is a summary of all the transactions of a bank account. Bank statements 
+are provided for all types of bank accounts, including checking accounts, money market 
+accounts, savings accounts, CAP accounts (used by those who often deal in securities 
+transactions), and others. 
+ 
+Bank statements are helpful because they contain important information. In general, the 
+details on a bank statement include the name and address of the bank, the name and address 
+of the account holder, the account number, the opening balance, a record of all debit 
+transactions (e.g., cash withdrawals from a teller, automated-teller machine (ATM) cash 
+withdrawals, ATM payments, check payments, online payments, debit card payments, bank 
+fees, etc.), a record of all credit transactions (e.g., direct transfers, cash deposits, check 
+deposits, etc.), and the closing balance.  
+ 
+Bank statements summarize the financial activity of the account holder for a specific period 
+(usually a month). If a credit card is tied to the account, the bank statement also reflects 
+credit card balances but usually not specific transactions.  
+ 
+Today, bank statements are mailed to account holders or are accessible online. Some banks 
+still return original checks along with the bank statements to the account holder; others 
+provide pages with smaller facsimiles of the front and back of each check. 
+ 
+Generally, bank statements contain a wealth of information. In most bank statements, 
+financial activity in the account is shown along with a tied credit card balance. Typically, 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.819 
+bank statements show numerous types of transactions, including checks, electronic checks, 
+and electronic fund transfers, as they are charged against the account. 
+ 
+Other Exchange Instruments 
+Exchange instruments are vehicles by which the bank transfers funds, and these instruments 
+include cashier’s checks, bank drafts, traveler ’s checks, bank money orders, and certified 
+checks. Bank exchange instruments are often purchased with currency; therefore, they may 
+be good sources of information about a subject’s currency transactions. 
+ 
+CASHIER’S CHECKS 
+Cashier’s checks  are issued and certified by a bank with itself as the drawer. These items are 
+called treasurer’s checks when issued by a trust company. They are frequently an excellent 
+lead to other bank accounts, stock, real property, and other assets. Because cashier’s checks 
+can be held indefinitely, subjects sometimes purchase cashier’s checks instead of keeping 
+large amounts of currency on hand. In reconstructing a subject’s transactions with cashier’s 
+checks, be sure that all checks are accounted for because subjects sometimes exchange 
+previously purchased checks for new ones.  
+ 
+Bank checks, such as cashier’s checks, can be extremely time consuming and expensive to 
+locate unless you know the date and number of the check. However, if the subject has 
+deposited a bank check into his account, or purchased a bank check using a check from his 
+account, then copies of bank checks are much easier to obtain because the subject’s account 
+records will reveal the date and number of the bank check. 
+ 
+BANK DRAFTS 
+Bank drafts are checks drawn by the issuing bank on its account with another bank. Often 
+this other account is in the geographical area where the purchaser desires to make a 
+payment. Bank drafts also can be used when a subject does not want to carry a large amount 
+of cash. 
+ 
+TRAVELER’S CHECKS 
+Traveler’s checks are checks issued in predetermined amounts by the American Express 
+Company and several large U.S. banks. Local banks purchase them from issuing companies 
+of U.S. banks and then sell them to the public. Traveler’s checks require two signatures of 
+the purchaser: one when purchased and the other when cashed. Traveler’s checks are traced 
+Tracing Illicit Transactions  Investigation 
+3.820   2011 Fraud Examiners Manual  
+by their serial number. The issuing company usually keeps records of traveler’s checks sent 
+to it by the selling bank. Traveler’s checks do not expire. 
+ 
+The local bank that sold the checks might keep a copy of the sales order that lists the serial 
+numbers. If the numbers are not available, the issuing bank might be able to supply the 
+information if it is known when the checks were purchased. Canceled checks can be 
+obtained from the American Express Company or from other issuing banks. A target can 
+purchase large amounts of traveler’s checks from one bank and place them in another to 
+avoid arousing suspicion by depositing cash. 
+ 
+It is important to note, however, that traveler’s checks are declining in use. According to the 
+Federal Reserve, usage of traveler’s checks has declined each year since their peak in the mid 
+1990s.  
+ 
+BANK MONEY ORDERS 
+Bank money orders are similar to cashier’s checks but usually are for small amounts. Like 
+cashier’s checks, money orders may be resorted to by subjects reluctant to use cash. 
+ 
+CERTIFIED CHECKS 
+Certified checks  are customer’s checks stamped with the paying bank’s guarantee that the 
+maker’s signature is genuine and that there is enough money available in the holder’s account  
+to cover the amount to be paid.  Certified checks are liabilities of the bank and, when paid, 
+are kept by the bank. These checks are immediately charged against the customer’s account 
+by debit memorandums. Some banks permit customers to retrieve the original checks by 
+surrendering the debit memorandum.  
+ 
+Loan Records 
+Loan records can provide important information regarding a subject. With loan records, the 
+collateral that secures them, and the results of (bank) credit investigations, a bank has a 
+wealth of information. When a bank makes a commercial loan to an individual, it requires 
+detailed statements of assets and liabilities from the borrower. The loan file also might 
+include the results of credit inquiries regarding paying habits, loan amounts, and present 
+unpaid balances. A bank credit department generally maintains the following basic records: 
+• The credit or loan file: This file includes the loan application, financial statement, and 
+general economic history of the customer. 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.821 
+• The liability ledger : This contains the customer’s past and present liability to the bank. 
+These sheets also contain information such as the loan date, note number, amount of the 
+loan, interest rate, due date, and payments. 
+• The collateral file: A complete description of the items pledged as security for loans. 
+Records of such collateral can provide valuable information about a subject’s assets. 
+ 
+Indications of unusual loans include loans in odd amounts or loans that were not deposited 
+into the subject’s bank account. Loans that show unusual repayments also should be traced. 
+Lump-sum payments and odd-amount payments are unusual. Accelerated payments or large 
+pay-downs on the balance might indicate sudden wealth. 
+ 
+Loan records also might reveal collusion between  the bank and the subject. For instance, if 
+the records show that a loan repayment is long overdue or the loan has an extended rollover, 
+collusion might exist. Also, loans made in contravention to the bank’s normal loan or a loan 
+that appears to be in excess of the individual’s ability to repay suggests a “special 
+relationship” between the bank and the subject. 
+ 
+Loan proceeds might be deposited into hidden accounts, or hidden accounts might be used 
+for loan payments. Loans might be secured by hidden assets or cosigned by previously 
+unknown cohorts. Alternatively, the subject might have taken out the loan for someone else. 
+Tracing the ultimate disposition of the proceeds will uncover those leads. 
+ 
+Tracing the disposition of loan proceeds is similar to tracing deposit transactions. The 
+proceeds could have been deposited within the bank into the subject’s account or someone 
+else’s account, or they might be used to purchase a certificate of deposit. The funds might 
+have been sent to the wire transfer department for transmittal to another bank. More 
+commonly, the proceeds will be given to the customer in the form of a bank check. The 
+bank should be able to trace the check to determine where it was deposited or cashed. The 
+loan proceeds might have been used to finance an asset, the down payment for which came 
+from illegal funds. Tracing the source of loan payments will provide some leads; for instance, 
+the payments might be made from a previously unknown account. Payments made by a 
+third-party might reveal a cohort or a kickback or bribe scheme. 
+ 
+The loan application should contain a financial statement, or its equivalent, on which the 
+subject may identify other accounts and assets. The file might also contain tax returns, credit 
+Tracing Illicit Transactions  Investigation 
+3.822   2011 Fraud Examiners Manual  
+agency reports, and notes of interviews by the loan officer. The security for the loan, if any, 
+might be a hidden asset. 
+ 
+MORTGAGE LOAN FILES 
+Mortgage loan files often contain the most detailed financial statements submitted by the 
+subject. The loan file should identify the title company that handled the closing, the 
+homeowner’s insurance carrier, the closing attorney, and perhaps the real estate broker. The 
+title company files often contain copies of the cashier’s checks used for the down payment, 
+which can identify new accounts. 
+ 
+The homeowner’s insurance policy might contain a rider that lists the homeowner’s valuable 
+assets, such as jewelry or furs, perhaps with appraisals and purchase receipts. The closing 
+attorney will have many of the same materials found in the title company files. The real 
+estate broker might keep copies of personal checks used for deposits and provide 
+information about other real estate transactions by the subjects. Don’t forget to look for 
+accelerated or lump sum payments on the mortgage balance. 
+ 
+CHECK CREDIT LOANS 
+Check credit is another loan service that more and more banks are offering. Under a check 
+credit plan, the bank agrees to extend credit to a customer up to a maximum amount. If the 
+amount of the check is not in the customer’s a ccount, the resulting overdraft is set up as a 
+loan. The bank then bills the customer for the loan. Another plan is a specialized checking 
+account that is used only up to a predetermined amount under a loan agreement; the 
+outstanding balance is treated as an installment loan by the bank. Copies of loan agreements 
+and statements under both plans can be obtained from the bank files. 
+ 
+Credit Card Records 
+Banks are increasingly doing business in credit cards. Under bank credit card plans, the 
+cardholder can charge purchases at stores, restaurants, and other places that agree to accept 
+the charges. Under most plans, the cardholder can elect to pay the entire balance in one 
+payment or to pay in installments under arrangements similar to a loan account.  
+ 
+The credit card records that are important to the economic crime investigator are the 
+application for a card and the bank’s copies of  monthly statements sent to the cardholder.  
+Credit card applications require a considerable amount of financial information, and some of 
+the information may be the same as that found on an application for a bank loan. In today’s 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.823 
+environment, credit cards may be tied to bank accounts and may not require a separate 
+application.  
+ 
+Credit card statements also contain a great deal of important information. Generally, these 
+statements contain the name of the credit card issuer, the cardholder’s account number, a 
+summary of the transactions on the account, payment information, and a list of all the 
+transactions that occurred during that months billing cycle (i.e., purchases, payments, credits, 
+cash advances, and balance transfers). 
+ 
+Bank Collection Department Records 
+The bank’s collection department, which is normally involved in collecting amounts due on 
+installment contracts and notes, can be used to collect personal checks (usually in large 
+amounts and with special instructions), thus circumventing the normal record-keeping 
+associated with checking accounts. Such a transaction will not be reflected on the target’s 
+regular checking account statements but will appear in the collection department records. A 
+copy of the check also will be microfilmed. 
+ 
+Safe-Deposit Box Records 
+Safe-deposit boxes are private vault spaces rented by banks to customers. Because state laws 
+differ, the nature of the relationship varies between a bank and the safe-deposit box holders. 
+Banks keep no record of safe-deposit box contents and rarely know what the boxes contain. 
+The rental contract records identify the renters, the person or people who have access to the 
+boxes, their signatures, and the dates of the original agreements and later renewals. They also 
+might contain other identifying information, including the name of the initiating bank 
+officer. The officer’s name could be significant if the subject (who might have used an alias 
+in renting the box) must be identified. 
+ 
+Records showing access to the boxes vary from bank to bank. But generally, they contain the 
+signatures of the people entering the boxes and usually the dates and times of entry. The 
+entry records are filed in box-number order. The frequency of entry and the times and dates 
+of entries might be significant and might correspond to the times and dates of deposits or 
+withdrawals from other accounts or to the purchases and sales of securities, property, and in 
+other situations. 
+ 
+Because the bank records will not show the contents of the box, the fraud examiner can 
+request permission to inventory the box with the target present, carefully noting and 
+Tracing Illicit Transactions  Investigation 
+3.824   2011 Fraud Examiners Manual  
+describing the exact contents (for example, legal description on deeds, numbers of insurance 
+policies, etc.). 
+ 
+Bank Secrecy Act Documents 
+Under the Bank Secrecy Act, banks and other financial institutions are required to file 
+Currency Transaction Reports, Suspicious Activity Reports, and other reports detailing large 
+cash transactions or suspicious activity. (See the chapter on “Money Laundering” in the 
+Financial Transactions section of the Fraud Examiners Manual  for a complete description of 
+each report.) These reports will reflect the identity, address, and Social Security number of 
+the person making the cash transaction, total amount, and certain other information. Some 
+organizations are exempt from the filing requirement, including certain high-volume cash 
+businesses, governmental agencies, and payroll account holders.  
+ 
+Stock Brokerage Records 
+Many stock brokerage houses now offer the same type of services as banks, such as check-
+ writing privileges, credit cards, loans (against the value of securities held), as well as their 
+normal securities business. All records pertaining to the subject should be requested; 
+however, make sure that the request specifically includes the following: 
+• Application: When a customer opens an account, he typically will fill out an account 
+application that will contain personal and financial data, such as bank accounts. 
+• Customer account cards:  This card is kept in the broker’s files for reference. It will include all 
+transactions conducted for the customer. 
+• Signature card: A signature card should be on file, which will show all those authorized to 
+conduct transactions on the account. 
+• Securities receipts:  These receipts are issued to a customer when he delivers securities to the 
+broker for sale. 
+• Cash receipts: These receipts are issued to a customer when he delivers currency to the 
+broker. 
+• Confirmation slips: These are issued to a customer to show the type of transaction (buy or 
+sell) and the amount involved in the transaction. 
+• Securities delivered receipt:  This receipt is signed by the customer when a securities purchase 
+is delivered to the customer. 
+• Brokerage account statement: This statement is usually issued monthly and provides 
+information on all transactions conducted during the reporting period. It lists all 
+purchases and sales, the name of the security, the number of units, the amount per unit, 
+the total amount of the transaction, the account balance, payments received from the 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.825 
+customer, disbursements to the customer, and the securities that are held by the 
+brokerage firm for the customer. 
+ 
+Concerning stock brokerage records, the examiner is primarily interested in the source of the 
+funds used to purchase securities or deposited to a cash account. The subject’s monthly 
+account statements, which are somewhat more complex than equivalent bank statements, 
+reflect these transactions. They can be interpreted with the help of explanatory material on 
+the statement or with the assistance of an employee of the firm. Receipts for stock purchases 
+and deposits should reflect whether the payment was in currency or check and the ABA 
+code of the bank on which the check was drawn. Brokerage checks issued to the subject 
+from stock sale proceeds also should be examined, as these might be deposited directly to a 
+new account or endorsed over and paid directly to third parties for the purchase of assets. 
+ 
+Tax Returns and Related Documents 
+Personal tax returns, if available, might provide indirect evidence of illicit payments, such as 
+profits or losses from previously undisclosed business ventures, or interest and dividends on 
+hidden CDs and bank accounts. The returns might also reveal deductions and expenses, 
+such as real estate taxes, that can lead to previously unknown funds or assets. Commercial 
+bribes are often reported as consulting fees or other miscellaneous income. The target’s 
+accountant and tax preparer should also be interviewed, and their files and work papers 
+subpoenaed, if possible. 
+ 
+Establish a Database 
+After obtaining the relevant financial records, the examiner should establish a database or 
+spreadsheet for analysis. By placing the records into a standardized format, the fraud 
+examiner will be more easily able to compare records, uncover patterns, and extract various 
+representations of the data.  
+ 
+Both spreadsheets and databases have benefits and drawbacks. The benefits of using 
+spreadsheets include: (1) most individuals who work in the financial sector are familiar with 
+spreadsheets; (2) spreadsheets allow data to be translated easily into bar, pie, and other 
+graphic charts; (3) they allow data to be filtered and sorted easily; (4) and spreadsheets allow 
+for the use of pivot tables to display data. Spreadsheets, however, are restricted to a limited 
+number of records and may require a large amount of hard-drive space for data storage. 
+ 
+Tracing Illicit Transactions  Investigation 
+3.826   2011 Fraud Examiners Manual  
+Conversely, databases are more effective than spreadsheets when dealing with large sets of 
+records. Databases offer the following features: (1) data can be sorted and manipulated 
+easily; (2) changes to records can automatically update queries and reports; and (3) relational 
+tables and forms can be used to reduce data entry time. In some environments (such as 
+Microsoft Office), data can be easily switched from a spreadsheet to a database, and vice 
+versa, for ease of manipulation or display. 
+ 
+Regardless of the type of program used, the information used is the same. The type of 
+information retrieved from financial records is the data entered into the spreadsheet or 
+database. Each column or field holds some type of information, and this information forms 
+the basis for the columns used. As illustrated in the table below, there are 16 primary 
+elements that can be pulled from banking records. An additional field for comments is added 
+for miscellaneous data. 
+ 
+1. Check number 9. Signatory 
+2. Entity from 10. Account number from 
+3. Bank from 11. Transaction type 
+4. Date written 12. First endorser 
+5. Payee 13. Transaction bank 
+6. Amount written 14. Deposited to account 
+7. Amount deposited 15. Date of transaction 
+8. Memo written 16. Comments 
+ 17. Location 
+ 
+Details on what goes into each of these fields are provided below: 
+1. Check number : This field should contain the number of the financial instrument written on 
+or deposited to the account. The following items, however, will not contain a check 
+number: wire transaction, automated teller machine transaction, point-of-sale 
+transaction, and debit memo. A deposited amount would include a check number unless 
+the deposit was cash, an incoming wire, or a credit memo. 
+2. Entity from : This field should contain the name of the company or person the check is 
+from—the owner of the account on which the check is written.  
+3. Bank from : This field should contain the name of the bank from which the check, debit 
+memo, or wire transfer was issued. If desired, the ABA bank number can also be entered 
+to identify the bank’s source of the funds. 
+4. Date written : This field should contain the date the check was written, the transaction 
+(e.g., wire transfer or debit memo) was generated, or the withdrawal was made. This is 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.827 
+not the date shown on the bank statement; bank statements show the clearing dates—
+ the dates that checks clear the bank. The clearing date can be used if no other dates are 
+present (e.g., if there is no check copy provided by the bank, but the check is listed on 
+the statement). 
+5. Payee : This field should contain the name of the payee—the person or entity to whom 
+the check was written.  
+6. Amount written : This field should contain the amount written on the face of the check. If 
+there is a discrepancy between the numerical and written amounts,  the bank will usually 
+honor the written amount. Check the amount the bank has imprinted on the bottom 
+right-hand side of the check in magnetic ink character recognition (MICR) to determine 
+which amount the bank used. 
+7. Deposited amount : This field should contain the amount of money credited to the bank 
+account by a cash or check deposit, wire transfer, or credit memo. This amount is put 
+into a field separate from the amount written for ease of separating, sorting, and adding 
+the amounts. 
+8. Memo : This field should contain any notation written on the “Memo” line or box on the 
+check. 
+9. Signatory : This field should contain the name of the person (or persons) who signed the 
+check as the authorized signatory. When entering the data into this field, initials are 
+sufficient if the person referenced is clear. 
+10. Account number from : This field should contain the account number on which the check, 
+debit memo, or wire transfer was written. 
+11. Transaction type : This field should contain the type of transaction (e.g., check, transfer, 
+wire, debit memo, credit memo, deposit, ATM deposit or withdrawal, or ATM 
+purchase).  
+12. First endorser : This field should contain the name of  the first endorser. The first endorser 
+is the person or persons who endorsed the check (i.e., signed the check on the back as 
+the endorser). On checks made out to a company,  the back of the check may be 
+stamped with the company name, bank, and account number and no endorsing signature 
+should be shown.  
+13. Transaction bank : This field should contain the name of the bank the item was deposited 
+to (or where the check was cashed). This could be the bank from which records have 
+been subpoenaed, the bank stamped on the back of the check, or the bank at which the 
+check was cashed. If the check was negotiated at a non-bank financial institution (e.g., 
+check cashing agency, money transmitter, or casino), the name of that company can be 
+placed here with other specifics entered in the “comments” field. 
+14. Deposited to account : This field should contain the account number to which the check was 
+deposited. It should be noted that some banks write the account number on the back of 
+Tracing Illicit Transactions  Investigation 
+3.828   2011 Fraud Examiners Manual  
+checks when cashed; this serves as an identifier for the check casher. Therefore, a bank 
+account number located on the back of a check may not mean that the check was 
+deposited into that account. Remember to check the front of the check for a “cashed” 
+stamp. 
+15. Date of transaction : This field should contain the date the check was deposited or 
+negotiated. 
+16. Comments : The comments field is used for other comments about the transaction. NSF 
+could be entered into the comments field to signify that there were non-sufficient funds 
+to cover the check. Additional information about the endorser (e.g., driver’s license or 
+alien registration number), the name of a secondary endorser, or notes written on the 
+back of the check by the teller could also be placed in the comments field.  
+1 7.  Location : This field should be used for transactions made at an automated teller machine 
+or a point-of-sale if the location is important. 
+ 
+There are three rules to follow when entering records into a spreadsheet or database:  
+• Enter data as fully as possible 
+• Be consistent in referring to entities 
+• Have all records reviewed for accuracy 
+ 
+Entering the data completely will help avoid having to enter data into the records a second 
+time. In the past, some users of financial records entered the check and deposit data located 
+on the statements first, and then entered the information from cancelled checks as the 
+checks were obtained. This, however, should not be done. Although transactions that are 
+found only on statements can be entered into the database, check and deposit data should be 
+entered from the checks written and deposit slips.  
+ 
+When inputting data, consistency is important. Even if check writers have not been 
+consistent in their spelling or use of names, the entered data must be consisted. Otherwise, 
+the sorting results will not be accurate. If, for example, a different version of a name is used, 
+the various names can be placed in the comments field. 
+ 
+Finally, all records entered should be double or triple-checked for accuracy. It is preferable 
+that the review is conducted by someone who did not enter the data because it is hard to 
+catch one’s own errors. For example, one way to check the amounts in a field is by tying 
+them to the totals on the statements.  
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.829 
+
+
+
+:
+
+
+direct method of trace financi transact
+a subject incom can be establish by the direct or indirect approach the direct
+approach or the specificitem method of prove incom reli on specif transact
+such as sale or expens to determin incom the indirect approach reli on
+circumstanti proof of incom indirect method will be discuss in the next section
+to trace financi transact us the direct method the examin must obtain relev
+financi record
+financi institut
+fraud examin should recogn that in most instanc bank record ar not readili
+obtain substanti requir usual must be met to justifi legal process eg
+subpoena search warrant and the like which bank will customarili demand as a condit
+for disclosur preliminari investig is of the utmost import to lai the basi for
+obtain such record more inform on bank transact is contain in the
+financi transact section of the fraud examin manual
+the avail of investig avenu often determin whether a promis fraud
+examin will grind to a halt or proce successfulli legal advic from a prosecutor or
+civil counsel should be sought in all such instanc it should also be recogn that bank
+offici and employe can be question by fraud examin in the same manner as ani
+other potenti wit and that their respons to proper inquiri might provid
+import inform
+bank record ar perhap the singl most import financi sourc avail to a fraud
+examin in addit to their us as evid for fraud a bank record might provid lead
+on sourc of fund expenditur and person affair
+trace illicit transact investig
+3806 2011 fraud examin manual
+the follow inform can be of valu to fraud examin seek inform from
+bank concern pertin financi transact of econom crime perpetr it is base
+in part on the oper guidelin issu by the american banker associ to all
+member bank in the unit state and on the train guid issu by the us
+depart of the treasuri
+type of financi institut
+bank ar classifi primarili by their major servic
+commerci bank offer busi and individu such servic as check account
+loan and exchang instrument
+save bank and save and loan associ handl save account and mortgag loan
+trust compani handl properti for other under variou type of fiduciari
+accommod
+mani bank combin all three servic bank ar organ under either state or nation
+bank law
+the basic bank function ar as follow
+receiv deposit
+pai check
+transfer fund
+make loan
+collect sundri financi instrument
+hold and administ properti for other
+perform other servic such as rent safe deposit box
+intern bookkeep procedur
+the intern recordkeep practic and procedur of bank not onli ar complex but
+thei constantli ar chang becaus of the grow sophist of comput technolog
+bank ar move steadili toward an electron fundstransf system that will elimin the
+us of check such a system will automat transfer monei from the account of the
+purchas to the account of the seller paper trail will disappear detail familiar with the
+intricaci of intern bank oper is not essenti howev for the fraud examin to
+obtain the type of inform necessari for investig what is essenti is the
+knowledg that record of custom transact ar maintain and retain
+investig trace illicit transact
+2011 fraud examin manual 3807
+electron bank
+electron bank is possibl the most common form of bank todai electron bank
+includ autom teller machin transact pointofsal transact us credit or
+debit card smart card which ar gain popular in the us and ar alreadi popular in
+europ wire transfer onlin bill payment through internet bank and biller websit
+and tradit autom clear hous ach applic of direct payment and direct
+deposit
+all of these form of electron bank ar govern by the electron fund transfer act
+efta 15 usc 1693 see appendix a the efta current requir financi
+institut to keep record on all transact of 3000 or more
+retent of record
+the bank secreci act set forth a system of report and recordkeep requir
+design to help track larg or unusu financi transact the act consist of two titl
+titl i contain provis requir financi institut and secur broker and dealer
+to keep extens record of the transact and account of their custom titl ii of the
+act origin entitl currenc and foreign transact report act requir bank
+financi institut which includ casino secur broker and dealer currenc
+exchang and other and in some case individu to report certain transact to the
+govern
+titl irecordkeep
+the regul govern recordkeep ar set forth in chapter 31 of the code of feder
+regul at part 103 subpart c the recordkeep requir ar set forth for bank
+nonbank financi institut secur broker casino and currenc dealer and
+exchang under these regul all institut ar requir to keep a record of ani
+financi transact of more than 10000
+these regul provid in part that bank must keep an origin microfilm or other
+copi or reproduct of most demand deposit check account and save account
+record must be retain for five year the record must includ signatur card
+statement ledger card or other record disclos all transact that is deposit and
+withdraw and copi of custom check s bank draft monei order and cashier
+check drawn on the bank or issu and payabl by it
+trace illicit transact investig
+3808 2011 fraud examin manual
+in addit bank also must retain for two year all record necessari to reconstruct a
+custom check account these record must includ copi of custom deposit
+ticket thei must also retain record necessari to trace and suppli a descript of a check
+deposit to a custom check account
+although some of these requir appli to check written or deposit made in excess of
+100 most bank find it cheaper to microfilm all pertin record includ the check and
+deposit in amount less than 100 rather than sort their record into two categori the
+bank secreci act also requir financi institut to retain a record of ani extens of
+credit of more than 10000 as well as each tr ansfer of 10000 or more outsid the unit
+state
+titl iireport and recordkeep
+titl ii of the bank secreci act is codifi as 31 usc 53115330 the purpos of
+these section is to requir certain report or record to be file or kept by financi
+institut section 5312a2 defin financi institut veri broadli to includ not
+onli bank but also secur broker curr ncy exchang hous insur compani loan
+compani travel agenc telegraph compani s issuer or cashier of check or monei
+order auto boat and airplan dealer casino and person involv in real estat close
+and settlement onli recent ha the treasuri depart begun to reign in much of the
+nonfinanci institut transact busi in the by requir registr of these divers
+enterpris
+gain access to record held by financi institut
+on of the most difficult challeng to the fraud examin will be to gain access to the
+record held by financi institut although bank record ar on of the most import
+sourc avail to fraud examin thei ar not readili obtain most suspect will
+not willingli give their record to a fraud examin especi if the record contain
+potenti incrimin evid
+moreov financi institut author to di sclose bank record is restrict by feder
+and state law for exampl the right to financi privaci act prohibit financi institut
+from disclos financi inform about individu custom until the government
+author obtain the custom consent a court order a subpoena a search warrant or
+some other formal demand with limit except and even though right to financi
+privaci act appli onli to demand by government agenc most bank and other
+investig trace illicit transact
+2011 fraud examin manual 3809
+financi institut also will not releas such inform to privat parti absent legal
+process such as a subpoena issu in a civil lawsuit
+as a result substanti requir must gener be met befor bank will disclos such
+inform in gener bank record can be obtain in most jurisdict by us on of
+the follow method
+civil discoveri
+administr subpoena or summon
+civil summon
+custom author disclosur
+court subpoena
+grand juri subpoena
+search warrant
+furthermor the cost of obtain bank record can be quit high bank gener charg
+both public and privat entiti to search and retriev record there ar usual addit
+cost for the reproduct of record it might be prudent for the examin to limit record
+request as much as possibl
+despit such complic the examin might attempt to obtain the financi record of
+suspect by contact their former spous former spous might have bank record
+us to the fraud examin that thei mai be happi to turn over similarli the bank
+record might also be a part of a divorc settlement or a lawsuit
+type of financi record
+the financi record identifi and discuss below ar limit to those of particular
+interest to fraud examin
+account open document
+account open document includ the record requir to creat a bank account but the
+type of file requir mai vari depend on the type of account
+person account
+signatur card ar the kei record requir to open and us a person account the
+signatur card is the evid of a contract between the custom and bank when a
+depositor open an account the bank requir that a signatur card be sign by sign the
+trace illicit transact investig
+3810 2011 fraud examin manual
+card the depositor becom a parti to a contract with the bank under which he accept all
+rule and regul of the bank and author the bank to honor hi order for
+withdraw fund for a corpor or a partnership account the signatur card is
+accompani by copi of resolut of the board of director or partnership agreement
+name the person author to draw check on the account
+the signatur card is a sourc of valuabl inform although it form vari the card
+usual contain such data as bank connect and the date and amount of the initi
+deposit the initi deposit trace through the bank record mai disclos a sourc of
+incom the identif of the person who open the account might be signific
+especi if the depositor us an alia
+mani bank investig the refer give n by a new custom thei might also make
+inquiri of variou credit report agenc thi inform is contain in a
+correspond file or a credit file that can contain comment of the person who open the
+account and might show inform given by the depositor when open the account
+in bank us automat data process adp the signatur card also contain an
+account number assign to the custom in trace inform about a subject
+transact with the bank the account number must be us if it doe not appear on the
+signatur card it can be locat in the bank crossrefer file assign account number
+ar encod on other document relat to the depositor by mean of a system call
+magnet ink charact recognit micr the card also might contain the depositor
+social secur number
+the signatur card might defin the account as either a regular or a special check account
+the main differ between the two is the servic charg made by the bank the regular
+check account is us mostli by busi and individu who maintain larg averag
+balanc the special check account is us by individu who usual have small
+account balanc
+when request the signatur card the fraud examin should determin whether the bank
+maintain ani type of central file most larg bank have a central file that list all
+depart with which a custom ha had deal if the bank ha such a file the
+examin doe not need to check with each depart to obtain inform the subject
+might at on time have had a bank account that later wa close request for inform
+investig trace illicit transact
+2011 fraud examin manual 3811
+from a bank about a subject should alwai includ a refer to both activ and close
+account record of close account ar usual maintain in a separ file
+in addit to a signatur card the accountopen file for a person account might
+contain a copi of some form of identif eg driver licens the account holder
+provid the bank
+busi account
+in addit to the document requir for open a person account the open
+document for a corpor account will includ a copi of the corpor resolut
+author the open of a bank account and possibl the compani articl of
+incorpor these document should indic who the compani corpor offic ar
+and it date of incorpor
+for an unincorpor compani to open a bank account the bake institut might
+requir the compani to provid a do busi as dba registr fictiti name
+registr or busi registr certif gener the requir document
+depend on the applic state law
+negoti check
+cancel check written by a subject or receiv from other provid the fraud examin
+with much more than amount paye and endorse of particular interest ar check that
+have been cash all bank us a seri of code or symbol imprint on the front of a
+check to show that the check ha been cash the specif code us in variou area can
+be obtain local
+a us techniqu to help examin negoti check is to list the inform from the
+check on a spreadsheet either manual or electron check should be list by number
+and date on the left with the paye amount and purpos of the check if known to the
+right thi will show the subject routin monthli or annual expenditur that can be us
+for comput the compar net worth the absenc of a check for a recur payment
+for a particular month might indic a cash payment which in turn would indic possibl
+undisclos cash incom examin the back of check payabl to cash and note where thei
+were cash the depositori stamp can identifi the bank at which the check wa cash
+thi inform mai provid a lead to anoth bank account
+trace illicit transact investig
+3812 2011 fraud examin manual
+check 21
+with imag exchang and the emerg fraud detect technolog bank will be abl to
+know if suffici fund ar in the account whether the custom is who he claim to be
+and whether the check is legitim 6
+in juli 2003 congress issu final regul regard the avail of fund and
+collect of check these regul known as check 21 creat substitut check a
+type of negoti instrument that becam the legal equival of paper check thi
+provis facilit the effici collect and return of check in electron form by
+allevi the collect requir that depositori bank actual send the origin paper
+check to collect bank for payment
+under check 21 a depositori bank can transfer check inform electron to a
+collect bank via a substitut check for present the collect bank is then requir
+to take present of the substitut check as long as it meet all the legal requir of
+the origin check therefor rather than actual process and send an origin
+paper check across citi and state the deposit bank can now collect the substitut
+check electron
+a substitut check is a paper reproduct of the origin check that state thi is a legal
+copi of your check you can us it the same wai you would us the origin check upon
+transfer present or return a bank warrant that the substitut check submit is an
+accur depict of the physic check and that no depositori bank drawe drawer or
+endors will be ask or requir to pai a check that ha alreadi been paid essenti thi
+legend on the substitut check inform consum of their right to expedit recredit of
+an amount charg if there is a disput item and the origin or substitut copi is
+necessari to prove the valid of the charg on the account under thi law the valid of a
+charg becom an issu when a consum is charg twice for a check the substitut check
+is illeg or the origin check wa not properli copi dure the imag process
+furthermor check 21 place the risk of loss associ with substitut check on the
+reconvert bank that first transfer present or return the substitut check
+6 robertson bill and ken gahr whitecollar crime fighter vol 6 no 1 check 21 blackjack for check fraud
+fighter ridgefield ct white collar crime101 llc 2004
+investig trace illicit transact
+2011 fraud examin manual 3813
+although the reconvert bank can alloc such loss among themselv thei mai remain
+liabl under warranti claim indemn or recredit claim
+trace check
+trace check is facilit by the us of bank identif symbol fraud examin do
+not have to understand the intern bookkeep procedur us by bank the concept of
+bank identif symbol howev is of interest all check print for bank
+institut contain an aba transit number these number repres an identif code
+develop by the american banker associ the aba transit number enabl a check
+to be rout to the bank of origin in the process of rout a trail is left
+magnet ink charact recognit
+magnet ink charact recognit micr is a machin languag and is a check design
+standard to which all bank must conform numer inform is print in magnet ink
+on the bottom of bank check and other document thi code is electron scan by
+comput that convert the magnet ink notat into electron impuls readabl by a
+comput micr inform is print in group call field the first field on the left
+on bank check is the feder reserv check rout code and the next is the aba transit
+number these number also appear in the upper right corner of the check
+the account number field show the drawer assign account number at the bank when
+the check is process through the bank an addit field is ad on the right for the
+amount of the check the dollar amount of the check should alwai equal the encod
+micr amount these two figur should be compar to make sure that the subject did not
+alter the return check all check draft and similar item that ar not encod with
+magnet ink cannot be clear through the feder reserv system without special handl
+prefix number of citi in numer order
+when the aba establish the citi and state prefix number system it did so by the
+geograph locat of the reserv citi in exist at the time the prefix number
+identifi citi and state document for exampl number 1 through 49 as seen in the
+follow exampl were given to the most popul reserv citi and major bank
+center at the time the rest of the number 50 through 99 were assign to the state from
+east to west the princip number 50 60 70 80 and 90 were given to the main collect
+financi center new york pennsylvania illi noi missouri and california the number
+befor and after each princip number were gener design to nearbi state
+trace illicit transact investig
+3814 2011 fraud examin manual
+prefix number of citi and state
+149 reserv citi
+5099 state
+5058 eastern state
+59 alaska american samoa guam hawaii puerto rico and the virgin island
+6069 southeastern state
+7079 central state
+8088 southwestern state
+9099 western state
+reserv citi major bank center and state prefix number
+1 new york ny 34 tacoma wa 68 virginia
+2 chicago il 35 houston tx 69 west virginia
+3 philadelphia pa 36 st joseph mo 70 illinoi
+4 st loui mo 37 fort worth tx 71 indiana
+5 boston ma 38 savannah ga 72 iowa
+6 cleveland oh 39 oklahoma citi ok 73 kentucki
+7 baltimor md 40 wichita ks 74 michigan
+8 pittsburgh pa 41 sioux citi ia 75 minnesota
+9 detroit mi 43 lincoln ne 76 nebraska
+10 buffalo ny 44 topeka ks 77 north dakota
+11 san francisco ca 45 dubuqu ia 78 south dakota
+12 milwauke wi 46 galveston tx 79 wisconsin
+13 cincinnati oh 47 cedar rapid ia 80 missouri
+14 new orlean la 48 waco tx 81 arkansa
+15 washington dc 49 muskoge ok 82 colorado
+16 lo angel ca 50 new york 83 kansa
+17 minneapoli mn 51 connecticut 84 louisiana
+18 kansa citi mo 52 main 85 mississippi
+19 seattl wa 53 massachusett 86 oklahoma
+20 indianapoli in 54 new hampshir 87 tennesse
+21 louisvil ky 55 new jersei 88 texa
+22 st paul mn 56 ohio 89
+23 denver co 57 rhode island 90 california
+24 portland or 58 vermont 91 arizona
+investig trace illicit transact
+2011 fraud examin manual 3815
+25 columbu oh 59 al as gu hi pr vi 7 92 idaho
+26 memphi tn 60 pennsylvania 93 montana
+27 omaha ne 61 alabama 94 nevada
+28 spokan wa 62 delawar 95 new mexico
+29 albani ny 63 florida 96 oregon
+30 san antonio tx 64 georgia 97 utah
+31 salt lake citi ut 65 maryland 98 washington
+32 dalla tx 66 north carolina 99 wyom
+all bank in an area serv by a feder reserv bank or branch carri the rout symbol of
+the feder reserv bank or branch the feder reserv rout symbol frr
+encompass the first four digit of the ninedigit rout number thi rout symbol
+identifi where the feder reserv bank is locat the first two number of the frr
+design the feder reserv district in which the bank is locat as shown below the 12
+feder reserv district and number ar as follow
+01boston ma
+02new york ny
+03philadelphia pa
+04cleveland oh
+05richmond va
+06atlanta ga
+07chicago il
+08st loui mo
+09minneapoli mn
+10kansa citi ks
+11dalla tx
+12san francisco ca
+the next two number design the specif bank locat of the feder reserv branch a
+thrift institut is design when 2 is ad to the first digit of the frr for exampl
+if there is a thrift institut in the first district boston the design would be 21 if
+the thrift institut is in a district that ha a doubl digit such as san francisco the
+design becom 32 the next four number of the rout number sequenc ar
+7 al alaska as american samoa gu guam hi hawaii pr puerto rico vi virgin island
+trace illicit transact investig
+3816 2011 fraud examin manual
+alwai uniqu to the financi institut and the last number of the nine digit rout
+number is a digit deriv from an algorithm calcul
+deposit ticket
+the deposit ticket is the princip sourc document for credit the custom account
+deposit ar first record on the deposit ticket or slip that usual segreg currenc
+coin and check the check ar list separ in mani local the depositor write
+the aba number or the name of the maker of the check on the deposit ticket either of
+these might help to identifi the sourc of the check in other local the bank write the
+aba number on the deposit ticket and in some bank no identifi data is enter on the
+deposit ticket regardless of the detail contain on a deposit ticket bank recordkeep
+system allow deposit to be identifi and trace to their sourc
+in work with deposit ticket the fraud examin must rememb that sometim the
+depositor split the deposit mean onli part of the check is actual deposit in these
+instanc the custom either receiv cash or request that part of the proce be appli
+to a note or interest due to the bank in some instanc it might be import to determin
+the total amount of cash and check present for deposit befor deduct when thi is
+the case the fraud examin should inquir from the bank how split deposit ar handl
+deposit item can be broken down into two type onu item and clearinghous item
+onu item
+an onu item is a check or draft that is present for payment where the depositori bank is
+also the payor bank for exampl a check written by a custom of on bank is deposit by
+the paye at anoth branch of the same bank the bank should be abl to trace the sourc
+of ani onu item the sourc might be loan proce certif of deposit wire transfer
+bank check or check from other deposit at that bank if the deposit is the proce from
+a loan obtain and analyz the loan file examin of the loan file is discuss later in thi
+chapter if the deposit came from a wire transfer trace the wire transfer to the origin
+bank to see where the fund for the wire transfer origin thi search could lead to other
+account other wit coconspir or offshor transact
+bank check such as cashier check and monei order could be an indic of smurf
+oper smurf is the process by which a subject structur a deposit into sever
+transact each less than 10000 to avoid file a currenc transact report as requir
+investig trace illicit transact
+2011 fraud examin manual 3817
+under the bank secreci act as the video portion of thi cours make clear smurf is a
+veri common techniqu for avoid report requir look for larg number of
+cashier check in even amount deposit on a regular basi
+clearinghous item
+clearinghous item ar those that must clear through other local bank and ar therefor sent
+to a local clearinghous for process and thei includ those item that ar sent to outof
+town bank such as feder reserv bank becaus track down these item will involv
+obtain record from thirdparti bank the trace process might be more time
+consum and will probabl requir legal process
+to determin whether an item is an onu item or a clearinghous item first look to see
+whether the bank on which the check wa drawn is the same as the bank in which it wa
+deposit if the name ar not the same check the endors on the back of the check
+if the item ha a differ bank endors or a feder reserv bank endors it is
+a clearinghous item the endors should contain the name of the process bank or
+it transit number
+wire transfer
+a wire transfer is a method of transfer monei from on bank to anoth these transfer
+ar process by bank and by wire remitt compani such as western union and
+moneygram
+like other transact bank keep record of wire transfer the record will identifi who
+sent the wire where it wa sent the date and the amount if the transfer wa to a bank in
+the unit state the bank should have a record of the account number of the account into
+which the fund were deposit if the wire wa sent offshor howev trace the transfer
+depend on the law and polici of the countri and the receiv institut
+intrabank transfer
+other depart within a bank can credit the depositor account for fund collect such
+as the proce of loan or item held by the bank for collect item held by the bank for
+collect ar not alwai deposit to the custom account but ar sometim remit
+directli to the custom
+trace illicit transact investig
+3818 2011 fraud examin manual
+save account
+these ar refer to as time deposit becaus sometim thei ar not as readili avail to the
+custom as deposit to a check account fund in a save account might be subject to a
+30dai notic of withdraw
+certif of deposit
+certif of deposit cd ar interest bear invest product that provid limit access
+to the monei invest and a modest rate of interest cd ar intend to be held until
+matur at which time the monei mai be withdrawn togeth with the accru interest
+mani bank impos penalti on monei with drawn from a cd befor matur
+bank statement
+a bank statement is a summari of all the transact of a bank account bank statement
+ar provid for all type of bank account includ check account monei market
+account save account cap account us by those who often deal in secur
+transact and other
+bank statement ar help becaus thei contain import inform in gener the
+detail on a bank statement includ the name and address of the bank the name and address
+of the account holder the account number the open balanc a record of all debit
+transact eg cash withdraw from a teller automatedtel machin atm cash
+withdraw atm payment check payment onlin payment debit card payment bank
+fee etc a record of all credit transact eg direct transfer cash deposit check
+deposit etc and the close balanc
+bank statement summar the financi activ of the account holder for a specif period
+usual a month if a credit card is ti to the account the bank statement also reflect
+credit card balanc but usual not specif transact
+todai bank statement ar mail to account holder or ar access onlin some bank
+still return origin check along with the bank statement to the account holder other
+provid page with smaller facsimil of the front and back of each check
+gener bank statement contain a wealth of inform in most bank statement
+financi activ in the account is shown along with a ti credit card balanc typic
+investig trace illicit transact
+2011 fraud examin manual 3819
+bank statement show numer type of transact includ check electron check
+and electron fund transfer as thei ar charg against the account
+other exchang instrument
+exchang instrument ar vehicl by which the bank transfer fund and these instrument
+includ cashier check bank draft travel s check bank monei order and certifi
+check bank exchang instrument ar often purchas with currenc therefor thei mai
+be good sourc of inform about a subject currenc transact
+cashier check
+cashier check ar issu and certifi by a bank with itself as the drawer these item ar
+call treasur check when issu by a trust compani thei ar frequent an excel
+lead to other bank account stock real properti and other asset becaus cashier check
+can be held indefinit subject sometim purchas cashier check instead of keep
+larg amount of currenc on hand in reconstruct a subject transact with cashier
+check be sure that all check ar account for becaus subject sometim exchang
+previous purchas check for new on
+bank check such as cashier check can be extrem time consum and expens to
+locat unless you know the date and number of the check howev if the subject ha
+deposit a bank check into hi account or purchas a bank check us a check from hi
+account then copi of bank check ar much easier to obtain becaus the subject account
+record will reveal the date and number of the bank check
+bank draft
+bank draft ar check drawn by the issu bank on it account with anoth bank often
+thi other account is in the geograph area where the purchas desir to make a
+payment bank draft also can be us when a subject doe not want to carri a larg amount
+of cash
+travel check
+travel check ar check issu in predetermin amount by the american express
+compani and sever larg us bank local bank purchas them from issu compani
+of us bank and then sell them to the public travel check requir two signatur of
+the purchas on when purchas and the other when cash travel check ar trace
+trace illicit transact investig
+3820 2011 fraud examin manual
+by their serial number the issu compani usual keep record of travel check sent
+to it by the sell bank travel check do not expir
+the local bank that sold the check might keep a copi of the sale order that list the serial
+number if the number ar not avail the issu bank might be abl to suppli the
+inform if it is known when the check were purchas cancel check can be
+obtain from the american express compani or from other issu bank a target can
+purchas larg amount of travel check from on bank and place them in anoth to
+avoid arous suspicion by deposit cash
+it is import to note howev that travel check ar declin in us accord to the
+feder reserv usag of travel check ha declin each year sinc their peak in the mid
+1990
+bank monei order
+bank monei order ar similar to cashier check but usual ar for small amount like
+cashier check monei order mai be resort to by subject reluct to us cash
+certifi check
+certifi check ar custom check stamp with the pai bank guarante that the
+maker signatur is genuin and that there is enough monei avail in the holder account
+to cover the amount to be paid certifi check ar liabil of the bank and when paid
+ar kept by the bank these check ar immedi charg against the custom account
+by debit memorandum some bank permit custom to retriev the origin check by
+surrend the debit memorandum
+loan record
+loan record can provid import inform regard a subject with loan record the
+collater that secur them and the result of bank credit investig a bank ha a
+wealth of inform when a bank make a commerci loan to an individu it requir
+detail statement of asset and liabil from the borrow the loan file also might
+includ the result of credit inquiri regard pai habit loan amount and present
+unpaid balanc a bank credit depart gener maintain the follow basic record
+the credit or loan file thi file includ the loan applic financi statement and
+gener econom histori of the custom
+investig trace illicit transact
+2011 fraud examin manual 3821
+the liabil ledger thi contain the custom past and present liabil to the bank
+these sheet also contain inform such as the loan date note number amount of the
+loan interest rate due date and payment
+the collater file a complet descript of the item pledg as secur for loan
+record of such collater can provid valuabl inform about a subject asset
+indic of unusu loan includ loan in odd amount or loan that were not deposit
+into the subject bank account loan that show unusu repay also should be trace
+lumpsum payment and oddamount payment ar unusu acceler payment or larg
+paydown on the balanc might indic sudden wealth
+loan record also might reveal collus between the bank and the subject for instanc if
+the record show that a loan repay is long overdu or the loan ha an extend rollov
+collus might exist also loan made in contravent to the bank normal loan or a loan
+that appear to be in excess of the individu abil to repai suggest a special
+relationship between the bank and the subject
+loan proce might be deposit into hidden account or hidden account might be us
+for loan payment loan might be secur by hidden asset or cosign by previous
+unknown cohort altern the subject might have taken out the loan for someon els
+trace the ultim disposit of the proce will uncov those lead
+trace the disposit of loan proce is similar to trace deposit transact the
+proce could have been deposit within the bank into the subject account or someon
+els account or thei might be us to purchas a certif of deposit the fund might
+have been sent to the wire transfer depart for transmitt to anoth bank more
+commonli the proce will be given to the custom in the form of a bank check the
+bank should be abl to trace the check to determin where it wa deposit or cash the
+loan proce might have been us to financ an asset the down payment for which came
+from illeg fund trace the sourc of loan payment will provid some lead for instanc
+the payment might be made from a previous unknown account payment made by a
+thirdparti might reveal a cohort or a kickback or bribe scheme
+the loan applic should contain a financi statement or it equival on which the
+subject mai identifi other account and asset the file might also contain tax return credit
+trace illicit transact investig
+3822 2011 fraud examin manual
+agenc report and note of interview by the loan offic the secur for the loan if ani
+might be a hidden asset
+mortgag loan file
+mortgag loan file often contain the most detail financi statement submit by the
+subject the loan file should identifi the titl compani that handl the close the
+homeown insur carrier the close attornei and perhap the real estat broker the
+titl compani file often contain copi of the cashier check us for the down payment
+which can identifi new account
+the homeown insur polici might contain a rider that list the homeown valuabl
+asset such as jewelri or fur perhap with apprais and purchas receipt the close
+attornei will have mani of the same materi found in the titl compani file the real
+estat broker might keep copi of person check us for deposit and provid
+inform about other real estat transact by the subject dont forget to look for
+acceler or lump sum payment on the mortgag balanc
+check credit loan
+check credit is anoth loan servic that more and more bank ar offer under a check
+credit plan the bank agre to extend credit to a custom up to a maximum amount if the
+amount of the check is not in the custom a ccount the result overdraft is set up as a
+loan the bank then bill the custom for the loan anoth plan is a special check
+account that is us onli up to a predetermin amount under a loan agreement the
+outstand balanc is treat as an instal loan by the bank copi of loan agreement
+and statement under both plan can be obtain from the bank file
+credit card record
+bank ar increasingli do busi in credit card under bank credit card plan the
+cardhold can charg purchas at store restaur and other place that agre to accept
+the charg under most plan the cardhold can elect to pai the entir balanc in on
+payment or to pai in instal under arrang similar to a loan account
+the credit card record that ar import to the econom crime investig ar the
+applic for a card and the bank copi of monthli statement sent to the cardhold
+credit card applic requir a consider amount of financi inform and some of
+the inform mai be the same as that found on an applic for a bank loan in todai
+investig trace illicit transact
+2011 fraud examin manual 3823
+environ credit card mai be ti to bank account and mai not requir a separ
+applic
+credit card statement also contain a great deal of import inform gener these
+statement contain the name of the credit card issuer the cardhold account number a
+summari of the transact on the account payment inform and a list of all the
+transact that occur dure that month bill cycl ie purchas payment credit
+cash advanc and balanc transfer
+bank collect depart record
+the bank collect depart which is normal involv in collect amount due on
+instal contract and note can be us to collect person check usual in larg
+amount and with special instruct thu circumv the normal recordkeep
+associ with check account such a transact will not be reflect on the target
+regular check account statement but will appear in the collect depart record a
+copi of the check also will be microfilm
+safedeposit box record
+safedeposit box ar privat vault space rent by bank to custom becaus state law
+differ the natur of the relationship vari between a bank and the safedeposit box holder
+bank keep no record of safedeposit box content and rare know what the box contain
+the rental contract record identifi the renter the person or peopl who have access to the
+box their signatur and the date of the origin agreement and later renew thei also
+might contain other identifi inform includ the name of the initi bank
+offic the offic name could be signific if the subject who might have us an alia
+in rent the box must be identifi
+record show access to the box vari from bank to bank but gener thei contain the
+signatur of the peopl enter the box and usual the date and time of entri the
+entri record ar file in boxnumb order the frequenc of entri and the time and date
+of entri might be signific and might correspond to the time and date of deposit or
+withdraw from other account or to the purchas and sale of secur properti and in
+other situat
+becaus the bank record will not show the content of the box the fraud examin can
+request permiss to inventori the box with the target present carefulli note and
+trace illicit transact investig
+3824 2011 fraud examin manual
+describ the exact content for exampl legal descript on deed number of insur
+polici etc
+bank secreci act document
+under the bank secreci act bank and other financi institut ar requir to file
+currenc transact report suspici activ report and other report detail larg
+cash transact or suspici activ see the chapter on monei launder in the
+financi transact section of the fraud examin manual for a complet descript of
+each report these report will reflect the ident address and social secur number of
+the person make the cash transact total amount and certain other inform some
+organ ar exempt from the file requir includ certain highvolum cash
+busi government agenc and payrol account holder
+stock brokerag record
+mani stock brokerag hous now offer the same type of servic as bank such as check
+write privileg credit card loan against the valu of secur held as well as their
+normal secur busi all record pertain to the subject should be request
+howev make sure that the request specif includ the follow
+applic when a custom open an account he typic will fill out an account
+applic that will contain person and financi data such as bank account
+custom account card thi card is kept in the broker file for refer it will includ all
+transact conduct for the custom
+signatur card a signatur card should be on file which will show all those author to
+conduct transact on the account
+secur receipt these receipt ar issu to a custom when he deliv secur to the
+broker for sale
+cash receipt these receipt ar issu to a custom when he deliv currenc to the
+broker
+confirm slip these ar issu to a custom to show the type of transact bui or
+sell and the amount involv in the transact
+secur deliv receipt thi receipt is sign by the custom when a secur purchas
+is deliv to the custom
+brokerag account statement thi statement is usual issu monthli and provid
+inform on all transact conduct dure the report period it list all
+purchas and sale the name of the secur the number of unit the amount per unit
+the total amount of the transact the account balanc payment receiv from the
+investig trace illicit transact
+2011 fraud examin manual 3825
+custom disburs to the custom and the secur that ar held by the
+brokerag firm for the custom
+concern stock brokerag record the examin is primarili interest in the sourc of the
+fund us to purchas secur or deposit to a cash account the subject monthli
+account statement which ar somewhat more complex than equival bank statement
+reflect these transact thei can be interpret with the help of explanatori materi on
+the statement or with the assist of an employe of the firm receipt for stock purchas
+and deposit should reflect whether the payment wa in currenc or check and the aba
+code of the bank on which the check wa drawn brokerag check issu to the subject
+from stock sale proce also should be examin as these might be deposit directli to a
+new account or endors over and paid directli to third parti for the purchas of asset
+tax return and relat document
+person tax return if avail might provid indirect evid of illicit payment such as
+profit or loss from previous undisclos busi ventur or interest and dividend on
+hidden cd and bank account the return might also reveal deduct and expens
+such as real estat tax that can lead to previous unknown fund or asset commerci
+bribe ar often report as consult fee or other miscellan incom the target
+account and tax prepar should also be interview and their file and work paper
+subpoena if possibl
+establish a databas
+after obtain the relev financi record the examin should establish a databas or
+spreadsheet for analysi by place the record into a standard format the fraud
+examin will be more easili abl to compar record uncov pattern and extract variou
+represent of the data
+both spreadsheet and databas have benefit and drawback the benefit of us
+spreadsheet includ 1 most individu who work in the financi sector ar familiar with
+spreadsheet 2 spreadsheet allow data to be translat easili into bar pie and other
+graphic chart 3 thei allow data to be filter and sort easili 4 and spreadsheet allow
+for the us of pivot tabl to displai data spreadsheet howev ar restrict to a limit
+number of record and mai requir a larg amount of harddriv space for data storag
+trace illicit transact investig
+3826 2011 fraud examin manual
+convers databas ar more effect than spreadsheet when deal with larg set of
+record databas offer the follow featur 1 data can be sort and manipul
+easili 2 chang to record can automat updat queri and report and 3 relat
+tabl and form can be us to reduc data entri time in some environ such as
+microsoft offic data can be easili switch from a spreadsheet to a databas and vice
+versa for eas of manipul or displai
+regardless of the type of program us the inform us is the same the type of
+inform retriev from financi record is the data enter into the spreadsheet or
+databas each column or field hold some type of inform and thi inform form
+the basi for the column us as illustr in the tabl below there ar 16 primari
+element that can be pull from bank record an addit field for comment is ad
+for miscellan data
+1 check number 9 signatori
+2 entiti from 10 account number from
+3 bank from 11 transact type
+4 date written 12 first endors
+5 paye 13 transact bank
+6 amount written 14 deposit to account
+7 amount deposit 15 date of transact
+8 memo written 16 comment
+17 locat
+detail on what goe into each of these field ar provid below
+1 check number thi field should contain the number of the financi instrument written on
+or deposit to the account the follow item howev will not contain a check
+number wire transact autom teller machin transact pointofsal
+transact and debit memo a deposit amount would includ a check number unless
+the deposit wa cash an incom wire or a credit memo
+2 entiti from thi field should contain the name of the compani or person the check is
+fromth owner of the account on which the check is written
+3 bank from thi field should contain the name of the bank from which the check debit
+memo or wire transfer wa issu if desir the aba bank number can also be enter
+to identifi the bank sourc of the fund
+4 date written thi field should contain the date the check wa written the transact
+eg wire transfer or debit memo wa gener or the withdraw wa made thi is
+investig trace illicit transact
+2011 fraud examin manual 3827
+not the date shown on the bank statement bank statement show the clear date
+the date that check clear the bank the clear date can be us if no other date ar
+present eg if there is no check copi provid by the bank but the check is list on
+the statement
+5 paye thi field should contain the name of the payeeth person or entiti to whom
+the check wa written
+6 amount written thi field should contain the amount written on the face of the check if
+there is a discrep between the numer and written amount the bank will usual
+honor the written amount check the amount the bank ha imprint on the bottom
+righthand side of the check in magnet ink charact recognit micr to determin
+which amount the bank us
+7 deposit amount thi field should contain the amount of monei credit to the bank
+account by a cash or check deposit wire transfer or credit memo thi amount is put
+into a field separ from the amount written for eas of separ sort and ad
+the amount
+8 memo thi field should contain ani notat written on the memo line or box on the
+check
+9 signatori thi field should contain the name of the person or person who sign the
+check as the author signatori when enter the data into thi field initi ar
+suffici if the person referenc is clear
+10 account number from thi field should contain the account number on which the check
+debit memo or wire transfer wa written
+11 transact type thi field should contain the type of transact eg check transfer
+wire debit memo credit memo deposit atm deposit or withdraw or atm
+purchas
+12 first endors thi field should contain the name of the first endors the first endors
+is the person or person who endors the check ie sign the check on the back as
+the endors on check made out to a compani the back of the check mai be
+stamp with the compani name bank and account number and no endors signatur
+should be shown
+13 transact bank thi field should contain the name of the bank the item wa deposit
+to or where the check wa cash thi could be the bank from which record have
+been subpoena the bank stamp on the back of the check or the bank at which the
+check wa cash if the check wa negoti at a nonbank financi institut eg
+check cash agenc monei transmitt or casino the name of that compani can be
+place here with other specif enter in the comment field
+14 deposit to account thi field should contain the account number to which the check wa
+deposit it should be note that some bank write the account number on the back of
+trace illicit transact investig
+3828 2011 fraud examin manual
+check when cash thi serv as an identifi for the check casher therefor a bank
+account number locat on the back of a check mai not mean that the check wa
+deposit into that account rememb to check the front of the check for a cash
+stamp
+15 date of transact thi field should contain the date the check wa deposit or
+negoti
+16 comment the comment field is us for other comment about the transact nsf
+could be enter into the comment field to signifi that there were nonsuffici fund
+to cover the check addit inform about the endors eg driver licens or
+alien registr number the name of a secondari endors or note written on the
+back of the check by the teller could also be place in the comment field
+1 7 locat thi field should be us for transact made at an autom teller machin
+or a pointofsal if the locat is import
+there ar three rule to follow when enter record into a spreadsheet or databas
+enter data as fulli as possibl
+be consist in refer to entiti
+have all record review for accuraci
+enter the data complet will help avoid have to enter data into the record a second
+time in the past some user of financi record enter the check and deposit data locat
+on the statement first and then enter the inform from cancel check as the
+check were obtain thi howev should not be done although transact that ar
+found onli on statement can be enter into the databas check and deposit data should be
+enter from the check written and deposit slip
+when input data consist is import even if check writer have not been
+consist in their spell or us of name the enter data must be consist otherwis
+the sort result will not be accur if for exampl a differ version of a name is us
+the variou name can be place in the comment field
+final all record enter should be doubl or triplecheck for accuraci it is prefer
+that the review is conduct by someon who did not enter the data becaus it is hard to
+catch on own error for exampl on wai to check the amount in a field is by ty
+them to the total on the statement
+investig trace illicit transact
+2011 fraud examin manual 3829

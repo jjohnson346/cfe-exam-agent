@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Which of the following CAN result from a criminal conviction?
+
+Options=Community service | Imprisonment | Fines | All of the above
+
+CorrectResponse=3
+
+Explanation=Criminal cases are punished by outcomes such as imprisonment, fines, order of restitution, probation, and community service.See page(s) 2.111 in the Fraud Examiner's Manual

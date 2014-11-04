@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Loan fraud schemes which include loans to false applications can be perpetrated by which of the following?
+
+Options=Bank customers | Directors of the bank | Officers of the bank | All of the above
+
+CorrectResponse=3
+
+Explanation=False applications, perhaps with inaccurate financial statements, are knowingly or unknowingly accepted by loan officers as the basis for loans. This type of loan fraud can be perpetrated by persons either external to the lending institution or by officers, directors, or employees of the victim institution.See page(s) 1.903 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=All of the following are basic methods by which companies conceal payments of bribes and/or kickbacks, EXCEPT:
+
+Options=Ghost employees | Overbilling | Fictitious payables | Fictitious receivables
+
+CorrectResponse=3
+
+Explanation=There are three basic methods companies use to conceal on-book payments of bribes and/or kickbacks. They are fictitious payables, ghost employees, and overbilling schemes.See page(s) 1.723 in the Fraud Examiner's Manual

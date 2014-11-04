@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Which of the following statements is INCORRECT?
+
+Options=8 bits equals 1 byte | 1,024 bytes equals 1 kilobyte | 256 megabytes equals 1 terabyte | 1 megabyte equals 1,024 kilobytes
+
+CorrectResponse=2
+
+Explanation=All data is composed of bits (binary digits). It takes eight bits to make one byte, v/hich is what we are commonly used to hearing when we talk about storage capacity, such as 256 megabytes. One megabyte equals 1024 kilobytes, and one kilobyte equals 1024 bytes. As you can see, one bit is a relatively infinitesimal piece of data, but it is important that not even one bit of data be altered by the forensic process.See page(s) 3.718 in the Fraud Examiner's Manual

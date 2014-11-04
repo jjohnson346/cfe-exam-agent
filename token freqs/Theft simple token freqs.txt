@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     3
+theft                                  2
+person                                 2
+benefit                                1
+holding                                1
+for                                    1
+use                                    1
+from                                   2
+him                                    1
+same                                   2
+another                                1
+of                                     5
+personal                               1
+his                                    2
+value                                  1
+is                                     1
+with                                   1
+it                                     2
+consent                                1
+belonging                              1
+or                                     1
+property                               1
+the                                    9
+without                                1
+intent                                 1
+taking                                 2
+and                                    2
+possession                             2
+deprive                                1
+owner                                  1
+appropriating                          1
+some                                   1
+
+Totals:                     32        55

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is not designated as one of the five major categories of check tampering in Corporate Fraud Handbook?
+
+Options=Counterfeit check schemes | Forged endorsement schemes | Altered payee schemes | Forged maker schemes
+
+CorrectResponse=0
+
+Explanation=The methods used to commit check tampering frauds are:‰?¢	Forged maker schemes‰?¢	Forged endorsements‰?¢	Altered payees‰?¢	Concealed check schemes‰?¢	Authorized maker schemesSee page(s) 122 in the Corporate Fraud Handbook

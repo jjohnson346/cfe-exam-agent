@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Able was in charge of purchasing computer equipment for ABC Corporation. Able set up a shell company, used the shell company to purchase used computer equipment, then re-sold that equipment to ABC Corporation at an inflated price. This is an example of:
+
+Options=A fictitious cost scheme | A pay-and-retum scheme | A pass-through scheme | None of the above
+
+CorrectResponse=2
+
+Explanation=Pass-through schemes are usually undertaken by employees in charge of purchasing on behalf of the victim company. Instead of buying merchandise directly from a vendor, the employee sets up a shell company and purchases the merchandise through that fictitious entity. He then resells the merchandise to his employer from the shell company at an inflated price, thereby making an unauthorized profit on the transactionSee page(s) 190 in the Corporate Fraud Handbook

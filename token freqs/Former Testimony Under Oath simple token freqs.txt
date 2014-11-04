@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+offered                                1
+examine                                1
+testimony                              3
+by                                     1
+former                                 1
+party                                  1
+witness                                1
+another                                1
+given                                  1
+if                                     1
+trial                                  1
+had                                    1
+similar                                1
+is                                     2
+motive                                 1
+admissible                             1
+at                                     1
+under                                  1
+the                                    5
+in                                     1
+declarant                              1
+oath                                   1
+and                                    1
+hearing                                1
+present                                1
+that                                   1
+opportunity                            1
+now                                    1
+against                                1
+an                                     1
+whom                                   1
+
+Totals:                     32        40

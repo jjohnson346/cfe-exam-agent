@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Which of the following is NOT a type of skimming scheme?
+
+Options=False refunds | Understated sales and receivables | Theft of checks through the mail | Unrecorded sales
+
+CorrectResponse=0
+
+Explanation=Skimming is the removal of cash from a victim entity prior to its entry in the accounting system Employees who skim from their companies steal sales or receivables before they are recorded in the company books. Skimming schemes generally fall into one of four categories:•	Unrecorded sales•	Understated sales and receivables•	Theft of checks through the mail•	Short-term skimmingFalse refunds are a type of register disbursement schemeSee page(s) 67. 165 in the Corporate Fraud Handbook

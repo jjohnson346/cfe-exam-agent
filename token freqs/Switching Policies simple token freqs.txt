@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+they                                   1
+for                                    1
+agents                                 2
+one                                    1
+policies                               1
+are                                    1
+scheme                                 1
+buying                                 1
+cheaper                                1
+less                                   1
+involves                               1
+with                                   1
+premium                                1
+a                                      1
+the                                    5
+customers                              1
+switching                              1
+taking                                 1
+and                                    1
+difference                             1
+obtaining                              1
+that                                   2
+pocket                                 1
+coverage                               1
+then                                   2
+instead                                1
+policy                                 3
+telling                                1
+this                                   1
+
+Totals:                     29        38

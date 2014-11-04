@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=According to Government Auditing Standards, the auditor should design audit steps and procedures that will:
+
+Options=Provide reasonable assurance of detecting material misstatements due to fraud | Provide reasonable assurance of detecting material misstatements resulting from noncompliance with contract or grant provisions | Provide reasonable assurance of detecting material misstatements resulting from direct and material illegal acts | All of the above
+
+CorrectResponse=3
+
+Explanation=According to the Government Auditing Standards, paragraphs 4.10, 4.27, and 4.28, auditors should design audit steps and procedures to provide reasonable assurance of detecting material misstatements resulting from fraud, direct and material illegal acts, and violations of provisions of contracts or grant provisions.See page(s) 1.1902-1.1904 in the Fraud Examiner's Manual

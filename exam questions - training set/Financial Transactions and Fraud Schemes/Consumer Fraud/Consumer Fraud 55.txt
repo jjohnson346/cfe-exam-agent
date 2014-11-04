@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=A favored device of phony charities is to send school-age children door to door to say that they are raising money for antidrug programs or for a group that takes underprivileged kids on trips.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A favored device of phony charities is to send school-age children door to door, to say that they are raising money for antidrug programs or for a group that takes underprivileged kids on trips. Some of the children repeat what they are told in exchange for a few dollars. Others believe they will receive rewards and free trips when in fact they, too, are being scammed.See page(s) 1.1726 in the Fraud Examiner‰??s Manual

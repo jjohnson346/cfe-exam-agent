@@ -1,0 +1,39 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Record Selection
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Record Selection  
+Specific record selection is accomplished by a request or query of the computer to find the 
+occurrences of items or records in a field. This type of request will only return instances 
+where the record did occur, effectively reducing large amounts of information into concise 
+lists. Often, additional criteria placed on the record selection or query will reveal a more 
+pertinent list of information. Most data analysis programs include simple Find macros to 
+help locate specific records.  
+ 
+
+
+
+:
+
+
+record select
+specif record select is accomplish by a request or queri of the comput to find the
+occurr of item or record in a field thi type of request will onli return instanc
+where the record did occur effect reduc larg amount of inform into concis
+list often addit criteria place on the record select or queri will reveal a more
+pertin list of inform most data analysi program includ simpl find macro to
+help locat specif record

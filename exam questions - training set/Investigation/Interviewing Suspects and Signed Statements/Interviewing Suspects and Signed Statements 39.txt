@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=In admission-seeking interviews, the interviewer can reduce the perception of moral seriousness on the part of the accused by saying to the accused:
+
+Options="Its not a big deal. Its just a technical violation." | "This doesn't mean you're Bernie Madoff." | "The judge won't think you're bad." | None of the above
+
+CorrectResponse=1
+
+Explanation=The interviewer in many cases can reduce the accused's perception of the moral seriousness of the matter. This is not to be confused with the legal seriousness. Fraud examiners and interviewers should be careful to avoid making statements that could be construed as relieving legal responsibility. For example, the examiner should not state: "It is not a big deal, legally. It's just a technical violation." Instead, the interviewer should play down the moral side. One effective way is through comparisons, such as: "Everything is relative. What you've done doesn't even come close to some of the other things that have happened. You're not Bernie Madoff, right?"See page(s) 3.259-3.260 in the Fraud Examiner's Manual

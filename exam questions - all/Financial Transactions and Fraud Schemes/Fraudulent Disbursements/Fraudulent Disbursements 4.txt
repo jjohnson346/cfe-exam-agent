@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=According to Corporate Fraud Handbook, most shell company schemes involve the purchase of fictitious:
+
+Options=Goods | Supplies | Inventory | Services
+
+CorrectResponse=3
+
+Explanation=Most of the shell company schemes in our survey involve the purchase of services rather than goods. Why is this so? The primary reason is that services are not tangible. If an employee sets up a shell company to make fictitious sales of goods to his employer, these goods will obviously never arrive. By comparing its purchases to its inventory levels, the victim company might detect the fraud. It is much more difficult, however, for the victim company to verify that the services were never rendered. For this reason, many employees involved in shell company schemes bill their employers for things like “consulting services.'See page(s) 190 in the Corporate Fraud Handbook

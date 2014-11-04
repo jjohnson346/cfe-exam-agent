@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Contingent liabilities are obligations a firm may be required to honor in certain cases. A pending lawsuit is a representative example of a contingent liability. The company's potential liability, if material, must be discussed in the notes to the financial statements.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Contingent liabilities are obligations a firm may be required to honor in certain cases. A pending lawsuit is a representative example of a contingent liability. The company's potential liability, if material, must be discussed in the notes to the financial statements.See page(s) 373 in the Corporate Fraud Handbook

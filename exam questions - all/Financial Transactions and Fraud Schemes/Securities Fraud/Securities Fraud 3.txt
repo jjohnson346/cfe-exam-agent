@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Section 806 of the Sarbanes-Oxley Act creates civil liability for companies that retaliate against whistleblowers. In order to trigger the protections of this section, the employee must report the suspected misconduct to which of the following:
+
+Options=Federal regulatory agency | The employee's supervisor | Member of Congress | Any of the above
+
+CorrectResponse=3
+
+Explanation=Section 806 of the Sarbanes-Oxley Act. which is codified in Title 18, U.S.C., § 1514A, creates civil liability for companies that retaliate against whistleblowers. It should be noted that this provision does not provide universal whistleblower protection; it only protects employees of publicly-traded companies. In order to trigger § 806 protections, the employee must report the suspected misconduct to a federal regulatory or law enforcement agency, a member of Congress or a committee of Congress, or a supervisor. Employees are also protected against retaliation for filing, testifying in, participating in, or otherwise assisting in a proceeding filed or about to be filed relating to an alleged violation of securities laws or SEC rules.See page(s) 1.1509-1.1510 in the Fraud Examiner's Manual

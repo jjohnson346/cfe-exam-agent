@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In a criminal trial, the only time the prosecutor usually can express a personal opinion is during the closing arguments phase.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The prosecutor is held to a particularly high standard in closing argument. He may not misstate the evidence, express a personal opinion as to the defendant‰??s guilt or the credibility of witnesses, or otherwise make prejudicial or inflammatory remarks. The prosecutor is expected to stick to the facts and to the reasonable inferences that can be drawn therefrom. In most cases the defense argument focuses on attacking the motives and credibility of the government's witnesses and emphasizes the heavy burden of proof the government bears.See page(s) 2.522-2.523 in the Fraud Examiner's Manual

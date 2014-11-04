@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Of the choices below, which is the proper sequence of cycles in a money laundering process?E
+
+Options=Layering, placement, and integration | Placement, bank complicity, and structuring | Placement, layering, and integration | Integration, structuring, and placement
+
+CorrectResponse=2
+
+Explanation="Placement" of funds is the initial step in the money laundering process. It is the step in which the funds are deposited into a financial institution or taken out of the country. If a money laundering scheme is detected, it is most often detected at this stage "Layering" involves the creation of numerous transactions to prevent detection, such as moving funds between bank accounts, transferring funds from one form of currency to another, or transferring money between businesses. The final stage in the laundering process is the "integration" of the asset back into the economy in such a way as to make it appear as if it were derived from a legitimate business transaction.See page(s) 1.1601-1.1602 in the Fraud Examiner's Manual

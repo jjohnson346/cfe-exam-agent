@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Examiners should take which of the following steps when securing a computer to help ensure that the machine can be fully analyzed?
+
+Options=Examine and document the machine's surroundings | Implement a system to manage the evidence | Inspect the machine for traps | All of the above
+
+CorrectResponse=3
+
+Explanation=To ensure that a machine can be fully analyzed, the examiner should take the following steps:‰?¢	Examine and document the machine's surroundings.‰?¢	Secure the evidence‰?¢	Power down carefully.‰?¢	Inspect the machine for traps.‰?¢	Implement a system to manage the evidence.See page(s) 3.716 in the Fraud Examiner's Manual

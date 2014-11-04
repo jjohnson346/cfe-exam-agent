@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=An "implied consent" to search cannot remove the need for a search warrant.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A valid consent obviates the need for a warrant, although such a ‰??consent‰?? will be carefully scrutinized, particularly when it leads to the seizure of incriminating evidence. Consents obtained by deceit., bribery, or misrepresentations are held to be involuntary and invalid. Consent may be implied in some circumstances, as when one enters a secured court house or boards an airplane or crosses an international border.See page(s) 2.423 in the Fraud Examiner's Manual

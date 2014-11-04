@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Which of the following is an example of a data analysis function that can be performed on cash disbursements to help detect fraud?
+
+Options=Generate vendor cash activity summary for further analysis | Identify disbursements by department, supervisor approval, or amount limits | Verify audit trail for all disbursements by purchase order, vendor, department, etc. | All of the above
+
+CorrectResponse=3
+
+Explanation=The following are examples of data analysis queries that can be performed by data analysis software on cash disbursements to help detect fraud:Summarize cash disbursements by account, bank, department, vendor, etc.Verify audit trail for all disbursements by purchase order, vendor, department, etc.Generate vendor cash activity summary for analysisIdentify disbursements by department, supervisor approval, or amount limitsSee page(s) 3.613 in the Fraud Examiner's Manual

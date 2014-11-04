@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=There are stringent legal requirements for nursing homes to monitor the services or supplies of outside health care providers.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although nursing homes are required to perform numerous tasks to monitor patients and meet their medical needs, there are no legal requirements that nursing homes monitor the services or supplies provided to their patients. These providers are allowed to bill directly without adequate confirmation that the care or items were necessary or were delivered as claimed.See page(s) 1.1238 in the Fraud Examiner’s Manual

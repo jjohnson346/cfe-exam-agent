@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Fraud is much more likely to occur in new bank accounts than in old, established ones.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraud is much more likely to occur in new bank accounts than in established accounts. Special efforts must be taken to properly identify the potential new customers, without offending them.See page(s) 1.931 in the Fraud Examiner's Manual

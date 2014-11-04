@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, what was the most common behavioral red flag displayed by the perpetrator prior to the discovery of the fraud?
+
+Options=Living beyond his/her means | Addiction problems | Complaining about lack of authority | Divorce or family problems
+
+CorrectResponse=0
+
+Explanation=We presented survey respondents with a list of common warning signs and asked which, if any, were displayed by the perpetrator prior to the discovery of the fraud. The most frequently cited behavioral red flag in the cases reported to us involved the fraudster living beyond his or her financial means. This warning sign was present in 43 percent of all cases in our study.See page(s) 4.641-4.642 in the Fraud Examiner's Manual

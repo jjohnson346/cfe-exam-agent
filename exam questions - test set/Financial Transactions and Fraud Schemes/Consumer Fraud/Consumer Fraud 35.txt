@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Victims of confidence games are more likely to be organizations or businesses rather than individuals.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Confidence games involve a range of fraudulent conduct usually committed by professional ‰??con artists" against unsuspecting victims. The victims can be organizations but more commonly are individuals. Con men usually act on their own, but they may group together for a particular complex endeavor.See page(s) 1.1702 in the Fraud Examiner‰??s Manual

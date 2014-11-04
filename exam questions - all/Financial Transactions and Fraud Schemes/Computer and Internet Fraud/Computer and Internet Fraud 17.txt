@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All of the following are methods of computer manipulation EXCEPT:
+
+Options=Logic bombs | Salami techniques | Simulation | Bumping
+
+CorrectResponse=3
+
+Explanation=Hackers use several techniques to gain information and to avoid detection. These include Trojan horses, spyware, trap doors, salami techniques, logic bombs, data diddling, scavenging, data leakage, piggybacking/impersonation, simulation, modeling, and wiretapping.✓	Welcome. Joseph I Help I ExitSee page(s) 1.1807-1.1809 in the Fraud Examiner's Manual

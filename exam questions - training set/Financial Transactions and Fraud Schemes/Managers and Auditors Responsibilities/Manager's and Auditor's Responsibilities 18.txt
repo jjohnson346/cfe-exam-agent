@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=In general, fraudulent reporting occurs through intentional fraudulent omissions or inclusions in the financial statements. Asset misappropriation involves the theft or misuse of company assets.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Fraudulent reporting occurs through intentional fraudulent omissions or inclusions in the financial statements. Asset misappropriation involves the theft or misuse of company assets.See page(s) 1.224 in the Fraud Examiner‰??s Manual

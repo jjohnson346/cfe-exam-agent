@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=If an appellate court reverses a conviction, it will:
+
+Options=Order a new trial or dismiss the case | Dismiss the case | Order a new trial | None of the above
+
+CorrectResponse=0
+
+Explanation=If the appellate court reverses a conviction, it will usually order a new trial. It may also direct dismissal of the case.See page(s) 2.109 in the Fraud Examiner's Manual

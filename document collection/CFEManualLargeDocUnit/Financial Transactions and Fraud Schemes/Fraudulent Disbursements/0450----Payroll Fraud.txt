@@ -1,0 +1,1011 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ASSET MISAPPROPRIATION: FRAUDULENT DISBURSEMENTS/Payroll Fraud
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Fraudulent Disbursements
+
+
+:
+
+
+Payroll Fraud 
+Payroll schemes are similar to billing schemes. The perpetrators of these frauds produce 
+false documents, which cause the victim company to unknowingly make a fraudulent 
+disbursement. In billing schemes, the false document is usually an invoice (coupled, perhaps, 
+with false receiving reports, purchase orders, and purchase authorizations). In payroll 
+schemes, the perpetrator typically falsifies a timecard or alters information in the payroll 
+records. The major difference between payroll schemes and billing schemes is that payroll 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.555 
+frauds involve disbursements to employees rather than to external parties. The most 
+common payroll frauds are ghost employee schemes, falsified hours and salary schemes, and 
+commission schemes.  
+ 
+Ghost Employees 
+The term ghost employee  refers to someone on the payroll who does not actually work for the 
+victim company. Through the falsification of personnel or payroll records a fraudster causes 
+paychecks to be generated to a ghost. The fraudster or an accomplice then converts these 
+paychecks. (See “Ghost Employees” flowchart.) The ghost employee may be a fictitious 
+person or a real individual who simply does not work for the victim employer. When the 
+ghost is a real person, it is often a friend or relative of the perpetrator.  
+ 
+In order for a ghost employee scheme to work, four things must happen: (1) the ghost must 
+be added to the payroll, (2) timekeeping and wage rate information must be collected, (3) a 
+paycheck must be issued to the ghost, and (4) the check must be delivered to the perpetrator 
+or an accomplice.  
+ 
+Adding the Ghost to the Payroll  
+The first step in a ghost employee scheme is entering the ghost on the payroll. In some 
+businesses, all hiring is done through a centralized personnel department, while in others the 
+personnel function is spread over the managerial responsibilities of various departments. 
+Regardless of how hiring of new employees is handled within a business, it is the person or 
+persons with authority to add new employees and remove terminated employees that are in 
+the best position to put ghosts on the payroll.  
+ 
+EXAMPLE 
+A manager who was responsible for hiring and scheduling janitorial work added over 80 
+ghost employees to his payroll. The ghosts in this case were actual people who worked at 
+other jobs for different companies. The manager filled out time sheets for the fictitious 
+employees and authorized them, then took the resulting paychecks to the ghost employees, 
+who cashed them and split the proceeds with the manager. It was this manager’s authority 
+in the hiring and supervision of employees that enabled him to perpetrate this fraud.  
+ 
+Employees in payroll accounting also sometimes create ghost employees. In a perfect world, 
+every name listed on the payroll would be verified against personnel records to make sure 
+that those persons receiving paychecks actually work for the company, but in practice this 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.556                         2011 Fraud Examiners Manual  
+does not always happen. Thus, persons in payroll accounting may be able to create fictitious 
+employees by simply adding a new name to the payroll records. Access to these records is 
+usually restricted, with only high-level employees having the ability to make changes to the 
+payroll. These persons would therefore be among the most likely suspects in a ghost 
+employee scheme. On the other hand, lower level employees sometimes gain access to 
+restricted payroll information and should not be disregarded as possible suspects. 
+ 
+EXAMPLE 
+An employee in the payroll department was gi ven the authority to enter new employees into 
+the payroll system, make corrections to payroll information, and distribute paychecks. This 
+employee’s manager gave rubber-stamp approval to the employee’s actions because of a 
+trusting relationship between the two. The lack of separation of duties and the absence of 
+review made it simple for the culprit to add a fictitious employee into the payroll system.  
+ 
+One way perpetrators try to conceal the presence of a ghost on the payroll is to create a 
+ghost with a name very similar to that of a real employee. The name on the fraudulent 
+paycheck, then, will appear to be legitimate to anyone who glances at it. For instance, if a 
+victim organization has an employee named John Doe, the ghost may be named “John 
+Doer.”   
+ 
+Instead of adding new names to the payroll, some employees undertake ghost employee 
+schemes when they fail to remove the names of terminated employees. Paychecks to the 
+terminated employee continue to be generated even though the employee no longer works 
+for the victim organization. The perpetrator intercepts these fraudulent paychecks and 
+converts them to his own use.  
+ 
+Collecting Timekeeping Information 
+The second thing that must occur in order for a paycheck to be issued to a ghost employee, 
+at least in the case of hourly employees, is the collection and computation of timekeeping 
+information. The perpetrator must provide payroll accounting with a timecard or other 
+instrument showing how many hours the fictitious employee worked over the most recent 
+pay period. This information, along with the wage rate information contained in personnel 
+or payroll files, will be used to compute the amount of the fraudulent paycheck.  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.557 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.558                         2011 Fraud Examiners Manual  
+Timekeeping records can be maintained in a variety of ways. Employees might manually 
+record their hours on timecards or punch time clocks that record the time at which a person 
+starts and finishes his work. In more sophisticated environments, computer systems can 
+track an employee’s hours.  
+ 
+When a ghost employee scheme is in place, someone must create documentation for the 
+ghost’s hours. This essentially amounts to preparing a fake timecard showing when the ghost 
+was allegedly present at work. Depending upon the normal procedure for recording hours, a 
+fraudster might write up a fake timecard and sign it in the ghost’s name, punch the time 
+clock for the ghost, and so on. The preparing of the timecard is not a great obstacle to the 
+perpetrator. The real key is obtaining approval of the timecard.  
+ 
+A supervisor should approve the timecards of hourly employees before paychecks are issued. 
+This verifies to the payroll department that the employee actually worked the hours that are 
+claimed on the card. A ghost employee, by definition, does not work for the victim 
+organization, so approval will have to be fraudulently obtained. Often, the supervisor 
+himself is the one who creates the ghost. When this is the case, the supervisor fills out a 
+timecard in the name of the ghost, then affixes his own approval. The timecard is thereby 
+authenticated and a paycheck will be issued. When a nonsupervisor is committing a ghost 
+employee scheme, he will typically forge the necessary approval, then forward the bogus 
+timecard directly to payroll accounting, bypassing his supervisor.  
+ 
+In computerized systems, a supervisor’s signature might not be required. In lieu of this, the 
+supervisor inputs data into the payroll system and the use of his password serves to 
+authorize the entry. If an employee has access to the supervisor’s password, he can input 
+data for the ghost, which will appear in the payroll system with a seal of approval.  
+If the perpetrator creates ghosts who are salaried rather than hourly employees, it is not 
+necessary to collect timekeeping information. Salaried employees are paid a certain amount 
+each pay period regardless of how many hours they work. Because the timekeeping function 
+can be avoided, it may be easier for a perpetrator to create a ghost employee who works on 
+salary. However, most businesses have fewer salaried employees and they are more likely to 
+be members of management. The salaried ghost may therefore be more difficult to conceal. 
+ 
+Issuing the Ghost’s Paycheck 
+Once a ghost is entered on the payroll and his timecard has been approved, the third step in 
+the scheme is the actual issuance of the paycheck. The heart of a ghost employee scheme is 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.559 
+in the falsification of payroll records and timekeeping information. Once this falsification 
+has occurred, the perpetrator does not generally take an active role in the issuance of the 
+check. The payroll department prints the check—based on the bogus information provided 
+by the perpetrator—as it would any other paycheck.  
+ 
+Delivery of the Paycheck  
+The final step in a ghost employee scheme is the distribution of the checks to the 
+perpetrator. Paychecks might be hand delivered to employees while at work, mailed to 
+employees at their home addresses, or — most commonly now — directly deposited into the 
+employees’ bank accounts. If employees are paid in currency rather than by check, the 
+distribution is almost always conducted in-person and on-site. 
+ 
+Ideally, those in charge of payroll distribution should not have a hand in any of the other 
+functions of the payroll cycle. For instance, the person who enters new employees in the 
+payroll system should not be allowed to distribute paychecks because this person can include 
+a ghost on the payroll, then simply pocket the fraudulent check when paychecks are being 
+disbursed. Obviously, when the perpetrator of a ghost employee scheme is allowed to mail 
+checks to employees or pass them out at work, he is in a perfect position to ensure that the 
+ghost’s check is delivered to himself.  
+ 
+In most instances the perpetrator does not have the authority to distribute paychecks, and so 
+must make sure that the victim organization sends the checks to a place where he can 
+recover them. When checks are not distributed in the workplace, they are usually mailed to 
+employees or deposited directly into those employees’ accounts.  
+ 
+If the fictitious employee was added into the payroll or personnel records by the perpetrator, 
+the problem of distribution is usually minor. When the ghost’s employment information is 
+entered, the perpetrator simply lists an address or bank account to which the payments can 
+be sent. In the case of purely fictitious ghost employees, the address is often the 
+perpetrator’s own (the same goes for bank accounts). The fact that two employees (the 
+perpetrator and the ghost) are receiving payments at the same destination may indicate 
+payroll fraud. Some fraudsters avoid this duplication by having payments sent to a post 
+office box or a separate bank account.  
+ 
+Remember that a ghost employee is not always a fictitious person. It may, instead, be a real 
+person who is conspiring with the perpetrator to defraud the company. For example, some 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.560                         2011 Fraud Examiners Manual  
+employees place their relatives or spouses on the company payroll. When real persons are 
+falsely included on the payroll, the checks are sent to the homes or accounts of these 
+persons.  
+ 
+Distribution is a more difficult problem when the ghost is a former employee who was 
+simply not removed from the payroll. If paychecks are distributed through the mail or by 
+direct deposit, the perpetrator will have to enter the terminated employee’s records and 
+change their delivery information. In companies where paychecks are distributed by hand or 
+are held at a central location for employees to collect, the perpetrator can ignore the payroll 
+records and simply pick up the fraudulent paychecks.  
+ 
+Falsified Hours and Salary   
+The most common method of misappropriating funds from the payroll is the overpayment 
+of wages. For hourly employees, the size of a paycheck is based on two factors: the number 
+of hours worked and the rate of pay. It is therefore obvious that for an hourly employee to 
+fraudulently increase the size of his paycheck, he must either falsify the number of hours he 
+has worked or change his wage rate. (See “Falsified Hours and Salary” flowchart.) Since 
+salaried employees do not receive compensation based on their time at work, in most cases 
+these employees generate fraudulent wages by increasing their rates of pay. 
+ 
+When discussing payroll frauds that involve overstated hours, one must first understand how 
+an employee’s time at work is recorded. Time is generally kept by one of three methods. 
+Time clocks may be used to mark the time when an employee begins and finishes work. The 
+employee inserts a card into the clock at the beginning and end of work, and the time is 
+imprinted on that card. In more sophisticated systems, computers may track the time 
+employees spend on the job based on log-in codes or a similar indicator. Finally, timecards 
+showing the number of hours an employee worked on a particular day are often prepared 
+manually by the employee and approved by his manager.  
+ 
+Manually Prepared Timecards 
+When hours are recorded manually, an employee typically fills out his timecard to reflect the 
+number of hours he has worked, then presents it to his supervisor for approval. The 
+supervisor verifies the accuracy of the timecard, signs the card to indicate his approval, then 
+forwards it to the payroll department so that a paycheck can be issued.  
+If an employee fills out his own timecard, it is easy to falsify the number of hours worked. 
+He simply writes down false information, showing that he arrived at work earlier or left later 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.561 
+than he actually did. The difficulty is not in falsifying the timecard, but in getting the 
+fraudulent card approved by the employee’s supervisor. There are basically three ways for 
+the employee to obtain the authorization he needs. 
+ 
+FORGING A SUPERVISOR’S SIGNATURE  
+When using this method, an employee typically withholds his timecard from those being sent 
+to the supervisor for approval, forges the supervisor’s signature or initials, then adds the 
+timecard to the stack of authorized cards, which are sent to the payroll department. The 
+fraudulent timecard arrives at the payroll department with what appears to be a supervisor’s 
+approval and a paycheck is subsequently issued.  
+ 
+COLLUSION WITH A SUPERVISOR 
+The second way to obtain approval of a fraudulent timecard is to collude with a supervisor 
+who authorizes timekeeping information. In these schemes, a supervisor knowingly signs 
+false timecards and the employee kicks back a portion of the overpaid wages to the 
+supervisor. In some cases, the supervisor may take the entire amount of the overpayment. It 
+may be particularly difficult to detect payroll fraud when a supervisor colludes with an 
+employee, because managers are often relied upon as a control to ensure proper 
+timekeeping.  
+ 
+EXAMPLE 
+A supervisor assigned employees to better work  areas or better jobs, but in return she 
+demanded payment. The payment was arranged by the falsification of the employees’ 
+timecards, which the supervisor  authorized. The employees we re compensated for fictitious 
+overtime, which was kicked back to the supervisor.  
+ 
+“RUBBER STAMP” SUPERVISORS 
+The third way to obtain approval of fraudulent timecards is to rely on a supervisor to 
+approve them without reviewing their accuracy. The “lazy manager” method seems risky and 
+one would think that it would be uncommon, but the truth is that it occurs quite frequently. 
+A recurring theme in occupational fraud schemes is the reliance of perpetrators on the 
+inattentiveness of others. When an employee sees an opportunity to make a little extra 
+money without getting caught, that employee is more likely to be emboldened to attempt a 
+fraud scheme. The fact that a supervisor is known to “rubber stamp” timecards or even 
+ignore them can be a factor in an employee’s decision to begin stealing from his company.  
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.562                         2011 Fraud Examiners Manual  
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.563 
+EXAMPLE 
+A temporary employee noticed that his manager did not reconcile the expense journal 
+monthly. Thus, the manager did not know ho w much was being paid  to the temporary 
+agency. The fraudster completed fictitious time reports, which were sent to the temporary 
+agency and which caused the victim company to pay over $30,000 in fraudulent wages. 
+Since the fraudster controlled the mail and the manager did not review the expense journal, 
+this extremely simple scheme went undetected for some time.  
+ 
+POOR CUSTODY PROCEDURES 
+One form of control breakdown that often occurs is the failure to maintain proper control 
+over timecards. In a properly run system, timecards that have been authorized by 
+management should be sent directly to payroll. Those who prepare the timecards should not 
+have access to them after they have been approved. If this separation of duties is not 
+observed, the person who prepared a timecard can alter it after his supervisor has approved 
+the timecard but before it is delivered to payroll. For instance, the employee might fill out his 
+timecard in erasable ink, obtain his supervisor’s signature on the timecard, and then change 
+the hours reflected on the timecard so that he will be overcompensated.  
+ 
+Another way hours are falsified is in the misreporting of leave time. This is not as common 
+as timecard falsification, but it does occur with some frequency. Incidentally, this is the one 
+instance in which salaried employees commit payroll fraud by falsifying their hours. A leave 
+time scheme is very simple. An employee takes a certain amount of time off of work as paid 
+leave or vacation, but does not report this leave time. Employees typically receive a certain 
+amount of paid leave per year. If a person takes a leave of absence but does not report it, 
+those days are not deducted from his allotted days off. In other words, he gets more leave 
+time than he is entitled to. The result is that the employee shows up for work less, yet still 
+receives the same pay.  
+ 
+Time Clocks and Other Automated Timekeeping Systems 
+In companies that use time clocks to collect timekeeping information, payroll fraud is usually 
+uncomplicated. In the typical scenario, the time clock is located in an unrestricted area, and a 
+timecard for each employee is kept nearby. The employees insert their timecards into the 
+time clock at the beginning and end of their shifts and the clock imprints the time. The 
+length of time an employee spends at work is thus recorded. Supervisors should be present 
+at the beginning and end of shifts to ensure that employees do not punch the timecards of 
+absent coworkers, but this simple control is often overlooked. Without proper supervision, 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.564                         2011 Fraud Examiners Manual  
+employees can punch the timecards of absent coworkers so that it appears the absent 
+employee was at work that day. The absent employee is therefore overcompensated on his 
+next paycheck. 
+ 
+Rates of Pay 
+It should be remembered that an employee can also receive a larger paycheck by changing 
+his pay rate. An employee’s personnel or payr oll records reflect his rate of pay. If an 
+employee can gain access to these records, or has an accomplice with access to them, he can 
+adjust them so that he receives a larger paycheck.  
+ 
+Commission Schemes 
+Commission is a form of compensation calculated as a percentage of the amount of 
+transactions a salesperson or other employee generates. It is a unique form of compensation 
+that is not based on hours worked or a set yearly salary, but rather on an employee’s revenue 
+output. A commissioned employee’s wages are based on two factors, the amount of sales he 
+generates and the percentage of those sales he is paid. In other words, there are two ways an 
+employee on commission can fraudulently increase his pay: (1) falsify the amount of sales 
+made, or (2) increase his rate of commission. (See “Commission Schemes” flowchart.) 
+ 
+Fictitious Sales 
+Establishing unobtainable sales quotas that employees think are arbitrary will increase the 
+pressure to establish fictitious performance levels. If the pressure becomes significant, the 
+employee might resort to adding fictitious sales and accounts receivable to meet the sales 
+quotas. 
+ 
+An employee can falsify the amount of sales he has made in one of two ways, the first being 
+the creation of fictitious sales. The manner in which fictitious sales are created depends on 
+the industry in which the perpetrator operates. Fictitious sales might be constructed by the 
+creation of fraudulent sales orders, purchase orders, credit authorizations, packing slips, 
+invoices, and so on. On the other hand, a culprit might simply ring up a false sale on a cash 
+register. The key is that a fictitious sale is created, that it appears to be legitimate, and that 
+the victim organization reacts by issuing a commission check to the perpetrator.  
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.565 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.566                         2011 Fraud Examiners Manual  
+EXAMPLE  
+An unscrupulous insurance agent took advant age of his company’s incentive commissions, 
+which paid $1.25 for every $1.00 of premiums generated in the first year of a policy. The 
+agent wrote policies to fictitious customers, paid the premiums, and received his 
+commissions, which created an illicit profit on the transaction. For instance, if the fraudster 
+paid $100,000 in premiums, he would receive $125,000 in commissions, a $25,000 
+profit. No payments were made on the fr audulent policies after the first year.  
+ 
+If a salesperson’s primary compensation is based on sales, without regard to collection, then 
+there is an incentive to produce quantity rather than quality sales. It is natural for companies 
+to push for higher sales levels to sustain growth. If the salespersons’ compensation is based 
+solely on quantity and not on a combination of quantity and  quality, however, then the 
+compensation incentive is misplaced. This might create an atmosphere which, if coupled 
+with opportunity, will produce inflated or fictitious sales. 
+ 
+Altered Sales  
+The second way for a fraudster to overstate the amount of sales he has made is to alter the 
+prices listed on sales documents. In other words, the perpetrator charges one price to a 
+customer, but records a higher price in the company books. This causes the victim company 
+to pay a larger commission than the perpetrator deserves. To make these schemes work, the 
+employee might have to intercept and alter the invoices that are sent to the customer. (The 
+invoices the company sends out will reflect a higher purchase price than the customer agreed 
+to, so if the customer receives these invoices he is likely to complain about the discrepancy.) 
+The employee may also overstate the revenue received from his customers.  
+ 
+Altering Commission Rates 
+As mentioned above, the other way to manipulate the commission process is to change the 
+employee’s rate of commission. This would likely necessitate the alteration of payroll or 
+personnel records, which should be off-limits to the sales staff.  
+ 
+Detection of Payroll Schemes 
+Independent Payroll Distribution 
+Ghost employee schemes can be uncovered by having personnel (other than the payroll 
+department) distribute the payroll checks or paystubs, and by requiring positive identification 
+of the payee. However, as more and more companies are moving to a direct-deposit payroll 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.567 
+with pay stubs available for viewing online, hand-delivering paychecks or paystubs is 
+becoming an obsolete method of detecting ghost employees.  
+ 
+Analysis of Payee Address or Accounts 
+If payroll checks are either mailed or deposited automatically, then a list of duplicate 
+addresses or deposit accounts may reveal ghost employees or duplicate payments. 
+ 
+Duplicate Identification Numbers 
+Because each employee is required to have a government-issued identification number (such 
+as a Social Security or Social Insurance number), a listing of duplicate numbers may reveal 
+ghost employees. 
+ 
+Overtime Authorization 
+Requiring employees to have overtime authorized by a supervisor, having the supervisor be 
+responsible for the timecards, and having the supervisor refer the timecards directly to 
+payroll will aid in reducing overtime abuses. In addition, the payroll department should scan 
+the time reports and question obvious abuses such as only one employee working overtime 
+in a department or excessive overtime on a timecard. By examining the source 
+documentation, one may detect unauthorized overtime and falsified hours abuses. 
+ 
+Commissions 
+Commission schemes can often be detected with the following techniques: 
+• Compare commission expenses to sales figures to verify linear correlation. 
+• Prepare a comparative analysis of commission earned by salesperson, verifying rates and 
+calculation accuracy. Inordinately high earnings by an individual could signal fraud. 
+• Analyze sales by salesperson for uncollected sales amounts. 
+• Determine proper segregation of duties in calculation of commission amounts. 
+Commissions should be independently provided by personnel outside the sales 
+department. 
+• Contact a random sample of customers to confirm sales.  
+ 
+TREND ANALYSIS ON WRITTEN-OFF ACCOUNTS RECEIVABLE 
+Stratify the written-off accounts receivable data and examine it for possible trends and 
+patterns. For example, do any of the following trends appear? 
+• Same salesperson 
+  
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.568                         2011 Fraud Examiners Manual  
+• Same accounting period (unless only an annual review of accounts receivable is 
+performed) 
+• Same collector 
+• Collection rates by agency or collector 
+ 
+Any of these trends might indicate fictitious accounts receivable, or that only new or good 
+accounts are being assigned to collectors or collection agencies. 
+ 
+Analysis of Deductions from Payroll Checks 
+An analysis of the payroll withholdings may reveal either ghost employees or trust account 
+abuses. Ghost employees will often have no withholding taxes, insurance, or other normal 
+deductions. Therefore, a listing of any employee without these items may reveal a ghost 
+employee. 
+ 
+An analysis of withholding-tax deposits may reveal that trust account taxes have been 
+“borrowed,” even for a short period, before the taxes are deposited. Comparing the 
+disbursement date with the deposit date should reveal if the trust account taxes have been 
+borrowed. Additionally, any delinquent payroll tax notices from the taxing authorities should 
+serve as a red flag to potential trust account tax “borrowings.” 
+ 
+Other Detection Methods 
+Other methods for detecting ghost employees include:  
+• Reviewing company e-mail address directories to ensure that all employees receiving 
+paychecks have a company e-mail address issued by the IT Department 
+• Comparing employee names, addresses, and social security numbers, as well as direct-
+ deposit bank account numbers to determine if there are any unexpected duplicates 
+• Comparing employee payroll records to human resources employee files to ensure social 
+security numbers and names match 
+• Examining payroll checks for dual endorsements 
+ 
+Prevention of Payroll Schemes 
+There are two basic preventive measures for payroll-related fraud: segregation of duties and 
+periodic payroll review and analysis. 
+ 
+Segregation of Duties 
+The following duties should be segregated:  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.569 
+• Payroll preparation 
+• Payroll disbursement (into payroll and withholding tax accounts) 
+• Payroll distribution  
+• Payroll bank reconciliations 
+• Human resource departmental functions 
+ 
+If payroll is prepared by personnel not responsible for its distribution and reconciliation, it 
+will be difficult for anyone to successfully add ghost employees. They will also be prevented 
+from “borrowing” the trust account taxes because  they will not have access to the disbursing 
+function. In smaller companies, this function is often handled outside the firm at pennies  
+per employee. 
+ 
+After the payroll checks are prepared, the transfer of funds from the general accounts to the 
+payroll accounts should be handled by accounting. The personnel department should 
+distribute checks and require identification in exchange for the payroll checks. This will 
+curtail the opportunity to add ghost employees to the payroll. A suggested form of 
+identification might be company-issued access passes, if available. 
+ 
+If the bank reconciliation function for the payroll account is assigned to someone other than 
+those in the above described functions, then all the payroll functions have been segregated. 
+No one is able to add ghost employees or “borrow” the withholding taxes without the 
+opportunity for discovery by someone else. 
+ 
+Periodic Review and Analysis of Payroll 
+Periodically, an independent review of the payroll might reveal that internal controls are not 
+working as designed. Comparing deposit dates with dates of payroll disbursement or transfer 
+may reveal ghost employees. An occasional independent payroll distribution may reveal 
+ghost employees. 
+ 
+The existence of the following may indicate the presence of ghost employees: 
+• More than one employee with the same address. 
+• More than one employee with the same government identification number. 
+• More than one employee with the same account number (automatic deposit). 
+• Employees with no withholding. 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.570                         2011 Fraud Examiners Manual  
+Indicators of Payroll Fraud 
+In addition, the following audit program will help spot red flags to payroll distribution fraud 
+and help with installing control procedures: 
+• Are personnel records maintained independently of payroll and timekeeping functions? 
+• Is the payroll accounting function independent of the general ledger function? 
+• Are changes to payroll not made unless the personnel department sends approved 
+notification directly to the payroll department? 
+• Are references and backgrounds checked for new hires? 
+• Are all wage rates authorized in writing by a designated official? 
+• Are signed authorizations on file for employees whose wages are subject to special 
+deductions? 
+• Are bonuses, commissions, and overtime approved in advance and reviewed for 
+compliance with company policies? 
+• Are sick leave, vacations, and holidays reviewed for compliance with company policy? 
+• Are appropriate forms completed and signed by employees to show authorization for 
+payroll deductions and withholding exemptions? 
+• Is the payroll periodically checked against the personnel records for terminated 
+employees, fictitious employees, etc.? 
+• Is a time clock used for office employees as well as factory workers? 
+• If a time clock is used, are timecards (1) punched by employees in the presence of a 
+designated supervisor and (2) signed by a supervisor at the end of the payroll period? 
+• Are timecards and production reports reviewed and compared with payroll distribution 
+reports and production schedules? 
+• Are payroll registers reviewed and approved before disbursements are made for (1) 
+names of employees, (2) hours worked, (3) wage rates, (4) deductions, (5) agreement with 
+payroll checks, and (6) unusual items? 
+• Are all employees paid by check out of a separate bank payroll account? 
+• Are payroll checks prenumbered and issued in numerical sequence? 
+• Is access restricted to unissued payroll checks and signature plates? 
+• Are checks drawn and signed by designated officials who do not (1) prepare payroll, (2) 
+have access to the accounting records, or (3) have custody of cash funds? 
+• Are payroll checks distributed by someone other than the department head or the person 
+who prepares the payroll? 
+• Is the distribution of the payroll rotated periodically to different employees without 
+ prior notice? 
+• Is the payroll bank account reconciled by a designated employee who (1) is not involved 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.571 
+in the preparing of payroll, (2) does not sign the checks, or (3) does not handle the check 
+distributions? 
+• Do payroll bank account reconciliation procedures include comparing the paid checks to 
+the payroll, and scrutinizing canceled check endorsements? 
+• Are the payroll registers reconciled to the general ledger control accounts? 
+• Is a liability account set up for all wages that have remained unclaimed for a certain 
+period of time? If yes, (1) have these wages been redeposited in a special bank account, 
+and (2) is identification required to be presented at the time of their subsequent 
+distribution?  
+• Are distributions of hours (direct and indirect) to activity or departments reviewed and 
+approved by supervisory personnel?  
+• Are actual payroll amounts reviewed and compared to budgeted amounts, and are 
+variances analyzed regularly?  
+• Do adequate procedures exist for timely and accurate preparation and filing of payroll 
+tax returns and related taxes?  
+• Are employee benefit plan contributions reconciled to appropriate employee  
+census data?  
+• Are adequate, detailed records maintained of the entity’s liability for vacation pay and 
+sick pay? Are they reconciled to the general ledger control accounts periodically?  
+ 
+ 
+
+
+
+:
+
+
+payrol fraud
+payrol scheme ar similar to bill scheme the perpetr of these fraud produc
+fals document which caus the victim compani to unknowingli make a fraudul
+disburs in bill scheme the fals document is usual an invoic coupl perhap
+with fals receiv report purchas order and purchas author in payrol
+scheme the perpetr typic falsifi a timecard or alter inform in the payrol
+record the major differ between payrol scheme and bill scheme is that payrol
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1555
+fraud involv disburs to employe rather than to extern parti the most
+common payrol fraud ar ghost employe scheme falsifi hour and salari scheme and
+commiss scheme
+ghost employe
+the term ghost employe refer to someon on the payrol who doe not actual work for the
+victim compani through the falsif of personnel or payrol record a fraudster caus
+paycheck to be gener to a ghost the fraudster or an accomplic then convert these
+paycheck see ghost employe flowchart the ghost employe mai be a fictiti
+person or a real individu who simpli doe not work for the victim employ when the
+ghost is a real person it is often a friend or rel of the perpetr
+in order for a ghost employe scheme to work four thing must happen 1 the ghost must
+be ad to the payrol 2 timekeep and wage rate inform must be collect 3 a
+paycheck must be issu to the ghost and 4 the check must be deliv to the perpetr
+or an accomplic
+ad the ghost to the payrol
+the first step in a ghost employe scheme is enter the ghost on the payrol in some
+busi all hire is done through a central personnel depart while in other the
+personnel function is spread over the manageri respons of variou depart
+regardless of how hire of new employe is handl within a busi it is the person or
+person with author to add new employe and remov termin employe that ar in
+the best posit to put ghost on the payrol
+exampl
+a manag who wa respons for hire and schedul janitori work ad over 80
+ghost employe to hi payrol the ghost in thi case were actual peopl who work at
+other job for differ compani the manag fill out time sheet for the fictiti
+employe and author them then took the result paycheck to the ghost employe
+who cash them and split the proce with the manag it wa thi manag author
+in the hire and supervis of employe that enabl him to perpetr thi fraud
+employe in payrol account also sometim creat ghost employe in a perfect world
+everi name list on the payrol would be verifi against personnel record to make sure
+that those person receiv paycheck actual work for the compani but in practic thi
+asset misappropri fraudul disburs financi transact
+1556 2011 fraud examin manual
+doe not alwai happen thu person in payrol account mai be abl to creat fictiti
+employe by simpli ad a new name to the payrol record access to these record is
+usual restrict with onli highlevel employe have the abil to make chang to the
+payrol these person would therefor be among the most like suspect in a ghost
+employe scheme on the other hand lower level employe sometim gain access to
+restrict payrol inform and should not be disregard as possibl suspect
+exampl
+an employe in the payrol depart wa gi ven the author to enter new employe into
+the payrol system make correct to payrol inform and distribut paycheck thi
+employe manag gave rubberstamp approv to the employe action becaus of a
+trust relationship between the two the lack of separ of duti and the absenc of
+review made it simpl for the culprit to add a fictiti employe into the payrol system
+on wai perpetr try to conceal the presenc of a ghost on the payrol is to creat a
+ghost with a name veri similar to that of a real employe the name on the fraudul
+paycheck then will appear to be legitim to anyon who glanc at it for instanc if a
+victim organ ha an employe name john doe the ghost mai be name john
+doer
+instead of ad new name to the payrol some employe undertak ghost employe
+scheme when thei fail to remov the name of termin employe paycheck to the
+termin employe continu to be gener even though the employe no longer work
+for the victim organ the perpetr intercept these fraudul paycheck and
+convert them to hi own us
+collect timekeep inform
+the second thing that must occur in order for a paycheck to be issu to a ghost employe
+at least in the case of hourli employe is the collect and comput of timekeep
+inform the perpetr must provid payrol account with a timecard or other
+instrument show how mani hour the fictiti employe work over the most recent
+pai period thi inform along with the wage rate inform contain in personnel
+or payrol file will be us to comput the amount of the fraudul paycheck
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1557
+asset misappropri fraudul disburs financi transact
+1558 2011 fraud examin manual
+timekeep record can be maintain in a varieti of wai employe might manual
+record their hour on timecard or punch time clock that record the time at which a person
+start and finish hi work in more sophist environ comput system can
+track an employe hour
+when a ghost employe scheme is in place someon must creat document for the
+ghost hour thi essenti amount to prepar a fake timecard show when the ghost
+wa allegedli present at work depend upon the normal procedur for record hour a
+fraudster might write up a fake timecard and sign it in the ghost name punch the time
+clock for the ghost and so on the prepar of the timecard is not a great obstacl to the
+perpetr the real kei is obtain approv of the timecard
+a supervisor should approv the timecard of hourli employe befor paycheck ar issu
+thi verifi to the payrol depart that the employe actual work the hour that ar
+claim on the card a ghost employe by definit doe not work for the victim
+organ so approv will have to be fraudul obtain often the supervisor
+himself is the on who creat the ghost when thi is the case the supervisor fill out a
+timecard in the name of the ghost then affix hi own approv the timecard is therebi
+authent and a paycheck will be issu when a nonsupervisor is commit a ghost
+employe scheme he will typic forg the necessari approv then forward the bogu
+timecard directli to payrol account bypass hi supervisor
+in computer system a supervisor signatur might not be requir in lieu of thi the
+supervisor input data into the payrol system and the us of hi password serv to
+author the entri if an employe ha access to the supervisor password he can input
+data for the ghost which will appear in the payrol system with a seal of approv
+if the perpetr creat ghost who ar salari rather than hourli employe it is not
+necessari to collect timekeep inform salari employe ar paid a certain amount
+each pai period regardless of how mani hour thei work becaus the timekeep function
+can be avoid it mai be easier for a perpetr to creat a ghost employe who work on
+salari howev most busi have fewer salari employe and thei ar more like to
+be member of manag the salari ghost mai therefor be more difficult to conceal
+issu the ghost paycheck
+onc a ghost is enter on the payrol and hi timecard ha been approv the third step in
+the scheme is the actual issuanc of the paycheck the heart of a ghost employe scheme is
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1559
+in the falsif of payrol record and timekeep inform onc thi falsif
+ha occur the perpetr doe not gener take an activ role in the issuanc of the
+check the payrol depart print the checkbas on the bogu inform provid
+by the perpetratora it would ani other paycheck
+deliveri of the paycheck
+the final step in a ghost employe scheme is the distribut of the check to the
+perpetr paycheck might be hand deliv to employe while at work mail to
+employe at their home address or most commonli now directli deposit into the
+employe bank account if employe ar paid in currenc rather than by check the
+distribut is almost alwai conduct inperson and onsit
+ideal those in charg of payrol distribut should not have a hand in ani of the other
+function of the payrol cycl for instanc the person who enter new employe in the
+payrol system should not be allow to distribut paycheck becaus thi person can includ
+a ghost on the payrol then simpli pocket the fraudul check when paycheck ar be
+disburs obvious when the perpetr of a ghost employe scheme is allow to mail
+check to employe or pass them out at work he is in a perfect posit to ensur that the
+ghost check is deliv to himself
+in most instanc the perpetr doe not have the author to distribut paycheck and so
+must make sure that the victim organ send the check to a place where he can
+recov them when check ar not distribut in the workplac thei ar usual mail to
+employe or deposit directli into those employe account
+if the fictiti employe wa ad into the payrol or personnel record by the perpetr
+the problem of distribut is usual minor when the ghost employ inform is
+enter the perpetr simpli list an address or bank account to which the payment can
+be sent in the case of pure fictiti ghost employe the address is often the
+perpetr own the same goe for bank account the fact that two employe the
+perpetr and the ghost ar receiv payment at the same destin mai indic
+payrol fraud some fraudster avoid thi duplic by have payment sent to a post
+offic box or a separ bank account
+rememb that a ghost employe is not alwai a fictiti person it mai instead be a real
+person who is conspir with the perpetr to defraud the compani for exampl some
+asset misappropri fraudul disburs financi transact
+1560 2011 fraud examin manual
+employe place their rel or spous on the compani payrol when real person ar
+fals includ on the payrol the check ar sent to the home or account of these
+person
+distribut is a more difficult problem when the ghost is a former employe who wa
+simpli not remov from the payrol if paycheck ar distribut through the mail or by
+direct deposit the perpetr will have to enter the termin employe record and
+chang their deliveri inform in compani where paycheck ar distribut by hand or
+ar held at a central locat for employe to collect the perpetr can ignor the payrol
+record and simpli pick up the fraudul paycheck
+falsifi hour and salari
+the most common method of misappropri fund from the payrol is the overpay
+of wage for hourli employe the size of a paycheck is base on two factor the number
+of hour work and the rate of pai it is therefor obviou that for an hourli employe to
+fraudul increas the size of hi paycheck he must either falsifi the number of hour he
+ha work or chang hi wage rate see falsifi hour and salari flowchart sinc
+salari employe do not receiv compens base on their time at work in most case
+these employe gener fraudul wage by increas their rate of pai
+when discuss payrol fraud that involv overst hour on must first understand how
+an employe time at work is record time is gener kept by on of three method
+time clock mai be us to mark the time when an employe begin and finish work the
+employe insert a card into the clock at the begin and end of work and the time is
+imprint on that card in more sophist system comput mai track the time
+employe spend on the job base on login code or a similar indic final timecard
+show the number of hour an employe work on a particular dai ar often prepar
+manual by the employe and approv by hi manag
+manual prepar timecard
+when hour ar record manual an employe typic fill out hi timecard to reflect the
+number of hour he ha work then present it to hi supervisor for approv the
+supervisor verifi the accuraci of the timecard sign the card to indic hi approv then
+forward it to the payrol depart so that a paycheck can be issu
+if an employe fill out hi own timecard it is easi to falsifi the number of hour work
+he simpli write down fals inform show that he arriv at work earlier or left later
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1561
+than he actual did the difficulti is not in falsifi the timecard but in get the
+fraudul card approv by the employe supervisor there ar basic three wai for
+the employe to obtain the author he need
+forg a supervisor signatur
+when us thi method an employe typic withhold hi timecard from those be sent
+to the supervisor for approv forg the supervisor signatur or initi then add the
+timecard to the stack of author card which ar sent to the payrol depart the
+fraudul timecard arriv at the payrol depart with what appear to be a supervisor
+approv and a paycheck is subsequ issu
+collus with a supervisor
+the second wai to obtain approv of a fraudul timecard is to collud with a supervisor
+who author timekeep inform in these scheme a supervisor knowingli sign
+fals timecard and the employe kick back a portion of the overpaid wage to the
+supervisor in some case the supervisor mai take the entir amount of the overpay it
+mai be particularli difficult to detect payrol fraud when a supervisor collud with an
+employe becaus manag ar often reli upon as a control to ensur proper
+timekeep
+exampl
+a supervisor assign employe to better work area or better job but in return she
+demand payment the payment wa arrang by the falsif of the employe
+timecard which the supervisor author the employe we re compens for fictiti
+overtim which wa kick back to the supervisor
+rubber stamp supervisor
+the third wai to obtain approv of fraudul timecard is to reli on a supervisor to
+approv them without review their accuraci the lazi manag method seem riski and
+on would think that it would be uncommon but the truth is that it occur quit frequent
+a recur theme in occup fraud scheme is the relianc of perpetr on the
+inattent of other when an employe see an opportun to make a littl extra
+monei without get caught that employe is more like to be embolden to attempt a
+fraud scheme the fact that a supervisor is known to rubber stamp timecard or even
+ignor them can be a factor in an employe decis to begin steal from hi compani
+asset misappropri fraudul disburs financi transact
+1562 2011 fraud examin manual
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1563
+exampl
+a temporari employe notic that hi manag did not reconcil the expens journal
+monthli thu the manag did not know ho w much wa be paid to the temporari
+agenc the fraudster complet fictiti time report which were sent to the temporari
+agenc and which caus the victim compani to pai over 30000 in fraudul wage
+sinc the fraudster control the mail and the manag did not review the expens journal
+thi extrem simpl scheme went undetect for some time
+poor custodi procedur
+on form of control breakdown that often occur is the failur to maintain proper control
+over timecard in a properli run system timecard that have been author by
+manag should be sent directli to payrol those who prepar the timecard should not
+have access to them after thei have been approv if thi separ of duti is not
+observ the person who prepar a timecard can alter it after hi supervisor ha approv
+the timecard but befor it is deliv to payrol for instanc the employe might fill out hi
+timecard in eras ink obtain hi supervisor signatur on the timecard and then chang
+the hour reflect on the timecard so that he will be overcompens
+anoth wai hour ar falsifi is in the misreport of leav time thi is not as common
+as timecard falsif but it doe occur with some frequenc incident thi is the on
+instanc in which salari employe commit payrol fraud by falsifi their hour a leav
+time scheme is veri simpl an employe take a certain amount of time off of work as paid
+leav or vacat but doe not report thi leav time employe typic receiv a certain
+amount of paid leav per year if a person take a leav of absenc but doe not report it
+those dai ar not deduct from hi allot dai off in other word he get more leav
+time than he is entitl to the result is that the employe show up for work less yet still
+receiv the same pai
+time clock and other autom timekeep system
+in compani that us time clock to collect timekeep inform payrol fraud is usual
+uncompl in the typic scenario the time clock is locat in an unrestrict area and a
+timecard for each employe is kept nearbi the employe insert their timecard into the
+time clock at the begin and end of their shift and the clock imprint the time the
+length of time an employe spend at work is thu record supervisor should be present
+at the begin and end of shift to ensur that employe do not punch the timecard of
+absent cowork but thi simpl control is often overlook without proper supervis
+asset misappropri fraudul disburs financi transact
+1564 2011 fraud examin manual
+employe can punch the timecard of absent cowork so that it appear the absent
+employe wa at work that dai the absent employe is therefor overcompens on hi
+next paycheck
+rate of pai
+it should be rememb that an employe can also receiv a larger paycheck by chang
+hi pai rate an employe personnel or payr oll record reflect hi rate of pai if an
+employe can gain access to these record or ha an accomplic with access to them he can
+adjust them so that he receiv a larger paycheck
+commiss scheme
+commiss is a form of compens calcul as a percentag of the amount of
+transact a salesperson or other employe gener it is a uniqu form of compens
+that is not base on hour work or a set yearli salari but rather on an employe revenu
+output a commiss employe wage ar base on two factor the amount of sale he
+gener and the percentag of those sale he is paid in other word there ar two wai an
+employe on commiss can fraudul increas hi pai 1 falsifi the amount of sale
+made or 2 increas hi rate of commiss see commiss scheme flowchart
+fictiti sale
+establish unobtain sale quota that employe think ar arbitrari will increas the
+pressur to establish fictiti perform level if the pressur becom signific the
+employe might resort to ad fictiti sale and account receiv to meet the sale
+quota
+an employe can falsifi the amount of sale he ha made in on of two wai the first be
+the creation of fictiti sale the manner in which fictiti sale ar creat depend on
+the industri in which the perpetr oper fictiti sale might be construct by the
+creation of fraudul sale order purchas order credit author pack slip
+invoic and so on on the other hand a culprit might simpli ring up a fals sale on a cash
+regist the kei is that a fictiti sale is creat that it appear to be legitim and that
+the victim organ react by issu a commiss check to the perpetr
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1565
+asset misappropri fraudul disburs financi transact
+1566 2011 fraud examin manual
+exampl
+an unscrupul insur agent took advant ag of hi compani incent commiss
+which paid 125 for everi 100 of premium gener in the first year of a polici the
+agent wrote polici to fictiti custom paid the premium and receiv hi
+commiss which creat an illicit profit on the transact for instanc if the fraudster
+paid 100000 in premium he would receiv 125000 in commiss a 25000
+profit no payment were made on the fr audul polici after the first year
+if a salesperson primari compens is base on sale without regard to collect then
+there is an incent to produc quantiti rather than qualiti sale it is natur for compani
+to push for higher sale level to sustain growth if the salesperson compens is base
+sole on quantiti and not on a combin of quantiti and qualiti howev then the
+compens incent is misplac thi might creat an atmospher which if coupl
+with opportun will produc inflat or fictiti sale
+alter sale
+the second wai for a fraudster to overst the amount of sale he ha made is to alter the
+price list on sale document in other word the perpetr charg on price to a
+custom but record a higher price in the compani book thi caus the victim compani
+to pai a larger commiss than the perpetr deserv to make these scheme work the
+employe might have to intercept and alter the invoic that ar sent to the custom the
+invoic the compani send out will reflect a higher purchas price than the custom agre
+to so if the custom receiv these invoic he is like to complain about the discrep
+the employe mai also overst the revenu receiv from hi custom
+alter commiss rate
+as mention abov the other wai to manipul the commiss process is to chang the
+employe rate of commiss thi would like necessit the alter of payrol or
+personnel record which should be offlimit to the sale staff
+detect of payrol scheme
+independ payrol distribut
+ghost employe scheme can be uncov by have personnel other than the payrol
+depart distribut the payrol check or paystub and by requir posit identif
+of the paye howev as more and more compani ar move to a directdeposit payrol
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1567
+with pai stub avail for view onlin handdeliv paycheck or paystub is
+becom an obsolet method of detect ghost employe
+analysi of paye address or account
+if payrol check ar either mail or deposit automat then a list of duplic
+address or deposit account mai reveal ghost employe or duplic payment
+duplic identif number
+becaus each employe is requir to have a governmentissu identif number such
+as a social secur or social insur number a list of duplic number mai reveal
+ghost employe
+overtim author
+requir employe to have overtim author by a supervisor have the supervisor be
+respons for the timecard and have the supervisor refer the timecard directli to
+payrol will aid in reduc overtim abus in addit the payrol depart should scan
+the time report and question obviou abus such as onli on employe work overtim
+in a depart or excess overtim on a timecard by examin the sourc
+document on mai detect unauthor overtim and falsifi hour abus
+commiss
+commiss scheme can often be detect with the follow techniqu
+compar commiss expens to sale figur to verifi linear correl
+prepar a compar analysi of commiss earn by salesperson verifi rate and
+calcul accuraci inordin high earn by an individu could signal fraud
+analyz sale by salesperson for uncollect sale amount
+determin proper segreg of duti in calcul of commiss amount
+commiss should be independ provid by personnel outsid the sale
+depart
+contact a random sampl of custom to confirm sale
+trend analysi on writtenoff account receiv
+stratifi the writtenoff account receiv data and examin it for possibl trend and
+pattern for exampl do ani of the follow trend appear
+same salesperson
+asset misappropri fraudul disburs financi transact
+1568 2011 fraud examin manual
+same account period unless onli an annual review of account receiv is
+perform
+same collector
+collect rate by agenc or collector
+ani of these trend might indic fictiti account receiv or that onli new or good
+account ar be assign to collector or collect agenc
+analysi of deduct from payrol check
+an analysi of the payrol withhold mai reveal either ghost employe or trust account
+abus ghost employe will often have no withhold tax insur or other normal
+deduct therefor a list of ani employe without these item mai reveal a ghost
+employe
+an analysi of withholdingtax deposit mai reveal that trust account tax have been
+borrow even for a short period befor the tax ar deposit compar the
+disburs date with the deposit date should reveal if the trust account tax have been
+borrow addition ani delinqu payrol tax notic from the tax author should
+serv as a red flag to potenti trust account tax borrow
+other detect method
+other method for detect ghost employe includ
+review compani email address directori to ensur that all employe receiv
+paycheck have a compani email address issu by the it depart
+compar employe name address and social secur number as well as direct
+deposit bank account number to determin if there ar ani unexpect duplic
+compar employe payrol record to human resourc employe file to ensur social
+secur number and name match
+examin payrol check for dual endors
+prevent of payrol scheme
+there ar two basic prevent measur for payrollrel fraud segreg of duti and
+period payrol review and analysi
+segreg of duti
+the follow duti should be segreg
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1569
+payrol prepar
+payrol disburs into payrol and withhold tax account
+payrol distribut
+payrol bank reconcili
+human resourc department function
+if payrol is prepar by personnel not respons for it distribut and reconcili it
+will be difficult for anyon to successfulli add ghost employe thei will also be prevent
+from borrow the trust account tax becaus thei will not have access to the disburs
+function in smaller compani thi function is often handl outsid the firm at penni
+per employe
+after the payrol check ar prepar the transfer of fund from the gener account to the
+payrol account should be handl by account the personnel depart should
+distribut check and requir identif in exchang for the payrol check thi will
+curtail the opportun to add ghost employe to the payrol a suggest form of
+identif might be companyissu access pass if avail
+if the bank reconcili function for the payrol account is assign to someon other than
+those in the abov describ function then all the payrol function have been segreg
+no on is abl to add ghost employe or borrow the withhold tax without the
+opportun for discoveri by someon els
+period review and analysi of payrol
+period an independ review of the payrol might reveal that intern control ar not
+work as design compar deposit date with date of payrol disburs or transfer
+mai reveal ghost employe an occasion independ payrol distribut mai reveal
+ghost employe
+the exist of the follow mai indic the presenc of ghost employe
+more than on employe with the same address
+more than on employe with the same govern identif number
+more than on employe with the same account number automat deposit
+employe with no withhold
+asset misappropri fraudul disburs financi transact
+1570 2011 fraud examin manual
+indic of payrol fraud
+in addit the follow audit program will help spot red flag to payrol distribut fraud
+and help with instal control procedur
+ar personnel record maintain independ of payrol and timekeep function
+is the payrol account function independ of the gener ledger function
+ar chang to payrol not made unless the personnel depart send approv
+notif directli to the payrol depart
+ar refer and background check for new hire
+ar all wage rate author in write by a design offici
+ar sign author on file for employe whose wage ar subject to special
+deduct
+ar bonus commiss and overtim approv in advanc and review for
+complianc with compani polici
+ar sick leav vacat and holidai review for complianc with compani polici
+ar appropri form complet and sign by employe to show author for
+payrol deduct and withhold exempt
+is the payrol period check against the personnel record for termin
+employe fictiti employe etc
+is a time clock us for offic employe as well as factori worker
+if a time clock is us ar timecard 1 punch by employe in the presenc of a
+design supervisor and 2 sign by a supervisor at the end of the payrol period
+ar timecard and product report review and compar with payrol distribut
+report and product schedul
+ar payrol regist review and approv befor disburs ar made for 1
+name of employe 2 hour work 3 wage rate 4 deduct 5 agreement with
+payrol check and 6 unusu item
+ar all employe paid by check out of a separ bank payrol account
+ar payrol check prenumb and issu in numer sequenc
+is access restrict to unissu payrol check and signatur plate
+ar check drawn and sign by design offici who do not 1 prepar payrol 2
+have access to the account record or 3 have custodi of cash fund
+ar payrol check distribut by someon other than the depart head or the person
+who prepar the payrol
+is the distribut of the payrol rotat period to differ employe without
+prior notic
+is the payrol bank account reconcil by a design employe who 1 is not involv
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1571
+in the prepar of payrol 2 doe not sign the check or 3 doe not handl the check
+distribut
+do payrol bank account reconcili procedur includ compar the paid check to
+the payrol and scrutin cancel check endors
+ar the payrol regist reconcil to the gener ledger control account
+is a liabil account set up for all wage that have remain unclaim for a certain
+period of time if ye 1 have these wage been redeposit in a special bank account
+and 2 is identif requir to be present at the time of their subsequ
+distribut
+ar distribut of hour direct and indirect to activ or depart review and
+approv by supervisori personnel
+ar actual payrol amount review and compar to budget amount and ar
+varianc analyz regularli
+do adequ procedur exist for time and accur prepar and file of payrol
+tax return and relat tax
+ar employe benefit plan contribut reconcil to appropri employe
+censu data
+ar adequ detail record maintain of the entiti liabil for vacat pai and
+sick pai ar thei reconcil to the gener ledger control account period

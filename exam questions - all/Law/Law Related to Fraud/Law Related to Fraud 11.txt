@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT an element of the bribery of public officials statute, Title 18. U.S. Code, Section 201(b)?
+
+Options=Intent to corruptly influence | Favorable action performed by official | An official act | Giving or receiving anything of value
+
+CorrectResponse=1
+
+Explanation=Title 18, U.S. Code, Section 201(b) prohibits, in general: (1) giving or receiving (2) anything of value (3) with the intent to corruptly influence (4) an official act. It is not necessary that the official who receives the thing of value actually performs any favorable act.See page(s) 2.247 in the Fraud Examiner's Manual

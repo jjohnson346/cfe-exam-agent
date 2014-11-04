@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Blake, a Certified Fraud Examiner, accepted a complicated assignment, which he felt was beyond the scope of his professional expertise. The assignment turned out badly, and the client complained to the members of the Board of Regents of the Association of Certified Fraud Examiners who referred the matter to their Board of Review. Blake probably violated the Certified Fraud Examiner Code of Professional Ethics.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Blake might have violated Article III of the Certified Fraud Examiner Code of Professional Ethics. This article states: "A CFE shall, at all time, exhibit the highest level of integrity in the performance of all professional assignments, and will accept only assignments for which there is a reasonable expectation that the assignment will be completed with professional competence."See page(s) 4.1001 in the Fraud Examiner‰??s Manual

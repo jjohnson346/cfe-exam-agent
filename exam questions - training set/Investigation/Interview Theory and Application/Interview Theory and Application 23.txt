@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Which of the following is NOT one of the purposes of an admission-seeking interview?
+
+Options=Test the person's honesty | Encourage a verbal confession | Clear an innocent person | All of the above are purposes
+
+CorrectResponse=0
+
+Explanation=Admission-seeking interviews are reserved specifically for individuals whose culpability is reasonably certain. Admission-seeking questions are posed in an exact order designed to (1) clear an innocent person; or (2) encourage the culpable person to confess. These questions must not violate the rights and privileges of the person being interviewed.See page(s) 3.204 in the Fraud Examiner's Manual

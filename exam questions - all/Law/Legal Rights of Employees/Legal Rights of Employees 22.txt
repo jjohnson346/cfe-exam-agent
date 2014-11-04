@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=White, a Certified Fraud Examiner believes that Blue, a fraud suspect, is guilty. White shares his theory with his supervisor. Blue later turns out to be innocent. Blue can sue and probably recover from White on a theory of defamation.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The four elements of defamation are: A false statement of fact; tending to subject the person to whom it referred to ill will or disrepute; published to one or more persons; and made without privilege. A qualified privilege might exist as to statements where the people to whom the statements are published are among those who have an interest in the matter and thus have a right to know. The privilege might be lost if the defamatory statements are communicated with "malice.â€? This usually means that the person communicating the statements knew they were false or made them without regard to whether they were false. Some courts have held that there can be no defamation arising from an employerâ€™s inquiries of its employees concerning their possible involvement in a violation of company policy. The employer might even have duty to investigate, arising from its duty to protect its business, its employees and the public from wrongdoing employees.See page(s) 2.414-2.415 in the Fraud Examiner's Manual

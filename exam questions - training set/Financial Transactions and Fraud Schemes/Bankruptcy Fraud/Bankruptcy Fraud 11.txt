@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=A bustout is a planned bankruptcy. In order to perpetrate this type of scheme, in which order must the following steps be taken by the business?
+
+Options=III then II then I then IV | II then III then IV then I | I then IV then III then II | III then II then IV then I
+
+CorrectResponse=3
+
+Explanation=A bustout is a planned bankruptcy. It can take many different forms. The basic approach is for an apparently legitimate business to order large quantities of goods on credit, then dispose of those goods through legitimate or illegitimate channels. The perpetrators then close shop, absconding with the proceeds and leaving the suppliers unpaid.See page(s) 1.1321 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Baker used the company credit card to pay for a business dinner at which he was entertaining a client. The credit card bill was paid by Baker's employer. Baker saved the receipt, and later he filed an expense report seeking reimbursement for the cost of the meal. He attached the receipt as support. According to Corporate Fraud Handbook, this is an example of what kind of fraud?
+
+Options=Mischaracterized expenses | Multiple reimbursements | Personal purchases with company funds | A false billing scheme
+
+CorrectResponse=1
+
+Explanation=A multiple expense reimbursement scheme involves the submission of a single expense several times to receive multiple reimbursements. The most frequent example of a duplicate reimbursement scheme is the submission of several types of support for the same expense However, rather than file two expense reports, employees may charge an item to the company credit card, save the receipt, and attach it to an expense report as if they paid for the item themselves. The victim company therefore ends up paying twice for the same expense.See page(s) 237 in the Corporate Fraud Handbook

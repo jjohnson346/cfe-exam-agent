@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=According to modern criminological studies, ____________________ is/are the determinant aspect(s) of white-collar crime.
+
+Options=Organizational opportunity | Social status | Financial constraints | None of the above
+
+CorrectResponse=0
+
+Explanation=Of all factors, organizational opportunity remains the determinant aspect of white-collar crime. Against Sutherland’s emphasis on an elite group running high-class sting operations, later studies show that organization and complexity make a larger difference than the offender's social status.See page(s) 4.407 in the Fraud Examiner's Manual

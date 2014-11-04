@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=in reporting the results of fraud examination matters, the Certified Fraud Examiner may (if appropriate) issue an opinion on which of the following?
+
+Options=Management | Internal controls | Operations | All of the above
+
+CorrectResponse=3
+
+Explanation=The CFE should avoid stating opinions regarding the guilt or innocence of any person or party. The Certified Fraud Examiner Code of Professional Ethics specifically prohibits statements of opinion on guilt or innocence. Opinions regarding technical matters are permitted if the fraud examiner is qualified as an expert in the matter being considered. For example, a permissible expert opinion might be in regard to the relative adequacy of an entity's internal controls. Another opinion might discuss whether financial transactions conform to generally accepted accounting principles.See page(s) 3.903 in the Fraud Examiner's Manual

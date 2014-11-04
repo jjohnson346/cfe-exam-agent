@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=With regard to government audits, abuse is distinguished from illegal acts and other non-compliance in that abuse does not necessarily involve a violation of laws, regulations, contract provisions, or grant agreements.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=According to Government Auditing Standards, paragraph 4.12, "Abuse involves behavior that is deficient or improper when compared with behavior that a prudent person would consider reasonable and necessary business practice given the facts and circumstances. Abuse also includes misuse of authority or position for personal financial interests or those of an immediate or close family member or business associate. Abuse is distinct from fraud, illegal acts, and violations of provisions of contracts or grant agreements in that abuse does not necessarily involve violation of laws, regulations, or provisions of a contract or grant agreement."See page(s) 1.1903 in the Fraud Examiner’s Manual

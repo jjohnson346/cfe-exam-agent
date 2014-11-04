@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Although money laundering statutes can be an effective form of deterrence and punishment for many types of fraud, they have little bearing or jurisdiction on health care fraud.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Using money laundering statutes can be effective in the deterrence and punishment of individuals who have committed health care fraud. Under the provisions of the Health Insurance Portability and Accountability Act of 1996, Congress amended the money laundering statute to include ‰??any act or activity constituting an offense involving a Federal health care offense" in the definition of ‰??specified unlawful activity." Accordingly, the money laundering statute can now be easily applied in those health care fraud cases to which it applies.See page(s) 1.1208 in the Fraud Examiner‰??s Manual

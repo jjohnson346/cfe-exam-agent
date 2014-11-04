@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Which of the following are considered fraud prevention methods?
+
+Options=Hotlines | Rewards | Reporting programs | All of the above are methods
+
+CorrectResponse=3
+
+Explanation=Increasing the perception of detection may well be the most effective fraud prevention method. Controls, for example, do little good in forestalling theft and fraud if their presence is not known by those at risk. This means letting employees, managers, and executives know that auditors are actively seeking out information concerning internal theft. This can be accomplished in several ways, such as: employee education, reporting programs, hotlines, rewards, and proactive audit policies.See page(s) 4.720-4.723 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, at what point should sensitive questions be asked?
+
+Options=Sensitive questions should be not be asked | Well into the interview | At the very end of the interview | Immediately after beginning the interview
+
+CorrectResponse=1
+
+Explanation=Sensitive questions should be scrupulously avoided until well into the interview. And then such questions should be asked only after careful deliberation and planning. During the introductory phase, emotive words of all types should generally be avoided. Such words normally put people on the defensive, and they are more reluctant to answer and to cooperate.See page(s) 3.217 in the Fraud Examiner's Manual

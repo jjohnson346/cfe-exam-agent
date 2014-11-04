@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+for                                    1
+higher                                 1
+by                                     1
+fraud                                  1
+instances                              1
+poorly                                 3
+was                                    1
+priced                                 1
+of                                     1
+easy                                   1
+deliver                                1
+solely                                 1
+written                                3
+on                                     1
+instance                               1
+is                                     3
+it                                     1
+contractor                             2
+or                                     1
+a                                      1
+the                                    4
+in                                     2
+specifications                         3
+product                                1
+that                                   1
+what                                   1
+committed                              1
+ordered                                1
+than                                   1
+service                                1
+some                                   1
+based                                  1
+
+Totals:                     33        46

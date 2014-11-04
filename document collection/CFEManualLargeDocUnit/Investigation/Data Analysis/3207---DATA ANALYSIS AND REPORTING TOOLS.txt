@@ -1,0 +1,2617 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+DATA ANALYSIS AND REPORTING TOOLS 
+ 
+In today’s world, computers are an integral part of fraud examination. Whether using the 
+Internet in an investigation or to analyze data, it is essential that the fraud examiner have 
+access to a computer and its applications. Computers contain volumes of data—financial 
+data, marketing data, customer data, correspondence, and more, and evidence of fraud could 
+be located within that data. Unfortunately, fraudulent data often looks like legitimate data 
+when viewed in the raw. Taking a sample and testing it may not uncover fraudulent activity. 
+ 
+Fortunately, for fraud examiners, software companies have developed computer programs 
+that enable users to sift through mounds of information. These programs identify current 
+customers, potential customers, and future trends within their respective industries, and can 
+be configured to identify breaks in audit control programs and anomalies in accounting 
+records.  
+ 
+In general, these software programs perform two primary functions that fraud examiners use 
+to explore and analyze large amounts of data: data mining and data analytics. Data mining  is 
+the science of extracting information from large data sets or databases. Data analysis  refers to 
+any statistical process used to analyze data. And if properly used, these processes can provide 
+the ultimate system of red flags, detecting a fraudulent situation long before previously 
+possible. 
+ 
+ 
+Data Mining 
+Data mining has roots in statistics, machine learning, data management and databases, 
+pattern recognition, and artificial intelligence. All of these are concerned with certain aspects 
+of data analysis, so they have much in common;  yet they each have a distinct and individual 
+flavor, emphasizing particular problems and types of solutions. 
+ 
+Data mining has great potential to help organizations shift their energy and focus to the 
+most important information in their databases. Data mining tools comb databases for 
+obscured patterns, finding predictive information that even experts may not recognize. 
+Using data mining technologies, companies can evaluate a plethora of information, spotting 
+patterns in their marketing and business procedures.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.602   2011 Fraud Examiners Manual  
+Although data mining technologies provide key advantages to marketing and business 
+activities, they can also manipulate financial data that was previously hidden within a 
+company’s database, enabling fraud examiners to detect potential fraud.  
+ 
+Previously, the data-mining process required a computer programmer to oversee the 
+process; however, this is no longer necessary. The current method uses a computer and 
+computer software to assist in the data-mining process. Data mining software provides an 
+easy to use computerized process that gives the fraud examiner the ability to get to data at a 
+required level of detail.  
+ 
+Data mining combines several different techniques essential to detecting fraud, including the 
+streamlining of raw data into understandable patterns.  
+ 
+Data mining can also help prevent fraud before it happens. For example, SPSS Business 
+Intelligence, a consulting group for businesses in electronic commerce, reports that some of 
+their customers use data mining tools and applications to develop anti-fraud models that 
+score transactions in real-time. The scoring is customized for each business, involving 
+factors such as locale of the order, frequency of the order, payment history, and other 
+factors. Once a transaction is assigned a high-risk score, the merchant can decide whether to 
+accept the transaction, deny it, or investigate further.  
+ 
+Data mining is an effective way for fraud examiners to develop fraud targets for further 
+investigation. It can mine databases for various fraud indicators, such as: (1) specific types of 
+transactions; (2) patterns within the data; or (3) a relationship between two data fields that 
+should not have a relationship (e.g., the same address or telephone number for companies 
+with different names). Targets are then examined to develop an investigative strategy 
+involving site visits and face-to-face interviews. Data mining can also be refined based on 
+interviews of targets.  
+ 
+One of the most sophisticated uses of data mining is known as computer matching. Also called 
+data matching  (in Australia and Canada), this approach involves the comparison of two 
+discreet data sets to identify questionable overlaps.  
+ 
+But before applying data mining processes, it is important to identify the sources from which 
+the data will be collected. Data may be stored in any of the following locations: 
+• Mainframe software 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.603 
+• Laptop installed software 
+• Security system software 
+• Hand held devices issued by the company’s employees (e.g., smart phones, thumb drives, 
+inventory scanning equipment, etc.) 
+• Company vehicle GPS systems 
+• Telephone systems  
+• Time card systems 
+• Key card access 
+ 
+Often, companies use data warehouses to manage data for analysis. Data warehouses  are 
+repositories of a company’s electronic data designed to facilitate reporting and analysis. By 
+storing data in a data warehouse, data users can query and analyze relevant data stored in a 
+single location. Thus, a company with a data warehouse can perform various types of 
+analytic operations (e.g., identifying red flags, transaction trends, patterns, or anomalies) to 
+assist management with its decision-making responsibilities. 
+ 
+Although this section focuses on electronic data, examiners should also identify manually 
+generated data, such as: 
+• Visitor check-in logs 
+• Appointment logs or individual calendars 
+• Customer receipts for cash payments 
+• Return merchandise slips 
+• Any manually maintained lists 
+ 
+After the examiner has identified the data sources, he should identify how the information is 
+stored. This means reviewing the database schema and technical documentation, which 
+should allow the investigator to determine how information is stored. One must be ready to 
+face a number of pitfalls when attempting to identify how information is stored, from weak 
+or nonexistent documentation to limited collaboration from the IT department.  
+ 
+Moreover, once collected, it is critical to ensure that the data is complete and appropriate for 
+the analysis to be performed. Depending on how the data was collected and processed, it 
+could require some scrubbing to make it usable for analysis purposes; it may be necessary to 
+modify certain field formats (e.g., date, time, currency, etc.) to make the information usable. 
+ 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.604   2011 Fraud Examiners Manual  
+Data Analysis 
+Once data has been extracted using data mining  techniques, it must be analyzed. While data 
+analysis is used mainly as an audit technique, it can be an important part of the fraud 
+detection toolkit. Although it cannot be used as evidence that a fraud was committed or that 
+a specific individual was involved, it can serve to identify red flags associated with a wide 
+variety of frauds. It will thereby provide investigators with a trail to follow. 
+ 
+ 
+Using Data Analysis Software 
+ 
+Advantages of Using Data Analysis Software 
+There are five significant advantages to using data analysis software. First, data analysis 
+software allows the fraud examiner to centralize an investigation, relying less on others to 
+gather pertinent information. Because of the amount of information data mining software is 
+able to sort through, the examiner no longer has to rely on different sources for information. 
+In the past, when analyzing a company’s books for possible discrepancies, the examiner 
+would have to ask for the assistance of several persons within the accounting department to 
+locate the pertinent information. Now, however, the data analysis program will do all the 
+“leg work,” ensuring an above-the-board investigation without many variables. 
+ 
+Second, data analysis software allows the fraud examiner to ensure that an investigation is 
+accurate and complete. In the past, an audit or fraud examination could only be complete to 
+the extent that the investigator was able to sift through information. When looking at one 
+month’s worth of a company’s transactions, a fraud examiner might be forced to research 
+more than one million transactions. Given the amount of time an auditor generally has to 
+conduct a single examination, the depth of a manual audit can be suspect at best. By using a 
+data analysis program, the fraud examiner can run several different analysis patterns in a 
+matter of hours, enabling him to look at greater volumes of information from a number of 
+different angles. These procedures lead to a more comprehensive examination. 
+ 
+Third, data analysis allows the fraud examiner to base predictions about the probability of a 
+fraudulent situation on reliable statistical information. By utilizing data mining software, the 
+fraud examiner can base any strong suspicions of fraudulent activities on hard numbers. 
+Because the software will compare one month’s expenditures with the same data for the rest 
+of the months of the year, the fraud examiner can point conclusively to troubled areas. With 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.605 
+hard data to support a fraud examiner’s suspicions, a company is more likely to conduct 
+further investigations into the wrongdoing. 
+ 
+Fourth, data analysis allows the fraud examiner to search entire data files for red flags of 
+possible fraud. The number of checkpoints a fraud examiner can set up using a data analysis 
+program is staggering. By cutting down on the paperwork involved in an investigation, the 
+fraud examiner is able to execute a number of different searches and analyses of the 
+company’s raw data.  
+ 
+Finally, data analysis can assist the fraud examiner in developing reference files for ongoing 
+fraud detection and investigation work. By performing audits and examinations with data 
+analysis software, the fraud examiner will begin to recognize trends and set up a list of 
+precedents for individual accounting situations, such as a monthly statement reconciliation. 
+In doing so, the fraud examiner can establish a “norm” with which to compare individual 
+months or years. These precedents can also be used by the fraud examiner in general terms, 
+and the knowledge can be applied to nearly any fraud investigation. 
+ 
+Core Data Analysis Software Functions 
+Computers can scan database information for several specific types of information, creating 
+a red-flag system. To perform this, most software packages use a combination of different 
+functions. These functions are: 
+• Sorting 
+• Record selection 
+• Joining files 
+• Multi-file processing 
+• Correlation analysis 
+• Verifying multiples of a number 
+• Compliance verification 
+• Duplicate searches 
+• Vertical ratio analysis 
+• Horizontal ratio analysis 
+• Date functions 
+• Graphing 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.606   2011 Fraud Examiners Manual  
+Sorting 
+To sort means to arrange data in a meaningful order. Sorting is nothing new; most reports 
+you read are sorted in some way. With sorted data, you can quickly pick out what is 
+important. An investigator can ask a program to sort information using different methods, 
+such as alphabetically or numerically. For instance, when searching for a suspected 
+fraudster’s name out of thousands in a check disbursement file, the software can quickly sort 
+a list of payee names. 
+ 
+Sample customer sales data  
+ 
+Date Invoice Customer Amount 
+5/4/10 M3158001 J789889 $12,500.00 
+7/5/10 M5958256 Q189425 $14,580.00 
+8/9/10 M8897158 T681897 $38,889.00 
+7/25/09 M1569897 T888971 $87,569.56 
+12/20/10 M3158001 P123089 $12,500.00 
+1/8/10 M2098159 W555258 $56,347.23 
+ 
+Data sorted by invoice number  
+ 
+Date Invoice Customer Amount 
+7/25/09 M1569897 T888971 $87,569.56 
+1/8/10 M2098159 W555258 $56,347.23 
+5/4/10 M3158001 J789889 $12,500.00 
+12/20/10 M3158001 P123089 $12,500.00 
+7/5/10 M5958256 Q189425 $14,580.00 
+8/9/10 M8897158 T681897 $38,889.00 
+ 
+Data sorted by amount  
+ 
+Date Invoice Customer Amount 
+5/4/10 M3158001 J789889 $12,500.00 
+12/20/10 M3158001 P123089 $12,500.00 
+7/5/10 M5958256 Q189425 $14,580.00 
+8/9/10 M8897158 T681897 $38,889.00 
+1/8/10 M2098159 W555258 $56,347.23 
+7/25/09 M1569897 T8 88971 $87,569.56 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.607 
+Record Selection  
+Specific record selection is accomplished by a request or query of the computer to find the 
+occurrences of items or records in a field. This type of request will only return instances 
+where the record did occur, effectively reducing large amounts of information into concise 
+lists. Often, additional criteria placed on the record selection or query will reveal a more 
+pertinent list of information. Most data analysis programs include simple Find macros to 
+help locate specific records.  
+ 
+Joining Files  
+The Join function gathers together the specified parts of different data files. Joining files 
+combines fields from two sorted input files into a third file. Join is used to match data in a 
+transaction file with records in a master file, such as matching invoice data in an accounts 
+receivable file to a master cluster. For example, you may need to compare two different files 
+to find differing records between files. The following is an example of how joining two files 
+can easily provide that information. 
+ 
+File 1 
+Customer Account Balance Last Invoice 
+Jerry’s Cleaners 555221 $12,500 12/30/10 
+Quality Garments 555658 $9,283 11/15/10 
+Beverly’s Tailoring 554891 $27,588 01/15/10 
+ 
+File 2 
+Customer Account Balance Last Invoice 
+Quality Garments 555658 $9,283 11/15/10 
+McCloud’s Fabrics 556897 $10,888 09/24/10 
+Beverly’s Tailoring 554891 $27,588 01/15/10 
+ 
+The JOINED exception file 
+Customer Account Balance Last Invoice 
+McCloud’s Fabrics 556897 $10,888 09/24/09 
+Jerry’s Cleaners 555221 $12,500 12/30/09 
+ 
+Multi-File Processing  
+Multi-file processing allows the user to relate several files by defining relationships between 
+multiple files, without the use of the Join command. A common data relationship would be 
+to relate an outstanding invoice master file to an accounts receivable file based on the 
+customer number. The relationship can be further extended to include an invoice detail file 
+based on invoice number. This relationship will allow you to see which customers have 
+outstanding invoices sorted by date.  
+Data Analysis and Reporting Tools  Investigation 
+3.608   2011 Fraud Examiners Manual  
+Correlation Analysis 
+Using this function, investigators can determine the relationships between different variables 
+in the raw data. Investigators can learn a lot about computer data files by learning the 
+relationship between two variables. For example, we should expect a strong correlation 
+between these independent and dependent variables because a direct relationship exists 
+between the two variables. Hotel costs should increase as the number of days traveled 
+increases. The gallons of paint used should increase as the number of houses built increases. 
+You can probably use many more of such relationships. 
+ 
+Independent Variable Dependent Variable 
+Number of days traveling Hotel cost 
+Number of documents printed Reams of paper used 
+Number of houses built Paint used 
+ 
+Verifying Multiples of a Number 
+With this function, an auditor can determine whether regularly disbursed checks, such as 
+reimbursement for mileage, are consistent within the regular rate. For instance, if the mileage 
+checks do not measure up to the 30-cents-per-mile rate, a red flag should automatically be 
+raised. 
+ 
+Compliance Verification 
+This function determines whether company policies are met by employee transactions. If a 
+company limits the amount of its reimbursements, the software can check to see that this 
+limit is being observed. Many times fraud exam iners can find early indications of fraud by 
+testing detail data for values above or below specified amounts. For example, when 
+employees are out of town, do they adhere to the company policy of not spending more 
+than $30 a day for meals? For starters, we can look at the expense reports and select those 
+with meal expenses exceeding $30. With the in formation returned from this simple query, we 
+have a starting point for suspecting fraud. Even though these variances are small ($2 and $3), 
+the time taken to research small variances can be well invested. The trail might lead to 
+something big. After further investigation, you might learn that the employee did not have 
+supporting documentation to submit because a vendor’s sales representative paid for all the 
+meals. If this is the case, you have two fraud suspects, the employee and the employee’s boss 
+who approved the report. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.609 
+Duplicate Searches 
+Fraud examiners and auditors can perform searches on invoice disbursements numerically to 
+see if any invoices have been paid twice. By cross-checking the invoices with the vendors 
+paid, duplicate billing can be easy to catch. 
+ 
+Vertical Ratio Analysis 
+Vertical analysis is a technique for analyzing the relationships between the items on an 
+income statement, balance sheet, or statement of cash flows by expressing components as 
+percentages. In the vertical analysis of an income statement, net sales is assigned 100 percent; 
+on a balance sheet, total assets or total liabilities and equity is assigned 100 percent. All other 
+items are expressed as a percentage of these two numbers.  
+ 
+By performing this function, you can determine whether paid expenditures over a period are 
+reasonable amounts. If one area of company expenses seems abnormally large for a short 
+amount of time, a red flag should immediately be raised. 
+ 
+Horizontal Ratio Analysis 
+Horizontal analysis is a technique for analyzing the percentage change in individual financial 
+statement items from one year to the next. The first year in the analysis is considered the 
+base year, and the changes to subsequent years are computed as a percentage of the base 
+year.  
+ 
+This function determines the trends of a company’s expenses, inventory, and so on. 
+Discrepancies in a company’s net profit or a large shift in amount of inventory would 
+suggest that something is not right within the company.  
+  
+Data Analysis and Reporting Tools  Investigation 
+3.610   2011 Fraud Examiners Manual  
+ 
+ 
+Date Functions 
+Various software programs allow you to check for differences in dates, such as invoice dates. 
+By verifying that check disbursements are consistent, you can ensure that no suspicious 
+payments were arranged by an employee. Analysis programs will also allow for aging of data. 
+The following is an example of accounts receivable aging.  
+ 
+ 
+BALANCE SHEET Vertical Analysis Horizontal Analysis
+  Year One Year Two Change %C hange
+ Assets
+   Current Assets
+     Cash 45,00 0           14 % 1 5,0 0 0           4% (30,0 0 0)          -67 %
+     Accts Receivable 150,0 0 0         45 % 2 0 0,0 0 0         47 % 5 0,0 0 0           33 %
+     Inventory 75,00 0           23 % 1 5 0,0 0 0         35 % 7 5,0 0 0           10 0 %
+  Fi xed Assets (net) 60,00 0           18 % 6 0,0 0 0           14 % -                0%
+ Total 33 0,0 0 0        10 0 % 4 2 5,0 0 0        100 % 9 5,0 0 0         29 %
+  
+ 
+Acc'ts Payable 95,00 0           29 % 2 1 5,0 0 0         51 % 1 2 0,0 0 0         12 6 %
+ Long-term Debt 60,00 0           18 % 6 0,0 0 0           14 % -                0%
+ Stockholder's Equity -                
+   Common Stock 25,00 0           8% 2 5,0 0 0           6% -                0%
+     Paid-in Capital 75,0 0 0           23 % 7 5,0 0 0           18 % -                0%
+    Retained Earnings 75,00 0           23 % 5 0,0 0 0           12 % (25,0 0 0)          -33 %
+ Total 33 0,0 0 0        10 0 % 4 2 5,0 0 0        100 % 9 5,0 0 0         29 %
+ INCOME STATEMENT Vertical Analysis Horizontal Analysis
+ Year One Year Two Change %Change
+ Net Sales 250,0 0 0         10 0 % 4 5 0,0 0 0         100 % 2 0 0,0 0 0         80 %
+ Cost of Goods Sold 125,0 0 0         50 % 3 0 0,0 0 0         67 % 1 7 5,0 0 0         14 0 %
+ Gross Margin 125,0 0 0         50 % 1 5 0,0 0 0         33 % 2 5,0 0 0           20 %
+ Operating Expenses   
+  Selling Expenses 50,00 0           20 % 7 5,0 0 0           17 % 2 5,0 0 0           50 %
+   Administrative Expenses 60,00 0           24 % 1 0 0,0 0 0         22 % 4 0,0 0 0           67 %
+ Net Income 15,00 0          6% (25,0 0 0)        -6% (40,0 0 0)        -26 7 %
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.611 
+Graphing 
+Graphs, like pictures, are worth a thousand words. Data analysis programs can provide 
+numerous types of graphs to give fraud examiners a quick glimpse of the data. For example 
+an inquiry should be made as to why November expenses are $10,000 more than the 
+monthly norm. 
+ 
+ 
+General and Administrative Expenses 2010  
+(in thousands)
+ 0  
+5  
+10  
+15  
+20  
+25  
+30  
+35  
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+  
+Examples of Data Analysis Queries 
+The following are typical examples of data analysis queries that can be performed by data 
+analysis software. 
+ 
+General Ledger Analysis 
+• Select specific journal entries for analysis. 
+• Create actual to budget comparison reports. 
+• Analyze and confirm specific ledger accounts for legitimate transaction activity. 
+• Speed account reconciliation through specialized account queries. 
+• Calculate financial ratios. 
+• Calculate percentage comparison ratio between accounts. 
+• Prepare custom reports, cash flow, profit/loss, and asset and liability total reports. 
+• Compare summaries by major account in any order (low-high, high-low). 
+• Create reports in any format by account, division, department, etc.  
+Data Analysis and Reporting Tools  Investigation 
+3.612   2011 Fraud Examiners Manual  
+Accounts Receivable 
+• Create a list of customer limit increases and decreases. 
+• Age accounts receivable in various formats. 
+• Identify gaps in sequential forms such as invoices. 
+• Identify duplicate invoices or customer account numbers. 
+• Show specified reports on credits taken by customers. 
+• Report customer summaries by invoice, product, etc.  
+• Identify customer activity by age, product, etc. 
+• Compare customer credit limits and current or past balances. 
+ 
+Sales Analysis 
+• Create a report of all system overrides and sales exceptions. 
+• Analyze returns and allowances by store, department, or other areas. 
+• Summarize trends by customer type, products, salesperson, etc. 
+• Compare ratios of current sales to outstanding receivables or other variables. 
+• Generate reports on a correlation between product demand or supply and sales prices. 
+ 
+Accounts Payable 
+• Audit paid invoices for manual comparison with actual invoices. 
+• Summarize large invoices by amount, vendor, etc. 
+• Identify debits to expense accounts outside of set default accounts. 
+• Reconcile check registers to disbursements by vendor invoice. 
+• Verify vendor 1099 requirements. 
+• Create vendor detail and summary analysis reports. 
+• Review recurring monthly expenses and compare to posted/paid invoices. 
+• Generate a report on specified vouchers for manual audit or investigation. 
+ 
+Asset Management 
+• Generate depreciation to cost reports. 
+• Compare book and tax depreciation and indicate variances. 
+• Sort asset values by asset type or dollar amount. 
+• Select samples for asset existence verification. 
+• Recalculate expense and reserve amounts using replacement costs. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.613 
+Cash Disbursement 
+• Summarize cash disbursements by account, bank, department, vendor, etc. 
+• Verify audit trail for all disbursements by  purchase order, vendor, department, etc. 
+• Generate vendor cash activity summary for analysis. 
+• Identify disbursements by department, supervisor approval, or amount limits. 
+ 
+Payroll 
+• Summarize payroll activity by specific criteria for review. 
+• Identify changes to payroll or employee files. 
+• Compare timecard and payroll rates for possible discrepancies. 
+• Prepare check amount reports for amounts over a certain limit. 
+• Check proper supervisory authorization on payroll disbursements. 
+ 
+Purchasing 
+• Track scheduled receipt dates versus actual receipt dates, in summary and detail. 
+• Compare vendor performance by summarizing item delivery times and amounts. 
+• Isolate purchase order types for analysis. 
+• Analyze late shipments. 
+ 
+Data Analysis Checklist 
+The following are some key issues to address as one conducts a data analysis. 
+• Ensure data validity and data integrity. There is always a concern when the examiner 
+moves data from one venue to another. One of the concerns is data validity. Is the data 
+valid and pertinent to the investigation? The second concern is integrity. Is the valid data 
+that was selected correct? A simple check or au dit of the validity and integrity of the data 
+should be the first step in the data analysis.    
+• Consider data format and structure. This consideration is important when the examiner 
+wishes to import or export data with his computer. A date can be formatted into a 
+number of different styles, such as mm/dd/yyyy. The structure of the data will also be 
+important along with the extension. A text file will have a .txt extension associated with 
+it. What format is the current data in? What format will the computer require? How does 
+the examiner get the data from here to there if the data formats and structures are 
+different? 
+• Count the zeros. The examiner should perform a preliminary analysis to ensure that the 
+key strategic issue he is about to develop is worth the effort before initiating his fraud 
+investigation. 
+Data Analysis and Reporting Tools  Investigation 
+3.614   2011 Fraud Examiners Manual  
+• Consider the spectrum of distinct levels of aggregation at which fraud monitoring is 
+required. Determine the lowest level (transaction level), the highest level (multiparty 
+criminal conspiracies), and the intervening layers that may be present in your industry 
+and respective data. 
+• Begin with the end in mind. In his book, The Seven Habits of Highly Effective People, Stephen 
+Covey states that beginning with the end in mind is good habit. When you develop your 
+fraud intelligence action plan, be certain to consider the end result. One question to ask 
+may be, “Will this algorithm/consultant hold up under the intense scrutiny of a court of 
+law?”  
+ 
+Evaluating Data Analysis Software 
+In short, there are no silver bullets. But any data analysis software should possess the 
+following minimum requirements: 
+• Data import/export capabilities. Considering your data format and structure, how easily 
+is data imported/exported? 
+• Data visualization. How easy is it to move your data from a spreadsheet into a graphic 
+for analysis and interpretation? 
+• Look for a suite of tools. Just as there is not one screwdriver for every job, there is not 
+only one software program for the examiner’s  fraud intelligence efforts. Therefore, he 
+should choose the most appropriate set of tools according to his data and then select the 
+software that best fits his current and future needs.  
+• Develop a two-pronged effort of using the computer to acquire fraud intelligence. Use 
+commercial software currently on the market and begin collaborative activities with the 
+academics at your local university. There are numerous software packages in various 
+stages of development in academia that are in need of data to be tested. This can prove 
+to be a win-win for both parties. The examiner has the data and the academics have the 
+prototype software. 
+ 
+Evaluating Data Mining Software 
+Because no single software tool can satisfy all user purposes, examiners must consider the 
+applications with respect to their particular needs. Ken Collier, an expert in data 
+warehousing, business intelligence, software engineering, and agile methods, and his 
+colleagues established a framework for evaluating data mining.3 The framework divided the 
+criteria into the following four areas: 
+                                                 
+3  Collier, K, Carey, B, Sautter, D. and Marjaniemi, C. “A Methodology for Evaluating and Selecting data Mining 
+Software,” Proceedings of the 32nd Hawaii International Conference on System Sciences, 1999, IEEE. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.615 
+• Performance : Performance refers to the ability to handle a variety of data sources.  
+• Functionality : Functionality refers to the variety of capabilities, technical methods, and 
+methodology for data mining included in the program.  
+• Usability : Usability refers to the conformation of different levels and types of users 
+without losing usefulness or functionality. 
+• Support of ancillary activities : Ancillary task support permits the user to perform the variety 
+of tasks that support data mining.  
+ 
+Evaluating Data Mining Consultants 
+If, however, an entity intends to use a data mining consultant, the following qualities should 
+be assessed: 
+• Innovation : How does the individual stay current? Look for professional associations, 
+publications, and training in your area of investigation.  
+• Creativity : Can the individual work in a creative environment, such as fraud intelligence? 
+Can the individual work unsupervised and be expected to produce results? Since fraud is 
+a moving target, how has a past client’s platfo rm altered from the original investigation? 
+Why/how did that occur? What were the results?  
+• Experience : Does the individual have experience in the type of investigation you are 
+planning? Does the individual have experi ence in the type of software/tools you are 
+planning to use? Does the individual have experience in the type of data you have? 
+ 
+The embodiment of this expertise might take one, two, three, or more people. You really 
+need people who understand what it is they are looking for—and what they can do with it 
+once they find it. 
+ 
+ 
+Types of Data Mining and Analysis Software 
+There are many types of data mining and data analysis software on the market these days, 
+and every year new products and new versions of old products emerge. Because every fraud 
+examination involving data analysis is different, it would be impossible to recommend one 
+software product to serve every purpose. Choosing a data analysis tool is something that the 
+fraud examiner must evaluate on each individual case. A fraud examiner should research 
+applications intensively to decide which package is most appropriate for the current 
+investigation.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.616   2011 Fraud Examiners Manual  
+Data mining and knowledge discovery software are generally classified into the following 
+categories: 
+• Public domain/shareware/freeware: This type of software is available free or for a 
+nominal charge through websites, ftp sites, and newsgroups. Many shareware programs, 
+such as WINKS SDA, allow users a trial period, after which they must pay a fee to 
+reactivate the software. Freeware, however, is available at no cost or for an optional fee. 
+These types of programs can be located through Internet search engines and through 
+software download services such as ZDNet. 
+• Beta software: Beta software is pre-release software that is still in test mode. Generally, 
+this type of software is free, and users are asked to review the software’s performance, 
+report malfunctions, and so on.  
+• Commercial applications: Commercial applications are general release products that 
+usually come with technical support and warranty. The most prominent commercial 
+applications, which are discussed below, include: 
+–  ACL 
+–  IDEA 
+–  Excel 
+–  ActiveData for Excel 
+–  AutoAudit 
+–  SNAP! Reporter 
+–  DataWatch Corporation’s Monarch for Windows 
+–  Arbutus Query 
+–  Oversight Systems 
+ 
+ACL 
+ACL is a generalized audit software program; it  is one of the preferred software tools of 
+audit and financial professionals for data extraction, data analysis, fraud detection, and 
+continuous monitoring. ACL provides a combinat ion of data access, analysis, and integrated 
+reporting. It reads and compares enterprise data—flat or relational databases, spreadsheets, 
+or report files on PCs or servers — allowing the source data to remain intact. ACL employs a 
+single, consistent client interface and provides easy, immediate access to data.  
+ 
+Commands are already pre-programmed for data analysis. Automate your analysis through 
+continuous monitoring and real-time notification. 
+ 
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.617 
+With ACL you can: 
+• Analyze data independently from your IT department, with a user interface, pull-down 
+menus, toolbars, and point-and-click commands 
+• Analyze transactional data in files of any size to ensure 100-percent coverage and 
+confidence in your results 
+• Produce reports 
+• Identify trends, pinpoint exceptions, and highlight potential areas of concern 
+• Locate errors and potential fraud by comparing and analyzing files according to end- 
+user criteria 
+• Identify control issues and ensure compliance with standards 
+ 
+For more information, visit www.acl.com.  
+ 
+IDEA  
+Like ACL, IDEA (Interactive Data Extraction and Analysis) is a generalized audit software 
+program. More specifically, it is a PC-based file interrogation package that allows 
+accountants, auditors, and financial managers to view, sample, and analyze data from any 
+other computerized system. This software provides some functionality previously only 
+available to electronic data processing (EDP) auditors and systems specialists. IDEA lets the 
+user make inquiries of data files, perform random unit sampling, and calculate totals and 
+averages. The software will perform specific criteria searches, unusual item queries, and 
+identify gaps or duplicates in sequences. Additionally, to differentiate normal audit patterns 
+from suspect ones, examiners can use IDEA to perform data analysis using Benford’s Law.  
+ 
+Additionally, IDEA includes a number of tools to prevent and detect fraud, including 
+personal vetting tools, the power to authorize transactions independently, and the ability to 
+observe employees. This software considers purchasing, payroll, and banking the most 
+common places for the occurrence of fraud. 
+ 
+General Functions 
+IDEA’s general functions are discussed below.  
+ 
+FILES, FILE MANAGEMENT, AND FILE MANIPULATION 
+IDEA’s file management and manipulation applications allow the user to import/export files 
+from almost any format, including XML and specific accounting packages; use an easy, 
+industry-standard file management program; generate a single database from several other 
+Data Analysis and Reporting Tools  Investigation 
+3.618   2011 Fraud Examiners Manual  
+databases; use a compare-database option to identify differences in a numeric field within 
+two files for a common key; combine fields from two databases into a single database to test 
+for data matches across files; and use the append-databases option, concatenate two or more 
+files into a single database for audit testing.  
+ 
+DATA APPLICATIONS 
+With IDEA’s data applications, users can exercise extraction or exception testing to identify 
+items that satisfy a specific characteristic, The Equation Editor allows you to create simple or 
+very complex extractions, and the @Functions are used to perform more complex 
+calculations and exception testing. The Search function can seek text or numeric values 
+across selected fields in multiple databases using standard or advanced search techniques. 
+IDEA Duplicates can identify items within a database in which up to eight fields of 
+information are the same. Users can also search for gaps in numeric sequence or 
+alphanumeric sequences with a user-defined mask. The Chart Data option allows data files 
+to be graphed or test results exhibited in bar, stacking bar, pie, plot, or area charts. Data 
+Action Fields allow users to set up relationships across multiple files. 
+ 
+SAMPLING 
+IDEA offers five sampling methods with the ability to calculate sample sizes based on 
+parameters entered and evaluate the results of sampling tests. The sampling methods 
+available are systematic, random, stratified random, monetary unit, and classical variables 
+sampling.  
+ 
+ANALYSIS 
+IDEA’s analysis applications allow users to apply Benford’s Law, stratification, 
+summarization, aging, and pivot tables to raw data.  
+ 
+PRODUCTIVITY 
+With the productivity application, there are several different functions that can display the 
+data, save the operations carried out on a database, generate statistics for all numeric and 
+date fields within a database, and create a script with the help of object-oriented 
+programming language. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.619 
+Fraud Tests 
+Fraud examiners and auditors can use IDEA’s data  analysis applications to identify potential 
+signs of fraud. The following are a few examples of the types of fraud schemes that 
+examiners can identify with IDEA’s data analyses applications.   
+ 
+EMPLOYEE FRAUD 
+• Identify employee accounts at financial institutions that have excess numbers of credit 
+memos.  
+• Identify employee accounts at financial institutions that have large deposits. 
+• Compare employee home addresses, Social Security numbers, telephone numbers, and 
+bank routing and account numbers to those of vendors from vendor master file. 
+• At financial institutions, compare employee Social Security numbers against those of 
+deposit and loan accounts to identify those not properly coded as employee accounts. 
+• Analyze all debits to income accounts, particularly debit memos. 
+• Monitor the activity in suspense accounts, including the age of suspense items and the 
+rolling of similar amounts. 
+• Analyze claims paid by corporate medical insurance providers. 
+• Obtain a Social Security number listing from an outside vendor to test for valid Social 
+Security numbers and determine whether the holder is alive or deceased. 
+ 
+QUESTIONABLE INVOICES 
+• Identify invoices without a valid purchase order. 
+• Look for invoices from vendors not in the approved-vendor file. 
+• Find invoices for more than one purchase order authorization. 
+• Identify multiple invoices with the same item description. 
+• Extract vendors with duplicate invoice numbers. 
+• Look for multiple invoices for the same amount on the same date. 
+• Find invoice payments issued on non-business days (Saturday and Sundays). 
+• Identify multiple invoices at or just under approval cut-off levels. 
+ 
+PHANTOM VENDOR SCHEMES 
+• Match names, addresses, phone numbers,  and Social Security numbers between 
+employee and vendor files. 
+• Check vendor addresses against mail drop address lists. 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.620   2011 Fraud Examiners Manual  
+KICKBACK OR CONFLICT OF INTEREST SCHEMES 
+• Look for vendor prices greater than the standard. 
+• Identify price increases greater than acceptable percentages. 
+• Check for continued purchases in spite of high rates of returns, rejects, or credits. 
+• Look for high volume purchases from one vendor. 
+ 
+DORMANT ACCOUNT SCHEMES 
+• Check that all applicable accounts have been flagged as dormant. 
+• Identify dormant accounts with activity. 
+• Check for transfers from dormant accounts to employee accounts. 
+• Check changes of addresses on dormant accounts. Cross-check new addresses with 
+employee addresses. 
+ 
+MONEY LAUNDERING SCHEMES 
+• Identify accounts with large average values of transactions. It is common for there to be 
+a small number of high-value transactions through an account being used for money 
+laundering. 
+• Identify matched debit and credit transactions on the same account within a short time 
+period.  
+• Search for large, rounded transaction values. 
+• Identify multiple accounts for particular individuals. 
+• Identify large cash deposits. 
+• Test customer identification procedures by searching for missing data fields, such as date 
+of birth, Social Security number, or driver’s license number. 
+• Cross check customer addresses against mail drop address lists. 
+ 
+For more information about IDEA, visit www.audimation.com. 
+ 
+Excel 
+Excel is a spreadsheet program by Microsoft that can be used for storing, organizing and 
+manipulating data. Many accountants, auditors, and fraud examiners use Excel for basic data 
+analysis tasks. For example, Excel allows users to sort, subtotal, filter, and merge data. They 
+can create calculated fields, as well as perform statistical analysis such as regression.  
+ 
+Excel, however, has many limitations that limit its usefulness for detecting fraud. These 
+limitations are discussed in the next section, which examines ActiveData for Excel. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.621 
+ActiveData for Excel 
+ActiveData for Microsoft Excel is an easy-to-use tool for advanced data manipulation and 
+analysis within the Excel environment. 
+ 
+ActiveData for Excel was designed to overcome Excel’s many limitations: 
+ 
+Excel Limitation ActiveData for Excel’s Compensation  
+Does not document the fraud 
+examiner’s work in easy-to-access 
+logs for reference and storage. 
+ActiveData for Excel provides a log of each 
+processed step (as a comment in cell A1 of the 
+worksheet created). Then, using the Index Sheets 
+function, a summary page of all comment fields 
+can easily be created for review, in essence 
+creating an audit log of all work performed with 
+the spreadsheet data. 
+Has difficulty performing data-
+ analysis and management tests such 
+as relating tables. Although it can be 
+accomplished, it is an onerous task. 
+ActiveData for Excel provides more than 100 
+data-analysis and management features that 
+automate functions, some of which may be 
+possible but extremely difficult in Excel. 
+Does not have functionality 
+specifically tailored to the fraud 
+examiner. For example, an examiner 
+can calculate a sample in just a couple 
+of clicks with minimal training using 
+specifically designed audit software. 
+In Excel, it can be done, but it does 
+take much effort and guidance. 
+ActiveData for Excel has more than 100 features 
+that are tailored to the auditor, accountant, and 
+fraud examiner. For example, you can use 
+ActiveData for Excel to find duplicate records in 
+a few clicks (rather than setting up complex 
+formulas in Excel). 
+ 
+The following are some examples of how ActiveData can be used for fraud detection. 
+ 
+Fraud Detection Techniques for Accounts Payable 
+VENDOR SUMMARY TOTALS PERIOD ONE TO PERIOD TWO COMPARISON 
+This is a basic analytical report to identify trends in a vendor’s purchase history. A trend 
+analysis should be completed to identify key vendors with whom activity has increased or 
+decreased substantially. This can best be assessed using the dollar and percentage variance 
+fields, which can be added as calculated fields in Excel. Based on the changes in the business 
+Data Analysis and Reporting Tools  Investigation 
+3.622   2011 Fraud Examiners Manual  
+environment and/or new company projects, a reasonableness assessment should be 
+performed on the vendor changes. 
+ 
+DESCRIPTIVE STATISTICS/BENFORD’S LAW ANALYSIS 
+Descriptive statistics provide maximum amount, minimum amount, average amount, and 
+other high-level statistics. These statistics should be reviewed for reasonableness; for 
+example, a high number of negative amounts or a maximum amount that looks too high 
+might not be reasonable. 
+ 
+After obtaining the descriptive statistics of a data set, the software provides a Benford’s Law 
+analysis of the first two digits of the data, as well as a list of all amounts from highest to 
+lowest frequency, for review.  
+ 
+To review, Benford’s Law distinguishes between natural and non-natural numbers. Natural 
+numbers  are those numbers that are not ordered in a particular numbering scheme and are not 
+generated from a random number system. For example, most accounts payable files will be 
+populated by dollar values that are natural numbers. Conversely, non-natural numbers  like 
+Social Security numbers and telephone numbers are designed systematically to convey 
+information that restricts the natural nature of the number. 
+ 
+Benford’s Law provides that the distribution of the initial digits in natural numbers is not 
+random; instead, it follows a predictable pattern. The table below shows the expected 
+occurrence for the distribution of the first digit in natural numbers, according to this law: 
+ 
+First Digit Probability
+ 1 30.1%
+ 2 17.6%
+ 3 12.5%
+ 4 9.7%
+ 5 7.9%
+ 6 6.7%
+ 7 5.8%
+ 8 5.1%
+ 9 4.6%
+ Total 100.0%
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.623 
+That is, Benford’s Law maintains that certain di gits show up more than others do. A “1” will 
+appear as the first non-zero digit roughly 30 percent of the time; “2” will be the leading digit 
+almost 18 percent of the time; “9” will lead o ff only 4.6 percent of the time. Moreover, zero 
+is most likely to be the second digit, appearing 12 percent of the time.  
+ 
+Benford’s Law makes it possible to detect fraudulent numbers in large data files by 
+comparing the frequency of the appearance of initial digits in a list of numbers to those 
+anticipated by Benford’s Law. For example, when embezzlers invent numbers, they tend to 
+fake data containing too many instances of initial digits of “7,” “8,” and “9” and too few 
+instances of “1,” “2,” and “3.” Thus, with Benford’s Law, examiners can tell if someone 
+fakes data that are derived from other data, and they can also identify errors within the data 
+that appear “out of place” given the data’s frequency of appearance. 
+ 
+The Benford’s Law analysis should be executed first so the most statistical outliers can be 
+reviewed.  
+ 
+Furthermore, as a follow up to these tests, examiners should use a Query Sheet to query 
+outlier activity for additional review. 
+ 
+ABOVE-AVERAGE PAYMENTS TO A VENDOR (MORE THAN TWO TIMES THE AVERAGE) 
+Unusually large payments to a vendor in relation to the average are a sign of error (e.g., a 
+key-punch error) or fraud (e.g., a kickback scheme in which the vendor is paid additional 
+amounts that are kicked-back to the employee entering the payment into the system). 
+ 
+For vendors with unusual payments above the average, a sample of the “average” payment 
+invoices, as well as the unusual payment invoices should be reviewed. The reasonableness of 
+the purchase should be assessed based on the documentation reviewed. The auditor should 
+be keenly aware of the potential for a key-punch error regarding the unusual payment 
+and/or the possibility of the vendor purposely overcharging the organization. 
+ 
+DUPLICATE PAYMENT TESTING  
+Duplicate payments to vendors normally represent errors that the computer system was 
+unable to detect. In most systems, a check will be made as to whether the vendor number, 
+invoice number, and amount are the same. This test could be run to ensure this basic control 
+is operational and also to test for other permutations of duplication. Any results from this 
+test should be reviewed first for trends. For example, rent payments that occur on a monthly 
+Data Analysis and Reporting Tools  Investigation 
+3.624   2011 Fraud Examiners Manual  
+basis may appear to be duplicate payments when, in fact, they are simply regularly occurring 
+payments. Note also that certain accounting packages allow the issuance of partial payments 
+(e.g., a payment to the same vendor with the same invoice number and amount). Therefore, 
+the auditor should determine whether the system allows such payments and, if so, omit them 
+prior to running this application. 
+ 
+Voided checks should also be reviewed; if a payment is made first on a regular check and 
+then on a voided one, only one payment was technically made. 
+ 
+EMPLOYEE-TO-VENDOR ADDRESS MATCH 
+This test identifies identical or similar fields between the master tables of vendors and 
+employees in an attempt to identify fraudulent payments to employees. While this test 
+explains how to complete this task for addresses, the same could be done for phone 
+numbers, tax identification numbers, and other personal information. 
+ 
+Once the results are produced, the auditor should  scan them to determine if there are any 
+valid address matches between the employee and vendor tables. As a next step, a Query 
+Sheet could be created of the actual invoices posted to any questionable vendor to determine 
+if they are fraudulent. Two notes when completing this review are: 
+• Because this exercise may detect fraud, it may be beneficial to locate the invoices or 
+vendor information independent of the accounts payable department (who may be 
+culpable for creating the false vendor account). 
+• Because it is common to pay employee travel and entertainment expenses or employee 
+advances, this should be the key reason to not consider the payments fraudulent. If 
+possible, the vendor file should be filtered for all employee travel and entertainment 
+vendor accounts prior to running this test. 
+ 
+IDENTIFYING PAYMENTS MADE AFTER PERIOD END FOR VALID LIABILITIES AT PERIOD END 
+This report works to identify unrecorded liabilities. A common scheme is for an  
+organization to “hold” an invoice by not enterin g it into the system. Then, after period end, 
+the invoice will be entered into the system, thereby evading the expense charge in the period 
+under review. 
+ 
+The invoices identified in this test should be reviewed for reasonableness and materiality. If 
+not material, further test work may not be considered necessary. If material, trends may be 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.625 
+identified in the types of invoices or the vendor. The final analysis should include pulling the 
+actual invoices to determine whether they are for services rendered or products received 
+before the period end. 
+ 
+IDENTIFY EXCEEDED PURCHASE ORDERS 
+This report works to identify authorization issues within an accounts payable process 
+whereby the invoices paid exceed the approved purchase order amounts. Aside from 
+assessing the authorized limits, this report tests the system control that should not allow an 
+invoice to be paid above a predetermined limit (normally between 5 and 10 percent). 
+The report may also highlight frauds: 
+• In which a valid purchase order is provided to authorize payment, yet inflated payments 
+are made to assist the fraudster in some way. 
+• In which vendors working with an employee create a purchase order with valid unit 
+prices, yet inflate those prices when the invoices are sent. 
+ 
+This test may highlight a control issue within the computer system (which should check for 
+exceeded purchase orders), or it may identify numerous overrides to the computer system. 
+These overrides may be within the normal course of business (e.g., purchase order prices 
+were meant to be at the invoice price rate, but were entered in error on the purchase order), 
+but may also highlight fraudulent activity. Regardless, the auditor should walk through the 
+process of entering a purchase order and associated invoices to understand the system 
+controls. Once understood, the differences presented in this test can be investigated by 
+vouching to purchase order and invoice documentation. 
+ 
+Fraud Detection Techniques for the General Ledger 
+STRATIFY GENERAL LEDGER DETAIL INFORMATION 
+Look at the multitude of activities in a gene ral ledger and ask yourself, “How can I survey 
+this data in an extremely quick manner while efficiently planning my audit?” This test should 
+provide the answer because it helps the auditor focus on large-dollar postings, while 
+assessing the administrative burden of maintaining low-dollar activity. 
+ 
+The stratification report should be reviewed for: 
+• Unreasonably large balances for which the activity could be queried for recalculation and 
+proper classification 
+• A high number of transactions with low accumulated activity for possible consolidation 
+• Planning detailed testing of the journal entry approval process 
+Data Analysis and Reporting Tools  Investigation 
+3.626   2011 Fraud Examiners Manual  
+JOURNAL ENTRY GAP TESTS 
+Gaps may signal incomplete data processing or, in the situation of journal entries, possible 
+hidden entries. Usually, a method of documenting these occurrences, along with a review by 
+an independent party, is sufficient to ensure the completeness and accuracy of processing. 
+However, it is rare that a journal entry gap test is performed in the accounting department (it 
+is more common in the accounts payable area related to the check sequence), so this may be 
+the first time this test is being performed. 
+ 
+Gaps in the journal entry sequence should be reviewed with the accounting department. The 
+test work should answer the following questions: 
+• What procedures are in place to document and approve all gaps in the sequences? 
+• How are gaps communicated to management? 
+ 
+IDENTIFY NONSTANDARD JOURNAL ENTRIES MADE IN A TIMEFRAME AFTER YEAR 
+END RELATED TO SPECIFIC ACCOUNTS 
+Nonstandard journal entries are generally those that are posted manually, rather than 
+through an automated feed from a fixed asset or accounts receivable sub-ledger. Such entries 
+are more prone to error and fraud mainly due to human error, the judgment applied to 
+support the entry, and the possibility of an override by management in authorizing the entry. 
+This is especially true for entries made just after year end (related to the prior year), as these 
+entries are more prone to be adjustments for the fiscal year’s annual reporting. 
+ 
+Given the above, the test for these entries should include: 
+• Reviewing the journal entry and associated supporting documentation 
+• Ensuring the approvals are appropriate for the size and nature of the journal entry 
+• Assessing whether generally accepted accounting principles (GAAP) are being applied 
+ 
+SUMMARIZE ACTIVITY BY USER ACCOUNT 
+This test looks for: 
+• Standard names such as “default” or “test.” These names usually have equally simple 
+passwords for a hacker to guess and should generally be avoided. Replacements to these 
+generic user IDs would be specific IDs associated with the person using the system (e.g., 
+“jsmith”). 
+• Unrecognized or terminated employees. This test focuses on the responsiveness within 
+the MIS function to ensure that only authorized employees have system access. Compare 
+the list created by this test to an active employee roster to spot any violations. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.627 
+• Users who have access beyond their level of responsibility. This access may highlight a 
+nonsegregation of duties in which a person has an opportunity to commit fraud by being 
+able to initiate, authorize, and/or record a transaction. 
+ 
+The resulting report should be reviewed bearing in mind the above considerations. 
+Recommended steps include: 
+• Delete default passwords and replace them with specific IDs 
+• Delete employees who are not on the active employee roster 
+• Review users who are posting high activity or who may have access to other non-
+ segregated functions and assess whether other controls are needed to mitigate the such 
+individuals’ access 
+ 
+Fraud Detection Techniques for Revenue 
+MISSING/UNUSUAL CUSTOMER  MASTERFILE INFORMATION/MATCH TO PRIOR YEAR 
+FOR CHANGES 
+This report will identify changes in the customer masterfile, such as additions and deletions. 
+Given that most systems do not track the changes in the customer masterfile (e.g., there is 
+no “Last Maintained on Date” field), this report is sometimes the only means of determining 
+changes in the customer master.  
+ 
+The fraud examiner should review major additions and/or deletions to the customer 
+masterfile. Given that there is a high potential for fraud on newly added customers (e.g., 
+posting false sales invoices to phony customer accounts to inflate period-end sales balances), 
+the names and addresses for such customers should be reviewed against employees with the 
+ability to enter invoices into the system. This can be done using the accounts payable test 
+described in this book that matched vendor addresses to employee addresses. Since this 
+exercise may detect fraud, it may be beneficial to locate the invoices or customer files 
+independent of the accounts receivable department (which may be culpable for creating the 
+false customer accounts). 
+ 
+CASH RECEIPT TO OPEN INVOICE MATCHING 
+This test helps assess the existence and valuation of open invoices at period end based on 
+the cash received subsequent to year end. Therefore, it is one of the most popular tests used 
+by fraud examiners in assessing the existence of period end invoices. 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.628   2011 Fraud Examiners Manual  
+Based on this test, the fraud examiner can easily assess whether open invoices were paid with 
+cash (and therefore existed at year end), and for those still outstanding, whether they should 
+be reviewed further from the perspective of year-end valuation. Such invoices probably 
+relate to customers who regularly pay late, but they could represent new customer payment 
+issues and/or fraudulent sales posted at year-end that will never receive cash. 
+ 
+AGE RECEIVABLES, EXTRACT OLDER BALANCES, AND SUMMARIZE BY CUSTOMER 
+This test mainly recalculates the aging of the invoices in the accounts receivable ledger for 
+review against the company-derived report. Any differences between this calculation and the 
+report used by management may be due to a system error, a poorly designed report, or fraud. 
+To orchestrate fraud, management may hide the true payment patterns of customers to 
+minimize their bad debt valuation reserve at year end. 
+ 
+The aging report should be reconciled to the organization’s accounts receivable aging report. 
+Any differences should be investigated. One approach is to extract a sampling of invoices 
+(see previous test on reviewing a sample of invoices) within a specific aging group and 
+reconcile to the aging report on an invoice by invoice basis. This work may identify report 
+errors or an attempt by the organization to hide the true aging of accounts receivable.  
+The focus of test work should be on more current aging categories that may be 
+inappropriately inflated. 
+ 
+Once the invoices are summarized by customer, the aging report also highlights customer 
+balances, older than a pre-defined “old” limit. This may be 180 or 270 days after which 
+payment of such invoices is unlikely. Large customer balances could be reviewed with 
+management as to their collectability and, possibly, with the actual customer. This analysis 
+would further support the year-end bad debt reserve calculation. 
+ 
+CALCULATE THE DIFFERENCE BETWEEN SHIP AND INVOICE DATES, AS WELL AS INVOICE DATES WITH NO SHIPMENTS 
+Untimely, erroneous, and/or fraudulent sales invoices may be detected if invoices are sent 
+without valid shipments. In this case, revenue is potentially being recorded prior to being 
+earned. Further research of these invoices should be done independent of the sales and 
+accounts receivable functions in order to ensure an independent analysis. 
+ 
+For more information about ActiveData for Excel, visit www.informationactive.com. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.629 
+AutoAudit 
+AutoAudit is a comprehensive, integrated audit automation system. In addition to the 
+workpapers and reporting functionality, AutoAudit has entity-level and process-level risk 
+assessment, staff scheduling, resource planning, issue tracking, time reporting, expense 
+reporting, quality assurance, department metrics, and an ad hoc reporting module. All of 
+these modules are integrated, and data automatically flows from one module into the next. 
+AutoAudit is designed to automate all of the primary processes that occur in an audit 
+department.  
+ 
+Although AutoAudit automates many parts of any type of audit, of particular interest to 
+fraud examiners are its risk assessment functions. AutoAudit offers an integrated risk 
+assessment module with the option of following a horizontal methodology (business process 
+risk assessment), a vertical methodology (audit universe made up of user-defined auditable 
+entities), or a combination of both methodologies. Specific risks and processes are identified 
+by the client, and the risk factors and weights can be customized to fit the specific needs of 
+the department and industry. Information about the inherent and residual risks helps 
+determine issues during the audit, and the information obtained during fieldwork can be 
+pushed back into the risk assessment to use as the starting point for the next cycle of 
+planning and auditing. 
+ 
+For more information, visit http://paisley.thomsonreuters.com. 
+ 
+SNAP! Reporter 
+Snap! Reporter is a data mining software program designed for use with Lotus Notes, 
+Microsoft Excel spreadsheets, and Access databases.  Its chief virtue is its ease of use. Most 
+software requires a familiarity with databases and data mining techniques, but anyone with 
+basic spreadsheet skills can produce reports and graphics with this product. In Snap!, data 
+retrieval and analysis are automated with one-button functions; some tasks are accomplished 
+by drag-and-drop.  
+ 
+Snap! produces Gantt Charts (i.e., graphical representations of projects) and counts 
+occurrences of key words rather than only charting actual numbers. The software also 
+creates stacked non-columnar reports and generates multiple Relationized Data Sets from 
+one originating record—functions not available in other products. Snap! is not as powerful 
+as some other data mining software, but it is easier to use. It is adequate to most tasks, 
+though some complex cases may need a stronger package. 
+Data Analysis and Reporting Tools  Investigation 
+3.630   2011 Fraud Examiners Manual  
+For more information, visit http://paisley.thomsonreuters.com. 
+ 
+DataWatch Corporation’s Monarch for Windows 
+Monarch is report-mining software. Monarch is unique because it extracts data from existing 
+reports created by other programs, and then converts the data into actionable data (e.g., text 
+files, spreadsheets, or database tables). For example, electronic data that is retrieved from an 
+accounting system, or downloaded from an online source, can be broken down into 
+individual records by Monarch’s model. Monarch can read report files produced on any 
+mainframe, midrange, client/server, or PC system. These files are commonly known as print 
+files, spool files, TXT files, formatted ASCII files, PRN files, and SDF files. Monarch can 
+also read DBF files and delimited ASCII files.  
+ 
+Once the data is actionable, it can be analyzed. That is, the records can be manipulated by 
+data analysis applications like Access and Excel. 
+ 
+Monarch specializes in reading complex reports in ASCII (plain text) format. Its data mining 
+capabilities are useful for data integrity testing. Monarch can be used by itself or in tandem 
+with other audit software such as ACL., but it will provide the most benefit when used in 
+conjunction with another data analysis tool. 
+ 
+Monarch serves three main functions for investigators: 
+• Performs automated auditing tests and tests of various program controls 
+• Verifies data on management or exter nal party report-generation accuracy 
+• Proactively identifies errors and fraudulent activity 
+ 
+Moreover, examiners can use Monarch to perform several functions in a financial analysis or  
+risk assessment: 
+• Summary window: To summarize information by a different criteria than the report did 
+• Sorting data within the Table window: To generate an alphabetically sorted list or to identify 
+the largest or smallest transactions 
+• Time series analysis : To compile information from 12 separate reports into a month-by-
+ month summary, allowing the investigator to identify trends 
+• Graphing data within the Summary window : To graph any information in the Summary 
+window into a pie, area, line, or bar chart quickly to visualize composition, trends, or 
+distribution (this chart function is much more straightforward than in spreadsheet 
+programs, such as MS Excel and Lotus 1-2-3) 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.631 
+• Create calculated fields: To perform custom calculations on ex isting data fields or new fields 
+not present in the original file 
+ 
+Here are a few practical examples of Monarch’s investigative capabilities. The software 
+allows investigators to: 
+• View the 20 largest vendors by invoice am ount to compare the amounts with their 
+expectations of those amounts 
+• Summarize by purchase order number to determine if the sum of all transactions related 
+to a purchase order exceed the amount authorized by the purchase order 
+• Measure transaction volume and amount processed by each input clerk to identify 
+unusual activity 
+• Compare budget versus actual figures by computing a difference field 
+• Chart customer delinquency trends for the past 12 months 
+ 
+For more information about Monarch, visit www.datawatch.com. 
+ 
+Arbutus Query 
+Arbutus Query is a comprehensive query tool with built-in data-analysis capabilities. With 
+Arbutus Query, users are able to query a wide range of data sources without having to know 
+the location or structure of the underlying data. Arbutus Query employs Arbutus Analyzer to 
+provide direct, read-only queries of data. Arbutus Analyzer uses a familiar spreadsheet 
+interface to browse, analyze, or report on the data. The software can handle unlimited file 
+sizes and has powerful data analysis and manipulation commands that support even the most 
+advanced tasks.  
+ 
+For more information on the Arbutus programs, visit www.arbutussoftware.com. 
+ 
+Oversight Systems 
+Oversight Systems offers software that helps businesses check for fraud, errors, and other 
+problems. Its software provides continuous monitoring and continuous auditing with 
+investigation, resolution, and tracking capabilities for continuous protection against fraud, 
+misuse, and errors in business transactions. Oversight’s products also identify errors and 
+control violations as they happen, so companies can address these issues when they are less 
+complex and less costly to correct. Oversight’s products include features that integrate 
+investigation, reconciliation, and documentation of data. For more information, visit 
+www.oversightsystems.com. 
+Data Analysis and Reporting Tools  Investigation 
+3.632   2011 Fraud Examiners Manual  
+Reporting and Case Management Software 
+There are a number of programs that can assist the fraud examiner in managing the data and 
+information gathered. These programs can also be used to create reports, graphs, and charts 
+of a particular case. Some of the most useful of these programs for fraud investigations are 
+discussed below. 
+ 
+i2’s Analysis Product Line 
+i2 offers a line of analytical tools that allow users to search, store, visualize and analyze data. 
+Some of those tools are discussed below.  
+ 
+Analyst’s Notebook 
+i2 Inc. offers a professional visualization and analysis tool called Analyst’s Notebook. 
+Analyst’s Notebook is a visual investigative analys is software program that brings clarity to 
+complex investigations and intelligence analysis. It enables investigators and analysts to turn 
+large volumes of disparate data into actionable intelligence. It creates charts and graphs to 
+allow users to:  
+• Visualize large volumes of investigative data to understand the big picture. 
+• Reveal patterns and hidden connections to help focus the investigation. 
+• Create analytical charts manually or automatically generate link and timeline charts from 
+structured data. 
+• Communicate complex cases with intuitive briefing charts that capture and organize 
+supporting data. 
+ 
+iBase 
+iBase is i2’s investigative database that is. It allows users to configure a data store, capture 
+data, and perform data analysis in a controlled environment.  
+ 
+Data Miner 
+Data Miner is a data mining application that can only be installed with Analyst’s 
+Workstation. It allows users to analyze large amounts of data and find any patterns that may 
+exist.  
+ 
+Analyst’s Workstation 
+Analyst’s Workstation is an integrated collection of analytical tools, including Analyst's 
+Notebook, iBase, and Data Miner. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.633 
+For more information on i2’s product line, visit www.i2inc.com. 
+ 
+CaseMap by CaseSoft 
+CaseMap is a case analysis tool that makes it easy to organize, evaluate, and explore the facts, 
+characters, and issues in a case. It is designed for use on all types of cases and by all types of 
+litigators and investigators. CaseMap software integrates with numerous other litigation-support 
+and electronic-discovery tools, including Adobe Acrobat, Applied Discovery, 
+Binder, Concordance, JFS Litigator’s Notebook, KPMG’s Discovery Radar, LiveNote, and 
+Sanction. 
+ 
+Spreadsheets 
+When a CaseMap file is created, the program auto matically sets up a series of spreadsheets 
+used to organize critical case knowledge. These spreadsheets can be used to organize 
+information about the facts, documents, characters, issues, and case law in every case.  
+ 
+ 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.634   2011 Fraud Examiners Manual  
+ 
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.635 
+FACTS SPREADSHEET 
+The facts spreadsheets include a case chronology in which the investigator can enter facts, 
+dates, times, and the source of each piece of information. Investigators can also distinguish 
+between disputed and undisputed facts and keep track of the status of each item. 
+ 
+ 
+ 
+OBJECTS SPREADSHEET 
+The objects spreadsheet allows investigators to organize the cast of characters—a list of the 
+individuals and organizations involved in the case, and it should also catalog key documents 
+and other important pieces of physical evidence.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.636   2011 Fraud Examiners Manual  
+ 
+ 
+ISSUE SPREADSHEET 
+The issue spreadsheet provides an outline of the issues, including both legal claims and 
+critical factual disputes. The outline can be any number of levels deep.  
+ 
+QUESTION SPREADSHEET 
+Because many questions occur during the early stages of an investigation, the question 
+spreadsheet allows users to filter and sort their open items using various criteria.  
+ 
+RESEARCH SPREADSHEETS 
+CaseMap has three research spreadsheets: Authorities, Extracts from Authorities and a 
+combination of Authorities and Extracts. The research spreadsheets will organize and 
+explore the user’s knowledge about the precedents and statutes relevant to their case, and it 
+include links to actual case law using the authorities and extracts. The authorities spreadsheet 
+can be used to manage top-level information about precedents, statutes, and other types of 
+case research. The extracts spreadsheet can be used to capture details about particular 
+sections of interest excerpted from important case law and statutes.  
+ 
+Linking 
+CaseMap also provides the ability to link pieces  of data in one spreadsheet with the source 
+data or other relevant data in another sheet. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.637 
+ 
+ 
+Filtering 
+Once information is organized, CaseMap users can explore it. The most powerful case-exploration 
+tool in CaseMap is the filtering function. A filter operation limits the rows that 
+appear in a spreadsheet and on your printed report to those that meet criteria you specify.  
+ 
+ 
+ 
+For more information, visit www.casesoft.com. 
+Data Analysis and Reporting Tools  Investigation 
+3.638   2011 Fraud Examiners Manual  
+Actimize Enterprise Risk Case Manager 
+Actimize Enterprise Risk Case Manager is case managements software that empowers 
+companies to address enterprise-wide risk and compliance management. It is designed to 
+help companies detect and react to fraud attacks more efficiently by consolidating all fraud 
+and compliance issues into a central location. According to Actimize, the Risk Case Manager 
+supports risk operations with workflow management, evidence collection, and 
+documentation, and as a result, it allows users to: 
+• Improve risk and compliance operations 
+• Detect more issues; reduce risk, losses, and fines 
+• Enable efficient and collaborative investigations 
+• Reduce IT and operational costs 
+ 
+Xanalys Suite 
+Xanalys offers a suite of case management software applications to help users collect, 
+manage, analyze, and share investigative intelligence. It offers three products: PowerCase, 
+Link Explorer, and Indexer.  
+ 
+PowerCase 
+PowerCase provides an end-to-end platform for conducting large-scale investigations. It 
+manages all aspects of an investigation team’s activities through the entire investigative 
+process by providing the following functionality: 
+• Provides centralized data storage 
+• Establishes a document workflow to ensure that all evidence is examined a reviewed 
+• Checks new case information against existing data for commonalities and associations 
+• Assigns and tracks lines of investigation  
+• Provides a range of search features 
+• Allows users to visualize case data 
+• Generates a complete audit trail of all user activity within the system 
+ 
+Link Explorer 
+Link Explorer allows users to construct database queries in natural, everyday language and 
+displays the results in graphic form. Simply ask a question by dragging and dropping icons 
+onto a query screen. Xanalys Link Explorer then  generates easy-to-read interactive charts 
+that map how people, events, telephone calls, e-mail messages, and other case details are 
+linked. As new information arrives, the displays are instantly updated. Information can be 
+viewed in a variety of ways. In addition to powerful link analysis charts, Link Explorer can 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.639 
+display results in numerous other formats, including a report, a timeline with events 
+organized in a chronological order, or a hierarchy chart showing relationships among people. 
+Link Explorer offers several methods to import,  enter, merge, or modify data, as well as to 
+create new objects and links. These include a text importer, flexible data importer, data entry 
+forms, QuickChart toolbox, and object cards.  
+ 
+ 
+ 
+Indexer 
+Indexer is a text extraction program that clearly and automatically reveals critical connections 
+between information stored in a database. Indexer automatically extracts relevant 
+information from unstructured text using entities (such as a person, company, or an event), 
+attributes (such as occupation, sex, or company title), and relationships (such as located at, 
+works for, and involved in event). Xanalys provides various ways to ensure that the 
+information represented in the Index Plan is useful. These include loading them into a 
+database for analysis by Link Explorer or other reporting or analysis tools, in addition to 
+embedding the technology into third-party applications. With the key entities and 
+relationships contained in a structured environment, it is now possible to access and query 
+this information. Once a number of documents have been processed, a list of all the people 
+mentioned in the documents or a list of companies, vehicles, or phone numbers associated 
+with those listed people could be obtained. As new documents arrive, these can be 
+incorporated and augment the existing results. The full power of Indexer capabilities can be 
+embedded into a company’s own products and technologies. On the Windows platform, it 
+Data Analysis and Reporting Tools  Investigation 
+3.640   2011 Fraud Examiners Manual  
+includes a COM interface to direct the information extraction output into any required form, 
+such as input to some other process or to a database. 
+ 
+For more information on Link Explorer or Indexer, visit www.xanalys.com.  
+ 
+Enterprise Investigation Management 
+Norkom Technologies’s Enterprise Investigation Management software is case management 
+software for anti-money laundering and fraud investigations. It links information from 
+multiple insider sources like foreign travel reporting databases and debriefings, employee 
+security background information, network logs, and cyber activity logs to compose a picture 
+of potential insider security threats. This composite approach puts otherwise disconnected 
+pieces of information in context to help prevent sensitive information and capabilities from 
+being compromised. For more information on Enterprise Investigation Management visit 
+www.norkom.com. 
+ 
+Multi-Channel Fraud 
+Norkom Technology’s multi-channel fraud management solution provides an end-to-end 
+fraud solution — from advanced detection to investigation, response, and recovery — and is 
+built on Norkom’s unique, configurable financial crime and compliance platform, which 
+enables users to customize the technology as their needs change and new fraud techniques 
+emerge. Norkom’s sophisticated detection analytics are optimized to detect a wide range of 
+fraud, including plastic fraud, applications fraud, check fraud, deposit fraud, sleeper fraud, 
+electronic banking fraud, phishing, internal fraud, insurance fraud, account takeover, and 
+identity theft. The solution provides fraud detection by uniting the analytical power of 
+specialized techniques, including pre-defined fraud detection scenarios, in-depth behavioral 
+and peer group profiling, unusualness analytics, predictive modeling, and network analytics. 
+For more information on Multi-Channel Fraud visit www.norkom.com. 
+ 
+i-Sight Case Management Software 
+i-Sight Case Management Software is a type of case management software for investigations, 
+complaints, corrective and preventive action management, and other business processes that 
+require case management. It allows users to record investigation notes, create and assign 
+tasks with due dates and reminders, send e-mails from within a case record, use template 
+letters, record investigative findings, record investigative resolutions, create follow-up tasks, 
+track time and costs, effectuate corrective actions, keep an audit trail, and attach documents.  
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.641 
+EthicsPoint Issue and Event Manager 
+EthicsPoint provides hotline and anti-fraud reporting and case management services. Its 
+Issue and Event Manager helps businesses ma nage reported issues (e.g., HR management 
+issues, work-related injuries, security investigations, conflict of interest, competitor 
+misconduct, any code of conduct violation, etc.). EthicsPoint’s offers web report forms to 
+help streamline issues documentation, providing management with a reporting mechanism 
+that automatically integrates an entity’s re ported data within a centralized database.  
+ 
+ 
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.701 
+
+
+
+:
+
+
+data analysi and report tool
+in todai world comput ar an integr part of fraud examin whether us the
+internet in an investig or to analyz data it is essenti that the fraud examin have
+access to a comput and it applic comput contain volum of datafinanci
+data market data custom data correspond and more and evid of fraud could
+be locat within that data unfortun fraudul data often look like legitim data
+when view in the raw take a sampl and test it mai not uncov fraudul activ
+fortun for fraud examin softwar compani have develop comput program
+that enabl user to sift through mound of inform these program identifi current
+custom potenti custom and futur trend within their respect industri and can
+be configur to identifi break in audit control program and anomali in account
+record
+in gener these softwar program perform two primari function that fraud examin us
+to explor and analyz larg amount of data data mine and data analyt data mine is
+the scienc of extract inform from larg data set or databas data analysi refer to
+ani statist process us to analyz data and if properli us these process can provid
+the ultim system of red flag detect a fraudul situat long befor previous
+possibl
+data mine
+data mine ha root in statist machin learn data manag and databas
+pattern recognit and artifici intellig all of these ar concern with certain aspect
+of data analysi so thei have much in common yet thei each have a distinct and individu
+flavor emphas particular problem and type of solut
+data mine ha great potenti to help organ shift their energi and focu to the
+most import inform in their databas data mine tool comb databas for
+obscur pattern find predict inform that even expert mai not recogn
+us data mine technolog compani can evalu a plethora of inform spot
+pattern in their market and busi procedur
+data analysi and report tool investig
+3602 2011 fraud examin manual
+although data mine technolog provid kei advantag to market and busi
+activ thei can also manipul financi data that wa previous hidden within a
+compani databas enabl fraud examin to detect potenti fraud
+previous the datamin process requir a comput programm to overse the
+process howev thi is no longer necessari the current method us a comput and
+comput softwar to assist in the datamin process data mine softwar provid an
+easi to us computer process that give the fraud examin the abil to get to data at a
+requir level of detail
+data mine combin sever differ techniqu essenti to detect fraud includ the
+streamlin of raw data into understand pattern
+data mine can also help prevent fraud befor it happen for exampl spss busi
+intellig a consult group for busi in electron commerc report that some of
+their custom us data mine tool and applic to develop antifraud model that
+score transact in realtim the score is custom for each busi involv
+factor such as local of the order frequenc of the order payment histori and other
+factor onc a transact is assign a highrisk score the merchant can decid whether to
+accept the transact deni it or investig further
+data mine is an effect wai for fraud examin to develop fraud target for further
+investig it can mine databas for variou fraud indic such as 1 specif type of
+transact 2 pattern within the data or 3 a relationship between two data field that
+should not have a relationship eg the same address or telephon number for compani
+with differ name target ar then examin to develop an investig strategi
+involv site visit and facetofac interview data mine can also be refin base on
+interview of target
+on of the most sophist us of data mine is known as comput match also call
+data match in australia and canada thi approach involv the comparison of two
+discreet data set to identifi question overlap
+but befor appli data mine process it is import to identifi the sourc from which
+the data will be collect data mai be store in ani of the follow locat
+mainfram softwar
+investig data analysi and report tool
+2011 fraud examin manual 3603
+laptop instal softwar
+secur system softwar
+hand held devic issu by the compani employe eg smart phone thumb drive
+inventori scan equip etc
+compani vehicl gp system
+telephon system
+time card system
+kei card access
+often compani us data warehous to manag data for analysi data warehous ar
+repositori of a compani electron data design to facilit report and analysi by
+store data in a data warehous data user can queri and analyz relev data store in a
+singl locat thu a compani with a data warehous can perform variou type of
+analyt oper eg identifi red flag transact trend pattern or anomali to
+assist manag with it decisionmak respons
+although thi section focus on electron data examin should also identifi manual
+gener data such as
+visitor checkin log
+appoint log or individu calendar
+custom receipt for cash payment
+return merchandis slip
+ani manual maintain list
+after the examin ha identifi the data sourc he should identifi how the inform is
+store thi mean review the databas schema and technic document which
+should allow the investig to determin how inform is store on must be readi to
+face a number of pitfal when attempt to identifi how inform is store from weak
+or nonexist document to limit collabor from the it depart
+moreov onc collect it is critic to ensur that the data is complet and appropri for
+the analysi to be perform depend on how the data wa collect and process it
+could requir some scrub to make it usabl for analysi purpos it mai be necessari to
+modifi certain field format eg date time currenc etc to make the inform usabl
+data analysi and report tool investig
+3604 2011 fraud examin manual
+data analysi
+onc data ha been extract us data mine techniqu it must be analyz while data
+analysi is us mainli as an audit techniqu it can be an import part of the fraud
+detect toolkit although it cannot be us as evid that a fraud wa commit or that
+a specif individu wa involv it can serv to identifi red flag associ with a wide
+varieti of fraud it will therebi provid investig with a trail to follow
+us data analysi softwar
+advantag of us data analysi softwar
+there ar five signific advantag to us data analysi softwar first data analysi
+softwar allow the fraud examin to central an investig reli less on other to
+gather pertin inform becaus of the amount of inform data mine softwar is
+abl to sort through the examin no longer ha to reli on differ sourc for inform
+in the past when analyz a compani book for possibl discrep the examin
+would have to ask for the assist of sever person within the account depart to
+locat the pertin inform now howev the data analysi program will do all the
+leg work ensur an abovetheboard investig without mani variabl
+second data analysi softwar allow the fraud examin to ensur that an investig is
+accur and complet in the past an audit or fraud examin could onli be complet to
+the extent that the investig wa abl to sift through inform when look at on
+month worth of a compani transact a fraud examin might be forc to research
+more than on million transact given the amount of time an auditor gener ha to
+conduct a singl examin the depth of a manual audit can be suspect at best by us a
+data analysi program the fraud examin can run sever differ analysi pattern in a
+matter of hour enabl him to look at greater volum of inform from a number of
+differ angl these procedur lead to a more comprehens examin
+third data analysi allow the fraud examin to base predict about the probabl of a
+fraudul situat on reliabl statist inform by util data mine softwar the
+fraud examin can base ani strong suspicion of fraudul activ on hard number
+becaus the softwar will compar on month expenditur with the same data for the rest
+of the month of the year the fraud examin can point conclus to troubl area with
+investig data analysi and report tool
+2011 fraud examin manual 3605
+hard data to support a fraud examin suspicion a compani is more like to conduct
+further investig into the wrongdo
+fourth data analysi allow the fraud examin to search entir data file for red flag of
+possibl fraud the number of checkpoint a fraud examin can set up us a data analysi
+program is stagger by cut down on the paperwork involv in an investig the
+fraud examin is abl to execut a number of differ search and analys of the
+compani raw data
+final data analysi can assist the fraud examin in develop refer file for ongo
+fraud detect and investig work by perform audit and examin with data
+analysi softwar the fraud examin will begin to recogn trend and set up a list of
+preced for individu account situat such as a monthli statement reconcili
+in do so the fraud examin can establish a norm with which to compar individu
+month or year these preced can also be us by the fraud examin in gener term
+and the knowledg can be appli to nearli ani fraud investig
+core data analysi softwar function
+comput can scan databas inform for sever specif type of inform creat
+a redflag system to perform thi most softwar packag us a combin of differ
+function these function ar
+sort
+record select
+join file
+multifil process
+correl analysi
+verifi multipl of a number
+complianc verif
+duplic search
+vertic ratio analysi
+horizont ratio analysi
+date function
+graph
+data analysi and report tool investig
+3606 2011 fraud examin manual
+sort
+to sort mean to arrang data in a meaning order sort is noth new most report
+you read ar sort in some wai with sort data you can quickli pick out what is
+import an investig can ask a program to sort inform us differ method
+such as alphabet or numer for instanc when search for a suspect
+fraudster name out of thousand in a check disburs file the softwar can quickli sort
+a list of paye name
+sampl custom sale data
+date invoic custom amount
+5410 m3158001 j789889 1250000
+7510 m5958256 q189425 1458000
+8910 m8897158 t681897 3888900
+72509 m1569897 t888971 8756956
+122010 m3158001 p123089 1250000
+1810 m2098159 w555258 5634723
+data sort by invoic number
+date invoic custom amount
+72509 m1569897 t888971 8756956
+1810 m2098159 w555258 5634723
+5410 m3158001 j789889 1250000
+122010 m3158001 p123089 1250000
+7510 m5958256 q189425 1458000
+8910 m8897158 t681897 3888900
+data sort by amount
+date invoic custom amount
+5410 m3158001 j789889 1250000
+122010 m3158001 p123089 1250000
+7510 m5958256 q189425 1458000
+8910 m8897158 t681897 3888900
+1810 m2098159 w555258 5634723
+72509 m1569897 t8 88971 8756956
+investig data analysi and report tool
+2011 fraud examin manual 3607
+record select
+specif record select is accomplish by a request or queri of the comput to find the
+occurr of item or record in a field thi type of request will onli return instanc
+where the record did occur effect reduc larg amount of inform into concis
+list often addit criteria place on the record select or queri will reveal a more
+pertin list of inform most data analysi program includ simpl find macro to
+help locat specif record
+join file
+the join function gather togeth the specifi part of differ data file join file
+combin field from two sort input file into a third file join is us to match data in a
+transact file with record in a master file such as match invoic data in an account
+receiv file to a master cluster for exampl you mai need to compar two differ file
+to find differ record between file the follow is an exampl of how join two file
+can easili provid that inform
+file 1
+custom account balanc last invoic
+jerri cleaner 555221 12500 123010
+qualiti garment 555658 9283 111510
+beverli tailor 554891 27588 011510
+file 2
+custom account balanc last invoic
+qualiti garment 555658 9283 111510
+mccloud fabric 556897 10888 092410
+beverli tailor 554891 27588 011510
+the join except file
+custom account balanc last invoic
+mccloud fabric 556897 10888 092409
+jerri cleaner 555221 12500 123009
+multifil process
+multifil process allow the user to relat sever file by defin relationship between
+multipl file without the us of the join command a common data relationship would be
+to relat an outstand invoic master file to an account receiv file base on the
+custom number the relationship can be further extend to includ an invoic detail file
+base on invoic number thi relationship will allow you to see which custom have
+outstand invoic sort by date
+data analysi and report tool investig
+3608 2011 fraud examin manual
+correl analysi
+us thi function investig can determin the relationship between differ variabl
+in the raw data investig can learn a lot about comput data file by learn the
+relationship between two variabl for exampl we should expect a strong correl
+between these independ and depend variabl becaus a direct relationship exist
+between the two variabl hotel cost should increas as the number of dai travel
+increas the gallon of paint us should increas as the number of hous built increas
+you can probabl us mani more of such relationship
+independ variabl depend variabl
+number of dai travel hotel cost
+number of document print ream of paper us
+number of hous built paint us
+verifi multipl of a number
+with thi function an auditor can determin whether regularli disburs check such as
+reimburs for mileag ar consist within the regular rate for instanc if the mileag
+check do not measur up to the 30centspermil rate a red flag should automat be
+rais
+complianc verif
+thi function determin whether compani polici ar met by employe transact if a
+compani limit the amount of it reimburs the softwar can check to see that thi
+limit is be observ mani time fraud exam iner can find earli indic of fraud by
+test detail data for valu abov or below specifi amount for exampl when
+employe ar out of town do thei adher to the compani polici of not spend more
+than 30 a dai for meal for starter we can look at the expens report and select those
+with meal expens exceed 30 with the in format return from thi simpl queri we
+have a start point for suspect fraud even though these varianc ar small 2 and 3
+the time taken to research small varianc can be well invest the trail might lead to
+someth big after further investig you might learn that the employe did not have
+support document to submit becaus a vendor sale repres paid for all the
+meal if thi is the case you have two fraud suspect the employe and the employe boss
+who approv the report
+investig data analysi and report tool
+2011 fraud examin manual 3609
+duplic search
+fraud examin and auditor can perform search on invoic disburs numer to
+see if ani invoic have been paid twice by crosscheck the invoic with the vendor
+paid duplic bill can be easi to catch
+vertic ratio analysi
+vertic analysi is a techniqu for analyz the relationship between the item on an
+incom statement balanc sheet or statement of cash flow by express compon as
+percentag in the vertic analysi of an incom statement net sale is assign 100 percent
+on a balanc sheet total asset or total liabil and equiti is assign 100 percent all other
+item ar express as a percentag of these two number
+by perform thi function you can determin whether paid expenditur over a period ar
+reason amount if on area of compani expens seem abnorm larg for a short
+amount of time a red flag should immedi be rais
+horizont ratio analysi
+horizont analysi is a techniqu for analyz the percentag chang in individu financi
+statement item from on year to the next the first year in the analysi is consid the
+base year and the chang to subsequ year ar comput as a percentag of the base
+year
+thi function determin the trend of a compani expens inventori and so on
+discrep in a compani net profit or a larg shift in amount of inventori would
+suggest that someth is not right within the compani
+data analysi and report tool investig
+3610 2011 fraud examin manual
+date function
+variou softwar program allow you to check for differ in date such as invoic date
+by verifi that check disburs ar consist you can ensur that no suspici
+payment were arrang by an employe analysi program will also allow for ag of data
+the follow is an exampl of account receiv ag
+balanc sheet vertic analysi horizont analysi
+year on year two chang c hang
+asset
+current asset
+cash 4500 0 14 1 50 0 0 4 300 0 0 67
+acct receiv 1500 0 0 45 2 0 00 0 0 47 5 00 0 0 33
+inventori 7500 0 23 1 5 00 0 0 35 7 50 0 0 10 0
+fi xed asset net 6000 0 18 6 00 0 0 14 0
+total 33 00 0 0 10 0 4 2 50 0 0 100 9 50 0 0 29
+acct payabl 9500 0 29 2 1 50 0 0 51 1 2 00 0 0 12 6
+longterm debt 6000 0 18 6 00 0 0 14 0
+stockhold equiti
+common stock 2500 0 8 2 50 0 0 6 0
+paidin capit 750 0 0 23 7 50 0 0 18 0
+retain earn 7500 0 23 5 00 0 0 12 250 0 0 33
+total 33 00 0 0 10 0 4 2 50 0 0 100 9 50 0 0 29
+incom statement vertic analysi horizont analysi
+year on year two chang chang
+net sale 2500 0 0 10 0 4 5 00 0 0 100 2 0 00 0 0 80
+cost of good sold 1250 0 0 50 3 0 00 0 0 67 1 7 50 0 0 14 0
+gross margin 1250 0 0 50 1 5 00 0 0 33 2 50 0 0 20
+oper expens
+sell expens 5000 0 20 7 50 0 0 17 2 50 0 0 50
+administr expens 6000 0 24 1 0 00 0 0 22 4 00 0 0 67
+net incom 1500 0 6 250 0 0 6 400 0 0 26 7
+investig data analysi and report tool
+2011 fraud examin manual 3611
+graph
+graph like pictur ar worth a thousand word data analysi program can provid
+numer type of graph to give fraud examin a quick glimps of the data for exampl
+an inquiri should be made as to why novemb expens ar 10000 more than the
+monthli norm
+gener and administr expens 2010
+in thousand
+0
+5
+10
+15
+20
+25
+30
+35
+jan feb mar apr mai jun jul aug sep oct nov dec
+exampl of data analysi queri
+the follow ar typic exampl of data analysi queri that can be perform by data
+analysi softwar
+gener ledger analysi
+select specif journal entri for analysi
+creat actual to budget comparison report
+analyz and confirm specif ledger account for legitim transact activ
+speed account reconcili through special account queri
+calcul financi ratio
+calcul percentag comparison ratio between account
+prepar custom report cash flow profitloss and asset and liabil total report
+compar summari by major account in ani order lowhigh highlow
+creat report in ani format by account divis depart etc
+data analysi and report tool investig
+3612 2011 fraud examin manual
+account receiv
+creat a list of custom limit increas and decreas
+ag account receiv in variou format
+identifi gap in sequenti form such as invoic
+identifi duplic invoic or custom account number
+show specifi report on credit taken by custom
+report custom summari by invoic product etc
+identifi custom activ by ag product etc
+compar custom credit limit and current or past balanc
+sale analysi
+creat a report of all system overrid and sale except
+analyz return and allow by store depart or other area
+summar trend by custom type product salesperson etc
+compar ratio of current sale to outstand receiv or other variabl
+gener report on a correl between product demand or suppli and sale price
+account payabl
+audit paid invoic for manual comparison with actual invoic
+summar larg invoic by amount vendor etc
+identifi debit to expens account outsid of set default account
+reconcil check regist to disburs by vendor invoic
+verifi vendor 1099 requir
+creat vendor detail and summari analysi report
+review recur monthli expens and compar to postedpaid invoic
+gener a report on specifi voucher for manual audit or investig
+asset manag
+gener depreci to cost report
+compar book and tax depreci and indic varianc
+sort asset valu by asset type or dollar amount
+select sampl for asset exist verif
+recalcul expens and reserv amount us replac cost
+investig data analysi and report tool
+2011 fraud examin manual 3613
+cash disburs
+summar cash disburs by account bank depart vendor etc
+verifi audit trail for all disburs by purchas order vendor depart etc
+gener vendor cash activ summari for analysi
+identifi disburs by depart supervisor approv or amount limit
+payrol
+summar payrol activ by specif criteria for review
+identifi chang to payrol or employe file
+compar timecard and payrol rate for possibl discrep
+prepar check amount report for amount over a certain limit
+check proper supervisori author on payrol disburs
+purchas
+track schedul receipt date versu actual receipt date in summari and detail
+compar vendor perform by summar item deliveri time and amount
+isol purchas order type for analysi
+analyz late shipment
+data analysi checklist
+the follow ar some kei issu to address as on conduct a data analysi
+ensur data valid and data integr there is alwai a concern when the examin
+move data from on venu to anoth on of the concern is data valid is the data
+valid and pertin to the investig the second concern is integr is the valid data
+that wa select correct a simpl check or au dit of the valid and integr of the data
+should be the first step in the data analysi
+consid data format and structur thi consider is import when the examin
+wish to import or export data with hi comput a date can be format into a
+number of differ style such as mmddyyyi the structur of the data will also be
+import along with the extens a text file will have a txt extens associ with
+it what format is the current data in what format will the comput requir how doe
+the examin get the data from here to there if the data format and structur ar
+differ
+count the zero the examin should perform a preliminari analysi to ensur that the
+kei strateg issu he is about to develop is worth the effort befor initi hi fraud
+investig
+data analysi and report tool investig
+3614 2011 fraud examin manual
+consid the spectrum of distinct level of aggreg at which fraud monitor is
+requir determin the lowest level transact level the highest level multiparti
+crimin conspiraci and the interven layer that mai be present in your industri
+and respect data
+begin with the end in mind in hi book the seven habit of highli effect peopl stephen
+covei state that begin with the end in mind is good habit when you develop your
+fraud intellig action plan be certain to consid the end result on question to ask
+mai be will thi algorithmconsult hold up under the intens scrutini of a court of
+law
+evalu data analysi softwar
+in short there ar no silver bullet but ani data analysi softwar should possess the
+follow minimum requir
+data importexport capabl consid your data format and structur how easili
+is data importedexport
+data visual how easi is it to move your data from a spreadsheet into a graphic
+for analysi and interpret
+look for a suit of tool just as there is not on screwdriv for everi job there is not
+onli on softwar program for the examin fraud intellig effort therefor he
+should choos the most appropri set of tool accord to hi data and then select the
+softwar that best fit hi current and futur need
+develop a twoprong effort of us the comput to acquir fraud intellig us
+commerci softwar current on the market and begin collabor activ with the
+academ at your local univers there ar numer softwar packag in variou
+stage of develop in academia that ar in need of data to be test thi can prove
+to be a winwin for both parti the examin ha the data and the academ have the
+prototyp softwar
+evalu data mine softwar
+becaus no singl softwar tool can satisfi all user purpos examin must consid the
+applic with respect to their particular need ken collier an expert in data
+wareh busi intellig softwar engin and agil method and hi
+colleagu establish a framework for evalu data mining3 the framework divid the
+criteria into the follow four area
+3 collier k carei b sautter d and marjaniemi c a methodolog for evalu and select data mine
+softwar proceed of the 32nd hawaii intern confer on system scienc 1999 ieee
+investig data analysi and report tool
+2011 fraud examin manual 3615
+perform perform refer to the abil to handl a varieti of data sourc
+function function refer to the varieti of capabl technic method and
+methodolog for data mine includ in the program
+usabl usabl refer to the conform of differ level and type of user
+without lose us or function
+support of ancillari activ ancillari task support permit the user to perform the varieti
+of task that support data mine
+evalu data mine consult
+if howev an entiti intend to us a data mine consult the follow qualiti should
+be assess
+innov how doe the individu stai current look for profession associ
+public and train in your area of investig
+creativ can the individu work in a creativ environ such as fraud intellig
+can the individu work unsupervis and be expect to produc result sinc fraud is
+a move target how ha a past client platfo rm alter from the origin investig
+whyhow did that occur what were the result
+experi doe the individu have experi in the type of investig you ar
+plan doe the individu have experi enc in the type of softwaretool you ar
+plan to us doe the individu have experi in the type of data you have
+the embodi of thi expertis might take on two three or more peopl you realli
+need peopl who understand what it is thei ar look forand what thei can do with it
+onc thei find it
+type of data mine and analysi softwar
+there ar mani type of data mine and data analysi softwar on the market these dai
+and everi year new product and new version of old product emerg becaus everi fraud
+examin involv data analysi is differ it would be imposs to recommend on
+softwar product to serv everi purpos choos a data analysi tool is someth that the
+fraud examin must evalu on each individu case a fraud examin should research
+applic intens to decid which packag is most appropri for the current
+investig
+data analysi and report tool investig
+3616 2011 fraud examin manual
+data mine and knowledg discoveri softwar ar gener classifi into the follow
+categori
+public domainsharewarefreewar thi type of softwar is avail free or for a
+nomin charg through websit ftp site and newsgroup mani sharewar program
+such as wink sda allow user a trial period after which thei must pai a fee to
+reactiv the softwar freewar howev is avail at no cost or for an option fee
+these type of program can be locat through internet search engin and through
+softwar download servic such as zdnet
+beta softwar beta softwar is prereleas softwar that is still in test mode gener
+thi type of softwar is free and user ar ask to review the softwar perform
+report malfunct and so on
+commerci applic commerci applic ar gener releas product that
+usual come with technic support and warranti the most promin commerci
+applic which ar discuss below includ
+acl
+idea
+excel
+activedata for excel
+autoaudit
+snap report
+datawatch corpor monarch for window
+arbutu queri
+oversight system
+acl
+acl is a gener audit softwar program it is on of the prefer softwar tool of
+audit and financi profession for data extract data analysi fraud detect and
+continu monitor acl provid a combinat ion of data access analysi and integr
+report it read and compar enterpris dataflat or relat databas spreadsheet
+or report file on pc or server allow the sourc data to remain intact acl emploi a
+singl consist client interfac and provid easi immedi access to data
+command ar alreadi preprogram for data analysi autom your analysi through
+continu monitor and realtim notif
+investig data analysi and report tool
+2011 fraud examin manual 3617
+with acl you can
+analyz data independ from your it depart with a user interfac pulldown
+menu toolbar and pointandclick command
+analyz transact data in file of ani size to ensur 100percent coverag and
+confid in your result
+produc report
+identifi trend pinpoint except and highlight potenti area of concern
+locat error and potenti fraud by compar and analyz file accord to end
+user criteria
+identifi control issu and ensur complianc with standard
+for more inform visit wwwaclcom
+idea
+like acl idea interact data extract and analysi is a gener audit softwar
+program more specif it is a pcbase file interrog packag that allow
+account auditor and financi manag to view sampl and analyz data from ani
+other computer system thi softwar provid some function previous onli
+avail to electron data process edp auditor and system specialist idea let the
+user make inquiri of data file perform random unit sampl and calcul total and
+averag the softwar will perform specif criteria search unusu item queri and
+identifi gap or duplic in sequenc addition to differenti normal audit pattern
+from suspect on examin can us idea to perform data analysi us benford law
+addition idea includ a number of tool to prevent and detect fraud includ
+person vet tool the power to author transact independ and the abil to
+observ employe thi softwar consid purchas payrol and bank the most
+common place for the occurr of fraud
+gener function
+idea gener function ar discuss below
+file file manag and file manipul
+idea file manag and manipul applic allow the user to importexport file
+from almost ani format includ xml and specif account packag us an easi
+industrystandard file manag program gener a singl databas from sever other
+data analysi and report tool investig
+3618 2011 fraud examin manual
+databas us a comparedatabas option to identifi differ in a numer field within
+two file for a common kei combin field from two databas into a singl databas to test
+for data match across file and us the appenddatabas option concaten two or more
+file into a singl databas for audit test
+data applic
+with idea data applic user can exercis extract or except test to identifi
+item that satisfi a specif characterist the equat editor allow you to creat simpl or
+veri complex extract and the function ar us to perform more complex
+calcul and except test the search function can seek text or numer valu
+across select field in multipl databas us standard or advanc search techniqu
+idea duplic can identifi item within a databas in which up to eight field of
+inform ar the same user can also search for gap in numer sequenc or
+alphanumer sequenc with a userdefin mask the chart data option allow data file
+to be graph or test result exhibit in bar stack bar pie plot or area chart data
+action field allow user to set up relationship across multipl file
+sampl
+idea offer five sampl method with the abil to calcul sampl size base on
+paramet enter and evalu the result of sampl test the sampl method
+avail ar systemat random stratifi random monetari unit and classic variabl
+sampl
+analysi
+idea analysi applic allow user to appli benford law stratif
+summar ag and pivot tabl to raw data
+product
+with the product applic there ar sever differ function that can displai the
+data save the oper carri out on a databas gener statist for all numer and
+date field within a databas and creat a script with the help of objectori
+program languag
+investig data analysi and report tool
+2011 fraud examin manual 3619
+fraud test
+fraud examin and auditor can us idea data analysi applic to identifi potenti
+sign of fraud the follow ar a few exampl of the type of fraud scheme that
+examin can identifi with idea data analys applic
+employe fraud
+identifi employe account at financi institut that have excess number of credit
+memo
+identifi employe account at financi institut that have larg deposit
+compar employe home address social secur number telephon number and
+bank rout and account number to those of vendor from vendor master file
+at financi institut compar employe social secur number against those of
+deposit and loan account to identifi those not properli code as employe account
+analyz all debit to incom account particularli debit memo
+monitor the activ in suspens account includ the ag of suspens item and the
+roll of similar amount
+analyz claim paid by corpor medic insur provid
+obtain a social secur number list from an outsid vendor to test for valid social
+secur number and determin whether the holder is aliv or deceas
+question invoic
+identifi invoic without a valid purchas order
+look for invoic from vendor not in the approvedvendor file
+find invoic for more than on purchas order author
+identifi multipl invoic with the same item descript
+extract vendor with duplic invoic number
+look for multipl invoic for the same amount on the same date
+find invoic payment issu on nonbusi dai saturdai and sundai
+identifi multipl invoic at or just under approv cutoff level
+phantom vendor scheme
+match name address phone number and social secur number between
+employe and vendor file
+check vendor address against mail drop address list
+data analysi and report tool investig
+3620 2011 fraud examin manual
+kickback or conflict of interest scheme
+look for vendor price greater than the standard
+identifi price increas greater than accept percentag
+check for continu purchas in spite of high rate of return reject or credit
+look for high volum purchas from on vendor
+dormant account scheme
+check that all applic account have been flag as dormant
+identifi dormant account with activ
+check for transfer from dormant account to employe account
+check chang of address on dormant account crosscheck new address with
+employe address
+monei launder scheme
+identifi account with larg averag valu of transact it is common for there to be
+a small number of highvalu transact through an account be us for monei
+launder
+identifi match debit and credit transact on the same account within a short time
+period
+search for larg round transact valu
+identifi multipl account for particular individu
+identifi larg cash deposit
+test custom identif procedur by search for miss data field such as date
+of birth social secur number or driver licens number
+cross check custom address against mail drop address list
+for more inform about idea visit wwwaudimationcom
+excel
+excel is a spreadsheet program by microsoft that can be us for store organ and
+manipul data mani account auditor and fraud examin us excel for basic data
+analysi task for exampl excel allow user to sort subtot filter and merg data thei
+can creat calcul field as well as perform statist analysi such as regress
+excel howev ha mani limit that limit it us for detect fraud these
+limit ar discuss in the next section which examin activedata for excel
+investig data analysi and report tool
+2011 fraud examin manual 3621
+activedata for excel
+activedata for microsoft excel is an easytous tool for advanc data manipul and
+analysi within the excel environ
+activedata for excel wa design to overcom excel mani limit
+excel limit activedata for excel compens
+doe not document the fraud
+examin work in easytoaccess
+log for refer and storag
+activedata for excel provid a log of each
+process step as a comment in cell a1 of the
+worksheet creat then us the index sheet
+function a summari page of all comment field
+can easili be creat for review in essenc
+creat an audit log of all work perform with
+the spreadsheet data
+ha difficulti perform data
+analysi and manag test such
+as relat tabl although it can be
+accomplish it is an oner task
+activedata for excel provid more than 100
+dataanalysi and manag featur that
+autom function some of which mai be
+possibl but extrem difficult in excel
+doe not have function
+specif tailor to the fraud
+examin for exampl an examin
+can calcul a sampl in just a coupl
+of click with minim train us
+specif design audit softwar
+in excel it can be done but it doe
+take much effort and guidanc
+activedata for excel ha more than 100 featur
+that ar tailor to the auditor account and
+fraud examin for exampl you can us
+activedata for excel to find duplic record in
+a few click rather than set up complex
+formula in excel
+the follow ar some exampl of how activedata can be us for fraud detect
+fraud detect techniqu for account payabl
+vendor summari total period on to period two comparison
+thi is a basic analyt report to identifi trend in a vendor purchas histori a trend
+analysi should be complet to identifi kei vendor with whom activ ha increas or
+decreas substanti thi can best be assess us the dollar and percentag varianc
+field which can be ad as calcul field in excel base on the chang in the busi
+data analysi and report tool investig
+3622 2011 fraud examin manual
+environ andor new compani project a reason assess should be
+perform on the vendor chang
+descript statisticsbenford law analysi
+descript statist provid maximum amount minimum amount averag amount and
+other highlevel statist these statist should be review for reason for
+exampl a high number of neg amount or a maximum amount that look too high
+might not be reason
+after obtain the descript statist of a data set the softwar provid a benford law
+analysi of the first two digit of the data as well as a list of all amount from highest to
+lowest frequenc for review
+to review benford law distinguish between natur and nonnatur number natur
+number ar those number that ar not order in a particular number scheme and ar not
+gener from a random number system for exampl most account payabl file will be
+popul by dollar valu that ar natur number convers nonnatur number like
+social secur number and telephon number ar design systemat to convei
+inform that restrict the natur natur of the number
+benford law provid that the distribut of the initi digit in natur number is not
+random instead it follow a predict pattern the tabl below show the expect
+occurr for the distribut of the first digit in natur number accord to thi law
+first digit probabl
+1 301
+2 176
+3 125
+4 97
+5 79
+6 67
+7 58
+8 51
+9 46
+total 1000
+investig data analysi and report tool
+2011 fraud examin manual 3623
+that is benford law maintain that certain di git show up more than other do a 1 will
+appear as the first nonzero digit roughli 30 percent of the time 2 will be the lead digit
+almost 18 percent of the time 9 will lead o ff onli 46 percent of the time moreov zero
+is most like to be the second digit appear 12 percent of the time
+benford law make it possibl to detect fraudul number in larg data file by
+compar the frequenc of the appear of initi digit in a list of number to those
+anticip by benford law for exampl when embezzl invent number thei tend to
+fake data contain too mani instanc of initi digit of 7 8 and 9 and too few
+instanc of 1 2 and 3 thu with benford law examin can tell if someon
+fake data that ar deriv from other data and thei can also identifi error within the data
+that appear out of place given the data frequenc of appear
+the benford law analysi should be execut first so the most statist outlier can be
+review
+furthermor as a follow up to these test examin should us a queri sheet to queri
+outlier activ for addit review
+aboveaverag payment to a vendor more than two time the averag
+unusu larg payment to a vendor in relat to the averag ar a sign of error eg a
+keypunch error or fraud eg a kickback scheme in which the vendor is paid addit
+amount that ar kickedback to the employe enter the payment into the system
+for vendor with unusu payment abov the averag a sampl of the averag payment
+invoic as well as the unusu payment invoic should be review the reason of
+the purchas should be assess base on the document review the auditor should
+be keenli awar of the potenti for a keypunch error regard the unusu payment
+andor the possibl of the vendor purpos overcharg the organ
+duplic payment test
+duplic payment to vendor normal repres error that the comput system wa
+unabl to detect in most system a check will be made as to whether the vendor number
+invoic number and amount ar the same thi test could be run to ensur thi basic control
+is oper and also to test for other permut of duplic ani result from thi
+test should be review first for trend for exampl rent payment that occur on a monthli
+data analysi and report tool investig
+3624 2011 fraud examin manual
+basi mai appear to be duplic payment when in fact thei ar simpli regularli occur
+payment note also that certain account packag allow the issuanc of partial payment
+eg a payment to the same vendor with the same invoic number and amount therefor
+the auditor should determin whether the system allow such payment and if so omit them
+prior to run thi applic
+void check should also be review if a payment is made first on a regular check and
+then on a void on onli on payment wa technic made
+employeetovendor address match
+thi test identifi ident or similar field between the master tabl of vendor and
+employe in an attempt to identifi fraudul payment to employe while thi test
+explain how to complet thi task for address the same could be done for phone
+number tax identif number and other person inform
+onc the result ar produc the auditor should scan them to determin if there ar ani
+valid address match between the employe and vendor tabl as a next step a queri
+sheet could be creat of the actual invoic post to ani question vendor to determin
+if thei ar fraudul two note when complet thi review ar
+becaus thi exercis mai detect fraud it mai be benefici to locat the invoic or
+vendor inform independ of the account payabl depart who mai be
+culpabl for creat the fals vendor account
+becaus it is common to pai employe travel and entertain expens or employe
+advanc thi should be the kei reason to not consid the payment fraudul if
+possibl the vendor file should be filter for all employe travel and entertain
+vendor account prior to run thi test
+identifi payment made after period end for valid liabil at period end
+thi report work to identifi unrecord liabil a common scheme is for an
+organ to hold an invoic by not enterin g it into the system then after period end
+the invoic will be enter into the system therebi evad the expens charg in the period
+under review
+the invoic identifi in thi test should be review for reason and materi if
+not materi further test work mai not be consid necessari if materi trend mai be
+investig data analysi and report tool
+2011 fraud examin manual 3625
+identifi in the type of invoic or the vendor the final analysi should includ pull the
+actual invoic to determin whether thei ar for servic render or product receiv
+befor the period end
+identifi exceed purchas order
+thi report work to identifi author issu within an account payabl process
+wherebi the invoic paid exce the approv purchas order amount asid from
+assess the author limit thi report test the system control that should not allow an
+invoic to be paid abov a predetermin limit normal between 5 and 10 percent
+the report mai also highlight fraud
+in which a valid purchas order is provid to author payment yet inflat payment
+ar made to assist the fraudster in some wai
+in which vendor work with an employe creat a purchas order with valid unit
+price yet inflat those price when the invoic ar sent
+thi test mai highlight a control issu within the comput system which should check for
+exceed purchas order or it mai identifi numer overrid to the comput system
+these overrid mai be within the normal cours of busi eg purchas order price
+were meant to be at the invoic price rate but were enter in error on the purchas order
+but mai also highlight fraudul activ regardless the auditor should walk through the
+process of enter a purchas order and associ invoic to understand the system
+control onc understood the differ present in thi test can be investig by
+vouch to purchas order and invoic document
+fraud detect techniqu for the gener ledger
+stratifi gener ledger detail inform
+look at the multitud of activ in a gene ral ledger and ask yourself how can i survei
+thi data in an extrem quick manner while effici plan my audit thi test should
+provid the answer becaus it help the auditor focu on largedollar post while
+assess the administr burden of maintain lowdollar activ
+the stratif report should be review for
+unreason larg balanc for which the activ could be queri for recalcul and
+proper classif
+a high number of transact with low accumul activ for possibl consolid
+plan detail test of the journal entri approv process
+data analysi and report tool investig
+3626 2011 fraud examin manual
+journal entri gap test
+gap mai signal incomplet data process or in the situat of journal entri possibl
+hidden entri usual a method of document these occurr along with a review by
+an independ parti is suffici to ensur the complet and accuraci of process
+howev it is rare that a journal entri gap test is perform in the account depart it
+is more common in the account payabl area relat to the check sequenc so thi mai be
+the first time thi test is be perform
+gap in the journal entri sequenc should be review with the account depart the
+test work should answer the follow question
+what procedur ar in place to document and approv all gap in the sequenc
+how ar gap commun to manag
+identifi nonstandard journal entri made in a timefram after year
+end relat to specif account
+nonstandard journal entri ar gener those that ar post manual rather than
+through an autom feed from a fix asset or account receiv subledg such entri
+ar more prone to error and fraud mainli due to human error the judgment appli to
+support the entri and the possibl of an overrid by manag in author the entri
+thi is especi true for entri made just after year end relat to the prior year as these
+entri ar more prone to be adjust for the fiscal year annual report
+given the abov the test for these entri should includ
+review the journal entri and associ support document
+ensur the approv ar appropri for the size and natur of the journal entri
+assess whether gener accept account principl gaap ar be appli
+summar activ by user account
+thi test look for
+standard name such as default or test these name usual have equal simpl
+password for a hacker to guess and should gener be avoid replac to these
+gener user id would be specif id associ with the person us the system eg
+jsmith
+unrecogn or termin employe thi test focus on the respons within
+the mi function to ensur that onli author employe have system access compar
+the list creat by thi test to an activ employe roster to spot ani violat
+investig data analysi and report tool
+2011 fraud examin manual 3627
+user who have access beyond their level of respons thi access mai highlight a
+nonsegreg of duti in which a person ha an opportun to commit fraud by be
+abl to initi author andor record a transact
+the result report should be review bear in mind the abov consider
+recommend step includ
+delet default password and replac them with specif id
+delet employe who ar not on the activ employe roster
+review user who ar post high activ or who mai have access to other non
+segreg function and assess whether other control ar need to mitig the such
+individu access
+fraud detect techniqu for revenu
+missingunusu custom masterfil informationmatch to prior year
+for chang
+thi report will identifi chang in the custom masterfil such as addit and delet
+given that most system do not track the chang in the custom masterfil eg there is
+no last maintain on date field thi report is sometim the onli mean of determin
+chang in the custom master
+the fraud examin should review major addit andor delet to the custom
+masterfil given that there is a high potenti for fraud on newli ad custom eg
+post fals sale invoic to phoni custom account to inflat periodend sale balanc
+the name and address for such custom should be review against employe with the
+abil to enter invoic into the system thi can be done us the account payabl test
+describ in thi book that match vendor address to employe address sinc thi
+exercis mai detect fraud it mai be benefici to locat the invoic or custom file
+independ of the account receiv depart which mai be culpabl for creat the
+fals custom account
+cash receipt to open invoic match
+thi test help assess the exist and valuat of open invoic at period end base on
+the cash receiv subsequ to year end therefor it is on of the most popular test us
+by fraud examin in assess the exist of period end invoic
+data analysi and report tool investig
+3628 2011 fraud examin manual
+base on thi test the fraud examin can easili assess whether open invoic were paid with
+cash and therefor exist at year end and for those still outstand whether thei should
+be review further from the perspect of yearend valuat such invoic probabl
+relat to custom who regularli pai late but thei could repres new custom payment
+issu andor fraudul sale post at yearend that will never receiv cash
+ag receiv extract older balanc and summar by custom
+thi test mainli recalcul the ag of the invoic in the account receiv ledger for
+review against the companyderiv report ani differ between thi calcul and the
+report us by manag mai be due to a system error a poorli design report or fraud
+to orchestr fraud manag mai hide the true payment pattern of custom to
+minim their bad debt valuat reserv at year end
+the ag report should be reconcil to the organ account receiv ag report
+ani differ should be investig on approach is to extract a sampl of invoic
+see previou test on review a sampl of invoic within a specif ag group and
+reconcil to the ag report on an invoic by invoic basi thi work mai identifi report
+error or an attempt by the organ to hide the true ag of account receiv
+the focu of test work should be on more current ag categori that mai be
+inappropri inflat
+onc the invoic ar summar by custom the ag report also highlight custom
+balanc older than a predefin old limit thi mai be 180 or 270 dai after which
+payment of such invoic is unlik larg custom balanc could be review with
+manag as to their collect and possibl with the actual custom thi analysi
+would further support the yearend bad debt reserv calcul
+calcul the differ between ship and invoic date as well as invoic date with no shipment
+untim erron andor fraudul sale invoic mai be detect if invoic ar sent
+without valid shipment in thi case revenu is potenti be record prior to be
+earn further research of these invoic should be done independ of the sale and
+account receiv function in order to ensur an independ analysi
+for more inform about activedata for excel visit wwwinformationactivecom
+investig data analysi and report tool
+2011 fraud examin manual 3629
+autoaudit
+autoaudit is a comprehens integr audit autom system in addit to the
+workpap and report function autoaudit ha entitylevel and processlevel risk
+assess staff schedul resourc plan issu track time report expens
+report qualiti assur depart metric and an ad hoc report modul all of
+these modul ar integr and data automat flow from on modul into the next
+autoaudit is design to autom all of the primari process that occur in an audit
+depart
+although autoaudit autom mani part of ani type of audit of particular interest to
+fraud examin ar it risk assess function autoaudit offer an integr risk
+assess modul with the option of follow a horizont methodolog busi process
+risk assess a vertic methodolog audit univers made up of userdefin audit
+entiti or a combin of both methodolog specif risk and process ar identifi
+by the client and the risk factor and weight can be custom to fit the specif need of
+the depart and industri inform about the inher and residu risk help
+determin issu dure the audit and the inform obtain dure fieldwork can be
+push back into the risk assess to us as the start point for the next cycl of
+plan and audit
+for more inform visit httppaisleythomsonreuterscom
+snap report
+snap report is a data mine softwar program design for us with lotu note
+microsoft excel spreadsheet and access databas it chief virtu is it eas of us most
+softwar requir a familiar with databas and data mine techniqu but anyon with
+basic spreadsheet skill can produc report and graphic with thi product in snap data
+retriev and analysi ar autom with onebutton function some task ar accomplish
+by draganddrop
+snap produc gantt chart ie graphic represent of project and count
+occurr of kei word rather than onli chart actual number the softwar also
+creat stack noncolumnar report and gener multipl relation data set from
+on origin recordfunct not avail in other product snap is not as power
+as some other data mine softwar but it is easier to us it is adequ to most task
+though some complex case mai need a stronger packag
+data analysi and report tool investig
+3630 2011 fraud examin manual
+for more inform visit httppaisleythomsonreuterscom
+datawatch corpor monarch for window
+monarch is reportmin softwar monarch is uniqu becaus it extract data from exist
+report creat by other program and then convert the data into action data eg text
+file spreadsheet or databas tabl for exampl electron data that is retriev from an
+account system or download from an onlin sourc can be broken down into
+individu record by monarch model monarch can read report file produc on ani
+mainfram midrang clientserv or pc system these file ar commonli known as print
+file spool file txt file format ascii file prn file and sdf file monarch can
+also read dbf file and delimit ascii file
+onc the data is action it can be analyz that is the record can be manipul by
+data analysi applic like access and excel
+monarch special in read complex report in ascii plain text format it data mine
+capabl ar us for data integr test monarch can be us by itself or in tandem
+with other audit softwar such as acl but it will provid the most benefit when us in
+conjunct with anoth data analysi tool
+monarch serv three main function for investig
+perform autom audit test and test of variou program control
+verifi data on manag or exter nal parti reportgener accuraci
+proactiv identifi error and fraudul activ
+moreov examin can us monarch to perform sever function in a financi analysi or
+risk assess
+summari window to summar inform by a differ criteria than the report did
+sort data within the tabl window to gener an alphabet sort list or to identifi
+the largest or smallest transact
+time seri analysi to compil inform from 12 separ report into a monthbi
+month summari allow the investig to identifi trend
+graph data within the summari window to graph ani inform in the summari
+window into a pie area line or bar chart quickli to visual composit trend or
+distribut thi chart function is much more straightforward than in spreadsheet
+program such as ms excel and lotu 123
+investig data analysi and report tool
+2011 fraud examin manual 3631
+creat calcul field to perform custom calcul on ex ist data field or new field
+not present in the origin file
+here ar a few practic exampl of monarch investig capabl the softwar
+allow investig to
+view the 20 largest vendor by invoic am ount to compar the amount with their
+expect of those amount
+summar by purchas order number to determin if the sum of all transact relat
+to a purchas order exce the amount author by the purchas order
+measur transact volum and amount process by each input clerk to identifi
+unusu activ
+compar budget versu actual figur by comput a differ field
+chart custom delinqu trend for the past 12 month
+for more inform about monarch visit wwwdatawatchcom
+arbutu queri
+arbutu queri is a comprehens queri tool with builtin dataanalysi capabl with
+arbutu queri user ar abl to queri a wide rang of data sourc without have to know
+the locat or structur of the underli data arbutu queri emploi arbutu analyz to
+provid direct readonli queri of data arbutu analyz us a familiar spreadsheet
+interfac to brows analyz or report on the data the softwar can handl unlimit file
+size and ha power data analysi and manipul command that support even the most
+advanc task
+for more inform on the arbutu program visit wwwarbutussoftwarecom
+oversight system
+oversight system offer softwar that help busi check for fraud error and other
+problem it softwar provid continu monitor and continu audit with
+investig resolut and track capabl for continu protect against fraud
+misus and error in busi transact oversight product also identifi error and
+control violat as thei happen so compani can address these issu when thei ar less
+complex and less costli to correct oversight product includ featur that integr
+investig reconcili and document of data for more inform visit
+wwwoversightsystemscom
+data analysi and report tool investig
+3632 2011 fraud examin manual
+report and case manag softwar
+there ar a number of program that can assist the fraud examin in manag the data and
+inform gather these program can also be us to creat report graph and chart
+of a particular case some of the most us of these program for fraud investig ar
+discuss below
+i2 analysi product line
+i2 offer a line of analyt tool that allow user to search store visual and analyz data
+some of those tool ar discuss below
+analyst notebook
+i2 inc offer a profession visual and analysi tool call analyst notebook
+analyst notebook is a visual investig anali is softwar program that bring clariti to
+complex investig and intellig analysi it enabl investig and analyst to turn
+larg volum of dispar data into action intellig it creat chart and graph to
+allow user to
+visual larg volum of investig data to understand the big pictur
+reveal pattern and hidden connect to help focu the investig
+creat analyt chart manual or automat gener link and timelin chart from
+structur data
+commun complex case with intuit brief chart that captur and organ
+support data
+ibas
+ibas is i2 investig databas that is it allow user to configur a data store captur
+data and perform data analysi in a control environ
+data miner
+data miner is a data mine applic that can onli be instal with analyst
+workstat it allow user to analyz larg amount of data and find ani pattern that mai
+exist
+analyst workstat
+analyst workstat is an integr collect of analyt tool includ analyst
+notebook ibas and data miner
+investig data analysi and report tool
+2011 fraud examin manual 3633
+for more inform on i2 product line visit wwwi2inccom
+casemap by casesoft
+casemap is a case analysi tool that make it easi to organ evalu and explor the fact
+charact and issu in a case it is design for us on all type of case and by all type of
+litig and investig casemap softwar integr with numer other litigationsupport
+and electronicdiscoveri tool includ adob acrobat appli discoveri
+binder concord jf litig notebook kpmg discoveri radar livenot and
+sanction
+spreadsheet
+when a casemap file is creat the program auto matic set up a seri of spreadsheet
+us to organ critic case knowledg these spreadsheet can be us to organ
+inform about the fact document charact issu and case law in everi case
+data analysi and report tool investig
+3634 2011 fraud examin manual
+investig data analysi and report tool
+2011 fraud examin manual 3635
+fact spreadsheet
+the fact spreadsheet includ a case chronolog in which the investig can enter fact
+date time and the sourc of each piec of inform investig can also distinguish
+between disput and undisput fact and keep track of the statu of each item
+object spreadsheet
+the object spreadsheet allow investig to organ the cast of charactersa list of the
+individu and organ involv in the case and it should also catalog kei document
+and other import piec of physic evid
+data analysi and report tool investig
+3636 2011 fraud examin manual
+issu spreadsheet
+the issu spreadsheet provid an outlin of the issu includ both legal claim and
+critic factual disput the outlin can be ani number of level deep
+question spreadsheet
+becaus mani question occur dure the earli stage of an investig the question
+spreadsheet allow user to filter and sort their open item us variou criteria
+research spreadsheet
+casemap ha three research spreadsheet author extract from author and a
+combin of author and extract the research spreadsheet will organ and
+explor the user knowledg about the preced and statut relev to their case and it
+includ link to actual case law us the author and extract the author spreadsheet
+can be us to manag toplevel inform about preced statut and other type of
+case research the extract spreadsheet can be us to captur detail about particular
+section of interest excerpt from import case law and statut
+link
+casemap also provid the abil to link piec of data in on spreadsheet with the sourc
+data or other relev data in anoth sheet
+investig data analysi and report tool
+2011 fraud examin manual 3637
+filter
+onc inform is organ casemap user can explor it the most power caseexplor
+tool in casemap is the filter function a filter oper limit the row that
+appear in a spreadsheet and on your print report to those that meet criteria you specifi
+for more inform visit wwwcasesoftcom
+data analysi and report tool investig
+3638 2011 fraud examin manual
+actim enterpris risk case manag
+actim enterpris risk case manag is case manag softwar that empow
+compani to address enterprisewid risk and complianc manag it is design to
+help compani detect and react to fraud attack more effici by consolid all fraud
+and complianc issu into a central locat accord to actim the risk case manag
+support risk oper with workflow manag evid collect and
+document and as a result it allow user to
+improv risk and complianc oper
+detect more issu reduc risk loss and fine
+enabl effici and collabor investig
+reduc it and oper cost
+xanali suit
+xanali offer a suit of case manag softwar applic to help user collect
+manag analyz and share investig intellig it offer three product powercas
+link explor and index
+powercas
+powercas provid an endtoend platform for conduct largescal investig it
+manag all aspect of an investig team activ through the entir investig
+process by provid the follow function
+provid central data storag
+establish a document workflow to ensur that all evid is examin a review
+check new case inform against exist data for common and associ
+assign and track line of investig
+provid a rang of search featur
+allow user to visual case data
+gener a complet audit trail of all user activ within the system
+link explor
+link explor allow user to construct databas queri in natur everydai languag and
+displai the result in graphic form simpli ask a question by drag and drop icon
+onto a queri screen xanali link explor then gener easytoread interact chart
+that map how peopl event telephon call email messag and other case detail ar
+link as new inform arriv the displai ar instantli updat inform can be
+view in a varieti of wai in addit to power link analysi chart link explor can
+investig data analysi and report tool
+2011 fraud examin manual 3639
+displai result in numer other format includ a report a timelin with event
+organ in a chronolog order or a hierarchi chart show relationship among peopl
+link explor offer sever method to import enter merg or modifi data as well as to
+creat new object and link these includ a text import flexibl data import data entri
+form quickchart toolbox and object card
+index
+index is a text extract program that clearli and automat reveal critic connect
+between inform store in a databas index automat extract relev
+inform from unstructur text us entiti such as a person compani or an event
+attribut such as occup sex or compani titl and relationship such as locat at
+work for and involv in event xanali provid variou wai to ensur that the
+inform repres in the index plan is us these includ load them into a
+databas for analysi by link explor or other report or analysi tool in addit to
+embed the technolog into thirdparti applic with the kei entiti and
+relationship contain in a structur environ it is now possibl to access and queri
+thi inform onc a number of document have been process a list of all the peopl
+mention in the document or a list of compani vehicl or phone number associ
+with those list peopl could be obtain as new document arriv these can be
+incorpor and augment the exist result the full power of index capabl can be
+embed into a compani own product and technolog on the window platform it
+data analysi and report tool investig
+3640 2011 fraud examin manual
+includ a com interfac to direct the inform extract output into ani requir form
+such as input to some other process or to a databas
+for more inform on link explor or index visit wwwxanalyscom
+enterpris investig manag
+norkom technologiess enterpris investig manag softwar is case manag
+softwar for antimonei launder and fraud investig it link inform from
+multipl insid sourc like foreign travel report databas and debrief employe
+secur background inform network log and cyber activ log to compos a pictur
+of potenti insid secur threat thi composit approach put otherwis disconnect
+piec of inform in context to help prevent sensit inform and capabl from
+be compromis for more inform on enterpris investig manag visit
+wwwnorkomcom
+multichannel fraud
+norkom technolog multichannel fraud manag solut provid an endtoend
+fraud solut from advanc detect to investig respons and recoveri and is
+built on norkom uniqu configur financi crime and complianc platform which
+enabl user to custom the technolog as their need chang and new fraud techniqu
+emerg norkom sophist detect analyt ar optim to detect a wide rang of
+fraud includ plastic fraud applic fraud check fraud deposit fraud sleeper fraud
+electron bank fraud phish intern fraud insur fraud account takeov and
+ident theft the solut provid fraud detect by unit the analyt power of
+special techniqu includ predefin fraud detect scenario indepth behavior
+and peer group profil unusu analyt predict model and network analyt
+for more inform on multichannel fraud visit wwwnorkomcom
+isight case manag softwar
+isight case manag softwar is a type of case manag softwar for investig
+complaint correct and prevent action manag and other busi process that
+requir case manag it allow user to record investig note creat and assign
+task with due date and remind send email from within a case record us templat
+letter record investig find record investig resolut creat followup task
+track time and cost effectu correct action keep an audit trail and attach document
+investig data analysi and report tool
+2011 fraud examin manual 3641
+ethicspoint issu and event manag
+ethicspoint provid hotlin and antifraud report and case manag servic it
+issu and event manag help busi ma nage report issu eg hr manag
+issu workrel injuri secur investig conflict of interest competitor
+misconduct ani code of conduct violat etc ethicspoint offer web report form to
+help streamlin issu document provid manag with a report mechan
+that automat integr an entiti re port data within a central databas
+investig digit forens
+2011 fraud examin manual 3701

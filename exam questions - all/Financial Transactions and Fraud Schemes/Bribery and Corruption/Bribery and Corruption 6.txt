@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=An overbilling scheme commonly involves illicit funds added to legitimate payments for goods or services provided by actual vendors with the additional amounts passed on by the supplier, or returned, usually in cash, to the payer for distribution.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In overbilling schemes, illicit funds may be added to legitimate payments for goods or services provided by actual suppliers, subcontractors, engineers, agents, etc., with the additional amounts being passed on by the supplier, or returned, usually in cash, to the payer for distribution.See page(s) 1.727 in the Fraud Examiner's Manual

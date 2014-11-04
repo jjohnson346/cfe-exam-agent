@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=The purpose of notes to financial statements is to provide all information required to avoid misleading potential investors, creditors, or any other users of the financial statements.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Notes to financial statements should include narrative disclosure notes, supporting schedules, and any other information required to avoid misleading potential investors, creditors, or any other users of the financial statements. Management has an obligation to disclose all significant information appropriately in the financial statements and in management's discussion and analysis. In addition, the disclosed information must not be misleading.See page(s) 373 in the Corporate Fraud Handbook

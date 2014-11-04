@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is a type of computer virus?
+
+Options=Executable files | Freeware | Worms |Crasher	
+
+CorrectResponse=2
+
+Explanation=A worm is a self-replicating program which resides as a file on a system, executes an autonomous process, and deliberately moves from system to system. It looks for other nodes on the networks, copies itself to them, and causes the self-copy to execute on other nodes. These programs find network utilities showing node names, monitor network traffic, and randomly select network identification codes, as well as other mischief.

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Blake is a purchasing agent for the government. White is a vendor. After Blake steered business to White, White gave Blake a new Rolex watch. Blake and White could be charged with:
+
+Options=Illegal gratuity | Fraud | Bribery | None of the above
+
+CorrectResponse=0
+
+Explanation=In order to be charged with bribery, Blake and White would have to have had an agreement before the Rolex watch was given. Bribery is the "giving or receiving any thing of value with the intent to influence an official act." An illegal gratuity is "giving or receiving any thing of value for or because of an official act." The illegal gratuity statute is a lesser included offense of bribery. A bribe is a payment made for the purpose of influencing or changing an official act, while a gratuity is a payment made to reward or compensate an official for performing duties he is already required to perform. Bribery requires a meeting of the minds—"if you do this, I'll do that."See page(s) 2.204-2.206 in the Fraud Examiner's Manual

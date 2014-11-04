@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=If a contractor delivers (1) inferior material, (2) untested materials, or (3) counterfeit products, then the contractor may be involved in which of the following schemes?
+
+Options=Product substitution | Labor mischarges	r | Material mischarges	r | None of the above
+
+CorrectResponse=0
+
+Explanation=To increase his profits, the contractor may employ a product substitution scheme and fail to meet the contract specifications in terms of product quantity or quality. Examples of schemes involving product substitutions include: delivery of inferior material, delivery of untested materials, falsification of test results, or delivery of counterfeit products.See page(s) 1.2006 in the Fraud Examiner‰??s Manual

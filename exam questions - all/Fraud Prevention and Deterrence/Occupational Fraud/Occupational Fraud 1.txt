@@ -1,0 +1,10 @@
+Section=Occupational Fraud
+
+Stem=According to Richard C. Hollinger and John P. Clark, employees steal primarily as a result of workplace conditions.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=In 1983. Richard C. Hollinger of Purdue University and John P. Clark of the University of Minnesota published federally funded research involving surveys of nearly 10,000 American workers. Their book, "Theft by Employees." reached a different conclusion than Cressey. They concluded that employees steal primarily as a result of workplace conditions, and that the true costs of the problem are vastly understated: ‘In sum, when we take into consideration the incalculable social costs ... the grand total paid for theft in the workplace is no doubt grossly underestimated by the available financial estimates." See page(s) 4.613 in the Fraud Examiner's Manual
+

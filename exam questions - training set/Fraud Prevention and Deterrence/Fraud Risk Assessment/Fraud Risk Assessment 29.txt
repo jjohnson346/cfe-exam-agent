@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The fraud risk assessment should play a significant role in informing and influencing the audit process.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The fraud risk assessment should play a significant role in informing and influencing the audit process. In addition to being used in the annual audit planning process, the fraud risk assessment should drive thinking and awareness in the development of audit programs for areas that have been identified as having a moderate to high risk of fraud. Although auditors should always be on guard for things that might be indicators of fraud risk, the results of the fraud risk assessment can help them design audit procedures in a way that enables them to look for fraud in known areas of high risk.See page(s) 4.826 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, closed questions should be used extensively in the information-gathering phase of the interview.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Closed questions are those which require a precise answer: usually "yes" or "no." Closed questions also deal with specifics, such as amounts, dates, and times. Aside from using them to gather specific details, closed questions should be avoided in the informational part of the interview. They are used extensively in closing questions.See page(s) 3.223 in the Fraud Examiner's Manual

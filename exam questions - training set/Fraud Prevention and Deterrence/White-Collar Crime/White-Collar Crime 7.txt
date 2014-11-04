@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=White-collar crime defendants are more likely to receive bail than "common criminals."
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=White-collar defendants receive bail rather easily: just one person in eight spends any time incarcerated before trial, and for the generally high-status antitrust defendants, the figure is fewer than one in 20. By comparison, in a control group of ‰??common criminals'‰??i.e., people convicted of the "nonviolent economic crimes" of postal theft or postal fraud‰??at least 1/3 of the defendants spent time in jail before going to trial.See page(s) 4.411 in the Fraud Examiner's Manual

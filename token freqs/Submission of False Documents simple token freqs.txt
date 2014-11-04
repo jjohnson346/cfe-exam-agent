@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+insurance                              2
+acts                                   1
+for                                    1
+submission                             1
+fraud                                  1
+of                                     1
+if                                     1
+when                                   1
+false                                  2
+commits                                1
+government                             1
+intermediary                           1
+reports                                1
+submits                                1
+it                                     1
+such                                   1
+documents                              1
+or                                     2
+as                                     2
+the                                    4
+cost                                   1
+improperly                             1
+payer                                  1
+an                                     1
+company                                2
+then                                   1
+medicare                               1
+audits                                 1
+bills                                  1
+
+Totals:                     29        37

@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=When an insurance salesperson writes a "tombstone" policy, he has committed which of the following?
+
+Options=Twisting | Sliding | Writing a fictitious policy | All of the above
+
+CorrectResponse=2
+
+Explanation=An insurance salesperson, in order to keep his position, might submit fictitious policies called tombstone cases to improve his sales record. The term "tombstone" came into being because agents would literally take names off tombstones to write the new. fictitious policies.See page(s) 1.1104 in the Fraud Examiner's Manual

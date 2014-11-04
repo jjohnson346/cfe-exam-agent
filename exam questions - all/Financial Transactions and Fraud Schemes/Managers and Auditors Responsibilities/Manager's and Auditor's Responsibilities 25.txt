@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=An organization's internal audit department may NOT have primary responsibility for fraud investigations.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The role internal audit plays in fraud investigations varies by organization. Internal audit may have primary responsibility for fraud investigations, may serve as a resource for the investigations, or may have no involvement at all in the investigations.See page(s) 1.245 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=You are a Certified Fraud Examiner employed by a state agency. Information comes to your attention that the head of your agency has been taking bribes. More information is gathered, and it appears that the allegations may be true. Eventually, an interview will need to be conducted with the suspect. Which of the following is your best course of action?
+
+Options=Conduct the interview yourself, but have a witness present | Have someone outside the agency conduct the interview | Conduct the interview, but make sure that all required legal warnings have been given | Conduct the interview, but make sure it is tape-recorded
+
+CorrectResponse=1
+
+Explanation=The first rule for interviewing government officials is to ensure that the interviewer is not subordinate to the subject of the interview. This is no problem for outside entities such as an independent counsel or even an inspector general, but where auditors or investigators need to interview someone far up in their own chain of command, problems may arise. If there is any possibility that the high official could presently or in the future influence the career of the interviewer, someone else should be chosen. Agencies should be able to call on outside entities to conduct such interviews where appropriate. In any event, any hint by the official of help (or harm) to the interviewer should be documented and reported.See page(s) 1.1925 in the Fraud Examiner‰??s Manual

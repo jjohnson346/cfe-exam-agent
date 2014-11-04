@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=In the area of sanctions, criminologists have found that condemnation of family and friends is actually more of a deterrent to crime than going to prison for most people.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Social control in the workplace, according to Hollinger and Clark, consists of both formal and informal social controls. The former control can be described as external pressures through both positive and negative sanctions: the latter, the internalization by the employee of the group norms of the organization. These researchers, along with a host of others, have concluded that‰??as a general proposition‰??informal social controls provide the best deterrent. ‰??These data clearly indicate that the loss of respect among one‰??s acquaintances was the single most effective variable in predicting future deviant involvement." Furthermore, ‰??in general, the probability of suffering informal sanction is far more important than fear of formal sanctions in deterring deviant activity.‰??See page(s) 4.617 in the Fraud Examiner's Manual

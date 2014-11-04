@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=The cash schemes discussed in Corporate Fraud Handbook fall into two broad categories:
+
+Options=Cash thefts; skimming | Fraudulent disbursements; cash receipts | Fraudulent disbursements; false billings | False billings; payroll schemes
+
+CorrectResponse=1
+
+Explanation=It is helpful to break down the cash schemes into two broad groups, the first being the fraudulent disbursement schemes and the second being what we will loosely term the cash receipts. Fraudulent disbursement schemes are those in which a distribution of funds is made from some company account in what appears to be a normal manner. The method for obtaining the funds may be the forging of a check, the submission of a false invoice, the doctoring of a timecard, and so forth. The key is that the money is removed from the company in what appears to be a legitimate disbursement of funds. Receipt schemes, however, are what we typically think of as the outright stealing of cash. The perpetrator does not rely on the submission of phony documents or the forging of signatures; he simply grabs the cash and takes it. The receipt schemes fall into two categories: skimming and larceny schemes. Skimming is defined as the theft of off-book funds. Cash larceny schemes, however, involve the theft of money that has already appeared on a victim company's books.See page(s) 100 in the Corporate Fraud Handbook

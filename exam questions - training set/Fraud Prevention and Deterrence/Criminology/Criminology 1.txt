@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=Applying B. F. Skinner's behaviorist theories in the workplace, a destructive behavior, such as fraud, can be prevented by rewarding honesty and openness.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Skinner says we can condition incompatible behavior that interferes with the person‰??s usual acts. Instead of punishing a child's emotional tantrums, for example, the behaviorist rewards the child for controlling emotional outbursts; we drive the tantrums into extinction by not responding, and reinforce the stoical behavior. A destructive behavior is offset by an incompatible productive one. Since fraud involves dishonesty, secretiveness, and antagonistic behaviors, the astute manager finds ways to reward the opposite behaviors‰??honesty, openness, and cooperation.See page(s) 4.104 in the Fraud Examiner's Manual

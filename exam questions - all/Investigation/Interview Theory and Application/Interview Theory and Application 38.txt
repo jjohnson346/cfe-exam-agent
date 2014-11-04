@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=How many interviewers, in general, should be used on a potentially volatile interview?
+
+Options=Two | One | Three | None of the above
+
+CorrectResponse=0
+
+Explanation=There should be two interviewers involved in potentially volatile situations. This procedure provides psychological strength for the interviewers. Additionally, the second person can serve as a witness in the event the interview turns bad.See page(s) 3.233 in the Fraud Examiner's Manual

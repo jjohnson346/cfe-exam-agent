@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=The existence of many specialized departments within a company generally decreases the overall risk of fraud by the organization.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Specialization tends to hide illegal activities, especially where a firm's tasks are kept separate and unrelated. Employees cannot gamer knowledge about all the particulars of how a firm works. This protects a company from the effects of personnel turnover and leaks of information, because no one can offer much more than a piece of the jigsaw puzzle that paints the overall company picture. The same secrecy, however, raises the chances for misconduct.See page(s) 4.505-4.506 in the Fraud Examiner's Manual

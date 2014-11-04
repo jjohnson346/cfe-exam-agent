@@ -1,0 +1,3651 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+ACCESSING INFORMATION ONLINE 
+ 
+Fraud examiners now have a number of online investigative resources available through their 
+personal computers. But not so long ago, examiners had to travel to the county courthouse 
+or state capital to search for public records. Fraud examiners today, however, have enough 
+information available through different online sources to conduct entire inquiries without 
+leaving their seat.  
+ 
+ 
+Investigating with the Internet 
+A great deal of information can be accessed through the Internet for little or no cost. This 
+section explains some Internet basics, as well as how to use its services to obtain information 
+about people, businesses, and fraud in general. 
+ 
+The Internet is a decentralized global network of millions of diverse computers and 
+computer networks. These networks can all “talk” to each other because they have agreed to 
+use a common communications protocol called TCP/IP, which is named after its two most 
+important protocols: Transmission Control Protocol (TCP) and Internet Protocol (IP). 
+ 
+Essentially, the Internet is a tool for communications between people and businesses. In 
+general, the Internet is a giant network linking together millions of computers worldwide. 
+ 
+The Internet is not organized by any uniform system, such as libraries’ Dewey Decimal 
+System. Instead, it remains a free-floating, loosely-strung gold mine of information, available 
+to those who understand how to use it. Unless you know the exact addresses of the Internet 
+sites you are looking for, it is necessary to learn how to find the information.  
+ 
+An Internet site, or page, is a single Web address, generally introduced by a person or a 
+company to post information on a topic or to generate or promote business. There are a 
+number of websites that will be of use to a fraud examiner, and some are listed and 
+discussed at the end of this chapter. 
+ 
+Traditional Methods for Finding Information on the Internet 
+The most basic way to find information on the Internet is to execute searches using search 
+engines or meta-search engines, or to locate information using website directories.  
+ 
+Accessing Information Online  Investigation 
+3.502   2011 Fraud Examiners Manual  
+Search Engines 
+Search engines are website tools that allow you to type in keywords describing the subject in 
+which you are interested. The search engine will then scour the pages of the Internet and 
+attempt to locate pages that may have pertinent information. For instance, in a search for the 
+keyword fraud, the search engine will likely bring back a number of pages that have some 
+relevant link to fraud (such as the Association of Certified Fraud Examiners’ website, located 
+at www.ACFE.com). There are several prominent search engines on the Internet, and each 
+functions in a different way. An extensive list of search engines is provided at the end of the 
+chapter; however, a few of the more popular engines are described below. 
+ 
+GOOGLE  
+Google is the most-used search engine in the United States and has advanced search 
+capabilities. Individual Web pages are ranked by the engine’s software according to how 
+often the page is linked to by others, determining the page’s “importance” by the number of 
+links and the identity of the linking page. Google is a good source for finding targeted 
+information on a particular topic. Additionally, learning Google-specific search operators will 
+provide the investigator with an extremely powerful tool for online investigations. 
+ 
+For example, Google Groups is a searchable Usenet archive. It scans thousands of postings 
+of Usenet groups, which are electronic bulletin boards classified by subject (see 
+“Newsgroups” below). A search using Google Groups will reveal instances in which the 
+terms you specify appear in a posting on the Internet. You can search by the name or e-mail 
+address of users who have posted to newsgroups, or by subject, keywords, attachments, and 
+so on. 
+ 
+BING 
+Bing (formerly Live Search, Windows Live Search, and MSN Search) is the current Web 
+search engine from Microsoft. Bing automatically groups search results in different 
+categories, depending on the type of searches users are conducting. Bing also provides the 
+ability to save and share search histories via Windows Live SkyDrive, Facebook, and e-mail. 
+ 
+In addition to providing many of the same search resources found in other popular engines 
+(e.g., it provides searches specific to travel, video, pictures, and maps), Bing has several 
+useful features. For example, Bing maintains an ongoing history of searches, giving 
+researchers a way to identify what they looked up and in what order. And Bing’s image 
+search is easier to manage than others because it displays more images on the results screen.  
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.503 
+ALTAVISTA 
+Altavista is a detail-oriented search engine. Because it reads the individual text of every page 
+listed on the Internet, Altavista is very useful for finding random information. If you are 
+simply “casting your line” to see what information might be available on a topic, this is a 
+good engine to use. However, Altavista’s searches are so thorough you will encounter every 
+page that contains your keyword(s), ending with as many as 200,000 hits. Successful Altavista 
+searching requires you to construct your search carefully.  
+ 
+YAHOO!  
+Yahoo! is a multifaceted website containing a first-rate directory (see below for more 
+information about directories), but it is also equipped with a search engine. In 2009, 
+however, Yahoo! announced that its search engine would be powered by Bing. And, as of 
+July 2010, up to 25 percent of the search results provided by Yahoo! Search are powered by 
+Bing. 
+ 
+EXCITE  
+Excite’s search engine is good for broad general topics because it a simultaneous search of 
+the Web, news headlines, sports scores, and company information. Results are grouped on a 
+single page. Weeding through the results can sometimes be a chore. 
+ 
+LYCOS  
+Lycos provides advanced search capabilities, including the ability to search for specific 
+media. Its Lycos Pro feature allows users to fine-tune searches. Lycos’s index of Web pages 
+is smaller than those of some other services.’ 
+ 
+ASK.COM  
+Formerly AskJeeves, Ask.com is a good site for beginners and for general queries. The 
+engine leads users through questions to help narrow the search, and also searches six other 
+search sites. (For similar services, see metasearch engines, below.) Ask.com’s ability to 
+interpret natural language makes it easy to use, though constructing precise queries can be 
+difficult for the same reason. 
+ 
+Meta-search Engines 
+Meta-search engines send user requests to several other search engines and display the 
+results. Some of the more common meta-search engines are described below. 
+ 
+Accessing Information Online  Investigation 
+3.504   2011 Fraud Examiners Manual  
+METACRAWLER  
+Metacrawler uses meta-search technology to search the Internet’s top search engines, 
+including Google, Yahoo! Search, Bing, Ask.com, and more. It searches the best results from 
+the combined pool of the world’s leading search engines instead of results from only one 
+search engine.  
+ 
+DOGPILE  
+Owned by Infospace, this engine sends a query to a customizable list of search engines, 
+directories, and specialty search sites (e.g., Google, Yahoo! Search, Bing, Ask.com) and then 
+displays the results from each search engine individually. Once the results are retrieved, the 
+innovative meta-search technology used by Dogpile goes to work removing duplicates and 
+analyzing the results to help ensure that the best results top the list. The Comparison View 
+feature lets users compare results from the leading engines with the click of a button. 
+ 
+MAMMA  
+Mamma is a “smart” meta-search engine; every time users type in a query, Mamma 
+simultaneously searches a variety of engines, directories, and content sites; properly formats 
+the words and syntax for each; compiles their results in a virtual database; eliminates 
+duplicates; and displays them in a uniform manner according to relevance.  
+ 
+SURFWAX  
+SurfWax claims to provide the best use of relevant search results from the open Internet. It 
+uses a cohesive matrix to search, sort, extract, and relate information from both the Internet 
+and enterprise intranets. Surfwax offers multiple search tools, including FocusWords, 
+SearchSets, SiteSnaps, and ContextZooming. 
+ 
+Directories 
+The road to mining information on the Internet does not always go through search engines. 
+Some of the best investigative tools an examiner has online are directories. As the name 
+suggests, directories  are specialized websites that collect the names of numerous other related 
+websites, allowing the user to browse through a complete listing of possible sites to visit. 
+Directories contain links to pages that have a commonality. Some all-inclusive directories 
+cover a plethora of different topics, and others are more focused on particular subjects or 
+disciplines. These include several accounting and auditing directories that fraud examiners 
+may find very useful. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.505 
+The upside to using directories is that you can logically navigate a search, easing through the 
+different categories until you find what you are looking for. However, directories contain 
+only a portion of the sites and pages available on the Internet; therefore, the fraud examiner 
+should use directories in concert with a search engine and not instead of one. 
+ 
+YAHOO!  
+In addition to its search engine, Yahoo! has an intricate directory, possibly the most 
+comprehensive and all-inclusive on the Internet. The directory is built and maintained by 
+Yahoo! employees, with input from users. Yahoo! functions much like a pyramid: it begins 
+with several large pools of categories, such as entertainment and government, and then 
+allows the user to select more specific options from each broad category. For instance, an 
+examiner could select “education,” then “universities,” then “university libraries,” until 
+finally encountering a direct link to the main library catalog for the University of Texas. By 
+paring down your selections to increasingly narrow topics, you can generally find several 
+useful websites.  
+ 
+VIRTUAL LIBRARY  
+The Virtual Library (VL) is the oldest catalog of the Web, started by Tim Berners-Lee, the 
+creator of the HTML that makes the Internet possible. Unlike commercial catalogs, it is run 
+by a loose confederation of volunteers who compile pages of key links for particular areas in 
+which they have expertise. While not the biggest index of the Web, the VL pages are widely 
+praised as guides to particular sections of the Internet. 
+ 
+INTERNET PUBLIC LIBRARY  
+Run by librarians, this service indexes Web pages by topic. The Internet Public Library also 
+contains an array of guides, such as online magazines and newspapers, associations, and tips 
+for conducting research. 
+ 
+OPEN DIRECTORY PROJECT 
+Founded in 1998, Open Directory Project (dmoz.org) is the largest human-edited directory 
+on the Internet. Dmoz.org provides non-commercial moderation of registered sites and is 
+maintained by a community of volunteer editors. It provides site listings grouped into 
+categories and subcategories.   
+ 
+Accessing Information Online  Investigation 
+3.506   2011 Fraud Examiners Manual  
+BEST OF THE WEB DIRECTORY 
+The Best of the Web Directory is a commercial directory that provides site listings 
+categorized by topic and region.  
+ 
+BUSINESS.COM 
+Business.com is an Internet search engine and Web directory that provides site listings in 
+more than 65,000 business categories.  
+ 
+Nontraditional Methods for Finding Information on the Internet 
+Moving beyond the use of Google and other tr aditional methods of searching the Internet is 
+important for individuals conducting fraud examinations. This section will examine how to 
+use the following websites to obtain information on the Internet: 
+• eBay 
+• Whois 
+• Craigslist 
+• Archive 
+• Zoominfo  
+• GuideStar 
+•  NOZA  
+ 
+In addition to the above sites, this section will also discuss how an examiner can find 
+valuable information using social networking sites.  
+ 
+The websites addressed in this discussion are tried and true resources that fraud examiners 
+should be comfortable with using. But before using these sites, establish an undercover e-mail 
+account to use when searching. The e-mail account should be set up through a web-based
+service like Hotmail, Yahoo!, or Gmail. Examiners should not use any of the following 
+information when creating the e-mail account: 
+• Personal names 
+• Geographical region 
+• Favorite sports teams 
+• Hobbies 
+ 
+In addition, a discreet e-mail account should have certain characteristics, such as a gender-neutral 
+name. The handle should be comprised of numbers and letters that appear to be for 
+a purpose, giving it added credibility and authenticity. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.507 
+EXAMPLE  
+LS-194-2183@yahoo.com  
+ 
+eBay 
+The online auction website eBay.com can be a valuable resource for fraud examiners. It 
+maintains lengthy, detailed logs for each transaction, but this high-level information should 
+be obtained with a subpoena. To conduct a more general search using a person’s name or e-mail 
+address on eBay: 
+• Go to “Advanced Search” in the upper-right corner of eBay’s home page. 
+• Choose “Find a Member” from the left column. 
+• Type in the first half of the person’s personal e-mail address (e.g., for 
+crazybird@gmail.com, type “crazybird”). 
+ 
+After finding a match, the examiner should visit the user’s eBay profile and read everything 
+available on the page. An examiner can gain insight into a fraud examination by examining 
+any items the subject bought or sold and by reviewing any comments the subject has made.  
+ 
+Once the examiner has read the user’s comments, he should click the user’s “Feedback 
+Profile.” Along the right side of the page will be a few selectable items under “Member 
+Quick Links”; the investigator should select “View ID History” to see if the member has 
+changed his ID over the past ten years. In addition, the examiner can make the suspect one 
+of his “Favorite Sellers,” to receive alerts when the subject places new items for sale on 
+eBay. 
+ 
+The Whois Protocol 
+Whois is a query response protocol that is used to search databases that store domain 
+registration records, including domain name, server addresses, technical contacts, and 
+addresses. These databases can be queried at the following sites: 
+• Networksolutions.com will provide the ownership and registration information for a 
+website.  
+• Arin.net is a whois server that searches for the registrant and IP address range of a 
+particular IP address.  
+• Allwhois.com will find the whois database for a particular domain name.  
+• Whatismyipaddress.com provides a collection of tools for locating information about an 
+IP address.   
+• Traceroute.org—like whatismyipaddress.com— can be used to trace IP addresses.  
+Accessing Information Online  Investigation 
+3.508   2011 Fraud Examiners Manual  
+Craigslist 
+Craigslist.org is a network of online communities, featuring free classified advertisements 
+with sections dedicated to jobs, housing, personals, items for sale, services, résumés, and so 
+on.  
+ 
+The key to searching Craigslist is getting past the geographic restriction. For example, if the 
+examiner is looking for items in the Silicon Valley, he cannot search other areas at the same 
+time. To expand the search, the examiner must specify another area or use 
+SearchTempest.com, a tool that allows users to search multiple Craigslist sites at once.  
+ 
+Archive 
+Archive.org offers researchers and historians a view of other websites captured by the 
+Wayback Machine on a specific date. To access archived sites, enter a web address in the 
+search box, and the engine will return a list of archived dates available. For example, a search 
+of www.data2know.com returns a list of archived pages, starting on August 18, 2000.  
+ 
+Zoominfo 
+Another great resource on the Internet is Zoominfo.com. Zoominfo collates information 
+from websites and then software bots — also known as intelligent agents — capture and match to 
+particular individuals or companies.  
+ 
+Zoominfo searches are conducted by company, person, or industry. Although Zoominfo 
+searches can return a large amount of information, examiners must understand that this 
+information is generated from other websites and should be verified. 
+ 
+Zoominfo search results look résumés and include information like business experience, 
+association connections, education credentials, and so on.  
+ 
+GuideStar 
+GuideStar is a great starting point to find data about nonprofits. GuideStar gathers and 
+publicizes information about more than 850,000 nonprofit organizations. It obtains 
+information from a variety of sources, including the IRS’s Form 990 data—this provides 
+information on the filing organization’s mission, programs, and finances—and from 
+individual organizations.  
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.509 
+Noza 
+Nozasearch.com is a Web-based database of charitable giving designed as a research tool for 
+nonprofit organizations. It gathers data about private foundations’ activities that might be of 
+interest to grant-seekers, philanthropic organizations, and individual donors.  
+ 
+Social-Networking Websites 
+Social-networking sites can be searched like traditional websites. Although a lot of the 
+information available on social-networking sites can be found using traditional search 
+engines, there is an ever-growing number of resources that an examiner can use to search 
+these sites. For example, each social network has a search engine for locating members by 
+name, phone number, or e-mail address. In general, users can search for members without 
+logging in (e.g., MySpace’s default settings allow non-members to view members’ 
+information) and searches can be done anonymously.  
+ 
+If, however, a member’s profile is private, the researcher will only see a snapshot of the 
+member’s information. For example, to view a member’s profile in Facebook or LinkedIn, 
+the researcher must connect with the other member. If an examiner wants to view a private 
+profile, he should create a compelling, attractive, and simple profile for himself and ask to be 
+invited into the subject’s network. It is not necessary to create a false identity, and examiners 
+should not use someone else’s identity. But if the examiner is interesting enough, good 
+looking enough, or just savvy enough, he will probably be accepted into the network.  
+ 
+An entirely separate category of search engines has been designed specifically to find 
+information within social networks. These search engines use social networks to order, 
+prioritize, or refine search results. Some popular social-networking search engines include 
+Spokeo, Yoname, Technorati, Icerocket, and FriendFeed. This section discusses these search 
+engines along with how to search photo-sharing sites. 
+ 
+SPOKEO 
+Spokeo is a social-network aggregator site that gathers information about people by 
+searching for their e-mail addresses on various social-networking sites. Essentially, it is 
+designed to locate and track online profiles within social networks. This site allows users to 
+search by a person’s name, e-mail address, or phone number. This can be helpful if an 
+examiner knows about the subject’s profile in Facebook and Myspace but is not aware that 
+the subject is also a member of Hi5 and Xanga.  
+ 
+Accessing Information Online  Investigation 
+3.510   2011 Fraud Examiners Manual  
+For investigators and researchers, this is an incredible tool that gathers subject information 
+in a way that other research tools cannot. One of Spokeo’s best features is its ability to track 
+activity on members’ profiles. If the subject posts something on one of the popular social-networking 
+sites, such as MySpace or Facebook, the post will appear in Spokeo’s search 
+results and that person will be tracked for future updates.  
+ 
+Spokeo allows a user to search and track a limited number of e-mail addresses or names for 
+free, but requires a fee after a certain number of searches. 
+ 
+YONAME 
+Yoname is similar to Spokeo, but it searches  many social networks that Spokeo does not. 
+Yoname is a free service, but the results can be random. Spokeo has a better return rate on 
+its searches. It is important to note that if an examiner searches by a user’s e-mail address, 
+Yoname will send the user an e-mail saying that someone was looking up “yo name” in 
+Yoname. Although the e-mail does not contain the searcher’s information, it could be 
+enough to alert a suspicious fraudster.  
+ 
+TECHNORATI 
+Technorati is a search engine for websites like YouTube, MySpace, Blog, Xanga, and so 
+forth. The engine searches blogs with a variety of filters. A user can search by entering a 
+topic into the Technorati search field, or he can use some of the site’s search categories, 
+including photos, videos, and blogs. Using Technorati’s Advanced Search option, the 
+examiner can narrow down a search to a particular blog and search by tags to sites that are 
+linked to a particular blog. Although getting started with Technorati can be difficult, it can 
+be a very useful resource. 
+ 
+ICEROCKET 
+Icerocket offers a unique array of tools. Backed by Mark Cuban, owner of the Dallas 
+Mavericks, Icerocket was designed to track what people were searching for. It focuses 
+primarily on blogs, using meta-tagging to categorize and index the content contained within 
+blogs. As a result, a user can search by keyword, which captures any relevant matches found 
+on a website and prioritizes matches marked as tagged searches. 
+ 
+Like Technorati, Icerocket also allows users to  narrow down blog searches with an advanced 
+search link or by using search operators, such as title, author, and tag. For example, a search 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.511 
+for [title:“public records”] would find pages with  “public records” in their title. Similarly, a 
+search for [title:“public records” author:“John Doe”] will return blog posts by John Doe that 
+have “public records” in their title. 
+ 
+In addition to searching blogs, Icerocket searches through image directories, Twitter, and 
+MySpace. Even though an examiner can search MySpace directly, the Icerocket search 
+engine tool for MySpace presents a more traditional search environment. 
+ 
+FRIENDFEED 
+FriendFeed is a real-time feed aggregator that consolidates the updates from social-networking 
+sites, social-bookmarking sites, blogs, and other types of RSS feed. FriendFeed 
+facilitates tracking users’ social-media activities (e.g., posting on blogs or Twitter) across a 
+broad range of different social networks. According to FriendFeed’s website, its goal is to 
+make Internet content more applicable and helpful by using social-network sites as tools for 
+discovering intriguing information.  
+ 
+ 
+A Guide to Successful Internet Searching 
+ 
+Running Searches 
+The Internet is not so much a service as a tool. To tap its rich information sources, you have 
+to learn how to construct proper queries; that is, you have to learn how to ask for what you 
+want. Search engines all have their limitations, but the most serious impediment to locating 
+good information is the user’s lack of search skills.  
+ 
+Most searching uses keywords. For instance, when hunting for the latest statistics on check 
+fraud, the logical keywords are check  and fraud. However, if you typed in those words, the 
+search engine would return numerous sites that have nothing to do with check fraud. By 
+placing both words inside quotation marks (i.e., “check fraud”), you will get better results. 
+Still, the list of hits will be in the thousands, so you might want to further narrow the search 
+using the techniques below. 
+ 
+Boolean Operators 
+The best way to utilize a search engine is to use two, or possibly three, keywords that best 
+describe the topic. If the words succeed one another, as in the case of check fraud,  then it may 
+be beneficial to use Boolean operators to aid one’s search. Boolean operators  are symbols that 
+Accessing Information Online  Investigation 
+3.512   2011 Fraud Examiners Manual  
+help the search engine to better understand exactly what it is searching for. Putting the “+” 
+symbol between “check+fraud,” for example, will indicate to the search engine that it is to 
+search only for pages that have the word fraud immediately following check.  If you insert the 
+word and,  so that the search reads check and fraud, the search engine will understand to search 
+for websites and pages that contain both the words check  and fraud,  but not necessarily right 
+next to each other.  
+ 
+Some of the more common Boolean operator symbols, or connectors, are shown below. 
+ 
+ 
+Reserved Words and Noise Words 
+The connector words and, or, not, and near are considered reserved words, and are therefore 
+ignored when they appear in a search phrase. Similarly, noise words are common words with 
+very little meaning (e.g., in, of, and the); such words are also ignored unless the user puts the 
+entire phrase in parentheses. (See the Specific Search Operators section, below, for more 
+direction on reserved and noise words.)  
+ 
+The following are some of the common noise words ignored by most search engines. And 
+and or are marked with an asterisk because they are both noise words and reserved words.  
+  
+Boolean Operators
+ 
++  Designates words that must appear right next to each other. 
+–  Designates words that should not appear on a Web page. 
+“ ” Designates a list of words that must appear together in an exact order, 
+such as “holy cow.”  
+and Designates two or more words that must both appear on a page, but not 
+necessarily next to each other. 
+or  Designates two connected words, one of which must appear on a page. 
+not Designates words that should not appear on the page, much like the minus 
+sign. 
+near Designates words that should appear within a certain number of words of 
+each other. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.513 
+the and *  of 
+his my there 
+when is are 
+so or *  it 
+ 
+Specific Search Operators 
+Online researchers rely on search engines to search Web pages for specified keywords and 
+return a list of the Web pages containing the keywords. Although these engines return 
+results instantly and with little effort, the simplicity of these tools often removes the benefits 
+of more complex searching techniques. To determine a search engine or database’s abilities, 
+consult the service’s FAQ or search help page. 
+ 
+This section examines the advanced search features of the Google and Bing because they 
+provide some of the most robust and useful tools for experts conducting searches. 
+ 
+GOOGLE OPERATORS 
+In addition to the basic Boolean operators discussed above, several operators can smarten 
+up a Google search and return the right link faster.  
+ 
+Operators Search Results Example  
+~ Searches for synonyms of a given 
+word 
+[ automobiles ~glossary ]   will 
+find pages with automobiles  as well 
+as words like dictionaries, glossary, 
+encyclopedia, etc. 
+define: Returns definitions from websites for 
+the particular term 
+[ define:fraud ] will show 
+definitions for fraud.  
+site: Returns search results from only one 
+website 
+[ site:virtuallibrarian.com fraud ] 
+will find all fraud-related pages on  
+virtuallibrarian.com. 
+filetype: Searches for items with a particular 
+filetype 
+[ filetype:doc ] will restrict the 
+results to MS Word files matching 
+specified search terms.   
+link: Returns pages that  link to a particular 
+website 
+[ link:virtuallibrarian.com ] will 
+return pages with links to 
+virtuallibrarian.com.  
+Accessing Information Online  Investigation 
+3.514   2011 Fraud Examiners Manual  
+allintitle: Restricts results to those containing 
+all the search terms specified in the 
+title 
+[ allintitle: mortgage fraud ] will 
+return only documents that 
+contain the words mortgage  and 
+fraud in the title. 
+allintext: Returns documents containing all the 
+search terms in their text 
+[ allintext: fraud skimming 
+materiality ] will return only pages 
+in which the words fraud, skimming, 
+and materiality  appear in the text of 
+the page. 
+* Treated as a placeholder for one or 
+more words 
+[ “fraud * alert” ] tells Google to 
+find pages containing a phrase that 
+starts with fraud  followed by one or 
+more words, followed by alert. 
+ 
+In addition, Google operators can be combined. For example, the query [site:hp.com 
+filetype:pdf “5010 LaserJet” printer FAQ] will search for an Adobe Acrobat PDF file of 
+frequently asked questions regarding the 5010 LaserJet printer located on the Hewlett 
+Packard website. 
+ 
+There are numerous other operators and search techniques that work with each Google 
+search service. A good resource for less-known Google operators and search tips is 
+www.googleguide.com. 
+ 
+BING OPERATORS 
+Although Bing and Google share some of the same search resources, Bing has search 
+operators that are unique to its search engine.  
+ 
+Operators Search Results Example  
+contains: Searches for pages where there’s a 
+hyperlink to a file with the extension  
+[swimming dolphin 
+contains:wmv] will find wmv 
+clips of dolphins swimming.    
+inanchor: Returns pages that contain the specified 
+terms in the link anchors of Web pages 
+[inanchor: useful fraud sites] 
+searches for pages that are called 
+useful fraud sites by others. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.515 
+inbody: Restricts results to those containing all 
+the search terms specified in the body 
+[inbody: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their body.  
+intitle: Restricts results to those containing all 
+the search terms specified in the title 
+[intitle: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their title. 
+ip: Finds websites hosted by a specific IP 
+address 
+[ IP:198.46.34.22 ] finds 
+websites hosted by the specified 
+IP address.  
+prefer: Adds emphasis to a search term to help 
+focus the search results 
+[fraud prefer:Ponzi] specifies the 
+type of fraud that the user wants 
+to find.  
+ 
+ 
+Online Public Database Searches 
+Online public records databases are another source of information that can be accessed 
+online. These databases are numerous and varied; they compile records from the federal, 
+state, and county/local levels, and most can be readily accessed from a home computer after 
+subscribing to their services. The costs associated with these databases can be equally varied. 
+There are several access options available, and an examiner should be prepared to use any 
+and all, separately or in combination. Keep in mind, however, that it may be necessary to 
+spend time examining the actual documents to get the whole picture. 
+ 
+A public records database will tell the researcher whether a particular record, or some of the 
+information contained in that record, exists. However, note that such databases will not 
+provide a copy of the actual document. For example, an examiner can conduct a property 
+record search to find out that John Doe owns the property at 121 Main Street in Peoria, IL; 
+however, if he needs a copy of the actual deed, he will have to retrieve it from the county 
+clerk’s office. 
+ 
+Additionally, there is a wealth of information now available on the Internet. As a caveat, 
+however, remember that online records companies have to get their information from 
+somewhere. Often, it comes directly from the county. But if the information in the county’s 
+records was entered into the database incorrectly, then the report you will receive from the 
+Accessing Information Online  Investigation 
+3.516   2011 Fraud Examiners Manual  
+database company will also be incorrect. Therefore, it is important to remember that 
+accessing information online is never a full substitute for an examination of the public 
+record itself. 
+ 
+Remember, however, that if an examiner accesses certain types of information through an 
+online service, he may be subject to the Fair Credit Reporting Act (FCRA), as discussed in 
+the previous chapter. Again, the FCRA prohibits consumer reporting agencies from releasing 
+personal information about an individual (e.g., information about the consumer’s character, 
+general reputation, personal characteristics, or mode of living) to third parties without 
+authorization, and it limits disclosure of consumer credit information, such as a subject’s 
+credit history, to third parties. Thus, before accessing such information, you should always 
+contact your attorney. 
+ 
+Limitations of Online Public Database Searches 
+There are, however, limitations to online public database searches, including: 
+• Online coverage varies widely from state to state. The fraud examiner should determine 
+whether specific information is available for each investigation. 
+• Searches are limited in the area they cover. Fortunately for the crook, most of his public 
+record “evidence” is generally filed at the county level. If he is smart enough to know 
+how to conduct transactions outside his normal locality, then he can be tough to track 
+without using multijurisdictional online sources. Making sure you are looking in the right 
+county is important. You can be off by one county and miss pertinent land holdings, 
+divorce records, liens, and so forth. 
+• All online public records are brief abstracts of the original public record. 
+• The source of the information compiled in a vendor’s database must be reliable. 
+• Information must be checked to determine if it is accurate and current.  
+• The records or publications that have been compiled in an electronic format may not go 
+back very far. 
+• Also, Internet search engines are notoriously erratic in their retrieval. 
+ 
+Online Searches Through Database Vendors 
+Any public records search should begin with a commercial database vendor. There are 
+several companies that provide varying levels of public record information to subscribers. A 
+description of some of these companies and the records they can provide are discussed later. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.517 
+These companies provide access to a wide range of information that is stored in a central 
+database, allowing a subscriber to access it from his computer. Some information is actually 
+retrieved in hard copy and mailed or faxed to the subscriber, even though the request was 
+made through the online service. 
+ 
+Some companies require a yearly or monthly subscription fee in addition to the fee for each 
+search. Others operate on a “pay as you go” principle that allows you to pay only for the 
+searches you conduct. Therefore, it is important to shop around to get the best deal for your 
+level of usage. 
+ 
+For some practitioners, it may be more economical to enlist the aid of service companies, 
+information brokers, and professional online investigators. These companies will conduct 
+research for examiners, typically using online services and manual document retrieval from 
+local sources. Although the cost of these services is higher than doing it yourself, it may be 
+the best choice for occasional records searches.  
+ 
+Using an Online Database to Find Information 
+In the past, investigators hot on the heels of an asset-hider or suspect were hamstrung by the 
+available investigative resources. In attempting to uncover unreported income, the 
+investigator was forced to travel to the courthouse for the county in which the suspect 
+conducted business, request the county files available, and take a number. These treks to  
+the middle-of-nowhere were rarely cost-effective and were often fruitless in the search for 
+pertinent information. 
+ 
+This has all changed, however, and now maybe the flatfoot’s feet won’t be so flat. Thanks to 
+the advent of online investigative services, such as LexisNexis, inquiries to the far-flung 
+reaches of the United States can be conducted from a personal computer. These services 
+have packaged a variety of invaluable investigative sources at very reasonable prices. 
+ 
+Access to these services is accomplished in either one of two ways. Some services allow 
+users to log in through an Internet site. Others provide access to their database through a 
+software program and a modem. Each user has a user ID and password to gain access. 
+ 
+The following is a description of how online searches can be used to conduct background 
+checks and locate people, assets, and legal records. 
+ 
+Accessing Information Online  Investigation 
+3.518   2011 Fraud Examiners Manual  
+Locating People Using Online Records 
+The first step to maximize search results is to discover a past address of the suspect; search 
+activities should begin from that point. Second, the user should know the most powerful and 
+useful types of searches, which are identified below. Third, it is important to keep in mind 
+the cost effectiveness of the search activity and avoid ordering online searches that yield 
+unnecessary or impractical information. 
+ 
+The search methodology used by most online services is known as “text-string matching,” 
+which means that all information entered in the data inquiry field will seek an exact match in 
+the database. Typically, you may use truncation techniques (partial or abbreviated entries 
+such as the first initial of the first name) only with first names and business names.  
+ 
+Some common types of searches used to locate people using online records are discussed 
+below. 
+ 
+CREDIT HEADER SEARCHES 
+Credit header searches are among the most powerful locator tools. These searches return 
+information from credit reports on individuals. They are a valuable source because almost all 
+people have been involved in some credit activity either under their true names or an 
+assumed (or known as) name. It is appropriate to keep in mind that for common names, it 
+may be necessary to use the Social Security number or date of birth to differentiate the 
+subject from other people with the same name. The credit bureau headers offer two search 
+mechanisms. First, the examiner can discover a current address, an address history, and 
+Social Security number(s) associated with the target by using a past address up to seven years 
+old. Second, once the Social Security number is in hand, the headers can be searched for 
+matches, because the Social Security number is a national identity number. Although Social 
+Security numbers are protected from disclosure by the Privacy Act, it has become practically 
+impossible for individuals to avoid disclosing them on public records. 
+ 
+CURRENT OCCUPANT/NEW ADDRESS SEARCHES 
+A current occupant/new address search may be used to identify the occupant of an address, 
+to confirm occupancy, to uncover a forwarding address, or to develop a list of neighbors 
+who may know the suspect’s current whereabouts. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.519 
+LAST NAME SEARCHES 
+Last name searches can be used if the past address is unknown. This search produces better 
+results if the name is not common; however, if  the last name is common, differentiating 
+information should be included in the search. It should also be noted that some searches will 
+return the identities of neighbors, who can be contacted for additional information about the 
+suspect. 
+ 
+BANKRUPTCY FILINGS, TAX LIENS, AND COURT JUDGMENTS 
+Bankruptcy filings, tax liens, and court judgments have emerged in recent years as locator 
+tools because such records contain valid Social Security numbers. The dramatic increase in 
+individual bankruptcy claims has also particularly prompted their emergence as locator tools.  
+ 
+DEPARTMENT OF MOTOR VEHICLES RECORDS SEARCHES 
+Department of Motor Vehicles (DMV) records used to be good locator tools, but recent 
+restrictions on them have reduced the effectiveness of such searches. Before Congress 
+amended the Driver’s Privacy Protection Act in 1999, drivers could “opt out” and ask that 
+their personal information (e.g., Social Security numbers, photographs, etc.) not be released. 
+Under the amended law, however, drivers are no longer required to opt out; instead, the 
+amended law imposes an “opt in” system requiring that drivers provide express 
+authorization for the release of information. Moreover, individual states may not update 
+their records frequently enough to provide the examiner with useful information. Searches 
+such as Driver Identification can be useful on a spot basis, however. 
+ 
+VOTER REGISTRATION RECORD SEARCHES 
+In a few states, voter registration records are available, but as with DMV records, they may 
+not be updated frequently. However, to the extent that date of birth information is available, 
+such records can augment other searches. Also note any legal restrictions attached to the use 
+of voter information. 
+ 
+BUSINESS FILINGS SEARCHES  
+Fictitious business name/doing business as filings include owner name(s), business name(s), 
+file date, and file number. As noted in the previous chapter, in most states, individuals and 
+corporations are required to file a doing business as (or an assumed or fictitious business 
+name) statement with the county where they conduct their business. The records of sole 
+proprietorship businesses, however, may not be available in the corporate/limited 
+partnership records that are found at the state level. Nevertheless, the fraud examiner may be 
+Accessing Information Online  Investigation 
+3.520   2011 Fraud Examiners Manual  
+able to locate these records by conducting an online search. By searching an individual or 
+business name, the examiner can gather information from fictitious business name filings, 
+including owner name, business name, file date, and file number. Some counties provide 
+business address information, and in these counties, the examiner can also conduct searches 
+using the business address.  
+ 
+FEDERAL TAX ID SEARCHES 
+Businesses can use the IRS website (www.irs.gov) to enter both the name and Federal Tax 
+ID of a vendor or other business to confirm that the two match. 
+ 
+Obtaining Financial Information and Locating Assets 
+Discovering whether assets exist, where they exist, and whether they are recoverable can be 
+accomplished with a search of federal, state, local, and proprietary records. These records 
+can be further divided into those identifying “hard” assets and those regarding the potential 
+for assets, credit capacity, or credit worthiness. 
+ 
+SEARCHES FOR HARD ASSETS 
+• The ownership of real property may be discoverable through the use of property 
+searches, to the extent that they are available at the local or county level within individual 
+states. 
+• The ownership of vehicles can be inferred through the use of the DMV Vehicle Name 
+Index, to the extent that the records within the controlling state agency reflect vehicles 
+registered to a specific person or organization at a particular address. Conversely, the 
+ownership of a particular vehicle may be inferred from the DMV vehicle registration 
+searches. 
+• An assumed business name search may be helpful in identifying a sole proprietorship 
+business in which attachable assets are available.  
+• The Uniform Commercial Code (UCC) is extraordinary in that it can be useful in a wide 
+variety of business situations. A search of UCC filings can help identify personal 
+property that an individual or business has financed. UCC filings can also disclose when 
+and where a debtor obtained personal loans, the type of property that he pledged to the 
+lender to secure the loan, and the debtor’s current address 
+• The ownership of an aircraft can be determined by searching the Aircraft Ownership 
+Database by business name, person name, or wing number. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.521 
+SEARCHES FOR ASSET POTENTIAL 
+• The question of whether it is realistically possible to recover known assets may be 
+partially answered by searching bankruptcy filings, tax liens, and tax judgments. 
+• Again, the versatility of a UCC filings search is seen through the identification of assets 
+that may have been pledged, in whole or in part, to secure a loan. For example, in a case 
+where a bank lender has secured a loan through some type of chattel as collateral and has 
+sought to perfect its lien on the chattel through a UCC filing at the state level, it can be 
+fairly assumed that the debtor has a bank account with the secured party. Thus, a bank 
+account asset may be identified as a recoverable asset.   
+• Consumer credit reports and business credit reports searches may help develop a clearer 
+picture of the target’s potential for asset recovery in terms of credit capacity and 
+creditworthiness. Although access to consumer credit reports is restricted by the Fair 
+Credit Reporting Act (FCRA), business credit reports are not governed by the FCRA. 
+Business credit reports often contain information that is useful in verifying information, 
+understanding business relationships, and developing basic financial information about 
+an organization. 
+ 
+Finding Legal Records  
+The searches available to find these records can be grouped in three broad categories: on- 
+site court searches, index or broad coverage searches, and public filings. 
+ 
+ON-SITE COURT SEARCHES  
+On-site court records searches  are performed by individuals who travel to county and municipal 
+courthouses to search for records that match the search criteria that have been provided to 
+them.  
+ 
+These searches are directed by court, by county, or, as is the case with federal records, by the 
+district court for the particular area. Accordingly, the examiner must carefully consider the 
+potential location of court records. Such considerations should take into account the 
+locations of the suspect’s current and past reside nces and his current and past businesses or 
+employers. The results will include any litigation in which the individual was involved, 
+including civil actions, criminal actions, divorces, and judgments. However, it will not return 
+information concerning litigation that has been sealed by the court or information 
+concerning juvenile offenders.  
+ 
+Accessing Information Online  Investigation 
+3.522   2011 Fraud Examiners Manual  
+The coverage for these searches varies according to the service used. Additionally, each court 
+has varying rules regarding how the search is conducted, the times when searches may be 
+conducted, the repository location, and the search methods. If the subscriber is interested in 
+a particular type of record, such as a divorce record, it may be necessary to call the 
+company’s customer-support unit to adjust the search query. Types of records available 
+include: 
+• Federal civil court records, including bankruptcy records, are available for all types of 
+civil litigation conducted in federal court. 
+• Federal criminal court records are available for felony charges. 
+• State civil court records are available based on a division of upper and lower court 
+records. The division is a function of the differences within each state concerning the 
+amounts in controversy. 
+• State criminal court records can be obtained on a ten- or seven-year search basis for 
+felonies, misdemeanors, or a combination of both. 
+ 
+INDEX/BROAD COVERAGE SEARCHES  
+These searches are useful when an examiner needs a search strategy broader than the by 
+court/by county method used with on-site court record searches or that makes use of an 
+index of basic information in court records. 
+• Searches of defendant suits are available in all states, but provide coverage limited to 
+specific counties and courts. When searching a specific state’s database, the examiner 
+should review the help menu to determine the scope of the search abilities. 
+• Searches of statewide criminal convictions are available in some jurisdictions. Review the 
+help menu for special release requirements, the number of years available, if the record is 
+for convictions only, and if the search encompasses both felonies and misdemeanors. 
+• Searches of marriage/divorce indexes are available in some states. 
+ 
+PUBLIC FILINGS 
+In the United States, public companies, nonprofits, and some private companies must 
+submit financial filings and forms to different government entities. Public companies, for 
+example, submit various filings to the Securities and Exchange Commission (e.g., the annual 
+report and the 10-K). These public filings provide a wealth of information about the filing 
+company, including the nature of its business, its history, its organizational structure, its 
+auditor, its balance sheets, and its income statements. Similarly, public filings are available for 
+nonprofits, which must file the Form 990 to the Internal Revenue Service.  
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.523 
+Public filings are available for free, as well as through fee-based services.  
+ 
+Conducting Background Checks  
+This type of search activity generally involves two broad areas: discovering what the public 
+records reveal with respect to individuals and businesses with whom the subscriber may wish 
+to do business and discovering information about prospective employees. In general, online 
+public records databases are generally the best sources of background information. 
+ 
+But before conducting any background checks, consult with legal counsel.  
+ 
+DUE DILIGENCE 
+As business organizations seek to identify vendors, clients, or strategic partners or seek to 
+loan or collect money, they frequently conduct public record inquiries focused on other 
+businesses or individuals who are principals of business organizations. This type of public 
+record inquiry involves such issues as verification of application information, debt burden, 
+adverse financial information, credit capacity or worthiness, business relationships (the so-called 
+family tree), litigation history, and criminal background. Useful searches include the 
+following: 
+• Corporate/limited partnership searches are available in all states to verify information, 
+identify principals, and develop other business relationships. 
+• Bankruptcy filings, tax liens, and judgments searches respond to issues of adverse 
+financial information and credit capacity/worthiness. 
+• UCC filings answer questions of debt burden. This search will be helpful to identify 
+hidden ownership or partnership interests, and it will be helpful to locate address 
+information on debtors. 
+• State and federal civil court records provide answers to questions concerning litigation 
+history, past business relationships, and the potential for debt burden either as a function 
+of an adverse judgment or as a function of financing expensive litigation. 
+• State and federal criminal court records identify the possibility of a criminal background. 
+• The use of consumer credit reports and business credit reports helps resolve questions 
+concerning credit capacity and creditworthiness. In addition, the business report is useful 
+in verifying information, understanding business relationships, and developing basic 
+financial information about an organization. 
+• Occupational Safety and Health Administration (OSHA) searches may be useful in 
+developing adverse information or verifying information given by a prospective vendor, 
+client, or strategic partner. 
+Accessing Information Online  Investigation 
+3.524   2011 Fraud Examiners Manual  
+• Aircraft mechanics, airmen, medical license, DEA controlled substances, and other 
+licenses may serve to verify that basic professional and occupational standards are met by 
+a prospective vendor, client, or strategic partner. 
+ 
+EMPLOYMENT BACKGROUND 
+Online record inquiries regarding employment history have increased significantly over the 
+past few years. Corporate downsizing has disaffected an increasing number of workers to the 
+point that it is easier for them to rationalize employee defalcation, fraud, or embezzlement. 
+The same economic phenomenon of downsizing, combined with business pressure to 
+increase productivity and the friction of modern life, have apparently produced an increase 
+in workplace violence. Liabilities for employers and businesses have expanded through 
+negligence standards and the respondeat superior doctrine for such tortious conduct as vehicle 
+operation, assault, battery, false imprisonment, sexual harassment, and discrimination. 
+Finally, the potential to be held liable for negative references has deterred past employers 
+from responding to prospective employers’ inquiries about an employee. Therefore, 
+prospective employers must increasingly rely on public information.  
+ 
+Some of the searches useful in developing background information are listed below (where 
+permitted by law): 
+• Credit header searches are useful in confirming address and Social Security number 
+information. 
+• State and federal criminal court records and statewide criminal convictions may be used 
+to uncover past criminal problems presaging similar difficulties. Indeed, criminal 
+background checks may be mandated by law. For example, the Violent Crime Control 
+and Law Enforcement Act of 1994 makes it a felony for insurance companies, as well as 
+persons employing anyone to conduct the business of insurance, to hire any individual 
+convicted of a felony involving dishonesty or a breach of trust.  
+• Aircraft mechanics, airmen, medical license, and other licenses are available to ensure 
+that basic job requirements are met in the appropriate circumstance. 
+• Consumer credit reports may be obtained for purposes of employee selection, retention,  
+and promotion. 
+• Public filings such as bankruptcy filings, tax liens, and judgments may be obtained to 
+identify adverse financial matters that can serve as potential motivators for fraud, 
+defamation, and embezzlement. 
+• Where a prospective or current employee drives a personally owned vehicle or an 
+employer-owned vehicle in furthering the interests of the employer, such activity may 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.525 
+expose the employer to liability for damages;  therefore, DMV driving records must be 
+checked. 
+• Basic information concerning job qualification can be verified through education 
+verification and employment verification searches. Note: These are verification tools 
+only; they are not definitional in terms of discovering past or current employment. 
+• Although workers’ compensation searches may return the subject’s name, Social Security 
+number, date of birth, employer’s name, date and type of accident, and nature and extent 
+of inquiry, the Americans with Disabilities Act may limit usage of the search results. The 
+Act purports to prevent prospective employers from using workers’ compensation 
+records in denying employment to otherwise qualified applicants. 
+ 
+Public Record Database Vendors 
+Listed below is information about some of the larger commercial database vendors. You can 
+shop various services to find the one that meets your needs in the most cost-effective 
+manner and the one that fits your current case. In some instances, it may be necessary to use 
+more than one service to get an accurate and complete profile. These companies get their 
+information from various sources and on various update schedules, so a search in any one 
+database may return different results than a search done elsewhere. 
+ 
+Asset Locator and Business Background Check by KnowX 
+KnowX is a product of the LexisNexis Risk and Information Analytics Group, and it claims 
+to be the most comprehensive source of public information on the Web. It offers easily 
+navigable public records searches in various categories, among them asset searches, adverse 
+filings, property valuation, and people- and business-locator tools. One can also verify 
+licenses, conduct background checks, and look up a company’s history. KnowX is an 
+altogether user-friendly source of information.  
+ 
+Most importantly, users can run KnowX’s business background check to uncover 
+bankruptcies, judgments, lawsuits, liens, and UCC filings against a business with one search. 
+In addition, KnowX’s asset locator service enables users to locate assets such as real estate, 
+aircraft, and watercraft with one search. This software can also be used to verify ownership 
+and assess property value. 
+ 
+KnowX can be found at www.knowx.com. 
+ 
+Accessing Information Online  Investigation 
+3.526   2011 Fraud Examiners Manual  
+US Datalink 
+US Datalink is an employee background check service. Although it cannot retrieve 
+information as quickly as some other vendors, US Datalink is the only company that relies 
+entirely on manual searches for its information. US Datalink exclusively sends its researchers 
+to the county courthouse to look up the requested information, as opposed to the electronic 
+and possibly faulty information that other online investigative databases use. Therefore, if a 
+fraud examiner has the time to wait for his inquiry, US Datalink might be the most reliable 
+option. US Datalink also has media resources, and it can be found at www.usdatalink.com. 
+ 
+infoUSA 
+infoUSA compiles business and consumer data, and it offers a wide range of data processing 
+services. infoUSA users have access to information on 14 million U.S. businesses, 13 million 
+executives and professionals, and 210 million U.S. consumers. Searches of infoUSA’s 
+database can produce results for a broad range of information, including sales volume, 
+corporate linkage, contact names and titles, company history, credit ratings, and any 
+headlines involving the business. Furthermore, the versatility of the searches is one of 
+infoUSA’s better features; searches can be performed according to business size, location, 
+length of time in operation, gender or race of owners, and industry. infoUSA is located at 
+www.infousa.com. 
+ 
+Veris 
+Veris is a Social Security validation service; it specializes in providing verification of Social 
+Security numbers, possible mail drop addresses, dates of birth, and death records. Veris 
+allows an investigator to match a Social Security number to a name; however, this service is 
+costly (cost per search begins at $115, but the actual cost depends on the type of search and 
+number of searches being conducted) but very accurate. Veris can be accessed at www.veris-ssn.com. 
+ 
+CSC Diligenz 
+CSC Diligenz is a Web-based due diligence service. It is a great database for retrieving 
+information about businesses. With its weekly database updates, CSC Diligenz’s strength lies 
+in the reliability of its public record information. CSC Diligenz can produce a business’s 
+financial statements, records pertaining to corporate status, business credit, and licensing 
+information. UCC filings, bankruptcy, judgments, and corporate good-standing searches are 
+just a few of their services. Diligenz is located at www.diligenz.com. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.527 
+Dialog 
+Dialog is a ProQuest company, and it offers users with access to more than 1,200 databases. 
+It contains nearly 2 billion records, including references and abstracts of published literature; 
+statistical tables; the full text of selected articles; and directory, business, and financial data. 
+Dialog can be accessed at www.dialog.com. 
+ 
+D&B 
+D&B is a business information service provider. The variety of information available 
+through D&B is impressive. It is probably one of the most comprehensive and diverse 
+sources available, with facts on more than 130 million companies in more than 190 
+countries. D&B is renowned for products like Business Information Report  and Industry Norms 
+and Key Business Ratios,  both excellent tools. It is located at www.dnb.com. 
+ 
+Hoover’s 
+Hoover’s, a D&B company, is a one-stop reference for business information. Hoover’s 
+provides comprehensive, up-to-date business information for professionals who need 
+intelligence on U.S. and global companies, industries, and professionals. Hoover’s database 
+consists of 65 million companies with in-depth coverage of 40,000 public and non-public 
+U.S. and international companies. Subscribers also have access to information on more than 
+15 million small, private business across the United States. Hoover’s is located at 
+www.hoovers.com. 
+ 
+LexisNexis 
+LexisNexis is a legal and business information database that provides its subscribers with 
+daily newspapers for either a flat fee or a per-use fee. LexisNexis maintains a cavernous 
+database of U.S. and international media sources, including daily newspapers, magazines, and 
+television transcripts. In addition, LexisNexis offers a service in which the user can request 
+immediate information on difficult-to-find topics. LexisNexis will research the topic and give 
+the user the information as quickly as possible. For more information, visit www.lexis.com. 
+ 
+In one form or another, LexisNexis has been in the information business for nearly 30 years. 
+It is now one of the leading electronic data firms in the world. Users can obtain access to 
+public records, media publications, and court cases and records. For more information, visit 
+www.lexisnexis.com. 
+ 
+DCS Information Systems 
+Founded in 1967, DCS Information Systems is an established source for investigative 
+information. DCS provides online investigative solutions for business and government — 
+from financial institutions to law enforcement or investigators. Their online database 
+products help organizations prevent and detect fraud; verify application information; screen 
+potential employees; and locate debtors, missing  persons, heirs, or assets. DCS provides 
+information comprising public records and publicly available information. Its AmeriFind 
+online resource system is separated into three areas, making searches simple: 
+Accessing Information Online  Investigation 
+3.528   2011 Fraud Examiners Manual  
+• PrimeData provides banking and finance information. 
+• QuickFind serves general investigations, security, and fraud prevention and detection. 
+• FraudTracer serves insurance fraud investigations and claims. 
+ 
+G.A. Public Records Services 
+G.A. Public Records Services specializes in onsite county-level criminal record information. 
+It can usually provide a report within 24– 72 hours, has access to records in thousands of 
+counties coast to coast. G.A. Public Records Services provides search services for 
+employment screening, corporate due diligence, fraud investigations, private investigations, 
+and tenant screening. For more information, visit www.gaprs.com. 
+ 
+Experian 
+Experian is one of the major providers of consumer credit information, and it provides a 
+variety of other public information. Experian provides services on consumer and business 
+credit, direct marketing, and real estate information services. Experian maintains credit 
+information on more than 210 million U.S. consumers and more than 18 million U.S. 
+businesses. Its National Consumer Database is updated 65 times per year with information 
+on more than 110 million U.S. households. The National Business Database is updated 
+monthly, has facts on more than 18 million companies in all industries, and has more than 
+200 million cross-industry application records to help detect inconsistencies in incoming 
+applications.  
+ 
+Some of the services provided by Experian include: 
+• Business Snapshot Reports that summarize credit histories, including payment patterns 
+and legal filings, of small businesses or contractors. 
+• Precise ID with Knowledge IQ consist of  scoring, analytics, and knowledge-based 
+authentication, and it provides real-time and online validation and verification and fraud 
+assessment of names, addresses, Social Security numbers, dates of birth, drivers’ licenses, 
+and telephone numbers. 
+ 
+TransUnion  
+TransUnion is one of the big three credit report companies, and it offers credit information 
+and services for consumers and businesses alike. More specifically, TransUnion is a global 
+provider of business intelligence services with technology-based intelligence products, 
+including innovative credit-decision and fraud-prevention tools, advanced target-marketing 
+products, risk and profitability models, and portfolio management.  
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.529 
+TransUnion also offers a Fraud Victim Assistance Department (FVAD). Since its inception, 
+the FVAD has helped millions of consumers resolve or prevent problems with credit fraud. 
+The FVAD comprises three distinct teams: 
+• The Consumer Protection Team (CPT) 
+• The Fraud Investigation Response and Support Team (FIRST) 
+• The Fraud Assistance and Support Team (FAST) 
+ 
+Search Systems 
+Search Systems is a public records directory with more than 55,000 searchable public record 
+databases. Its search capabilities include business information, corporate filings, property 
+records, deeds, mortgages, criminal and civil court filings, inmates, offenders, births, deaths, 
+marriages, unclaimed property, and professional licenses. One of its many directories, the 
+criminal records and offenders search, has access to more than 300 million criminal records, 
+and its Search Systems Premium offers instant access to more than 100 million bankruptcy, 
+judgment, and tax liens. For more information, visit http://publicrecords.searchsystems.net. 
+ 
+Westlaw  
+Westlaw is an online legal research service, and it provides access to a comprehensive and 
+current collection of public records. Its People Finder database directory contains 
+information on individuals compiled from numerous public sources, including telephone 
+directories, publishers’ mailing lists, change of address files, real estate filings, utility records, 
+public demographic and consumer household data, voter registration records, driver’s license 
+data, federal and state death records, and credit header data. For more information, visit 
+www.westlaw.com.  
+ 
+Newspaper/Media Databases 
+Newspapers, periodicals, and journals can be excellent sources of information in a fraud 
+investigation, particularly when searching for background information on an individual or a 
+business. For example, in a Texas case, a person accused of insider trading was cleared using 
+materials from an media database search. Defense attorneys gathered more than 300 
+published comments about the company’s financial prospects and showed that someone 
+following the advice distributed freely in the press would have made more money than  
+the accused.2 
+                                                 
+2 Bernstein, Paul. Computers for Lawyers: A Complete Guide to Law Office Automation. 2nd ed. Chicago: ATLA Press, 
+1997. 
+Accessing Information Online  Investigation 
+3.530   2011 Fraud Examiners Manual  
+Searchable databases containing information from literally hundreds of published sources 
+can usually be accessed for free at most libraries. There are also a number of online 
+databases that deal specifically with news and media resources. These databases compile a 
+number of different media resources and allow the user to search for a specific topic, 
+returning articles or transcripts that pertain to the requested subject. Most publications allow 
+users to search their archives for free; the full text of articles is available, but usually for a fee. 
+Using one of the following services allows users to search many publications at once. 
+ 
+Factiva 
+Factiva, from Dow Jones, is tailored for business and financial news searches, maintaining a 
+catalog of more than 28,000 of the world’s leading news and business sources from 159 
+countries, 350 geographic regions, and in 23 languages. Factiva allows users to pay only for 
+the articles downloaded and does not require an annual subscription. For more information, 
+visit www.factiva.com. 
+ 
+Highbeam Research  
+HighBeam has an extensive archive containing millions of documents from leading 
+publications that are updated daily or going back as far as 20 years. Searchable sources 
+include newspapers, magazines, journals, transcripts, books, dictionaries, and almanacs. For 
+more information, visit www.highbeam.com. 
+ 
+ProQuest 
+ProQuest is a data service that offers access to thousands of online journals and magazines 
+covering a wide array of subjects. ProQuest’s vast content pools are available to researchers 
+through libraries of all types and include the world’s largest digital newspaper archive; 
+periodical databases comprising the output of thousands of titles and spanning more than 
+500 years, with many in full-text, full-image format; an extensive dissertation collection; and 
+various other scholarly collections. For more information, visit www.proquest.com. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.531 
+Other News Database Services 
+• Newspapers on the Net (www.onlinenewspapers.com) 
+• Newswise (www.newswise.com) 
+ 
+ 
+Useful Websites 
+The following is a list of websites grouped by topic that should prove useful to fraud 
+examiners and other anti-fraud professionals. 
+ 
+ 
+Search Engines 
+About.com http://www.about.com
+All the Web http://www.alltheweb.com
+AltaVista http://www.altavista.com
+Ask.com http://www.ask.com
+Bing http://www.bing.com
+Complete Planet http://aip.completeplanet.com
+Copernic http://www.copernic.com
+Dmoz http://www.dmoz.org
+Dogpile http://www.dogpile.com
+Exalead http://www.exalead.com
+Excite http://www.excite.com
+Go.com http://go.com
+Google http://www.google.com
+HotBot http://www.hotbot.com
+Icerocket http://www.icerocket.com
+IWon http://home.iwon.com
+Infomine http://infomine.ucr.edu
+Internet 101 http://www.internet101.org
+Law Crawler — Legal Issues http://lawcrawler.findlaw.com
+Legal Engine http://www.legalengine.com
+Lococitato http://www.lococitato.com
+LookSmart http://www.looksmart.com
+Lycos http://www.lycos.com
+Mamma http://www.mamma.com
+Meta 360 http://www.meta360.com
+Metacrawler http://www.metacrawler.com
+Monster Crawler http://www.monstercrawler.com
+My Way http://goto.myway.com
+Northern Light Business http://www.nlsearch.com/bresearch.php
+Search Engine Watch http://searchenginewatch.com
+Search Monger http://www.searchmonger.com
+Search.com http://www.search.com
+Search Site http://www.searchsite.com
+Snap http://www.snap.com
+Spokeo http://www.spokeo.com
+Surf Canyon http://www.surfcanyon.com
+SurfWax http://www.surfwax.com
+Technorati http://technorati.com
+WebCrawler http://www.webcrawler.com
+Accessing Information Online  Investigation 
+3.532   2011 Fraud Examiners Manual  
+Web Ferret http://www.webferret.com
+Yahoo! http://www.yahoo.com
+YoName http://www.yoname.com
+Zoominfo http://www.zoominfo.com
+  
+ 
+Social-Networking Sites 
+Twitter www.twitter.com
+MySpace www.myspace.com
+Facebook www.facebook.com
+Classmates Online www.classmates.com
+LinkedIn www.linkedin.com
+Reunion www.reunion.com
+Bebo www.bebo.com
+Orkut www.orkut.com
+Hi5 http://hi5.com
+Xanga www.xanga.com
+Spoke www.spoke.com
+Alt www.alt.com
+  
+ 
+News Sources 
+ABCNews.com http://abcnews. go.com
+BNET Research Center http://findarticles.com
+CBS http://www.cbsnews.com
+CNN Interactive http://www.cnn.com
+CRAYON http://www.crayon.net
+Dialog Web http://www.dialogweb.com
+Dow Jones Factiva http://www.factiva.com
+FOX http://www.foxnews.com
+Highbeam http://www.highbeam.com
+Investigative Reporters and Editors http://www.ire.org
+LexisNexis http://www.lexisnexis.com
+Market Watch http://www.marketwatch.com
+MSNBC http://www.msnbc.msn.com
+MSN Money http://moneycentral.msn.com/home.asp 
+NBC http://www.nbc.com
+CNET News http://news.cnet.com
+NewsLink http://newslink.org
+Online News papers http://www.onlinenewspapers.com
+Refdesk http://www.refdesk.com
+Reuters http://www.reuters.com
+Salon http://www.salon.com
+Slate http://www.slate.com
+The Council of State Governments http://www.csg.org
+Wired News http://www.wired.com
+  
+ 
+Newspapers 
+Annapolis Capital-Gazette http://www.hometownannapolis.com
+Augusta Chronicle http://chronicle.augusta.com
+Baltimore Sun http://www.baltimoresun.com
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.533 
+Boston Globe http://www.boston.com/boston globe
+Casper Star-Tribune (WY) http://www.trib.com
+Chattanooga Times Free Press http://www.timesfreepress.com
+Chicago Sun-Times http://www.suntimes.com
+Chicago Tribune http://www.chicagotribune.com
+Christian Science Monitor http://www.csmonitor.com
+Colorado Springs Gazette http://www.gazette.com
+Daily Gazette (NY) http://www.dailygazette.com
+Dallas Morning News http://www.dallasnews.com
+Desert News (UT) http://www.deseretnews.com
+Detroit Free Press http://www.freep.com
+Evansville Courier & Press (IN) http://www.courier press.com
+Florida Times-Union http://www.jacksonville.com
+Fort Worth Star-Telegram http://www.star-telegram.com
+Gainesville Sun http://www.gainesville.com
+Houston Chronicle http://www.chron.com
+Knoxville News-Sentinel http://www.knoxnews.com
+Los Angeles Times http://www.latimes.com
+Miami Herald http://www.miamiherald.com
+Missoulian (MT) http://www.missoulian.com
+New York Daily News http://www.nydailynews.com
+New York Post http://www.nypost.com
+New York Times http://www.nytimes.com
+Newsday http://www.newsday.com
+Norfolk Virginian-Pilot http://hamptonroads.com/pilotonline
+Orange County Register http://www.ocregister.com
+Orlando Sentinel http://www.orlandosentinel.com
+Raleigh News and Observer http://www.newsobserver.com
+Roanoke Times http://www.roanoke.com
+Salt Lake Tribune http://www.sltrib.com
+San Diego Union-Tribune http://www.signonsandiego.com
+San Francisco Chronicle/Examiner http://www.sfgate.com
+San Jose Mercury News http://www.mercurynews.com
+Seattle Times http://seattletimes.nwsource.com
+Sioux City Journal http://www.siouxcityjournal.com
+St. Paul Pioneer Press http://www.twincities.com
+St. Petersburg Times http://www.tampabay.com
+The New York Times on the Web http://www.nytimes.com
+USA Today http://www.usatoday.com
+Wall Street Journal http://online.wsj.com
+Washington Post http://www.washingtonpost.com
+  
+ 
+University Library Sites 
+Brigham Young University http://www.lib.byu.edu
+Cal State University — Long Beach http://www.csulb.edu/library
+Carnegie Mellon University http://www.library.cmu.edu
+Claremont Colleges http://voxlibris.claremont.edu
+Cornell University http://www.cornell.edu/libraries
+Drexel University http://www.library.drexel.edu
+Duke University http://library.duke.edu
+Eastern Michigan University http://www.emich.edu/halle
+Georgetown University http://library.georgetown.edu
+Accessing Information Online  Investigation 
+3.534   2011 Fraud Examiners Manual  
+Harvard University (HOLLIS—Harvard Online Library Information System) http://lib.harvard.edu 
+Indiana Univ. / Purdue Univ. http://www.ulib.iupui.edu
+Iowa State University http://www.lib.iastate.edu
+Johns Hopkins University http://www.welch.jhu.edu
+Kansas State University http://www.lib.ksu.edu
+Louisiana State University http://www.lib.lsu.edu
+Mansfield University http://lib.mansfield.edu/index.cfm
+Miami (OH) University http://www.lib.muohio.edu
+Middle Tennessee State University http://library.mtsu.edu
+MIT University http://libraries.mit.edu
+New Mexico State University http://lib.nmsu.edu
+North Carolina State University http://www.lib.ncsu.edu
+Princeton University http://libweb.princeton.edu
+Tulane University http://library.tulane.edu
+University of Arizona http://www.arizona.edu/home/libraries.php 
+University of Cal-Berkeley http://www.lib.berkeley.edu
+University of Cal-Los Angeles http://www2.library.ucla.edu
+University of Cal-Riverside http://library.ucr.edu
+University of Florida http://web.uflib.ufl.edu
+University of Houston http://info.lib.uh.edu
+University of Idaho http://www.lib.uidaho.edu
+University of Iowa http://www.lib.uiowa.edu
+University of Maine http://www.library.umaine.edu
+University System of Maryland and Affiliated Institutions http://www.itd.umd.edu 
+University of Michigan http://www.lib.umich.edu
+University of Minnesota http://www1.umn.edu
+University of New Orleans http://www.uno.edu
+University of North Carolina http://www.ils.unc.edu/index.html
+University of North Carolina-Charlotte http://www.uncc.edu
+University of Virginia http://www.virginia.edu/libraries
+Vanderbilt University http://www.library.vanderbilt.edu
+Washington University http://www.lib.washington.edu
+  
+ 
+State Government Listings 
+Alabama http://www.alabama.gov
+Alaska http://www.state.ak.us
+Arizona http://az.gov
+Arkansas http://www.state.ar.us
+California http://www.ca.gov
+Colorado http://colorado.gov
+Connecticut http://www.ct.gov
+Delaware http://delaware.gov
+Florida http://www.myflorida.com
+Georgia http://www.georgia.gov
+Hawaii http://www.ehawaii.gov
+Idaho http://www.state.id.us
+Illinois http://www.illinois.gov
+Indiana http://www.state.in.us
+Iowa http://www.iowa.gov
+Kansas http://www.kansas.gov
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.535 
+Kentucky http://kentucky.gov
+Louisiana http://www.louisiana.gov
+Maine http://www.maine.gov
+Maryland http://www.maryland.gov
+Massachusetts http://www.mass.gov
+Michigan http://www.michigan.gov
+Minnesota http://www.state.mn.us
+Mississippi http://www.ms.gov
+Missouri http://www.mo.gov
+Montana http://mt.gov
+Nebraska http://www.nebraska.gov
+Nevada http://www.nv.gov
+New Hampshire http://www.nh.gov
+New Jersey http://www.state.nj.us
+New Mexico http://www.newmexico.gov
+New York http://www.state.ny.us
+North Carolina http://www.state.nc.us
+North Dakota http://www.nd.gov
+Ohio http://www.ohio.gov
+Oklahoma http://www.ok.gov
+Oregon http://www.oregon.gov
+Pennsylvania http://www.state.pa.us
+Rhode Island http://www.ri.gov
+South Carolina http://www.sc.gov
+South Dakota http://www.sd.gov
+Tennessee http://www.tennessee.gov
+Texas http://www.state.tx.us
+Utah http://www.utah.gov
+Vermont http://vermont.gov
+Virginia http://www.virginia.gov
+Washington http://www.state.wa.us
+West Virginia http://www.wv.gov
+Wisconsin http://www.wisconsin.gov
+Wyoming http://wyoming.gov
+  
+ 
+Telephone Numbers and Addresses 
+AOL Hometown-home page finder http://site.aol.com/netfind/hometown.html 
+AT&T AnyWho http://www.anywho.com
+555-1212 http://www.555-1212.com
+Big Yellow http://www.bigyellow.com
+Bigbook http://www.bigbook.com 
+E-mail addresses, reverse phone http://www.iaf.net
+GTE Superpages http://www.superpages.com
+InfoSpace http://www.infospaceinc.com
+InfoUSA http://www.infousa.com
+Intelius-people search http://find.intelius.com
+Military Personnel Records http://www.archives.gov
+PeopleFinders.com http://www. peoplefinders.com
+People Search http://www. peoplesearch.net
+Phone Numbers (Infobel) http://www.infobel.com/teldir
+Register.com http://www.register.com
+Search-By-Number http://www.search-by-number.com
+Accessing Information Online  Investigation 
+3.536   2011 Fraud Examiners Manual  
+Semaphore Corp http://www.semaphorecorp.com
+Switchboard http://www.switchboard.com
+The PI Mall http://www.pimall.com
+U.S Web Finder http://uswebfinder.com
+WhoWhere? http://www.whowhere.com
+Yahoo! People Search http://people.yahoo.com
+Yellowbook http://www.yellowbook.com
+  
+ 
+Maps  
+Bing Maps http://www.bing.com/maps
+Google Maps http://maps.google.com
+MapQuest http://www.mapquest.com
+Maps On Us http://www.mapsonus.com
+  
+ 
+Databases — Public Record Searches 
+BRB Publications, Inc. http://www.brb pub.com
+ChoicePoint http://www.choice point.net
+ChoicePoint: AutotrackXP http://atxp.choicepoint.com
+DCS Information Systems http://www.dnis.com
+Dialog http://www.dialog.com
+Diligenz http://www.diligenz.com
+Dun & Bradstreet http://www.dnb.com
+Experian http://www.experian.com
+FedWorld Http://www.fedworld.gov
+G.S. Public Record Services http://www.gaprs.biz
+InfoUSA http://www.infousa.com
+KnowX http://www.knowx.com
+LexisNexis http://global.lexisnexis.com/us
+Locate Fast http://www.loc8fast.com
+Merlin Information Systems http://www.merlindata.com
+National Center for Health Statistics, Vital Records http://www.cdc.gov/nchs 
+Noncommercial Organizations http://www.pir.org
+PublicData http://www.publicdata.com
+Searchsystems.net http://www.searchsystems.net
+Social Security Number Verification Services http://www.veris-ssn.com
+USDatalink http://www.usdatalink.net
+  
+ 
+Legal Resources 
+Docusearch Investigations http://www.docusearch.com
+Administrative Office of the U.S. Courts http://www.uscourts.gov
+Attorney search http://lawyers.findlaw.com
+California Laws http://www.leginfo.ca.gov/calaw.html
+Courthouse News http://www.courthousenews.com
+Cyber Securities Laws http://www.cybersecuritieslaw.com
+Divorce Central http://www.divorcecentral.com
+Federal Legislative Information on the Internet http://thomas.loc.gov 
+FindLaw http://www.findlaw.com
+FindLaw California Codes and Statutes http://california.findlaw.com
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.537 
+Florida Statutes http://www.fdle.state.fl.us/statutes
+Law on the Web http://www.law.com
+Lawyers http://www.lawyers.com
+Lawyer Directory http://www.lawyers.findlaw.com
+Legal Ethics http://www.legalethics.com
+Legal Info Institute of Cornell http://www.law.cornell.edu
+Legal Research on the Web http://gsulaw.gsu.edu/metaindex
+Legal Studies at the University of Massachusetts http://www.umass.edu/legal 
+Martindale http://www.martindale.com
+Money Laundering and Terrorist Financing http://www.occ.treas.gov/BSA/BSAmain.htm 
+National Center for State Courts http://www.ncsconline.org
+Nolo http://www.nolo.com
+Online Sunshine — Florida Legislature http://www.leg.state.fl.us
+Practical Law Company http://us.practicallaw.com
+Reporters Committee for Freedom of the Press http://www.rcfp.org
+Reporters Committee — Taping Conversations http://www.rcfp.org/taping/index.html 
+Supreme Court of the U.S. http://www.supremecourt.gov
+U.S. Supreme Court Decisions - before 1975 http://supcourt.ntis.gov
+U.S. Supreme Court Internet Sites http://llrx.com/features/scourtsites.htm 
+University of Chicago Law School http://www1.lib.uchicago.edu
+  
+ 
+Government Sites and Criminal Justice Resources 
+Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) http://http://www.atf.gov/ 
+Bureau of Industry and Security’s List of Denied Persons http://www.bis.doc.gov/dpl 
+Central Intelligence Agency http://www.cia.gov
+Class Action http://www.classaction.com 
+County Sheriff’s Offices — By State http://www.corrections.com/links
+Court Websites http://www.uscourts.gov
+Courtlink http://www.lexisnexis.com/courtlink/online 
+Database of Government Websites http://www.usa.gov
+Federal Citizen Information Center http://www.pueblo.gsa.gov
+FBI Law Enforcement Bulletin http://www.fbi.gov/publications/leb/leb.htm 
+U.S. Department of Homeland Security http://www.dhs.gov
+FedWorld  http://www.fedworld.gov
+Federal Bureau of Investigation http://www.fbi.gov
+Federal Bureau of Prisons http://www.bop.gov
+Federal Election Commission http://www.fec.gov
+Federal Election Commission information http://www.fec.gov/ans/answers.shtml 
+Federal Inspector General http://www.ignet.gov
+Federal Judicial Center http://www.fjc.gov
+Florida Department of Corrections http://www.dc.state.fl.us
+Florida Department of Law Enforcement http://www.fdle.state.fl.us
+Florida Department of State http://www.dos.state.fl.us
+Florida Government Website http://myflorida.com/portal/Government 
+GovSpot http://www.govspot.com
+Internal Revenue Service http://www.irs.gov
+Investigator’s Guide to the Sources of http://www.gao.gov/special.pubs/soi.htm 
+Accessing Information Online  Investigation 
+3.538   2011 Fraud Examiners Manual  
+Information (GAO/OSI-97-2) 
+Library of Congress http://www.loc.gov
+National Address Server http://www.cedar.buffalo.edu/adserv.html 
+National Archives  http://www.archives.gov
+National Center for State Courts http://www.ncsconline.org
+National Criminal Justice Reference Service http://www.ncjrs.org
+Noblis http://www.noblis.org
+Nonprofit Gateway http://www.usa.gov/Business/Nonprofit.shtml 
+Directorate of Defense Trade Controls http://pmddtc.state.gov
+Police Officers Internet Directory http://www.officer.com
+Public Access to Electronic Records — PACER http://pacer.psc.uscourts.gov 
+Published List of Recalls — National Highway Traffic Safety Administration http://www-odi.nhtsa.dot.gov 
+Royal Canadian Mounted Police http://www.rcmp-grc.gc.ca
+SEC Enforcement Regulatory Actions http://www.sec.gov/rules.shtml
+SEC Division of Enforcement http://www.sec.gov/divisions/enforce.shtml 
+Securities & Exchange Commission EDGAR http://www.sec.gov/edgar.shtml 
+Securities Class Action Clearinghouse http://securities.stanford.edu
+Selective Service System http://www.sss.gov
+Sex Offenders Registry http://www.fbi.gov/hq/cid/cac/states.htm 
+Social Security Death Index Search http://ssdi.rootsweb.com
+SSN Validation Database http://usinfosearch.com/ssn_validation_database.htm 
+State and Federal Prisons http://www.bop.gov
+State and Local Government on the Internet http://www.statelocal gov.net 
+State Legislatures http://www.ncsl.org
+Superior Information Services http://www.superiorinfo.com
+Texas Department of Public Safety—Crime Records http://records.txdps.state.tx.us 
+USA.gov http://www.usa.gov
+U.S. Commodity Futures Trading Commission http://www.cftc.gov 
+U.S. Department of Justice http://www.usdoj.gov
+U.S. Department of Justice — Computer Crime and Intellectual Property Section http://www.cybercrime.gov 
+U.S. Federal Inspectors General http://www.ignet.gov
+U.S. Federal Communications Commission http://www.fcc.gov
+U.S. Federal Deposit Insurance Corporation http://www.fdic.gov
+U.S. Federal Food & Drug Administration http://www.fda.gov
+U.S. General Services Administration http://www.gsa.gov
+U.S. Government Printing Office http://www.access.gpo.gov
+U.S. Federal Trade Commission http://www.ftc.gov
+U.S. Government Accountability Office http://www.gao.gov
+U.S. Patent and Trademark Office http://www.uspto.gov
+U.S. Postal Service http://www.usps.gov/ncsc
+U.S. Supreme Court http://www.supremecourtus.gov
+United Nations Crime & Justice Information Network (UNCJIN) http://www.uncjin.org 
+Vital Records Database http://www.vitalrec.com
+Voter’s Registration http://www.global-locate.com
+White House http://www.whitehouse.gov
+  
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.539 
+Other Fraud-Related Websites  and Websites of Interest 
+ACL — Data Analysis Software http://www.acl.com
+Active Most Wanted and Criminal Investigations http://www.activemostwanted.com 
+Association of College and University Auditors http://www.acua.org 
+AFU and Urban Legends Archive http://www.snopes.com
+Any Birthday http://www.anybirthday.com
+Association of Certified Fraud Examiners http://www.ACFE.com
+Better Business Bureau Web Server http://www.bbb.org
+Broward County Sheriff’s Office http://www.sheriff.org
+CBA: Consumer Tips for Visa and MasterCard http://www.cba.ca
+Company Site Locator http://www.switchboard.com
+Computer Security Institute http://www.gocsi.com
+Consumer Education — Fraud http://www.ftc.gov/bcp/consumer.shtm 
+Corrections Connection http://www.corrections.com
+CPA Directory http://www.cpadirectory.com/index.cfm 
+Check Fraud http://www.ckfraud.org
+Black Book Online http://www.blackbookonline.info
+Cyber Space Law Center http://www.findlaw.com/01topics/10cyberspace/index.html
+Dan Moldea http://www.moldea.com
+EndFraud.com http://www.endfraud.com
+Financial Scandals http://www.ex.ac.uk/~RDavies/arian/scandals 
+Forensic Accounting Information http://www.forensic-accounting-information.com 
+Fraud Index http://www.scambusters.org
+Fuld & Company’s Internet Intelligence Index http://www.fuld.com 
+High Technology Crime Investigation Association http://htcia.org 
+Hoover’s http://www.hoovers.com
+Identity Theft—Privacy Rights Clearinghouse http://www.privacyrights.org  
+Identity Theft Assumption and Deterrence Act http://www.identitytheft.org 
+Internet Anti-Scam http://www.nerdworld.com/nw1319.html 
+Internet Center for Corruption Research http://www.icgg.org
+Internet Crime Complaint Center http://www.ic3.gov
+Inventor Fraud Center, National http://www.inventorfraud.com
+Investor Protection Trust http://www.investor protection.org
+Justice Reference Service, National http://www.ncjrs.org
+Loss Prevention Concepts http://www.lpconline.com
+Missing Money http://www.missingmoney.com
+Municipal Bond Scandals http://www.lissack.com
+BBB Wise Giving Alliance http://give.org
+National Consumers League’s Fraud Center http://www.fraud.org
+National White Collar Crime Center http://www.nw3c.org
+Network Solutions — Website operator Information http://www.networksolutions.com 
+Nigeria - The 419 Coalition Website http://home.rica.net/alphae/419coal
+Noble Ventures — Asset Searches http://www.nobleventures.com
+Offshore Business News & Research http://offshorebusiness.com
+Ponzi Schemes http://www.crimes-of-persuasion.com
+Accessing Information Online  Investigation 
+3.540   2011 Fraud Examiners Manual  
+Compliance Headquarters http://www.complianceheadquarters.com 
+Privacy Tools http://www.privacytools.com
+Privacy Rights Clearinghouse http://www. privacyrights.org/links.htm 
+Scambusters http://www.scambusters.org
+Scams and Swindles http://www.swindles.com
+ScamWatch http://www.scamwatch.gov.au
+Security Management Online http://www.securitymanagement.com
+Software & Information Industry Association - Anti-Piracy Division http://www.siia.net/piracy 
+SSA Fraud Reporting http://www.socialsecurity.gov
+Taxpayers Against Fraud http://www.taf.org
+TD Bank Fraud Prevention http://www.tdbanknorth.com/bank/fraud_ prevention.html
+Urban Legends Reference Pages http://www.snopes.com
+U.S. Postal Inspection Service — Consumer Fraud http://postalinspectors.uspis.gov 
+Verizon Business http://www.verizonbusiness.com/us
+Virus Bulletin http://www.virusbtn.com/resources/ prevalence 
+Website hoax— F-Secure http://www.f-secure.com/virus-info/hoax 
+Website hoax — Vmyths http://www.vmyths.com
+Website hoax — Symantec http://www.symantec.com/business/security_response
+Whistleblower’s Website: Phillips and Cohen http://www.phillipsandcohen.com
+World Bank http://www.worldbank.org
+  
+ 
+Health Care/Insurance Fraud  
+AMA Select http://www.ama-assn.org/ama/home/index.shtml 
+America’s Health Insurance Plans http://www.ahip.org
+American Bar Association—Medicine & Law Committee http://www.abanet.org/tips/medicine/links.html#fraud 
+American Medical Association http://www.ama-assn.org
+Coalition Against Insurance Fraud http://www.insurancefraud.org
+Corrections Links — Health Care http://www.corrections.com/networks/healthcare 
+Department of Health and Human Services OIG http://www.hhs.gov 
+Ed Hayes — Indexes to medical sites http://www.edha yes.com
+Excluded Parties List System http://www.epls.gov
+Health Information Technology — U.S. Dept. of Health and Human Services http://www.hhs.gov/healthit/federalprojectlist.html 
+HIPAA  http://www.cms.hhs.gov/HIPAAGenInfo 
+International Association of Special Investigation Units http://www.iasiu.org 
+Medical Economics Magazine http://www.memag.com
+Medical Information Bureau http://www.mib.com
+Medicare Fraud and Abuse Training — Online http://www.cms.hhs.gov/Contr actorLearningResources 
+National Association of Insurance Commissioners http://www.naic.org 
+National Coalition on Health Care http://www.nchc.org
+National Fraud Information Center http://www.fraud.org
+National Health Care Anti-Fraud Association http://www.nhcaa.org 
+National Insurance Crime Bureau http://www.nicb.org
+National Practitioner Data Bank http://www.npdb-hipdb.com
+Office of Inspector General, Health and http://oig.hhs.gov
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.541 
+Human Services Office of Inspector General, Social Security http://www.ssa.gov/oig/guideline.htm
+PDR — Physician Desk Reference http://www.pdr.net
+Property Casualty Insurer’s Association of America http://www.pciaa.net/sitehome.nsf/main 
+Research America — medical links http://www.researchamerica.org/links
+The HMO Page http://www.hmo page.org
+Ultimate Insurance Links http://www.ultimateinsurancelinks.com 
+University of Florida—College of Medicine — Compliance http://www.med.ufl.edu/research/rac/compliance 
+Insurance Quotes http://www.insurance quotes.com
+  
+ 
+State Insurance Fraud Divisions  
+Alabama http://www.aldoi.gov
+Alaska http://www.commerce.state.ak.us/insurance 
+Arizona http://www.id.state.az.us/fraud.html
+Arkansas http://insurance.arkansas.gov
+California http://www.insurance.ca.gov/0300-fraud/index.cfm 
+Colorado http://www.dora.state.co.us/Insurance
+Connecticut http://www.ct.gov/cid
+Delaware http://www.delawareinsurance.gov
+Florida http://www.fldfs.com/fraud
+Georgia http://www.inscomm.state.ga.us
+Hawaii http://dccakaku1.hawaii.gov/dcca/areas/ins 
+Idaho http://www.doi.idaho.gov
+Illinois http://www.insurance.illinois.gov
+Indiana http://www.in.gov/idoi
+Iowa http://www.iid.state.ia.us
+Kansas http://www.ksinsurance.org
+Kentucky http://insurance.ky.gov
+Louisiana http://www.ldi.state.la.us
+Maine http://www.maine.gov/pfr/insurance
+Maryland http://www.mdinsurance.state.md.us
+Massachusetts http://www.mass.gov/doi
+Michigan http://www.michigan.gov
+Minnesota http://www.state.mn.us
+Mississippi http://www.mid.state.ms.us
+Missouri http://insurance.mo.gov
+Montana http://sao.mt.gov/insurance/index.asp
+Nebraska http://www.doi.ne.gov
+Nevada http://www.doi.state.nv.us
+New Hampshire http://www.nh.gov/insurance
+New Mexico http://www.stopfraud.org/
+New Jersey http://www.state.nj.us/dobi/index.html 
+New York http://www.ins.state.ny.us/nyins.htm
+North Carolina http://www.ncdoi.com
+North Dakota http://www.nd.gov/ndins
+Ohio http://www.ohioinsurance.gov
+Oklahoma http://www.oid.state.ok.us
+Oregon http://www.cbs.state.or.us/external/ins 
+Pennsylvania http://www.insurance.pa.gov
+Puerto Rico http://www.ocs.gobierno.pr
+Accessing Information Online  Investigation 
+3.542   2011 Fraud Examiners Manual  
+Rhode Island http://www.dbr.state.ri.us/divisions/insurance 
+South Carolina http://www.doi.sc.gov
+South Dakota http://www.state.sd.us/drr2/reg/insurance 
+Tennessee http://www.state. tn.us/commerce/insurance 
+Texas http://www.tdi.state.tx.us
+Utah http://www.insurance.utah.gov
+Vermont http://www.bishca.state.vt.us
+Virginia http://www.scc.virginia.gov/division/boi 
+Washington http://www.insurance.wa.gov
+West Virginia http://www.wvinsurance.gov
+Wisconsin http://oci.wi.gov
+Wyoming http://insurance.state.wy.us
+  
+ 
+Telecom Fraud/Security  
+Federal Communications Commission http://www.fcc.gov
+Financial Industry Regulatory Authority http://www.finra.org
+Help Net Security http://www.net-security.org
+International Engineering Consortium http://www.iec.org
+Neural Technologies http://www.neuralt.com
+Travelassist Magazine — Phone Card Fraud http://www.travelassist.com/mag/a27.html 
+ 
+ 
+Auditing 
+American Institute of Certified Public Accountants http://www.aicpa.org 
+COSO http://www.coso.org
+Government Auditing Standards http://www.gao.gov/govaud/ybk01.htm 
+Institute of Internal Auditors http://www.theiia.org
+Internal Auditing World Wide Web http://www.bitwise.net/iawww
+International Auditing and Assurance Standards Board http://www.ifac.org/IAASB 
+UNC Business Manual  http://www.unc.edu/finance/busman
+  
+ 
+Investment Resources 
+Corporate Information http://www.corporateinformation.com
+EDGAR Online http://freeedgar.com
+Kiplinger http://www.kiplinger.com
+Thestreet.com http://www.thestreet.com
+Wall Street Network http://www.wallstreetnet.com
+  
+ 
+International Sites 
+ 
+Global Search Engines 
+Bubl link http://bubl.ac.uk
+Euroseek  http://www.euroseek.com
+Matilda — Mega Search Engine Australia http://www.aussieseek.com
+Search Engine Colossus http://www.searchenginecolossus.com
+Search New Zealand http://www.searchnz.co.nz
+Voila http://www.voila.fr
+WebWombat http://webwombat.com.au
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.543 
+Newspapers 
+BBC News http://news.bbc.co.uk
+Evening Standard http://www.thisislondon.co.uk/standard 
+Financial Times http://news.ft.com/home
+International Herald Tribune http://global.nytimes.com
+Internet Public Library http://www.ipl.org/div/news
+Le Monde http://www.lemonde.fr
+Newspaper Society http://www.newspapersoc.org.uk
+Onlinenewspapers.com http://www.onlinenewspapers.com
+The Daily Telegraph http://www.telegraph.co.uk
+The Guardian Unlimited http://www.guardian.co.uk
+The Independent http://www.independent.co.uk
+The Irish Times http://www.ireland.com
+The Newspaper Society Database http://www.nsdatabase.co.uk/index.html 
+The Scotsman http://www.scotsman.com
+The Times Online http://www.timesonline.co.uk
+Times Higher Education Supplement http://www.timeshighereducation.co.uk/ 
+Times of India http://timesofindia.indiatimes.com
+
+
+News and Information Services 
+BBC News http://www.bbc.co.uk
+Canada.com http://www.canada.com/index.html
+Euronews  http://www.euronews.net
+Future Events News Service http://www.fens.com
+Global Investigative Journalism http://www.globalinvestigativejournalism.org 
+Hansard (House of Commons Debates http://www.publications.parliament.uk/pa/cm/cmhansrd.htm
+ITN Online http://itn.co.uk
+Microsoft Network News http://uk.msn.com
+NewsNow http://www.newsnow.co.uk
+NineMSN http://ninemsn.com.au
+Sky News http://news.sky.com/skynews/home
+The Economist http://www.economist.com
+The Press Association http://www.pressassociation.com
+UK Business Park — Media News http://www.ukbusiness park.co.uk
+Yahoo! UK & Ireland News http://uk.news.yahoo.com
+  
+ 
+Libraries 
+Aberdeen University http://www.abdn.ac.uk/library
+British Library http://www.bl.uk
+Cambridge University http://www.lib.cam.ac.uk
+Edinburgh University http://www.lib.ed.ac.uk/lib
+Exeter University  http://www.as.ex.ac.uk/library
+Glasgow University http://www.lib.gla.ac.uk
+King’s College, London http://www.kcl.ac.uk/iss
+Oxford University http://www.ox.ac.uk/libraries
+Public Libraries (UK) http://dspace.dial.pipex.com/town/square/ac940/weblibs.html
+University, London’s Global http://www.ucl.ac.uk
+University of Bath http://www.bath.ac.uk/library
+University of East Anglia http://www1.uea.ac.uk/cm/home/services/units/is 
+ 
+ 
+Accessing Information Online  Investigation 
+3.544   2011 Fraud Examiners Manual  
+Telephone Numbers 
+AOL International Directories http://site.aol.com/netfind/international.html 
+Infobel World http://www.infobel.com/teldir
+UK Business Directory http://www.freeindex.co.uk
+Yellow Pages http://www.yell.com
+  
+ 
+Maps 
+MapMachine http://plasma.nationalgeographic.com/mapmachine 
+Maporama http://world.maporama.com
+MapQuest http://www.mapquest.com
+MultiMap http://www.multimap.com/map/places.cgi 
+Ordnance Survey http://www.ordnancesurvey.co.uk/oswebsite 
+Street Map http://www.streetmap.co.uk
+The RAC http://www.rac.co.uk
+  
+ 
+Legal Resources 
+Access to Law http://www.Accesstolaw.com
+Centre for Commercial Law Studies — University of London http://www.ccls.edu 
+Consumer Law Center http://www.hg.org/consume.html
+Dundee University Legal Websites Directory http://www.Dundee.ac.uk/law
+FindLaw International Resources http://www.findlaw.com/12international 
+Her Majesty’s Court Service  http://www.hmcourts-service.gov.uk
+InfoLaw Gateway http://www.infolaw.co.uk
+LawLink http://www.lawlink.ie
+The Law Commission http://www.lawcom.gov.uk
+The Law Society of England and Wales http://www.lawsociety.org.uk/home.law 
+ 
+ 
+Government Sites and Law Enforcement Sites 
+Australia — Attorney General’s Department http://www.ag.gov.au
+Australia’s Ministerial Council on Consumer Affairs http://www.consumer.gov.au 
+Australian Courts and Legislation http://www.nla.gov.au/oz/law.html
+Australian Department of Foreign Affairs and Trade http://www.dfat.gov.au 
+Australian Privacy Commissioner http://www.privacy.gov.au
+City of London Police http://www.cityoflondon.police.uk
+Department for Business Enterprise & Regulatory Reform http://www.berr.gov.uk 
+Government Information Centre http://www.direct.gov.uk/en/index.htm 
+Information Commissioner Office http://www.ico.gov.uk
+Financial Services Authority http://www.fsa.gov.uk
+Foreign and Commonwealth Office http://www.fco.gov.uk
+HM Treasury http://www.hm-treasury.gov.uk
+International Centre for Criminal Law Reform and Criminal Justice Policy http://www.icclr.law.ubc.ca 
+Ministry of Economic Development http://www.med.govt.nz
+National Criminal Intelligence Service http://www.direct.gov.uk/en/index.htm 
+New Zealand Ministry of Consumer Affairs http://www.consumeraffairs.govt.nz
+New Zealand Government Online http://newzealand.govt.nz
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.545 
+New Zealand Police Links http://www.policeassn.org.nz/links.htm 
+Organized Crime—Nathanson Centre http://www.yorku.ca/nathanson
+Intellectual Property Office http://www.ipo.gov.uk
+Royal Canadian Mounted Police http://www.rcmp-grc.gc.ca
+Serious Organised Crime Agency http://www.soca.gov.uk
+The European Commission http://ec.europa.eu
+The Home Office  http://www.homeoffice.gov.uk
+The National Archives http://www.nationalarchives.gov.uk/default.htm 
+nited Kingdom Parliament http://www.parliament.the-stationery-office.co.uk 
+Worldwide Embassies and Consulates http://www.embassyworld.com
+  
+ 
+Specialized Fraud-Related Websites and Websites of Interest  
+Association of British Insurers http://www.abi.or.uk
+Australian Institute of Criminology http://www.aic.gov.au
+Department for Work and Pensions http://www.dwp.gov.uk
+HM Treasury Fraud Reports http://www.hm-treasury.gov.uk
+Serious Fraud Office http://www.sfo.gov.uk
+The Insolvency Service http://www.insolvency.gov.uk
+  
+ 
+Auditing 
+UK National Audit Office http://www.nao.org.uk
+HM Revenue and Customs http://www.hmrc.gov.uk
+Insolvency Procedures and Corporate Rescue http://www.insolvency.gov.uk 
+Association of Business Recovery Professionals http://www.r3.org.uk 
+Institute of Chartered Accountants in England and Wales http://www.icaew.co.uk 
+Association of Charted Certified Accountants http://www.acca.co.uk 
+Charted Institute of Management Accountants http://www.cimaglobal.com 
+Institute of Chartered Accountants of cotland http://www.icas.org.uk 
+Institute of Chartered Accountants in Ireland http://www.icai.ie 
+London International Financial Futures and Options Exchange — Euronext http://www.euronext.com 
+
+
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.601 
+
+
+
+:
+
+
+access inform onlin
+fraud examin now have a number of onlin investig resourc avail through their
+person comput but not so long ago examin had to travel to the counti courthous
+or state capit to search for public record fraud examin todai howev have enough
+inform avail through differ onlin sourc to conduct entir inquiri without
+leav their seat
+investig with the internet
+a great deal of inform can be access through the internet for littl or no cost thi
+section explain some internet basic as well as how to us it servic to obtain inform
+about peopl busi and fraud in gener
+the internet is a decentr global network of million of divers comput and
+comput network these network can all talk to each other becaus thei have agre to
+us a common commun protocol call tcpip which is name after it two most
+import protocol transmiss control protocol tcp and internet protocol ip
+essenti the internet is a tool for commun between peopl and busi in
+gener the internet is a giant network link togeth million of comput worldwid
+the internet is not organ by ani uniform system such as librari dewei decim
+system instead it remain a freefloat looselystrung gold mine of inform avail
+to those who understand how to us it unless you know the exact address of the internet
+site you ar look for it is necessari to learn how to find the inform
+an internet site or page is a singl web address gener introduc by a person or a
+compani to post inform on a topic or to gener or promot busi there ar a
+number of websit that will be of us to a fraud examin and some ar list and
+discuss at the end of thi chapter
+tradit method for find inform on the internet
+the most basic wai to find inform on the internet is to execut search us search
+engin or metasearch engin or to locat inform us websit directori
+access inform onlin investig
+3502 2011 fraud examin manual
+search engin
+search engin ar websit tool that allow you to type in keyword describ the subject in
+which you ar interest the search engin will then scour the page of the internet and
+attempt to locat page that mai have pertin inform for instanc in a search for the
+keyword fraud the search engin will like bring back a number of page that have some
+relev link to fraud such as the associ of certifi fraud examin websit locat
+at wwwacfecom there ar sever promin search engin on the internet and each
+function in a differ wai an extens list of search engin is provid at the end of the
+chapter howev a few of the more popular engin ar describ below
+googl
+googl is the mostus search engin in the unit state and ha advanc search
+capabl individu web page ar rank by the engin softwar accord to how
+often the page is link to by other determin the page import by the number of
+link and the ident of the link page googl is a good sourc for find target
+inform on a particular topic addition learn googlespecif search oper will
+provid the investig with an extrem power tool for onlin investig
+for exampl googl group is a searchabl usenet archiv it scan thousand of post
+of usenet group which ar electron bulletin board classifi by subject see
+newsgroup below a search us googl group will reveal instanc in which the
+term you specifi appear in a post on the internet you can search by the name or email
+address of user who have post to newsgroup or by subject keyword attach and
+so on
+bing
+bing formerli live search window live search and msn search is the current web
+search engin from microsoft bing automat group search result in differ
+categori depend on the type of search user ar conduct bing also provid the
+abil to save and share search histori via window live skydriv facebook and email
+in addit to provid mani of the same search resourc found in other popular engin
+eg it provid search specif to travel video pictur and map bing ha sever
+us featur for exampl bing maintain an ongo histori of search give
+research a wai to identifi what thei look up and in what order and bing imag
+search is easier to manag than other becaus it displai more imag on the result screen
+investig access inform onlin
+2011 fraud examin manual 3503
+altavista
+altavista is a detailori search engin becaus it read the individu text of everi page
+list on the internet altavista is veri us for find random inform if you ar
+simpli cast your line to see what inform might be avail on a topic thi is a
+good engin to us howev altavista search ar so thorough you will encount everi
+page that contain your keyword end with as mani as 200000 hit success altavista
+search requir you to construct your search carefulli
+yahoo
+yahoo is a multifacet websit contain a firstrat directori see below for more
+inform about directori but it is also equip with a search engin in 2009
+howev yahoo announc that it search engin would be power by bing and as of
+juli 2010 up to 25 percent of the search result provid by yahoo search ar power by
+bing
+excit
+excit search engin is good for broad gener topic becaus it a simultan search of
+the web new headlin sport score and compani inform result ar group on a
+singl page weed through the result can sometim be a chore
+lyco
+lyco provid advanc search capabl includ the abil to search for specif
+media it lyco pro featur allow user to finetun search lycoss index of web page
+is smaller than those of some other servic
+askcom
+formerli askjeev askcom is a good site for beginn and for gener queri the
+engin lead user through question to help narrow the search and also search six other
+search site for similar servic see metasearch engin below askcom abil to
+interpret natur languag make it easi to us though construct precis queri can be
+difficult for the same reason
+metasearch engin
+metasearch engin send user request to sever other search engin and displai the
+result some of the more common metasearch engin ar describ below
+access inform onlin investig
+3504 2011 fraud examin manual
+metacrawl
+metacrawl us metasearch technolog to search the internet top search engin
+includ googl yahoo search bing askcom and more it search the best result from
+the combin pool of the world lead search engin instead of result from onli on
+search engin
+dogpil
+own by infospac thi engin send a queri to a customiz list of search engin
+directori and specialti search site eg googl yahoo search bing askcom and then
+displai the result from each search engin individu onc the result ar retriev the
+innov metasearch technolog us by dogpil goe to work remov duplic and
+analyz the result to help ensur that the best result top the list the comparison view
+featur let user compar result from the lead engin with the click of a button
+mamma
+mamma is a smart metasearch engin everi time user type in a queri mamma
+simultan search a varieti of engin directori and content site properli format
+the word and syntax for each compil their result in a virtual databas elimin
+duplic and displai them in a uniform manner accord to relev
+surfwax
+surfwax claim to provid the best us of relev search result from the open internet it
+us a cohes matrix to search sort extract and relat inform from both the internet
+and enterpris intranet surfwax offer multipl search tool includ focusword
+searchset sitesnap and contextzoom
+directori
+the road to mine inform on the internet doe not alwai go through search engin
+some of the best investig tool an examin ha onlin ar directori as the name
+suggest directori ar special websit that collect the name of numer other relat
+websit allow the user to brows through a complet list of possibl site to visit
+directori contain link to page that have a common some allinclus directori
+cover a plethora of differ topic and other ar more focus on particular subject or
+disciplin these includ sever account and audit directori that fraud examin
+mai find veri us
+investig access inform onlin
+2011 fraud examin manual 3505
+the upsid to us directori is that you can logic navig a search eas through the
+differ categori until you find what you ar look for howev directori contain
+onli a portion of the site and page avail on the internet therefor the fraud examin
+should us directori in concert with a search engin and not instead of on
+yahoo
+in addit to it search engin yahoo ha an intric directori possibl the most
+comprehens and allinclus on the internet the directori is built and maintain by
+yahoo employe with input from user yahoo function much like a pyramid it begin
+with sever larg pool of categori such as entertain and govern and then
+allow the user to select more specif option from each broad categori for instanc an
+examin could select educ then univers then univers librari until
+final encount a direct link to the main librari catalog for the univers of texa by
+pare down your select to increasingli narrow topic you can gener find sever
+us websit
+virtual librari
+the virtual librari vl is the oldest catalog of the web start by tim bernersle the
+creator of the html that make the internet possibl unlik commerci catalog it is run
+by a loos confeder of volunt who compil page of kei link for particular area in
+which thei have expertis while not the biggest index of the web the vl page ar wide
+prais as guid to particular section of the internet
+internet public librari
+run by librarian thi servic index web page by topic the internet public librari also
+contain an arrai of guid such as onlin magazin and newspap associ and tip
+for conduct research
+open directori project
+found in 1998 open directori project dmozorg is the largest humanedit directori
+on the internet dmozorg provid noncommerci moder of regist site and is
+maintain by a commun of volunt editor it provid site list group into
+categori and subcategori
+access inform onlin investig
+3506 2011 fraud examin manual
+best of the web directori
+the best of the web directori is a commerci directori that provid site list
+categor by topic and region
+businesscom
+businesscom is an internet search engin and web directori that provid site list in
+more than 65000 busi categori
+nontradit method for find inform on the internet
+move beyond the us of googl and other tr adit method of search the internet is
+import for individu conduct fraud examin thi section will examin how to
+us the follow websit to obtain inform on the internet
+ebai
+whoi
+craigslist
+archiv
+zoominfo
+guidestar
+noza
+in addit to the abov site thi section will also discuss how an examin can find
+valuabl inform us social network site
+the websit address in thi discuss ar tri and true resourc that fraud examin
+should be comfort with us but befor us these site establish an undercov email
+account to us when search the email account should be set up through a webbas
+servic like hotmail yahoo or gmail examin should not us ani of the follow
+inform when creat the email account
+person name
+geograph region
+favorit sport team
+hobbi
+in addit a discreet email account should have certain characterist such as a genderneutr
+name the handl should be compris of number and letter that appear to be for
+a purpos give it ad credibl and authent
+investig access inform onlin
+2011 fraud examin manual 3507
+exampl
+ls1942183yahoocom
+ebai
+the onlin auction websit ebaycom can be a valuabl resourc for fraud examin it
+maintain lengthi detail log for each transact but thi highlevel inform should
+be obtain with a subpoena to conduct a more gener search us a person name or email
+address on ebai
+go to advanc search in the upperright corner of ebai home page
+choos find a member from the left column
+type in the first half of the person person email address eg for
+crazybirdgmailcom type crazybird
+after find a match the examin should visit the user ebai profil and read everyth
+avail on the page an examin can gain insight into a fraud examin by examin
+ani item the subject bought or sold and by review ani comment the subject ha made
+onc the examin ha read the user comment he should click the user feedback
+profil along the right side of the page will be a few select item under member
+quick link the investig should select view id histori to see if the member ha
+chang hi id over the past ten year in addit the examin can make the suspect on
+of hi favorit seller to receiv alert when the subject place new item for sale on
+ebai
+the whoi protocol
+whoi is a queri respons protocol that is us to search databas that store domain
+registr record includ domain name server address technic contact and
+address these databas can be queri at the follow site
+networksolutionscom will provid the ownership and registr inform for a
+websit
+arinnet is a whoi server that search for the registr and ip address rang of a
+particular ip address
+allwhoiscom will find the whoi databas for a particular domain name
+whatismyipaddresscom provid a collect of tool for locat inform about an
+ip address
+tracerouteorglik whatismyipaddresscom can be us to trace ip address
+access inform onlin investig
+3508 2011 fraud examin manual
+craigslist
+craigslistorg is a network of onlin commun featur free classifi advertis
+with section dedic to job hous person item for sale servic rsum and so
+on
+the kei to search craigslist is get past the geograph restrict for exampl if the
+examin is look for item in the silicon vallei he cannot search other area at the same
+time to expand the search the examin must specifi anoth area or us
+searchtempestcom a tool that allow user to search multipl craigslist site at onc
+archiv
+archiveorg offer research and historian a view of other websit captur by the
+wayback machin on a specif date to access archiv site enter a web address in the
+search box and the engin will return a list of archiv date avail for exampl a search
+of wwwdata2knowcom return a list of archiv page start on august 18 2000
+zoominfo
+anoth great resourc on the internet is zoominfocom zoominfo collat inform
+from websit and then softwar bot also known as intellig agent captur and match to
+particular individu or compani
+zoominfo search ar conduct by compani person or industri although zoominfo
+search can return a larg amount of inform examin must understand that thi
+inform is gener from other websit and should be verifi
+zoominfo search result look rsum and includ inform like busi experi
+associ connect educ credenti and so on
+guidestar
+guidestar is a great start point to find data about nonprofit guidestar gather and
+public inform about more than 850000 nonprofit organ it obtain
+inform from a varieti of sourc includ the irss form 990 datathi provid
+inform on the file organ mission program and financesand from
+individu organ
+investig access inform onlin
+2011 fraud examin manual 3509
+noza
+nozasearchcom is a webbas databas of charit give design as a research tool for
+nonprofit organ it gather data about privat foundat activ that might be of
+interest to grantseek philanthrop organ and individu donor
+socialnetwork websit
+socialnetwork site can be search like tradit websit although a lot of the
+inform avail on socialnetwork site can be found us tradit search
+engin there is an evergrow number of resourc that an examin can us to search
+these site for exampl each social network ha a search engin for locat member by
+name phone number or email address in gener user can search for member without
+log in eg myspac default set allow nonmemb to view member
+inform and search can be done anonym
+if howev a member profil is privat the research will onli see a snapshot of the
+member inform for exampl to view a member profil in facebook or linkedin
+the research must connect with the other member if an examin want to view a privat
+profil he should creat a compel attract and simpl profil for himself and ask to be
+invit into the subject network it is not necessari to creat a fals ident and examin
+should not us someon els ident but if the examin is interest enough good
+look enough or just savvi enough he will probabl be accept into the network
+an entir separ categori of search engin ha been design specif to find
+inform within social network these search engin us social network to order
+priorit or refin search result some popular socialnetwork search engin includ
+spokeo yonam technorati icerocket and friendfe thi section discuss these search
+engin along with how to search photoshar site
+spokeo
+spokeo is a socialnetwork aggreg site that gather inform about peopl by
+search for their email address on variou socialnetwork site essenti it is
+design to locat and track onlin profil within social network thi site allow user to
+search by a person name email address or phone number thi can be help if an
+examin know about the subject profil in facebook and myspac but is not awar that
+the subject is also a member of hi5 and xanga
+access inform onlin investig
+3510 2011 fraud examin manual
+for investig and research thi is an incred tool that gather subject inform
+in a wai that other research tool cannot on of spokeo best featur is it abil to track
+activ on member profil if the subject post someth on on of the popular socialnetwork
+site such as myspac or facebook the post will appear in spokeo search
+result and that person will be track for futur updat
+spokeo allow a user to search and track a limit number of email address or name for
+free but requir a fee after a certain number of search
+yonam
+yonam is similar to spokeo but it search mani social network that spokeo doe not
+yonam is a free servic but the result can be random spokeo ha a better return rate on
+it search it is import to note that if an examin search by a user email address
+yonam will send the user an email sai that someon wa look up yo name in
+yonam although the email doe not contain the searcher inform it could be
+enough to alert a suspici fraudster
+technorati
+technorati is a search engin for websit like youtub myspac blog xanga and so
+forth the engin search blog with a varieti of filter a user can search by enter a
+topic into the technorati search field or he can us some of the site search categori
+includ photo video and blog us technorati advanc search option the
+examin can narrow down a search to a particular blog and search by tag to site that ar
+link to a particular blog although get start with technorati can be difficult it can
+be a veri us resourc
+icerocket
+icerocket offer a uniqu arrai of tool back by mark cuban owner of the dalla
+maverick icerocket wa design to track what peopl were search for it focus
+primarili on blog us metatag to categor and index the content contain within
+blog as a result a user can search by keyword which captur ani relev match found
+on a websit and priorit match mark as tag search
+like technorati icerocket also allow user to narrow down blog search with an advanc
+search link or by us search oper such as titl author and tag for exampl a search
+investig access inform onlin
+2011 fraud examin manual 3511
+for titlepubl record would find page with public record in their titl similarli a
+search for titlepubl record authorjohn doe will return blog post by john doe that
+have public record in their titl
+in addit to search blog icerocket search through imag directori twitter and
+myspac even though an examin can search myspac directli the icerocket search
+engin tool for myspac present a more tradit search environ
+friendfe
+friendfe is a realtim feed aggreg that consolid the updat from socialnetwork
+site socialbookmark site blog and other type of rss feed friendfe
+facilit track user socialmedia activ eg post on blog or twitter across a
+broad rang of differ social network accord to friendfe websit it goal is to
+make internet content more applic and help by us socialnetwork site as tool for
+discov intrigu inform
+a guid to success internet search
+run search
+the internet is not so much a servic as a tool to tap it rich inform sourc you have
+to learn how to construct proper queri that is you have to learn how to ask for what you
+want search engin all have their limit but the most seriou impedi to locat
+good inform is the user lack of search skill
+most search us keyword for instanc when hunt for the latest statist on check
+fraud the logic keyword ar check and fraud howev if you type in those word the
+search engin would return numer site that have noth to do with check fraud by
+place both word insid quotat mark ie check fraud you will get better result
+still the list of hit will be in the thousand so you might want to further narrow the search
+us the techniqu below
+boolean oper
+the best wai to util a search engin is to us two or possibl three keyword that best
+describ the topic if the word succe on anoth as in the case of check fraud then it mai
+be benefici to us boolean oper to aid on search boolean oper ar symbol that
+access inform onlin investig
+3512 2011 fraud examin manual
+help the search engin to better understand exactli what it is search for put the
+symbol between checkfraud for exampl will indic to the search engin that it is to
+search onli for page that have the word fraud immedi follow check if you insert the
+word and so that the search read check and fraud the search engin will understand to search
+for websit and page that contain both the word check and fraud but not necessarili right
+next to each other
+some of the more common boolean oper symbol or connector ar shown below
+reserv word and nois word
+the connector word and or not and near ar consid reserv word and ar therefor
+ignor when thei appear in a search phrase similarli nois word ar common word with
+veri littl mean eg in of and the such word ar also ignor unless the user put the
+entir phrase in parenthes see the specif search oper section below for more
+direct on reserv and nois word
+the follow ar some of the common nois word ignor by most search engin and
+and or ar mark with an asterisk becaus thei ar both nois word and reserv word
+boolean oper
+design word that must appear right next to each other
+design word that should not appear on a web page
+design a list of word that must appear togeth in an exact order
+such as holi cow
+and design two or more word that must both appear on a page but not
+necessarili next to each other
+or design two connect word on of which must appear on a page
+not design word that should not appear on the page much like the minu
+sign
+near design word that should appear within a certain number of word of
+each other
+investig access inform onlin
+2011 fraud examin manual 3513
+the and of
+hi my there
+when is ar
+so or it
+specif search oper
+onlin research reli on search engin to search web page for specifi keyword and
+return a list of the web page contain the keyword although these engin return
+result instantli and with littl effort the simplic of these tool often remov the benefit
+of more complex search techniqu to determin a search engin or databas abil
+consult the servic faq or search help page
+thi section examin the advanc search featur of the googl and bing becaus thei
+provid some of the most robust and us tool for expert conduct search
+googl oper
+in addit to the basic boolean oper discuss abov sever oper can smarten
+up a googl search and return the right link faster
+oper search result exampl
+search for synonym of a given
+word
+automobil glossari will
+find page with automobil as well
+as word like dictionari glossari
+encyclopedia etc
+defin return definit from websit for
+the particular term
+definefraud will show
+definit for fraud
+site return search result from onli on
+websit
+sitevirtuallibrariancom fraud
+will find all fraudrel page on
+virtuallibrariancom
+filetyp search for item with a particular
+filetyp
+filetypedoc will restrict the
+result to ms word file match
+specifi search term
+link return page that link to a particular
+websit
+linkvirtuallibrariancom will
+return page with link to
+virtuallibrariancom
+access inform onlin investig
+3514 2011 fraud examin manual
+allintitl restrict result to those contain
+all the search term specifi in the
+titl
+allintitl mortgag fraud will
+return onli document that
+contain the word mortgag and
+fraud in the titl
+allintext return document contain all the
+search term in their text
+allintext fraud skim
+materi will return onli page
+in which the word fraud skim
+and materi appear in the text of
+the page
+treat as a placehold for on or
+more word
+fraud alert tell googl to
+find page contain a phrase that
+start with fraud follow by on or
+more word follow by alert
+in addit googl oper can be combin for exampl the queri sitehpcom
+filetypepdf 5010 laserjet printer faq will search for an adob acrobat pdf file of
+frequent ask question regard the 5010 laserjet printer locat on the hewlett
+packard websit
+there ar numer other oper and search techniqu that work with each googl
+search servic a good resourc for lessknown googl oper and search tip is
+wwwgoogleguidecom
+bing oper
+although bing and googl share some of the same search resourc bing ha search
+oper that ar uniqu to it search engin
+oper search result exampl
+contain search for page where there a
+hyperlink to a file with the extens
+swim dolphin
+containswmv will find wmv
+clip of dolphin swim
+inanchor return page that contain the specifi
+term in the link anchor of web page
+inanchor us fraud site
+search for page that ar call
+us fraud site by other
+investig access inform onlin
+2011 fraud examin manual 3515
+inbodi restrict result to those contain all
+the search term specifi in the bodi
+inbodi secur fraud will
+return onli document that
+contain the word secur and
+fraud in their bodi
+intitl restrict result to those contain all
+the search term specifi in the titl
+intitl secur fraud will
+return onli document that
+contain the word secur and
+fraud in their titl
+ip find websit host by a specif ip
+address
+ip198463422 find
+websit host by the specifi
+ip address
+prefer add emphasi to a search term to help
+focu the search result
+fraud preferponzi specifi the
+type of fraud that the user want
+to find
+onlin public databas search
+onlin public record databas ar anoth sourc of inform that can be access
+onlin these databas ar numer and vari thei compil record from the feder
+state and countyloc level and most can be readili access from a home comput after
+subscrib to their servic the cost associ with these databas can be equal vari
+there ar sever access option avail and an examin should be prepar to us ani
+and all separ or in combin keep in mind howev that it mai be necessari to
+spend time examin the actual document to get the whole pictur
+a public record databas will tell the research whether a particular record or some of the
+inform contain in that record exist howev note that such databas will not
+provid a copi of the actual document for exampl an examin can conduct a properti
+record search to find out that john doe own the properti at 121 main street in peoria il
+howev if he need a copi of the actual deed he will have to retriev it from the counti
+clerk offic
+addition there is a wealth of inform now avail on the internet as a caveat
+howev rememb that onlin record compani have to get their inform from
+somewher often it come directli from the counti but if the inform in the counti
+record wa enter into the databas incorrectli then the report you will receiv from the
+access inform onlin investig
+3516 2011 fraud examin manual
+databas compani will also be incorrect therefor it is import to rememb that
+access inform onlin is never a full substitut for an examin of the public
+record itself
+rememb howev that if an examin access certain type of inform through an
+onlin servic he mai be subject to the fair credit report act fcra as discuss in
+the previou chapter again the fcra prohibit consum report agenc from releas
+person inform about an individu eg inform about the consum charact
+gener reput person characterist or mode of live to third parti without
+author and it limit disclosur of consum credit inform such as a subject
+credit histori to third parti thu befor access such inform you should alwai
+contact your attornei
+limit of onlin public databas search
+there ar howev limit to onlin public databas search includ
+onlin coverag vari wide from state to state the fraud examin should determin
+whether specif inform is avail for each investig
+search ar limit in the area thei cover fortun for the crook most of hi public
+record evid is gener file at the counti level if he is smart enough to know
+how to conduct transact outsid hi normal local then he can be tough to track
+without us multijurisdict onlin sourc make sure you ar look in the right
+counti is import you can be off by on counti and miss pertin land hold
+divorc record lien and so forth
+all onlin public record ar brief abstract of the origin public record
+the sourc of the inform compil in a vendor databas must be reliabl
+inform must be check to determin if it is accur and current
+the record or public that have been compil in an electron format mai not go
+back veri far
+also internet search engin ar notori errat in their retriev
+onlin search through databas vendor
+ani public record search should begin with a commerci databas vendor there ar
+sever compani that provid vari level of public record inform to subscrib a
+descript of some of these compani and the record thei can provid ar discuss later
+investig access inform onlin
+2011 fraud examin manual 3517
+these compani provid access to a wide rang of inform that is store in a central
+databas allow a subscrib to access it from hi comput some inform is actual
+retriev in hard copi and mail or fax to the subscrib even though the request wa
+made through the onlin servic
+some compani requir a yearli or monthli subscript fee in addit to the fee for each
+search other oper on a pai as you go principl that allow you to pai onli for the
+search you conduct therefor it is import to shop around to get the best deal for your
+level of usag
+for some practition it mai be more econom to enlist the aid of servic compani
+inform broker and profession onlin investig these compani will conduct
+research for examin typic us onlin servic and manual document retriev from
+local sourc although the cost of these servic is higher than do it yourself it mai be
+the best choic for occasion record search
+us an onlin databas to find inform
+in the past investig hot on the heel of an assethid or suspect were hamstrung by the
+avail investig resourc in attempt to uncov unreport incom the
+investig wa forc to travel to the courthous for the counti in which the suspect
+conduct busi request the counti file avail and take a number these trek to
+the middleofnowher were rare costeffect and were often fruitless in the search for
+pertin inform
+thi ha all chang howev and now mayb the flatfoot feet wont be so flat thank to
+the advent of onlin investig servic such as lexisnexi inquiri to the farflung
+reach of the unit state can be conduct from a person comput these servic
+have packag a varieti of invalu investig sourc at veri reason price
+access to these servic is accomplish in either on of two wai some servic allow
+user to log in through an internet site other provid access to their databas through a
+softwar program and a modem each user ha a user id and password to gain access
+the follow is a descript of how onlin search can be us to conduct background
+check and locat peopl asset and legal record
+access inform onlin investig
+3518 2011 fraud examin manual
+locat peopl us onlin record
+the first step to maxim search result is to discov a past address of the suspect search
+activ should begin from that point second the user should know the most power and
+us type of search which ar identifi below third it is import to keep in mind
+the cost effect of the search activ and avoid order onlin search that yield
+unnecessari or impract inform
+the search methodolog us by most onlin servic is known as textstr match
+which mean that all inform enter in the data inquiri field will seek an exact match in
+the databas typic you mai us truncat techniqu partial or abbrevi entri
+such as the first initi of the first name onli with first name and busi name
+some common type of search us to locat peopl us onlin record ar discuss
+below
+credit header search
+credit header search ar among the most power locat tool these search return
+inform from credit report on individu thei ar a valuabl sourc becaus almost all
+peopl have been involv in some credit activ either under their true name or an
+assum or known as name it is appropri to keep in mind that for common name it
+mai be necessari to us the social secur number or date of birth to differenti the
+subject from other peopl with the same name the credit bureau header offer two search
+mechan first the examin can discov a current address an address histori and
+social secur number associ with the target by us a past address up to seven year
+old second onc the social secur number is in hand the header can be search for
+match becaus the social secur number is a nation ident number although social
+secur number ar protect from disclosur by the privaci act it ha becom practic
+imposs for individu to avoid disclos them on public record
+current occupantnew address search
+a current occupantnew address search mai be us to identifi the occup of an address
+to confirm occup to uncov a forward address or to develop a list of neighbor
+who mai know the suspect current whereabout
+investig access inform onlin
+2011 fraud examin manual 3519
+last name search
+last name search can be us if the past address is unknown thi search produc better
+result if the name is not common howev if the last name is common differenti
+inform should be includ in the search it should also be note that some search will
+return the ident of neighbor who can be contact for addit inform about the
+suspect
+bankruptci file tax lien and court judgment
+bankruptci file tax lien and court judgment have emerg in recent year as locat
+tool becaus such record contain valid social secur number the dramat increas in
+individu bankruptci claim ha also particularli prompt their emerg as locat tool
+depart of motor vehicl record search
+depart of motor vehicl dmv record us to be good locat tool but recent
+restrict on them have reduc the effect of such search befor congress
+amend the driver privaci protect act in 1999 driver could opt out and ask that
+their person inform eg social secur number photograph etc not be releas
+under the amend law howev driver ar no longer requir to opt out instead the
+amend law impos an opt in system requir that driver provid express
+author for the releas of inform moreov individu state mai not updat
+their record frequent enough to provid the examin with us inform search
+such as driver identif can be us on a spot basi howev
+voter registr record search
+in a few state voter registr record ar avail but as with dmv record thei mai
+not be updat frequent howev to the extent that date of birth inform is avail
+such record can augment other search also note ani legal restrict attach to the us
+of voter inform
+busi file search
+fictiti busi namedo busi as file includ owner name busi name
+file date and file number as note in the previou chapter in most state individu and
+corpor ar requir to file a do busi as or an assum or fictiti busi
+name statement with the counti where thei conduct their busi the record of sole
+proprietorship busi howev mai not be avail in the corporatelimit
+partnership record that ar found at the state level nevertheless the fraud examin mai be
+access inform onlin investig
+3520 2011 fraud examin manual
+abl to locat these record by conduct an onlin search by search an individu or
+busi name the examin can gather inform from fictiti busi name file
+includ owner name busi name file date and file number some counti provid
+busi address inform and in these counti the examin can also conduct search
+us the busi address
+feder tax id search
+busi can us the ir websit wwwirsgov to enter both the name and feder tax
+id of a vendor or other busi to confirm that the two match
+obtain financi inform and locat asset
+discov whether asset exist where thei exist and whether thei ar recover can be
+accomplish with a search of feder state local and proprietari record these record
+can be further divid into those identifi hard asset and those regard the potenti
+for asset credit capac or credit worthi
+search for hard asset
+the ownership of real properti mai be discover through the us of properti
+search to the extent that thei ar avail at the local or counti level within individu
+state
+the ownership of vehicl can be infer through the us of the dmv vehicl name
+index to the extent that the record within the control state agenc reflect vehicl
+regist to a specif person or organ at a particular address convers the
+ownership of a particular vehicl mai be infer from the dmv vehicl registr
+search
+an assum busi name search mai be help in identifi a sole proprietorship
+busi in which attach asset ar avail
+the uniform commerci code ucc is extraordinari in that it can be us in a wide
+varieti of busi situat a search of ucc file can help identifi person
+properti that an individu or busi ha financ ucc file can also disclos when
+and where a debtor obtain person loan the type of properti that he pledg to the
+lender to secur the loan and the debtor current address
+the ownership of an aircraft can be determin by search the aircraft ownership
+databas by busi name person name or wing number
+investig access inform onlin
+2011 fraud examin manual 3521
+search for asset potenti
+the question of whether it is realist possibl to recov known asset mai be
+partial answer by search bankruptci file tax lien and tax judgment
+again the versatil of a ucc file search is seen through the identif of asset
+that mai have been pledg in whole or in part to secur a loan for exampl in a case
+where a bank lender ha secur a loan through some type of chattel as collater and ha
+sought to perfect it lien on the chattel through a ucc file at the state level it can be
+fairli assum that the debtor ha a bank account with the secur parti thu a bank
+account asset mai be identifi as a recover asset
+consum credit report and busi credit report search mai help develop a clearer
+pictur of the target potenti for asset recoveri in term of credit capac and
+creditworthi although access to consum credit report is restrict by the fair
+credit report act fcra busi credit report ar not govern by the fcra
+busi credit report often contain inform that is us in verifi inform
+understand busi relationship and develop basic financi inform about
+an organ
+find legal record
+the search avail to find these record can be group in three broad categori on
+site court search index or broad coverag search and public file
+onsit court search
+onsit court record search ar perform by individu who travel to counti and municip
+courthous to search for record that match the search criteria that have been provid to
+them
+these search ar direct by court by counti or as is the case with feder record by the
+district court for the particular area accordingli the examin must carefulli consid the
+potenti locat of court record such consider should take into account the
+locat of the suspect current and past resid nce and hi current and past busi or
+employ the result will includ ani litig in which the individu wa involv
+includ civil action crimin action divorc and judgment howev it will not return
+inform concern litig that ha been seal by the court or inform
+concern juvenil offend
+access inform onlin investig
+3522 2011 fraud examin manual
+the coverag for these search vari accord to the servic us addition each court
+ha vari rule regard how the search is conduct the time when search mai be
+conduct the repositori locat and the search method if the subscrib is interest in
+a particular type of record such as a divorc record it mai be necessari to call the
+compani customersupport unit to adjust the search queri type of record avail
+includ
+feder civil court record includ bankruptci record ar avail for all type of
+civil litig conduct in feder court
+feder crimin court record ar avail for feloni charg
+state civil court record ar avail base on a divis of upper and lower court
+record the divis is a function of the differ within each state concern the
+amount in controversi
+state crimin court record can be obtain on a ten or sevenyear search basi for
+feloni misdemeanor or a combin of both
+indexbroad coverag search
+these search ar us when an examin need a search strategi broader than the by
+courtbi counti method us with onsit court record search or that make us of an
+index of basic inform in court record
+search of defend suit ar avail in all state but provid coverag limit to
+specif counti and court when search a specif state databas the examin
+should review the help menu to determin the scope of the search abil
+search of statewid crimin convict ar avail in some jurisdict review the
+help menu for special releas requir the number of year avail if the record is
+for convict onli and if the search encompass both feloni and misdemeanor
+search of marriagedivorc index ar avail in some state
+public file
+in the unit state public compani nonprofit and some privat compani must
+submit financi file and form to differ govern entiti public compani for
+exampl submit variou file to the secur and exchang commiss eg the annual
+report and the 10k these public file provid a wealth of inform about the file
+compani includ the natur of it busi it histori it organiz structur it
+auditor it balanc sheet and it incom statement similarli public file ar avail for
+nonprofit which must file the form 990 to the intern revenu servic
+investig access inform onlin
+2011 fraud examin manual 3523
+public file ar avail for free as well as through feebas servic
+conduct background check
+thi type of search activ gener involv two broad area discov what the public
+record reveal with respect to individu and busi with whom the subscrib mai wish
+to do busi and discov inform about prospect employe in gener onlin
+public record databas ar gener the best sourc of background inform
+but befor conduct ani background check consult with legal counsel
+due dilig
+as busi organ seek to identifi vendor client or strateg partner or seek to
+loan or collect monei thei frequent conduct public record inquiri focus on other
+busi or individu who ar princip of busi organ thi type of public
+record inquiri involv such issu as verif of applic inform debt burden
+advers financi inform credit capac or worthi busi relationship the socal
+famili tree litig histori and crimin background us search includ the
+follow
+corporatelimit partnership search ar avail in all state to verifi inform
+identifi princip and develop other busi relationship
+bankruptci file tax lien and judgment search respond to issu of advers
+financi inform and credit capacityworthi
+ucc file answer question of debt burden thi search will be help to identifi
+hidden ownership or partnership interest and it will be help to locat address
+inform on debtor
+state and feder civil court record provid answer to question concern litig
+histori past busi relationship and the potenti for debt burden either as a function
+of an advers judgment or as a function of financ expens litig
+state and feder crimin court record identifi the possibl of a crimin background
+the us of consum credit report and busi credit report help resolv question
+concern credit capac and creditworthi in addit the busi report is us
+in verifi inform understand busi relationship and develop basic
+financi inform about an organ
+occup safeti and health administr osha search mai be us in
+develop advers inform or verifi inform given by a prospect vendor
+client or strateg partner
+access inform onlin investig
+3524 2011 fraud examin manual
+aircraft mechan airmen medic licens dea control substanc and other
+licens mai serv to verifi that basic profession and occup standard ar met by
+a prospect vendor client or strateg partner
+employ background
+onlin record inquiri regard employ histori have increas significantli over the
+past few year corpor downsiz ha disaffect an increas number of worker to the
+point that it is easier for them to ration employe defalc fraud or embezzl
+the same econom phenomenon of downsiz combin with busi pressur to
+increas product and the friction of modern life have appar produc an increas
+in workplac violenc liabil for employ and busi have expand through
+neglig standard and the respondeat superior doctrin for such tortiou conduct as vehicl
+oper assault batteri fals imprison sexual harass and discrimin
+final the potenti to be held liabl for neg refer ha deter past employ
+from respond to prospect employ inquiri about an employe therefor
+prospect employ must increasingli reli on public inform
+some of the search us in develop background inform ar list below where
+permit by law
+credit header search ar us in confirm address and social secur number
+inform
+state and feder crimin court record and statewid crimin convict mai be us
+to uncov past crimin problem presag similar difficulti inde crimin
+background check mai be mandat by law for exampl the violent crime control
+and law enforc act of 1994 make it a feloni for insur compani as well as
+person emploi anyon to conduct the busi of insur to hire ani individu
+convict of a feloni involv dishonesti or a breach of trust
+aircraft mechan airmen medic licens and other licens ar avail to ensur
+that basic job requir ar met in the appropri circumst
+consum credit report mai be obtain for purpos of employe select retent
+and promot
+public file such as bankruptci file tax lien and judgment mai be obtain to
+identifi advers financi matter that can serv as potenti motiv for fraud
+defam and embezzl
+where a prospect or current employe drive a person own vehicl or an
+employerown vehicl in further the interest of the employ such activ mai
+investig access inform onlin
+2011 fraud examin manual 3525
+expos the employ to liabil for damag therefor dmv drive record must be
+check
+basic inform concern job qualif can be verifi through educ
+verif and employ verif search note these ar verif tool
+onli thei ar not definit in term of discov past or current employ
+although worker compens search mai return the subject name social secur
+number date of birth employ name date and type of accid and natur and extent
+of inquiri the american with disabl act mai limit usag of the search result the
+act purport to prevent prospect employ from us worker compens
+record in deni employ to otherwis qualifi applic
+public record databas vendor
+list below is inform about some of the larger commerci databas vendor you can
+shop variou servic to find the on that meet your need in the most costeffect
+manner and the on that fit your current case in some instanc it mai be necessari to us
+more than on servic to get an accur and complet profil these compani get their
+inform from variou sourc and on variou updat schedul so a search in ani on
+databas mai return differ result than a search done elsewher
+asset locat and busi background check by knowx
+knowx is a product of the lexisnexi risk and inform analyt group and it claim
+to be the most comprehens sourc of public inform on the web it offer easili
+navig public record search in variou categori among them asset search advers
+file properti valuat and peopl and businessloc tool on can also verifi
+licens conduct background check and look up a compani histori knowx is an
+altogeth userfriendli sourc of inform
+most importantli user can run knowx busi background check to uncov
+bankruptci judgment lawsuit lien and ucc file against a busi with on search
+in addit knowx asset locat servic enabl user to locat asset such as real estat
+aircraft and watercraft with on search thi softwar can also be us to verifi ownership
+and assess properti valu
+knowx can be found at wwwknowxcom
+access inform onlin investig
+3526 2011 fraud examin manual
+us datalink
+us datalink is an employe background check servic although it cannot retriev
+inform as quickli as some other vendor us datalink is the onli compani that reli
+entir on manual search for it inform us datalink exclus send it research
+to the counti courthous to look up the request inform as oppos to the electron
+and possibl faulti inform that other onlin investig databas us therefor if a
+fraud examin ha the time to wait for hi inquiri us datalink might be the most reliabl
+option us datalink also ha media resourc and it can be found at wwwusdatalinkcom
+infousa
+infousa compil busi and consum data and it offer a wide rang of data process
+servic infousa user have access to inform on 14 million us busi 13 million
+execut and profession and 210 million us consum search of infousa
+databas can produc result for a broad rang of inform includ sale volum
+corpor linkag contact name and titl compani histori credit rate and ani
+headlin involv the busi furthermor the versatil of the search is on of
+infousa better featur search can be perform accord to busi size locat
+length of time in oper gender or race of owner and industri infousa is locat at
+wwwinfousacom
+veri
+veri is a social secur valid servic it special in provid verif of social
+secur number possibl mail drop address date of birth and death record veri
+allow an investig to match a social secur number to a name howev thi servic is
+costli cost per search begin at 115 but the actual cost depend on the type of search and
+number of search be conduct but veri accur veri can be access at wwwverisssncom
+csc diligenz
+csc diligenz is a webbas due dilig servic it is a great databas for retriev
+inform about busi with it weekli databas updat csc diligenz strength li
+in the reliabl of it public record inform csc diligenz can produc a businesss
+financi statement record pertain to corpor statu busi credit and licens
+inform ucc file bankruptci judgment and corpor goodstand search ar
+just a few of their servic diligenz is locat at wwwdiligenzcom
+investig access inform onlin
+2011 fraud examin manual 3527
+dialog
+dialog is a proquest compani and it offer user with access to more than 1200 databas
+it contain nearli 2 billion record includ refer and abstract of publish literatur
+statist tabl the full text of select articl and directori busi and financi data
+dialog can be access at wwwdialogcom
+db
+db is a busi inform servic provid the varieti of inform avail
+through db is impress it is probabl on of the most comprehens and divers
+sourc avail with fact on more than 130 million compani in more than 190
+countri db is renown for product like busi inform report and industri norm
+and kei busi ratio both excel tool it is locat at wwwdnbcom
+hoover
+hoover a db compani is a onestop refer for busi inform hoover
+provid comprehens uptod busi inform for profession who need
+intellig on us and global compani industri and profession hoover databas
+consist of 65 million compani with indepth coverag of 40000 public and nonpubl
+us and intern compani subscrib also have access to inform on more than
+15 million small privat busi across the unit state hoover is locat at
+wwwhooverscom
+lexisnexi
+lexisnexi is a legal and busi inform databas that provid it subscrib with
+daili newspap for either a flat fee or a perus fee lexisnexi maintain a cavern
+databas of us and intern media sourc includ daili newspap magazin and
+televis transcript in addit lexisnexi offer a servic in which the user can request
+immedi inform on difficulttofind topic lexisnexi will research the topic and give
+the user the inform as quickli as possibl for more inform visit wwwlexiscom
+in on form or anoth lexisnexi ha been in the inform busi for nearli 30 year
+it is now on of the lead electron data firm in the world user can obtain access to
+public record media public and court case and record for more inform visit
+wwwlexisnexiscom
+dc inform system
+found in 1967 dc inform system is an establish sourc for investig
+inform dc provid onlin investig solut for busi and govern
+from financi institut to law enforc or investig their onlin databas
+product help organ prevent and detect fraud verifi applic inform screen
+potenti employe and locat debtor miss person heir or asset dc provid
+inform compris public record and publicli avail inform it amerifind
+onlin resourc system is separ into three area make search simpl
+access inform onlin investig
+3528 2011 fraud examin manual
+primedata provid bank and financ inform
+quickfind serv gener investig secur and fraud prevent and detect
+fraudtrac serv insur fraud investig and claim
+ga public record servic
+ga public record servic special in onsit countylevel crimin record inform
+it can usual provid a report within 24 72 hour ha access to record in thousand of
+counti coast to coast ga public record servic provid search servic for
+employ screen corpor due dilig fraud investig privat investig
+and tenant screen for more inform visit wwwgaprscom
+experian
+experian is on of the major provid of consum credit inform and it provid a
+varieti of other public inform experian provid servic on consum and busi
+credit direct market and real estat inform servic experian maintain credit
+inform on more than 210 million us consum and more than 18 million us
+busi it nation consum databas is updat 65 time per year with inform
+on more than 110 million us household the nation busi databas is updat
+monthli ha fact on more than 18 million compani in all industri and ha more than
+200 million crossindustri applic record to help detect inconsist in incom
+applic
+some of the servic provid by experian includ
+busi snapshot report that summar credit histori includ payment pattern
+and legal file of small busi or contractor
+precis id with knowledg iq consist of score analyt and knowledgebas
+authent and it provid realtim and onlin valid and verif and fraud
+assess of name address social secur number date of birth driver licens
+and telephon number
+transunion
+transunion is on of the big three credit report compani and it offer credit inform
+and servic for consum and busi alik more specif transunion is a global
+provid of busi intellig servic with technologybas intellig product
+includ innov creditdecis and fraudprevent tool advanc targetmarket
+product risk and profit model and portfolio manag
+investig access inform onlin
+2011 fraud examin manual 3529
+transunion also offer a fraud victim assist depart fvad sinc it incept
+the fvad ha help million of consum resolv or prevent problem with credit fraud
+the fvad compris three distinct team
+the consum protect team cpt
+the fraud investig respons and support team first
+the fraud assist and support team fast
+search system
+search system is a public record directori with more than 55000 searchabl public record
+databas it search capabl includ busi inform corpor file properti
+record deed mortgag crimin and civil court file inmat offend birth death
+marriag unclaim properti and profession licens on of it mani directori the
+crimin record and offend search ha access to more than 300 million crimin record
+and it search system premium offer instant access to more than 100 million bankruptci
+judgment and tax lien for more inform visit httppublicrecordssearchsystemsnet
+westlaw
+westlaw is an onlin legal research servic and it provid access to a comprehens and
+current collect of public record it peopl finder databas directori contain
+inform on individu compil from numer public sourc includ telephon
+directori publish mail list chang of address file real estat file util record
+public demograph and consum household data voter registr record driver licens
+data feder and state death record and credit header data for more inform visit
+wwwwestlawcom
+newspapermedia databas
+newspap period and journal can be excel sourc of inform in a fraud
+investig particularli when search for background inform on an individu or a
+busi for exampl in a texa case a person accus of insid trade wa clear us
+materi from an media databas search defens attornei gather more than 300
+publish comment about the compani financi prospect and show that someon
+follow the advic distribut freeli in the press would have made more monei than
+the accused2
+2 bernstein paul comput for lawyer a complet guid to law offic autom 2nd ed chicago atla press
+1997
+access inform onlin investig
+3530 2011 fraud examin manual
+searchabl databas contain inform from liter hundr of publish sourc
+can usual be access for free at most librari there ar also a number of onlin
+databas that deal specif with new and media resourc these databas compil a
+number of differ media resourc and allow the user to search for a specif topic
+return articl or transcript that pertain to the request subject most public allow
+user to search their archiv for free the full text of articl is avail but usual for a fee
+us on of the follow servic allow user to search mani public at onc
+factiva
+factiva from dow jone is tailor for busi and financi new search maintain a
+catalog of more than 28000 of the world lead new and busi sourc from 159
+countri 350 geograph region and in 23 languag factiva allow user to pai onli for
+the articl download and doe not requir an annual subscript for more inform
+visit wwwfactivacom
+highbeam research
+highbeam ha an extens archiv contain million of document from lead
+public that ar updat daili or go back as far as 20 year searchabl sourc
+includ newspap magazin journal transcript book dictionari and almanac for
+more inform visit wwwhighbeamcom
+proquest
+proquest is a data servic that offer access to thousand of onlin journal and magazin
+cover a wide arrai of subject proquest vast content pool ar avail to research
+through librari of all type and includ the world largest digit newspap archiv
+period databas compris the output of thousand of titl and span more than
+500 year with mani in fulltext fullimag format an extens dissert collect and
+variou other scholarli collect for more inform visit wwwproquestcom
+investig access inform onlin
+2011 fraud examin manual 3531
+other new databas servic
+newspap on the net wwwonlinenewspaperscom
+newswis wwwnewswisecom
+us websit
+the follow is a list of websit group by topic that should prove us to fraud
+examin and other antifraud profession
+search engin
+aboutcom httpwwwaboutcom
+all the web httpwwwallthewebcom
+altavista httpwwwaltavistacom
+askcom httpwwwaskcom
+bing httpwwwbingcom
+complet planet httpaipcompleteplanetcom
+copern httpwwwcoperniccom
+dmoz httpwwwdmozorg
+dogpil httpwwwdogpilecom
+exalead httpwwwexaleadcom
+excit httpwwwexcitecom
+gocom httpgocom
+googl httpwwwgooglecom
+hotbot httpwwwhotbotcom
+icerocket httpwwwicerocketcom
+iwon httphomeiwoncom
+infomin httpinfomineucredu
+internet 101 httpwwwinternet101org
+law crawler legal issu httplawcrawlerfindlawcom
+legal engin httpwwwlegalenginecom
+lococitato httpwwwlococitatocom
+looksmart httpwwwlooksmartcom
+lyco httpwwwlycoscom
+mamma httpwwwmammacom
+meta 360 httpwwwmeta360com
+metacrawl httpwwwmetacrawlercom
+monster crawler httpwwwmonstercrawlercom
+my wai httpgotomywaycom
+northern light busi httpwwwnlsearchcombresearchphp
+search engin watch httpsearchenginewatchcom
+search monger httpwwwsearchmongercom
+searchcom httpwwwsearchcom
+search site httpwwwsearchsitecom
+snap httpwwwsnapcom
+spokeo httpwwwspokeocom
+surf canyon httpwwwsurfcanyoncom
+surfwax httpwwwsurfwaxcom
+technorati httptechnoraticom
+webcrawl httpwwwwebcrawlercom
+access inform onlin investig
+3532 2011 fraud examin manual
+web ferret httpwwwwebferretcom
+yahoo httpwwwyahoocom
+yonam httpwwwyonamecom
+zoominfo httpwwwzoominfocom
+socialnetwork site
+twitter wwwtwittercom
+myspac wwwmyspacecom
+facebook wwwfacebookcom
+classmat onlin wwwclassmatescom
+linkedin wwwlinkedincom
+reunion wwwreunioncom
+bebo wwwbebocom
+orkut wwworkutcom
+hi5 httphi5com
+xanga wwwxangacom
+spoke wwwspokecom
+alt wwwaltcom
+new sourc
+abcnewscom httpabcnew gocom
+bnet research center httpfindarticlescom
+cb httpwwwcbsnewscom
+cnn interact httpwwwcnncom
+crayon httpwwwcrayonnet
+dialog web httpwwwdialogwebcom
+dow jone factiva httpwwwfactivacom
+fox httpwwwfoxnewscom
+highbeam httpwwwhighbeamcom
+investig report and editor httpwwwireorg
+lexisnexi httpwwwlexisnexiscom
+market watch httpwwwmarketwatchcom
+msnbc httpwwwmsnbcmsncom
+msn monei httpmoneycentralmsncomhomeasp
+nbc httpwwwnbccom
+cnet new httpnewscnetcom
+newslink httpnewslinkorg
+onlin new paper httpwwwonlinenewspaperscom
+refdesk httpwwwrefdeskcom
+reuter httpwwwreuterscom
+salon httpwwwsaloncom
+slate httpwwwslatecom
+the council of state govern httpwwwcsgorg
+wire new httpwwwwiredcom
+newspap
+annapoli capitalgazett httpwwwhometownannapoliscom
+augusta chronicl httpchronicleaugustacom
+baltimor sun httpwwwbaltimoresuncom
+investig access inform onlin
+2011 fraud examin manual 3533
+boston globe httpwwwbostoncomboston globe
+casper startribun wy httpwwwtribcom
+chattanooga time free press httpwwwtimesfreepresscom
+chicago suntim httpwwwsuntimescom
+chicago tribun httpwwwchicagotribunecom
+christian scienc monitor httpwwwcsmonitorcom
+colorado spring gazett httpwwwgazettecom
+daili gazett ny httpwwwdailygazettecom
+dalla morn new httpwwwdallasnewscom
+desert new ut httpwwwdeseretnewscom
+detroit free press httpwwwfreepcom
+evansvil courier press in httpwwwcourier presscom
+florida timesunion httpwwwjacksonvillecom
+fort worth startelegram httpwwwstartelegramcom
+gainesvil sun httpwwwgainesvillecom
+houston chronicl httpwwwchroncom
+knoxvil newssentinel httpwwwknoxnewscom
+lo angel time httpwwwlatimescom
+miami herald httpwwwmiamiheraldcom
+missoulian mt httpwwwmissouliancom
+new york daili new httpwwwnydailynewscom
+new york post httpwwwnypostcom
+new york time httpwwwnytimescom
+newsdai httpwwwnewsdaycom
+norfolk virginianpilot httphamptonroadscompilotonlin
+orang counti regist httpwwwocregistercom
+orlando sentinel httpwwworlandosentinelcom
+raleigh new and observ httpwwwnewsobservercom
+roanok time httpwwwroanokecom
+salt lake tribun httpwwwsltribcom
+san diego uniontribun httpwwwsignonsandiegocom
+san francisco chronicleexamin httpwwwsfgatecom
+san jose mercuri new httpwwwmercurynewscom
+seattl time httpseattletimesnwsourcecom
+sioux citi journal httpwwwsiouxcityjournalcom
+st paul pioneer press httpwwwtwincitiescom
+st petersburg time httpwwwtampabaycom
+the new york time on the web httpwwwnytimescom
+usa todai httpwwwusatodaycom
+wall street journal httponlinewsjcom
+washington post httpwwwwashingtonpostcom
+univers librari site
+brigham young univers httpwwwlibbyuedu
+cal state univers long beach httpwwwcsulbedulibrari
+carnegi mellon univers httpwwwlibrarycmuedu
+claremont colleg httpvoxlibrisclaremontedu
+cornel univers httpwwwcornelledulibrari
+drexel univers httpwwwlibrarydrexeledu
+duke univers httplibrarydukeedu
+eastern michigan univers httpwwwemicheduhal
+georgetown univers httplibrarygeorgetownedu
+access inform onlin investig
+3534 2011 fraud examin manual
+harvard univers hollisharvard onlin librari inform system httplibharvardedu
+indiana univ purdu univ httpwwwulibiupuiedu
+iowa state univers httpwwwlibiastateedu
+john hopkin univers httpwwwwelchjhuedu
+kansa state univers httpwwwlibksuedu
+louisiana state univers httpwwwliblsuedu
+mansfield univers httplibmansfieldeduindexcfm
+miami oh univers httpwwwlibmuohioedu
+middl tennesse state univers httplibrarymtsuedu
+mit univers httplibrariesmitedu
+new mexico state univers httplibnmsuedu
+north carolina state univers httpwwwlibncsuedu
+princeton univers httplibwebprincetonedu
+tulan univers httplibrarytulaneedu
+univers of arizona httpwwwarizonaeduhomelibrariesphp
+univers of calberkelei httpwwwlibberkeleyedu
+univers of callo angel httpwww2libraryuclaedu
+univers of calriversid httplibraryucredu
+univers of florida httpwebuflibufledu
+univers of houston httpinfolibuhedu
+univers of idaho httpwwwlibuidahoedu
+univers of iowa httpwwwlibuiowaedu
+univers of main httpwwwlibraryumaineedu
+univers system of maryland and affili institut httpwwwitdumdedu
+univers of michigan httpwwwlibumichedu
+univers of minnesota httpwww1umnedu
+univers of new orlean httpwwwunoedu
+univers of north carolina httpwwwilsunceduindexhtml
+univers of north carolinacharlott httpwwwunccedu
+univers of virginia httpwwwvirginiaedulibrari
+vanderbilt univers httpwwwlibraryvanderbiltedu
+washington univers httpwwwlibwashingtonedu
+state govern list
+alabama httpwwwalabamagov
+alaska httpwwwstateaku
+arizona httpazgov
+arkansa httpwwwstatearu
+california httpwwwcagov
+colorado httpcoloradogov
+connecticut httpwwwctgov
+delawar httpdelawaregov
+florida httpwwwmyfloridacom
+georgia httpwwwgeorgiagov
+hawaii httpwwwehawaiigov
+idaho httpwwwstateidu
+illinoi httpwwwillinoisgov
+indiana httpwwwstateinu
+iowa httpwwwiowagov
+kansa httpwwwkansasgov
+investig access inform onlin
+2011 fraud examin manual 3535
+kentucki httpkentuckygov
+louisiana httpwwwlouisianagov
+main httpwwwmainegov
+maryland httpwwwmarylandgov
+massachusett httpwwwmassgov
+michigan httpwwwmichigangov
+minnesota httpwwwstatemnu
+mississippi httpwwwmsgov
+missouri httpwwwmogov
+montana httpmtgov
+nebraska httpwwwnebraskagov
+nevada httpwwwnvgov
+new hampshir httpwwwnhgov
+new jersei httpwwwstatenju
+new mexico httpwwwnewmexicogov
+new york httpwwwstatenyu
+north carolina httpwwwstatencu
+north dakota httpwwwndgov
+ohio httpwwwohiogov
+oklahoma httpwwwokgov
+oregon httpwwworegongov
+pennsylvania httpwwwstatepau
+rhode island httpwwwrigov
+south carolina httpwwwscgov
+south dakota httpwwwsdgov
+tennesse httpwwwtennesseegov
+texa httpwwwstatetxu
+utah httpwwwutahgov
+vermont httpvermontgov
+virginia httpwwwvirginiagov
+washington httpwwwstatewau
+west virginia httpwwwwvgov
+wisconsin httpwwwwisconsingov
+wyom httpwyominggov
+telephon number and address
+aol hometownhom page finder httpsiteaolcomnetfindhometownhtml
+att anywho httpwwwanywhocom
+5551212 httpwww5551212com
+big yellow httpwwwbigyellowcom
+bigbook httpwwwbigbookcom
+email address revers phone httpwwwiafnet
+gte superpag httpwwwsuperpagescom
+infospac httpwwwinfospaceinccom
+infousa httpwwwinfousacom
+inteliuspeopl search httpfindinteliuscom
+militari personnel record httpwwwarchivesgov
+peoplefinderscom httpwww peoplefinderscom
+peopl search httpwww peoplesearchnet
+phone number infobel httpwwwinfobelcomteldir
+registercom httpwwwregistercom
+searchbynumb httpwwwsearchbynumbercom
+access inform onlin investig
+3536 2011 fraud examin manual
+semaphor corp httpwwwsemaphorecorpcom
+switchboard httpwwwswitchboardcom
+the pi mall httpwwwpimallcom
+us web finder httpuswebfindercom
+whowher httpwwwwhowherecom
+yahoo peopl search httppeopleyahoocom
+yellowbook httpwwwyellowbookcom
+map
+bing map httpwwwbingcommap
+googl map httpmapsgooglecom
+mapquest httpwwwmapquestcom
+map on us httpwwwmapsonuscom
+databas public record search
+brb public inc httpwwwbrb pubcom
+choicepoint httpwwwchoic pointnet
+choicepoint autotrackxp httpatxpchoicepointcom
+dc inform system httpwwwdniscom
+dialog httpwwwdialogcom
+diligenz httpwwwdiligenzcom
+dun bradstreet httpwwwdnbcom
+experian httpwwwexperiancom
+fedworld httpwwwfedworldgov
+gs public record servic httpwwwgaprsbiz
+infousa httpwwwinfousacom
+knowx httpwwwknowxcom
+lexisnexi httpgloballexisnexiscomu
+locat fast httpwwwloc8fastcom
+merlin inform system httpwwwmerlindatacom
+nation center for health statist vital record httpwwwcdcgovnch
+noncommerci organ httpwwwpirorg
+publicdata httpwwwpublicdatacom
+searchsystemsnet httpwwwsearchsystemsnet
+social secur number verif servic httpwwwverisssncom
+usdatalink httpwwwusdatalinknet
+legal resourc
+docusearch investig httpwwwdocusearchcom
+administr offic of the us court httpwwwuscourtsgov
+attornei search httplawyersfindlawcom
+california law httpwwwleginfocagovcalawhtml
+courthous new httpwwwcourthousenewscom
+cyber secur law httpwwwcybersecuritieslawcom
+divorc central httpwwwdivorcecentralcom
+feder legisl inform on the internet httpthomaslocgov
+findlaw httpwwwfindlawcom
+findlaw california code and statut httpcaliforniafindlawcom
+investig access inform onlin
+2011 fraud examin manual 3537
+florida statut httpwwwfdlestateflusstatut
+law on the web httpwwwlawcom
+lawyer httpwwwlawyerscom
+lawyer directori httpwwwlawyersfindlawcom
+legal ethic httpwwwlegalethicscom
+legal info institut of cornel httpwwwlawcornelledu
+legal research on the web httpgsulawgsuedumetaindex
+legal studi at the univers of massachusett httpwwwumasseduleg
+martindal httpwwwmartindalecom
+monei launder and terrorist financ httpwwwocctreasgovbsabsamainhtm
+nation center for state court httpwwwncsconlineorg
+nolo httpwwwnolocom
+onlin sunshin florida legislatur httpwwwlegstateflu
+practic law compani httpuspracticallawcom
+report committe for freedom of the press httpwwwrcfporg
+report committe tape convers httpwwwrcfporgtapingindexhtml
+suprem court of the us httpwwwsupremecourtgov
+us suprem court decis befor 1975 httpsupcourtntisgov
+us suprem court internet site httpllrxcomfeaturesscourtsiteshtm
+univers of chicago law school httpwww1libuchicagoedu
+govern site and crimin justic resourc
+bureau of alcohol tobacco firearm and explos atf httphttpwwwatfgov
+bureau of industri and secur list of deni person httpwwwbisdocgovdpl
+central intellig agenc httpwwwciagov
+class action httpwwwclassactioncom
+counti sheriff offic by state httpwwwcorrectionscomlink
+court websit httpwwwuscourtsgov
+courtlink httpwwwlexisnexiscomcourtlinkonlin
+databas of govern websit httpwwwusagov
+feder citizen inform center httpwwwpueblogsagov
+fbi law enforc bulletin httpwwwfbigovpublicationsleblebhtm
+us depart of homeland secur httpwwwdhsgov
+fedworld httpwwwfedworldgov
+feder bureau of investig httpwwwfbigov
+feder bureau of prison httpwwwbopgov
+feder elect commiss httpwwwfecgov
+feder elect commiss inform httpwwwfecgovansanswersshtml
+feder inspector gener httpwwwignetgov
+feder judici center httpwwwfjcgov
+florida depart of correct httpwwwdcstateflu
+florida depart of law enforc httpwwwfdlestateflu
+florida depart of state httpwwwdosstateflu
+florida govern websit httpmyfloridacomportalgovern
+govspot httpwwwgovspotcom
+intern revenu servic httpwwwirsgov
+investig guid to the sourc of httpwwwgaogovspecialpubssoihtm
+access inform onlin investig
+3538 2011 fraud examin manual
+inform gaoosi972
+librari of congress httpwwwlocgov
+nation address server httpwwwcedarbuffaloeduadservhtml
+nation archiv httpwwwarchivesgov
+nation center for state court httpwwwncsconlineorg
+nation crimin justic refer servic httpwwwncjrsorg
+nobli httpwwwnoblisorg
+nonprofit gatewai httpwwwusagovbusinessnonprofitshtml
+director of defens trade control httppmddtcstategov
+polic offic internet directori httpwwwofficercom
+public access to electron record pacer httppacerpscuscourtsgov
+publish list of recal nation highwai traffic safeti administr httpwwwodinhtsadotgov
+royal canadian mount polic httpwwwrcmpgrcgcca
+sec enforc regulatori action httpwwwsecgovrulesshtml
+sec divis of enforc httpwwwsecgovdivisionsenforceshtml
+secur exchang commiss edgar httpwwwsecgovedgarshtml
+secur class action clearinghous httpsecuritiesstanfordedu
+select servic system httpwwwsssgov
+sex offend registri httpwwwfbigovhqcidcacstateshtm
+social secur death index search httpssdirootswebcom
+ssn valid databas httpusinfosearchcomssnvalidationdatabasehtm
+state and feder prison httpwwwbopgov
+state and local govern on the internet httpwwwstateloc govnet
+state legislatur httpwwwncslorg
+superior inform servic httpwwwsuperiorinfocom
+texa depart of public safetycrim record httprecordstxdpsstatetxu
+usagov httpwwwusagov
+us commod futur trade commiss httpwwwcftcgov
+us depart of justic httpwwwusdojgov
+us depart of justic comput crime and intellectu properti section httpwwwcybercrimegov
+us feder inspector gener httpwwwignetgov
+us feder commun commiss httpwwwfccgov
+us feder deposit insur corpor httpwwwfdicgov
+us feder food drug administr httpwwwfdagov
+us gener servic administr httpwwwgsagov
+us govern print offic httpwwwaccessgpogov
+us feder trade commiss httpwwwftcgov
+us govern account offic httpwwwgaogov
+us patent and trademark offic httpwwwusptogov
+us postal servic httpwwwuspsgovncsc
+us suprem court httpwwwsupremecourtusgov
+unit nation crime justic inform network uncjin httpwwwuncjinorg
+vital record databas httpwwwvitalreccom
+voter registr httpwwwgloballocatecom
+white hous httpwwwwhitehousegov
+investig access inform onlin
+2011 fraud examin manual 3539
+other fraudrel websit and websit of interest
+acl data analysi softwar httpwwwaclcom
+activ most want and crimin investig httpwwwactivemostwantedcom
+associ of colleg and univers auditor httpwwwacuaorg
+afu and urban legend archiv httpwwwsnopescom
+ani birthdai httpwwwanybirthdaycom
+associ of certifi fraud examin httpwwwacfecom
+better busi bureau web server httpwwwbbborg
+broward counti sheriff offic httpwwwsherifforg
+cba consum tip for visa and mastercard httpwwwcbaca
+compani site locat httpwwwswitchboardcom
+comput secur institut httpwwwgocsicom
+consum educ fraud httpwwwftcgovbcpconsumershtm
+correct connect httpwwwcorrectionscom
+cpa directori httpwwwcpadirectorycomindexcfm
+check fraud httpwwwckfraudorg
+black book onlin httpwwwblackbookonlineinfo
+cyber space law center httpwwwfindlawcom01topics10cyberspaceindexhtml
+dan moldea httpwwwmoldeacom
+endfraudcom httpwwwendfraudcom
+financi scandal httpwwwexacukrdaviesarianscand
+forens account inform httpwwwforensicaccountinginformationcom
+fraud index httpwwwscambustersorg
+fuld compani internet intellig index httpwwwfuldcom
+high technolog crime investig associ httphtciaorg
+hoover httpwwwhooverscom
+ident theftprivaci right clearinghous httpwwwprivacyrightsorg
+ident theft assumpt and deterr act httpwwwidentitytheftorg
+internet antiscam httpwwwnerdworldcomnw1319html
+internet center for corrupt research httpwwwicggorg
+internet crime complaint center httpwwwic3gov
+inventor fraud center nation httpwwwinventorfraudcom
+investor protect trust httpwwwinvestor protectionorg
+justic refer servic nation httpwwwncjrsorg
+loss prevent concept httpwwwlpconlinecom
+miss monei httpwwwmissingmoneycom
+municip bond scandal httpwwwlissackcom
+bbb wise give allianc httpgiveorg
+nation consum leagu fraud center httpwwwfraudorg
+nation white collar crime center httpwwwnw3corg
+network solut websit oper inform httpwwwnetworksolutionscom
+nigeria the 419 coalit websit httphomericanetalphae419co
+nobl ventur asset search httpwwwnobleventurescom
+offshor busi new research httpoffshorebusinesscom
+ponzi scheme httpwwwcrimesofpersuasioncom
+access inform onlin investig
+3540 2011 fraud examin manual
+complianc headquart httpwwwcomplianceheadquarterscom
+privaci tool httpwwwprivacytoolscom
+privaci right clearinghous httpwww privacyrightsorglinkshtm
+scambust httpwwwscambustersorg
+scam and swindl httpwwwswindlescom
+scamwatch httpwwwscamwatchgovau
+secur manag onlin httpwwwsecuritymanagementcom
+softwar inform industri associ antipiraci divis httpwwwsiianetpiraci
+ssa fraud report httpwwwsocialsecuritygov
+taxpay against fraud httpwwwtaforg
+td bank fraud prevent httpwwwtdbanknorthcombankfraud preventionhtml
+urban legend refer page httpwwwsnopescom
+us postal inspect servic consum fraud httppostalinspectorsuspisgov
+verizon busi httpwwwverizonbusinesscomu
+viru bulletin httpwwwvirusbtncomresourc preval
+websit hoax fsecur httpwwwfsecurecomvirusinfohoax
+websit hoax vmyth httpwwwvmythscom
+websit hoax symantec httpwwwsymanteccombusinesssecurityrespons
+whistleblow websit phillip and cohen httpwwwphillipsandcohencom
+world bank httpwwwworldbankorg
+health careinsur fraud
+ama select httpwwwamaassnorgamahomeindexshtml
+america health insur plan httpwwwahiporg
+american bar associationmedicin law committe httpwwwabanetorgtipsmedicinelinkshtmlfraud
+american medic associ httpwwwamaassnorg
+coalit against insur fraud httpwwwinsurancefraudorg
+correct link health care httpwwwcorrectionscomnetworkshealthcar
+depart of health and human servic oig httpwwwhhsgov
+ed hay index to medic site httpwwwedha yescom
+exclud parti list system httpwwweplsgov
+health inform technolog us dept of health and human servic httpwwwhhsgovhealthitfederalprojectlisthtml
+hipaa httpwwwcmshhsgovhipaageninfo
+intern associ of special investig unit httpwwwiasiuorg
+medic econom magazin httpwwwmemagcom
+medic inform bureau httpwwwmibcom
+medicar fraud and abus train onlin httpwwwcmshhsgovcontr actorlearningresourc
+nation associ of insur commission httpwwwnaicorg
+nation coalit on health care httpwwwnchcorg
+nation fraud inform center httpwwwfraudorg
+nation health care antifraud associ httpwwwnhcaaorg
+nation insur crime bureau httpwwwnicborg
+nation practition data bank httpwwwnpdbhipdbcom
+offic of inspector gener health and httpoighhsgov
+investig access inform onlin
+2011 fraud examin manual 3541
+human servic offic of inspector gener social secur httpwwwssagovoigguidelinehtm
+pdr physician desk refer httpwwwpdrnet
+properti casualti insur associ of america httpwwwpciaanetsitehomensfmain
+research america medic link httpwwwresearchamericaorglink
+the hmo page httpwwwhmo pageorg
+ultim insur link httpwwwultimateinsurancelinkscom
+univers of floridacolleg of medicin complianc httpwwwmedufleduresearchraccompli
+insur quot httpwwwinsur quotescom
+state insur fraud divis
+alabama httpwwwaldoigov
+alaska httpwwwcommercestateakusinsur
+arizona httpwwwidstateazusfraudhtml
+arkansa httpinsurancearkansasgov
+california httpwwwinsurancecagov0300fraudindexcfm
+colorado httpwwwdorastatecousinsur
+connecticut httpwwwctgovcid
+delawar httpwwwdelawareinsurancegov
+florida httpwwwfldfscomfraud
+georgia httpwwwinscommstategau
+hawaii httpdccakaku1hawaiigovdccaareasin
+idaho httpwwwdoiidahogov
+illinoi httpwwwinsuranceillinoisgov
+indiana httpwwwingovidoi
+iowa httpwwwiidstateiau
+kansa httpwwwksinsuranceorg
+kentucki httpinsurancekygov
+louisiana httpwwwldistatelau
+main httpwwwmainegovpfrinsur
+maryland httpwwwmdinsurancestatemdu
+massachusett httpwwwmassgovdoi
+michigan httpwwwmichigangov
+minnesota httpwwwstatemnu
+mississippi httpwwwmidstatemsu
+missouri httpinsurancemogov
+montana httpsaomtgovinsuranceindexasp
+nebraska httpwwwdoinegov
+nevada httpwwwdoistatenvu
+new hampshir httpwwwnhgovinsur
+new mexico httpwwwstopfraudorg
+new jersei httpwwwstatenjusdobiindexhtml
+new york httpwwwinsstatenyusnyinshtm
+north carolina httpwwwncdoicom
+north dakota httpwwwndgovndin
+ohio httpwwwohioinsurancegov
+oklahoma httpwwwoidstateoku
+oregon httpwwwcbsstateorusexternalin
+pennsylvania httpwwwinsurancepagov
+puerto rico httpwwwocsgobiernopr
+access inform onlin investig
+3542 2011 fraud examin manual
+rhode island httpwwwdbrstateriusdivisionsinsur
+south carolina httpwwwdoiscgov
+south dakota httpwwwstatesdusdrr2reginsur
+tennesse httpwwwstate tnuscommerceinsur
+texa httpwwwtdistatetxu
+utah httpwwwinsuranceutahgov
+vermont httpwwwbishcastatevtu
+virginia httpwwwsccvirginiagovdivisionboi
+washington httpwwwinsurancewagov
+west virginia httpwwwwvinsurancegov
+wisconsin httpociwigov
+wyom httpinsurancestatewyu
+telecom fraudsecur
+feder commun commiss httpwwwfccgov
+financi industri regulatori author httpwwwfinraorg
+help net secur httpwwwnetsecurityorg
+intern engin consortium httpwwwiecorg
+neural technolog httpwwwneuraltcom
+travelassist magazin phone card fraud httpwwwtravelassistcommaga27html
+audit
+american institut of certifi public account httpwwwaicpaorg
+coso httpwwwcosoorg
+govern audit standard httpwwwgaogovgovaudybk01htm
+institut of intern auditor httpwwwtheiiaorg
+intern audit world wide web httpwwwbitwisenetiawww
+intern audit and assur standard board httpwwwifacorgiaasb
+unc busi manual httpwwwuncedufinancebusman
+invest resourc
+corpor inform httpwwwcorporateinformationcom
+edgar onlin httpfreeedgarcom
+kipling httpwwwkiplingercom
+thestreetcom httpwwwthestreetcom
+wall street network httpwwwwallstreetnetcom
+intern site
+global search engin
+bubl link httpbublacuk
+euroseek httpwwweuroseekcom
+matilda mega search engin australia httpwwwaussieseekcom
+search engin colossu httpwwwsearchenginecolossuscom
+search new zealand httpwwwsearchnzconz
+voila httpwwwvoilafr
+webwombat httpwebwombatcomau
+investig access inform onlin
+2011 fraud examin manual 3543
+newspap
+bbc new httpnewsbbccouk
+even standard httpwwwthisislondoncoukstandard
+financi time httpnewsftcomhom
+intern herald tribun httpglobalnytimescom
+internet public librari httpwwwiplorgdivnew
+le mond httpwwwlemondefr
+newspap societi httpwwwnewspapersocorguk
+onlinenewspaperscom httpwwwonlinenewspaperscom
+the daili telegraph httpwwwtelegraphcouk
+the guardian unlimit httpwwwguardiancouk
+the independ httpwwwindependentcouk
+the irish time httpwwwirelandcom
+the newspap societi databas httpwwwnsdatabasecoukindexhtml
+the scotsman httpwwwscotsmancom
+the time onlin httpwwwtimesonlinecouk
+time higher educ supplement httpwwwtimeshighereducationcouk
+time of india httptimesofindiaindiatimescom
+new and inform servic
+bbc new httpwwwbbccouk
+canadacom httpwwwcanadacomindexhtml
+euronew httpwwweuronewsnet
+futur event new servic httpwwwfenscom
+global investig journal httpwwwglobalinvestigativejournalismorg
+hansard hous of common debat httpwwwpublicationsparliamentukpacmcmhansrdhtm
+itn onlin httpitncouk
+microsoft network new httpukmsncom
+newsnow httpwwwnewsnowcouk
+ninemsn httpninemsncomau
+sky new httpnewsskycomskynewshom
+the economist httpwwweconomistcom
+the press associ httpwwwpressassociationcom
+uk busi park media new httpwwwukbusi parkcouk
+yahoo uk ireland new httpuknewsyahoocom
+librari
+aberdeen univers httpwwwabdnacuklibrari
+british librari httpwwwbluk
+cambridg univers httpwwwlibcamacuk
+edinburgh univers httpwwwlibedacuklib
+exet univers httpwwwasexacuklibrari
+glasgow univers httpwwwlibglaacuk
+king colleg london httpwwwkclacukiss
+oxford univers httpwwwoxacuklibrari
+public librari uk httpdspacedialpipexcomtownsquareac940weblibshtml
+univers london global httpwwwuclacuk
+univers of bath httpwwwbathacuklibrari
+univers of east anglia httpwww1ueaacukcmhomeservicesunitsi
+access inform onlin investig
+3544 2011 fraud examin manual
+telephon number
+aol intern directori httpsiteaolcomnetfindinternationalhtml
+infobel world httpwwwinfobelcomteldir
+uk busi directori httpwwwfreeindexcouk
+yellow page httpwwwyellcom
+map
+mapmachin httpplasmanationalgeographiccommapmachin
+maporama httpworldmaporamacom
+mapquest httpwwwmapquestcom
+multimap httpwwwmultimapcommapplacescgi
+ordnanc survei httpwwwordnancesurveycoukoswebsit
+street map httpwwwstreetmapcouk
+the rac httpwwwraccouk
+legal resourc
+access to law httpwwwaccesstolawcom
+centr for commerci law studi univers of london httpwwwcclsedu
+consum law center httpwwwhgorgconsumehtml
+dunde univers legal websit directori httpwwwdundeeacuklaw
+findlaw intern resourc httpwwwfindlawcom12intern
+her majesti court servic httpwwwhmcourtsservicegovuk
+infolaw gatewai httpwwwinfolawcouk
+lawlink httpwwwlawlinki
+the law commiss httpwwwlawcomgovuk
+the law societi of england and wale httpwwwlawsocietyorgukhomelaw
+govern site and law enforc site
+australia attornei gener depart httpwwwaggovau
+australia ministeri council on consum affair httpwwwconsumergovau
+australian court and legisl httpwwwnlagovauozlawhtml
+australian depart of foreign affair and trade httpwwwdfatgovau
+australian privaci commission httpwwwprivacygovau
+citi of london polic httpwwwcityoflondonpoliceuk
+depart for busi enterpris regulatori reform httpwwwberrgovuk
+govern inform centr httpwwwdirectgovukenindexhtm
+inform commission offic httpwwwicogovuk
+financi servic author httpwwwfsagovuk
+foreign and commonwealth offic httpwwwfcogovuk
+hm treasuri httpwwwhmtreasurygovuk
+intern centr for crimin law reform and crimin justic polici httpwwwicclrlawubcca
+ministri of econom develop httpwwwmedgovtnz
+nation crimin intellig servic httpwwwdirectgovukenindexhtm
+new zealand ministri of consum affair httpwwwconsumeraffairsgovtnz
+new zealand govern onlin httpnewzealandgovtnz
+investig access inform onlin
+2011 fraud examin manual 3545
+new zealand polic link httpwwwpoliceassnorgnzlinkshtm
+organ crimenathanson centr httpwwwyorkucanathanson
+intellectu properti offic httpwwwipogovuk
+royal canadian mount polic httpwwwrcmpgrcgcca
+seriou organis crime agenc httpwwwsocagovuk
+the european commiss httpeceuropaeu
+the home offic httpwwwhomeofficegovuk
+the nation archiv httpwwwnationalarchivesgovukdefaulthtm
+nite kingdom parliament httpwwwparliamentthestationeryofficecouk
+worldwid embassi and consul httpwwwembassyworldcom
+special fraudrel websit and websit of interest
+associ of british insur httpwwwabioruk
+australian institut of criminolog httpwwwaicgovau
+depart for work and pension httpwwwdwpgovuk
+hm treasuri fraud report httpwwwhmtreasurygovuk
+seriou fraud offic httpwwwsfogovuk
+the insolv servic httpwwwinsolvencygovuk
+audit
+uk nation audit offic httpwwwnaoorguk
+hm revenu and custom httpwwwhmrcgovuk
+insolv procedur and corpor rescu httpwwwinsolvencygovuk
+associ of busi recoveri profession httpwwwr3orguk
+institut of charter account in england and wale httpwwwicaewcouk
+associ of chart certifi account httpwwwaccacouk
+chart institut of manag account httpwwwcimaglobalcom
+institut of charter account of cotland httpwwwicasorguk
+institut of charter account in ireland httpwwwicaii
+london intern financi futur and option exchang euronext httpwwweuronextcom
+investig data analysi and report tool
+2011 fraud examin manual 3601

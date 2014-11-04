@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Pharmaceuticals and supplies which are frequently stolen from health care providers and nursing homes and sold on the street include:
+
+Options=Canes | Sunglasses | Narcotic drugs | All of the above
+
+CorrectResponse=3
+
+Explanation=Because of the ready market for selling pharmaceuticals and supplies, they have a propensity for being stolen. Narcotic drugs, although they are usually tightly controlled, still may be stolen and sold on the street. Supplies such as canes, sunglasses after cataract surgery, and admission kits are also popular items for theft or employee abuse.See page(s) 1.1241 in the Fraud Examiner’s Manual

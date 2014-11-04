@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=The procedure whereby an impartial third-party assists the parties to a lawsuit to work out a settlement is called ___________________.
+
+Options=Binding arbitration | Mediation | Judicial intervention | Non-binding arbitration
+
+CorrectResponse=1
+
+Explanation=Mediation is the process whereby an impartial third-person assists the parties in reaching a resolution of the dispute The mediator does not decide who should win, but instead works with the parties to reach a mutually agreeable settlement. Arbitration is the process whereby the dispute is submitted to an impartial third-person who then decides the outcome of the case: i.e. which party should win. The arbitrator acts as a judge or jury would by deciding the case on its merits. An arbitration can be either â€œbinding" or "nonbinding.â€? If the arbitration is binding, then the decision of the arbitrator is final, and the parties cannot later submit their dispute to a judge or jury for determination.See page(s) 2.613 in the Fraud Examiner's Manual

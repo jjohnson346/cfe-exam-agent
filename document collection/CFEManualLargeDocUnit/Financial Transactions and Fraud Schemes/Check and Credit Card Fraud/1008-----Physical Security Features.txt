@@ -1,0 +1,223 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/CHECK AND CREDIT CARD FRAUD/Prevention and Detection of Credit Card Fraud/Physical Security Features
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Check and Credit Card Fraud
+
+
+:
+
+
+Physical Security Features 
+In response to the counterfeiting problems, credit card companies are mastering the 
+possibilities of making credit card fraud more difficult. Some of their programs are  
+discussed below. 
+ 
+VISA CARD FEATURES 
+• The Visa logo should have micro-printing around the border. The fine print is barely 
+readable without magnification. 
+• The flying dove hologram should appear to be three-dimensional and appear to move 
+when the card is tilted back and forth. 
+• Visa’s embossed account numbers begin with a 4 and contain 16 digits. All digits must 
+be clean, even and the same size and shape. If a card has been re-embossed, the numbers 
+may appear to be fuzzy. As a general rule of thumb always check the hologram. It is 
+easier to spot a re-embossed number there. 
+• A flying “V” is an embossed security character  beside the “Good Thru” date. If the “V” 
+is not italicized or it is missing, the card is counterfeit. However, this is not a required 
+security feature and may or may not be present on the card. 
+• If there are “ghost images” of the numbers behind the embossing on either the front or 
+back of the card, it has been re-embossed. If the card has been re-embossed the 
+hologram might be damaged. 
+• A four-digit number must be printed below the embossed account number. This four-
+ digit number must match exactly with the first four digits of the account number. Both 
+must begin with 4. 
+• The Visa brand mark appears in blue and gold on a white background. It must appear in 
+either the bottom right, top left, or top right corner. 
+• An ultraviolet sensitive dove is visible on the face of the card when the card is placed 
+under an ultraviolet light. 
+• If someone has tried to erase the signature panel, the word “VOID” will be displayed. 
+• Card Verification Value 2 (CVV2) is a three-digit code that appears on the back of the 
+card in the signature panel. Typically the signature panel will have a series of numbers 
+but only the last three digits make up the CVV2 code. CVV2 is used primarily in card-
+ not-present transactions to verify that the customer is in possession of a valid Visa card 
+at the time of the sale. Merchants will request the CVV2 from the cardholder at 
+checkout, and the information is sent electronically to the card-issuing bank to verify its 
+validity. Within seconds the CVV2 results are returned with authorization. If it’s returned 
+as invalid, merchants have the right to stop the transaction. For added protection, 
+merchants are prohibited from keeping or storing the CVV2 number after the 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1029 
+transaction has been completed.  
+• Check the valid dates for evidence of tampering. Do not accept an expired card. 
+ 
+For more information about Visa’s security features, visit their website at: 
+http://www.visa.ca/en/merchant/fraudprevention/cardfeatures.cfm.  
+ 
+MASTERCARD CARD FEATURES 
+• A large “MC” is visible under ultraviol et light for MasterCard. The “MC” security 
+character is no longer permitted on newly issued cards (effective June 1, 2006), but may 
+continue to appear on cards through June 2010. 
+• All cards must include the full-color MasterCard Brand Mark. This mark may be below 
+or above the Global Hologram. Merchants should be aware that the MasterCard card 
+design and the MasterCard Brand Mark may be oriented vertically. 
+• The hologram (whether on global or debit cards) can be located on the front or back of 
+the card based on the design/type unless HoloMag tape is used. 
+• MasterCard’s embossed account numbers begin with a 5 and contain 16 digits. The 
+number must be clear and uniform in size and spacing and must appear on one line. 
+• The first four numbers of the account number must be the same digits as those printed 
+directly below (pre-printed BIN). 
+• The front of the card must include a valid expiration date. 
+• The signature panel located on the back of the card must include the word “MasterCard” 
+printed in multicolors at a 45 degree angle. The last four digits of the account number 
+must be printed in reverse italics in the upper right corner of the signature panel (this is 
+required as of June 1, 2006, prior to this the reverse italics could be found at the upper 
+center of the signature panel). 
+• Magnetic tape must be present and appear smooth and straight with no signs of 
+tampering. HoloMag tape may be used in place of the traditional magnetic tape. 
+• The HoloMag tape or MasterCard hologram must  be included on the back of the card if 
+it cannot be found on the front. 
+• CVC2 number (three-digit validation number) must be printed in reverse italics to the 
+right of the last four digits of the account number. As of June 1, 2006, the CVC2 
+number was required to be printed in reverse italics in an adjacent white box to the right 
+of the signature panel. 
+ 
+For more information about MasterCard’s security features, visit their website at: 
+http://www.mastercard.com/us/merchant/security/what_can_do/card_features.html.  
+ 
+Check and Credit Card Fraud  Financial Transactions   
+1.1030                           2011 Fraud Examiners Manual  
+AMERICAN EXPRESS FEATURES 
+• Ultraviolet inks are used such that when a genuine card is examined with a black light, 
+the letters AMEX, as well as phosphorescence in the portrait of the Centurion are 
+visible.  
+• The portrait of the Centurion is printed with a high degree of clarity and detail such as 
+the portraits on U.S. currency. 
+• Erasure or tampering with the signature panel will cause the waved print background to 
+appear white or smudged. 
+• The card member account number is 15 digits beginning with 37. The embossing should 
+be clear and uniform in size and spacing. 
+• A duplicate account number is on the reverse of the card to ensure the card number 
+appearing on the front of the card has not been altered. 
+• The pre-printed (non-embossed) Card Identification Number (CID), which is a four-
+ digit number printed on the front of the card that is used to ensure that the individual 
+using the card is actually the owner of the card, should always appear above  the account 
+number, on either the right or the left edge of the card. 
+• The card number or cardmember name should be printed in the same typeface as the 
+American Express typeface.  
+• All American Express cards, including Network, Optima and Corporate, will bear the 
+same security features outlined here. 
+ 
+For more information on American Express’s security features, visit their website at: 
+https://www209.americanexpress.com/merchant/singlevoice/USEng/FrontServlet?request
+ _type=n avigate&page=cardSecurityFeatures.  
+ 
+
+
+
+:
+
+
+physic secur featur
+in respons to the counterfeit problem credit card compani ar master the
+possibl of make credit card fraud more difficult some of their program ar
+discuss below
+visa card featur
+the visa logo should have microprint around the border the fine print is bare
+readabl without magnif
+the fly dove hologram should appear to be threedimension and appear to move
+when the card is tilt back and forth
+visa emboss account number begin with a 4 and contain 16 digit all digit must
+be clean even and the same size and shape if a card ha been reemboss the number
+mai appear to be fuzzi as a gener rule of thumb alwai check the hologram it is
+easier to spot a reemboss number there
+a fly v is an emboss secur charact besid the good thru date if the v
+is not italic or it is miss the card is counterfeit howev thi is not a requir
+secur featur and mai or mai not be present on the card
+if there ar ghost imag of the number behind the emboss on either the front or
+back of the card it ha been reemboss if the card ha been reemboss the
+hologram might be damag
+a fourdigit number must be print below the emboss account number thi four
+digit number must match exactli with the first four digit of the account number both
+must begin with 4
+the visa brand mark appear in blue and gold on a white background it must appear in
+either the bottom right top left or top right corner
+an ultraviolet sensit dove is visibl on the face of the card when the card is place
+under an ultraviolet light
+if someon ha tri to eras the signatur panel the word void will be displai
+card verif valu 2 cvv2 is a threedigit code that appear on the back of the
+card in the signatur panel typic the signatur panel will have a seri of number
+but onli the last three digit make up the cvv2 code cvv2 is us primarili in card
+notpres transact to verifi that the custom is in possess of a valid visa card
+at the time of the sale merchant will request the cvv2 from the cardhold at
+checkout and the inform is sent electron to the cardissu bank to verifi it
+valid within second the cvv2 result ar return with author if it return
+as invalid merchant have the right to stop the transact for ad protect
+merchant ar prohibit from keep or store the cvv2 number after the
+financi transact check and credit card fraud
+2011 fraud examin manual 11029
+transact ha been complet
+check the valid date for evid of tamper do not accept an expir card
+for more inform about visa secur featur visit their websit at
+httpwwwvisacaenmerchantfraudpreventioncardfeaturescfm
+mastercard card featur
+a larg mc is visibl under ultraviol et light for mastercard the mc secur
+charact is no longer permit on newli issu card effect june 1 2006 but mai
+continu to appear on card through june 2010
+all card must includ the fullcolor mastercard brand mark thi mark mai be below
+or abov the global hologram merchant should be awar that the mastercard card
+design and the mastercard brand mark mai be orient vertic
+the hologram whether on global or debit card can be locat on the front or back of
+the card base on the designtyp unless holomag tape is us
+mastercard emboss account number begin with a 5 and contain 16 digit the
+number must be clear and uniform in size and space and must appear on on line
+the first four number of the account number must be the same digit as those print
+directli below preprint bin
+the front of the card must includ a valid expir date
+the signatur panel locat on the back of the card must includ the word mastercard
+print in multicolor at a 45 degre angl the last four digit of the account number
+must be print in revers ital in the upper right corner of the signatur panel thi is
+requir as of june 1 2006 prior to thi the revers ital could be found at the upper
+center of the signatur panel
+magnet tape must be present and appear smooth and straight with no sign of
+tamper holomag tape mai be us in place of the tradit magnet tape
+the holomag tape or mastercard hologram must be includ on the back of the card if
+it cannot be found on the front
+cvc2 number threedigit valid number must be print in revers ital to the
+right of the last four digit of the account number as of june 1 2006 the cvc2
+number wa requir to be print in revers ital in an adjac white box to the right
+of the signatur panel
+for more inform about mastercard secur featur visit their websit at
+httpwwwmastercardcomusmerchantsecuritywhatcandocardfeatureshtml
+check and credit card fraud financi transact
+11030 2011 fraud examin manual
+american express featur
+ultraviolet ink ar us such that when a genuin card is examin with a black light
+the letter amex as well as phosphoresc in the portrait of the centurion ar
+visibl
+the portrait of the centurion is print with a high degre of clariti and detail such as
+the portrait on us currenc
+erasur or tamper with the signatur panel will caus the wave print background to
+appear white or smudg
+the card member account number is 15 digit begin with 37 the emboss should
+be clear and uniform in size and space
+a duplic account number is on the revers of the card to ensur the card number
+appear on the front of the card ha not been alter
+the preprint nonemboss card identif number cid which is a four
+digit number print on the front of the card that is us to ensur that the individu
+us the card is actual the owner of the card should alwai appear abov the account
+number on either the right or the left edg of the card
+the card number or cardmemb name should be print in the same typefac as the
+american express typefac
+all american express card includ network optima and corpor will bear the
+same secur featur outlin here
+for more inform on american expresss secur featur visit their websit at
+httpswww209americanexpresscommerchantsinglevoiceusengfrontservletrequest
+typen avigatepagecardsecurityfeatur

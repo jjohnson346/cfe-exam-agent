@@ -1,0 +1,228 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Electronic Mail
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Electronic Mail  
+E-mail has revolutionized the ability of businesses to interact swiftly and, indeed, global 
+business has embraced the e-mail system wholeheartedly. Few organizations do not provide 
+some form of internal electronic communications. Due to the speed at which businesses can 
+now interact and conduct business, as well as the relative cost advantage e-mail enjoys over 
+other means of communication, the number of new e-mail users will no doubt continue  
+to boom.  
+ 
+E-mail does, however, also give organizations a degree of vulnerability. Aside from 
+employees using it for personal correspondence, e-mail can be used to sabotage and crash 
+organizations’ networks. Forwarding viruses or even simple virus hoaxes are often enough to 
+Computer and Internet Fraud  Financial Transactions   
+1.1814                           2011 Fraud Examiners Manual  
+overload a system. Using e-mail through such systems as the Internet endows senders with 
+identity protection—the original sender of the message can be disguised or obscured. 
+Therefore, because a sender’s identity can be concealed, sensitive business information can 
+be safely forwarded to an unauthorized address. 
+ 
+Consider: 
+• Company employees now possess the ability to quickly disclose sensitive company 
+materials to outside parties, increasing the opportunity for corporate espionage. 
+• Companies that employ a company-wide e-mail system can now be held responsible for 
+any unethical or illegal activities conducted by employees on the e-mail system. 
+• Companies must now be concerned with the repercussions of the actions of any 
+disgruntled or rash employees. The speed with which an e-mail can be “fired off” creates 
+the opportunity for ill-advised communications. 
+• Once an e-mail message has left a company’s system, it may travel through any number 
+of “foreign” e-mail systems before reaching its destination. An e-mail transmission can 
+quite easily be intercepted or compromised without the use of encryption software.  
+• Without a security-enhanced e-mail system, the receiver of an e-mail message has little 
+assurance that the e-mail is authentic. E-mail addresses can be easily “spoofed” or cloned 
+by a knowledgeable user. 
+ 
+E-mail can be delivered almost instantaneously anywhere the networks, computers, and 
+software exist to handle its transmission and reception. In fact, one of the emerging security 
+problems concerning e-mail is the huge volume of space required to archive old messages. In 
+some organizations, people are regularly asked to cull through their old e-mail messages and 
+delete those no longer needed. In addition, some organizations will delete any old e-mail 
+messages left on the mail server machines after a certain amount of time (e.g., one or two 
+months). 
+ 
+E-Mail Security Concerns 
+Since e-mail has become a fact of life for most organizations, it is appropriate to discuss 
+some e-mail security concerns from both a user-based and an organizational perspective. 
+Organizations often fail to set boundaries for employees regarding e-mail and may later face 
+legal ramifications as a result.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1815 
+E-Mail Ownership 
+Who owns e-mail messages on an organization’s system? This is the common question, but 
+it is not necessarily the right question. An e-mail message that an employee wrote himself is a 
+work of authorship and as such the rules of copyright apply. In general, if the employee 
+wrote the message as part of his duties for his employer (i.e., “in the scope of your 
+employment”) the employer owns the copyright. If the e-mail was not part of the employee’s 
+duties (something personal or related to another activity, whether permitted by the employer 
+or not), then the user has copyright, but the employer, as owner of the system on which it 
+was created or passed through, may have some rights to the copy on the system. If an 
+employee is forwarding a message written by someone else, the issue gets even more 
+complicated. For instance, does the original author have the right or the intention to 
+authorize any forwarding? 
+ 
+Organizational Liability 
+As with any communications media, legal issues of the Internet are emerging at a rapid rate, 
+with a lot of discussion, but are of limited consensus so far. It can be said that employers do 
+have some liability for how employees use a company’s e-mail system. The issues are similar 
+to an employee’s use of the company telephone, the company postage meter, the company 
+vehicle, and so on.  
+ 
+The best general advice is to exercise some caution when dealing with an e-mail system. 
+Within the company, e-mail can become a vehicle for sexual harassment, for creating a 
+hostile work environment, or setting up gambling pools. Outside the company, employees 
+can use e-mail to operate their own businesses or to send out fabricated messages in the 
+name of other employees or their employer. Some employers monitor their e-mail systems, 
+which presents legal issues, such as invasion of privacy. E-mail has also been used to gather 
+evidence against employers or employees. Of course, there are no more dangers and pitfalls 
+of e-mail than there are of any form of communications, whether inside or outside the 
+organization. The telephone and postal systems are just as capable of such problems. 
+ 
+As with any potential liability issue, employers must set guidelines for the proper internal and 
+external use of e-mail, just as they would for the proper use of the company telephone, 
+stationery and postage, vehicles, and so on. For instance, the organization should have a 
+policy reminding employees in writing that e-mail must not be used to send inappropriate 
+and unprofessional messages, including: 
+• Harassing other users of the system. 
+Computer and Internet Fraud  Financial Transactions   
+1.1816                           2011 Fraud Examiners Manual  
+• Consuming unreasonable amounts of available resources. 
+• Intentionally sending other users viruses. 
+• Evading software licensing or copying mechanisms. 
+• Crashing/disrupting system services. 
+• Impersonating another user anywhere on the Internet. 
+• Bypassing system security mechanisms. 
+• Translating encrypted material without authorization. 
+• Eavesdropping on other e-mail interactions. 
+• Using the system for any personal gain either monetarily or politically unless permitted 
+by the organization. 
+ 
+A number of prominent liability law firms recommend some monitoring of e-mail, but this 
+decision should not be taken lightly and not just because of employee’s privacy concerns. 
+For instance, the fact that the company does try to monitor e-mail may be used against the 
+company when something slips through that monitoring. 
+ 
+Due to rapid growth of the Internet and e-mail, there is a great deal of uncertainty in the law. 
+Organizations may want to seek legal counsel in establishing proper use guidelines and 
+before taking disciplinary action against employees because of alleged abuses. 
+ 
+ 
+
+
+
+:
+
+
+electron mail
+email ha revolution the abil of busi to interact swiftli and inde global
+busi ha embrac the email system wholeheartedli few organ do not provid
+some form of intern electron commun due to the speed at which busi can
+now interact and conduct busi as well as the rel cost advantag email enjoi over
+other mean of commun the number of new email user will no doubt continu
+to boom
+email doe howev also give organ a degre of vulner asid from
+employe us it for person correspond email can be us to sabotag and crash
+organ network forward virus or even simpl viru hoax ar often enough to
+comput and internet fraud financi transact
+11814 2011 fraud examin manual
+overload a system us email through such system as the internet endow sender with
+ident protectionth origin sender of the messag can be disguis or obscur
+therefor becaus a sender ident can be conceal sensit busi inform can
+be safe forward to an unauthor address
+consid
+compani employe now possess the abil to quickli disclos sensit compani
+materi to outsid parti increas the opportun for corpor espionag
+compani that emploi a companywid email system can now be held respons for
+ani uneth or illeg activ conduct by employe on the email system
+compani must now be concern with the repercuss of the action of ani
+disgruntl or rash employe the speed with which an email can be fire off creat
+the opportun for illadvis commun
+onc an email messag ha left a compani system it mai travel through ani number
+of foreign email system befor reach it destin an email transmiss can
+quit easili be intercept or compromis without the us of encrypt softwar
+without a securityenhanc email system the receiv of an email messag ha littl
+assur that the email is authent email address can be easili spoof or clone
+by a knowledg user
+email can be deliv almost instantan anywher the network comput and
+softwar exist to handl it transmiss and recept in fact on of the emerg secur
+problem concern email is the huge volum of space requir to archiv old messag in
+some organ peopl ar regularli ask to cull through their old email messag and
+delet those no longer need in addit some organ will delet ani old email
+messag left on the mail server machin after a certain amount of time eg on or two
+month
+email secur concern
+sinc email ha becom a fact of life for most organ it is appropri to discuss
+some email secur concern from both a userbas and an organiz perspect
+organ often fail to set boundari for employe regard email and mai later face
+legal ramif as a result
+financi transact comput and internet fraud
+2011 fraud examin manual 11815
+email ownership
+who own email messag on an organ system thi is the common question but
+it is not necessarili the right question an email messag that an employe wrote himself is a
+work of authorship and as such the rule of copyright appli in gener if the employe
+wrote the messag as part of hi duti for hi employ ie in the scope of your
+employ the employ own the copyright if the email wa not part of the employe
+duti someth person or relat to anoth activ whether permit by the employ
+or not then the user ha copyright but the employ as owner of the system on which it
+wa creat or pass through mai have some right to the copi on the system if an
+employe is forward a messag written by someon els the issu get even more
+complic for instanc doe the origin author have the right or the intent to
+author ani forward
+organiz liabil
+as with ani commun media legal issu of the internet ar emerg at a rapid rate
+with a lot of discuss but ar of limit consensu so far it can be said that employ do
+have some liabil for how employe us a compani email system the issu ar similar
+to an employe us of the compani telephon the compani postag meter the compani
+vehicl and so on
+the best gener advic is to exercis some caution when deal with an email system
+within the compani email can becom a vehicl for sexual harass for creat a
+hostil work environ or set up gambl pool outsid the compani employe
+can us email to oper their own busi or to send out fabric messag in the
+name of other employe or their employ some employ monitor their email system
+which present legal issu such as invas of privaci email ha also been us to gather
+evid against employ or employe of cours there ar no more danger and pitfal
+of email than there ar of ani form of commun whether insid or outsid the
+organ the telephon and postal system ar just as capabl of such problem
+as with ani potenti liabil issu employ must set guidelin for the proper intern and
+extern us of email just as thei would for the proper us of the compani telephon
+stationeri and postag vehicl and so on for instanc the organ should have a
+polici remind employe in write that email must not be us to send inappropri
+and unprofession messag includ
+harass other user of the system
+comput and internet fraud financi transact
+11816 2011 fraud examin manual
+consum unreason amount of avail resourc
+intention send other user virus
+evad softwar licens or copi mechan
+crashingdisrupt system servic
+imperson anoth user anywher on the internet
+bypass system secur mechan
+translat encrypt materi without author
+eavesdrop on other email interact
+us the system for ani person gain either monetarili or polit unless permit
+by the organ
+a number of promin liabil law firm recommend some monitor of email but thi
+decis should not be taken lightli and not just becaus of employe privaci concern
+for instanc the fact that the compani doe try to monitor email mai be us against the
+compani when someth slip through that monitor
+due to rapid growth of the internet and email there is a great deal of uncertainti in the law
+organ mai want to seek legal counsel in establish proper us guidelin and
+befor take disciplinari action against employe becaus of alleg abus

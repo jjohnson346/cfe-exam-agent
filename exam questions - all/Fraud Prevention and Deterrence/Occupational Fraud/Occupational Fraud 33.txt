@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Occupational fraud is defined as fraud committed largely by individuals or small groups of individuals in connection with their occupation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Occupational fraud is committed largely by individuals or small groups of individuals in connection with their occupation. It can include violations of law by businessmen, politicians, labor union leaders, lawyers, doctors, pharmacists, and employees who embezzle money from their employers or steal merchandise and tools.See page(s) 4.601 in the Fraud Examiner's Manual

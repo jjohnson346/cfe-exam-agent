@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:
+
+Options=Objective evidence | Going concern | Materiality | Cost
+
+CorrectResponse=1
+
+Explanation=In valuing a firm's assets for financial statement purposes, it is assumed that the business is one that will continue into the future. That is because the worth of the business, if it is any good, will always be higher than the value of its hard assets. This is the going concern concept, which assumes the business will go on indefinitely in the future. If there is serious doubt about whether a business can continue, the accountants must disclose this information as a footnote in the financial statements.

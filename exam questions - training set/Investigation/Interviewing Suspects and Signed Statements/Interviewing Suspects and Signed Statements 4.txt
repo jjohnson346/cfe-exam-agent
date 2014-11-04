@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a Certified Fraud Examiner, is conducting an admission-seeking interview of Green, a fraud suspect. Blue has a great deal of documentary evidence. The proper technique is for Blue to lay out all the evidence at once so that Green will be impressed with the weight of evidence.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=It is common for most guilty people to overestimate the amount of physical evidence. The interviewer wants to try to reinforce this notion in the way the evidence is laid out to the accused. The physical evidence‰??usually documents in fraud matters‰??generally should be displayed one piece at a time, in reverse order of importance. In this way, the full extent of the evidence is not immediately known by the accused. When the accused no longer denies culpability, the interviewer should stop displaying evidence. Each time a document or piece of evidence is laid out to the accused, its significance should be noted by the interviewer. During this phase, the accused is still trying to come to grips with being caught. The interviewer should, therefore, expect that the accused will attempt to lie his way out of the situation. Like denials, the interviewer should stop the alibis and other falsehoods before they are fully articulated.See page(s) 3.261 in the Fraud Examiner's Manual

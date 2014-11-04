@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following is NOT a check disbursement control that will help prevent check tampering?
+
+Options=Bank statements should be reconciled and reviewed by more than one person | Changes in vendor information should be verified | Bank reconciliations are only made by signatories on the account | Check "cutting" and preparation is not done by a signatory on the account
+
+CorrectResponse=2
+
+Explanation=The following list of activities will help tighten controls and possibly deter employees from giving in to the temptation to commit check fraud.•	Check “cutting" and preparation is not done by a signatory on the account.•	Checks are mailed immediately after signing.•	Accounts payable records and addresses are secure from possible tampering. Changes in vendor information should be verified.•	Banks statements should be reviewed diligently ensuring that amounts and signatures have not been altered.•	Bank reconciliations should be completed immediately after monthly statements are received. The Uniform Commercial Code states that discrepancies must be presented within 30 days from the bank statement in order to hold the bank liable.•	Bank reconciliations are not made by signatories on the account.•	Bank statements should be reconciled and reviewed by more than one person.	_▼]See page(s) 153-154 in the Corporate Fraud Handbook

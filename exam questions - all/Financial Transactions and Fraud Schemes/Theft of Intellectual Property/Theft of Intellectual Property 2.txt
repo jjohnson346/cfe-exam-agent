@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Favorite targets of corporations for intelligence gathering purposes include all of the following EXCEPT:
+
+Options=Research and development | Marketing | Legal | Manufacturing and production
+
+CorrectResponse=1
+
+Explanation=Some of the favorite targets of intelligence gatherers include research and development, marketing, manufacturing and production, and human resources.See page(s) 1.821-1.822 in the Fraud Examiner's Manual

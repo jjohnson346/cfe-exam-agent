@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following is the best preventative measure against computer hacking?
+
+Options=Elimination of as many dial-in ports as possible | Call-back modems | Security software packages | Ensuring that welcome screens do not say "welcome to the company" or something similar
+
+CorrectResponse=0
+
+Explanation=Because hackers require dial-in capability to gain access, the best prevention strategy is to eliminate as many dial-in ports as possible. Unfortunately, the trend today is to install more, not fewer, dial-in capabilities because telecommuting and customer connectivity are driving the demand for more dial-in capability.See page(s) 1.1811-1.1812 in the Fraud Examiner’s Manual

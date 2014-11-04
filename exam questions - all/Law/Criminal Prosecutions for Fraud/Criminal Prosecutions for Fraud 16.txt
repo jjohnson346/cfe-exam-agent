@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The reading of the indictment or information in open court where the defendant pleads to the charges is called:
+
+Options=The bond hearing | The identity hearing | The pre-trial hearing | The arraignment
+
+CorrectResponse=3
+
+Explanation=The arraignment takes place in open court, and consists of the reading of the charges in the indictment or information. The defendant may plead guilty, not guilty, or nolo contendere.See page(s) 2.508 in the Fraud Examiner's Manual

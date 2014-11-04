@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Keeping track of the amount of paper generated is one of the biggest problems in fraud cases. It is essential that documents obtained be properly organized early on in an examination. Which of the following is a good practice when organizing evidence?
+
+Options=Establish a database early on in cases with large amounts of information | Segregate documents by either witness or transaction | Make a key document file for easy access to the most relevant documents | All of the above
+
+CorrectResponse=3
+
+Explanation=Keeping track of the amount of paper generated is one of the biggest problems in fraud cases. Good organization in complex cases includes the following:Segregating documents by either witness or transactionMaking a 1 key document" file for easy access to the most relevant documentsEstablishing a database early on in the case of a large amount of informationSee page(s) 3.102-3.103 in the Fraud Examiner's Manual

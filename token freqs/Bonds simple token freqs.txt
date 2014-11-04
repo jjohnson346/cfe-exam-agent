@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+they                                   1
+has                                    1
+junk                                   2
+bond                                   1
+although                               1
+are                                    1
+connotation                            1
+commercial                             1
+is                                     1
+below-investment-grade                 1
+debt                                   1
+a                                      3
+bonds                                  6
+instrument                             1
+the                                    1
+and                                    1
+include                                1
+corporate                              1
+high-risk                              1
+term                                   1
+simply                                 1
+municipal                              1
+negative                               1
+treasury                               1
+examples                               1
+bills                                  1
+very                                   1
+
+Totals:                     27        35

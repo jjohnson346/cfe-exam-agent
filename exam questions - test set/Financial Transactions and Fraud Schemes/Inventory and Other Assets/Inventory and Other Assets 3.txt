@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=Employees who steal inventory are often highly trusted within their organizations.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Ironically, employees who steal inventory are often highly trusted within their organizations. This trust can provide employees with access to restricted areas, safes, supply rooms, or even keys to the business. Such access, in turn, makes it easy for employees to misappropriate company assets.See page(s) 255 in the Corporate Fraud Handbook

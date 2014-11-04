@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Certified Fraud Examiners are permitted to "double count" some continuing professional education hours earned with certain other designations, such as CPA.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=People who become Certified Fraud Examiners must accrue 20 hours of continuing professional education annually. Certified Fraud Examiners are permitted to "double count‰?? continuing education received from other certifications as long as they also meet the criteria for fraud examination continuing education. At least half of the hours earned, however, must relate directly to the detection or deterrence of fraud.See page(s) 4.1021 in the Fraud Examiner‰??s Manual

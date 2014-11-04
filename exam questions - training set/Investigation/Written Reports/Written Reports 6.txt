@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Laws usually protect the disclosure of a fraud examination report by the CFE to outsiders such as defendants and the press.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Keep in mind that the fraud examination report will be read by the general public and the opposition. Under no circumstances should the examiner prepare a communication with the idea that the information will not be disclosed to adverse third parties. Write the report with this caveat in mind. A fraud examination should stand on its own. It should adequately answer the classic questions of who, what, why, where, when, and how. If the report is prepared properly, the reader should not have to refer to any other documents to understand the issues. In either civil or criminal litigation, the defendants will eventually see most, if not all, of a report. If the case reaches court, the witnesses you identified and interviewed will be provided with copies of their own statements, if not the entire reportSee page(s) 3.905-3.906 in the Fraud Examiner's Manual

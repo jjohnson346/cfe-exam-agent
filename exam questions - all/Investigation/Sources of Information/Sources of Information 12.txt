@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Although the Fair Credit Reporting Act restricts access to consumer reports on individuals, there is an exception to the normal requirement that you must have the employee's consent if you are obtaining the report as part of an investigation of employee misconduct.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Fair and Accurate Credit Transactions Act of 2003 amended the Fair Credit Reporting Act to exempt certain reports involving employee misconduct investigations. As a result of these amendments, an employer who uses a third party to conduct a workplace investigation no longer has to obtain the prior consent of an employee if the investigation involves suspected:Misconduct;Violation of law or regulations: orViolation of any pre-existing policy of the employer.See page(s) 3.406 in the Fraud Examiner's Manual

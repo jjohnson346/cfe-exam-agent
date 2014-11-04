@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Under previous U.S. Supreme Court decisions, a public employee can be fired for refusing to answer job-related questions regarding his possible criminal conduct as long as he is warned first.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The U.S. Supreme Court has held that a public employee cannot be compelled to answer job-related questions concerning his own possible criminal conduct under threat of disciplinary action (for example, removal) without violating his rights under the self-incrimination clause of the Fifth Amendment. The choice between job forfeiture and selfincrimination, said the Court, is inherently coercive and, in effect, a choice “between the rock and the whirlpool.'’ Put another way, a public employee cannot be put in a position wherein he will incriminate himself if he tells the truth, will subject himself to perjury prosecution if he lies, or will set himself up for a removal action if he refuses to cooperate.See page(s) 1.1926 in the Fraud Examiner’s Manual

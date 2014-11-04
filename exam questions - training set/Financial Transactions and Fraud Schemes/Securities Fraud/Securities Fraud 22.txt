@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=One type of securities fraud involves brokers who engage in excessive trading of a customer account to create commissions for themselves and their firms. This type of fraud is called which of the following?
+
+Options=Front running | Conversion | Churning | Parking
+
+CorrectResponse=2
+
+Explanation=Churning is the excessive trading of a customer account for the purpose of generating commissions. For securities and options there is a commission charged when the trade is entered into and when the trade is liquidated. Commodity futures have a round turn commission scheme meaning that the commission covers both the purchase and sale Commissions on commodity futures are not charged until the trade is closed out.See page(s) 1.1531 in the Fraud Examiner‰??s Manual

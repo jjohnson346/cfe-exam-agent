@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem=According to Reiss and Biderman, __________________________ violations are those violations of law to which penalties are attached that involve the use of a violator's position of economic power, influence, or trust in the legitimate economic or political institutional order for the purpose of illegal gain, or to commit an illegal act for personal or organizational gain.
+
+Options=Organized crime | Environmental crime | White-collar crime | Violent crime
+
+CorrectResponse=2
+
+Explanation=Though there is no consensus within the scholarly community, one definition today of white-collar crime is that proposed by Albert J. Reiss, Jr. and Albert Biderman: White-collar crime violations are those violations of law to which penalties are attached that involve the use of a violator's position of economic power, influence, or trust in the legitimate economic or political institutional order for the purpose of illegal gain, or to commit an illegal act for personal or organizational gain.See page(s) 4.402 in the Fraud Examiner's Manual

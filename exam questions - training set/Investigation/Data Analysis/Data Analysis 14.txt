@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Looking at a list of expenses, Karen notices that airfare expenses have risen dramatically, but she believes that the staff actually traveled fewer days than last year. Which of the following data analysis functions would be the most useful in helping Karen analyze these two items?
+
+Options=Vertical analysis | Verifying multiples of a number | Joining files | Correlation analysis
+
+CorrectResponse=3
+
+Explanation=Using the correlation analysis function, investigators can determine the relationships between different variables in the raw data. Investigators can learn a lot about computer data files by learning the relationship between two variables. For example, we should expect a strong correlation between these independent and dependent variables because a direct relationship exists between the two variables. Hotel costs should increase as the number of days traveled increases. Gallons of paint used should increase as the number of houses built increases.See page(s) 3.608 in the Fraud Examiner's Manual

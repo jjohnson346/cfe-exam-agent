@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Baker, a government fraud examiner, is attempting to obtain information about a fraud suspect from a local bank. The records of the bank are covered by which federal law?
+
+Options=Right to Financial Privacy Act | Freedom of Information Act | Financial Institutions Records Act | None of the above
+
+CorrectResponse=0
+
+Explanation=The Right to Financial Privacy Act prohibits financial institutions from disclosing financial information about individual customers to governmental agencies without‰?¢	The customer‰??s consent‰?¢	A court order‰?¢	Subpoena‰?¢	Search warrant‰?¢	Other formal demand, with limited exceptionsAlthough the statute applies only to demands by governmental agencies, most banks and other financial institutions also will not release such information to private parties absent legal process, such as a subpoena issued in a civil lawsuit.See page(s) 3.410 in the Fraud Examiner's Manual

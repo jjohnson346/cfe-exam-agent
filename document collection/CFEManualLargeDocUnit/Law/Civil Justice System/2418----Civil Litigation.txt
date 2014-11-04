@@ -1,0 +1,887 @@
+2011 Fraud Examiners Manual/Law/THE CIVIL JUSTICE SYSTEM/Civil Litigation
+
+
+:
+
+
+Law
+
+
+:
+
+
+Civil Justice System
+
+
+:
+
+
+Civil Litigation 
+Civil actions to recover damages for fraud or to enjoin further fraudulent activity can be filed 
+by private plaintiffs in state or federal courts. Most common-law fraud actions, usually styled 
+misrepresentation claims, are filed in state courts. Suits involving parties from different states 
+and involving more than $75,000 in controversy (known as diversity cases), or actions brought 
+on the basis of federal statutes, such as the civil RICO provisions, can be brought in federal 
+court. Federal court generally is preferred by plaintiffs in larger cases because federal courts 
+provide better access to witnesses and documents located in different states. The procedures 
+described below are largely drawn from the federal rules. 
+ 
+Beginning the Civil Action 
+A civil action begins with the filing of a complaint in the appropriate court, usually in the 
+jurisdiction in which the defendant or the plaintiff resides, or where the claim arose. 
+ 
+The federal rules provide that the complaint should be a “short and plain statement” 
+showing the court’s jurisdiction to hear the case (e .g., in federal court, that there is diversity 
+of citizenship and more than $75,000 in issue), the grounds for relief, and a demand for 
+judgment. Rule 9(b) of the Federal Rules of Civil Procedure requires that the facts entitling 
+the plaintiff to relief be stated with “particularity.” Thus, whereas a plaintiff in a negligence 
+case might get into court by merely alleging—without any details or supporting evidence —
+that the defendant operated his automobile in a negligent manner at such and such place and 
+time, a fraud plaintiff must plead the alleged fraud in detail — the actual misrepresentations 
+that were made, to whom, how they were false, and so on, depending on the type of fraud 
+claim. 
+ 
+The 9(b) requirement often creates a “Catch-22” for fraud plaintiffs. A company, for 
+example, might have good grounds to believe that it is the victim of a kickback fraud, but it 
+might need access to the discovery system (subpoenas for documents and witnesses, etc.) to 
+The Civil Justice System  Law 
+2.602  2011 Fraud Examiners Manual  
+prove the illegal payments. In such circumstances, particularly where the specific information 
+needed is within the sole control of the defendant, the court might relax the 9(b) 
+requirement somewhat. 
+ 
+The complaint, together with a summons, must be served on the defendant. The summons 
+advises the defendant that a civil action has been commenced against him in court and that 
+he has a certain time to answer (usually 20 days) or suffer a default judgment. This procedure 
+is called service of process. A corporation may be served through any officer, managing agent, or 
+other agent authorized by law to received process. Process may be served on a defendant 
+outside the state where the court sits if the defendant has significant contacts within the 
+state, such as a corporation conducting business there. 
+ 
+Once served, the defendant must then file an answer within the specified period. A 
+defendant’s answer may deny liability, add counterclaims against the plaintiff, or raise 
+motions to dismiss the action based on grounds such as failure to state a claim, expiration of 
+the statute of limitations, and improper service. In major litigation, these procedural 
+challenges might consume a year or more and result in enormous legal fees before the case 
+reaches the merits of the issue. If the defendant does not file the answer before the deadline, 
+the defendant forfeits the case and is held liable for damages as the court deems fit. This 
+type of judgment is called a default judgment. 
+ 
+The Discovery Stage 
+If the legal hurdles required to begin a civil action are overcome, the case enters the 
+discovery stage. To review, discovery refers to the formal process whereby the parties collect 
+evidence and learn the details of the opposing case. Under federal rules, either party may 
+take discovery regarding any matter, not privileged, that is relevant to the subject matter of 
+the action, or that might lead to admissible evidence.  
+ 
+Discovery can be an extremely expensive and time-consuming process, often taking years to 
+complete, particularly in complex litigation such as fraud actions. Proposals to reform and 
+streamline the system are constantly advocated, but seldom adopted, in large measure 
+because trial lawyers are unwilling to give up or to limit their opportunities to learn about 
+and look for weaknesses in their opponent’s case. 
+ 
+Due to the growth of documents in electronic formats, coupled with the difficulty courts 
+have had in determining how electronic documents should be introduced as evidence, 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.603 
+several discovery rules in the Federal Rules of Civil Procedure (FRCP) were amended in 
+2006 to acknowledge electronic information as a necessary component of discoverable 
+evidence. Whereas the FRCP once used the term data compilations to refer to electronic 
+evidence, the 2006 amendments replaced this term with electronically stored information  (ESI). 
+The rules apply to parties in any civil dispute in federal court; however, many states will 
+adopt or have adopted similar changes. 
+ 
+The principal means of discovery, whether traditional paper document discovery or 
+electronic discovery, include: prediscovery  disclosures, pre-trial conferences, oral 
+depositions, written interrogatories, requests to produce documents, request for admission, 
+request a physical or mental examination, and requests for inspection of property.  
+ 
+Prediscovery Disclosure  
+FRCP 26(a) and similar state rules require parties to make prediscovery disclosures. These rules 
+require parties to disclose certain information before formal discovery begins, such as the 
+disclosure of witnesses’ identities, materials that may be used to support claims or defenses, 
+computations of damages, and insurance agreements that may cover the claim. As amended 
+in 2006, Rule 26(a) includes electronically stored information (ESI) in the list of items that 
+litigants must provide in their prediscovery disclosures. 
+ 
+Pre-trial Conferences 
+As amended in 2006, FRCP 26(f) requires parties to attend a discovery planning conference 
+(called a pre-trial conference) to discuss certain issues, such as the form in which the parties 
+want electronic information to be produced. Prior to the amendment, parties could  discuss 
+electronic discovery issues, whereas now they must.  
+ 
+After attending their discovery planning conference, the parties are to develop a discovery 
+report (Form 35 report), which sets forth a description of how disclosure or discovery of 
+electronic information should be handled.  
+ 
+The court will enter a scheduling order after receiving a Form 35 report from the parties. 
+Among other things, the scheduling order sets forth the time limits for completing 
+discovery. The amendments provide that federal courts may also include “provisions for 
+disclosure or discovery of electronically stored information” as an item in its scheduling 
+order. Consequently, failure to abide by a discovery report or scheduling order might result 
+in sanctions, and possibly criminal charges against the parties. 
+The Civil Justice System  Law 
+2.604  2011 Fraud Examiners Manual  
+Oral Depositions 
+Depositions are probably the most popular and useful form of discovery. A deposition is 
+sworn testimony given by a party or witness upon questioning by counsel for one of the 
+parties before trial and outside of court, usually in a lawyer’s office. Opposing counsel and a 
+stenographer, who administers the oath and transcribes the testimony, also are present. 
+Deposition testimony may be used to obtain evidence about the party’s own case or the 
+opponent’s, or to preserve testimony for trial. In the federal system, a witness outside the 
+subpoena power of the court can be deposed in the area he resides and the transcript read to 
+the jury at trial. If the deposing attorney wishes to inspect or refer during the proceedings to 
+certain documents in the witness’s possession, these can be demanded by a subpoena duces 
+tecum, a legal order for the witness to produce the documents for reference during the 
+deposition. 
+ 
+Unless otherwise specified, statements made during a deposition can be produced as 
+evidence during the trial. According to federal guidelines, “examination and cross-examination
+of witnesses may proceed as permitted at the trial ….” The deponent or counsel 
+can object to particular questions, as in a trial. At a deposition, the person must answer the 
+question, even when counsel enters an official objection; the evidence is “taken subject to 
+the objections” (Federal Rule of  Civil Procedure 30). This means the objection is duly noted, 
+and if the depositional evidence is presented at trial, the judge will be asked to rule on the 
+objection before that part of the deposition is read to the jury.  
+ 
+Interrogatories 
+Interrogatories are questions that are submitted to an opposing party in a suit; they are 
+something like a written deposition. Interrogatories cannot be given to anyone other than a 
+party to a suit. Interrogatories are submitted to the witness in writing. If the receiving party 
+thinks that a question is improper, then he may object to the question. If no objection is 
+given, then the party must answer the question in writing. All answers must be sworn to 
+under oath. Interrogatories are less expensive to perform than depositions. Some parties will 
+try to provide as little information as possible but still give a “truthful” answer. However, 
+that tactic can backfire — if the answering party does not provide the information requested, 
+that party cannot introduce evidence on those issues at trial and can be sanctioned by the 
+court.  
+ 
+A typical interrogatory in a fraud case might inquire: 
+• State your name, address, telephone number and title of the person answering these 
+interrogatories. 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.605 
+• Describe in detail your educational background, and include the names and addresses of 
+all institutions that you have attended, the dates of attendance, and a description of the 
+degrees or certificates that you have obtained.  
+• Identify all persons having knowledge, either directly or indirectly, of the allegations 
+contained in Defendant’s Original Answer. 
+• Please list the name, address, and telephone number and the employers name, address, 
+and telephone number or each expert witness you expect to call as a witness at trial. 
+• Describe in detail your duties at [the Company]? 
+ 
+Interrogatories are covered under Federal Rule of Civil Procedure 33. In addition to allowing 
+parties to serve interrogatories on other parties, Rule 33 allows a party to produce business 
+records in lieu of written responses. But this applies only when the burden for acquiring 
+such records is nearly equal on both sides. As amended, Rule 33 adds ESI to the type of 
+business records that the responding party may specify and produce in response to an 
+interrogatory.  
+ 
+A typical interrogatory in a fraud case regarding ESI might inquire: 
+• Identify and describe all e-mail systems presently and previously in use by [PARTY] at 
+any time within [TIME PERIOD], including but not limited to the names of the e-mail 
+server and the client software, the version numbers of the software in use during [TIME 
+PERIOD], and describe the dates of use for each 
+• Identify all past and present individuals, including dates, responsible for the ongoing 
+operations, expansion, maintenance, and upkeep of [PARTY’s] computer networks 
+• For all past and present data backups performed on all computer systems in use during 
+[TIME PERIOD], identify the individual(s) responsible for making backups and the 
+individual(s) who supervises this process 
+ 
+Requests to Produce Documents 
+A written request to produce documents (or other tangible items) demands that specific materials 
+be made available for inspection. The request must specify the documents or the type of 
+information being sought (e.g., e.g., “All documents identified in your answers to 
+interrogatories,” rather than, “Please turn over all documents related to this case”). These 
+requests may be served on opposing parties. Records from third-party witnesses or 
+institutions may be obtained by subpoenas that often must be accompanied by deposition 
+notices as well to take testimony to authenticate the documents.  
+ 
+The Civil Justice System Law 
+2.606  2011 Fraud Examiners Manual  
+Requests for production are covered under Federal Rule of Civil Procedure 34. In 2006, Rule 
+34 was amended to specifically entitle any party to serve any other party with a request to 
+produce ESI and to establish a procedure that gives parties a means for resolving any form 
+of production issues.  
+ 
+Concerning requests to produce ESI, the amended rule provides that a requesting party 
+“shall set forth, either by individual item or by category, the items to be inspected, and 
+describe each with reasonable particularity.” It further provides that the request shall specify 
+a reasonable time, place, and manner of making the inspection and performing the related 
+acts. In addition, the request may specify the form or forms in which electronically stored 
+information is to be produced.  
+ 
+Written requests for production of documents regarding ESI might inquire: 
+• Please produce any and all documents relating to [PARTY’s] backup tapes and/or 
+archive media containing e-mail and other electronic data from [TIME PERIOD]. 
+• All e-mail or computer system logs. 
+• Please provide exact copies of any and all disks, CDs, DVDs, and any other storage 
+media used to store data related to this action from [TIME PERIOD]. 
+ 
+Requests for Admission  
+A request for admission is designed to assist in stipulating certain facts. Admission helps set 
+what is and is not at issue in a suit. The request contains statements which are presented to 
+the opposing party (witnesses and outside parties are not subject to requests for admission). 
+To the declarative, “I, Daisy Miller, have discussed my company’s operations with 
+individuals employed by our competition,” Daisy replies either “Admitted” or “Denied.” She 
+may also “object to the question” if she feels it is inappropriate or impertinent to the 
+proceedings. Alternatively, she can decline to answer since the issue is in dispute (she does 
+not deny conversations, just the implication of the question), or because she does not have 
+enough information to answer. Requests for admission often are used near the end of the 
+discovery process to narrow the focus of the dispute. Any admissions established become 
+part of the official record and can be produced during the trial. 
+ 
+Requests for admission also are used to authenticate documents. For instance: 
+• Exhibit A is a true and correct copy of check No. 3456. 
+• Exhibit A was signed by you. 
+• The signature shown on Exhibit A is your signature. 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.607 
+Physical and Mental Examinations 
+Either side of a dispute can request a physical or mental examination of a party to the suit. The 
+person’s condition must be “in controversy” and shown to be pertinent to the proceedings. 
+The request is made “on motion for good cause” and the examination performed by 
+qualified personnel. It may seem unthinkable that a defendant would plead insanity to a 
+fraud charge, but mental and physical instability can be part of a defendant’s argument for 
+mitigating circumstances. The physical or mental health of a defendant also may come into 
+play if the defendant files a counterclaim alleging mental anguish as the result of an improper 
+search, wrongful termination, invasion of privacy, and so on. 
+ 
+Requests for Inspection of Property 
+Parties may request to inspect equipment, real estate, or other property which has a bearing 
+on the proceedings. Requests for inspection set forth as specifically as possible the items of 
+the request and the type of examination desired. In fraud cases, this request may pertain to 
+records, archives, office machines, or land that has been involved in a crime. For example, in 
+the Johnnie McKenzie case, which can be found in the Appendix A, McKenzie was accused 
+of taking money out of a safe; therefore, a crucial issue in the case involved who had access 
+to the safe and whether the combination of the safe had been changed. The defense filed a 
+motion requesting that they be allowed to enter the premises of the West Palm Beach Police 
+Department to examine and conduct a test of the safe. (A copy of that motion is included in 
+Appendix A.) Requests for inspection of property are covered under Federal Rule of Civil 
+Procedure 34. 
+ 
+Electronic Discovery 
+Electronic discovery (e-discovery) refers to the legal discovery process that deals with 
+electronically stored information (ESI). ESI is different from paper information because it 
+can be stored in larger volumes and in more locations. It is also more volatile. In addition, 
+electronic documents usually contain metadata (data about data), which is rarely found in 
+paper documents.  
+ 
+Because of ESI’s uniqueness, e-discovery poses additional challenges to the legal process. 
+ 
+PRESERVATION 
+The commencement of litigation creates a discovery-related obligation on the parties to 
+preserve relevant information whenever litigation is reasonably anticipated. And although the 
+duty to preserve is not unique to ESI, electronic information is often difficult to preserve 
+The Civil Justice System  Law 
+2.608  2011 Fraud Examiners Manual  
+because of its volatile nature. Also, parties who fail to properly preserve evidence (spoliation) 
+may be subject to adverse consequences. Thus, it is important to consider the basic 
+characteristics of the obligation to preserve information and examine the relevant 
+obligations, especially those concerning the preservation of ESI.  
+ 
+To avoid any adverse consequences, companies should establish policies and procedures 
+governing the maintenance, storage, and production of ESI. 
+ 
+DOCUMENT RETENTION POLICIES  
+Document retention policies that instruct employees on which documents to preserve or 
+destroy are an important component of any risk management program. For this reason, 
+organizations should adopt such policies, and management must effectively monitor and 
+revise them. This is especially important given the growing amount, locations, and formats 
+of ESI in today’s environment, which create additional risks and costs for companies that do 
+not have such policies for both physical and digital data. 
+ 
+LITIGATION HOLD PROCEDURES  
+Organizations should also create litigation hold procedures, which provide a process whereby a 
+company issues a litigation hold communication that notifies employees to suspend the 
+destruction of potentially relevant records when the duty to preserve relevant information 
+arises. The duty to preserve relevant data begins when a lawsuit is “reasonably anticipated.”  
+ 
+There are, however, certain attributes of ESI that make executing a timely litigation hold 
+difficult, including: (1) ESI may only be available for a temporary time period, (2) business 
+practices are often designed to free up storage space, and (3) ESI is particularly problematic 
+because of its sheer volume.  
+ 
+Timely imposing a litigation hold is necessary to avoid sanctions, including monetary fines 
+and sanctions, adverse inference jury instruction sanctions, or dismissal of claims or 
+defenses.  
+ 
+SAFE HARBOR 
+FRCP 37 allows courts to order sanctions for a party’s failure to make disclosures or to 
+cooperate in discovery, but, as amended, Rule 37 contains a “safe harbor” provision, 
+providing that courts cannot impose sanctions on a company for failing to provide ESI that 
+was lost because of routine data management practices. Nevertheless, it is important to note 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.609 
+that ignorance is no defense against how a party’s electronic information is stored. 
+ 
+INADVERTENT PRODUCTION OF PRIVILEGED ESI 
+FRCP 26 provides that if a party has inadvertently produced ESI that is later determined to 
+be privileged, the receiving party must destroy and refrain from using any protected 
+information until any dispute is resolved. This rule recognizes that reviewing large volumes 
+of ESI for attorney-client privileged material is generally more costly and time consuming 
+than traditional document recovery. This rule, however, does not provide guidance for 
+determining whether or not producing the material waives the privilege.  
+ 
+On September 19, 2008, President Bush signed into law a bill adding Evidence Rule 502 to 
+the Federal Rules of Evidence. This rule protects against the inadvertent waiver of the 
+attorney-client privilege or the work product protection. See the “Basic Principles of 
+Evidence” chapter below for further discussion of this rule.  
+ 
+ESI FROM SOURCES THAT ARE NOT REASONABLY ACCESSIBLE 
+FRCP 26 also makes a distinction between ESI that is reasonably accessible and that which 
+is not. The relevant provision states that a party need not provide discovery of ESI “from 
+sources that the party identifies as ‘not reasonably accessible’ because of undue burden or 
+cost.”  
+ 
+The rule, however, does not define what is reasonably accessible. Accordingly, disputes will 
+continue to center on how “accessible” the information is and what constitutes “undue 
+burden or cost.” Thus, at the outset of fores eeable litigation, parties should understand the 
+scope and sources of their electronic information that may be related to the case, as well as 
+the information’s location and format. Thereafter, it will be the court’s responsibility to 
+reconcile disagreements between the parties as to what electronic information is and is not 
+reasonably accessible. 
+ 
+THE FORM OF PRODUCTION 
+FRCP 34 also provides procedures for resolving any form of production issues. Specifically, 
+Rule 34 requires that, where a party objects to the form for producing the electronic 
+information, or if no form is specified in a request for information, “the responding party 
+must state the form or forms it intends to use.” Furthermore, if a request does not specify a 
+form for producing the electronic information, the “responding party must produce the 
+information in a form or forms in which it is ordinarily maintained … or that are reasonably 
+The Civil Justice System  Law 
+2.610  2011 Fraud Examiners Manual  
+usable.” Given the specificity of Rule 34, parties should decide the format they need prior to 
+requesting electronic information from the opponent. 
+ 
+BECOMING LITIGATION READY 
+The recent amendments to the Federal Rules of Civil Procedure concerning the discovery of 
+ESI are exposing companies to further liabilities and costs during litigation because they 
+require organizations to adapt how they manage, retain, store, and deliver ESI during legal 
+proceedings. The amendments provide that, in most circumstances, parties must voluntarily 
+turn over (i.e., without awaiting a discovery request by the other party) a copy, or a 
+description by category and location, of all ESI to the other party within 14 days of the pre-
+ trial conference. Therefore, it is essential that parties (or organizations) be prepared for the 
+advent of electronic discovery prior to a case being filed, or in other words, companies must 
+be litigation ready. To be litigation ready, parties (or organizations) must know the scope of 
+their ESI, the location of their ESI, the storage format of their ESI, the length of time ESI is 
+stored, and whether their ESI is readily accessible. 
+ 
+Pre-trial Motions in Civil Court 
+As noted above, there may be a series of pre-trial conferences in which the parties to the suit sit 
+down with the judge. These exchanges are designed to narrow the dispute to as few 
+contested points as possible, and to remove procedural obstacles that could delay a trial. 
+Judges also may encourage parties to settle during this stage.  
+ 
+Once one party files a motion, the other side can object and file an opposing motion. There 
+generally will be a hearing in person before the judge on the motion. Sometimes a judge 
+reviews the material in each side’s motion papers and will issue a tentative ruling  just before the 
+hearing to indicate which way the opinion is likely to go. This gives each side an idea of how 
+to prepare their arguments for the hearing. At the hearing, each side argues its case to the 
+judge and answers questions from the bench. The judge may announce a decision 
+immediately or take the matter “under submission,” making the final ruling later.  
+ 
+Some common pre-trial motions are listed below, but please note that the actual names of 
+the motions vary among jurisdictions. 
+ 
+Writ of Attachment 
+A writ of attachment is a court order to seize an asset before judgment is rendered. In some 
+cases, a party may attach or secure assets before trial to prevent the defendant from 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.611 
+disposing of them while the lawsuit is pending if the party can show that the defendant is 
+likely to dispose of assets. Most courts do not like to issue writs of attachment, and 
+attachment is usually available only in certain types of suit. Ordinarily, judges are very 
+reluctant to deprive a defendant of his property until a determination has been made that he 
+is liable to the plaintiff. In addition, if the plaintiff loses the suit, the defendant can sue for 
+damages. In most cases, the party requesting attachment will be required to post a bond in 
+the amount of the attached property.  
+ 
+Sequestration
+Sequestration refers to the act of seizing property that is the subject of a controversy and 
+placing it in the custody of the court. This is similar to attachment. The difference is that the 
+property is physically delivered to the court for safekeeping.  
+ 
+Motion for Injunctive Relief 
+As noted above, an injunction is a court order by which a party is required to perform, or is 
+restrained from performing, a specific act. In a fraud case, the defendant is likely to have 
+misappropriated assets, and there may be a substantial risk that he may try to hide or transfer 
+the ill-gotten gains. If the money or assets taken can be located, the plaintiff can ask for a 
+writ of attachment to secure the assets. However, there often are cases where the money 
+may not be located yet. In these cases, the plaintiff or the prosecutor can ask the judge to 
+issue an injunction.  
+ 
+Application for a Preliminary Injunction 
+A preliminary injunction is a court order that the defendant perform, or not perform, some 
+act while the suit is being contested. If a lawsuit between the parties is pending, a judge can 
+issue a preliminary injunction, which freezes everything until a trial can be held. The 
+injunction will prohibit the defendant from transferring or moving any assets unless first 
+approved by the court. A preliminary injunction is usually issued only after the other party 
+has been given an opportunity to respond 
+ 
+Motion for a Temporary Restraining Order  
+A temporary restraining order (TRO) is an emergency, temporary injunction ordering the 
+defendant to perform, or not perform, some act. Like preliminary injunctions, TROs are 
+ordered to prevent irreparable injury. Unlike preliminary injunctions, however, TROs can be 
+entered without the defendant being present and are usually entered without notice to the 
+other party. It is only good for up to 10 days until the defendant can appear before the judge.  
+The Civil Justice System  Law 
+2.612  2011 Fraud Examiners Manual  
+Motion to Dismiss 
+This motion asks a judge to throw out the lawsuit because the opposing party’s argument is 
+legally unsound. In other words, the motion argues that even if the allegations are taken as 
+true, the other party is not entitled to anything.  
+ 
+Motion to Make More Definite and Certain 
+This motion asks for greater detail or specificity in the complaint. The specifics of the 
+complaint — such as which losses Bartleby’s being held liable for — will affect how the 
+defendant chooses to respond. 
+ 
+Motion in Limine 
+This motion is made before trial, and it requests the court to rule that evidence is 
+inadmissible, prohibiting opposing counsel from referring to or offering the evidence during 
+trial. For example, Rock-Hard may use something damaging from Bartleby’s criminal trial in 
+their complaint. Bartleby objects to the complaint because it unfairly prejudices the case 
+against him.  
+ 
+Motion to Strike 
+This motion asks that inflammatory, prejudicial, or irrelevant material be stricken from the 
+record.  
+ 
+Motion for Continuance 
+A motion for continuance asks the court to postpone a hearing, conference, or an upcoming 
+trial. Some courts grant one or two routinely; other districts require justification for each 
+motion for continuance. 
+ 
+Motion for Summary Judgment 
+A motion for summary judgment asks a judge to decide the case, without a trial, based on 
+the evidence contained in the complaint and answer. Judges may also consider affidavits or 
+declarations (i.e., sworn written statements), contracts, or other materials in reaching their 
+summary decision. Either side in a lawsuit can file for summary judgment. The motion is 
+granted unless it can be shown that some of the facts as presented are in dispute.  
+ 
+Counterclaims and Cross-Claims 
+In addition to the available motions, defendants can file a counterclaim against the plaintiff in a 
+civil action. A counterclaim (also known as a countersuit) does just what its name implies, it 
+Law  The Civil Justice System 
+2011 Fraud Examiners Manual    2.613 
+levels accusations against the original plaintiff, who is now the defendant of the 
+counterclaim. The specifics of this claim may be filed as part of the defendant’s answer or as 
+a separate document. If a defendant files a counterclaim, it and the original complaint will be 
+tried concurrently, with the final judgment stipulating a decision on each side’s petition. 
+ 
+Additionally, if a case involves more than one defendants, a defendant may file a cross-claim  
+against one of its co-defendants. A cross-claim is simply an action between co-parties (i.e., 
+claims between two defendants or two plaintiffs). The most common occasion for 
+counterclaims in a fraud case is when an employer sues an ex-employee for fraud.  
+ 
+ 
+
+
+
+:
+
+
+civil litig
+civil action to recov damag for fraud or to enjoin further fraudul activ can be file
+by privat plaintiff in state or feder court most commonlaw fraud action usual style
+misrepresent claim ar file in state court suit involv parti from differ state
+and involv more than 75000 in controversi known as divers case or action brought
+on the basi of feder statut such as the civil rico provis can be brought in feder
+court feder court gener is prefer by plaintiff in larger case becaus feder court
+provid better access to wit and document locat in differ state the procedur
+describ below ar larg drawn from the feder rule
+begin the civil action
+a civil action begin with the file of a complaint in the appropri court usual in the
+jurisdict in which the defend or the plaintiff resid or where the claim aros
+the feder rule provid that the complaint should be a short and plain statement
+show the court jurisdict to hear the case e g in feder court that there is divers
+of citizenship and more than 75000 in issu the ground for relief and a demand for
+judgment rule 9b of the feder rule of civil procedur requir that the fact entitl
+the plaintiff to relief be state with particular thu wherea a plaintiff in a neglig
+case might get into court by mere allegingwithout ani detail or support evid
+that the defend oper hi automobil in a neglig manner at such and such place and
+time a fraud plaintiff must plead the alleg fraud in detail the actual misrepresent
+that were made to whom how thei were fals and so on depend on the type of fraud
+claim
+the 9b requir often creat a catch22 for fraud plaintiff a compani for
+exampl might have good ground to believ that it is the victim of a kickback fraud but it
+might need access to the discoveri system subpoena for document and wit etc to
+the civil justic system law
+2602 2011 fraud examin manual
+prove the illeg payment in such circumst particularli where the specif inform
+need is within the sole control of the defend the court might relax the 9b
+requir somewhat
+the complaint togeth with a summon must be serv on the defend the summon
+advis the defend that a civil action ha been commenc against him in court and that
+he ha a certain time to answer usual 20 dai or suffer a default judgment thi procedur
+is call servic of process a corpor mai be serv through ani offic manag agent or
+other agent author by law to receiv process process mai be serv on a defend
+outsid the state where the court sit if the defend ha signific contact within the
+state such as a corpor conduct busi there
+onc serv the defend must then file an answer within the specifi period a
+defend answer mai deni liabil add counterclaim against the plaintiff or rais
+motion to dismiss the action base on ground such as failur to state a claim expir of
+the statut of limit and improp servic in major litig these procedur
+challeng might consum a year or more and result in enorm legal fee befor the case
+reach the merit of the issu if the defend doe not file the answer befor the deadlin
+the defend forfeit the case and is held liabl for damag as the court deem fit thi
+type of judgment is call a default judgment
+the discoveri stage
+if the legal hurdl requir to begin a civil action ar overcom the case enter the
+discoveri stage to review discoveri refer to the formal process wherebi the parti collect
+evid and learn the detail of the oppos case under feder rule either parti mai
+take discoveri regard ani matter not privileg that is relev to the subject matter of
+the action or that might lead to admiss evid
+discoveri can be an extrem expens and timeconsum process often take year to
+complet particularli in complex litig such as fraud action propos to reform and
+streamlin the system ar constantli advoc but seldom adopt in larg measur
+becaus trial lawyer ar unwil to give up or to limit their opportun to learn about
+and look for weak in their oppon case
+due to the growth of document in electron format coupl with the difficulti court
+have had in determin how electron document should be introduc as evid
+law the civil justic system
+2011 fraud examin manual 2603
+sever discoveri rule in the feder rule of civil procedur frcp were amend in
+2006 to acknowledg electron inform as a necessari compon of discover
+evid wherea the frcp onc us the term data compil to refer to electron
+evid the 2006 amend replac thi term with electron store inform esi
+the rule appli to parti in ani civil disput in feder court howev mani state will
+adopt or have adopt similar chang
+the princip mean of discoveri whether tradit paper document discoveri or
+electron discoveri includ prediscoveri disclosur pretrial confer oral
+deposit written interrogatori request to produc document request for admiss
+request a physic or mental examin and request for inspect of properti
+prediscoveri disclosur
+frcp 26a and similar state rule requir parti to make prediscoveri disclosur these rule
+requir parti to disclos certain inform befor formal discoveri begin such as the
+disclosur of wit ident materi that mai be us to support claim or defens
+comput of damag and insur agreement that mai cover the claim as amend
+in 2006 rule 26a includ electron store inform esi in the list of item that
+litig must provid in their prediscoveri disclosur
+pretrial confer
+as amend in 2006 frcp 26f requir parti to attend a discoveri plan confer
+call a pretrial confer to discuss certain issu such as the form in which the parti
+want electron inform to be produc prior to the amend parti could discuss
+electron discoveri issu wherea now thei must
+after attend their discoveri plan confer the parti ar to develop a discoveri
+report form 35 report which set forth a descript of how disclosur or discoveri of
+electron inform should be handl
+the court will enter a schedul order after receiv a form 35 report from the parti
+among other thing the schedul order set forth the time limit for complet
+discoveri the amend provid that feder court mai also includ provis for
+disclosur or discoveri of electron store inform as an item in it schedul
+order consequ failur to abid by a discoveri report or schedul order might result
+in sanction and possibl crimin charg against the parti
+the civil justic system law
+2604 2011 fraud examin manual
+oral deposit
+deposit ar probabl the most popular and us form of discoveri a deposit is
+sworn testimoni given by a parti or wit upon question by counsel for on of the
+parti befor trial and outsid of court usual in a lawyer offic oppos counsel and a
+stenograph who administ the oath and transcrib the testimoni also ar present
+deposit testimoni mai be us to obtain evid about the parti own case or the
+oppon or to preserv testimoni for trial in the feder system a wit outsid the
+subpoena power of the court can be depos in the area he resid and the transcript read to
+the juri at trial if the depos attornei wish to inspect or refer dure the proceed to
+certain document in the witnesss possess these can be demand by a subpoena duce
+tecum a legal order for the wit to produc the document for refer dure the
+deposit
+unless otherwis specifi statement made dure a deposit can be produc as
+evid dure the trial accord to feder guidelin examin and crossexamin
+of wit mai proce as permit at the trial the depon or counsel
+can object to particular question as in a trial at a deposit the person must answer the
+question even when counsel enter an offici object the evid is taken subject to
+the object feder rule of civil procedur 30 thi mean the object is duli note
+and if the deposit evid is present at trial the judg will be ask to rule on the
+object befor that part of the deposit is read to the juri
+interrogatori
+interrogatori ar question that ar submit to an oppos parti in a suit thei ar
+someth like a written deposit interrogatori cannot be given to anyon other than a
+parti to a suit interrogatori ar submit to the wit in write if the receiv parti
+think that a question is improp then he mai object to the question if no object is
+given then the parti must answer the question in write all answer must be sworn to
+under oath interrogatori ar less expens to perform than deposit some parti will
+try to provid as littl inform as possibl but still give a truth answer howev
+that tactic can backfir if the answer parti doe not provid the inform request
+that parti cannot introduc evid on those issu at trial and can be sanction by the
+court
+a typic interrogatori in a fraud case might inquir
+state your name address telephon number and titl of the person answer these
+interrogatori
+law the civil justic system
+2011 fraud examin manual 2605
+describ in detail your educ background and includ the name and address of
+all institut that you have attend the date of attend and a descript of the
+degre or certif that you have obtain
+identifi all person have knowledg either directli or indirectli of the alleg
+contain in defend origin answer
+pleas list the name address and telephon number and the employ name address
+and telephon number or each expert wit you expect to call as a wit at trial
+describ in detail your duti at the compani
+interrogatori ar cover under feder rule of civil procedur 33 in addit to allow
+parti to serv interrogatori on other parti rule 33 allow a parti to produc busi
+record in lieu of written respons but thi appli onli when the burden for acquir
+such record is nearli equal on both side as amend rule 33 add esi to the type of
+busi record that the respond parti mai specifi and produc in respons to an
+interrogatori
+a typic interrogatori in a fraud case regard esi might inquir
+identifi and describ all email system present and previous in us by parti at
+ani time within time period includ but not limit to the name of the email
+server and the client softwar the version number of the softwar in us dure time
+period and describ the date of us for each
+identifi all past and present individu includ date respons for the ongo
+oper expans mainten and upkeep of parti comput network
+for all past and present data backup perform on all comput system in us dure
+time period identifi the individu respons for make backup and the
+individu who supervis thi process
+request to produc document
+a written request to produc document or other tangibl item demand that specif materi
+be made avail for inspect the request must specifi the document or the type of
+inform be sought eg eg all document identifi in your answer to
+interrogatori rather than pleas turn over all document relat to thi case these
+request mai be serv on oppos parti record from thirdparti wit or
+institut mai be obtain by subpoena that often must be accompani by deposit
+notic as well to take testimoni to authent the document
+the civil justic system law
+2606 2011 fraud examin manual
+request for product ar cover under feder rule of civil procedur 34 in 2006 rule
+34 wa amend to specif entitl ani parti to serv ani other parti with a request to
+produc esi and to establish a procedur that give parti a mean for resolv ani form
+of product issu
+concern request to produc esi the amend rule provid that a request parti
+shall set forth either by individu item or by categori the item to be inspect and
+describ each with reason particular it further provid that the request shall specifi
+a reason time place and manner of make the inspect and perform the relat
+act in addit the request mai specifi the form or form in which electron store
+inform is to be produc
+written request for product of document regard esi might inquir
+pleas produc ani and all document relat to parti backup tape andor
+archiv media contain email and other electron data from time period
+all email or comput system log
+pleas provid exact copi of ani and all disk cd dvd and ani other storag
+media us to store data relat to thi action from time period
+request for admiss
+a request for admiss is design to assist in stipul certain fact admiss help set
+what is and is not at issu in a suit the request contain statement which ar present to
+the oppos parti wit and outsid parti ar not subject to request for admiss
+to the declar i daisi miller have discuss my compani oper with
+individu emploi by our competit daisi repli either admit or deni she
+mai also object to the question if she feel it is inappropri or impertin to the
+proceed altern she can declin to answer sinc the issu is in disput she doe
+not deni convers just the implic of the question or becaus she doe not have
+enough inform to answer request for admiss often ar us near the end of the
+discoveri process to narrow the focu of the disput ani admiss establish becom
+part of the offici record and can be produc dure the trial
+request for admiss also ar us to authent document for instanc
+exhibit a is a true and correct copi of check no 3456
+exhibit a wa sign by you
+the signatur shown on exhibit a is your signatur
+law the civil justic system
+2011 fraud examin manual 2607
+physic and mental examin
+either side of a disput can request a physic or mental examin of a parti to the suit the
+person condit must be in controversi and shown to be pertin to the proceed
+the request is made on motion for good caus and the examin perform by
+qualifi personnel it mai seem unthink that a defend would plead insan to a
+fraud charg but mental and physic instabl can be part of a defend argument for
+mitig circumst the physic or mental health of a defend also mai come into
+plai if the defend file a counterclaim alleg mental anguish as the result of an improp
+search wrong termin invas of privaci and so on
+request for inspect of properti
+parti mai request to inspect equip real estat or other properti which ha a bear
+on the proceed request for inspect set forth as specif as possibl the item of
+the request and the type of examin desir in fraud case thi request mai pertain to
+record archiv offic machin or land that ha been involv in a crime for exampl in
+the johnni mckenzi case which can be found in the appendix a mckenzi wa accus
+of take monei out of a safe therefor a crucial issu in the case involv who had access
+to the safe and whether the combin of the safe had been chang the defens file a
+motion request that thei be allow to enter the premis of the west palm beach polic
+depart to examin and conduct a test of the safe a copi of that motion is includ in
+appendix a request for inspect of properti ar cover under feder rule of civil
+procedur 34
+electron discoveri
+electron discoveri ediscoveri refer to the legal discoveri process that deal with
+electron store inform esi esi is differ from paper inform becaus it
+can be store in larger volum and in more locat it is also more volatil in addit
+electron document usual contain metadata data about data which is rare found in
+paper document
+becaus of esi uniqu ediscoveri pose addit challeng to the legal process
+preserv
+the commenc of litig creat a discoveryrel oblig on the parti to
+preserv relev inform whenev litig is reason anticip and although the
+duti to preserv is not uniqu to esi electron inform is often difficult to preserv
+the civil justic system law
+2608 2011 fraud examin manual
+becaus of it volatil natur also parti who fail to properli preserv evid spoliat
+mai be subject to advers consequ thu it is import to consid the basic
+characterist of the oblig to preserv inform and examin the relev
+oblig especi those concern the preserv of esi
+to avoid ani advers consequ compani should establish polici and procedur
+govern the mainten storag and product of esi
+document retent polici
+document retent polici that instruct employe on which document to preserv or
+destroi ar an import compon of ani risk manag program for thi reason
+organ should adopt such polici and manag must effect monitor and
+revis them thi is especi import given the grow amount locat and format
+of esi in todai environ which creat addit risk and cost for compani that do
+not have such polici for both physic and digit data
+litig hold procedur
+organ should also creat litig hold procedur which provid a process wherebi a
+compani issu a litig hold commun that notifi employe to suspend the
+destruct of potenti relev record when the duti to preserv relev inform
+aris the duti to preserv relev data begin when a lawsuit is reason anticip
+there ar howev certain attribut of esi that make execut a time litig hold
+difficult includ 1 esi mai onli be avail for a temporari time period 2 busi
+practic ar often design to free up storag space and 3 esi is particularli problemat
+becaus of it sheer volum
+time impos a litig hold is necessari to avoid sanction includ monetari fine
+and sanction advers infer juri instruct sanction or dismiss of claim or
+defens
+safe harbor
+frcp 37 allow court to order sanction for a parti failur to make disclosur or to
+cooper in discoveri but as amend rule 37 contain a safe harbor provis
+provid that court cannot impos sanction on a compani for fail to provid esi that
+wa lost becaus of routin data manag practic nevertheless it is import to note
+law the civil justic system
+2011 fraud examin manual 2609
+that ignor is no defens against how a parti electron inform is store
+inadvert product of privileg esi
+frcp 26 provid that if a parti ha inadvert produc esi that is later determin to
+be privileg the receiv parti must destroi and refrain from us ani protect
+inform until ani disput is resolv thi rule recogn that review larg volum
+of esi for attorneycli privileg materi is gener more costli and time consum
+than tradit document recoveri thi rule howev doe not provid guidanc for
+determin whether or not produc the materi waiv the privileg
+on septemb 19 2008 presid bush sign into law a bill ad evid rule 502 to
+the feder rule of evid thi rule protect against the inadvert waiver of the
+attorneycli privileg or the work product protect see the basic principl of
+evid chapter below for further discuss of thi rule
+esi from sourc that ar not reason access
+frcp 26 also make a distinct between esi that is reason access and that which
+is not the relev provis state that a parti need not provid discoveri of esi from
+sourc that the parti identifi as not reason access becaus of undu burden or
+cost
+the rule howev doe not defin what is reason access accordingli disput will
+continu to center on how access the inform is and what constitut undu
+burden or cost thu at the outset of fore eeabl litig parti should understand the
+scope and sourc of their electron inform that mai be relat to the case as well as
+the inform locat and format thereaft it will be the court respons to
+reconcil disagr between the parti as to what electron inform is and is not
+reason access
+the form of product
+frcp 34 also provid procedur for resolv ani form of product issu specif
+rule 34 requir that where a parti object to the form for produc the electron
+inform or if no form is specifi in a request for inform the respond parti
+must state the form or form it intend to us furthermor if a request doe not specifi a
+form for produc the electron inform the respond parti must produc the
+inform in a form or form in which it is ordinarili maintain or that ar reason
+the civil justic system law
+2610 2011 fraud examin manual
+usabl given the specif of rule 34 parti should decid the format thei need prior to
+request electron inform from the oppon
+becom litig readi
+the recent amend to the feder rule of civil procedur concern the discoveri of
+esi ar expos compani to further liabil and cost dure litig becaus thei
+requir organ to adapt how thei manag retain store and deliv esi dure legal
+proceed the amend provid that in most circumst parti must voluntarili
+turn over ie without await a discoveri request by the other parti a copi or a
+descript by categori and locat of all esi to the other parti within 14 dai of the pre
+trial confer therefor it is essenti that parti or organ be prepar for the
+advent of electron discoveri prior to a case be file or in other word compani must
+be litig readi to be litig readi parti or organ must know the scope of
+their esi the locat of their esi the storag format of their esi the length of time esi is
+store and whether their esi is readili access
+pretrial motion in civil court
+as note abov there mai be a seri of pretrial confer in which the parti to the suit sit
+down with the judg these exchang ar design to narrow the disput to as few
+contest point as possibl and to remov procedur obstacl that could delai a trial
+judg also mai encourag parti to settl dure thi stage
+onc on parti file a motion the other side can object and file an oppos motion there
+gener will be a hear in person befor the judg on the motion sometim a judg
+review the materi in each side motion paper and will issu a tent rule just befor the
+hear to indic which wai the opinion is like to go thi give each side an idea of how
+to prepar their argument for the hear at the hear each side argu it case to the
+judg and answer question from the bench the judg mai announc a decis
+immedi or take the matter under submiss make the final rule later
+some common pretrial motion ar list below but pleas note that the actual name of
+the motion vari among jurisdict
+writ of attach
+a writ of attach is a court order to seiz an asset befor judgment is render in some
+case a parti mai attach or secur asset befor trial to prevent the defend from
+law the civil justic system
+2011 fraud examin manual 2611
+dispos of them while the lawsuit is pend if the parti can show that the defend is
+like to dispos of asset most court do not like to issu writ of attach and
+attach is usual avail onli in certain type of suit ordinarili judg ar veri
+reluct to depriv a defend of hi properti until a determin ha been made that he
+is liabl to the plaintiff in addit if the plaintiff lose the suit the defend can sue for
+damag in most case the parti request attach will be requir to post a bond in
+the amount of the attach properti
+sequestr
+sequestr refer to the act of seiz properti that is the subject of a controversi and
+place it in the custodi of the court thi is similar to attach the differ is that the
+properti is physic deliv to the court for safekeep
+motion for injunct relief
+as note abov an injunct is a court order by which a parti is requir to perform or is
+restrain from perform a specif act in a fraud case the defend is like to have
+misappropri asset and there mai be a substanti risk that he mai try to hide or transfer
+the illgotten gain if the monei or asset taken can be locat the plaintiff can ask for a
+writ of attach to secur the asset howev there often ar case where the monei
+mai not be locat yet in these case the plaintiff or the prosecutor can ask the judg to
+issu an injunct
+applic for a preliminari injunct
+a preliminari injunct is a court order that the defend perform or not perform some
+act while the suit is be contest if a lawsuit between the parti is pend a judg can
+issu a preliminari injunct which freez everyth until a trial can be held the
+injunct will prohibit the defend from transfer or move ani asset unless first
+approv by the court a preliminari injunct is usual issu onli after the other parti
+ha been given an opportun to respond
+motion for a temporari restrain order
+a temporari restrain order tro is an emerg temporari injunct order the
+defend to perform or not perform some act like preliminari injunct tro ar
+order to prevent irrepar injuri unlik preliminari injunct howev tro can be
+enter without the defend be present and ar usual enter without notic to the
+other parti it is onli good for up to 10 dai until the defend can appear befor the judg
+the civil justic system law
+2612 2011 fraud examin manual
+motion to dismiss
+thi motion ask a judg to throw out the lawsuit becaus the oppos parti argument is
+legal unsound in other word the motion argu that even if the alleg ar taken as
+true the other parti is not entitl to anyth
+motion to make more definit and certain
+thi motion ask for greater detail or specif in the complaint the specif of the
+complaint such as which loss bartlebi be held liabl for will affect how the
+defend choos to respond
+motion in limin
+thi motion is made befor trial and it request the court to rule that evid is
+inadmiss prohibit oppos counsel from refer to or offer the evid dure
+trial for exampl rockhard mai us someth damag from bartlebi crimin trial in
+their complaint bartlebi object to the complaint becaus it unfairli prejudic the case
+against him
+motion to strike
+thi motion ask that inflammatori prejudici or irrelev materi be stricken from the
+record
+motion for continu
+a motion for continu ask the court to postpon a hear confer or an upcom
+trial some court grant on or two routin other district requir justif for each
+motion for continu
+motion for summari judgment
+a motion for summari judgment ask a judg to decid the case without a trial base on
+the evid contain in the complaint and answer judg mai also consid affidavit or
+declar ie sworn written statement contract or other materi in reach their
+summari decis either side in a lawsuit can file for summari judgment the motion is
+grant unless it can be shown that some of the fact as present ar in disput
+counterclaim and crossclaim
+in addit to the avail motion defend can file a counterclaim against the plaintiff in a
+civil action a counterclaim also known as a countersuit doe just what it name impli it
+law the civil justic system
+2011 fraud examin manual 2613
+level accus against the origin plaintiff who is now the defend of the
+counterclaim the specif of thi claim mai be file as part of the defend answer or as
+a separ document if a defend file a counterclaim it and the origin complaint will be
+tri concurr with the final judgment stipul a decis on each side petit
+addition if a case involv more than on defend a defend mai file a crossclaim
+against on of it codefend a crossclaim is simpli an action between coparti ie
+claim between two defend or two plaintiff the most common occas for
+counterclaim in a fraud case is when an employ sue an exemploye for fraud

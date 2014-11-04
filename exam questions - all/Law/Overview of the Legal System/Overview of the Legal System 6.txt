@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Which of the following statements is the most correct?
+
+Options=The government cannot appeal an acquittal on the merits of the case | A convicted defendant can appeal a verdict | The prosecution may appeal an adverse pretrial ruling | All of the above statements are true
+
+CorrectResponse=3
+
+Explanation=Because of the Fifth Amendment's double jeopardy provisions, only a convicted defendant in a criminal case can appeal a verdict. The government cannot appeal an acquittal on the merits of the case. The prosecution may, however, appeal adverse pre-trial rulings on the admissibility of evidence and certain other matters that may temporarily terminate a prosecution (but do not result in a decision on the merits in favor of the defendant). Either party in a civil case may appeal a judgment.See page(s) 2.109 in the Fraud Examiner's Manual

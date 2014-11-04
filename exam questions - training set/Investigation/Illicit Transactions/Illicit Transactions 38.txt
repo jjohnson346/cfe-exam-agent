@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=In computing the suspect's net worth using the expenditures method, one would include which of the following as sources of funds?
+
+Options=Monthly telephone bill | Payment on a loan | Monthly utilities charges (paid) on residence | None of the above
+
+CorrectResponse=3
+
+Explanation=In computing the comparative net worth using the expenditures method, follow these steps: (1) Establish the subject s known expenditures for the relevant year. Expenditures include the use or application of funds for any purpose, including deposits to bank accounts, purchase of major assets, travel and entertainment expenses, and payment of loan and credit card debts. (2) Identify all sources of funds available to the subject, including loans and gifts, as well as cash on hand from previous years. (3) Compute the difference between the amount of the suspect‰??s expenditures and his known income to determine the amount attributed to unknown sources.See page(s) 3.842 in the Fraud Examiner's Manual

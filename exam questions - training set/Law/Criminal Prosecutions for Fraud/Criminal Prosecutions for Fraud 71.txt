@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In closing arguments, defense counsel cannot attack the motives and credibility of the government's witnesses.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The prosecution argues first, the defense follows, and the prosecution has the opportunity for final rebuttal. In most cases the defense argument focuses on attacking the motives and credibility of the government's witnesses and emphasizes the heavy burden of proof the government bears.See page(s) 2.523 in the Fraud Examiner's Manual

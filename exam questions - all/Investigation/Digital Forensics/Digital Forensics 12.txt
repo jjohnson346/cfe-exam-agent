@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=There are two methods for shutting down a running computer system. Generally, which of these methods is preferred?
+
+Options=Graceful shutdown | Hard shutdown | Intercepted shutdown | None of the above
+
+CorrectResponse=1
+
+Explanation=There are two methods for shutting down a running system, a hard shutdown and a graceful shutdown. Generally, the hard shutdown is preferred. There may be extenuating circumstances that would lead the investigator to perform a graceful shutdown, so it is important to evaluate the best shutdown option based on the type of data being preserved and the possible ramifications of a hard shutdown based on the type of operating system installed. A hard shutdown is basically pulling the power cord from the back of the PC.See page(s) 3.718 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In the federal system, certain types of offenses must be charged by indictment (unless the defendant waives the requirement). Which of the following is an offense that does NOT require an indictment?
+
+Options=Offenses punishable by death | Offenses punishable by imprisonment for a year or more | Misdemeanors | All of the above require an indictment
+
+CorrectResponse=2
+
+Explanation=In the federal system, all offenses punishable by death must be charged by indictment; all felonies (generally crimes punishable by imprisonment for a year or more) must be prosecuted by indictment, unless the defendant waives the requirement, in which case the prosecution may proceed by the filing of an ‰??Information." An information is a charge signed only by the prosecutor without the involvement of the grand jury. A misdemeanor may be charged by either an indictment or information.See page(s) 2.508 in the Fraud Examiner's Manual

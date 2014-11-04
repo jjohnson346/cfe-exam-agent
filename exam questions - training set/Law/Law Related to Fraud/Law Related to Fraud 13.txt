@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT an element under the general conspiracy statute (Title 18, U.S. Code. Section 371)?
+
+Options=An agreement to defraud | The accused completed the act | At least one conspirator committed an overt act | The accused intentionally joined the conspiracy
+
+CorrectResponse=1
+
+Explanation=The essential elements of the principal federal conspiracy statute are:‰?¢	An agreement to defraud‰?¢	The defendant knew the purpose of the agreement and intentionally joined in the agreement‰?¢	At least one of the conspirators knowingly committed at least one overt act in furtherance of the conspiracyThe gist of the offense is a combination or agreement of two or more people to accomplish an unlawful purpose by lawful means or a lawful purpose by unlawful means. The purpose of the conspiracy need not be accomplished for a violation to occur; however, at least one of the co-conspirators must have carried out at least one overt act in furtherance of the conspiracy. The overt act need not be criminal in itself and might be as innocuous as making a phone call or writing a letter.	^See page(s) 2.330 in the Fraud Examiner's Manual

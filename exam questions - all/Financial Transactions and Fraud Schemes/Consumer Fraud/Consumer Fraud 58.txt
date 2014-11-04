@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In a/an __________________ scheme, the company that initially conned a consumer contacts that consumer and offers to help retrieve the lost money. However, the investigation requires an up-front fee and the consumer is again swindled.
+
+Options=Scavenger or revenge | Directory | Advance fee | Money manager
+
+CorrectResponse=0
+
+Explanation=The scavenger or revenge scheme involves the company that initially conned the consumer. Using a different company’s name, the outfit contacts the consumer again and asks if he would like to help put the unethical company out of business and get his money back. Naturally, an up-front fee is required to finance the investigation.See page(s) 1.1705 in the Fraud Examiner’s Manual

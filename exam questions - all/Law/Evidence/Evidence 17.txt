@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Which of the following is NOT an exception of the hearsay rule?
+
+Options=Statements against interest | Excited utterances | Admissions by an adverse party | Affidavits
+
+CorrectResponse=3
+
+Explanation=There are many exceptions to the hearsay rule. Among them are dying declarations, statements made against interest, admissions, public records, res gestae statements, former testimony under oath, and business entries made in the normal course of doing business. There is no exception specifically for affidavits. This is because an affidavit is still an out-of-court statement and the affiant (the person signing the affidavit) was not subject to cross-examination. So although affidavits may be admitted for some purposes, they cannot be entered if they violate the hearsay rule.See page(s) 2.718-2.723 in the Fraud Examiner's Manual

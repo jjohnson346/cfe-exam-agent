@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+other                                  1
+department                             1
+security                               2
+from                                   1
+stage                                  1
+of                                     1
+witnesses                              1
+are                                    1
+parties                                1
+investigation                          1
+interviewing                           1
+work                                   1
+documents                              1
+assigned                               1
+investigators                          1
+the                                    2
+third                                  1
+and                                    2
+field                                  1
+obtaining                              1
+including                              1
+often                                  1
+public                                 1
+records                                1
+outside                                1
+
+Totals:                     25        28

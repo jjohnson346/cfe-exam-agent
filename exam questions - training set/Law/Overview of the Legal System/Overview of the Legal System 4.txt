@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=A defendant in a civil case may still assert his Fifth Amendment privilege against self-incrimination; however, he may be subject to sanctions by the court.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Criminal and civil actions for fraud may proceed simultaneously even though such "parallel proceedings" present a dilemma for the defendant. For example, a defendant lawfully may assert his Fifth Amendment right against self-incrimination to avoid answering questions or producing certain documents in the criminal investigation. But he may not do so in the corresponding civil case without suffering the possibility of sanctions that can include the dismissal of affirmative defenses or the striking of testimony. For example, if a defendant takes the stand in a civil case and testifies on his own behalf, he cannot later invoke the Fifth Amendment and refuse to answer questions concerning the same subject matter on cross-examination. If he does, the judge may order that his testimony on direct examination be stricken from the record.See page(s) 2.112 in the Fraud Examiner's Manual

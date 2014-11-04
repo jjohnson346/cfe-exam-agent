@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=Internal Control is a process designed to provide reasonable assurance regarding the achievement of objectives in the following categories: a) reliability of financial reporting, b) effectiveness and efficiency of operations, and c) compliance with applicable laws and regulations.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=The Committee on Sponsoring Organizations (COSO) issued a report which defined "internal control" as "a process... designed to provide reasonable assurance regarding the achievement of objectives in the following categories: a) reliability of financial reporting, b) effectiveness and efficiency of operations, and c) compliance with applicable laws and regulations"See page(s) 1.202 in the Fraud Examiner's Manual

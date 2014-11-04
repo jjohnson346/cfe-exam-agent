@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=If a confidential informant refuses to reveal any information about a suspected offense until promised confidentiality, what steps should the examiner take?
+
+Options=Promise the informant that his name will be kept out of the examination if possible | Promise the informant confidentiality | Assign the informant a code name and never use his real name | Any of the above
+
+CorrectResponse=0
+
+Explanation=Fraud examiners are not in a position to offer unqualified confidentiality. Therefore, any promises made to an informant or source should be qualified, such as by telling the informant that all efforts v/ill be made to ensure that his name is not revealed.See page(s) 3.318 in the Fraud Examiner's Manual

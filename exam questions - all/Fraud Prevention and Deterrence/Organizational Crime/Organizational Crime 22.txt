@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=White-collar offenses by organizations are more likely to be punished by
+
+Options=Administrative penalties | Administrative and/or civil penalties | Criminal penalties | Civil penalties
+
+CorrectResponse=1
+
+Explanation=Organizational crime occurs in the context of complex relationships. White-collar crime is distinguished from lower socio-economic crimes in terms of the structure of the violation and the fact that administrative and civil penalties are more likely to be used as punishment than are criminal penalties.See page(s) 4.501 in the Fraud Examiner's Manual

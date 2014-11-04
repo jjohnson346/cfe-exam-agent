@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=A Certified Fraud Examiner was hired to investigate a company. After he carefully examined the company, he issued a report that stated, in part, operation is free of material fraud." Such an opinion is permitted under the Certified Fraud Examiner Code of Professional Ethics.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=in my opinion, thisFraud examiners must always perform their work with skepticism, beginning with the belief that something is v/rong or someone is committing a fraud. This attitude may make fraud examinations extensive and expensive. Opinions or attestations of a fraud-free environment are prohibited for Certified Fraud Examiners. This is for the protection of the Certified Fraud Examiner—we only know for sure that fraud exists when some event or transgression causes it to be uncovered.See page(s) 4.1010 in the Fraud Examiner’s Manual

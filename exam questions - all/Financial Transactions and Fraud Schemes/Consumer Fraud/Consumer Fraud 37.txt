@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In credit repair scams, the fraudster promises to "erase" or "doctor" an applicant's credit history, but in reality there is no way to erase bad credit.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Similar to loan scams are those that promise to repair credit. Pitch men like to say that they can “wipe away,�? “doctor,�? or “cosmeticize" blotches on credit, insinuating they have ways of changing or disguising a person’s credit history. Despite the fact that there is really no way to erase bad credit, many people fall for this scam, paying hundreds of dollars to expunge their records.See page(s) 1.1719 in the Fraud Examiner’s Manual

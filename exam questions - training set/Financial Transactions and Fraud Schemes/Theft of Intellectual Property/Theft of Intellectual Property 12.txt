@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Companies may inadvertently divulge confidential information in the classified ads.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Intelligence people often pay close attention to help wanted ads, job postings, and job announcements. More ominously, they may use this information to arrange a job interview to get information about the firm and what the job will entail.See page(s) 1.822 in the Fraud Examiner's Manual

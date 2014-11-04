@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=According to GAGAS, audit documentation should contain sufficient information to enable an experienced auditor who has had no previous connection with the audit to understand:
+
+Options=That the accounting records reconcile to the financial statements | The conclusions reached on significant matters | The nature, timing, extent, and results of the audit procedures performed | All of the above
+
+CorrectResponse=3
+
+Explanation=The GAGAS field work standards for financial audits state that audit documentation should contain sufficient information to provide a clear understanding of the work performed, the audit evidence obtained and its source, and the conclusions reached. The audit documentation should enable an experienced auditor, having no previous connection with the audit, to understand from the documentation the nature, timing, extent, and results of the audit procedures performed, the conclusions reached on significant matters, and that the accounting records reconcile to the financial statements.

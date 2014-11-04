@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=One expert cannot testify about the opinions of another expert.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=If called by the prosecution, examiners might testify to their findings, and if called by the defense, they might testify regarding opinions expressed by the prosecution‰??s expert-to create doubt in the jury‰??s mind about the credibility or weight to be given to that expert Expert witnesses are sometimes called upon to give an opinion different than that reached by an equally credible expert on the other side. This might be due to different interpretations of the facts of the case In some instances, given equally plausible alternatives, the case might be decided on whichever side has the most credible expert witness.See page(s) 2.801-2.802 in the Fraud Examiner's Manual

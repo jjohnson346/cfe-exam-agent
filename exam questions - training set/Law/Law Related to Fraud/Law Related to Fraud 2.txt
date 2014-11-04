@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=To be found guilty of accepting an illegal gratuity, the prosecution must show that the defendant was influenced by the acceptance of the improper payment.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=An illegal gratuity charge does not require proof of intent to influence. The statute prohibits a public official from accepting any payment of money or other thing of value other than his lav/ful compensation. In practice, the statute often is applied when relatively small payments, such as gifts or entertainment, are used to attempt to influence a public official.See page(s) 2.206-2.207 in the Fraud Examiner's Manual

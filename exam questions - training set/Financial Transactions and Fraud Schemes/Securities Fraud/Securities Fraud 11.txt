@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Promoters use Internet newsletters and bulletin boards to hype stocks they bought for little or no money so they can sell those stocks on a rising market. This scheme is called:
+
+Options=Fly-and-buy | Pump-and-dump | Tout-and-toss | None of the above
+
+CorrectResponse=1
+
+Explanation=Particularly prevalent online are pump-and-dump schemes in which promoters use Internet newsletters and bulletin boards to hype stocks they bought for little or no money so they can sell them on a rising market.See page(s) 1.1549 in the Fraud Examiner‰??s Manual

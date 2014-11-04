@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=The term "asset misappropriation," as used in Corporate Fraud Handbook, includes the unauthorized borrowing of company assets, even if those assets are not stolen.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=There are basically two ways a person can misappropriate a company asset. The asset can be misused (or "borrowed‰??) or it can be stolen. Simple misuse is the less egregious of the two. Assets that are misused but not stolen typically include company vehicles, supplies, computers, and other office equipment.See page(s) 251 in the Corporate Fraud Handbook

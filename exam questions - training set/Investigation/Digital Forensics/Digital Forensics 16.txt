@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=To ensure that a computer can be fully analyzed, the examiner should take which of the following steps?
+
+Options=Secure the evidence | Power down carefully | Examine and document the machine's surroundings | All of the above
+
+CorrectResponse=3
+
+Explanation=To ensure that a machine can be fully analyzed, the examiner should take the following steps:‰?¢	Examine and document the machine's surroundings.‰?¢	Secure the evidence‰?¢	Power down carefully.‰?¢	Inspect for traps.‰?¢	Implement a system to manage the evidence.See page(s) 3.716 in the Fraud Examiner's Manual

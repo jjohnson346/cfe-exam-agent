@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=The process whereby acid-based chemicals are used to erase amount and payee information on a check is called:
+
+Options=Frying | Scanning | Acid washing | Check washing
+
+CorrectResponse=3
+
+Explanation=Check washing is a type of check fraud that involves using acid-based chemicals to erase amount and payee information on a check. The check is allowed to dry, after which a new payee and a greater dollar amount are inscribed.

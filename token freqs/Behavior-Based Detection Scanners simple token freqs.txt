@@ -1,0 +1,26 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+might                                  1
+instructions                           1
+for                                    2
+behavior                               1
+a                                      1
+virus                                  1
+indicate                               1
+format                                 1
+scanners                               1
+run                                    1
+looking                                1
+continuously                           1
+that                                   1
+behavior-based                         1
+detection                              1
+drive                                  1
+applications                           1
+example                                1
+hard                                   1
+activity                               1
+these                                  1
+
+Totals:                     22        23

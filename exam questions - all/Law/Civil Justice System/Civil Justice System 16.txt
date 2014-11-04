@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Black, a Certified Fraud Examiner, discovers a potential fraud at the ABC Company while auditing ABC's procedures. She immediately notifies in-house counsel. As a result. Black's work up until that point is protected by:
+
+Options=The CFE/client privilege | The employer/employee privilege | The investigator/client privilege | None of the above
+
+CorrectResponse=3
+
+Explanation=Although the work undertaken by a fraud examiner may be protected by the work product doctrine, to receive protection, the work must be done in anticipation of litigation and at the attorney's direction. Here, even if Blake's work was done at the attorney's direction, his work was not prepared in anticipation of litigation because no litigation was actually planned.See page(s) 2.614 in the Fraud Examiner's Manual

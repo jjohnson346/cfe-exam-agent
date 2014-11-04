@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Beta, a Certified Fraud Examiner, is interviewing Theta, a suspected recipient of illicit income. Theta claims the payment was a loan. Beta will probably try to determine all of the following EXCEPT:
+
+Options=How was the loan documented? | What was the amount of the loan? | Who was the borrower? | What was the purpose of the loan?
+
+CorrectResponse=2
+
+Explanation=An interview should almost always be requested with the target. Use the financial/behavioral profile as a guide Pin dov/n the target's income, assets, and accounts. If the witness testifies that suspect funds were legitimate loan proceeds, ask:•	Who was the lender?•	When was the loan made?•	What was the amount of the loan?•	What was the purpose of the loan?•	Was the loan repaid?•	How was the loan documented?See page(s) 1.730 in the Fraud Examiner's Manual

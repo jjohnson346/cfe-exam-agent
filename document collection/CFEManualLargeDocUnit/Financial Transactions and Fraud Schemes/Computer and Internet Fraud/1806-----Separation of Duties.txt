@@ -1,0 +1,39 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security/Separation of Duties
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Separation of Duties 
+Separation of duties is a key element in a well-designed internal control system. It is also 
+fundamental to detecting and preventing fraud. Programmers should not operate the 
+computer, have unsupervised access to production programs, or have access to production 
+data sets (data files). Users should not have access to the production program code. 
+Computer operators should not perform computer programming. Adequate supervision 
+should be provided by personnel who do not actually perform the work. 
+ 
+
+
+
+:
+
+
+separ of duti
+separ of duti is a kei element in a welldesign intern control system it is also
+fundament to detect and prevent fraud programm should not oper the
+comput have unsupervis access to product program or have access to product
+data set data file user should not have access to the product program code
+comput oper should not perform comput program adequ supervis
+should be provid by personnel who do not actual perform the work

@@ -1,0 +1,141 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Crime Laws/Electronic Communications Privacy Act of 1986
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Electronic Communications Privacy Act of 1986  
+The Electronic Communications Privacy Act of 1986 (ECPA), codified at 18 U.S.C. §§ 
+2510–2521, 2701–2710, 3121–3126, governs the illegal interception of electronic 
+communication and the unauthorized access of electronically stored data. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1867 
+The ECPA is divided into three parts: the Wiretap Act, the Stored Communications Act, and 
+the Pen Register Act, which regulates pen registers and trap and trace devices. This section, 
+however, focuses on the Wiretap Act and the Stored Communications Act. 
+ 
+THE WIRETAP ACT (TITLE 18, U.S. CODE, SECTIONS 2510-2521) 
+In response to privacy breaches, Congress enacted the Wiretap Act, which prohibits anyone 
+from intentionally intercepting or attempting to intercept any wire, oral, or electronic 
+communication. 
+  
+Focusing on its applicability to computer fraud, the Wiretap Act prohibits the intentional 
+interception of certain electronic communications, including e-mail; it does not govern 
+stored communications. Under the Wiretap Act, an interception occurs by the acquisition of 
+the contents of any electronic communication through the use of any device. Most courts 
+have held that interception occurs only when the protected communications are obtained 
+contemporaneously with their transmission.  
+ 
+Additionally, most courts agree that interception does not occur when an individual obtains 
+access to an electronically stored copy of the communication, “whether such storage occurs 
+pre- or post-delivery, and even if the storage lasts only a few milliseconds.” As a result, the 
+Wiretap Act is often inadequate to protect electronic communications sent over the Internet.  
+ 
+The Wiretap Act also contains several exceptions to prosecution, including the consent 
+exception, which provides that parties to the communication may authorize others to 
+intercept the transmission.  
+ 
+Remedies for violating the Wiretap Act include criminal sanctions and civil relief. A criminal 
+violation under the Act is a felony and is punishable by up to five years imprisonment 
+and/or fines. Under a private cause of action, a court may award the plaintiff equitable relief, 
+actual damages, punitive damages, and attorneys’ fees.  
+  
+STORED COMMUNICATIONS ACT (TITLE 18, U.S. CODE, SECTION 2701) 
+As part of the Electronic Communications Privacy Act, Congress enacted the Stored 
+Communications Act (SCA) to protect stored electronic communications, such as e-mail, 
+and voicemail by prohibiting the unauthorized access of such communications that are in 
+storage. More specifically, the SCA prohibits unlawful access to a facility, which provides an 
+electronic communication service, and, then, obtaining, altering, or preventing authorized 
+Computer and Internet Fraud  Financial Transactions   
+1.1868                           2011 Fraud Examiners Manual  
+access to a wire or electronic communication while it is electronically stored in such  
+a system.  
+ 
+Unlike interception under the Wiretap Act, an electronic communication falls under the SCA 
+once a system receives and stores it. However, like the Wiretap Act, the SCA includes a 
+consent exception. Under this exception, a service provider may disclose electronic 
+communications with the lawful consent of the originator, an addressee, or the intended 
+recipient.  
+ 
+The SCA includes both civil and criminal penalties. Concerning civil penalties, the SCA 
+provides a private right of action and allows appropriate relief, including equitable relief, 
+damages, and attorneys fees. Regarding criminal penalties, the SCA provides that if the first 
+offense is committed for purposes of commercial advantage, malicious destruction, or 
+damage or private commercial gain, punishment may include a fine and/or imprisonment for 
+up to five years. For any subsequent offense, penalties include a fine and/or imprisonment 
+for not more than 10 years. In any other case, where it is a first offense, courts may impose a 
+fine or imprisonment for not more than six months, or both. For all subsequent convictions, 
+courts may impose a fine and/or imprisonment for up to 10 years. 
+ 
+
+
+
+:
+
+
+electron commun privaci act of 1986
+the electron commun privaci act of 1986 ecpa codifi at 18 usc
+25102521 27012710 31213126 govern the illeg intercept of electron
+commun and the unauthor access of electron store data
+financi transact comput and internet fraud
+2011 fraud examin manual 11867
+the ecpa is divid into three part the wiretap act the store commun act and
+the pen regist act which regul pen regist and trap and trace devic thi section
+howev focus on the wiretap act and the store commun act
+the wiretap act titl 18 us code section 25102521
+in respons to privaci breach congress enact the wiretap act which prohibit anyon
+from intention intercept or attempt to intercept ani wire oral or electron
+commun
+focus on it applic to comput fraud the wiretap act prohibit the intent
+intercept of certain electron commun includ email it doe not govern
+store commun under the wiretap act an intercept occur by the acquisit of
+the content of ani electron commun through the us of ani devic most court
+have held that intercept occur onli when the protect commun ar obtain
+contemporan with their transmiss
+addition most court agre that intercept doe not occur when an individu obtain
+access to an electron store copi of the commun whether such storag occur
+pre or postdeliveri and even if the storag last onli a few millisecond as a result the
+wiretap act is often inadequ to protect electron commun sent over the internet
+the wiretap act also contain sever except to prosecut includ the consent
+except which provid that parti to the commun mai author other to
+intercept the transmiss
+remedi for violat the wiretap act includ crimin sanction and civil relief a crimin
+violat under the act is a feloni and is punish by up to five year imprison
+andor fine under a privat caus of action a court mai award the plaintiff equit relief
+actual damag punit damag and attornei fee
+store commun act titl 18 us code section 2701
+as part of the electron commun privaci act congress enact the store
+commun act sca to protect store electron commun such as email
+and voicemail by prohibit the unauthor access of such commun that ar in
+storag more specif the sca prohibit unlaw access to a facil which provid an
+electron commun servic and then obtain alter or prevent author
+comput and internet fraud financi transact
+11868 2011 fraud examin manual
+access to a wire or electron commun while it is electron store in such
+a system
+unlik intercept under the wiretap act an electron commun fall under the sca
+onc a system receiv and store it howev like the wiretap act the sca includ a
+consent except under thi except a servic provid mai disclos electron
+commun with the law consent of the origin an addresse or the intend
+recipi
+the sca includ both civil and crimin penalti concern civil penalti the sca
+provid a privat right of action and allow appropri relief includ equit relief
+damag and attornei fee regard crimin penalti the sca provid that if the first
+offens is commit for purpos of commerci advantag malici destruct or
+damag or privat commerci gain punish mai includ a fine andor imprison for
+up to five year for ani subsequ offens penalti includ a fine andor imprison
+for not more than 10 year in ani other case where it is a first offens court mai impos a
+fine or imprison for not more than six month or both for all subsequ convict
+court mai impos a fine andor imprison for up to 10 year

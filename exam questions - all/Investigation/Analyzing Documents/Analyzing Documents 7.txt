@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Jones, a Certified Fraud Examiner and Director of Security for ABC Inc., obtained several boxes of documents while conducting a fraud examination. While inventorying the boxes and marking the evidence, Jones discovers a stock certificate he feels will be damaged if he marks it with his initials and the date. In order to maintain the proper chain of custody, Jones should:
+
+Options=Mark the certificate regardless of the potential for damage | Place it in an envelope and mark the envelope | Copy the document and initial and date the copy | Photograph the document
+
+CorrectResponse=1
+
+Explanation=All evidence received should be marked so that it can later be identified. The most common way to mark the evidence is with the date and initials of the person obtaining the documents. If it is not practical to mark the document or if marking it would damage the document, then it should be placed in an envelope and the envelope should be marked and sealed.See page(s) 3.106 in the Fraud Examiner's Manual

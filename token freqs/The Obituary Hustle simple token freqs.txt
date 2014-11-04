@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+con                                    1
+person                                 2
+other                                  1
+for                                    1
+poses                                  1
+made                                   1
+culling                                1
+package                                1
+from                                   1
+grief                                  1
+order                                  1
+hustle                                 1
+money                                  1
+supposedly                             1
+on                                     1
+capitalizing                           1
+deceased                               1
+man                                    1
+information                            1
+collecting                             1
+or                                     1
+a                                      3
+as                                     1
+the                                    3
+bereaved                               1
+an                                     1
+obituary                               2
+delivery                               1
+
+Totals:                     28        34

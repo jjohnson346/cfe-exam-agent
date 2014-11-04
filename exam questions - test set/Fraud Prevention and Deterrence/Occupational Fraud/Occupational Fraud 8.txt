@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Hollinger and Clark found in their research on employee misconduct that property violations were two to three times more common than production deviance.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Hollinger and Clark found that production deviance was two to three times more common than property violations.See page(s) 4.613-4.615 in the Fraud Examiner's Manual

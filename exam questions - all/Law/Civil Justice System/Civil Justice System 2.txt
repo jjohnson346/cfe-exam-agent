@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Which of the following is NOT a method of civil discovery?
+
+Options=Requests to produce documents | Depositions | Requests for stipulations | Interrogatories
+
+CorrectResponse=2
+
+Explanation=Either party in a civil case may take discovery regarding any matter, not privileged, that is relevant to the subject matter of the action, or that might lead to admissible evidence The methods of civil discovery are oral depositions, written interrogatories, requests to produce documents, requests for admissions, requests for permission to enter upon land, and physical and mental examinations.See page(s) 2.603-2.605 in the Fraud Examiner's Manual

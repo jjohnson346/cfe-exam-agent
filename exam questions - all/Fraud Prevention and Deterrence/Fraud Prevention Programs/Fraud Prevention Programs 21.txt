@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The COSO report recommends that management establish the proper control environment for an organization Which of the following is NOT one of their recommendations?
+
+Options=Careful screening of job applicants | Lenient disciplinary measures | Proper assignment of authority and responsibility | Establishment of a code of ethics
+
+CorrectResponse=1
+
+Explanation=In addition to merely setting a good example, COSO suggests that upper management take direct control of an organization's efforts at internal controls. This idea should be regularly reinforced within the organization. There are several actions that management can take to establish the proper control environment for an organization. These include establishment of a code of ethics for the organization; careful screening of job applicants; proper assignment of authority and responsibility; and effective (not lenient) disciplinary measures.See page(s) 4.705 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Inventory and Other Assets
+
+Stem=XYZ Company's cost of goods sold has increased by 61 percent over the last year. Its sales revenues have only increased by 19 percent during the same period. This situation may indicate which of the following?
+
+Options=Ending inventory has been depleted by theft | A false billing scheme has occurred | The purchase price of the company's inventory has increased | Any of the above
+
+CorrectResponse=3
+
+Explanation=By using an analytical review, inventory fraud may be detected because certain trends become immediately clear. For example, if the cost of goods sold increases by a disproportionate amount relative to sales, and no changes occur in the purchase prices, quantities purchased, or quality of products purchased, the cause of the disproportionate increase in cost of goods sold might be one of two things: (1) ending inventory has been depleted by theft, or (2) someone has been embezzling money through a false billing scheme (i.e. submitting invoices and collecting the payments for inventory that was never delivered).See page(s) 1.613 in the Fraud Examiner's Manual

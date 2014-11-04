@@ -1,0 +1,27 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     3
+for                                    1
+change                                 1
+a                                      2
+prejudice                              1
+court                                  1
+the                                    3
+venue                                  1
+fair                                   1
+cannot                                 1
+because                                1
+another                                1
+of                                     1
+judge                                  1
+asks                                   1
+due                                    1
+public                                 1
+motion                                 2
+receive                                1
+defendant                              1
+this                                   1
+trial                                  2
+move                                   1
+
+Totals:                     23        30

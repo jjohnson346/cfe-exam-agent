@@ -1,0 +1,10 @@
+Section=Evidence
+
+Stem=Evidence of other crimes committed by an accused is usually admissible to prove character.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Evidence that the accused has committed other crimes is not generally admissible to prove character, but may be admitted to show something else, such as proof of motive, opportunity or intent to commit an act. See page(s) 2.705 in the Fraud Examiner's Manual
+

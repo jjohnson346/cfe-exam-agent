@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=In general, which of the following types of information is available through a city's building inspector's office?
+
+Options=Building permits | Applications for business licenses | Businesses operating under names other than the owners' names | Initial shareholders
+
+CorrectResponse=0
+
+Explanation=The following information generally is available through a city's building inspector's office:•	Building permits, showing the name of applicant, address of construction, estimated cost, and the name of builder or contractor•	Blueprints and plans showing construction details that often are submitted with applications for building permits•	Building inspectors1 reports, containing information regarding compliance with construction specificationsSee page(s) 3.411 in the Fraud Examiner's Manual

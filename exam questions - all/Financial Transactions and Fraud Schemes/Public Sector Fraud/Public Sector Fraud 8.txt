@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=Government Auditing Standards for performance audits state that as part of planning the audit, auditors should discuss potential fraud risks with both management and the audit team.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=According to Government Auditing Standards, paragraph 7.30, "In planning the audit, auditors should assess risks of potential significant fraud within in the context of the audit objectives ..Auditors should discuss with management and the audit team potential fraud risks, including potential fraud factors such as individuals’ incentives or pressures to commit fraud, the opportunity for fraud to occur, and rationalizations or attitudes that could allow individuals to commit fraud."See page(s) 1.1909 in the Fraud Examiner’s Manual

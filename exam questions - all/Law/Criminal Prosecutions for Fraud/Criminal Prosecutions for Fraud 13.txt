@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=If two or more defendants in the same case are indicted separately, they must be tried separately.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Sometimes the prosecution will seek to try several defendants at once. It does not matter how they were indicted. If the prosecution tries to consolidate these trials, the defendants can file a Motion for Severance requesting the judge to grant separate trials.See page(s) 2.511 in the Fraud Examiner's Manual

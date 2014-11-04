@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Which of the following is NOT a type of a corrupt recipient?
+
+Options=The "rule breaker" | The "big spender" | The "complainer" | The "gift giver"
+
+CorrectResponse=3
+
+Explanation=A person taking payoffs or embezzling funds often fits into one of these categories: the "big spender" (one of the most common detection methods for this type of scheme); the "gift taker" (one who regularly accepts inappropriate gifts); the "odd couple" (payers and recipients who have an apparent, friendly social relationship but do not appear to have much in common); the "rule breaker" (one who either independently or through influencing another breaks, bends, or ignores standard operating procedures to benefit the payer); the "complainer" (one who makes excuses for deficiencies in the payer's services). Genuine need (legitimate pressures which induce an individual to participate in an illegal scheme) may be involvedSee page(s) 1.716-1.717 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Black, a Certified Fraud Examiner, interviewed Green, a fraud suspect. Although Green wanted to leave, Black would not let him. Green subsequently confessed. Green later filed a lawsuit against Black. Black may be found liable for:
+
+Options=Malicious prosecution | False arrest | False imprisonment | Any of the above
+
+CorrectResponse=2
+
+Explanation=False imprisonment is the restraint by one person of the physical liberty of another without consent or legal justification. A claim of false imprisonment might be made if an employee is detained in any way during a search, either of the employee himself or of the employee’s desk, locker, etc.See page(s) 2.416 in the Fraud Examiner's Manual

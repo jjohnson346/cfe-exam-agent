@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=A counterfeit traveler's check can often be detected by feeling the check surface. The surface of a phony check will feel slick and flat.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Traveler's checks have several distinguishing features. Watermarks and holograms are common, as well as microprinting and ultraviolet ink. There are basically two methods of counterfeiting traveler's checks: color copying and offset lithography/printing. Color-copied checks lack the raised ink texture which the intaglio printing press gives most traveler’s checks. Instead of having a textured feel, a phony check will appear slick and flat. Offset lithographic reproductions of actual checks are of higher quality than color-copied checks. However, neither will have the texture, watermarks, microprinting, or holograms which the genuine articles have.See page(s) 1.1005 in the Fraud Examiner's Manual

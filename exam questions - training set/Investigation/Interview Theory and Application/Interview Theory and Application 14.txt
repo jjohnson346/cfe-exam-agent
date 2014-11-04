@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=The proper way an interviewer should start the calibration of a witness is through the use of:
+
+Options=Questions designed to produce stress in the witness | Noncritical questions | Questions designed to make the witness lie | None of the above
+
+CorrectResponse=1
+
+Explanation=The best way to calibrate a witness is through the use of noncritical questions on background information, place of employment, and the like. If the witness displays general nervousness or other verbal and nonverbal clues during this phase of the questioning, subsequent indicators may not be reliable The key is to observe changes in behavior when pertinent questions are asked.See page(s) 3.238 in the Fraud Examiner's Manual

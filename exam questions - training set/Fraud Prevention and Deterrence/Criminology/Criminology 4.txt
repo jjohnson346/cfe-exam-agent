@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=Incentive programs and task-related bonuses are reinforcement strategies that can be successfully utilized in the workplace.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When managers are faced with disgruntled employees, they can modify these emotional circumstances, not just with ‰??image" work, but with adequate compensation and by recognizing workers' accomplishments. Incentive programs and task-related bonuses follow this principle, assuming that employees v/ho feel challenged and rewarded by their jobs will produce more work at a higher quality, and are less likely to violate the law.See page(s) 4.103-4.104 in the Fraud Examiner's Manual

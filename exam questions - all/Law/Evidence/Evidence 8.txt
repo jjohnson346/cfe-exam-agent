@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=A Certified Fraud Examiner stated that $10,000 was stolen from the plaintiff's business and that two days later, $10,000 was deposited into an account owned by the defendant. This is an example of what type of admissible evidence?
+
+Options=Circumstantial evidence | Character evidence | Demonstrative evidence | Direct evidence
+
+CorrectResponse=0
+
+Explanation=Admissible evidence may be either direct or circumstantial. Direct evidence includes testimony that tends to prove or disprove a fact in issue directly, such as eyewitness testimony or a confession. Circumstantial evidence is evidence that tends to prove or disprove facts in issue indirectly, by inference Many fraud cases are proved entirely by circumstantial evidence, or by a combination of circumstantial and direct evidence, but seldom by direct evidence alone. The most difficult element to prove in many fraud cases—fraudulent intent—is usually proved circumstantially, and necessarily so, because direct proof of the defendant's state of mind, absent a confession or the testimony of a co-conspirator, is impossible.See page(s) 2.702 in the Fraud Examiner's Manual

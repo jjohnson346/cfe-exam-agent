@@ -1,0 +1,841 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Federal Regulation
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Federal Regulation 
+ 
+Securities Act of 1933 
+Concern over the 1929 stock market crash and over the manipulation of the securities 
+markets precipitated the need for federal intervention. In 1933, the Securities Act was 
+enacted to regulate the public offering of securities and protect investors. The 1933 Act, 
+sometimes known as the “Truth in Securiti es Act,” defines securities to include: 
+ 
+ “…any note, stock, treasury stock, bond, debenture, … investment contract, fractional 
+undivided interest in any oil, gas or other mineral rights, any put, call, straddle, option … 
+any interest or instrument commonly known as a security…” [Title 15, U.S.C., § 
+77b(a)(1)].  
+ 
+ 
+Securities Fraud  Financial Transactions   
+1.1502                           2011 Fraud Examiners Manual  
+Of course, both federal and state laws provide for exemptions. Exemptions basically fall 
+under two categories, exempt securities and exempt transactions. For example, certain obligations 
+issued or guaranteed by the United States government or by state or local governments are 
+exempted securities.  
+ 
+This Act also requires that investors be given full and fair disclosure of material information 
+concerning their investment or prospective investment. In this way the sale of securities 
+differs from many other commercial transactions where caveat emptor is the rule. Here, the 
+investor is entitled to all information necessary for an informed investment decision to  
+be made. 
+ 
+Securities Exchange Act of 1934 
+Unlike the 1933 Act, the Securities Exchange Act of 1934 mainly deals with post-issuance 
+trading. This Act, which gave birth to the Securities and Exchange Commission (SEC), 
+requires the registration of securities brokers and dealers. Simply put the 1933 Act can be 
+thought of as regulating the issuance of the securities themselves, while the 1934 Act covers 
+subsequent trading. This secondary market trading represents by far the greatest volume of 
+securities transactions. Trading generally takes place on markets with actual trading floors, 
+called “exchanges,” or on so-called “over-the-counter” markets such as NASDAQ. 
+ 
+The 1934 Act contains section 10(b), a comprehensive anti-fraud provision, which permits 
+the SEC to set forth rules and regulations that prohibit manipulative or deceptive devices or 
+contrivances via the mails or other means of interstate commerce. For example, under 
+section 10(b), the SEC promulgated Rule 10b-5, which prohibits false statements and other 
+fraudulent activity in connection with securities transactions. Specifically, Rule 10b-5 states 
+that:  
+ 
+“It shall be unlawful for any person, directly or indirectly, by the use of any means or 
+instrumentality of interstate commerce, or of the mails, or of any facility of any national 
+securities exchange, 
+ 
+(1)  to employ any device, scheme or artifice to defraud, 
+ 
+(2)  to make any untrue statement of a material fact or to omit to state a material fact 
+necessary in order to make the statements made, in the light of the circumstances under 
+which they were made, not misleading, or 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1503 
+(3)  to engage in any act, practice, or course of business which operates or would operate as 
+a fraud or deceit upon any person, in connection with the purchase or sale of any 
+security.” 
+ 
+Investment Advisor Act of 1940 
+Registered securities dealers are required to adhere to the Rules of Fair Practice issued by the 
+National Association of Securities Dealers and the Investment Advisers Act of 1940. This 
+Act mandates registration and regulation of investment advisers. It applies to anyone who 
+advises others as part of a regular business and for compensation on the investment, 
+purchase, or sale of securities. This does not apply to those who do not receive 
+compensation or who publish financial advice in a newspaper or magazine. 
+ 
+Investment Company Act of 1940 
+Under the Investment Company Act of 1940, investment companies are required to register 
+with the SEC, which also regulates their activities. This Act dictates qualifications for officers 
+and directors, requires that certain matters are submitted for stockholder approval, and 
+mandates SEC permission for certain transactions such as those between insiders and 
+affiliates. It divides investment companies into three categories: 
+• Face-amount certificate companies — Any comp any engaged in issuing fixed income 
+debenture type securities. 
+• Unit investment trusts—Companies organized under a trust indenture, contract of 
+agency, or those similar in nature, which do not have a board of directors and issue only 
+redeemable securities. 
+• Management companies — Firms that do not fit the criteria of the first two categories fall 
+into this one. This includes open and closed-end companies, whether listed on securities 
+exchanges or not. “Open-end” companies are commonly referred to as mutual funds 
+and the net asset value of a share is calculated based on the market value of the fund’s 
+portfolio divided by the number of shares outstanding. The shares of “closed-end” 
+companies trade in a similar manner to regular stocks, i.e., the value is determined by the 
+market forces of supply and demand.  
+ 
+Although there are criminal penalties attached to violations of the federal securities laws, the 
+Securities and Exchange Commission does not have the power to take criminal action. SEC 
+investigations that disclose potentially criminal violations are usually referred to the Federal 
+Bureau of Investigation.  
+ 
+Securities Fraud  Financial Transactions   
+1.1504                           2011 Fraud Examiners Manual  
+Less serious violations may be addressed using  the Commission’s administrative powers. The 
+SEC has the power to issue “cease and desist” orders, levy fines, and order disgorgement  
+of profits. 
+ 
+The Sarbanes-Oxley Act  
+The Sarbanes-Oxley Act of 2002 is one of the most significant changes in the securities field 
+since the 1934 Act was passed. It was designed to restore investor confidence in capital 
+markets and help eliminate financial statement fraud in publicly traded companies while at 
+the same time significantly increasing the penalties for corporate accounting fraud.  
+ 
+The most significant changes brought on by the Act include:  
+• The creation of the Public Company Accounting Oversight Board. 
+• Requirements for senior financial officers to certify SEC filings. 
+• Standards for audit committee independence. 
+• Standards for auditor independence. 
+• Enhanced financial disclosure requirements. 
+• Protections for corporate whistleblowers. 
+• Enhanced penalties for white-collar crime. 
+ 
+The Act is discussed in detail in the “Law Related to Fraud” chapter in the Law section of 
+the Fraud Examiners Manual. However, some of the more important provisions as they relate 
+to corporate governance are reproduced here. 
+ 
+Certification Obligations for CEOs and CFOs 
+One of the most significant changes effected by the Sarbanes-Oxley Act is the requirement 
+that the Chief Executive Officer and the Chief Financial Officer of public companies 
+personally certify annual and quarterly SEC filings. These certifications essentially require 
+CEOs and CFOs to take responsibility for their companies’ financial statements and prevent 
+them from delegating this responsibility to their subordinates and then claiming ignorance 
+when fraud is uncovered in the financial statements.  
+ 
+There are two types of officer certifications mandated by Sarbanes-Oxley: criminal 
+certifications, which are set forth in section 906 of the Act and codified at 18, U.S.C., § 1350, 
+and civil certifications, which are set forth in section 302. 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1505 
+CRIMINAL CERTIFICATIONS (§ 906) 
+Periodic filings with the SEC must now be accompanied by a statement, signed by the CEO 
+and CFO, which certifies that the report fully complies with the SEC’s periodic reporting 
+requirements and that the information in the report fairly presents, in all material respects, 
+the financial condition and results of operation of the company. 
+These certifications are known as “criminal certifications” because the Act imposes criminal 
+penalties on officers who violate the certification requirements.  
+• Corporate officers who knowingly  violate the certification requirements are subject to 
+fines of up to $1,000,000 and up to 10 years imprisonment, or both.  
+• Corporate officers who willfully violate the certification requirements are subject to fines 
+of up to $5,000,000 and up to 20 years imprisonment, or both.  
+ 
+CIVIL CERTIFICATIONS (§ 302) 
+Section 302 of the Act requires the CEO and CFO to personally certify the following in 
+their reports:  
+• They have personally reviewed the report;  
+• Based on their knowledge, the report does not contain any material misstatement that 
+would render the financials misleading;  
+• Based on their knowledge the financial information in the report fairly presents in all 
+material respects the financial condition, results of operations, and cash flow of the 
+company;  
+• They are responsible for designing, maintaining, and evaluating the company’s internal 
+controls, they have evaluated the controls within 90 days prior to the report, and they 
+have presented their conclusions about the effectiveness of those controls in the report; 
+• They have disclosed to the auditors and the audit committee any material weaknesses in 
+the controls and any fraud, whether material or not, that involves management or other 
+employees who have a significant role in the company’s internal controls; and 
+• They have indicated in their report whether there have been significant changes in the 
+company’s internal controls since the filing of the last report. 
+ 
+Note that in items 2 and 3 the CEO and CFO are not required to certify that the financials 
+are accurate or that there is no misstatement. They are simply required to certify that to their 
+knowledge  the financials are accurate and not misleading. However, this does not mean that 
+senior financial officers can simply plead ignorance about their companies’ SEC filings in 
+order to avoid liability. The term “fairly presents” in item 3 is a broader standard than what 
+is required by GAAP. In certifying that their SEC filings meet this standard, the CEO and 
+Securities Fraud  Financial Transactions   
+1.1506                           2011 Fraud Examiners Manual  
+CFO essentially must certify that the comp any (1) has selected appropriate accounting 
+policies to ensure the material accuracy of the reports; (2) has properly applied those 
+accounting standards; and (3) has disclosed financial information that reflects the underlying 
+transactions and events of the company. Furthermore, the other certification rules (see 1, 
+and 4–6 above) mandate that CEOs and CFOs take an active role in their companies’ public 
+reporting, and in the design and maintenance of internal controls. 
+ 
+It is significant that in item 4, the CEO and CFO not only have to certify that they are 
+responsible for their companies’ internal controls, but also that they have evaluated the 
+controls within 90 days prior to their quarterly or annual report.  Essentially, this certification 
+requirement mandates that companies actively and continually re-evaluate their control 
+structures to prevent fraud. 
+ 
+In conjunction with the § 302 certification requirements on the responsibility of the CEO 
+and CFO for internal controls, § 404 of the Act requires all annual reports to contain an 
+internal control report that (1) states management’s responsibility for establishing and 
+maintaining an adequate internal control structure and procedures for financial reporting; 
+and (2) contains an assessment of the effectiveness of the internal control structure and 
+procedures of the company for financial reporting.  
+ 
+Item 5 requires the CEO and CFO to certify that they have disclosed to their auditors and 
+their audit committee any material weaknesses in the company’s internal controls, and also 
+any fraud, whether material or not,  that involves management or other key employees. 
+Obviously, this is a very broad reporting standard that goes beyond the “material” standard 
+generally used in financial statement audits. The CEO and CFO now must report to their 
+auditors and audit committee any fraud  committed by a manager. This places a greater burden 
+on the CEO and CFO to take part in anti-fraud efforts and to be aware of fraudulent activity 
+within their companies in order to meet this certification requirement.  
+ 
+Item 6 is significant because periodic SEC filings must now include statements detailing 
+significant changes to the internal controls of publicly traded companies. 
+ 
+Standards for Audit Committee Independence 
+AUDIT COMMITTEE RESPONSIBILITIES  
+Section 301 of the Act requires that the audit committee for each publicly traded company 
+shall be directly responsible for appointing, compensating, and overseeing the work of the 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1507 
+company’s outside auditors. The Act also mandates that the auditors must report directly to 
+the audit committee ? not management ? and makes it the responsibility of the audit 
+committee to resolve disputes between management and the auditors. Section 301 also 
+requires that the audit committee must have the authority and funding to hire independent 
+counsel and any other advisors it deems necessary to carry out its duties.  
+ 
+COMPOSITION OF THE AUDIT COMMITTEE 
+The Sarbanes-Oxley Act mandates that each member of a company’s audit committee must 
+be a member of its board of directors, and must otherwise be “independent.” The term 
+“independent” means that the audit committee member can only receive compensation from 
+the company for his service on the board of directors, the audit committee, or another 
+committee of the board of directors. They cannot be paid by the company for any other 
+consulting or advisory work.  
+ 
+FINANCIAL EXPERT  
+Section 407 of the Act requires every public company to disclose in its periodic reports to 
+the SEC whether or not the audit committee has at least one member who is a “financial 
+expert,” and if not to explain the reasons why. The Act defines a “financial expert” as a 
+person who, through education and experience as a public accountant or auditor, or a CFO, 
+comptroller, chief financial officer or a similar position (1) has an understanding of generally 
+accepted accounting principles and financial statements; (2) has experience in preparing or 
+auditing financial statements of comparable companies and the application of such principles 
+in accounting for estimates, accruals, and reserves; (3) has experience with internal controls; 
+and (4) has an understanding of audit committee functions.  
+ 
+ESTABLISHING A WHISTLEBLOWING STRUCTURE 
+The Act makes it the responsibility of the audit committee to establish procedures (e.g., a 
+hotline) for receiving and dealing with complaints and anonymous employee tips regarding 
+irregularities in the company’s accounting met hods, internal controls, or auditing matters.  
+ 
+Enhanced Financial Disclosure Requirements 
+OFF-BALANCE SHEET  TRANSACTIONS 
+The Sarbanes-Oxley Act directed the SEC to issue  rules that require the disclosure of all 
+material off-balance sheet transactions by publicly traded companies. The rules require 
+disclosure of “all material off-balance sheet transactions, arrangements, obligations 
+(including contingent obligations), and other relationships the company may have with 
+Securities Fraud  Financial Transactions   
+1.1508                           2011 Fraud Examiners Manual  
+unconsolidated entities or persons that may have a material current or future effect on the 
+company’s financial condition, changes in financial condition, liquidity, capital expenditures, 
+capital resources, or significant components of revenues or expenses.” These disclosures are 
+required in all annual and quarterly SEC reports. 
+ 
+PRO FORMA FINANCIAL INFORMATION 
+Section 401 also directed the SEC to issue rules on pro forma financial statements. These 
+rules require that pro forma financials must not contain any untrue statements or omissions 
+that would make them misleading and require that the pro forma financials be reconciled to 
+GAAP. These rules apply to all pro forma financial statements that are filed with the SEC or 
+that are included in any public disclosure or press release.  
+ 
+PROHIBITIONS ON PERSONAL LOANS TO EXECUTIVES 
+Section 402 makes it illegal for public companies to make personal loans or otherwise extend 
+credit, either directly or indirectly, to or for any director or executive officer. There is an 
+exception that applies to consumer lenders if the loans are consumer loans of the type the 
+company normally makes to the public, and on the same terms. 
+ 
+RESTRICTIONS ON INSIDER TRADING 
+Section 403 establishes disclosure requirements for stock transactions by directors and 
+officers of public companies, or by persons who own more than 10 percent of a publicly 
+traded company’s stock. Reports of changes in  beneficial ownership by these persons must 
+now be filed with the SEC by the end of the second business day following the transaction. 
+ 
+Under § 306, directors and officers are also prohibited from trading in the company’s 
+securities during any pension fund blackout periods. This restriction only applies to 
+securities that were acquired as a result of their employment or service to the company. A 
+blackout period is defined as any period of more than three consecutive business days in 
+which at least 50 percent of the participants in the company’s retirement plan are restricted 
+from trading in the company’s securities. If directors or officers violate this provision, they 
+can be forced to disgorge to the company all profits received from the sale of securities 
+during the blackout period. 
+ 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1509 
+CODES OF ETHICS FOR SENIOR FINANCIAL OFFICERS  
+Pursuant to § 406 of the Act, the SEC must establish rules that require public companies to 
+disclose whether they have adopted a code of ethics for their senior financial officers, and if 
+not, to explain the reasons why. The rules require immediate public disclosure any  
+time there is a change of the code of ethics or a waiver of the code of ethics for a senior 
+financial officer.  
+ 
+ENHANCED REVIEW OF PERIODIC FILINGS 
+Section 408 of the Act now requires the SEC to make regular and systematic reviews of 
+disclosures made by public companies in their periodic reports to the SEC. Reviews of a 
+company’s disclosures, including its financial statements, must be made at least once every 
+three years. Prior to this enactment, reviews were typically minimal and tended to coincide 
+with registered offerings. 
+ 
+REAL TIME DISCLOSURES  
+Under § 409, public companies must publicly disclose information concerning material 
+changes in their financial condition or operations. These disclosures must be “in plain 
+English” and must be made “on a rapid and current basis.”  
+ 
+Protections for Corporate Whistleblowers Under Sarbanes-Oxley 
+The Sarbanes-Oxley Act establishes broad protections for corporate whistleblowers. There 
+are two sections of the Act that address whistleblower protections: Section 806 deals with 
+civil protections and section 1107 establishes criminal liability for those who retaliate against 
+whistleblowers.  
+ 
+CIVIL LIABILITY WHISTLEBLOWER PROTECTION 
+Section 806 of the Act, which is codified at Title 18, U.S.C., § 1514A, creates civil liability for 
+companies that retaliate against whistleblowers. It should be noted that this provision does 
+not provide universal whistleblower protection; it  only protects employees of publicly traded 
+companies. Section 806 makes it unlawful to fire, demote, suspend, threaten, harass, or in 
+any other manner discriminate against an employee for providing information or aiding in an 
+investigation of securities fraud. In order to trigger § 806 protections, the employee must 
+report the suspected misconduct to a federal regulatory or law enforcement agency, a 
+member of Congress or a committee of Congress, or a supervisor. Employees are also 
+protected against retaliation for filing, testifying in, participating in, or otherwise assisting in a 
+Securities Fraud  Financial Transactions   
+1.1510                           2011 Fraud Examiners Manual  
+proceeding filed or about to be filed relating to an alleged violation of securities laws or  
+SEC rules. 
+ 
+The whistleblower protections apply even if the company is ultimately found not to have 
+committed securities fraud. As long as the employee reasonably believes he is reporting 
+conduct that constitutes a violation of various federal securities laws, then he is protected. 
+The protections cover retaliatory acts not only by the company, but also by any officer, 
+employee, contractor, subcontractor, or agent of the company.  
+ 
+If a public company is found to have violated § 806, the Act provides for an award of 
+compensatory damages sufficient to “make the employee whole.” Penalties include 
+reinstatement; back pay with interest; and compensation for special damages including 
+litigation costs, expert witness fees, and attorneys’ fees.  
+ 
+CRIMINAL SANCTION WHISTLEBLOWER PROTECTION  
+Section 1107 of Sarbanes-Oxley ? codified at Title 18, U.S.C., § 1513 ? makes it a crime to 
+knowingly, with the intent to retaliate, take any harmful action against a person for providing 
+truthful information relating to the commission or possible commission of any Federal 
+offense. This protection is only triggered when information is provided to a law enforcement 
+officer, it does not apply to reports made to supervisors or to members of Congress, as is 
+the case under § 806.  
+ 
+Additionally, the Act codified three criminal offenses to Title 18 of the Code. First, it is a 
+criminal offense to alter, destroy, mutilate, conceal, cover-up, or falsify any record or 
+document “with the intent to impede, obstruct, or influence” a federal investigation or 
+bankruptcy proceeding, carrying a maximum sentence of 20 years imprisonment. (18, U.S.C., 
+§ 1519). Secondly, all auditing accountants of securities issuers must “maintain all audit or 
+review workpapers for a period of 5 years.” Where  there is a knowing and willful violation of 
+this offense, a sentence of up to 10 years may be imposed. (18, U.S.C., § 1520). Finally, the 
+Act made codified an additional securities fraud offence that can carry a maximum sentence 
+of 25 years’ imprisonment. (18, U.S.C., § 1348). 
+ 
+In general, the coverage of § 1107 is much  broader than the civil liability whistleblower 
+protections of § 806. While the § 806 protections apply only to employees of publicly traded 
+companies, § 1107’s criminal whistleblower protections cover all individuals (and 
+organizations) regardless of where they work. Also, § 806 only applies to violations of 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1511 
+securities laws or SEC rules and regulations. Section 1107, on the other hand, protects 
+individuals who provide truthful information about the commission or possible commission 
+of any Federal offense.  
+ 
+Violations of § 1107 can be punished by fines of up to $250,000 and up to 10 years in prison 
+for individuals. Corporations that violate the Act can be fined up to $500,000.  
+ 
+Other Criminal Penalties  
+SECURITIES FRAUD  
+Section 807 of the Act makes securities fraud a crime under 18, U.S.C., § 1348, providing for 
+fines up to $250,000 and up to 25 years in prison.  
+ 
+SECURITIES FRAUD (TITLE 18, U.S. CODE, § 1348) 
+Whoever knowingly executes, or attempts  to execute, a scheme or artifice — 
+ 
+(1) to defraud any person in connection with any security of an issuer with a class of 
+securities registered under section 12 of the Securities Exchange Act of 1934 (15, U.S.C., 
+78l) or that is required to file reports under section 15(d) of the Securities Exchange Act 
+of 1934 (15, U.S.C., 78o(d)); or 
+ 
+(2) to obtain, by means of false or fraudulent  pretenses, representat ions, or promises, any 
+money or property in connection with the purchase or sale of any security of an issuer with a 
+class of securities registered under section 12 of the Securities Exchange Act of 1934 (15, 
+U.S.C., 78l) or that is required to file reports under section 15(d) of the Securities 
+Exchange Act of 1934 (15, U.S.C., 78o(d)); 
+ 
+shall be fined under this title, or imprisoned not more than 25 years, or both. 
+ 
+DOCUMENT DESTRUCTION  
+Section 802 of the Act makes destroying evidence to obstruct an investigation or any other 
+matter within the jurisdiction of any U.S. department illegal and punishable by a fine of up to 
+$250,000 and up to 20 years in prison.  
+ 
+The final rules adopted by the SEC under section 802 specifically require that accountants 
+who perform audits on publicly traded companies must maintain all audit or review work 
+papers for a period of seven years. Although the original provisions of section 802 only 
+Securities Fraud  Financial Transactions   
+1.1512                           2011 Fraud Examiners Manual  
+required a retention period of five years, the SEC extended the requirement to be consistent 
+with the seven-year retention period required under the Auditing Standards promulgated by 
+the Public Company Accounting Oversight Board (PCAOB) per section 103 of the Act. 
+Violations of the final SEC rules may be punished by fines up to $250,000 and up to 10 
+years in jail for individuals, or fines up to $500,000 for corporations.  
+ 
+Section 1102 of the Act amends § 1512 of the U.S. Code to make it a criminal offense to 
+corruptly alter, destroy, mutilate or conceal a record or document with the intent to impair 
+its integrity or use in an official proceeding, or to otherwise obstruct, influence, or impede 
+any official proceeding or attempt to do so. Violations of this section are punishable by fines 
+up to $250,000 and imprisonment for up to 20 years.  
+ 
+FREEZING OF ASSETS 
+During an investigation of possible securities violations by a publicly traded company or any 
+of its officers, directors, partners, agents, controlling persons, or employees, the SEC can 
+petition a federal court to issue a 45-day freeze on “extraordinary payments” to any of the 
+foregoing persons. If granted, the payments will be placed in an interest-bearing escrow 
+account while the investigation commences. This provision was enacted to prevent 
+corporate assets from being improperly distributed while an investigation is underway.  
+ 
+BANKRUPTCY LOOPHOLES 
+Section 803 amends the bankruptcy code so that judgments, settlements, damages, fines, 
+penalties, restitution payments, disgorgement payments, etc., resulting from violations of 
+Federal securities laws are non-dischargeable. This was intended to prevent corporate 
+wrongdoers from sheltering their assets under bankruptcy protection.  
+ 
+DISGORGEMENT OF BONUSES 
+One of the most unique aspects of the Sarbanes-Oxley Act is § 304, which states that if a 
+publicly traded company is required to prepare an accounting restatement due to the 
+company’s material noncompliance, as a result of “misconduct,” with any financial reporting 
+requirement under securities laws, then the CEO and CFO must reimburse the company for: 
+• Any bonus or other incentive-based or equity-based compensation received during the 
+12 months after the initial filing of the report that requires restating; and  
+• Any profits realized from the sale of the company’s securities during the same 12- 
+month period. 
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1513 
+While the Act requires the CEO and CFO to disgorge their bonuses if the company’s 
+financial statements have to be restated because of “misconduct,” it makes no mention of 
+whose misconduct triggers this provision. There is certainly nothing in the text of § 304 that 
+limits the disgorgement provision to instances of misconduct by the CEO and CFO. 
+Presumably, then, the CEO and CFO could be required to disgorge their bonuses and 
+profits from the sale of company stock even if they had no knowledge of and took no part in 
+the misconduct that made the restatement necessary.  
+ 
+ 
+
+
+
+:
+
+
+feder regul
+secur act of 1933
+concern over the 1929 stock market crash and over the manipul of the secur
+market precipit the need for feder intervent in 1933 the secur act wa
+enact to regul the public offer of secur and protect investor the 1933 act
+sometim known as the truth in secur es act defin secur to includ
+ani note stock treasuri stock bond debentur invest contract fraction
+undivid interest in ani oil ga or other miner right ani put call straddl option
+ani interest or instrument commonli known as a secur titl 15 usc
+77ba1
+secur fraud financi transact
+11502 2011 fraud examin manual
+of cours both feder and state law provid for exempt exempt basic fall
+under two categori exempt secur and exempt transact for exampl certain oblig
+issu or guarante by the unit state govern or by state or local govern ar
+exempt secur
+thi act also requir that investor be given full and fair disclosur of materi inform
+concern their invest or prospect invest in thi wai the sale of secur
+differ from mani other commerci transact where caveat emptor is the rule here the
+investor is entitl to all inform necessari for an inform invest decis to
+be made
+secur exchang act of 1934
+unlik the 1933 act the secur exchang act of 1934 mainli deal with postissu
+trade thi act which gave birth to the secur and exchang commiss sec
+requir the registr of secur broker and dealer simpli put the 1933 act can be
+thought of as regul the issuanc of the secur themselv while the 1934 act cover
+subsequ trade thi secondari market trade repres by far the greatest volum of
+secur transact trade gener take place on market with actual trade floor
+call exchang or on socal overthecount market such as nasdaq
+the 1934 act contain section 10b a comprehens antifraud provis which permit
+the sec to set forth rule and regul that prohibit manipul or decept devic or
+contriv via the mail or other mean of interst commerc for exampl under
+section 10b the sec promulg rule 10b5 which prohibit fals statement and other
+fraudul activ in connect with secur transact specif rule 10b5 state
+that
+it shall be unlaw for ani person directli or indirectli by the us of ani mean or
+instrument of interst commerc or of the mail or of ani facil of ani nation
+secur exchang
+1 to emploi ani devic scheme or artific to defraud
+2 to make ani untru statement of a materi fact or to omit to state a materi fact
+necessari in order to make the statement made in the light of the circumst under
+which thei were made not mislead or
+financi transact secur fraud
+2011 fraud examin manual 11503
+3 to engag in ani act practic or cours of busi which oper or would oper as
+a fraud or deceit upon ani person in connect with the purchas or sale of ani
+secur
+invest advisor act of 1940
+regist secur dealer ar requir to adher to the rule of fair practic issu by the
+nation associ of secur dealer and the invest advis act of 1940 thi
+act mandat registr and regul of invest advis it appli to anyon who
+advis other as part of a regular busi and for compens on the invest
+purchas or sale of secur thi doe not appli to those who do not receiv
+compens or who publish financi advic in a newspap or magazin
+invest compani act of 1940
+under the invest compani act of 1940 invest compani ar requir to regist
+with the sec which also regul their activ thi act dictat qualif for offic
+and director requir that certain matter ar submit for stockhold approv and
+mandat sec permiss for certain transact such as those between insid and
+affili it divid invest compani into three categori
+faceamount certif compani ani comp ani engag in issu fix incom
+debentur type secur
+unit invest trustscompani organ under a trust indentur contract of
+agenc or those similar in natur which do not have a board of director and issu onli
+redeem secur
+manag compani firm that do not fit the criteria of the first two categori fall
+into thi on thi includ open and closedend compani whether list on secur
+exchang or not openend compani ar commonli refer to as mutual fund
+and the net asset valu of a share is calcul base on the market valu of the fund
+portfolio divid by the number of share outstand the share of closedend
+compani trade in a similar manner to regular stock ie the valu is determin by the
+market forc of suppli and demand
+although there ar crimin penalti attach to violat of the feder secur law the
+secur and exchang commiss doe not have the power to take crimin action sec
+investig that disclos potenti crimin violat ar usual refer to the feder
+bureau of investig
+secur fraud financi transact
+11504 2011 fraud examin manual
+less seriou violat mai be address us the commiss administr power the
+sec ha the power to issu ceas and desist order levi fine and order disgorg
+of profit
+the sarbanesoxlei act
+the sarbanesoxlei act of 2002 is on of the most signific chang in the secur field
+sinc the 1934 act wa pass it wa design to restor investor confid in capit
+market and help elimin financi statement fraud in publicli trade compani while at
+the same time significantli increas the penalti for corpor account fraud
+the most signific chang brought on by the act includ
+the creation of the public compani account oversight board
+requir for senior financi offic to certifi sec file
+standard for audit committe independ
+standard for auditor independ
+enhanc financi disclosur requir
+protect for corpor whistleblow
+enhanc penalti for whitecollar crime
+the act is discuss in detail in the law relat to fraud chapter in the law section of
+the fraud examin manual howev some of the more import provis as thei relat
+to corpor govern ar reproduc here
+certif oblig for ceo and cfo
+on of the most signific chang effect by the sarbanesoxlei act is the requir
+that the chief execut offic and the chief financi offic of public compani
+person certifi annual and quarterli sec file these certif essenti requir
+ceo and cfo to take respons for their compani financi statement and prevent
+them from deleg thi respons to their subordin and then claim ignor
+when fraud is uncov in the financi statement
+there ar two type of offic certif mandat by sarbanesoxlei crimin
+certif which ar set forth in section 906 of the act and codifi at 18 usc 1350
+and civil certif which ar set forth in section 302
+financi transact secur fraud
+2011 fraud examin manual 11505
+crimin certif 906
+period file with the sec must now be accompani by a statement sign by the ceo
+and cfo which certifi that the report fulli compli with the sec period report
+requir and that the inform in the report fairli present in all materi respect
+the financi condit and result of oper of the compani
+these certif ar known as crimin certif becaus the act impos crimin
+penalti on offic who violat the certif requir
+corpor offic who knowingli violat the certif requir ar subject to
+fine of up to 1000000 and up to 10 year imprison or both
+corpor offic who willfulli violat the certif requir ar subject to fine
+of up to 5000000 and up to 20 year imprison or both
+civil certif 302
+section 302 of the act requir the ceo and cfo to person certifi the follow in
+their report
+thei have person review the report
+base on their knowledg the report doe not contain ani materi misstat that
+would render the financi mislead
+base on their knowledg the financi inform in the report fairli present in all
+materi respect the financi condit result of oper and cash flow of the
+compani
+thei ar respons for design maintain and evalu the compani intern
+control thei have evalu the control within 90 dai prior to the report and thei
+have present their conclus about the effect of those control in the report
+thei have disclos to the auditor and the audit committe ani materi weak in
+the control and ani fraud whether materi or not that involv manag or other
+employe who have a signific role in the compani intern control and
+thei have indic in their report whether there have been signific chang in the
+compani intern control sinc the file of the last report
+note that in item 2 and 3 the ceo and cfo ar not requir to certifi that the financi
+ar accur or that there is no misstat thei ar simpli requir to certifi that to their
+knowledg the financi ar accur and not mislead howev thi doe not mean that
+senior financi offic can simpli plead ignor about their compani sec file in
+order to avoid liabil the term fairli present in item 3 is a broader standard than what
+is requir by gaap in certifi that their sec file meet thi standard the ceo and
+secur fraud financi transact
+11506 2011 fraud examin manual
+cfo essenti must certifi that the comp ani 1 ha select appropri account
+polici to ensur the materi accuraci of the report 2 ha properli appli those
+account standard and 3 ha disclos financi inform that reflect the underli
+transact and event of the compani furthermor the other certif rule see 1
+and 46 abov mandat that ceo and cfo take an activ role in their compani public
+report and in the design and mainten of intern control
+it is signific that in item 4 the ceo and cfo not onli have to certifi that thei ar
+respons for their compani intern control but also that thei have evalu the
+control within 90 dai prior to their quarterli or annual report essenti thi certif
+requir mandat that compani activ and continu reevalu their control
+structur to prevent fraud
+in conjunct with the 302 certif requir on the respons of the ceo
+and cfo for intern control 404 of the act requir all annual report to contain an
+intern control report that 1 state manag respons for establish and
+maintain an adequ intern control structur and procedur for financi report
+and 2 contain an assess of the effect of the intern control structur and
+procedur of the compani for financi report
+item 5 requir the ceo and cfo to certifi that thei have disclos to their auditor and
+their audit committe ani materi weak in the compani intern control and also
+ani fraud whether materi or not that involv manag or other kei employe
+obvious thi is a veri broad report standard that goe beyond the materi standard
+gener us in financi statement audit the ceo and cfo now must report to their
+auditor and audit committe ani fraud commit by a manag thi place a greater burden
+on the ceo and cfo to take part in antifraud effort and to be awar of fraudul activ
+within their compani in order to meet thi certif requir
+item 6 is signific becaus period sec file must now includ statement detail
+signific chang to the intern control of publicli trade compani
+standard for audit committe independ
+audit committe respons
+section 301 of the act requir that the audit committe for each publicli trade compani
+shall be directli respons for appoint compens and overse the work of the
+financi transact secur fraud
+2011 fraud examin manual 11507
+compani outsid auditor the act also mandat that the auditor must report directli to
+the audit committe not manag and make it the respons of the audit
+committe to resolv disput between manag and the auditor section 301 also
+requir that the audit committe must have the author and fund to hire independ
+counsel and ani other advisor it deem necessari to carri out it duti
+composit of the audit committe
+the sarbanesoxlei act mandat that each member of a compani audit committe must
+be a member of it board of director and must otherwis be independ the term
+independ mean that the audit committe member can onli receiv compens from
+the compani for hi servic on the board of director the audit committe or anoth
+committe of the board of director thei cannot be paid by the compani for ani other
+consult or advisori work
+financi expert
+section 407 of the act requir everi public compani to disclos in it period report to
+the sec whether or not the audit committe ha at least on member who is a financi
+expert and if not to explain the reason why the act defin a financi expert as a
+person who through educ and experi as a public account or auditor or a cfo
+comptrol chief financi offic or a similar posit 1 ha an understand of gener
+accept account principl and financi statement 2 ha experi in prepar or
+audit financi statement of compar compani and the applic of such principl
+in account for estim accrual and reserv 3 ha experi with intern control
+and 4 ha an understand of audit committe function
+establish a whistleblow structur
+the act make it the respons of the audit committe to establish procedur eg a
+hotlin for receiv and deal with complaint and anonym employe tip regard
+irregular in the compani account met hod intern control or audit matter
+enhanc financi disclosur requir
+offbal sheet transact
+the sarbanesoxlei act direct the sec to issu rule that requir the disclosur of all
+materi offbal sheet transact by publicli trade compani the rule requir
+disclosur of all materi offbal sheet transact arrang oblig
+includ conting oblig and other relationship the compani mai have with
+secur fraud financi transact
+11508 2011 fraud examin manual
+unconsolid entiti or person that mai have a materi current or futur effect on the
+compani financi condit chang in financi condit liquid capit expenditur
+capit resourc or signific compon of revenu or expens these disclosur ar
+requir in all annual and quarterli sec report
+pro forma financi inform
+section 401 also direct the sec to issu rule on pro forma financi statement these
+rule requir that pro forma financi must not contain ani untru statement or omiss
+that would make them mislead and requir that the pro forma financi be reconcil to
+gaap these rule appli to all pro forma financi statement that ar file with the sec or
+that ar includ in ani public disclosur or press releas
+prohibit on person loan to execut
+section 402 make it illeg for public compani to make person loan or otherwis extend
+credit either directli or indirectli to or for ani director or execut offic there is an
+except that appli to consum lender if the loan ar consum loan of the type the
+compani normal make to the public and on the same term
+restrict on insid trade
+section 403 establish disclosur requir for stock transact by director and
+offic of public compani or by person who own more than 10 percent of a publicli
+trade compani stock report of chang in benefici ownership by these person must
+now be file with the sec by the end of the second busi dai follow the transact
+under 306 director and offic ar also prohibit from trade in the compani
+secur dure ani pension fund blackout period thi restrict onli appli to
+secur that were acquir as a result of their employ or servic to the compani a
+blackout period is defin as ani period of more than three consecut busi dai in
+which at least 50 percent of the particip in the compani retir plan ar restrict
+from trade in the compani secur if director or offic violat thi provis thei
+can be forc to disgorg to the compani all profit receiv from the sale of secur
+dure the blackout period
+financi transact secur fraud
+2011 fraud examin manual 11509
+code of ethic for senior financi offic
+pursuant to 406 of the act the sec must establish rule that requir public compani to
+disclos whether thei have adopt a code of ethic for their senior financi offic and if
+not to explain the reason why the rule requir immedi public disclosur ani
+time there is a chang of the code of ethic or a waiver of the code of ethic for a senior
+financi offic
+enhanc review of period file
+section 408 of the act now requir the sec to make regular and systemat review of
+disclosur made by public compani in their period report to the sec review of a
+compani disclosur includ it financi statement must be made at least onc everi
+three year prior to thi enact review were typic minim and tend to coincid
+with regist offer
+real time disclosur
+under 409 public compani must publicli disclos inform concern materi
+chang in their financi condit or oper these disclosur must be in plain
+english and must be made on a rapid and current basi
+protect for corpor whistleblow under sarbanesoxlei
+the sarbanesoxlei act establish broad protect for corpor whistleblow there
+ar two section of the act that address whistleblow protect section 806 deal with
+civil protect and section 1107 establish crimin liabil for those who retali against
+whistleblow
+civil liabil whistleblow protect
+section 806 of the act which is codifi at titl 18 usc 1514a creat civil liabil for
+compani that retali against whistleblow it should be note that thi provis doe
+not provid univers whistleblow protect it onli protect employe of publicli trade
+compani section 806 make it unlaw to fire demot suspend threaten harass or in
+ani other manner discrimin against an employe for provid inform or aid in an
+investig of secur fraud in order to trigger 806 protect the employe must
+report the suspect misconduct to a feder regulatori or law enforc agenc a
+member of congress or a committe of congress or a supervisor employe ar also
+protect against retali for file testifi in particip in or otherwis assist in a
+secur fraud financi transact
+11510 2011 fraud examin manual
+proceed file or about to be file relat to an alleg violat of secur law or
+sec rule
+the whistleblow protect appli even if the compani is ultim found not to have
+commit secur fraud as long as the employe reason believ he is report
+conduct that constitut a violat of variou feder secur law then he is protect
+the protect cover retaliatori act not onli by the compani but also by ani offic
+employe contractor subcontractor or agent of the compani
+if a public compani is found to have violat 806 the act provid for an award of
+compensatori damag suffici to make the employe whole penalti includ
+reinstat back pai with interest and compens for special damag includ
+litig cost expert wit fee and attornei fee
+crimin sanction whistleblow protect
+section 1107 of sarbanesoxlei codifi at titl 18 usc 1513 make it a crime to
+knowingli with the intent to retali take ani harm action against a person for provid
+truth inform relat to the commiss or possibl commiss of ani feder
+offens thi protect is onli trigger when inform is provid to a law enforc
+offic it doe not appli to report made to supervisor or to member of congress as is
+the case under 806
+addition the act codifi three crimin offens to titl 18 of the code first it is a
+crimin offens to alter destroi mutil conceal coverup or falsifi ani record or
+document with the intent to imped obstruct or influenc a feder investig or
+bankruptci proceed carri a maximum sentenc of 20 year imprison 18 usc
+1519 secondli all audit account of secur issuer must maintain all audit or
+review workpap for a period of 5 year where there is a know and will violat of
+thi offens a sentenc of up to 10 year mai be impos 18 usc 1520 final the
+act made codifi an addit secur fraud offenc that can carri a maximum sentenc
+of 25 year imprison 18 usc 1348
+in gener the coverag of 1107 is much broader than the civil liabil whistleblow
+protect of 806 while the 806 protect appli onli to employe of publicli trade
+compani 1107 crimin whistleblow protect cover all individu and
+organ regardless of where thei work also 806 onli appli to violat of
+financi transact secur fraud
+2011 fraud examin manual 11511
+secur law or sec rule and regul section 1107 on the other hand protect
+individu who provid truth inform about the commiss or possibl commiss
+of ani feder offens
+violat of 1107 can be punish by fine of up to 250000 and up to 10 year in prison
+for individu corpor that violat the act can be fine up to 500000
+other crimin penalti
+secur fraud
+section 807 of the act make secur fraud a crime under 18 usc 1348 provid for
+fine up to 250000 and up to 25 year in prison
+secur fraud titl 18 us code 1348
+whoever knowingli execut or attempt to execut a scheme or artific
+1 to defraud ani person in connect with ani secur of an issuer with a class of
+secur regist under section 12 of the secur exchang act of 1934 15 usc
+78l or that is requir to file report under section 15d of the secur exchang act
+of 1934 15 usc 78od or
+2 to obtain by mean of fals or fraudul pretens representat ion or promis ani
+monei or properti in connect with the purchas or sale of ani secur of an issuer with a
+class of secur regist under section 12 of the secur exchang act of 1934 15
+usc 78l or that is requir to file report under section 15d of the secur
+exchang act of 1934 15 usc 78od
+shall be fine under thi titl or imprison not more than 25 year or both
+document destruct
+section 802 of the act make destroi evid to obstruct an investig or ani other
+matter within the jurisdict of ani us depart illeg and punish by a fine of up to
+250000 and up to 20 year in prison
+the final rule adopt by the sec under section 802 specif requir that account
+who perform audit on publicli trade compani must maintain all audit or review work
+paper for a period of seven year although the origin provis of section 802 onli
+secur fraud financi transact
+11512 2011 fraud examin manual
+requir a retent period of five year the sec extend the requir to be consist
+with the sevenyear retent period requir under the audit standard promulg by
+the public compani account oversight board pcaob per section 103 of the act
+violat of the final sec rule mai be punish by fine up to 250000 and up to 10
+year in jail for individu or fine up to 500000 for corpor
+section 1102 of the act amend 1512 of the us code to make it a crimin offens to
+corruptli alter destroi mutil or conceal a record or document with the intent to impair
+it integr or us in an offici proceed or to otherwis obstruct influenc or imped
+ani offici proceed or attempt to do so violat of thi section ar punish by fine
+up to 250000 and imprison for up to 20 year
+freez of asset
+dure an investig of possibl secur violat by a publicli trade compani or ani
+of it offic director partner agent control person or employe the sec can
+petit a feder court to issu a 45dai freez on extraordinari payment to ani of the
+forego person if grant the payment will be place in an interestbear escrow
+account while the investig commenc thi provis wa enact to prevent
+corpor asset from be improperli distribut while an investig is underwai
+bankruptci loophol
+section 803 amend the bankruptci code so that judgment settlement damag fine
+penalti restitut payment disgorg payment etc result from violat of
+feder secur law ar nondischarg thi wa intend to prevent corpor
+wrongdoer from shelter their asset under bankruptci protect
+disgorg of bonus
+on of the most uniqu aspect of the sarbanesoxlei act is 304 which state that if a
+publicli trade compani is requir to prepar an account restat due to the
+compani materi noncompli as a result of misconduct with ani financi report
+requir under secur law then the ceo and cfo must reimburs the compani for
+ani bonu or other incentivebas or equitybas compens receiv dure the
+12 month after the initi file of the report that requir restat and
+ani profit realiz from the sale of the compani secur dure the same 12
+month period
+financi transact secur fraud
+2011 fraud examin manual 11513
+while the act requir the ceo and cfo to disgorg their bonus if the compani
+financi statement have to be restat becaus of misconduct it make no mention of
+whose misconduct trigger thi provis there is certainli noth in the text of 304 that
+limit the disgorg provis to instanc of misconduct by the ceo and cfo
+presum then the ceo and cfo could be requir to disgorg their bonus and
+profit from the sale of compani stock even if thei had no knowledg of and took no part in
+the misconduct that made the restat necessari

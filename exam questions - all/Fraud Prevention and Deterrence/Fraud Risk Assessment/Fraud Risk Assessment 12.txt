@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=During a fraud risk assessment, the assessment team should consider how the actions of certain individuals, such as executives and employees with access to financial resources, affect the company's vulnerability to fraud.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The actions of certain individuals can significantly increase the company's vulnerability to fraud. The risk can be driven from the way in which someone makes decisions, behaves, or treats others within and outside the organization. A fraud risk assessment can help hone in on those people and their activities that may increase the company's overall fraud risk.See page(s) 4.804 in the Fraud Examiner's Manual

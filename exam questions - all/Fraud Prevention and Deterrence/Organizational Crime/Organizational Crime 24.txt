@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=In the area of criminological theory,is the theory that tries to prevent a crime before it occurs by using the threat of criminal sanctions.
+
+Options=Deterrence | Punishment | Prevention | None of the above
+
+CorrectResponse=0
+
+Explanation=As a strategy to control crime, deterrence is designed to detect law violations, determine v/ho is responsible, and penalize offenders in order to deter future violations. Deterrence systems try to control the immediate behavior of individuals, not the long-term behaviors targeted by compliance systems. Deterrence theory assumes that humans are rational in their behavior patterns. Humans seek profit and pleasure while they try to avoid pain. Deterrence assumes that an individual's propensity toward lawbreaking is in inverse proportion to the perceived probability of negative consequences.See page(s) 4.516 in the Fraud Examiner's Manual

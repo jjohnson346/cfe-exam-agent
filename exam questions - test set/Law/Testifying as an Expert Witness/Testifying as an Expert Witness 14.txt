@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=White is an expert testifying in a complicated securities fraud case In preparing her report, White relied to a large extent on Publication A, a market analysis report that is commonly used by experts in her field. The judge has declared that Publication A cannot be admitted into evidence in the trial at hand. This means any testimony White has that is based on Publication A is also excluded.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Rule 703 of the Federal Rules of Evidence says that an expert may testify based on facts that are disclosed at or before the hearing in which the expert testifies. The facts need not themselves be admissible in evidence if they are of ?a type reasonably relied upon by experts in a particular field.? This rule allows an expert to employ data usually used by experts in the field, though the data itself may not be admissible. An example might be a table of interest rates taken from a Department of Commerce publication. See page(s) 2.815 in the Fraud Examiner's Manual

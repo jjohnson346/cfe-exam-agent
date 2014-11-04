@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Able, a Certified Fraud Examiner, and Baker, an attorney, are conducting a fraud investigation concerning allegations of misconduct on the part of Green. Able, at Baker's request, interviews Green's former roommate. Able makes a verbatim transcription of what the roommate says. Green's attorney requests a copy of this transcription. The transcript is probably:
+
+Options=Protected by the work product privilege because it was prepared at the request of an attorney | Protected by the attorney-client privilege | Protected by the informant privilege | None of the above
+
+CorrectResponse=3
+
+Explanation=The work product privilege protects the mental impressions and opinions of the attorney or someone working on his behalf. It does not cover purely factual information such as a transcript of an interview. The attorney-client privilege protects only communications between a client and the attorney made for the purpose of obtaining legal advice. Some jurisdictions recognize a law enforcement-informant privilege, but such a privilege would not apply in the case of a private investigation. See page(s) 2.725, 2.729-2.730 in the Fraud Examiner's Manual

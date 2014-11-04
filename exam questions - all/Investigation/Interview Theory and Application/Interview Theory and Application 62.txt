@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In evaluating deception, "illustrators" can be defined as:
+
+Options=Verbal statements which illustrate a point | Motions made primarily with the hands to demonstrate a point | Expressions made with the face, which meanings are clearly understood | None of the above
+
+CorrectResponse=1
+
+Explanation="Illustrators" are the motions made primarily with the hands to demonstrate points when talking. During nonthreatening questions, the illustrators might be done at one rate During threatening questions, the use of illustrators might increase or decrease.See page(s) 3.242 in the Fraud Examiner's Manual

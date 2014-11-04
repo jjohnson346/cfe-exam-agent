@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, it is sometimes recommended that the interviewer shake hands with the respondent. What is the purpose of this?
+
+Options=To break down psychological barriers | Professional courtesy | To establish the interview purpose | Social courtesy
+
+CorrectResponse=0
+
+Explanation=Make physical contact with the person being interviewed by shaking hands. Making physical contact helps break down psychological barriers to communication. The interviewer should not invade the respondent's personal space, however, as this might make the person uncomfortable. The interviewer uses body language to create the impression of trust during the interview by gesturing openly with the arms, clasping hands together, and leaning forward in a manner to indicate interest. Rapport can be established through verbal techniques by using soft words, agreeing with the respondent, and avoiding negative terms.See page(s) 3.219 in the Fraud Examiner's Manual

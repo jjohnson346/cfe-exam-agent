@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=The chief prosecutor for the federal government is known as the Federal District Attorney.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In the federal system, the trial courts are the U.S. District Courts, of which there is at least one and often several in each state. Each federal district has a chief prosecutor, a political appointee, known as the United States Attorney, and a staff of prosecutors, known as Assistant United States Attorneys. Almost all cases are prosecuted by assistants. Criminal cases at the state and local level are prosecuted by the District Attorney's office or the Attorney General‰??s office.See page(s) 2.105 in the Fraud Examiner's Manual

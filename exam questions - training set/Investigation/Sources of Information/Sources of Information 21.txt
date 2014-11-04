@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Documents filed to show the dispersal of assets after a subject's death are:
+
+Options=Voter registration records | Probate court records | Utility records | Telephone directory
+
+CorrectResponse=1
+
+Explanation=Probate court records are documents filed to show the dispersal of assets after a subject's death. The probate court conducts an investigation to verify any debts owed by an individual estate and sees to the dispersal of assets according to the deceased's will (or if there is no will, by state law) after all debts are paid.See page(s) 3.416 in the Fraud Examiner's Manual

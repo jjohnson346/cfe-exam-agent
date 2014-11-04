@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=To determine whether a government search was in violation of the Fourth Amendment, the first question that must be asked is whether the person had ___________________________.
+
+Options=A reasonable expectation of privacy | Exigent circumstances relating to the area | Been read his Miranda rights | An attorney present
+
+CorrectResponse=0
+
+Explanation=In Katz v. United States, 389 U.S. 347 (1967). the Supreme Court held that the Fourth Amendment applies wherever there is a "reasonable expectation of privacy.'‰?? and that a search without a warrant is ‰??per se unreasonable," absent exigent circumstances. Thus, the police normally need to obtain a warrant not only to search a house, but also to intercept calls from a public telephone booth, or inspect the contents of a safe deposit box, or to otherwise intrude into matters which the courts would reasonably consider to be private.See page(s) 2.417-2.418 in the Fraud Examiner's Manual

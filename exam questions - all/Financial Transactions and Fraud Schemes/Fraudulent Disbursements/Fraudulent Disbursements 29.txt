@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=In order for an hourly employee to commit a falsified hours and salary scheme, he may overstate either the number of hours worked or his rate of pay.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=For hourly employees, the size of a paycheck is based on two essential factors, the number of hours worked and the rate of pay. It is therefore obvious that for an hourly employee to fraudulently increase the size of his paycheck, he must either falsify the number of hours he has worked or change his wage rate.See page(s) 217 in the Corporate Fraud Handbook

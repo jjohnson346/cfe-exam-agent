@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=In reporting the results of a fraud examination, interviews of innocent witnesses are usually recorded in a(n):
+
+Options=Memorandum of investigation | Memorandum of interview | Interview evaluation form | None of the above
+
+CorrectResponse=1
+
+Explanation=Each contact a fraud examiner makes during the course of a fraud examination should be recorded on a timely basis in a memorandum of interview. Although there is no need to recapitulate testimony word for word, for accuracy‰??s sake the fraud examiner should include all facts of possible relevance. The examiner should reconfirm dates and supporting information with the respondent. It is important to reconfirm the facts before the report is written, not after. Attachments to the report, if any, should be completely described. Inaccuracies and careless errors are inexcusable and can render a report useless.See page(s) 3.901-3.902 in the Fraud Examiner's Manual

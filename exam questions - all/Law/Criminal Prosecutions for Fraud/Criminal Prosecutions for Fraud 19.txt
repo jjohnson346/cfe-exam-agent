@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Character witnesses usually are allowed to testify at criminal trials, but they are not permitted to tell specific incidents of good character.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A defendant in a criminal trial is entitled to call "character witnesses" on his or her behalf, who often have no knowledge of the charges or facts at issue, but who are prepared to testify to the defendant's "good character." Such testimony must be given in the form of the witness' opinion or testimony as to the defendant's general good reputation; testimony as to specific incidents of good conduct is not permitted.See page(s) 2.519 in the Fraud Examiner's Manual

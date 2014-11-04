@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+agents                                 1
+run                                    1
+policies                               1
+setting                                1
+of                                     1
+trouble                                1
+nonexistent                            1
+sell                                   1
+money                                  1
+rather                                 1
+phony                                  2
+going                                  1
+or                                     1
+a                                      2
+bogus                                  1
+the                                    2
+up                                     1
+and                                    2
+many                                   1
+take                                   1
+than                                   1
+company                                1
+will                                   1
+policy                                 1
+
+Totals:                     25        29

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=It is generally not a good idea to ask employees in your organization whether or not they believe fraud is occurring because it gives the impression that management is unaware of the fraud risks of the organization.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=x Fraud Assessment Questioning is a nonaccusatory interview technique used as a part of a normal audit. It operates on the theory that employees‰?? attitudes are a good indicator of potential problems, and that one of the most effective ways to deal with fraud is to ask about itSee page(s) 4.718 in the Fraud Examiner's Manual

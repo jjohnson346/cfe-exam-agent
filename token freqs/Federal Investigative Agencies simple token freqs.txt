@@ -1,0 +1,24 @@
+Token                          Frequency
+-----------------------------  ---------
+united                                 1
+cases                                  1
+have                                   1
+investigative                          3
+agencies                               3
+states                                 1
+the                                    3
+jurisdiction                           1
+in                                     1
+of                                     1
+over                                   1
+are                                    1
+federal                                2
+crime                                  1
+primary                                1
+below                                  1
+several                                1
+discussed                              1
+some                                   1
+white-collar                           1
+
+Totals:                     20        27

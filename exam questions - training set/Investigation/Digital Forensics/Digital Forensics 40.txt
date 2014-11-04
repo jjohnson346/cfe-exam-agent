@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Unfortunately for computer forensic examiners, the Microsoft Windows operating system captures very little information about the computer user.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The increased sophistication of Windows allows the computer system to store more information about how people use their computers. The forensic examiner will be able to uncover a large amount of data that relates to the use of a computer, what is or has been stored on it. and the details about the user.See page(s) 3.704 in the Fraud Examiner's Manual

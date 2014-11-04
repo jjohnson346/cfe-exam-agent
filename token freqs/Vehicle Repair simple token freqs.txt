@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+body                                   1
+shop                                   1
+sometimes                              1
+vehicle                                3
+parts                                  2
+actually                               1
+used                                   1
+collusion                              1
+of                                     1
+were                                   1
+scheme                                 1
+when                                   1
+on                                     1
+repair                                 2
+between                                1
+involves                               2
+a                                      1
+the                                    4
+replaced                               1
+in                                     1
+adjuster                               1
+and                                    1
+billing                                1
+new                                    1
+this                                   2
+
+Totals:                     25        34

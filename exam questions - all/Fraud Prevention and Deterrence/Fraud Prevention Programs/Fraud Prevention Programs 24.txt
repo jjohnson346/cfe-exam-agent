@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=If an action is legal it is also ethically correct.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A common fallacy in discussions about ethics is "If it’s legal, it’s ethical." A common defense to charges of unethical behavior is to invoke the law. This legalistic approach to ethics mistakenly implies that actions that are not explicitly prohibited by the law are ethical. The main error in this approach is that legal standards do not establish ethical principles. Although abiding by the law is a part of ethical behavior, laws themselves do not describe how an ethical person should behave. One can be dishonest, unprincipled, untrustworthy, unfair, and uncaring without breaking the law.See page(s) 4.733 in the Fraud Examiner's Manual

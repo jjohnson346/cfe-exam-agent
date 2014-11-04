@@ -1,0 +1,631 @@
+2011 Fraud Examiners Manual/Law/BASIC PRINCIPLES OF EVIDENCE/Privileges
+
+
+:
+
+
+Law
+
+
+:
+
+
+Evidence
+
+
+:
+
+
+Privileges 
+ 
+Introduction 
+There are certain evidentiary privileges that protect certain types of evidence from being 
+discovered or produced. Invoking a privilege for a piece of testimony or other evidence in a 
+legal encounter keeps the material outside trial proceedings. If a privilege applies, the court 
+and its petitioners are denied access to the privileged information, and judges and juries must 
+disregard any evidence they do actually hear if it is deemed privileged afterward.  
+ 
+The most important privileges are discussed below. 
+ 
+Attorney-Client Privilege 
+The attorney-client privilege precludes disclosure of communications between an attorney 
+and client, but only if the following conditions are met: 
+• The client retained the attorney 
+• To provide legal advice 
+• And thereafter communicated with the attorney on a confidential basis, and 
+• The privilege has not been waived 
+ 
+The attorney-client privilege applies to individuals as well as corporations or other business 
+entities. In the context of an investigation of a company, communications generally will be 
+protected under the attorney-client privilege if the following elements are present: 
+• The communications were made by corporate employees to counsel. 
+• The communications were made at the direction of corporate superiors in order for the 
+company to obtain legal advice from counsel. 
+• The employees were aware that the communications were being made in order for the 
+company to obtain legal advice. 
+• The information needed was not available from upper management. 
+• The communications concerned matters within the scope of the employees’ corporate 
+duties. 
+  
+Basic Principles of Evidence  Law 
+2.726  2011 Fraud Examiners Manual  
+• The communications were confidential when made and were kept confidential by the 
+company. 
+ 
+A general counsel’s participation in an investigation conducted by management does not 
+automatically create an attorney-client privilege. The key element is that the attorney (whether 
+in-house counsel or outside counsel) is conducting the investigation for the purpose of 
+providing legal advice to the company. The privilege generally extends to information 
+gathered by investigators if the investigator is acting at the direction of the attorney. 
+ 
+The attorney-client privilege prevents disclosure of the communications—the letters, memos, 
+or contents of telephone calls—b etween the attorney and client, not of the underlying facts 
+or documentary evidence in the case. A client may not refuse to produce documents or other 
+relevant evidence merely because such evidence was previously given to the attorney. 
+ 
+Similarly, the attorney-client privilege does not prevent disclosure of communications that 
+relate to business rather than legal advice. Corporate counsel is often consulted to give advice 
+on matters related to business conduct rather than legal issues. Such communications would 
+be discoverable. 
+ 
+Finally, the attorney-client privilege may not be asserted if the communication involved the 
+attempted or actual commission of a present crime or fraud. The attorney does not have to be 
+a participant in the fraud for the waiver to apply. 
+ 
+Waiver 
+Special care should be taken to ensure that the attorney-client privilege is not waived 
+inadvertently by giving documents or communicating information to anyone outside the 
+investigation team, including members of law enforcement. If information gathered during an 
+investigation is shared with law enforcement, then the privilege may be waived not only as to 
+the information given, but also to any other information relating to the same subject matter.  
+ 
+For example, if an investigator submits a copy of his report to the prosecutor who initiates 
+criminal proceedings based on the findings in the report, the criminal defendant may be able 
+to require the investigator to provide all the documents he used in writing the report. In such 
+an instance, the investigator may be considered to have waived the privilege. Likewise, if law 
+enforcement requests the results of an investigation or information gathered during an 
+investigation, the attorney should be consulted before turning over the information. Some 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.727 
+courts have held that the privilege is not waived if a company is subpoenaed to produce the 
+information. 
+ 
+Inadvertent Waiver 
+Moreover, some courts have held that inadvertent disclosure of a single privileged document, 
+including digital documents, waives the privilege as to all documents concerning the same 
+subject matter. For this reason, special care must also be taken to avoid inadvertent disclosure 
+from the use of electronic communications, including e-mail, cell phones, faxes, text 
+messages, instant messages, etc. It is clear that the attorney-client privilege extends to 
+electronic communications, and it is also clear that a matter voluntarily communicated to a 
+third-party who is not an agent of your counsel is not confidential and, therefore, not 
+privileged. Thus, when a party chooses to use a form of electronic communication, which is 
+vulnerable to interception and inadvertent disclosure, you run the risk that your messages 
+might be intercepted by, or disclosed to, an unintended third-party.  
+ 
+To illustrate how easily inadvertent disclosure of electronic communications may occur, 
+consider a few ways that an e-mail may unwittingly end up in the hands of an unintended 
+third-party. E-mails may be forwarded to additional unintended employees, indicating a lack 
+of confidential subject matter; they may be distributed to a large number of persons, 
+suggesting a lack of confidentiality; or the sender could mistakenly hit the wrong key on the 
+keyboard and send the e-mail to the wrong recipient. Therefore, fraud examiners must be 
+concerned about the risks of inadvertent disclosure of electronic communications and should 
+take cautionary measures to preserve the attorney-client privilege. 
+ 
+Unfortunately, fear over the consequences of subject-matter waiver has led to dramatic 
+litigation cost increases in today’s digital environment, where reviewing tens, hundreds, and 
+even thousands of gigabytes of information for privilege is time consuming and expensive.  
+ 
+Federal Rule of Evidence 502 
+In an effort to protect against inadvertent waiver of the attorney-client privilege or the work 
+product protection, President Bush signed into law S. 2450, a bill adding Evidence Rule 502 
+to the Federal Rules of Evidence. The legislation resolves conflict between courts throughout 
+the country on whether an inadvertent production of privileged material results in waiver. 
+Simply stated, under Rule 502, an inadvertent disclosure of a privileged communication can 
+no longer waive protection for all documents concerning the same subject matter. 
+ 
+Basic Principles of Evidence  Law 
+2.728  2011 Fraud Examiners Manual  
+Among other things, Rule 502 provides the following protections: 
+• If disclosure is made, then the privilege is waived to any other undisclosed information 
+only if (1) the waiver is intentional; (2) the other information relates to the same subject 
+matter; and (3) “fairness” requires further disclosure (Rule 502(a)).  
+• If disclosure is inadvertent, it does not result in waiver when the privilege holder “took 
+reasonable steps to prevent disclosure” and “promptly took reasonable steps to rectify the 
+error” (Rule 502(b)).  
+• If the disclosure was made in a state court proceeding, the disclosure does not waive 
+protection in a federal proceeding if one of two conditions is met: (1) the disclosure 
+would not have been a waiver under Rule 502; or (2) the disclosure is not a waiver under 
+state law (Rule 502(c)).  
+ 
+The McNulty Memorandum and the DOJ Guidelines 
+On December 12, 2006, the Department of Justice (DOJ) issued guidelines (in the form of 
+the McNulty Memorandum) for federal investigation and prosecution of business 
+organizations. The McNulty Memorandum, which addressed the practice of federal 
+prosecutors investigating and charging business organization misconduct, revised the DOJ’s 
+prior guidance outlined in the much maligned Thompson Memorandum, which provided that 
+federal prosecutors could seek waiver of the attorney-client privileges and attorney work 
+product protections as an element of a company’s cooperation. Specifically, the McNulty 
+Memorandum provided specific criteria that prosecutors were required to consider and 
+procedures they were required to follow before seeking waiver of privileges or work product 
+protection. 
+ 
+On August 28, 2008, the Department of Justice (DOJ) issued guidelines, which revised the 
+McNulty Memorandum, on how federal prosecutors investigate, charge, and prosecute 
+corporate crimes. Unlike the McNulty Memorandum, the guidelines are a part of the U.S. 
+attorney’s manual, which provides internal DOJ guidance but does not create any enforceable 
+law. 
+ 
+In an effort to stop congressional action, such that proposed by S. 445, the guidelines bar 
+prosecutors from judging corporate cooperation for leniency on whether an entity is willing 
+to waive the attorney-client privilege or work product protection. The guidelines also state 
+that prosecutors can no longer seek disclosure of information that is either privileged or 
+protected work product. In addition, the guidelines provide that when evaluating a 
+corporation’s cooperation, prosecutors may no longer consider whether a company is 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.729 
+advancing legal fees for its employees, whether a corporation has sanctioned or retained 
+culpable employees, or whether a corporation has entered into joint defense agreements.  
+ 
+Even though most observers agree that the guidelines are a significant improvement over the 
+McNulty Memorandum, many contend that comprehensive legislation is still needed to make 
+the DOJ’s reforms permanent and prevent a relapse in department policy, as well as to bar 
+similar waiver policies adopted by other federal agencies such as the Securities Exchange 
+Commission and the Internal Revenue Service. For this reason, the DOJ’s guidelines may 
+stop interested parties from supporting the enactment of legislation that would further 
+protect corporations and their employees from government-coerced waiver. 
+ 
+Selective Waiver 
+Under the selective waiver doctrine, a corporation seeking to cooperate with a government 
+investigation, pursuant to a confidentiality agreement, can disclose material protected by the 
+attorney-client privilege to the government without waiving those protections as to 
+nongovernmental parties, such as private plaintiffs. But it should be noted that most federal 
+circuit courts have rejected the selective waiver doctrine. In addition, Rule 502 of the Federal 
+Rules of Evidence does not explicitly acknowledge selective waiver, but it does not explicitly 
+eliminate selective waiver as a viable doctrine.  
+ 
+The Attorney Work Product Doctrine 
+Under Rule 26(b)(3) of the Federal Rules of Civil Procedure and under comparable state 
+rules, documents and tangible things that are prepared in anticipation of litigation are 
+protected by the attorney’s work product doctrine or privilege. The privilege is conditional in part: 
+The opposing party may obtain access to otherwise privileged investigative documents and 
+things through pre-trial discovery if it can show substantial need  for the protected information 
+and that the information cannot be obtained from another source. However, the attorney’s 
+mental impressions, opinions, and strategies concerning the litigation are absolutely privileged 
+and cannot be discovered even with a showing of substantial need. The privilege extends to not 
+only information and documents prepared by a party or the party’s attorneys, but also by the 
+consultants and examiners hired by the attorneys. For instance, communications with the 
+attorney and any work or analysis done by an expert with whom the attorney has consulted is 
+privileged as work product, although that privilege will be waived if the expert is called to 
+testify as an expert witness at trial.  
+ 
+Work product protection applies only to documents and things prepared  in anticipation of 
+Basic Principles of Evidence  Law 
+2.730  2011 Fraud Examiners Manual  
+litigation or for trial. Thus, documents and tangible things prepared in the course of an in-house 
+or other pre-litigation investigation, even if at the direction of an attorney, may not be 
+privileged if they were not prepared in anticipation of litigation. Just because there is a possibility 
+of future litigation does not mean that the investigation is in anticipation thereof. Litigation 
+must be actually planned and the work for which protection is sought must have been 
+undertaken for the specific purpose of preparing for that litigation. But if the work to be 
+protected was done in anticipation of litigation, then it does not matter in most jurisdictions that 
+no lawsuit has been filed yet. 
+ 
+The privilege protects documents and things prepared in anticipation of litigation from 
+compelled disclosure. Nevertheless, it does not render the facts themselves confidential, 
+privileged, or non-discoverable. Thus, while reports, interview notes, and transcripts might 
+not be discoverable under the privilege, the facts learned may have to be provided in response 
+to properly phrased discovery requests. Similarly, the privilege does not prevent discovery of 
+the identity of witnesses and the existence of interview notes, tapes, or transcripts. The extent 
+to which interview notes, transcripts, and other factual reports prepared in anticipation of 
+litigation are actually protected from discovery by a party opponent may vary between 
+jurisdictions and may depend on the facts and circumstances of a given case. 
+ 
+Waiver of Work Product Protection 
+Like the attorney-client privilege, work product protection can be waived. Moreover, the 
+Federal Rule of Evidence 502 expressly applies to disclosure of a communication or 
+information covered by work product protection. Therefore, the examiner should abide by 
+the same rules governing disclosure of materials protected by the attorney-client privilege.  
+ 
+Work Product Protection and Outside Auditors 
+In late 2004, a federal district judge in New York, under the work product doctrine, protected 
+the results of an internal investigation of a large company given to an outside auditor (Merrill 
+Lynch & Co., Inc. v. Allegheny Energy, Inc., 2004 U.S. Dist. LEXIS 21543). However, courts 
+continue to disagree as to whether such disclosure waives work product protection under the 
+Federal Rules of Evidence. 
+  
+Before disclosing work product to an outside auditor, a company should determine whether 
+the outside auditor is an “adversary.” Some courts consider auditors to be the “watchdogs” of 
+companies, and therefore inherently adversary to their corporate clients. Certainly, the role of 
+outside auditors is to independently ensure the accuracy of a company’s financials, find 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.731 
+inaccuracies, and detect fraud. However, the court in Merrill Lynch distinguished this kind of 
+adversary from a “litigation adversary.” A company’s auditor is not necessarily a “litigation 
+adversary” (which is required to invalidate the work product privilege). Rather, “[a] business 
+and its auditor can and should be aligned insofar as they both seek to prevent, detect, and 
+root out corporate fraud.”  
+ 
+The court also emphasized that a blanket waiver of privilege in this kind of situation would 
+likely discourage ethical disclosure and conduct by companies. Thus, the trend in litigation 
+seems to review the facts on a case-by-case basis to determine whether an auditor and 
+company share common interests and therefore are non-adversarial.  
+ 
+The following principles should aid companies in determining whether they should provide 
+work product to outside auditors: (1) ensure a common interest between the company and 
+the outside auditor; (2) only disclose information necessary to help the auditor assess 
+sufficiency of the company’s controls and the accuracy of the company’s audit/accounting 
+procedures; and (3) when disclosing informati on, always include a confidentiality agreement 
+acknowledging that the documents were prepared by counsel and therefore privileged, as well 
+as a covenant that the outside auditor is to maintain the strictest confidence of the 
+documents.  
+ 
+Self-Evaluation Privilege 
+The self-evaluation privilege (also referred to as the self-critical privilege) may provide some 
+protection for the investigative work product. This privilege is based on the need to 
+encourage voluntary internal reviews and compliance programs. It applies if an organization 
+can demonstrate that it is attempting to police itself in an area of public interest, and that 
+disclosure of the work product would prejudice such efforts. The privilege is a relatively new 
+concept and is not recognized in all jurisdictions. It is much weaker than the attorney-client 
+and attorney work product privileges. 
+ 
+Marital Privilege 
+Additionally, the marital privilege protects communications between husbands and wives. 
+There are two forms of the marital or spousal privilege: (1) the confidential communications 
+privilege, enabling either spouse to prevent the other from testifying regarding a 
+communication during marriage between the two that was intended to be in confidence, and 
+(2) the adverse testimony privilege, protecting spouses from being compelled to testify against each 
+other while they are married. Usually, the confidential communications privilege continues 
+Basic Principles of Evidence  Law 
+2.732  2011 Fraud Examiners Manual  
+after the termination of the marriage; the adverse testimony privilege does not.  
+ 
+There is no privilege that permits a person not to testify against other family members, 
+although, as a matter of policy, many law enforcement agencies will not compel testimony 
+from immediate family members. 
+ 
+Law Enforcement Privilege to Withhold the Identity of an Informant 
+Law enforcement agencies may legitimately withhold the identity of an informant unless 
+disclosure is necessary to ensure that the defendant receives a fair trial. In such circumstances, 
+the prosecution has to decide whether to forego prosecution or disclose the identity of the 
+informant. In the private sector, there is no equivalent privilege. Certified Fraud Examiners or 
+others who are investigating on behalf of a private client may be compelled by court order to 
+disclose the identity of an informant or any other witness. This possibility should be disclosed 
+to potential witnesses who may request confidentiality. See the Investigation Section of the 
+Fraud Examiners Manual for more information. 
+ 
+Accountant-Client Privilege 
+A few states have a weak accountant-client privilege that allows an accountant to resist 
+production of a client’s work papers or documents. No such privilege is recognized in federal 
+court, and the state privileges may be overcome by a showing of need or by the service of a 
+subpoena.  
+ 
+There is, however, a Federally Authorized Tax Practitioner Privilege under section 7525 of 
+the Internal Revenue Code. This privilege is a evidentiary privilege that provides limited 
+protection in federal tax law.  It applies only in situations where a CPA is providing tax advice  
+in noncriminal proceedings before the IRS or before a federal court.  
+ 
+Nevertheless, as discussed above, in federal proceedings, communications between a client 
+and a third-party, such as an accountant, may be protected under the attorney-client privilege 
+or the attorney work product doctrine.  
+ 
+The attorney-client privilege extends to accountants if the attorney hired the accountant to 
+assist in rendering legal advice. Additionally, the privilege extends to an accountant’s 
+documents, which were made at the attorney’s request, used to render legal advice. This 
+privilege was clarified in U.S. v. Cote, which concluded that there is no protection for 
+accounting services if no legal advice was sought. In Cote, the client engaged the accountant 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.733 
+before retaining the lawyer, the client and accountant had a long-standing professional 
+relationship, and the attorney did not control or supervise the accountant’s efforts or work 
+product.  
+ 
+In addition, the attorney work product protection extends to information and documents 
+prepared by the consultants and examiners hired by the attorneys, including accountants. 
+However, any protection will be waived if the accountant is called to testify as an expert 
+witness at trial.  
+ 
+In cases where accountants serve as expert witnesses, the work product doctrine may apply. 
+Protection under the work product doctrine generally depends on whether the accountant 
+serves as a testifying expert or a non-testifying (consulting) expert. Nothing created by the 
+testifying expert is privileged from discovery. Conversely, the rules of discovery generally 
+protect communications between a non-testifying expert, the attorney, and the party from 
+disclosure to adversaries. However, the protection against disclosure of communications with 
+non-testifying experts can be lost, and this commonly occurs when the non-testifying expert’s 
+communications are released to others, particularly to testifying experts. This topic is 
+discussed in further detail below.  
+ 
+There are a number of other privileges that are less likely to be asserted in fraud actions, 
+including the priest-penitent  and physician-patient  privileges. 
+ 
+ 
+  
+Law  Testifying as an Expert Witness  
+2011 Fraud Examiners Manual    2.801 
+
+
+
+:
+
+
+privileg
+introduct
+there ar certain evidentiari privileg that protect certain type of evid from be
+discov or produc invok a privileg for a piec of testimoni or other evid in a
+legal encount keep the materi outsid trial proceed if a privileg appli the court
+and it petition ar deni access to the privileg inform and judg and juri must
+disregard ani evid thei do actual hear if it is deem privileg afterward
+the most import privileg ar discuss below
+attorneycli privileg
+the attorneycli privileg preclud disclosur of commun between an attornei
+and client but onli if the follow condit ar met
+the client retain the attornei
+to provid legal advic
+and thereaft commun with the attornei on a confidenti basi and
+the privileg ha not been waiv
+the attorneycli privileg appli to individu as well as corpor or other busi
+entiti in the context of an investig of a compani commun gener will be
+protect under the attorneycli privileg if the follow element ar present
+the commun were made by corpor employe to counsel
+the commun were made at the direct of corpor superior in order for the
+compani to obtain legal advic from counsel
+the employe were awar that the commun were be made in order for the
+compani to obtain legal advic
+the inform need wa not avail from upper manag
+the commun concern matter within the scope of the employe corpor
+duti
+basic principl of evid law
+2726 2011 fraud examin manual
+the commun were confidenti when made and were kept confidenti by the
+compani
+a gener counsel particip in an investig conduct by manag doe not
+automat creat an attorneycli privileg the kei element is that the attornei whether
+inhous counsel or outsid counsel is conduct the investig for the purpos of
+provid legal advic to the compani the privileg gener extend to inform
+gather by investig if the investig is act at the direct of the attornei
+the attorneycli privileg prevent disclosur of the communicationsth letter memo
+or content of telephon callsb etween the attornei and client not of the underli fact
+or documentari evid in the case a client mai not refus to produc document or other
+relev evid mere becaus such evid wa previous given to the attornei
+similarli the attorneycli privileg doe not prevent disclosur of commun that
+relat to busi rather than legal advic corpor counsel is often consult to give advic
+on matter relat to busi conduct rather than legal issu such commun would
+be discover
+final the attorneycli privileg mai not be assert if the commun involv the
+attempt or actual commiss of a present crime or fraud the attornei doe not have to be
+a particip in the fraud for the waiver to appli
+waiver
+special care should be taken to ensur that the attorneycli privileg is not waiv
+inadvert by give document or commun inform to anyon outsid the
+investig team includ member of law enforc if inform gather dure an
+investig is share with law enforc then the privileg mai be waiv not onli as to
+the inform given but also to ani other inform relat to the same subject matter
+for exampl if an investig submit a copi of hi report to the prosecutor who initi
+crimin proceed base on the find in the report the crimin defend mai be abl
+to requir the investig to provid all the document he us in write the report in such
+an instanc the investig mai be consid to have waiv the privileg likewis if law
+enforc request the result of an investig or inform gather dure an
+investig the attornei should be consult befor turn over the inform some
+law basic principl of evid
+2011 fraud examin manual 2727
+court have held that the privileg is not waiv if a compani is subpoena to produc the
+inform
+inadvert waiver
+moreov some court have held that inadvert disclosur of a singl privileg document
+includ digit document waiv the privileg as to all document concern the same
+subject matter for thi reason special care must also be taken to avoid inadvert disclosur
+from the us of electron commun includ email cell phone fax text
+messag instant messag etc it is clear that the attorneycli privileg extend to
+electron commun and it is also clear that a matter voluntarili commun to a
+thirdparti who is not an agent of your counsel is not confidenti and therefor not
+privileg thu when a parti choos to us a form of electron commun which is
+vulner to intercept and inadvert disclosur you run the risk that your messag
+might be intercept by or disclos to an unintend thirdparti
+to illustr how easili inadvert disclosur of electron commun mai occur
+consid a few wai that an email mai unwittingli end up in the hand of an unintend
+thirdparti email mai be forward to addit unintend employe indic a lack
+of confidenti subject matter thei mai be distribut to a larg number of person
+suggest a lack of confidenti or the sender could mistakenli hit the wrong kei on the
+keyboard and send the email to the wrong recipi therefor fraud examin must be
+concern about the risk of inadvert disclosur of electron commun and should
+take cautionari measur to preserv the attorneycli privileg
+unfortun fear over the consequ of subjectmatt waiver ha led to dramat
+litig cost increas in todai digit environ where review ten hundr and
+even thousand of gigabyt of inform for privileg is time consum and expens
+feder rule of evid 502
+in an effort to protect against inadvert waiver of the attorneycli privileg or the work
+product protect presid bush sign into law s 2450 a bill ad evid rule 502
+to the feder rule of evid the legisl resolv conflict between court throughout
+the countri on whether an inadvert product of privileg materi result in waiver
+simpli state under rule 502 an inadvert disclosur of a privileg commun can
+no longer waiv protect for all document concern the same subject matter
+basic principl of evid law
+2728 2011 fraud examin manual
+among other thing rule 502 provid the follow protect
+if disclosur is made then the privileg is waiv to ani other undisclos inform
+onli if 1 the waiver is intent 2 the other inform relat to the same subject
+matter and 3 fair requir further disclosur rule 502a
+if disclosur is inadvert it doe not result in waiver when the privileg holder took
+reason step to prevent disclosur and promptli took reason step to rectifi the
+error rule 502b
+if the disclosur wa made in a state court proceed the disclosur doe not waiv
+protect in a feder proceed if on of two condit is met 1 the disclosur
+would not have been a waiver under rule 502 or 2 the disclosur is not a waiver under
+state law rule 502c
+the mcnulti memorandum and the doj guidelin
+on decemb 12 2006 the depart of justic doj issu guidelin in the form of
+the mcnulti memorandum for feder investig and prosecut of busi
+organ the mcnulti memorandum which address the practic of feder
+prosecutor investig and charg busi organ misconduct revis the doj
+prior guidanc outlin in the much malign thompson memorandum which provid that
+feder prosecutor could seek waiver of the attorneycli privileg and attornei work
+product protect as an element of a compani cooper specif the mcnulti
+memorandum provid specif criteria that prosecutor were requir to consid and
+procedur thei were requir to follow befor seek waiver of privileg or work product
+protect
+on august 28 2008 the depart of justic doj issu guidelin which revis the
+mcnulti memorandum on how feder prosecutor investig charg and prosecut
+corpor crime unlik the mcnulti memorandum the guidelin ar a part of the us
+attornei manual which provid intern doj guidanc but doe not creat ani enforc
+law
+in an effort to stop congression action such that propos by s 445 the guidelin bar
+prosecutor from judg corpor cooper for lenienc on whether an entiti is will
+to waiv the attorneycli privileg or work product protect the guidelin also state
+that prosecutor can no longer seek disclosur of inform that is either privileg or
+protect work product in addit the guidelin provid that when evalu a
+corpor cooper prosecutor mai no longer consid whether a compani is
+law basic principl of evid
+2011 fraud examin manual 2729
+advanc legal fee for it employe whether a corpor ha sanction or retain
+culpabl employe or whether a corpor ha enter into joint defens agreement
+even though most observ agre that the guidelin ar a signific improv over the
+mcnulti memorandum mani contend that comprehens legisl is still need to make
+the doj reform perman and prevent a relaps in depart polici as well as to bar
+similar waiver polici adopt by other feder agenc such as the secur exchang
+commiss and the intern revenu servic for thi reason the doj guidelin mai
+stop interest parti from support the enact of legisl that would further
+protect corpor and their employe from governmentcoerc waiver
+select waiver
+under the select waiver doctrin a corpor seek to cooper with a govern
+investig pursuant to a confidenti agreement can disclos materi protect by the
+attorneycli privileg to the govern without waiv those protect as to
+nongovernment parti such as privat plaintiff but it should be note that most feder
+circuit court have reject the select waiver doctrin in addit rule 502 of the feder
+rule of evid doe not explicitli acknowledg select waiver but it doe not explicitli
+elimin select waiver as a viabl doctrin
+the attornei work product doctrin
+under rule 26b3 of the feder rule of civil procedur and under compar state
+rule document and tangibl thing that ar prepar in anticip of litig ar
+protect by the attornei work product doctrin or privileg the privileg is condit in part
+the oppos parti mai obtain access to otherwis privileg investig document and
+thing through pretrial discoveri if it can show substanti need for the protect inform
+and that the inform cannot be obtain from anoth sourc howev the attornei
+mental impress opinion and strategi concern the litig ar absolut privileg
+and cannot be discov even with a show of substanti need the privileg extend to not
+onli inform and document prepar by a parti or the parti attornei but also by the
+consult and examin hire by the attornei for instanc commun with the
+attornei and ani work or analysi done by an expert with whom the attornei ha consult is
+privileg as work product although that privileg will be waiv if the expert is call to
+testifi as an expert wit at trial
+work product protect appli onli to document and thing prepar in anticip of
+basic principl of evid law
+2730 2011 fraud examin manual
+litig or for trial thu document and tangibl thing prepar in the cours of an inhous
+or other prelitig investig even if at the direct of an attornei mai not be
+privileg if thei were not prepar in anticip of litig just becaus there is a possibl
+of futur litig doe not mean that the investig is in anticip thereof litig
+must be actual plan and the work for which protect is sought must have been
+undertaken for the specif purpos of prepar for that litig but if the work to be
+protect wa done in anticip of litig then it doe not matter in most jurisdict that
+no lawsuit ha been file yet
+the privileg protect document and thing prepar in anticip of litig from
+compel disclosur nevertheless it doe not render the fact themselv confidenti
+privileg or nondiscover thu while report interview note and transcript might
+not be discover under the privileg the fact learn mai have to be provid in respons
+to properli phrase discoveri request similarli the privileg doe not prevent discoveri of
+the ident of wit and the exist of interview note tape or transcript the extent
+to which interview note transcript and other factual report prepar in anticip of
+litig ar actual protect from discoveri by a parti oppon mai vari between
+jurisdict and mai depend on the fact and circumst of a given case
+waiver of work product protect
+like the attorneycli privileg work product protect can be waiv moreov the
+feder rule of evid 502 expressli appli to disclosur of a commun or
+inform cover by work product protect therefor the examin should abid by
+the same rule govern disclosur of materi protect by the attorneycli privileg
+work product protect and outsid auditor
+in late 2004 a feder district judg in new york under the work product doctrin protect
+the result of an intern investig of a larg compani given to an outsid auditor merril
+lynch co inc v allegheni energi inc 2004 us dist lexi 21543 howev court
+continu to disagre as to whether such disclosur waiv work product protect under the
+feder rule of evid
+befor disclos work product to an outsid auditor a compani should determin whether
+the outsid auditor is an adversari some court consid auditor to be the watchdog of
+compani and therefor inher adversari to their corpor client certainli the role of
+outsid auditor is to independ ensur the accuraci of a compani financi find
+law basic principl of evid
+2011 fraud examin manual 2731
+inaccuraci and detect fraud howev the court in merril lynch distinguish thi kind of
+adversari from a litig adversari a compani auditor is not necessarili a litig
+adversari which is requir to invalid the work product privileg rather a busi
+and it auditor can and should be align insofar as thei both seek to prevent detect and
+root out corpor fraud
+the court also emphas that a blanket waiver of privileg in thi kind of situat would
+like discourag ethic disclosur and conduct by compani thu the trend in litig
+seem to review the fact on a casebycas basi to determin whether an auditor and
+compani share common interest and therefor ar nonadversari
+the follow principl should aid compani in determin whether thei should provid
+work product to outsid auditor 1 ensur a common interest between the compani and
+the outsid auditor 2 onli disclos inform necessari to help the auditor assess
+suffici of the compani control and the accuraci of the compani auditaccount
+procedur and 3 when disclos informati on alwai includ a confidenti agreement
+acknowledg that the document were prepar by counsel and therefor privileg as well
+as a coven that the outsid auditor is to maintain the strictest confid of the
+document
+selfevalu privileg
+the selfevalu privileg also refer to as the selfcrit privileg mai provid some
+protect for the investig work product thi privileg is base on the need to
+encourag voluntari intern review and complianc program it appli if an organ
+can demonstr that it is attempt to polic itself in an area of public interest and that
+disclosur of the work product would prejudic such effort the privileg is a rel new
+concept and is not recogn in all jurisdict it is much weaker than the attorneycli
+and attornei work product privileg
+marit privileg
+addition the marit privileg protect commun between husband and wive
+there ar two form of the marit or spousal privileg 1 the confidenti commun
+privileg enabl either spous to prevent the other from testifi regard a
+commun dure marriag between the two that wa intend to be in confid and
+2 the advers testimoni privileg protect spous from be compel to testifi against each
+other while thei ar marri usual the confidenti commun privileg continu
+basic principl of evid law
+2732 2011 fraud examin manual
+after the termin of the marriag the advers testimoni privileg doe not
+there is no privileg that permit a person not to testifi against other famili member
+although as a matter of polici mani law enforc agenc will not compel testimoni
+from immedi famili member
+law enforc privileg to withhold the ident of an inform
+law enforc agenc mai legitim withhold the ident of an inform unless
+disclosur is necessari to ensur that the defend receiv a fair trial in such circumst
+the prosecut ha to decid whether to forego prosecut or disclos the ident of the
+inform in the privat sector there is no equival privileg certifi fraud examin or
+other who ar investig on behalf of a privat client mai be compel by court order to
+disclos the ident of an inform or ani other wit thi possibl should be disclos
+to potenti wit who mai request confidenti see the investig section of the
+fraud examin manual for more inform
+accountantcli privileg
+a few state have a weak accountantcli privileg that allow an account to resist
+product of a client work paper or document no such privileg is recogn in feder
+court and the state privileg mai be overcom by a show of need or by the servic of a
+subpoena
+there is howev a feder author tax practition privileg under section 7525 of
+the intern revenu code thi privileg is a evidentiari privileg that provid limit
+protect in feder tax law it appli onli in situat where a cpa is provid tax advic
+in noncrimin proceed befor the ir or befor a feder court
+nevertheless as discuss abov in feder proceed commun between a client
+and a thirdparti such as an account mai be protect under the attorneycli privileg
+or the attornei work product doctrin
+the attorneycli privileg extend to account if the attornei hire the account to
+assist in render legal advic addition the privileg extend to an account
+document which were made at the attornei request us to render legal advic thi
+privileg wa clarifi in us v cote which conclud that there is no protect for
+account servic if no legal advic wa sought in cote the client engag the account
+law basic principl of evid
+2011 fraud examin manual 2733
+befor retain the lawyer the client and account had a longstand profession
+relationship and the attornei did not control or supervis the account effort or work
+product
+in addit the attornei work product protect extend to inform and document
+prepar by the consult and examin hire by the attornei includ account
+howev ani protect will be waiv if the account is call to testifi as an expert
+wit at trial
+in case where account serv as expert wit the work product doctrin mai appli
+protect under the work product doctrin gener depend on whether the account
+serv as a testifi expert or a nontestifi consult expert noth creat by the
+testifi expert is privileg from discoveri convers the rule of discoveri gener
+protect commun between a nontestifi expert the attornei and the parti from
+disclosur to adversari howev the protect against disclosur of commun with
+nontestifi expert can be lost and thi commonli occur when the nontestifi expert
+commun ar releas to other particularli to testifi expert thi topic is
+discuss in further detail below
+there ar a number of other privileg that ar less like to be assert in fraud action
+includ the priestpenit and physicianpati privileg
+law testifi as an expert wit
+2011 fraud examin manual 2801

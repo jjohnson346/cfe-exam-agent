@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=When deciding on techniques to use as part of a fraud risk assessment, the assessment team should consider what methods are already commonly and effectively used throughout the organization.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=There are many ways to go about conducting the fraud risk assessment. Picking a method or combination of methods that is culturally right for the organization will help to ensure its success. The assessment team should also consider the best ways to gather candid, truthful information from people throughout all levels of the organization, starting by understanding what techniques are commonly and effectively used throughout the organization.See page(s) 4.809 in the Fraud Examiner's Manual

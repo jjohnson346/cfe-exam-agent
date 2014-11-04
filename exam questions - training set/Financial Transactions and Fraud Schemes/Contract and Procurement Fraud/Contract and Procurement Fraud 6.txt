@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=There are two basic schemes perpetrated during the performance phase of a contract. These two schemes are:
+
+Options=II and III | I and III | I and II | None of the above
+
+CorrectResponse=1
+
+Explanation=Contract performance activities include change orders; timely review of completed portions prior to sign-off and release of monies; and assessment of deliverables for compliance v/ith the terms of the contract, including quality control. There are two basic schemes perpetrated during the performance phase: product substitution and mischarges (accounting, material, and labor).

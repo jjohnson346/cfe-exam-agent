@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Bill wants to search for information about check fraud on the Internet using Google He enters the phrase "check+fraud" into his search engine. What result will this produce?
+
+Options=Sites in which the words "check" and "fraud" appear within three or more words of each other | Sites in which the words "check" and "fraud" appear next to each other | Sites in which the words "check" and "fraud" appear anywhere on the page, even if not next to each other | Sites in which the word "check" appears, but not the word "fraud"
+
+CorrectResponse=1
+
+Explanation=Boolean operators are symbols that help the search engine to better understand exactly what it is searching for. Putting the ‰??+‰?? symbol in "check+fraud,‰?? for example, will indicate to the search engine that it is to search only for pages that have the word "fraud" immediately following ‰??check."See page(s) 3.512 in the Fraud Examiner's Manual

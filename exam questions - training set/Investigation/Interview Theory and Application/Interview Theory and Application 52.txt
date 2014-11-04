@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=Which of the following is probably the most difficult part of the interview?
+
+Options=Introduction | Questioning | Closing | None of the above
+
+CorrectResponse=0
+
+Explanation=One of the most difficult aspects of an interview is getting started. Indeed, the introduction may be the hardest part. The interviewer and the respondent, in many instances, have not met before. The interviewer has a tall order: meet the person, state a reason for the interview, establish necessary rapport, and get the information. The introduction is accomplished through questions as opposed to statements. The questions allow the interviewer to assess feedback from the respondent. This is an important aspect of the introduction. If the respondent is reluctant to be interviewed, that fact will come out through the introductory questions.See page(s) 3.213 in the Fraud Examiner's Manual

@@ -1,0 +1,244 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/THEFT OF INTELLECTUAL PROPERTY/Technical Surveillance/Preliminary Search Procedures
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Theft of Intellectual Property
+
+
+:
+
+
+Preliminary Search Procedures 
+If an organization suspects that wiretapping has occurred, there are a number of preliminary 
+search procedures that the layperson can perform. This section is not designed to make the 
+reader an expert at counter-surveillance techniques; professionals who offer those services 
+can easily be located. However, it is quite feasible for an ordinary person to conduct a basic 
+search for wiretapping equipment. When conducting an inspection for electronic 
+surveillance equipment, be mindful of safety concerns. Never reach into electrical boxes or 
+outlets unless you are sure the power is off, and do not grasp bare wires unless you know 
+they are not live. 
+ 
+Theft of Intellectual Property  Financial Transactions   
+1.870                         2011 Fraud Examiners Manual  
+KNOW YOUR DEVICES 
+Wiretapping devices, for the most part, look like hobbyist electronic circuit boards. The 
+major difference is that they are much smaller than the circuit boards of the past. Satellite 
+tracking equipment is usually housed in small metal boxes about the size of a paperback 
+book. They require small antennae that have to face toward the sky.  
+ 
+INSPECTING TELEPHONES 
+If the mouthpieces or earpieces on telephone handsets have screw-off plastic covers, remove 
+them and make sure no transmitters or unusual looking components are attached to the 
+microphone condensers. Also examine the markings on the condenser unit. Do they match a 
+condenser from a similar telephone kept in a secure area? If the markings are significantly 
+different, have them checked by a representative from the telephone manufacturer. 
+ 
+If the cover on the handset is one solid piece of plastic, look at the two screws that hold the 
+plastic plate on. If the screws have scratches on them (e.g., from a screwdriver) remove the 
+screws and take the plate off. Examine the condensers for signs of tampering or for 
+miniature transmitters.  
+ 
+Examine the back or underside of the telephones. Look for unusual components taped or 
+held by a magnet to the back metal plate. Also look for unusual wires protruding from the 
+phone. (This means any wires other than the regular plastic sheathed cord that is found on 
+all telephones.) If these examinations are negative, then the telephone is probably secure.  
+ 
+If you still suspect the presence of a listening device, do not attempt to disassemble the main 
+part of the telephone. You may damage the unit. Instead, look at the screws holding down 
+the main body of the phone to the metal plate. If those screws show signs of tampering, 
+have someone from the manufacturer examine the unit. 
+ 
+It is also a good idea to inspect the wall box where the telephone attaches to the wall. 
+Carefully remove the cover and check for any electronic components inside. In a normal 
+wall box, you should only see wires and screw points where the wires are tied together. 
+Extraneous components could be electronic listening devices. If you are not sure whether 
+the item you have identified is actually a transmitter or microphone, contact a qualified 
+                                                          
+2 The Granite Island Group, a technical surveillance countermeasures firm, provides photographs of some 
+electronic surveillance equipment on its website. (www.tscm.com/whatistscm.html) 
+Financial Transactions  Theft of Intellectual Property 
+2011 Fraud Examiners Manual   1.871 
+countermeasures expert, the phone company, or a representative from the phone 
+manufacturer.  
+ 
+INTERFACE BOX 
+The interface box is a gray box typically located on the side of the building. If a business 
+operates in a multiple occupancy structure, the interface box may be located in a utility closet 
+close to the company’s offices. In order to ex amine the interface box, unscrew the side of 
+the box that is designed for customer access. Look inside with a flashlight. All wiring in the 
+box should look the same, using the colors red, blue, green, yellow, and black. You might see 
+some striped wires, but that is fine. There should also be a line coming into the side of the 
+box from the telephone company. What you should be looking for is a transmitter or some 
+form of unusual wiring that does not appear to come from the telephone company and does 
+not lead into your building or office. This could indicate a wiretap. 
+ 
+ABOVE THE CEILING 
+If an open space exists above the ceiling in your offices, access that area and look around 
+with a flashlight. Be on the lookout for everything from sophisticated transmitters to tape 
+recorders that are crudely hooked into telephone lines. If listening devices have been placed 
+in an attic or in a crawl space above the ceiling, they probably have not been elaborately 
+camouflaged. It should not be exceedingly difficult to spot surveillance equipment in these 
+areas.  
+ 
+It is a good idea to have the lights turned on in the room below while you search overhead. 
+If someone has drilled holes in the ceiling to insert a microphone, the light should shine 
+through the ceiling and you will be able to detect the holes. Surveillance personnel frequently 
+drill multiple holes before selecting just one as a listening spot or inserting a miniature video 
+camera.  
+ 
+OTHER PLACES TO SEARCH 
+Use a flashlight to look through the grill panels covering all air conditioning ducts for 
+transmitters or listening devices. Carefully inspect all electrical outlets by removing the cover 
+plates and looking inside with a flashlight. Examine any central utility closets for unusual 
+wiring and electronic devices. Look for signs of  debris on the floor under outlets or light 
+switches; this might indicate that someone has removed the wall plates to insert a listening 
+device. Any time ducts, outlet plates, light fixtures, or similar items have been searched and 
+replaced, their orientation and screw-head positions can be designated with ultra-violet 
+Theft of Intellectual Property  Financial Transactions   
+1.872                         2011 Fraud Examiners Manual  
+markers. By shining an ultra-violet light on the screws, it is easy to tell if the panels have 
+been removed. This technique makes it much easier to determine if someone has tampered 
+with those items since the last search.  
+ 
+Look under desks and tables in all office spaces  for electronic devices or wires that seem out 
+of place. Do not tear your office apart while conducting your search; feel your way around 
+and explore with your hands. Look under and behind couches and sofas. It is especially 
+important to closely examine furniture in areas where people are likely to sit and chat. The 
+tables and credenzas in meeting rooms should be checked on a regular basis.  
+ 
+Check any television sets, radios, lamps, telephones, computers, clocks, smoke detectors, or 
+sprinkler heads in the room. If any areas are served by cable TV, be sure to check out the 
+cable lines, converter box, line splitters, and connectors for anything that seems out of place. 
+Any electronic items and wiring that are not essential should be removed, as unused wiring 
+can be used for eavesdropping. 
+ 
+COMPUTERS 
+Always check the back of computers for monitoring devices taped to the back panel. 
+Examine all connections between the computer and the outside world: lines to printers, 
+network cables, lines to peripheral devices, or lines to monitors. Pay attention to any 
+connectors that have been placed between the computer and its external lines. These 
+connectors may look like they perform a legitimate function, but if the external line could 
+have been plugged directly into the computer, find out why the interface was inserted and 
+who put it there. 
+ 
+The area immediately around the computer should be checked for unusual wiring, electronic 
+boxes, or devices. Any closets or rooms dedicated to housing network equipment such as 
+hubs, routers, cabling rigs, or network monitoring gear needs close examination by a 
+qualified network technician to make sure no alien electronic devices are present.  
+ 
+
+
+
+:
+
+
+preliminari search procedur
+if an organ suspect that wiretap ha occur there ar a number of preliminari
+search procedur that the layperson can perform thi section is not design to make the
+reader an expert at countersurveil techniqu profession who offer those servic
+can easili be locat howev it is quit feasibl for an ordinari person to conduct a basic
+search for wiretap equip when conduct an inspect for electron
+surveil equip be mind of safeti concern never reach into electr box or
+outlet unless you ar sure the power is off and do not grasp bare wire unless you know
+thei ar not live
+theft of intellectu properti financi transact
+1870 2011 fraud examin manual
+know your devic
+wiretap devic for the most part look like hobbyist electron circuit board the
+major differ is that thei ar much smaller than the circuit board of the past satellit
+track equip is usual hous in small metal box about the size of a paperback
+book thei requir small antenna that have to face toward the sky
+inspect telephon
+if the mouthpiec or earpiec on telephon handset have screwoff plastic cover remov
+them and make sure no transmitt or unusu look compon ar attach to the
+microphon condens also examin the mark on the condens unit do thei match a
+condens from a similar telephon kept in a secur area if the mark ar significantli
+differ have them check by a repres from the telephon manufactur
+if the cover on the handset is on solid piec of plastic look at the two screw that hold the
+plastic plate on if the screw have scratch on them eg from a screwdriv remov the
+screw and take the plate off examin the condens for sign of tamper or for
+miniatur transmitt
+examin the back or undersid of the telephon look for unusu compon tape or
+held by a magnet to the back metal plate also look for unusu wire protrud from the
+phone thi mean ani wire other than the regular plastic sheath cord that is found on
+all telephon if these examin ar neg then the telephon is probabl secur
+if you still suspect the presenc of a listen devic do not attempt to disassembl the main
+part of the telephon you mai damag the unit instead look at the screw hold down
+the main bodi of the phone to the metal plate if those screw show sign of tamper
+have someon from the manufactur examin the unit
+it is also a good idea to inspect the wall box where the telephon attach to the wall
+carefulli remov the cover and check for ani electron compon insid in a normal
+wall box you should onli see wire and screw point where the wire ar ti togeth
+extran compon could be electron listen devic if you ar not sure whether
+the item you have identifi is actual a transmitt or microphon contact a qualifi
+2 the granit island group a technic surveil countermeasur firm provid photograph of some
+electron surveil equip on it websit wwwtscmcomwhatistscmhtml
+financi transact theft of intellectu properti
+2011 fraud examin manual 1871
+countermeasur expert the phone compani or a repres from the phone
+manufactur
+interfac box
+the interfac box is a grai box typic locat on the side of the build if a busi
+oper in a multipl occup structur the interfac box mai be locat in a util closet
+close to the compani offic in order to ex amin the interfac box unscrew the side of
+the box that is design for custom access look insid with a flashlight all wire in the
+box should look the same us the color red blue green yellow and black you might see
+some stripe wire but that is fine there should also be a line come into the side of the
+box from the telephon compani what you should be look for is a transmitt or some
+form of unusu wire that doe not appear to come from the telephon compani and doe
+not lead into your build or offic thi could indic a wiretap
+abov the ceil
+if an open space exist abov the ceil in your offic access that area and look around
+with a flashlight be on the lookout for everyth from sophist transmitt to tape
+record that ar crude hook into telephon line if listen devic have been place
+in an attic or in a crawl space abov the ceil thei probabl have not been elabor
+camouflag it should not be exceedingli difficult to spot surveil equip in these
+area
+it is a good idea to have the light turn on in the room below while you search overhead
+if someon ha drill hole in the ceil to insert a microphon the light should shine
+through the ceil and you will be abl to detect the hole surveil personnel frequent
+drill multipl hole befor select just on as a listen spot or insert a miniatur video
+camera
+other place to search
+us a flashlight to look through the grill panel cover all air condit duct for
+transmitt or listen devic carefulli inspect all electr outlet by remov the cover
+plate and look insid with a flashlight examin ani central util closet for unusu
+wire and electron devic look for sign of debri on the floor under outlet or light
+switch thi might indic that someon ha remov the wall plate to insert a listen
+devic ani time duct outlet plate light fixtur or similar item have been search and
+replac their orient and screwhead posit can be design with ultraviolet
+theft of intellectu properti financi transact
+1872 2011 fraud examin manual
+marker by shine an ultraviolet light on the screw it is easi to tell if the panel have
+been remov thi techniqu make it much easier to determin if someon ha tamper
+with those item sinc the last search
+look under desk and tabl in all offic space for electron devic or wire that seem out
+of place do not tear your offic apart while conduct your search feel your wai around
+and explor with your hand look under and behind couch and sofa it is especi
+import to close examin furnitur in area where peopl ar like to sit and chat the
+tabl and credenza in meet room should be check on a regular basi
+check ani televis set radio lamp telephon comput clock smoke detector or
+sprinkler head in the room if ani area ar serv by cabl tv be sure to check out the
+cabl line convert box line splitter and connector for anyth that seem out of place
+ani electron item and wire that ar not essenti should be remov as unus wire
+can be us for eavesdrop
+comput
+alwai check the back of comput for monitor devic tape to the back panel
+examin all connect between the comput and the outsid world line to printer
+network cabl line to peripher devic or line to monitor pai attent to ani
+connector that have been place between the comput and it extern line these
+connector mai look like thei perform a legitim function but if the extern line could
+have been plug directli into the comput find out why the interfac wa insert and
+who put it there
+the area immedi around the comput should be check for unusu wire electron
+box or devic ani closet or room dedic to hous network equip such as
+hub router cabl rig or network monitor gear need close examin by a
+qualifi network technician to make sure no alien electron devic ar present

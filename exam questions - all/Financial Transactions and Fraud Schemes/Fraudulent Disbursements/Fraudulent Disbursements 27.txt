@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=If an employee intercepts a company check intended for a third party and converts that check for his own benefit, he has committed:
+
+Options=Economic extortion | Billing fraud | Check tampering | Skimming
+
+CorrectResponse=2
+
+Explanation=Check tampering is a type of fraudulent disbursement scheme in which an employee either (1) prepares a fraudulent check for his own benefit, or (2) intercepts a check intended for a third party and converts the check to his own benefit.See page(s) 122.133 in the Corporate Fraud Handbook

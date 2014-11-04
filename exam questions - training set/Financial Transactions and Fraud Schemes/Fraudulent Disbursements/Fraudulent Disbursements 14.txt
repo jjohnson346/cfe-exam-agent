@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Which of the following payroll functions should be separated from one another?
+
+Options=Preparation, distribution, and reconciliation | Preparation and distribution only | Reconciliation and preparation only | None of the above
+
+CorrectResponse=0
+
+Explanation=One of the basic preventive measures for payroll-related fraud is segregation of duties. The following duties should be segregated: payroll preparation, payroll disbursement (into payroll and withholding tax accounts), payroll distribution, payroll bank reconciliation, and human resource departmental functions.See page(s) 1.568-1.569 in the Fraud Examiner's Manual

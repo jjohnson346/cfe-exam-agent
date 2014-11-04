@@ -1,0 +1,17 @@
+version log
+
+1.5.5
+- made further changes to classes in manual package to support execution from mac platform.
+
+1.5.6
+
+- added functionality to support small doc unit granularity.
+
+This enhancement provides that the text bodies of the documents in the collection are mutually
+exclusive.  Under the old approach, suppose we have a document, say, "Medicare Fraud" that includes
+the text of the entire section on this topic.  A subsection of this (and thus, a section that constitutes
+another document in the collection, might be called "Upcoding", (named after a form of medicare fraud), 
+Because the section, Upcoding, is a subsection in the document hierarchy, its section is subsumed by 
+the parent section, Medicare Fraud.  Under the old approach, then, Medicare fraud's text body included the
+body of the Upcoding section as well.  Now, however, after the enhancement in 1.5.6, Medicare fraud section
+includes in its body only that text which is NOT included in any child section's text body.

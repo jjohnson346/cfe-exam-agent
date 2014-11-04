@@ -1,0 +1,28 @@
+Token                          Frequency
+-----------------------------  ---------
+insurance                              1
+babysitter                             1
+•                                      9
+other                                  1
+household                              1
+debt                                   1
+expenditures                           1
+housekeeper                            1
+travel                                 1
+casualty                               1
+wages                                  1
+and                                    1
+real                                   1
+gardener                               1
+expense                                1
+medical                                1
+e.g                                    1
+interest                               1
+losses                                 1
+reduction                              1
+taxes                                  1
+contributions                          1
+premiums                               1
+estate                                 1
+
+Totals:                     24        32

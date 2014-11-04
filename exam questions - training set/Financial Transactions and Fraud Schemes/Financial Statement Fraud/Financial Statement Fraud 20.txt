@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Financial statement analysis is defined as the examination of relationships between key figures on the financial statements and between amounts on successive financial statements. Which of the following is a technique for analyzing the percentage change in individual income statement or balance sheet items from one year to the next?
+
+Options=Horizontal analysis | Ratio analysis | Vertical analysis | Statistical sampling
+
+CorrectResponse=0
+
+Explanation=Ratio analysis involves computing key ratios to compare significant financial statement relationships from period to period. Vertical analysis is a technique for analyzing the relationships between items on an income statement or balance sheet by expressing all components as percentages. Horizontal analysis is a technique for analyzing the percentage change in individual income statement or balance sheet items from one year to the next. Statistical sampling is a technique used to examine a small part of the population (sample) and still make inferences about the total population, unless that part of the population most likely to contain erroneous documents can be identifiedSee page(s) 1.335 in the Fraud Examiner's Manual

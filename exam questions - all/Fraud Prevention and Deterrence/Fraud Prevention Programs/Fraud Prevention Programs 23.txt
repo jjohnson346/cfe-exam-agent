@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=COSO recommends that corporations engage in background checks of managerial employees.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One of the easiest ways to establish a strong moral tone for an organization is to hire morally sound employees. Too often, the hiring process is conducted in a slipshod manner Organizations should conduct thorough background checks on all new employees, especially managers. In addition, it is important to conduct thorough interviews with applicants to ensure that they have adequate skills to perform the duties that will be required of them.See page(s) 4.705 in the Fraud Examiner's Manual

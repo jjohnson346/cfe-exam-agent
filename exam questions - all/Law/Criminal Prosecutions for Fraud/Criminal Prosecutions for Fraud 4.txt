@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=The Sentencing Reform Act of 1984 provided guidelines in setting the sentencing for fraud offenders. Which of the following factors are used in determining the final sentencing level?
+
+Options=The base offense level and the defendant's criminal history | The base offense level and the defendant's willingness to repay the losses | The impact on the victim and the defendant's criminal history | The base offense level and the impact on the victim
+
+CorrectResponse=0
+
+Explanation=The Sentencing Reform Act of 1984 provided for the development of guidelines for the sentencing of individuals. Under the guidelines, sentencing determinations are made by cross-referencing the base offense level assigned to a particular offense with the "defendantâ€™s criminal history category.â€? There are 43 basic offense levels and six criminal history categories. Adjustments may be made up or down in each table based on the particular facts and circumstances of the case. For example, the base offense level for crimes involving fraud or deceit is six, but if the fraud involved a loss of more than $2,000, more than minimal planning, or other aggravating circumstances, the base offense level can be substantially increased. The final applicable offense level is then coordinated with the criminal history category of the defendant to arrive at the final sentencing level.See page(s) 2.524 in the Fraud Examiner's Manual

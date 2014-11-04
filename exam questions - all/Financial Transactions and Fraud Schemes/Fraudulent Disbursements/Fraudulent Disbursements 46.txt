@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Fraudulent disbursement schemes include which of the following?
+
+Options=Check tampering scheme | Register disbursement scheme | Authorized maker scheme | All of the above
+
+CorrectResponse=3
+
+Explanation=All of the following are types of fraudulent disbursement schemes:•	Register disbursement schemes•	Check tampering schemes•	Altered payee schemes•	Authorized maker schemesSee page(s) 1.501-1.524 in the Fraud Examiner's Manual

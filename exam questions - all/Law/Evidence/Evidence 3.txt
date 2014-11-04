@@ -1,0 +1,10 @@
+Section=Evidence
+
+Stem=Anything that is perceptible by the five senses legally presented at trial to prove a contention and induce a belief in the mind of the jury is called:
+
+Options=Testimony | Point of Law | Evidence | None of the above
+
+CorrectResponse=2
+
+Explanation=Black's Law Dictionary defines evidence as: "Anything perceivable by the five senses, and any proof, such as testimony of witnesses, records, documents, facts, data, or tangible objects legally presented at trial to prove a contention and induce a belief in the minds of a jury." See page(s) 2.701 in the Fraud Examiner's Manual
+

@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Substituted pages in multiple-page documents such as contracts, wills, etc. can often be spotted by holding each page in front of a ______________________.
+
+Options=Somatic indicator | Lystrand device | Bright light | None of the above
+
+CorrectResponse=2
+
+Explanation=Substituted pages in multiple-page documents such as contracts, wills, etc. can often be spotted by holding each page in front of a bright light. Differences in the whiteness, density, thickness, opacity, and paper fiber patterns of the substituted sheets might be apparent.See page(s) 3.108 in the Fraud Examiner's Manual

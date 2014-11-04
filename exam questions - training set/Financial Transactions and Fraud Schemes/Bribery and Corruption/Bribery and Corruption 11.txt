@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In proving income from illicit sources, a behavioral profile may lead the examiner to which of the following?
+
+Options=Motive | Justification | Rationalization | None of the above
+
+CorrectResponse=0
+
+Explanation=The behavioral profile might provide evidence of a possible motive of the crime, such as large debts, as well as additional evidence of illicit funds. For example, if the suspect spent significant amounts of cash and had no corresponding cash withdrawals from disclosed bank accounts or no admitted sources of cash income, there must be other, undisclosed sources of income.See page(s) 1.729 in the Fraud Examiner's Manual

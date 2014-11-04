@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=If an employee sells an item and pockets the cash without recording the sale, this is known as:
+
+Options=Cash larceny | Bribery | Skimming | A register disbursement scheme
+
+CorrectResponse=2
+
+Explanation=Skimming is the removal of cash from a victim entity prior to its entry in an accounting system. The most basic skimming scheme occurs when an employee sells goods or services to a customer collects the customer‰??s payment, but makes no record of the sale. The employee pockets the money received from the customer instead of turning it over to his employer.See page(s) 67. 73 in the Corporate Fraud Handbook

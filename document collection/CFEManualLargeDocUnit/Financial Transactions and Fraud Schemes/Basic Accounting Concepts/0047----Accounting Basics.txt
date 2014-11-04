@@ -1,0 +1,320 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS/Accounting Basics
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Basic Accounting Concepts
+
+
+:
+
+
+Accounting Basics 
+Accounting can be defined as the identification, accumulation, measurement, and 
+communication of economic data about an enterprise for decision makers and other 
+interested parties. The measurement and recording of this data are accomplished through 
+keeping a balance of the accounting equation. The accounting model or accounting equation, 
+as shown below, is the basis for all double-entry accounting:  
+ 
+Assets = Liabilities + Owners’ Equity 
+ 
+By definition, assets consist of the net resources owned by an entity. Examples of assets 
+include cash, receivables, inventory, property, and equipment, as well as intangible items of 
+value such as patents, licenses, and trademarks. To qualify as an asset, an item must (1) be 
+owned by the entity and (2) provide future benefit.  
+ 
+Liabilities are the obligations of an entity or outsiders’ claims against a company’s assets. 
+Liabilities usually arise from the acquisition of assets or the incurrence of operational 
+expenses. 
+Accounting Concepts  Financial Transactions   
+1.102                         2011 Fraud Examiners Manual  
+Owners’ equity  represents the investment of a company’s owners plus accumulated profits 
+(revenues less expenses). Owners’ equity is equal to assets minus liabilities.  
+ 
+This equation has been the cornerstone of accounting since 1494, when Luca Pacioli 
+invented it. The balance of the equation is the key. If a company borrows from a bank, cash 
+(an asset) and notes payable (a liability) increase to show the receipt of cash and an 
+obligation owed by the company. Since both assets and liabilities increase by the same 
+amount, the equation stays in balance.  
+ 
+Accounts and the Accounting Cycle 
+The major components of the accounting equation are made up of numerous detail 
+accounts. An account is nothing more than a specific accounting record that provides an 
+efficient way to categorize similar transactions. All transactions are recorded in accounts that 
+are categorized as asset accounts, liability accounts, owners’ equity accounts, revenue 
+accounts, and expense accounts. Account format occurs in a number of ways. The simplest, 
+most fundamental format is the use of a large letter T, often referred to as a T account.  
+ 
+Entries to the left side of an account are debits (dr) and entries to the right side of an account 
+are credits (cr). Debits increase asset and expense accounts, while credits decrease them. 
+Conversely, credits increase liability, owners’ equity, and revenue accounts; debits decrease 
+them. Every transaction recorded in the accounting records will have both a debit and a 
+credit, thus the term double-entry accounting. The accounting equation, in the form of T 
+accounts, looks like the following:   
+ 
+ 
+ 
+Fraud investigation often requires an understanding of the debit-and-credit process. For 
+example, a fraud examiner who is searching for a mysterious $5,000 disappearance of cash 
+finds a debit in the legal expense account and a corresponding credit in the cash account for 
+$5,000, but cannot find genuine documentation for the charge. The examiner can then 
+reasonably suspect that a perpetrator may have attempted to conceal the theft by labeling the 
+misappropriated $5,000 as a legal expense.  
+ 
+ Assets  =  Liabilities + Owner's Equities
+
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.103 
+Discovering concealment efforts through a review of accounting records is one of the easier 
+methods of detecting internal fraud; usually, one needs only to look for weaknesses in the 
+various steps of the accounting cycle. Legitimate transactions leave an audit trail. They start 
+with a source document such as an invoice, a check, a receipt, or a receiving report. These 
+source documents become the basis for journal entries, which are chronological listings of 
+transactions with their debit and credit amounts. Entries are made in various accounting 
+journals. Then, entries are posted to the appropriate general ledger accounts. The 
+summarized account amounts become the basis for financial statements for a particular 
+period. 
+ 
+Illustrated below is this flow of transactional information through the accounting records, 
+followed by examples of typical accounting transactions, to help in understanding how 
+transactions affect the balance sheet: 
+ 
+ 
+Journal Entries  
+As transactions occur, they are recorded in a company’s books via journal entries. Each journal 
+entry serves as a record of a particular transaction and forms an audit trail that can be 
+retraced later for an understanding of a company’s operations. Journal entries that are not 
+triggered by a transaction, called adjusting journal entries, are also made periodically for items 
+such as depreciation expense and accounts receivable write-offs.  
+ 
+ 
+Transaction Occurs 
+Purchase Orders, Receipts, and Other 
+Documents Are Created 
+Transaction Is Recorded in Journals 
+Journals Are Posted to Individual Accounts
+Financial Statements Are Generated with 
+Account Balances 
+Accounting Concepts  Financial Transactions   
+1.104                         2011 Fraud Examiners Manual  
+EXAMPLE  
+XYZ Company completed the following transactions during its first year of operations, 
+20XX. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounting Methods 
+
+There are two primary methods of accounting: cash-basis and accrual-basis. Cash-basis 
+accounting involves recording revenues and expenses based on when a company pays or 
+receives cash. For example, sales are recorded when a company receives payment for goods, 
+regardless of when the goods are delivered. If a customer purchases goods on credit, the 
+company does not book the sale until the cash is received for the sale. Likewise, if a 
+customer prepays for a sale, the company records the sales revenue immediately, rather than 
+when the goods are passed off to the customer. The same holds true with expenses: they are 
+recorded when paid without consideration to when they are incurred.  
+ 
+Accrual-basis accounting, on the other hand, requires revenues to be recorded when they are 
+earned (generally, when goods are delivered or services are rendered to a customer), without 
+Transaction Analysis Account Debit Credit Assets Liabilities  Equity
+ Enterprise established, Cash increased Cash 192,000 192,000    
+Owner invests $192,000 Liabilities no effect   Common Stock 192,000  192,000   
+Equity increased
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 1 9 2,000 192,000 192,000    -    192,000   
+Company borrowed $80,000 Cash increased Cash 80,000  80,000    
+on a note payable Liabilities increased   Notes Payable 80,000  80,000    
+Equity no effect
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 2 7 2,000 272,000 272,000    80,000    1 9 2,000   
+Purchase business Cash decreased Equipment 70,000   70,000    
+equipment for $70,000 Assets increased   Cash 70,000  (70,000)  
+Liab & Equity no effect
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 3 4 2,000 342,000 272,000    80,000    1 9 2,000   
+Services rendered to client Cash increased Cash 15,000  15,000    
+$40,000, $15,000 collected A /R increased   Accounts Receivable 25,000  25,000    
+in advance Equity increased   Sales Revenue 40,000   40,000   
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 3 8 2,000 382,000 312,000    80,000    2 3 2,000   
+Operating expenses incurred Cash decreased Operating Expenses 25,000  (25,000)   
+$25,000, Liabilities increased Cash 14,000  (14,000)  
+14,000 paid in cash Equity decreased   Accounts Payable 11,000  11,000    
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 0 7,000 407,000 298,000    91,000    2 0 7,000   
+Paid $5,000 on Note Cash decreased Notes Payable 5,000  (5,000)    
+Payable  Liabilities decreased   Cash 5,000  (5,000)    
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 1 2,000 412,000 293,000    86,000    2 0 7,000   
+Depreciated equipment for Asset decreased Depreciation expense 7,000  (7,000)   
+1 yr, estimated life 10yr  Equity decreased   Accum. Depreciation 7,000  (7,000)    
+($70,000 /1 0) = $7,000
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 1 9,000 419,000 286,000    86,000    2 0 0,000   
+Balance Sheet Effect  
+Journal Entry Assets = Liabilities + Owners Equity
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.105 
+regard to when cash exchanges hands. Expenses are recorded in the same period as the 
+revenues to which they relate. For example, employee wages are expensed in the period 
+during which the employees provided services, which may not necessarily be the same 
+period in which they were paid. 
+ 
+Under cash accounting, a company may decide to postpone paying some expenses so they 
+are not recorded in the current period, resulting in an artificially inflated bottom line. 
+Conversely, accrual accounting requires expenses to be matched to revenues; therefore, it 
+provides a truer picture of a company’s financial situation. As such, generally accepted 
+accounting principles mandate the use of accrual-basis accounting.  
+ 
+ 
+
+
+
+:
+
+
+account basic
+account can be defin as the identif accumul measur and
+commun of econom data about an enterpris for decis maker and other
+interest parti the measur and record of thi data ar accomplish through
+keep a balanc of the account equat the account model or account equat
+as shown below is the basi for all doubleentri account
+asset liabil owner equiti
+by definit asset consist of the net resourc own by an entiti exampl of asset
+includ cash receiv inventori properti and equip as well as intang item of
+valu such as patent licens and trademark to qualifi as an asset an item must 1 be
+own by the entiti and 2 provid futur benefit
+liabil ar the oblig of an entiti or outsid claim against a compani asset
+liabil usual aris from the acquisit of asset or the incurr of oper
+expens
+account concept financi transact
+1102 2011 fraud examin manual
+owner equiti repres the invest of a compani owner plu accumul profit
+revenu less expens owner equiti is equal to asset minu liabil
+thi equat ha been the cornerston of account sinc 1494 when luca pacioli
+invent it the balanc of the equat is the kei if a compani borrow from a bank cash
+an asset and note payabl a liabil increas to show the receipt of cash and an
+oblig ow by the compani sinc both asset and liabil increas by the same
+amount the equat stai in balanc
+account and the account cycl
+the major compon of the account equat ar made up of numer detail
+account an account is noth more than a specif account record that provid an
+effici wai to categor similar transact all transact ar record in account that
+ar categor as asset account liabil account owner equiti account revenu
+account and expens account account format occur in a number of wai the simplest
+most fundament format is the us of a larg letter t often refer to as a t account
+entri to the left side of an account ar debit dr and entri to the right side of an account
+ar credit cr debit increas asset and expens account while credit decreas them
+convers credit increas liabil owner equiti and revenu account debit decreas
+them everi transact record in the account record will have both a debit and a
+credit thu the term doubleentri account the account equat in the form of t
+account look like the follow
+fraud investig often requir an understand of the debitandcredit process for
+exampl a fraud examin who is search for a mysteri 5000 disappear of cash
+find a debit in the legal expens account and a correspond credit in the cash account for
+5000 but cannot find genuin document for the charg the examin can then
+reason suspect that a perpetr mai have attempt to conceal the theft by label the
+misappropri 5000 as a legal expens
+asset liabil owner equiti
+financi transact account concept
+2011 fraud examin manual 1103
+discov conceal effort through a review of account record is on of the easier
+method of detect intern fraud usual on need onli to look for weak in the
+variou step of the account cycl legitim transact leav an audit trail thei start
+with a sourc document such as an invoic a check a receipt or a receiv report these
+sourc document becom the basi for journal entri which ar chronolog list of
+transact with their debit and credit amount entri ar made in variou account
+journal then entri ar post to the appropri gener ledger account the
+summar account amount becom the basi for financi statement for a particular
+period
+illustr below is thi flow of transact inform through the account record
+follow by exampl of typic account transact to help in understand how
+transact affect the balanc sheet
+journal entri
+as transact occur thei ar record in a compani book via journal entri each journal
+entri serv as a record of a particular transact and form an audit trail that can be
+retrac later for an understand of a compani oper journal entri that ar not
+trigger by a transact call adjust journal entri ar also made period for item
+such as depreci expens and account receiv writeoff
+transact occur
+purchas order receipt and other
+document ar creat
+transact is record in journal
+journal ar post to individu account
+financi statement ar gener with
+account balanc
+account concept financi transact
+1104 2011 fraud examin manual
+exampl
+xyz compani complet the follow transact dure it first year of oper
+20xx
+account method
+there ar two primari method of account cashbasi and accrualbasi cashbasi
+account involv record revenu and expens base on when a compani pai or
+receiv cash for exampl sale ar record when a compani receiv payment for good
+regardless of when the good ar deliv if a custom purchas good on credit the
+compani doe not book the sale until the cash is receiv for the sale likewis if a
+custom prepai for a sale the compani record the sale revenu immedi rather than
+when the good ar pass off to the custom the same hold true with expens thei ar
+record when paid without consider to when thei ar incur
+accrualbasi account on the other hand requir revenu to be record when thei ar
+earn gener when good ar deliv or servic ar render to a custom without
+transact analysi account debit credit asset liabil equiti
+enterpris establish cash increas cash 192000 192000
+owner invest 192000 liabil no effect common stock 192000 192000
+equiti increas
+cumul balanc 1 9 2000 192000 192000 192000
+compani borrow 80000 cash increas cash 80000 80000
+on a note payabl liabil increas note payabl 80000 80000
+equiti no effect
+cumul balanc 2 7 2000 272000 272000 80000 1 9 2000
+purchas busi cash decreas equip 70000 70000
+equip for 70000 asset increas cash 70000 70000
+liab equiti no effect
+cumul balanc 3 4 2000 342000 272000 80000 1 9 2000
+servic render to client cash increas cash 15000 15000
+40000 15000 collect a r increas account receiv 25000 25000
+in advanc equiti increas sale revenu 40000 40000
+cumul balanc 3 8 2000 382000 312000 80000 2 3 2000
+oper expens incur cash decreas oper expens 25000 25000
+25000 liabil increas cash 14000 14000
+14000 paid in cash equiti decreas account payabl 11000 11000
+cumul balanc 4 0 7000 407000 298000 91000 2 0 7000
+paid 5000 on note cash decreas note payabl 5000 5000
+payabl liabil decreas cash 5000 5000
+cumul balanc 4 1 2000 412000 293000 86000 2 0 7000
+depreci equip for asset decreas depreci expens 7000 7000
+1 yr estim life 10yr equiti decreas accum depreci 7000 7000
+70000 1 0 7000
+cumul balanc 4 1 9000 419000 286000 86000 2 0 0000
+balanc sheet effect
+journal entri asset liabil owner equiti
+financi transact account concept
+2011 fraud examin manual 1105
+regard to when cash exchang hand expens ar record in the same period as the
+revenu to which thei relat for exampl employe wage ar expens in the period
+dure which the employe provid servic which mai not necessarili be the same
+period in which thei were paid
+under cash account a compani mai decid to postpon pai some expens so thei
+ar not record in the current period result in an artifici inflat bottom line
+convers accrual account requir expens to be match to revenu therefor it
+provid a truer pictur of a compani financi situat as such gener accept
+account principl mandat the us of accrualbasi account

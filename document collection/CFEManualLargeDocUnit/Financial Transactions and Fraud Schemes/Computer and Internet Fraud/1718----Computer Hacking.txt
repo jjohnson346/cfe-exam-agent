@@ -1,0 +1,613 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Hacking
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Computer Hacking 
+As the number of computers and computer users increases, so does the number and types of 
+hackers. A 2007 study by the University of Ma ryland’s A. James Clark School of Engineering 
+reported that hackers attack computers with Internet connections every 39 seconds, or about 
+2,244 times a day. In addition, a 2007 research report conducted by WhiteHat, a website 
+security services provider, showed that as many as 90 percent of all websites remain 
+vulnerable to some form of computer hack.  
+ 
+Although the term hacker was originally used to describe a computer enthusiast, the term has 
+now evolved to mean someone seeking unauthorized access to computer systems and the 
+information contained therein. It includes organizations’ employees, members of hacker 
+gangs, and hackers for profit. Motives vary according to the targeted system, information 
+desired, and the perpetrator. While hacking was once commonly thought of as a precocious 
+teenager’s hobby, it has changed dramatically in the last twenty years to encompass a large 
+and diverse group. 
+ 
+Definition 
+Hacking is basically breaking into computers and telecommunications systems by learning 
+the vulnerabilities of various hardware and software, and using a computer to systematically 
+“guess” the user’s system identification and password.  
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1806                           2011 Fraud Examiners Manual  
+Hackers use various “rogue” software applications to penetrate a system, or sometimes they 
+enlist the help of the user surreptitiously by installing a program that is downloaded via an e-
+ mail or by visiting a website. These programs operate in the background of the infected 
+computer and can disable security settings and capture information that is sent back to  
+the hacker. 
+ 
+But, the most direct way of gaining access to a computer is to use someone else’s password 
+or generate (without authorization) a password of one’s own. Passwords are designed to 
+keep computers safe. If you don’t know the password, the machine will not run. However, 
+most users choose passwords that, while not easy to crack, follow certain patterns. People 
+usually pick something familiar and easy as their password. A deep-sea fisherman uses 
+“marlin”; the man’s secretary, who received a mug about “soaring with the eagles and 
+working with turkeys” from her boss last Christmas, uses “turkey” as her password. There 
+are lists circulated among hackers of the most likely passwords.  
+ 
+If the hacker knows or can learn something about his target, his job is even easier. That 
+fisherman, for example, probably has a huge marlin mounted on his wall. It’s located directly 
+in the man’s line of sight as he logs on each morning; it’s a good guess this guy will have 
+“marlin” or “reel” or something else fishy in his password. A simple lesson here: real-word 
+passwords, even in variation, are not secure. The safest passwords combine letters, numbers, 
+and other special characters, such as punctuation. 
+ 
+Social Engineering 
+Another means of gaining access to a system involves simple deception. The hacker uses his 
+verbal skills to deceive victims into disclosing information they ought not to divulge, or 
+convinces victims to commit acts that facilitate the hacker’s scheme. Often posing as an 
+employee or someone hired by the organization, the hacker easily deceives real employees 
+into revealing information. In order to research his scheme, he may avail himself of 
+documents in the company dumpster, such as internal telephone directories and 
+correspondence. 
+ 
+The hacker may assume a number of different guises to accomplish this deception. He may 
+pose as a new or temporary worker and ask information systems employees for a password 
+so that he can begin work. He may also pose as someone in a position of authority and 
+intimidate employees into revealing confidential information.  
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1807 
+Sometimes overt deception is not required. In large corporations, hackers can take advantage 
+of the anonymity among employees. By donning office attire, they can blend into the crowd 
+and thus peruse the premises, perhaps gaining a password written down at an employee’s 
+desk in the process. 
+ 
+Hacker Computer Manipulation  
+Trojan Horse 
+A Trojan horse is the covert placement of instructions in a program that causes the 
+computer to perform unauthorized functions but usually still allows the program to perform 
+its intended purpose. This method is one of the most commonly used techniques in 
+computer-based frauds and sabotage. 
+ 
+Spyware 
+Spyware is a type of malware (short for malicious software) that is installed on computers and 
+collects little bits of information at a time about users without their knowledge. The presence 
+of spyware is typically hidden from the user and can be difficult to detect. The most 
+common use of spyware for fraud is the theft of personal information (including financial 
+information such as credit card numbers), 
+ 
+Trap Doors 
+When developing large programs, programmers insert instructions for additional code and 
+intermediate output capabilities. The design of computer operating systems attempts to 
+prevent this from happening. Therefore, programmers insert instructions that allow them to 
+circumvent these controls. Hackers take advantage of these trap doors. 
+ 
+Salami Techniques 
+Salami techniques involve the execution of unauthorized programs used to steal small 
+amounts of assets from a large number of sources without noticeably reducing the whole. 
+For example, in a banking system, the amount of interest to be credited to an account is 
+typically rounded off. A fraudster might set up the system so that instead of rounding off the 
+number, that fraction of it is credited to a special account owned by the perpetrator. 
+ 
+Logic Bombs 
+A logic bomb is a computer program executed at a specific time period or when a specific 
+event occurs. For example, a programmer can write a program to instruct the computer to 
+delete all personnel and payroll files if his name were ever removed from the file. 
+Computer and Internet Fraud  Financial Transactions   
+1.1808                           2011 Fraud Examiners Manual  
+Data Diddling 
+Data diddling is the changing of data before or during entry into the computer system. 
+Examples include forging or counterfeiting documents used for data entry and exchanging 
+valid disks and tapes with modified replacements. 
+ 
+Scavenging and Dumpster Diving 
+Scavenging involves obtaining information left around a computer system, in the computer 
+room trash cans, and so on. Dumpster diving refers to gleaning sensitive information from 
+an organization’s trash receptacles and dumpsters.  
+ 
+Data Leakage 
+Data leakage is the removing of information by smuggling it out as part of a printed 
+document, encoding the information to look like something different, and removing it from 
+the facility. 
+ 
+Piggybacking/Impersonation 
+Piggybacking and impersonation are frequently used to gain access to restricted areas. 
+Examples include following someone in through a door with a badge reader, electronically 
+using another’s user identification and password to gain computer access, and tapping into 
+the terminal link of a user to cause the computer to believe that both terminals are the same 
+person. 
+ 
+Simulation and Modeling 
+Simulation and modeling is a computer manipulation technique using the computer as a tool 
+or instrument to plan or control a criminal act. 
+ 
+Wire Tapping 
+Wire tapping into a computer’s communications  links is another technique used by hackers. 
+This method enables perpetrators to read the information being transmitted between 
+computers, or between computers and terminals. 
+ 
+Network Weaving 
+This technique, more commonly known as looping, involves using numerous networks in an 
+attempt to avoid detection. For example, a hacker might dial into Company A’s PBX system 
+to obtain an outside line that can be used to dial into Company B’s network. If Company B 
+can track the origin of the hacker’s call, it w ill lead them to Company A, not to the hacker. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1809 
+The above is a relatively simple example. Hackers have been known to “loop” through 15 or 
+20 different networks before arriving at their final destination. Network weaving can make it 
+extremely difficult for an investigator or fraud examiner to trace the point of origin for a 
+specific telephone call or data transmission. 
+ 
+Altering the Way a System Generates Passwords 
+Not all passwords are supplied by users. Some are generated by a computer system’s 
+“randomizer” function. For example, many Internet Service Providers (ISPs) give first-time 
+users a randomly generated password (and sometimes a random user name as well), which 
+gets the person online. Then the user changes the log-in information to their  
+own preference.  
+ 
+By learning how a certain system’s randomizer works, the hacker can imitate the generation 
+of valid passwords, or alter how the system operates. For example, with some tinkering, the 
+randomizer can be set to give every new user the same, seemingly random, password: 
+EVBDCL8. But that won’t work for long. It’s better to have the machine make a password 
+built off some information about the user that is publicly available. Using a relatively simple 
+set of algorithms, a hacker can convert a user name, such as “halbfish” into an obscure 
+looking string like “rueavzhr” (letters are read as numbers by computers speaking ASCII 
+code, so the algorithms are using sine values to convert the ASCII values into a new set  
+of numbers).  
+ 
+Here’s a good example of how manipulating a randomizer works. Dennis Ritchie, who 
+helped develop UNIX technology, reported how a hacker attacked one company’s system. 
+Computer officials at the company had their system generate passwords, each eight 
+characters long, mixing letters and digits. In a brute force attack, it should have taken 112 
+years to crack the nearly 3 trillion possibilities. However, the randomizer on the company 
+system could only take 32,768 seeds for passwords. The hacker used his own machine to 
+generate and test each of those combinations, using, according to Ritchie, “a total of only 
+about one minute of machine time.” In less time than the average commercial break runs on 
+television, the hacker breached a seemingly impenetrable system. 
+ 
+Buffer Overflow Exploits 
+Buffer overflow exploits are one of the largest problems in computer security today. In all 
+application programs, there are buffers that hold data. These buffers have a fixed size. If an 
+attacker sends too much data into one of these buffers, the buffer overflows. The server 
+Computer and Internet Fraud  Financial Transactions   
+1.1810                           2011 Fraud Examiners Manual  
+then executes the data that “overflowed” as a program. This program may do any number of 
+things, like sending passwords to Russia, altering system files, or installing 
+backdoors, depending on what data the attacker sent to the buffer. 
+ 
+Privilege Escalation Exploits 
+Privilege escalation exploits grant administrator or root-level access to users who previously 
+did not have such access. For example, an account exists on all Windows NT and 2000 
+servers called “Guest.” This account, by default, has no password. Anyone can log-in to the 
+server using this “Guest” account and then use a common privilege escalation exploit called 
+“GetAdmin” to gain administrator-level access to the system. Many other privilege escalation 
+exploits exist, such as HackDLL and others. These exploits are very useful, since they allow 
+anyone who has any level of access to a system to easily elevate their privilege level and 
+perform any activities they desire. 
+ 
+Backdoors 
+When attackers obtain root-level access to a server (using a buffer overflow exploit or a 
+privilege escalation exploit, for example) they will want to do two things: 
+• Install a backdoor  
+• Cover their tracks  
+ 
+Backdoors allow attackers to remotely access a system again in the future. For example, the 
+attacker may have used a particular security hole to get root-level access to a computer. 
+However, over time, that particular security hole may be closed, preventing the attacker from 
+accessing the system again. In order to avoid being shut out in the future, attackers install 
+backdoors. These backdoors take different forms, but all allow an attacker to access the 
+server again without going through the standard log-in procedures and without having to 
+repeat the attack that gave them access in the first place. Many worms install backdoors as a 
+part of their malicious payload. Code Red II, for example, installed a backdoor that provided 
+access to the C and D drives of the compromised Web server from anywhere on the 
+Internet. Other common backdoor programs are Netbus and BackOrifice, which allow 
+attackers to remotely control a compromised server. Once a backdoor is established, the 
+hacker retreats and covers his tracks to keep the initial attack unnoticed.  
+ 
+HTTP Exploits 
+HTTP exploits involve using the Web server application to perform malicious activities. 
+These attacks are very common and are growing in popularity because firewalls typically 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1811 
+block most traffic from the Internet to keep it away from corporate servers. However, 
+HTTP traffic, used for Web browsing, is almost always allowed to pass through firewalls 
+unhindered. Thus, attackers have a direct line to the Web server. If they can coerce the Web 
+server into performing malicious activities, they can access resources that would otherwise 
+be unavailable. 
+ 
+Anti-Hacker Measures 
+Because hackers require dial-in capability to gain access, the best prevention strategy is to 
+eliminate as many dial-in ports as possible. Unfortunately, the trend today is to install more, 
+not fewer, dial-in capabilities because telecommuting and customer connectivity are driving 
+the demand for more dial-in capability. The following are some preventive measures that can 
+be implemented: 
+• Welcome screens are usually proudly displayed at sign-in with a message such as: 
+ 
+Welcome to the XYZ Corporation Computer network. 
+ 
+To discourage unauthorized use, such a screen might be replaced with one that informs 
+the user that he is about to access a proprietary network. Additionally, the screen should 
+warn that unauthorized access is prohibited and will be prosecuted under the law. The 
+screen should not identify either the organization or the network. 
+• Security policies should be established and disseminated throughout the organization. 
+These policies should include training for all employees, customers (who will appreciate 
+the additional security), and others who have a need to access the network. 
+• Call-back modems should be used wherever practical. These modems will answer an 
+incoming call and require the sender to enter a password. Once the caller has identified 
+himself, the modem will terminate the connection, and dial a previously established 
+phone number. When the prearranged number is called, the sender must again perform 
+the sign-on procedure.  
+• Security software packages should be secured to the highest level possible. Most major 
+software companies today have to release updates and patches to their software every so 
+often. Check your software vendor’s websites on a regular basis for new security patches 
+or use the new automated patching features that some companies offer. 
+• Passwords should be used in accordance with sound security practices. For example: 
+? Passwords should be changed periodically (every 90 days is suggested). 
+? Passwords should be of sufficient length to deter guessing (a minimum of 8 
+characters is suggested). 
+Computer and Internet Fraud  Financial Transactions   
+1.1812                           2011 Fraud Examiners Manual  
+? Passwords of transferred or terminated employees should be changed immediately. 
+• Most purchased software comes with a ve ndor supplied password that is used for 
+installation and then deleted. All packages should be audited to ensure that these default 
+passwords (which are widely known) have been changed. 
+• Encryption should be considered for sensitive data files, password files, and sensitive 
+computer programs. 
+• Communications software should terminate any connection (whether dial-in or direct 
+connect) after: 
+? A reasonable number of unsuccessful attempts to enter a valid password (usually no 
+more than three). 
+? A terminal (direct connect or dial-in) has been connected for a period of time with 
+no activity. This is called “timing-out.”  
+The terminated connection will require redialing into the network and/or re-performing 
+the log-in and verification process. Some companies require the data security officer to 
+issue a new password before the user can log-in again. 
+• Hacker publications and communications should be reviewed to learn the current jargon 
+and hacker “handles,” which are the names that hackers use for their online personas. 
+Hackers have used the Internet quite efficiently to communicate with each other, while 
+producing a significant amount of hacking documentation and programs. Almost any 
+hacker website will contain a large number of text files that explain “how to hack,” or 
+how various systems operate. Many of these files will also explain the standard 
+vulnerabilities of the systems, and the best methods to penetrate their security. 
+ 
+Hacker Detection Measures 
+An adequate hacker detection program contains three primary components: 
+• Almost all communication systems maintain a log file that records all successful and 
+unsuccessful system access attempts. These also allow for the printing of reports 
+containing sign-on and sign-off activity. These reports should be printed out regularly and 
+reviewed by the data security officer. Where possible, special reports should be printed 
+on the number of unsuccessful access attempts. These attempts at logging into the 
+system should be followed up by data security to determine their cause.  
+• The data security function should have sufficient resources and staff to administer 
+passwords, maintain the security software, review system activity reports, and follow up 
+on all potential security violations.  
+  
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1813 
+• Finally, periodic reviews of telecommunications security should be performed by 
+consultants and/or internal or external auditors, if the latter have the necessary 
+experience and qualifications. 
+ 
+Hacking Insurance 
+During the past three years, a handful of cyber-insurers have begun offering coverage 
+specifically designed to address new forms of information age exposure. These e-commerce 
+risks can include theft, damage or disclosure of data, denial of service attacks, theft of 
+intellectual property, unauthorized access, loss of revenue, infringement of copyright and 
+trademark, and the consequent damage to business reputation. These types of e-commerce 
+risks are covered by what is known as first-party coverage. 
+ 
+Third-party coverage covers the company if it is being sued for problems caused by 
+technology product errors and omissions; the pilfering, public release, or misuse of sensitive 
+or confidential information; the unwitting spread of disruptive viruses; hacker tampering to 
+the information and advertising carried on websites; e-mail-facilitated sexual harassment; and 
+privacy infringement. 
+ 
+Many businesses believe that their traditional business coverage will suffice, or failing that, 
+their Web host or ISP will cover damages caused by any of the above. In both cases, they are 
+probably wrong. Unless your business insurance policy or Internet service level agreement 
+specifically includes language addressing e-commerce liability, any damages will probably not 
+be covered. 
+ 
+ 
+
+
+
+:
+
+
+comput hack
+as the number of comput and comput user increas so doe the number and type of
+hacker a 2007 studi by the univers of ma ryland a jame clark school of engin
+report that hacker attack comput with internet connect everi 39 second or about
+2244 time a dai in addit a 2007 research report conduct by whitehat a websit
+secur servic provid show that as mani as 90 percent of all websit remain
+vulner to some form of comput hack
+although the term hacker wa origin us to describ a comput enthusiast the term ha
+now evolv to mean someon seek unauthor access to comput system and the
+inform contain therein it includ organ employe member of hacker
+gang and hacker for profit motiv vari accord to the target system inform
+desir and the perpetr while hack wa onc commonli thought of as a precoci
+teenag hobbi it ha chang dramat in the last twenti year to encompass a larg
+and divers group
+definit
+hack is basic break into comput and telecommun system by learn
+the vulner of variou hardwar and softwar and us a comput to systemat
+guess the user system identif and password
+comput and internet fraud financi transact
+11806 2011 fraud examin manual
+hacker us variou rogu softwar applic to penetr a system or sometim thei
+enlist the help of the user surreptiti by instal a program that is download via an e
+mail or by visit a websit these program oper in the background of the infect
+comput and can disabl secur set and captur inform that is sent back to
+the hacker
+but the most direct wai of gain access to a comput is to us someon els password
+or gener without author a password of on own password ar design to
+keep comput safe if you dont know the password the machin will not run howev
+most user choos password that while not easi to crack follow certain pattern peopl
+usual pick someth familiar and easi as their password a deepsea fisherman us
+marlin the man secretari who receiv a mug about soar with the eagl and
+work with turkei from her boss last christma us turkei as her password there
+ar list circul among hacker of the most like password
+if the hacker know or can learn someth about hi target hi job is even easier that
+fisherman for exampl probabl ha a huge marlin mount on hi wall it locat directli
+in the man line of sight as he log on each morn it a good guess thi gui will have
+marlin or reel or someth els fishi in hi password a simpl lesson here realword
+password even in variat ar not secur the safest password combin letter number
+and other special charact such as punctuat
+social engin
+anoth mean of gain access to a system involv simpl decept the hacker us hi
+verbal skill to deceiv victim into disclos inform thei ought not to divulg or
+convinc victim to commit act that facilit the hacker scheme often pose as an
+employe or someon hire by the organ the hacker easili deceiv real employe
+into reveal inform in order to research hi scheme he mai avail himself of
+document in the compani dumpster such as intern telephon directori and
+correspond
+the hacker mai assum a number of differ guis to accomplish thi decept he mai
+pose as a new or temporari worker and ask inform system employe for a password
+so that he can begin work he mai also pose as someon in a posit of author and
+intimid employe into reveal confidenti inform
+financi transact comput and internet fraud
+2011 fraud examin manual 11807
+sometim overt decept is not requir in larg corpor hacker can take advantag
+of the anonym among employe by don offic attir thei can blend into the crowd
+and thu perus the premis perhap gain a password written down at an employe
+desk in the process
+hacker comput manipul
+trojan hors
+a trojan hors is the covert placement of instruct in a program that caus the
+comput to perform unauthor function but usual still allow the program to perform
+it intend purpos thi method is on of the most commonli us techniqu in
+computerbas fraud and sabotag
+spywar
+spywar is a type of malwar short for malici softwar that is instal on comput and
+collect littl bit of inform at a time about user without their knowledg the presenc
+of spywar is typic hidden from the user and can be difficult to detect the most
+common us of spywar for fraud is the theft of person inform includ financi
+inform such as credit card number
+trap door
+when develop larg program programm insert instruct for addit code and
+intermedi output capabl the design of comput oper system attempt to
+prevent thi from happen therefor programm insert instruct that allow them to
+circumv these control hacker take advantag of these trap door
+salami techniqu
+salami techniqu involv the execut of unauthor program us to steal small
+amount of asset from a larg number of sourc without notic reduc the whole
+for exampl in a bank system the amount of interest to be credit to an account is
+typic round off a fraudster might set up the system so that instead of round off the
+number that fraction of it is credit to a special account own by the perpetr
+logic bomb
+a logic bomb is a comput program execut at a specif time period or when a specif
+event occur for exampl a programm can write a program to instruct the comput to
+delet all personnel and payrol file if hi name were ever remov from the file
+comput and internet fraud financi transact
+11808 2011 fraud examin manual
+data diddl
+data diddl is the chang of data befor or dure entri into the comput system
+exampl includ forg or counterfeit document us for data entri and exchang
+valid disk and tape with modifi replac
+scaveng and dumpster dive
+scaveng involv obtain inform left around a comput system in the comput
+room trash can and so on dumpster dive refer to glean sensit inform from
+an organ trash receptacl and dumpster
+data leakag
+data leakag is the remov of inform by smuggl it out as part of a print
+document encod the inform to look like someth differ and remov it from
+the facil
+piggybackingimperson
+piggyback and imperson ar frequent us to gain access to restrict area
+exampl includ follow someon in through a door with a badg reader electron
+us anoth user identif and password to gain comput access and tap into
+the termin link of a user to caus the comput to believ that both termin ar the same
+person
+simul and model
+simul and model is a comput manipul techniqu us the comput as a tool
+or instrument to plan or control a crimin act
+wire tap
+wire tap into a comput commun link is anoth techniqu us by hacker
+thi method enabl perpetr to read the inform be transmit between
+comput or between comput and termin
+network weav
+thi techniqu more commonli known as loop involv us numer network in an
+attempt to avoid detect for exampl a hacker might dial into compani as pbx system
+to obtain an outsid line that can be us to dial into compani bs network if compani b
+can track the origin of the hacker call it w ill lead them to compani a not to the hacker
+financi transact comput and internet fraud
+2011 fraud examin manual 11809
+the abov is a rel simpl exampl hacker have been known to loop through 15 or
+20 differ network befor arriv at their final destin network weav can make it
+extrem difficult for an investig or fraud examin to trace the point of origin for a
+specif telephon call or data transmiss
+alter the wai a system gener password
+not all password ar suppli by user some ar gener by a comput system
+random function for exampl mani internet servic provid isp give firsttim
+user a randomli gener password and sometim a random user name as well which
+get the person onlin then the user chang the login inform to their
+own prefer
+by learn how a certain system random work the hacker can imit the gener
+of valid password or alter how the system oper for exampl with some tinker the
+random can be set to give everi new user the same seemingli random password
+evbdcl8 but that wont work for long it better to have the machin make a password
+built off some inform about the user that is publicli avail us a rel simpl
+set of algorithm a hacker can convert a user name such as halbfish into an obscur
+look string like rueavzhr letter ar read as number by comput speak ascii
+code so the algorithm ar us sine valu to convert the ascii valu into a new set
+of number
+here a good exampl of how manipul a random work denni ritchi who
+help develop unix technolog report how a hacker attack on compani system
+comput offici at the compani had their system gener password each eight
+charact long mix letter and digit in a brute forc attack it should have taken 112
+year to crack the nearli 3 trillion possibl howev the random on the compani
+system could onli take 32768 seed for password the hacker us hi own machin to
+gener and test each of those combin us accord to ritchi a total of onli
+about on minut of machin time in less time than the averag commerci break run on
+televis the hacker breach a seemingli impenetr system
+buffer overflow exploit
+buffer overflow exploit ar on of the largest problem in comput secur todai in all
+applic program there ar buffer that hold data these buffer have a fix size if an
+attack send too much data into on of these buffer the buffer overflow the server
+comput and internet fraud financi transact
+11810 2011 fraud examin manual
+then execut the data that overflow as a program thi program mai do ani number of
+thing like send password to russia alter system file or instal
+backdoor depend on what data the attack sent to the buffer
+privileg escal exploit
+privileg escal exploit grant administr or rootlevel access to user who previous
+did not have such access for exampl an account exist on all window nt and 2000
+server call guest thi account by default ha no password anyon can login to the
+server us thi guest account and then us a common privileg escal exploit call
+getadmin to gain administratorlevel access to the system mani other privileg escal
+exploit exist such as hackdll and other these exploit ar veri us sinc thei allow
+anyon who ha ani level of access to a system to easili elev their privileg level and
+perform ani activ thei desir
+backdoor
+when attack obtain rootlevel access to a server us a buffer overflow exploit or a
+privileg escal exploit for exampl thei will want to do two thing
+instal a backdoor
+cover their track
+backdoor allow attack to remot access a system again in the futur for exampl the
+attack mai have us a particular secur hole to get rootlevel access to a comput
+howev over time that particular secur hole mai be close prevent the attack from
+access the system again in order to avoid be shut out in the futur attack instal
+backdoor these backdoor take differ form but all allow an attack to access the
+server again without go through the standard login procedur and without have to
+repeat the attack that gave them access in the first place mani worm instal backdoor as a
+part of their malici payload code red ii for exampl instal a backdoor that provid
+access to the c and d drive of the compromis web server from anywher on the
+internet other common backdoor program ar netbu and backorific which allow
+attack to remot control a compromis server onc a backdoor is establish the
+hacker retreat and cover hi track to keep the initi attack unnot
+http exploit
+http exploit involv us the web server applic to perform malici activ
+these attack ar veri common and ar grow in popular becaus firewal typic
+financi transact comput and internet fraud
+2011 fraud examin manual 11811
+block most traffic from the internet to keep it awai from corpor server howev
+http traffic us for web brows is almost alwai allow to pass through firewal
+unhind thu attack have a direct line to the web server if thei can coerc the web
+server into perform malici activ thei can access resourc that would otherwis
+be unavail
+antihack measur
+becaus hacker requir dialin capabl to gain access the best prevent strategi is to
+elimin as mani dialin port as possibl unfortun the trend todai is to instal more
+not fewer dialin capabl becaus telecommut and custom connect ar drive
+the demand for more dialin capabl the follow ar some prevent measur that can
+be implement
+welcom screen ar usual proudli displai at signin with a messag such as
+welcom to the xyz corpor comput network
+to discourag unauthor us such a screen might be replac with on that inform
+the user that he is about to access a proprietari network addition the screen should
+warn that unauthor access is prohibit and will be prosecut under the law the
+screen should not identifi either the organ or the network
+secur polici should be establish and dissemin throughout the organ
+these polici should includ train for all employe custom who will appreci
+the addit secur and other who have a need to access the network
+callback modem should be us wherev practic these modem will answer an
+incom call and requir the sender to enter a password onc the caller ha identifi
+himself the modem will termin the connect and dial a previous establish
+phone number when the prearrang number is call the sender must again perform
+the signon procedur
+secur softwar packag should be secur to the highest level possibl most major
+softwar compani todai have to releas updat and patch to their softwar everi so
+often check your softwar vendor websit on a regular basi for new secur patch
+or us the new autom patch featur that some compani offer
+password should be us in accord with sound secur practic for exampl
+password should be chang period everi 90 dai is suggest
+password should be of suffici length to deter guess a minimum of 8
+charact is suggest
+comput and internet fraud financi transact
+11812 2011 fraud examin manual
+password of transfer or termin employe should be chang immedi
+most purchas softwar come with a ve ndor suppli password that is us for
+instal and then delet all packag should be audit to ensur that these default
+password which ar wide known have been chang
+encrypt should be consid for sensit data file password file and sensit
+comput program
+commun softwar should termin ani connect whether dialin or direct
+connect after
+a reason number of unsuccess attempt to enter a valid password usual no
+more than three
+a termin direct connect or dialin ha been connect for a period of time with
+no activ thi is call timingout
+the termin connect will requir redial into the network andor reperform
+the login and verif process some compani requir the data secur offic to
+issu a new password befor the user can login again
+hacker public and commun should be review to learn the current jargon
+and hacker handl which ar the name that hacker us for their onlin persona
+hacker have us the internet quit effici to commun with each other while
+produc a signific amount of hack document and program almost ani
+hacker websit will contain a larg number of text file that explain how to hack or
+how variou system oper mani of these file will also explain the standard
+vulner of the system and the best method to penetr their secur
+hacker detect measur
+an adequ hacker detect program contain three primari compon
+almost all commun system maintain a log file that record all success and
+unsuccess system access attempt these also allow for the print of report
+contain signon and signoff activ these report should be print out regularli and
+review by the data secur offic where possibl special report should be print
+on the number of unsuccess access attempt these attempt at log into the
+system should be follow up by data secur to determin their caus
+the data secur function should have suffici resourc and staff to administ
+password maintain the secur softwar review system activ report and follow up
+on all potenti secur violat
+financi transact comput and internet fraud
+2011 fraud examin manual 11813
+final period review of telecommun secur should be perform by
+consult andor intern or extern auditor if the latter have the necessari
+experi and qualif
+hack insur
+dure the past three year a hand of cyberinsur have begun offer coverag
+specif design to address new form of inform ag exposur these ecommerc
+risk can includ theft damag or disclosur of data denial of servic attack theft of
+intellectu properti unauthor access loss of revenu infring of copyright and
+trademark and the consequ damag to busi reput these type of ecommerc
+risk ar cover by what is known as firstparti coverag
+thirdparti coverag cover the compani if it is be su for problem caus by
+technolog product error and omiss the pilfer public releas or misus of sensit
+or confidenti inform the unwit spread of disrupt virus hacker tamper to
+the inform and advertis carri on websit emailfacilit sexual harass and
+privaci infring
+mani busi believ that their tradit busi coverag will suffic or fail that
+their web host or isp will cover damag caus by ani of the abov in both case thei ar
+probabl wrong unless your busi insur polici or internet servic level agreement
+specif includ languag address ecommerc liabil ani damag will probabl not
+be cover

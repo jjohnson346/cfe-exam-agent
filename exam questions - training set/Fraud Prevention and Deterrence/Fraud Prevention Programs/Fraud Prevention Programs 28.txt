@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Which of the following types of personnel can potentially bind a corporation through their own misconduct?
+
+Options=Executive officers and directors | Low-level employees | Independent contractors | All of the above
+
+CorrectResponse=3
+
+Explanation=The corporate compliance policy should be communicated to everyone who can potentially bind a corporation through their own misconduct. This includes the following:Executive officers and directors Managers and supervisors Low-level employees Independent contractorsSee page(s) 4.713 in the Fraud Examiner's Manual

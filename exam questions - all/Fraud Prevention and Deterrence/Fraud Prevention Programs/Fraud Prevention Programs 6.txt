@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=An organization's compliance program should primarily be the responsibility of which of the following?
+
+Options=The board of directors | Internal security | The CEO | Any of the above
+
+CorrectResponse=0
+
+Explanation=It is preferable for the board of directors or one of the board's committees to control the organization's compliance program. For instance, many companies place their compliance programs under the control of audit committees. There are three principal benefits to this practice:•	The involvement of the board of directors lends an air of authority to the compliance program. It clearly identifies the program as a matter of company policy.•	The involvement of a board committee provides oversight to the operation of the program by personnel who are not involved in the day-to-day operation of the program.•	Because of the procedures generally adhered to by board committees, the efforts made to implement an effective compliance program will probably be documented. This documentation can prove useful if the company ever has to defend its actions and seek mitigation of a criminal fine.See page(s) 4.711 in the Fraud Examiner's Manual

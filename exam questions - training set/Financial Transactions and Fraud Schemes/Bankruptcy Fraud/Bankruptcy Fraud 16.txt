@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=Which one of the following is NOT a duty of a bankruptcy adjuster?
+
+Options=Arranging asset sales | Locating the assets of the bankrupt business | Opening new bank accounts | Attaching assets by subpoena
+
+CorrectResponse=3
+
+Explanation=Adjusters, or operations agents, are the ‰??right hand" to trustees and debtors. An adjuster is an individual who handles the peripheral duties of a trustee. Such duties include securing the business location, changing locks, locating assets of the estate, locating business records, opening new bank accounts, investigating thefts of assets in conjunction with the trustee, storing assets of the estate, and arranging sales of assets. Adjusters also can assist debtors and trustees in operating the debtor's business and in helping to prepare bankruptcy schedules, interim statements, and operating reports.See page(s) 1.1304 in the Fraud Examiner's Manual

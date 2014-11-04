@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=As a general rule, obtaining health information on an employee from the company's health care insurance plan is not prohibited as long as the information is only used internally.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The Health Insurance Portability and Accountability Act (HIPAA) instituted several new privacy rules. While most of the rules do not directly affect investigations, fraud examiners should be aware of the rules because they may have an impact on the type of information that can be legally gathered on employees. The most important thing to note is that if the HIPAA rules apply, you are restricted as to the type of health information you can access without specific written authorization. You should never contact the health care provider, the health plan administrator, or a medical billing services for copies of employee records without first consulting the employer's legal counsel or the HR department.See page(s) 3.410-3.411 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Many health care claims are now paid via EDI (Electronic Data Interchange) Because EDI leaves no paper trail it will make the process of fraud detection easier.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=EDI eliminates the abilities that fraud examiners have to detect fraud in the health care industry in three ways:‰?¢	The automation of claims has erased claims professionals‰?? ability to detect suspicious-looking claims. Because they are used to handling the paperwork of claims, EDI hampers the claims professional from getting a good picture of the overall nature of an account, instead reducing each transaction to individual claims.‰?¢	Because of the impersonal nature of electronic transactions, EDI raises the temptation of would-be fraudsters to commit white-collar crime.‰?¢	EDI leaves no paper trail, making the process of fraud detection difficult for the fraud examiner.See page(s) 1.1249 in the Fraud Examiner‰??s Manual

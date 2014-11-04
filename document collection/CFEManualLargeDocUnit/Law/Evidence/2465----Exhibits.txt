@@ -1,0 +1,764 @@
+2011 Fraud Examiners Manual/Law/BASIC PRINCIPLES OF EVIDENCE/Exhibits
+
+
+:
+
+
+Law
+
+
+:
+
+
+Evidence
+
+
+:
+
+
+Exhibits 
+Exhibits are the tangible objects presented as evidence. Therefore, both real evidence and 
+demonstrative evidence are entered into the record as exhibits. This includes documents such 
+as contracts, letters, and receipts, as well as photographs, X-rays, baseball bats, knives, 
+fountain pens and computer files. In short, anything that is not testimony is an exhibit. 
+Testimony is what people say. Exhibits are the “props.” 
+ 
+Authenticating Typical Exhibits 
+At the most basic level, evidence must be established as reliable or authentic. Thus, evidence, 
+other than testimonial evidence, must be properly authenticated; that is, the party offering the 
+evidence must produce some evidence to show it is, in fact, what the party says it is. If a piece 
+of real evidence cannot be authenticated, the evidence will not be admitted even if it is plainly 
+relevant.  
+ 
+For proper authentication, the party offering the evidence must produce some evidence (e.g., 
+testimony from a person with first-hand knowledge) to show it is, in fact, what the party says 
+it is and that it has remained in the same condition from the moment it was seized until it is 
+used in court. 
+ 
+Similar to the authentication requirement for tangible evidence, there is a similar sort of 
+“credibility test” for witnesses. If testimony is to become admissible evidence, the witness 
+must demonstrate that the knowledge being communicated is believable and gained by 
+personal experience.  
+ 
+Below are some of the issues you will encounter in proving to the judge that a particular 
+exhibit is authentic. 
+ 
+Demonstrative Evidence 
+Again, demonstrative evidence refers to a tangible item that illustrates some material proposition. 
+It differs from real evidence in that demonstrative evidence is not part of the underlying 
+event; it is created specifically for the trial. Its purpose is to provide a visual aid for the jury. 
+ 
+An exhibit used for purely “illustrative purposes” is a type of demonstrative evidence. 
+Demonstrative evidence includes charts, graphs, and summaries that help to simplify 
+complicated evidence for the jury. In complex fraud cases, such evidence is extremely useful, 
+but it must be simple and easy to understand.   
+Basic Principles of Evidence  Law 
+2.708  2011 Fraud Examiners Manual  
+Demonstrative evidence is admissible if the court decides that it presents a fair and balanced 
+summary or picture of the evidence and is not unduly prejudicial, and if offered for its truth 
+value (and not just to illustrate a point), demonstrative evidence must be authenticated to 
+show that the evidence is in fact what it is claimed to be.  
+ 
+Also, demonstrative evidence must be made available to the other party, and the court may 
+order that the information used to create the exhibit be produced in court. 
+ 
+Diagrams 
+A diagram  is a schematic or technical drawing that is used to help make something easier to 
+understand. A diagram (on paper or some other tangible display) can be admitted as evidence 
+with no more foundation than the assent of a witness: “Is this a fair representation of the 
+suite where you work?” It does not have to be true to scale or particularly detailed. A diagram 
+can be prepared before trial, during trial, or prepped outside the court and finished during 
+questioning. If a party objects to the admission of a diagram, the offering party may need to 
+establish that it is reliable. Diagrams can be used in tandem with photos or other 
+representational evidence, or as assistance in demonstrations to the jury. 
+ 
+Writings 
+In general, authentication of a writing consists of establishing who authored the document. 
+Depending on the document and situation, this is done in one of several ways: (1) the author 
+testifies and claims authorship; (2) a witness testifies to seeing the author write the document; 
+(3) with handwritten letters, a witness verifies the author’s penmanship; (4) with typed or 
+machine-written documents, the witness verifies the author’s signature; (5) a witness testifies 
+that the contents of the document point decisively to the author. These and many other 
+document issues may require the participation of a questioned documents expert.  
+ 
+Business Records and Other Documents 
+Business records can encompass a broad range of documents, from all sorts of organizations, 
+including corporations, small businesses, nonprofit operations, and community groups. Like 
+other evidence, a party offering business records must provide testimony that the exhibit is 
+the business record in question. For proper authentication, the party offering the evidence 
+should be able to establish the following two things: 
+• The content of the document is complete and unaltered 
+• The document originated from the named place of origination 
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.709 
+Certain documents, such as business records, are self-authenticating and may be received into 
+evidence without independent proof of authenticity. Under the Federal Rules of Evidence, 
+business records are self-authenticating if a custodian or other qualified person certifies that 
+the records meet the following requirements:  
+• The records were prepared reasonably near the time of the event it describes. 
+• The records were made by, or based on information transmitted from, a person with 
+knowledge 
+• The document was prepared as a usual part of doing business (i.e., it was not prepared 
+specifically for litigation). 
+ 
+Business records are also vulnerable to hearsay objections. Put differently, offering the 
+contents of business records to establish the truth of their contents can constitute hearsay. 
+Thus, such materials can be barred as unreliable out-of-court statements unless a trustworthy 
+foundation can be established. If, however, there is certification that complies with the self-authenticating 
+rules listed above, the records will not only be self-authenticating, but the 
+contents of the records will be admissible to the prove the truth of the contents as an 
+exception to the rule against hearsay.  
+ 
+Government Documents 
+The requirements for government documents are the same as for other business records. The 
+distinction between government and business records arose because of narrow interpretations 
+of the law that separated nonprofit from for-profit enterprises. Today, most records, 
+regardless of origin, are called business records. 
+ 
+Phone Records 
+To be admitted into evidence, phone records  must meet the business records authentication test. 
+However, investigators must also be aware of the federal Telephone Records and Privacy 
+Protection Act of 2006 (TRPPA), which criminalizes the practice of obtaining and attempting 
+to obtain confidential phone record information through pretexting (gaining access through 
+the use of false statements) unless it is otherwise permitted by law. Violations of the Act are 
+criminal, and if convicted, a violator faces up to 10 years in prison and up to $100,000 in 
+fines.  
+ 
+Electronically Stored Information 
+Currently, there is still much controversy regarding how to authenticate electronically stored 
+information (ESI). The U.S. Department of Justice’s Computer Crime and Intellectual 
+Basic Principles of Evidence  Law 
+2.710  2011 Fraud Examiners Manual  
+Property Section has developed a manual for electronic search and seizure, which judges have 
+used as a guide as to whether digital evidence has been properly seized. If digital evidence 
+needs to be seized, it is vital that examiners engage the services of a trained computer forensic 
+technician. A properly trained technician should know the procedures to follow to ensure that 
+the files can be authenticated. 
+ 
+Generally, to be admissible, ESI evidence must meet the same authentication standards as 
+hard copy documents (i.e., to show that the item is what the proponent claims); however, 
+courts have recognized that the authentication of ESI evidence may require greater scrutiny 
+because ESI can easily be altered after creation. Thus, to prove that a particular electronic 
+document is authentic, those offering the evidence must demonstrate that the original 
+document was not modified after its creation.  
+ 
+Rule 901 of the Federal Rules of Evidence provides a non-exclusive, explicative list of 
+methods by which evidence can be authenticated, and some of the methods may be used to 
+authenticate ESI. Rule 901(b)(1) allows authentication through testimony of a witness with 
+knowledge that a matter is what it is claimed to be. Additionally, Rule 901(b)(3) allows for 
+authentication by comparison to already authenticated evidence by an expert witness or the 
+trier of fact. Similarly, Rule 901(b)(4) allows authentication by circumstantial evidence of 
+distinctive characteristics (e.g., hash values or metadata).  
+ 
+Furthermore, under Rule 902, some documents are self-authenticating, which means that they 
+may be received into evidence without independent proof of authenticity. For ESI purposes, 
+the three most relevant categories of self-authenticating documents are official publications, 
+trade inscriptions, and certified copies of business records.  
+ 
+In addition, different forms of ESI evidence may require different authentication approaches. 
+Therefore, it is helpful to examine a few common types.  
+ 
+E-MAIL 
+Unlike traditional business letters written on formal letterhead, e-mails are more prone to 
+authenticity issues and may be more difficult to properly authenticate. For example, the judge 
+in Lorraine v. Markel, 241 F.R.D. 534 (D. Md. 2007) refused to allow either party to offer e-mails
+of an arbitration negotiation as evidence, finding that neither party authenticated the e-mails 
+by simply attaching them to their motions as exhibits. 
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.711 
+E-mail authenticity issues usually arise because e-mail systems are unreliable and inherently 
+unsecure, making e-mails susceptible to alteration. Moreover, e-mails can lack reliability 
+because the identities of senders can be corrupted through unauthorized access and use.  
+ 
+Even so, there are numerous ways e-mail can be authenticated, including:  
+• Witness with personal knowledge (e.g., a witness testifies that he recognizes a copy of an 
+e-mail that he received or drafted) 
+• Comparison with authenticated examples (e.g., if one e-mail has been properly 
+authenticated, a second e-mail could by authenticated by comparing it with the first) 
+• Circumstantial evidence of distinctive characteristics (e.g., the presence of a party’s name 
+and e-mail address or the presence of metadata) 
+• Trade inscriptions purporting to have been affixed in the course of business and 
+indicating ownership, control, or origin (e.g., an automatic business signature at the end of 
+the e-mail) 
+• Certified copies of business records (e.g., e-mail is accompanied by a written certification 
+by its custodian) 
+ 
+TEXT AND INSTANT MESSAGES 
+As the use of text and instant messages continues to grow, parties are offering this ESI as 
+evidence in an increasing number of cases. However, given the nature of this type of 
+evidence, parties often encounter foundational issues when authenticating text and instant 
+messages. Notwithstanding the novel technology involved, these types of ESI can be 
+admissible when the proponent offers direct or circumstantial evidence as to its authenticity. 
+The most likely authenticate chat room and text messages are: 
+• Witness with personal knowledge (e.g., a witness testifies that he recognizes a copy 
+messages that he received or drafted) 
+• Circumstantial evidence of distinctive characteristics (e.g., the use of the defendant’s name 
+in the text messages and the subject matter of the messages) 
+ 
+COMPUTER RECORDS  
+Courts typically accept computer files and documents as evidence. In fact, courts themselves 
+are using more electronic resources because many aspects of litigation can now be conducted 
+electronically. 
+ 
+Traditionally, to be admitted as evidence, computerized records need only meet the usual 
+business-records authentication, which requires that the computerized records be 
+Basic Principles of Evidence  Law 
+2.712  2011 Fraud Examiners Manual  
+accompanied by certification by a qualified person stating that (1) the records were prepared 
+reasonably near the time of the event they describe, (2) the records were prepared as a usual 
+part of doing business, and (3) the organization’s way of keeping records is demonstrably 
+reliable.  
+ 
+The required supporting material to authenticate computer records will include information 
+on the computing machine used, any software, and the record-keeping process. A business 
+record, electronic or otherwise, is legal as long as it’s kept in the normal course of business. 
+When there are clear routines for compiling information, admitting the record into court will 
+be routine.  
+ 
+Recently, however, courts have recognized that authentication of computerized records may 
+require greater scrutiny because, unlike other ESI evidence, the primary authentication issue 
+regarding computerized records is what has, or may have, happened to the record in the time 
+between when it was entered in the files and the time of trial. Based upon this view, the most 
+likely methods of authenticating computerized records are: 
+• Witness with personal knowledge (e.g., an authenticating witness attests to the process by 
+which the computerized records are created, acquired, maintained, and preserved) 
+• Circumstantial evidence of distinctive characteristics (e.g., a person’s business habit is 
+consistent with the document) 
+• Certified copies of business records (e.g., computerized records are accompanied by 
+custodian’s written certification)  
+ 
+Website Data 
+A growing number of people are using social networking sites like LinkedIn, Facebook, 
+MySpace, and Twitter, and, as a result, the legal use of information obtained from social 
+media sites has increased. Many users don’t give much thought to what they post online. And 
+because most of the information that gets posted online becomes a permanent record 
+somewhere, investigators, attorneys, and employers are increasingly mining these sites for 
+information, photos, and videos that can become evidence in civil and criminal litigation. 
+ 
+As with all evidence, the proponent of social media evidence must be prepared to establish 
+that the evidence is authentic. The standard for authenticating evidence from social media 
+sites is no different than for any other types of evidence. That is, there must be sufficient 
+evidence to support a finding that the evidence is what the proponent claims.  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.713 
+In some courts, authenticity can be established by the testimony of a witness. Like any other 
+demonstrative exhibit, parties can authenticate a website with the testimony of a witness who 
+verifies that the exhibit at issue accurately reflects what he observed after logging on to the 
+site and reviewing what was there.  
+ 
+Alternately, the proponent may be able authenticate a website by providing testimony from 
+the webmaster or someone with personal knowlege to show that the data was posted by the 
+person to whom the information is attributed. For example, if website data is attributated to 
+the website owner, the webmaster can testify that a particular file or content was entered on a 
+site at a specific time. This is similar to authenticating writings by showing that the item was 
+written by the person to whom it is attributed. But because Facebook, MySpace, and Twitter-type
+evidence typically comes from third parties, who sometimes uses pseudonyms, 
+attributing this type of evidence to a certain person can be challenging.  
+ 
+Finally, some website data may be self-authenticated. To review, self-authenticating evidence 
+may be received into evidence without independent proof of authenticity. The types of 
+website evidence that may fall under this category include government material that appears 
+on official government websites or business-related material that appears on an organization’s 
+website. 
+ 
+Photographs 
+Concerning photographs, it is necessary to establish their fidelity to the object they claim to 
+represent. This means that the offering party must prove that the picture is unaltered and 
+shows what the proponent claims it shows. Generally it is enough to have a witness familiar 
+with the object or space in a photo to corroborate it (e.g., “Yes, that’s the hallway running 
+between our two buildings.”). The matter gets more complicated when a photo is 
+controversial. This can require technical specifications for proper foundation. In the most 
+famous trial since Sam Sheppard, O.J. Simpson’s lawyers challenged a photo of the defendant 
+wearing Bruno Mali shoes as “doctored.” Both sides introduced experts to discuss whether 
+the photo had been altered, what sort of camera, lens, and environmental conditions were 
+involved, etc. The same issues can arise with photos in any trial.   
+ 
+In some unusual situations, a photo may reveal information that no witness can corroborate. 
+There has been at least one instance where the background of a photo showed a stabbing that 
+took place in a crowd. No one, not even the photographer, saw the stabbing at the time. In 
+unusual situations where a photo communicates evidence not substantiated elsewhere, the 
+Basic Principles of Evidence  Law 
+2.714  2011 Fraud Examiners Manual  
+foundation of the photograph will need more strength — including technical details on the 
+camera, the film, who took the shot, why and where, etc.  
+ 
+The exceptions make photos seem more legally fraught than they are. They usually are 
+admitted with little objection. Photos do not even have to be contemporary with the crime or 
+grievance to which they pertain. If a photograph is established as accurate in its portrayal, it 
+can be shot after the original act.  
+ 
+General Points 
+Either side can enter exhibits into the record, given the proper foundation. Once admitted, 
+the evidence is available for use by either side. It does not matter who entered the item into 
+evidence; either side can use it during questioning.  
+ 
+It also does not matter when exhibits are admitted. They may be introduced into evidence 
+during direct examination: opposing counsel is allowed to inspect the exhibit and then the 
+witness confirms the exhibit, which has been marked Exhibit A (or Exhibit 1). Some courts 
+use letters for exhibits while some court use numbers. Usually the exhibit is identified by 
+which side enters it (e.g., Plaintiff’s Exhibit 1.)  
+ 
+When everyone agrees, exhibits can be directly entered into the record, without foundational 
+review, by stipulation — both parties sign the stipulation form, describing and acknowledging 
+the exhibit. 
+ 
+The “Best Evidence” Rule 
+Sometimes testimony may be rejected because of the “best evidence” rule, which prohibits a 
+party from testifying about the contents of a document without producing the document 
+itself. This rule, however, only applies when an original or copy is being used to prove the 
+contents of a writing.  
+ 
+Also known as the “original writing” rule, the best evidence rule provides that when a witness 
+testifies about the contents of a document, at least a fair copy of the original must be available 
+for inspection. If there is no original, a copy of the proven authentic document will do, but 
+the court must be assured that the copies are reliable and accurate. If the document is lost —
+no original, no copies — the judge will have to be convinced there is good reason to forgo the 
+exhibit and admit the testimony.  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.715 
+Fraud examiners can use copies in preparing their case reports, but at trial, the original must 
+be produced if it is available. Thus, when public records are involved in a fraud examination, 
+examiners should always obtain certified copies. 
+ 
+With regard to computerized data, the best evidence rule does not require the party offering 
+ESI as evidence to bring the original custodian’s computer, monitor, and other equipment to 
+display the information at trial. Rather, Rule 1001(3) provides that an original writing includes 
+any printout or other “output readable by sight, shown to reflect the data accurately.” Thus, 
+hard-copy printouts of documents, e-mail, and other ESI qualify as originals under the 
+Federal Rules of Evidence.  
+ 
+Objections to Exhibits 
+Just because an exhibit is authenticated does not mean it is automatically admitted. If the 
+evidence violates some other rule of evidence — such as the rules against hearsay, prejudice, or 
+relevance — the exhibit will likely be barred. 
+ 
+If an objection is made, the admissibility of some exhibits require separate hearings for the 
+judge to consider the issue. Fraud trials can be bogged down with lengthy challenges to the 
+sometimes mountainous stacks of documents offered as evidence. In deciding on the 
+admissibility of exhibits, judges can decide to admit the material just as it is, admit it with 
+alterations (such as expurgating parts of a text or obscuring certain images), or deny the 
+admission altogether. 
+ 
+Chain of Custody 
+If evidence is subject to change over time, or is susceptible to alteration, the offering party 
+may need to establish that the evidence has not been altered or changed from the time it was 
+collected through its production in court. This is done by establishing a chain of custody. The 
+chain of custody is both a process and a document that memorializes (1) who has had possession 
+of an object, and (2) what they have done with it; it is simply a means of establishing that 
+there has not been a material change or alteration to a piece of evidence. 
+ 
+Chain of custody issues are paramount issues in any case, affecting every piece of physical 
+evidence. When parties present evidence to a court, they must be ready to show that the item 
+they are offering is the same item that was seized. When that evidence is not distinctive but 
+fungible (e.g., bags of cash, bullet shell casings, or electronic data), the process or system 
+which authenticates the item is to maintain a chain of custody. 
+Basic Principles of Evidence  Law 
+2.716  2011 Fraud Examiners Manual  
+In general, establishing the chain of custody consists of documenting each person who had 
+control or custody of the evidence; how and when it was received; how it was maintained or 
+stored while in each person’s possession; what changes, if any, it underwent in that person’s 
+custody; and how it left that person’s custody.  The end result is a chain of testimony that 
+accounts for the movement and location of physical evidence from the time it is obtained to 
+the time it is proffered at trial. The goal is to show that access to the evidence was limited to 
+those who testified in the chain of custody and thereby demonstrate that the evidence has not 
+been materially altered. 
+ 
+Gaps in the chain of custody (e.g., when it is not clear what occurred with a set of records) or 
+outright mishandling (e.g., a group of questioned documents was not properly sealed), can 
+dishevel a case but not wreck it outright. Courts have found in some cases that even though 
+there have been mistakes in the chain of custody, the mistake affects the “weight,” though 
+not the “admissibility,” of evidence. That is to say, the evidence will still be allowed into the 
+record, but it is accompanied by a forthright description of any improprieties that have 
+occurred in the chain of custody. The jury and judge are supposed to consider the 
+improprieties when they deliberate, “weighing” the case for guilt or innocence.  
+ 
+In fraud cases, the array of physical evidence, all the paper documents, audio and video 
+recordings, and information-processing equipment, such as computers, demands some close 
+monitoring in the chain of custody. This is an area of the law which either side — plaintiff or 
+defendant — can manipulate to avoid talking about the evidence itself, rambling instead like a 
+filibustering senator over “who touched what and when and why that means we will not see 
+or discuss the item in question.”  
+ 
+The following are some general guidelines that will help examiners demonstrate the chain of 
+custody. They will also help examiners in authenticating obtained evidence: 
+• If records are received via mail or courier-receipted delivery (such as FedEx or UPS), 
+keep copies of the postmarked envelope or the delivery receipts. 
+• If a cover letter is included, make sure you keep it. 
+• If the cover letter or transmittal letter includes a list of the documents, check the package 
+immediately to ensure all documents are there. If something is missing, make a note in the 
+file and notify the sender immediately.  
+• If you receive documents in person, create a memo stating the date and time the 
+documents were received, who gave you the documents, where that individual obtained 
+the documents, and a complete list of the documents received. 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.717 
+• If you obtained the documents yourself from the original source (desk, file cabinet, etc.), 
+create a memo describing the date, time, exact location of where the documents were 
+found, and a complete list of the documents obtained. 
+• Keep the originals of these memos or delivery receipts in the case file and keep a copy 
+with the documents (it will be much easier to identify where the documents came from if 
+you have the information with the documents). 
+ 
+Additionally, because digital evidence can be easily altered or destroyed, a chain of custody 
+must be maintained for all electronic evidence gathered and analyzed in an investigation. ”At 
+a minimum, the following chain of custody procedures should be followed: 
+• Identify each item that contains relevant information.  
+• Document each item, who it was received from, who authorized its removal, the location 
+of the item, and the date and time the item was received.  
+• Maintain a continuous record of the item’s custody as it changes hands.  
+ 
+ 
+
+
+
+:
+
+
+exhibit
+exhibit ar the tangibl object present as evid therefor both real evid and
+demonstr evid ar enter into the record as exhibit thi includ document such
+as contract letter and receipt as well as photograph xrai basebal bat knive
+fountain pen and comput file in short anyth that is not testimoni is an exhibit
+testimoni is what peopl sai exhibit ar the prop
+authent typic exhibit
+at the most basic level evid must be establish as reliabl or authent thu evid
+other than testimoni evid must be properli authent that is the parti offer the
+evid must produc some evid to show it is in fact what the parti sai it is if a piec
+of real evid cannot be authent the evid will not be admit even if it is plainli
+relev
+for proper authent the parti offer the evid must produc some evid eg
+testimoni from a person with firsthand knowledg to show it is in fact what the parti sai
+it is and that it ha remain in the same condit from the moment it wa seiz until it is
+us in court
+similar to the authent requir for tangibl evid there is a similar sort of
+credibl test for wit if testimoni is to becom admiss evid the wit
+must demonstr that the knowledg be commun is believ and gain by
+person experi
+below ar some of the issu you will encount in prove to the judg that a particular
+exhibit is authent
+demonstr evid
+again demonstr evid refer to a tangibl item that illustr some materi proposit
+it differ from real evid in that demonstr evid is not part of the underli
+event it is creat specif for the trial it purpos is to provid a visual aid for the juri
+an exhibit us for pure illustr purpos is a type of demonstr evid
+demonstr evid includ chart graph and summari that help to simplifi
+complic evid for the juri in complex fraud case such evid is extrem us
+but it must be simpl and easi to understand
+basic principl of evid law
+2708 2011 fraud examin manual
+demonstr evid is admiss if the court decid that it present a fair and balanc
+summari or pictur of the evid and is not unduli prejudici and if offer for it truth
+valu and not just to illustr a point demonstr evid must be authent to
+show that the evid is in fact what it is claim to be
+also demonstr evid must be made avail to the other parti and the court mai
+order that the inform us to creat the exhibit be produc in court
+diagram
+a diagram is a schemat or technic draw that is us to help make someth easier to
+understand a diagram on paper or some other tangibl displai can be admit as evid
+with no more foundat than the assent of a wit is thi a fair represent of the
+suit where you work it doe not have to be true to scale or particularli detail a diagram
+can be prepar befor trial dure trial or prep outsid the court and finish dure
+question if a parti object to the admiss of a diagram the offer parti mai need to
+establish that it is reliabl diagram can be us in tandem with photo or other
+represent evid or as assist in demonstr to the juri
+write
+in gener authent of a write consist of establish who author the document
+depend on the document and situat thi is done in on of sever wai 1 the author
+testifi and claim authorship 2 a wit testifi to see the author write the document
+3 with handwritten letter a wit verifi the author penmanship 4 with type or
+machinewritten document the wit verifi the author signatur 5 a wit testifi
+that the content of the document point decis to the author these and mani other
+document issu mai requir the particip of a question document expert
+busi record and other document
+busi record can encompass a broad rang of document from all sort of organ
+includ corpor small busi nonprofit oper and commun group like
+other evid a parti offer busi record must provid testimoni that the exhibit is
+the busi record in question for proper authent the parti offer the evid
+should be abl to establish the follow two thing
+the content of the document is complet and unalt
+the document origin from the name place of origin
+law basic principl of evid
+2011 fraud examin manual 2709
+certain document such as busi record ar selfauthent and mai be receiv into
+evid without independ proof of authent under the feder rule of evid
+busi record ar selfauthent if a custodian or other qualifi person certifi that
+the record meet the follow requir
+the record were prepar reason near the time of the event it describ
+the record were made by or base on inform transmit from a person with
+knowledg
+the document wa prepar as a usual part of do busi ie it wa not prepar
+specif for litig
+busi record ar also vulner to hearsai object put differ offer the
+content of busi record to establish the truth of their content can constitut hearsai
+thu such materi can be bar as unreli outofcourt statement unless a trustworthi
+foundat can be establish if howev there is certif that compli with the selfauthent
+rule list abov the record will not onli be selfauthent but the
+content of the record will be admiss to the prove the truth of the content as an
+except to the rule against hearsai
+govern document
+the requir for govern document ar the same as for other busi record the
+distinct between govern and busi record aros becaus of narrow interpret
+of the law that separ nonprofit from forprofit enterpris todai most record
+regardless of origin ar call busi record
+phone record
+to be admit into evid phone record must meet the busi record authent test
+howev investig must also be awar of the feder telephon record and privaci
+protect act of 2006 trppa which crimin the practic of obtain and attempt
+to obtain confidenti phone record inform through pretext gain access through
+the us of fals statement unless it is otherwis permit by law violat of the act ar
+crimin and if convict a violat face up to 10 year in prison and up to 100000 in
+fine
+electron store inform
+current there is still much controversi regard how to authent electron store
+inform esi the us depart of justic comput crime and intellectu
+basic principl of evid law
+2710 2011 fraud examin manual
+properti section ha develop a manual for electron search and seizur which judg have
+us as a guid as to whether digit evid ha been properli seiz if digit evid
+need to be seiz it is vital that examin engag the servic of a train comput forens
+technician a properli train technician should know the procedur to follow to ensur that
+the file can be authent
+gener to be admiss esi evid must meet the same authent standard as
+hard copi document ie to show that the item is what the propon claim howev
+court have recogn that the authent of esi evid mai requir greater scrutini
+becaus esi can easili be alter after creation thu to prove that a particular electron
+document is authent those offer the evid must demonstr that the origin
+document wa not modifi after it creation
+rule 901 of the feder rule of evid provid a nonexclus explic list of
+method by which evid can be authent and some of the method mai be us to
+authent esi rule 901b1 allow authent through testimoni of a wit with
+knowledg that a matter is what it is claim to be addition rule 901b3 allow for
+authent by comparison to alreadi authent evid by an expert wit or the
+trier of fact similarli rule 901b4 allow authent by circumstanti evid of
+distinct characterist eg hash valu or metadata
+furthermor under rule 902 some document ar selfauthent which mean that thei
+mai be receiv into evid without independ proof of authent for esi purpos
+the three most relev categori of selfauthent document ar offici public
+trade inscript and certifi copi of busi record
+in addit differ form of esi evid mai requir differ authent approach
+therefor it is help to examin a few common type
+email
+unlik tradit busi letter written on formal letterhead email ar more prone to
+authent issu and mai be more difficult to properli authent for exampl the judg
+in lorrain v markel 241 frd 534 d md 2007 refus to allow either parti to offer email
+of an arbitr negoti as evid find that neither parti authent the email
+by simpli attach them to their motion as exhibit
+law basic principl of evid
+2011 fraud examin manual 2711
+email authent issu usual aris becaus email system ar unreli and inher
+unsecur make email suscept to alter moreov email can lack reliabl
+becaus the ident of sender can be corrupt through unauthor access and us
+even so there ar numer wai email can be authent includ
+wit with person knowledg eg a wit testifi that he recogn a copi of an
+email that he receiv or draft
+comparison with authent exampl eg if on email ha been properli
+authent a second email could by authent by compar it with the first
+circumstanti evid of distinct characterist eg the presenc of a parti name
+and email address or the presenc of metadata
+trade inscript purport to have been affix in the cours of busi and
+indic ownership control or origin eg an automat busi signatur at the end of
+the email
+certifi copi of busi record eg email is accompani by a written certif
+by it custodian
+text and instant messag
+as the us of text and instant messag continu to grow parti ar offer thi esi as
+evid in an increas number of case howev given the natur of thi type of
+evid parti often encount foundat issu when authent text and instant
+messag notwithstand the novel technolog involv these type of esi can be
+admiss when the propon offer direct or circumstanti evid as to it authent
+the most like authent chat room and text messag ar
+wit with person knowledg eg a wit testifi that he recogn a copi
+messag that he receiv or draft
+circumstanti evid of distinct characterist eg the us of the defend name
+in the text messag and the subject matter of the messag
+comput record
+court typic accept comput file and document as evid in fact court themselv
+ar us more electron resourc becaus mani aspect of litig can now be conduct
+electron
+tradition to be admit as evid computer record need onli meet the usual
+businessrecord authent which requir that the computer record be
+basic principl of evid law
+2712 2011 fraud examin manual
+accompani by certif by a qualifi person state that 1 the record were prepar
+reason near the time of the event thei describ 2 the record were prepar as a usual
+part of do busi and 3 the organ wai of keep record is demonstr
+reliabl
+the requir support materi to authent comput record will includ inform
+on the comput machin us ani softwar and the recordkeep process a busi
+record electron or otherwis is legal as long as it kept in the normal cours of busi
+when there ar clear routin for compil inform admit the record into court will
+be routin
+recent howev court have recogn that authent of computer record mai
+requir greater scrutini becaus unlik other esi evid the primari authent issu
+regard computer record is what ha or mai have happen to the record in the time
+between when it wa enter in the file and the time of trial base upon thi view the most
+like method of authent computer record ar
+wit with person knowledg eg an authent wit attest to the process by
+which the computer record ar creat acquir maintain and preserv
+circumstanti evid of distinct characterist eg a person busi habit is
+consist with the document
+certifi copi of busi record eg computer record ar accompani by
+custodian written certif
+websit data
+a grow number of peopl ar us social network site like linkedin facebook
+myspac and twitter and as a result the legal us of inform obtain from social
+media site ha increas mani user dont give much thought to what thei post onlin and
+becaus most of the inform that get post onlin becom a perman record
+somewher investig attornei and employ ar increasingli mine these site for
+inform photo and video that can becom evid in civil and crimin litig
+as with all evid the propon of social media evid must be prepar to establish
+that the evid is authent the standard for authent evid from social media
+site is no differ than for ani other type of evid that is there must be suffici
+evid to support a find that the evid is what the propon claim
+law basic principl of evid
+2011 fraud examin manual 2713
+in some court authent can be establish by the testimoni of a wit like ani other
+demonstr exhibit parti can authent a websit with the testimoni of a wit who
+verifi that the exhibit at issu accur reflect what he observ after log on to the
+site and review what wa there
+altern the propon mai be abl authent a websit by provid testimoni from
+the webmast or someon with person knowleg to show that the data wa post by the
+person to whom the inform is attribut for exampl if websit data is attribut to
+the websit owner the webmast can testifi that a particular file or content wa enter on a
+site at a specif time thi is similar to authent write by show that the item wa
+written by the person to whom it is attribut but becaus facebook myspac and twittertyp
+evid typic come from third parti who sometim us pseudonym
+attribut thi type of evid to a certain person can be challeng
+final some websit data mai be selfauthent to review selfauthent evid
+mai be receiv into evid without independ proof of authent the type of
+websit evid that mai fall under thi categori includ govern materi that appear
+on offici govern websit or businessrel materi that appear on an organ
+websit
+photograph
+concern photograph it is necessari to establish their fidel to the object thei claim to
+repres thi mean that the offer parti must prove that the pictur is unalt and
+show what the propon claim it show gener it is enough to have a wit familiar
+with the object or space in a photo to corrobor it eg ye that the hallwai run
+between our two build the matter get more complic when a photo is
+controversi thi can requir technic specif for proper foundat in the most
+famou trial sinc sam sheppard oj simpson lawyer challeng a photo of the defend
+wear bruno mali shoe as doctor both side introduc expert to discuss whether
+the photo had been alter what sort of camera len and environment condit were
+involv etc the same issu can aris with photo in ani trial
+in some unusu situat a photo mai reveal inform that no wit can corrobor
+there ha been at least on instanc where the background of a photo show a stab that
+took place in a crowd no on not even the photograph saw the stab at the time in
+unusu situat where a photo commun evid not substanti elsewher the
+basic principl of evid law
+2714 2011 fraud examin manual
+foundat of the photograph will need more strength includ technic detail on the
+camera the film who took the shot why and where etc
+the except make photo seem more legal fraught than thei ar thei usual ar
+admit with littl object photo do not even have to be contemporari with the crime or
+grievanc to which thei pertain if a photograph is establish as accur in it portray it
+can be shot after the origin act
+gener point
+either side can enter exhibit into the record given the proper foundat onc admit
+the evid is avail for us by either side it doe not matter who enter the item into
+evid either side can us it dure question
+it also doe not matter when exhibit ar admit thei mai be introduc into evid
+dure direct examin oppos counsel is allow to inspect the exhibit and then the
+wit confirm the exhibit which ha been mark exhibit a or exhibit 1 some court
+us letter for exhibit while some court us number usual the exhibit is identifi by
+which side enter it eg plaintiff exhibit 1
+when everyon agre exhibit can be directli enter into the record without foundat
+review by stipul both parti sign the stipul form describ and acknowledg
+the exhibit
+the best evid rule
+sometim testimoni mai be reject becaus of the best evid rule which prohibit a
+parti from testifi about the content of a document without produc the document
+itself thi rule howev onli appli when an origin or copi is be us to prove the
+content of a write
+also known as the origin write rule the best evid rule provid that when a wit
+testifi about the content of a document at least a fair copi of the origin must be avail
+for inspect if there is no origin a copi of the proven authent document will do but
+the court must be assur that the copi ar reliabl and accur if the document is lost
+no origin no copi the judg will have to be convinc there is good reason to forgo the
+exhibit and admit the testimoni
+law basic principl of evid
+2011 fraud examin manual 2715
+fraud examin can us copi in prepar their case report but at trial the origin must
+be produc if it is avail thu when public record ar involv in a fraud examin
+examin should alwai obtain certifi copi
+with regard to computer data the best evid rule doe not requir the parti offer
+esi as evid to bring the origin custodian comput monitor and other equip to
+displai the inform at trial rather rule 10013 provid that an origin write includ
+ani printout or other output readabl by sight shown to reflect the data accur thu
+hardcopi printout of document email and other esi qualifi as origin under the
+feder rule of evid
+object to exhibit
+just becaus an exhibit is authent doe not mean it is automat admit if the
+evid violat some other rule of evid such as the rule against hearsai prejudic or
+relev the exhibit will like be bar
+if an object is made the admiss of some exhibit requir separ hear for the
+judg to consid the issu fraud trial can be bog down with lengthi challeng to the
+sometim mountain stack of document offer as evid in decid on the
+admiss of exhibit judg can decid to admit the materi just as it is admit it with
+alter such as expurg part of a text or obscur certain imag or deni the
+admiss altogeth
+chain of custodi
+if evid is subject to chang over time or is suscept to alter the offer parti
+mai need to establish that the evid ha not been alter or chang from the time it wa
+collect through it product in court thi is done by establish a chain of custodi the
+chain of custodi is both a process and a document that memori 1 who ha had possess
+of an object and 2 what thei have done with it it is simpli a mean of establish that
+there ha not been a materi chang or alter to a piec of evid
+chain of custodi issu ar paramount issu in ani case affect everi piec of physic
+evid when parti present evid to a court thei must be readi to show that the item
+thei ar offer is the same item that wa seiz when that evid is not distinct but
+fungibl eg bag of cash bullet shell case or electron data the process or system
+which authent the item is to maintain a chain of custodi
+basic principl of evid law
+2716 2011 fraud examin manual
+in gener establish the chain of custodi consist of document each person who had
+control or custodi of the evid how and when it wa receiv how it wa maintain or
+store while in each person possess what chang if ani it underw in that person
+custodi and how it left that person custodi the end result is a chain of testimoni that
+account for the movement and locat of physic evid from the time it is obtain to
+the time it is proffer at trial the goal is to show that access to the evid wa limit to
+those who testifi in the chain of custodi and therebi demonstr that the evid ha not
+been materi alter
+gap in the chain of custodi eg when it is not clear what occur with a set of record or
+outright mishandl eg a group of question document wa not properli seal can
+dishevel a case but not wreck it outright court have found in some case that even though
+there have been mistak in the chain of custodi the mistak affect the weight though
+not the admiss of evid that is to sai the evid will still be allow into the
+record but it is accompani by a forthright descript of ani improprieti that have
+occur in the chain of custodi the juri and judg ar suppos to consid the
+improprieti when thei deliber weigh the case for guilt or innoc
+in fraud case the arrai of physic evid all the paper document audio and video
+record and informationprocess equip such as comput demand some close
+monitor in the chain of custodi thi is an area of the law which either side plaintiff or
+defend can manipul to avoid talk about the evid itself rambl instead like a
+filibust senat over who touch what and when and why that mean we will not see
+or discuss the item in question
+the follow ar some gener guidelin that will help examin demonstr the chain of
+custodi thei will also help examin in authent obtain evid
+if record ar receiv via mail or courierreceipt deliveri such as fedex or up
+keep copi of the postmark envelop or the deliveri receipt
+if a cover letter is includ make sure you keep it
+if the cover letter or transmitt letter includ a list of the document check the packag
+immedi to ensur all document ar there if someth is miss make a note in the
+file and notifi the sender immedi
+if you receiv document in person creat a memo state the date and time the
+document were receiv who gave you the document where that individu obtain
+the document and a complet list of the document receiv
+law basic principl of evid
+2011 fraud examin manual 2717
+if you obtain the document yourself from the origin sourc desk file cabinet etc
+creat a memo describ the date time exact locat of where the document were
+found and a complet list of the document obtain
+keep the origin of these memo or deliveri receipt in the case file and keep a copi
+with the document it will be much easier to identifi where the document came from if
+you have the inform with the document
+addition becaus digit evid can be easili alter or destroi a chain of custodi
+must be maintain for all electron evid gather and analyz in an investig at
+a minimum the follow chain of custodi procedur should be follow
+identifi each item that contain relev inform
+document each item who it wa receiv from who author it remov the locat
+of the item and the date and time the item wa receiv
+maintain a continu record of the item custodi as it chang hand

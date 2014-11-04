@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+detail                                 1
+for                                    1
+state                                  2
+yellow                                 2
+judicial                               2
+staff                                  1
+federal                                2
+more                                   2
+chambers                               1
+judge                                  2
+detailed                               1
+features                               1
+on                                     3
+clerks                                 1
+1,300                                  1
+law                                    1
+information                            3
+it                                     1
+judges                                 3
+gives                                  1
+biographical                           1
+provides                               1
+providing                              1
+the                                    1
+2,200                                  1
+depth                                  1
+and                                    4
+including                              1
+than                                   2
+book                                   2
+each                                   2
+
+Totals:                     31        49

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Although they are legal companies, revenue recovery firms have been accused of padding fictitious medical bills and expenses to insurance claims.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One form of health care fraud involves so-called revenue recovery firms padding medical bills. These billing consultants review patients‰?? bills (months or even years after treatment) looking for charges that were missed. Critics have charged that too often these firms pad medical bills by adding on fictitious charges. The more charges that are added onto the bill, the more the revenue recovery firm gets paid. In addition, its employees may be paid bonuses for piling on extra charges and pressured to meet monthly quotas.See page(s) 1.1232-1.1233 in the Fraud Examiner's Manual

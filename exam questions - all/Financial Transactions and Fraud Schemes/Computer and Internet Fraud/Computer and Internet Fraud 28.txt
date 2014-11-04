@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All of the following are considered drawbacks to an encryption system for computer voice and data transmission, EXCEPT:
+
+Options=Frequency of inaccurate responses | Inherent delays by extra steps required for processing | Cost of the hardware and software | Cost of administration
+
+CorrectResponse=0
+
+Explanation=Network security can be provided by a combination of design, hardware devices, and software. Data encryption is carried out by a combination of hardware and software. Encrypted data is scrambled by a formula using a unique key and can only be unscrambled with the same formula and key at the receiving end. The decision to use encryption should be made in light of the risks and after a cost-benefit analysis. Drawbacks to encryption are the cost of the hardv/are and software, the cost of the administration, and the inherent delays incurred by the extra steps required for processing.See page(s) 1.1840 in the Fraud Examiner's Manual

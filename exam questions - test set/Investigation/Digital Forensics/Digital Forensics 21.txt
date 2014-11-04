@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Which of the following is a type of peripheral device that can be used to retrieve computer data from a subject's workstation?
+
+Options=Copiers | Printers | Removable storage devices | All of the above
+
+CorrectResponse=3
+
+Explanation=In addition to investigating the suspect's mainframe, it is also important to investigate the suspect's workstation, including any peripherals or other portable media devices that can be used to transmit or store data. As data moves to and from peripheral devices, it leaves evidence of its presence and sometimes leaves full copies of its contents. Therefore, fraud examiners should consider the many different types of peripherals that might contain evidence. Items to be seized might include:PrintersCopiers and scanners Fax machines Backup tapesRemovable storage devices Smart phonesSee page(s) 3.706-3.707 in the Fraud Examiner's Manual

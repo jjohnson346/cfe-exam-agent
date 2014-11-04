@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=When preparing a room for an admission-seeking interview, the suspect's chair should be:
+
+Options=Placed so that the examiner has a full view of the subject | Behind a desk | Wherever he is comfortable | None of the above
+
+CorrectResponse=0
+
+Explanation=The suspect should not be allowed to sit behind a desk, or have any other barriers between him and the examiner. The purpose is to allow the examiner a full view of the body language of the suspect, and to remove any psychological comfort the suspect may feel by "hiding" behind something. The suspect and the examiner should be separated by about four to six feet. See page(s) 3.249-3.250 in the Fraud Examiner's Manual

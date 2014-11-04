@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=As a rule of thumb, any organization that recruits distributors into a pyramid-style compensation plan, offers big payoffs for recruiting (say, more than $100 per recruit), and spends more time trumpeting its distributor levels than its product lines, is probably illegal
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=As a rule of thumb, any organization that recruits distributors into a pyramid-style compensation plan, offers big payoffs for recruiting (say, more than $100 per recruit), and spends more time trumpeting its distributor levels than its product lines, is probably illegal.See page(s) 1.1747 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=When questioning a witness, the interviewer should usually ask the questions in what order?
+
+Options=In random order | From the general details to the specific details | In reverse order | None of the above
+
+CorrectResponse=1
+
+Explanation=As a general rule, questioning should proceed from the general to the specific; that is, it is best to seek general information before seeking details. A variation is to “reach backward" with the questions, by beginning with known information and working toward unknown areas. An efficient method of doing this is to recount the known information and then frame the next question as a logical continuation of the facts previously related.See page(s) 3.222 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=All of the following are examples of a "protected computer" under the Fraud and Related Activity in Connection with Computers statute EXCEPT:
+
+Options=A computer used intrastate by a single user | A computer used in interstate or foreign commerce or communication | A computer used exclusively by the government | A computer used exclusively by a financial institution
+
+CorrectResponse=0
+
+Explanation=A protected computer, under Title 18, U .S. Code. Section 1030. includes:‰?¢	A computer which is used exclusively by a financial institution or the U.S. Government‰?¢	Any computer the use of which affects a computer used by a financial institution or the federal government‰?¢	A computer that is used in interstate or foreign commerce or communication.See page(s) 2.311 in the Fraud Examiner's Manual

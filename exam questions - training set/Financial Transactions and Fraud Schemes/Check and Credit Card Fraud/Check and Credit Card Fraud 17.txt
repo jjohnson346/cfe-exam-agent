@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Smart Cards differ from ordinary credit cards in that they do not contain a microprocessor memory chip like credit cards do.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Smart Cards contain a microprocessor memory chip instead of holograms. This allows cardholders more purchasing options as well as increased security.See page(s) 1.1034 in the Fraud Examiner's Manual

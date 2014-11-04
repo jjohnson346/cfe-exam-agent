@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=One pressure tactic that fraudsters use in a pyramid scheme is to make the potential investor believe that time is of the essence: "Get in now, or regret it forever."
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Speed is a potent weapon in the pyramid scheme arsenal. Cons say, ?Get in now, or regret it forever." They don?t have time?because of market demand or commitments elsewhere?for the person to check out the deal. That?s because a moderate amount of due diligence research will expose the deal as a scheme.

@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Baker sells illegal drugs in California. He takes the proceeds of the sales and drives to Texas where he launders the money through a restaurant his brother owns. If caught, Baker may be charged with all of the following offenses EXCEPT:
+
+Options=Conspiracy to defraud the United States | Violating the Travel Act | Violating the Lanham Act | Making false statements
+
+CorrectResponse=2
+
+Explanation=There are numerous criminal statutes that can be used to prosecute money laundering activities. These include Title 18, U.S. Code. Section 1001, False Statements; Title 18, U.S. Code, Section 371, Conspiracy to Defraud the United States; and Title 18. U.S. Code, Section 1952, the Travel Act. The Travel Act is applicable if the offense involves the proceeds of illegal activity and interstate travel. The Act provides that it is an offense to travel in interstate or foreign commerce or use the mail with the intent to distribute the proceeds of any unlawful activity; commit any crime of violence to further unlawful activity; or otherwise establish, promote, or manage an establishment for the purposes of carrying on any unlawful activity. The Lanham Act is the federal trademark statute.See page(s) 1.1637-1.1648 in the Fraud Examiner's Manual

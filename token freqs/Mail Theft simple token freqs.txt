@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+theft                                  1
+attempt                                1
+to                                     1
+for                                    1
+use                                    1
+by                                     3
+customer                               1
+recipient                              1
+card                                   1
+bank                                   2
+credit                                 1
+cards                                  1
+steal                                  1
+mail                                   1
+may                                    1
+a                                      2
+issued                                 1
+as                                     1
+already                                1
+the                                    4
+intended                               1
+posing                                 1
+and                                    1
+applied                                1
+then                                   1
+will                                   1
+thief                                  2
+
+Totals:                     27        35

@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=If an anomaly is found in the financial statements and transactions and further investigation is desired, it might be appropriate to pull a statistical sample.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=If an anomaly is found in the financial statements and transactions and further investigation is desired, it might be appropriate to pull a statistical sample. By using statistical sampling, the examiner can look at fewer transactions rather than the entire population.See page(s) 3.831 in the Fraud Examiner's Manual

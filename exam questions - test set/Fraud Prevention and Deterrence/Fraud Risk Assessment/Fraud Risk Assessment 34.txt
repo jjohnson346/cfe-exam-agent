@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Conducting an effective fraud risk assessment can help the organization to:
+
+Options=Develop plans to mitigate fraud risk | Improve communication and awareness about fraud | Know who puts the organization at the greatest risk of fraud | All of the above
+
+CorrectResponse=3
+
+Explanation=Every organization should conduct a fraud risk assessment and build processes to keep it current and relevant. First and foremost it is good corporate governance and it makes good business sense. The benefits of conducting a fraud risk assessment include enabling the organization to:Improve communication and awareness about fraudIdentify where it is most vulnerable to fraud and what activities put the company at the greatest risk Know who puts the organization at the greatest risk Develop plans to mitigate riskDevelop techniques to investigate and determine if fraud has occurred in areas of high riskSee page(s) 4.803-4.804 in the Fraud Examiner's Manual

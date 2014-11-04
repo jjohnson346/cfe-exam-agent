@@ -1,0 +1,123 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Direct Methods of Tracing Financial Transactions/Deposit Tickets
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+Deposit Tickets 
+The deposit ticket is the principal source document for crediting the customer’s account. 
+Deposits are first recorded on the deposit ticket or slip that usually segregates currency, 
+coins, and checks. The checks are listed separately. In many localities the depositor writes 
+the ABA number or the name of the maker of the check on the deposit ticket. Either of 
+these might help to identify the source of the check. In other localities the bank writes the 
+ABA number on the deposit ticket, and in some banks no identifying data is entered on the 
+deposit ticket. Regardless of the detail contained on a deposit ticket, bank record-keeping 
+systems allow deposits to be identified and traced to their sources.  
+ 
+In working with deposit tickets, the fraud examiner must remember that sometimes the 
+depositor splits the deposit, meaning only part of the check is actually deposited. In these 
+instances, the customer either receives cash or requests that part of the proceeds be applied 
+to a note or interest due to the bank. In some instances, it might be important to determine 
+the total amount of cash and checks presented for deposit before deductions. When this is 
+the case, the fraud examiner should inquire from the bank how split deposits are handled. 
+ 
+Deposit items can be broken down into two types: on-us items and clearinghouse items. 
+ 
+ON-US ITEMS 
+An on-us item  is a check or draft that is presented for payment where the depository bank is 
+also the payor bank. For example, a check written by a customer of one bank is deposited by 
+the payee at another branch of the same bank. The bank should be able to trace the source 
+of any on-us items. The source might be loan proceeds, certificates of deposit, wire transfers, 
+bank checks, or checks from other deposits at that bank. If the deposit is the proceeds from 
+a loan, obtain and analyze the loan file (examination of the loan file is discussed later in this 
+chapter). If the deposit came from a wire transfer, trace the wire transfer to the originating 
+bank to see where the funds for the wire transfer originated. This search could lead to other 
+accounts, other witnesses, co-conspirators, or offshore transactions. 
+ 
+Bank checks (such as cashier’s checks and money orders) could be an indication of smurfing 
+operations. Smurfing  is the process by which a subject structures a deposit into several 
+transactions, each less than $10,000, to avoid filing a currency transaction report as required 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.817 
+under the Bank Secrecy Act. As the video portion of this course makes clear, smurfing is a 
+very common technique for avoiding reporting requirements. Look for large numbers of 
+cashier’s checks in even amounts deposited on a regular basis.  
+ 
+CLEARINGHOUSE ITEMS 
+Clearinghouse items  are those that must clear through other local banks and are therefore sent 
+to a local clearinghouse for processing, and they include those items that are sent to out-of-
+ town banks, such as Federal Reserve Banks. Because tracking down these items will involve 
+obtaining records from third-party banks, the tracing process might be more time 
+consuming and will probably require legal process. 
+ 
+To determine whether an item is an on-us item or a clearinghouse item, first look to see 
+whether the bank on which the check was drawn is the same as the bank in which it was 
+deposited. If the names are not the same, check the endorsements on the back of the check. 
+If the item has a different bank’s endorsement or  a Federal Reserve bank’s endorsement, it is 
+a clearinghouse item. The endorsement should contain the name of the processing bank or 
+its transit number. 
+ 
+
+
+
+:
+
+
+deposit ticket
+the deposit ticket is the princip sourc document for credit the custom account
+deposit ar first record on the deposit ticket or slip that usual segreg currenc
+coin and check the check ar list separ in mani local the depositor write
+the aba number or the name of the maker of the check on the deposit ticket either of
+these might help to identifi the sourc of the check in other local the bank write the
+aba number on the deposit ticket and in some bank no identifi data is enter on the
+deposit ticket regardless of the detail contain on a deposit ticket bank recordkeep
+system allow deposit to be identifi and trace to their sourc
+in work with deposit ticket the fraud examin must rememb that sometim the
+depositor split the deposit mean onli part of the check is actual deposit in these
+instanc the custom either receiv cash or request that part of the proce be appli
+to a note or interest due to the bank in some instanc it might be import to determin
+the total amount of cash and check present for deposit befor deduct when thi is
+the case the fraud examin should inquir from the bank how split deposit ar handl
+deposit item can be broken down into two type onu item and clearinghous item
+onu item
+an onu item is a check or draft that is present for payment where the depositori bank is
+also the payor bank for exampl a check written by a custom of on bank is deposit by
+the paye at anoth branch of the same bank the bank should be abl to trace the sourc
+of ani onu item the sourc might be loan proce certif of deposit wire transfer
+bank check or check from other deposit at that bank if the deposit is the proce from
+a loan obtain and analyz the loan file examin of the loan file is discuss later in thi
+chapter if the deposit came from a wire transfer trace the wire transfer to the origin
+bank to see where the fund for the wire transfer origin thi search could lead to other
+account other wit coconspir or offshor transact
+bank check such as cashier check and monei order could be an indic of smurf
+oper smurf is the process by which a subject structur a deposit into sever
+transact each less than 10000 to avoid file a currenc transact report as requir
+investig trace illicit transact
+2011 fraud examin manual 3817
+under the bank secreci act as the video portion of thi cours make clear smurf is a
+veri common techniqu for avoid report requir look for larg number of
+cashier check in even amount deposit on a regular basi
+clearinghous item
+clearinghous item ar those that must clear through other local bank and ar therefor sent
+to a local clearinghous for process and thei includ those item that ar sent to outof
+town bank such as feder reserv bank becaus track down these item will involv
+obtain record from thirdparti bank the trace process might be more time
+consum and will probabl requir legal process
+to determin whether an item is an onu item or a clearinghous item first look to see
+whether the bank on which the check wa drawn is the same as the bank in which it wa
+deposit if the name ar not the same check the endors on the back of the check
+if the item ha a differ bank endors or a feder reserv bank endors it is
+a clearinghous item the endors should contain the name of the process bank or
+it transit number

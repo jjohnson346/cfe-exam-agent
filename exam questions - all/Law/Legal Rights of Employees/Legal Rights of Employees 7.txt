@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Blue, a Certified Fraud Examiner, conducted an investigation of Brown, a fraud suspect. Brown became so upset at being investigated that he sued Blue for intentional infliction of emotional distress. For Brown to prevail, he has to show that:
+
+Options=Blue's conduct was so outrageous that it went beyond all possible bounds of decency | Blue intended to cause severe emotional distress, or recklessly disregarded whether his actions would cause severe emotional distress for Brown | Brown actually suffered severe distress | All of the above
+
+CorrectResponse=3
+
+Explanation=To recover on the tort of intentional infliction of emotional distress, the plaintiff must prove (1) the defendant engaged in extreme and outrageous conduct which (2) caused severe emotional distress. For liability to attach, the offending conduct must "outrage the sensibilities of a reasonable man." Mere angry words or insults, or allegations or implications of wrongdoing, if based on reasonable grounds, are not enough.See page(s) 2.414, 2.435-2.436 in the Fraud Examiner's Manual

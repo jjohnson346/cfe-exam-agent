@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Gamma, a Certified Fraud Examiner, is conducting a certain investigation with respect to ABC Company, a publicly traded company. If Gamma requests ABC's annual financial report from the Securities and Exchange Commission, the information will be contained on SEC form:
+
+Options=6K | 8A | 13D | None of the above
+
+CorrectResponse=3
+
+Explanation=Access to most of the Securities and Exchange Commission (SEC) filings is available through the Internet atwww.sec.gov. Corporate filings include the following:‰?¢	Annual Report of Publicly Traded Company (Form 10-K): excerpts or complete report available via LexisNexis or Dialog databases(e.g.f Disclosure)‰?¢	Quarterly Report of Publicly Traded Company (Form 10-Q): same as 10-K, but filed quarterly instead of annually‰?¢	Special Events in Publicly Traded Company (Form 8-K): transactions resulting in change of controlling interest‰?¢	Registration of Security (Form 8-A): prospectus and data relative to the issuer‰?¢	Registration of Security by Successor (Form 8-B): name of issuer, relationship to primary registrant/issuer	j‰?¢	Special Events in Foreign Security (Form 6-K): information similar to 10-K and 8-K, except the security is registered under another U.S. law‰?¢	Report of Acquisition of Beneficial Ownership of 5 percent or More of Capital Stock of Public Company (Form 13-D): identity of each person or firm acquiring beneficial jlJSee page(s) 3.444-3.445 in the Fraud Examiner's Manual

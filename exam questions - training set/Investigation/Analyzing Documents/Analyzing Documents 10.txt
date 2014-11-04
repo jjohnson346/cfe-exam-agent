@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=One of the best ways to help protect the chain of custody of a document received as part of a fraud examination is to prepare a memorandum of interview. Which of the following items should be included in a memorandum of interview?
+
+Options=What items were received | When they were received | From whom they were received | All of the above should be included
+
+CorrectResponse=3
+
+Explanation=From the moment evidence is received, its chain of custody must be maintained for it to be accepted by the court. This means that a record must be made when the item is received or when it leaves the care, custody, or control of the fraud examiner. This is best handled by a memorandum of interview with the custodian of the records when the evidence is received. The memorandum should state:What items were received When they were received From whom they were received Where they are maintainedSee page(s) 3.106 in the Fraud Examiner's Manual

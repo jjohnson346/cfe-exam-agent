@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=In order to determine if constitutional protections apply to an internal investigation, the first question that must be asked is whether or not ______________________ is involved.
+
+Options=federal agency action | state action | police interrogation | government wiretaps
+
+CorrectResponse=1
+
+Explanation=In order for the protections of the U.S. Constitution to apply to an internal investigation, there must be some form of ‰??state action" involved. State action is involved during any investigation by a state or federal entity, including investigations of their own employees. However, even an investigation by a private company can be considered "state action‰?? under certain circumstances such as when the investigation is compelled by lav/.See page(s) 2.403 in the Fraud Examiner's Manual

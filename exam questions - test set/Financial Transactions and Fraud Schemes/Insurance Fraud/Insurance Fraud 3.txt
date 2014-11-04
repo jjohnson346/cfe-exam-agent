@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Insurance agent/broker fraud includes which of the following?
+
+Options=Fictitious death claims | Premium fraud | Fictitious payees | All of the above are types of agent/broker fraud schemes
+
+CorrectResponse=3
+
+Explanation=Types of insurance agent/broker fraud include:‰?¢	Premium fraud‰??An agent collects the premium, but doesn't remit the check to the insurance company. This results in the insured having no coverage‰?¢	Fictitious payees‰??An agent or a clerk changes the beneficiary of record to a fictitious person and subsequently submits the necessary papers to authorize the issuance of a check.‰?¢	Fictitious death claims‰??An agent or employee obtains a fictitious death certificate and requests that a death claim check be issued. The agent receives the check and cashes it.See page(s) 1.1102-1.1103 in the Fraud Examiner's Manual

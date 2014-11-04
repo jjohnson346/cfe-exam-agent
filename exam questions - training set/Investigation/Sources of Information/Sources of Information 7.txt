@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=If a fraud examiner is interested in obtaining a copy of a company's articles of incorporation, generally he should contact:
+
+Options=Secretary of state or state corporation bureau | Federal Patent and Trademark Office | District clerk's office | None of the above
+
+CorrectResponse=0
+
+Explanation=Corporations are formed by filing articles of incorporation with the secretary of state (or state corporation bureau or corporate registry' office) in the state of which the company does business.See page(s) 3.421 in the Fraud Examiner's Manual

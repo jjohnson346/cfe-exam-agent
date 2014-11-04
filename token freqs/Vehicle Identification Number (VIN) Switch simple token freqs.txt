@@ -1,0 +1,37 @@
+Token                          Frequency
+-----------------------------  ---------
+professionals                          1
+model                                  1
+but                                    1
+vehicle                                4
+being                                  1
+vin-switch                             1
+switch                                 1
+same                                   1
+fraud                                  1
+of                                     2
+are                                    1
+vin                                    2
+stolen                                 1
+sold                                   1
+work                                   1
+reported                               1
+with                                   1
+is                                     3
+switched                               1
+repaired                               2
+schemes                                1
+a                                      2
+plate                                  1
+as                                     1
+number                                 1
+the                                    4
+in                                     1
+wrecked                                1
+and                                    2
+not                                    1
+which                                  1
+identification                         1
+make                                   1
+
+Totals:                     33        46

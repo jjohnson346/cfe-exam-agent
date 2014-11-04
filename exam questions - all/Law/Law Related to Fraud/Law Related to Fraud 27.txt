@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Unlike larceny, embezzlement involves a breach of trust between the perpetrator and the victim resulting from the employee's lawful possession of the property when it was stolen/misappropriated.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Embezzlement is the wrongful appropriation of money or property by a person to whom it has been lawfully entrusted. Because the embezzler had lawful possession of the funds that he stole, the crime implicitly involves a breach of trust. Larceny, by contrast, is defined as the wrongful taking of money or property of another with the intent to convert or to deprive the owner of its possession and use. In larceny, unlike embezzlement, the defendant never has lawful possession of the property, although he/she may have mere custody of the property.See page(s) 2.209 in the Fraud Examiner's Manual

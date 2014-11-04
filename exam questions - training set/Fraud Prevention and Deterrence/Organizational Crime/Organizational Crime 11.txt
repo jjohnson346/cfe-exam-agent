@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Under the Corporate Sentencing Guidelines, courts are required to impose probation on offending organizations under all of the following circumstances EXCEPT:
+
+Options=In the instance that the sentence did not include any fine | To secure payment of restitution | If the organization has not previously committed similar misconduct | All of the above are mandatory probation situations
+
+CorrectResponse=2
+
+Explanation=Courts are required to impose probation on offending organizations under the following circumstances:‰?¢	To secure payment of restitution, enforcement of a remedial order, or to ensure completion of community service‰?¢	To safeguard the organization‰??s ability to pay a monetary penalty that was not fully paid at the time of sentencing‰?¢	When an organization with at least 50 employees did not have an effective program to detect and prevent violations of law‰?¢	When the organization was adjudicated within the past five years to have committed misconduct similar to any part of the misconduct of the instant offense‰?¢	When such an order is necessary to ensure changes are made to reduce the likelihood of future criminal conduct‰?¢	When the sentence does not include a fine‰?¢	When such an order is necessary to accomplish one or more purposes of sentencing set forth in 18. U.S.C., å¤ 3553(a)(2).See page(s) 4.523 in the Fraud Examiner's Manual

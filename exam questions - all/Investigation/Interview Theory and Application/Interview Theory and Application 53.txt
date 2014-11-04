@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=A novice interviewer asked the respondent the following question: "Didn't you suspect that something wasn't right?" This kind of question is called a
+
+Options=Reverse question. | Double-negative | Complex | None of the above
+
+CorrectResponse=1
+
+Explanation=Double-negative questions are confusing and often suggest an answer opposite to the correct one. They should not be used. Example: "Didn't you suspect that something wasn't right?"See page(s) 3.224 in the Fraud Examiner's Manual

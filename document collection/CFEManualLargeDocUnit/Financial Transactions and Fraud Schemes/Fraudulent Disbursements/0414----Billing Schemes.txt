@@ -1,0 +1,1134 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ASSET MISAPPROPRIATION: FRAUDULENT DISBURSEMENTS/Billing Schemes
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Fraudulent Disbursements
+
+
+:
+
+
+Billing Schemes 
+The asset misappropriation schemes discussed up to this point—skimming, larceny, register 
+schemes, and check tampering—all require the perpetrator of the scheme to physically take 
+cash or checks from his employer. The next three sections will cover a different kind of asset 
+misappropriation scheme, one which allows the perpetrator to misappropriate company 
+funds without ever actually handling cash or checks while at work. These succeed by making 
+a false claim for payment upon the victim organization. This group consists of billing schemes  
+(which attack the purchasing function of a company), payroll schemes, and expense reimbursement 
+schemes. The most common of these is the billing scheme.  
+ 
+  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.535 
+Billing schemes are a popular form of employee fraud mainly because they offer the 
+prospect of large rewards. Since the majority of most businesses’ disbursements are made in 
+the purchasing cycle, larger thefts can be hidden through false-billing schemes than through 
+other kinds of fraudulent disbursements. There are three principal types of billing schemes: 
+false invoicing via shell companies, false invoicing via non-accomplice vendors, and personal 
+purchases made with company funds.  
+ 
+Invoicing Via Shell Companies 
+Forming a Shell Company 
+Shell companies are fictitious entities created for the purpose of committing fraud. They may 
+be nothing more than a fabricated name and a post office box that an employee uses to 
+collect disbursements from false billings. However, since the checks received will be made 
+out in the name of the shell company, the perpetrator will normally also set up a bank 
+account in his new company’s name, so he can deposit and cash the fraudulent checks. (See 
+“False Billings from Shell Companies” flowchart.) 
+ 
+A person will probably have to present a bank with a certificate of incorporation or an 
+assumed-name certificate in order to open a bank account for a shell company. These are 
+documents that a company must obtain through a state or local government. The documents 
+can be forged, but it is more likely that the perpetrator will simply file the requisite 
+paperwork and obtain legitimate documents from his state or county. This can usually be 
+accomplished for a small fee, the cost of which will be more than offset by a successful fraud 
+scheme.  
+ 
+If it is discovered that a vendor is falsely billing a company, investigators for the victim 
+company may be able to identify the owner of the suspect company by reviewing its business 
+registration filings, which are a matter of public record.  
+ 
+To avoid being detected through a records search, some perpetrators form their shell 
+companies under another name. It is common, for instance, for employees to set up shell 
+companies in the name of a spouse or other close relative. Male fraudsters often establish 
+shell companies under their wives’ maiden names. An employee might also form the 
+company under a completely fictitious name. 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.536                         2011 Fraud Examiners Manual  
+ 
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.537 
+EXAMPLE 
+An employee used a coworker’s identification to form a shell vendor. The fraudster then 
+proceeded to bill his employer  for approximately $20,000 in false services. The resulting 
+checks were deposited in the account of the shell company and currency was withdrawn from 
+the account through an ATM.  
+ 
+Another issue involved in forming a shell company is the entity’s address—the place where 
+fraudulent checks will be collected. Often, an employee rents a post office box and lists it as 
+the mailing address of his shell company. Some employees list their home address instead. A 
+comparison of employee addresses to vendor addresses might reveal shell companies in an 
+accounts payable system.  
+ 
+EXAMPLE 
+A department head set up a dummy company us ing his residence as the mailing address. 
+Over a two-year period, this man submitted over $250,000 worth of false invoices. 
+Eventually, the scheme was detected by a newly hired clerk. The clerk was processing an 
+invoice when she noticed that the address of the vendor was the same as her boss’s address. 
+(By a lucky coincidence, the clerk had typed a personal letter for her boss earlier that day 
+and remembered his address.) Had the department head used a P.O. box instead of his 
+home address on the invoices, his scheme might have continued indefinitely. 
+ 
+Employees often use their home addresses to collect fraudulent disbursements because 
+many businesses are wary of sending checks to vendors that have a post office box for a 
+mailing address. Other common collection sites for shell company schemes are the addresses 
+of relatives, friends, or accomplices.  
+ 
+Submitting False Invoices 
+Once a shell company has been formed and a bank account has been opened, the corrupt 
+employee begins billing his employer. Invoices can be manufactured by various means such 
+as a professional printer, a personal computer, or a typewriter. False invoices do not always 
+have to be of professional quality to generate fraudulent disbursements. Typewritten 
+invoices are often sufficient to generate checks.  
+ 
+  
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.538                         2011 Fraud Examiners Manual  
+Self-Approval of Fraudulent Invoices 
+The difficulty in a shell company scheme is not usually in producing the invoices, but in 
+getting the victim organization to pay them. Authorization for the fictitious purchase (and 
+therefore payment of the bill) is the key. In a large percentage of shell company cases, the 
+perpetrator is in a position to approve payment on the very invoices he is fraudulently 
+submitting. It is obvious the duties of preparing and approving vouchers should be separated 
+to avoid this kind of scheme. 
+ 
+In companies where a proper separation of duties exists, the employee with approval 
+authority sometimes creates fraudulent vouchers or purchase orders and forges the signature 
+of the person who is in charge of preparing these documents. Then the perpetrator approves 
+payment on the fraudulent vouchers he has generated. This makes it appear that two 
+employees have signed off on the voucher as mandated by the victim organization’s 
+controls.  
+ 
+Not all companies require the completion of payment vouchers before they will issue checks. 
+In some enterprises, checks are written based on less formal procedures, such as the 
+submission of “check requests.” These requests simply list the name of the payee, the 
+amount to be paid, and a brief narrative stating the reason for the check. Obviously, this is 
+not a very sound procedure for preventing fraud. Dishonest employees have little trouble 
+running shell company schemes in organizations that operate this way.  
+ 
+“Rubber Stamp” Supervisors  
+If an employee cannot authorize payments himself, the next best thing is if the person who 
+has that authority is inattentive or overly trusting. “Rubber stamp” supervisors like this are 
+destined to be targeted by unethical employees. In some cases, supervisors are attentive to 
+the purchase orders they are asked to authorize, but they lack the technical knowledge to 
+spot fraud as it is happening. For instance, a manager or administrator might not completely 
+understand the costs associated with upgrading computer software to modernize a work 
+area. This manager will have to rely on his subordinates who have the necessary technical 
+expertise to determine that costs are being kept in line. The subordinates may be able to take 
+advantage of this situation to cause the company to overpay for the equipment required to 
+upgrade the system.  
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.539 
+Reliance on False Documents  
+When an employee does not have approval authority for purchases and does not have the 
+benefit of a rubber stamp supervisor, he must run his vouchers through the normal accounts 
+payable process. The success of this kind of scheme will depend on the apparent authenticity 
+of the false voucher he creates. If the perpetrator can generate purchase orders and receiving 
+reports that corroborate the information on the fraudulent invoice from his shell company, 
+he can fool accounts payable into issuing a check. 
+ 
+Collusion 
+Collusion among several employees is sometimes used to overcome well-designed internal 
+controls. For example, in a company with proper separation of duties, the functions of 
+purchasing goods or services, authorizing the purchase, receiving the goods or services, and 
+making the payment to the vendor should all be separated. If this process is strictly adhered 
+to, it will be extremely difficult for any single employee to commit a false-billing scheme. But 
+if several employees work together, they can overcome the internal controls of their 
+employer.  
+ 
+EXAMPLE 
+A warehouse foreman and a parts ordering clerk conspired to purchase approximately 
+$300,000 of nonexistent supplies. The parts ordering clerk would initiate the false 
+transactions by obtaining approval to place orders for parts he claimed were needed. The 
+orders were then sent to a vendor who, acting in conjunction with the two employee 
+fraudsters, prepared false invoices, which were sent to the victim company. Meanwhile, the 
+warehouse foreman verified receipt of the fi ctitious shipments of incoming supplies. The 
+perpetrators were therefore able to compile complete vouchers for the fraudulent purchases 
+without overstepping their normal duties.  
+ 
+Even if all internal controls are observed, at some point a company must rely on its 
+employees to be honest. One of the purposes of separating duties is to prevent any one 
+person from having too much control over a particular business function. It provides a built-in 
+monitoring mechanism where every person’s actions are in some way verified by another 
+person. But if everyone is corrupt, even proper controls will not prevent fraud.  
+ 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.540                         2011 Fraud Examiners Manual  
+Purchases of Services Rather than Goods   
+Most shell company schemes involve the purchase of services rather than goods. The 
+primary reason for this is that services are not tangible. If an employee sets up a shell 
+company to make fictitious sales of goods to his employer, these goods will obviously never 
+arrive. By comparing its purchases to its inventory levels, the victim organization might 
+detect the fraud. It is much more difficult, on the other hand, for the victim organization to 
+verify that the services were never rendered. For this reason, many employees involved in 
+shell company schemes bill their employers for things like “consulting services.” 
+ 
+Pass-Through Schemes 
+In most shell company schemes, victim organizations are billed for completely fictitious 
+purchases of goods or services. However, there is a subcategory of shell-company schemes 
+in which actual goods or services are sold to the victim company. These are known as pass-through 
+schemes.  
+ 
+Pass-through schemes are usually undertaken by employees in charge of purchasing on 
+behalf of the victim company. Instead of buying merchandise directly from a vendor, the 
+employee sets up a shell company and purchases the merchandise through that fictitious 
+entity. He then resells the merchandise to his employer from the shell company at an  
+inflated price.  
+ 
+EXAMPLE 
+A department director was put in charge of purchasing computer equipment. Because of his 
+expertise on the subject and his high standing within the company, he was unsupervised in 
+this task. The director set up  a shell company in another state and bought used computers 
+through the shell company, then turned around and sold them to his employer at a greatly 
+exaggerated price. The money from the victim company’s first installment on the computers 
+was used to pay the shell company’s debts to the real vendors. Subsequent payments were 
+profits for the bogus company. The scheme cost the victim company over $1 million.  
+ 
+Invoicing Via Nonaccomplice Vendors 
+Pay-and-Return Schemes 
+Instead of using shell companies in their overbilling schemes, some employees generate 
+fraudulent disbursements by using the invoices of legitimate third-party vendors who are not 
+a part of the fraud scheme. In a pay-and-return  scheme, an employee intentionally mishandles 
+payments that are owed to legitimate vendors. (See “Pay and Return Schemes” flowchart.) 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.541 
+One way to do this is to purposely double-p ay an invoice. For instance, a clerk might 
+intentionally pay an invoice twice, then call the vendor and request that one of the checks be 
+returned. The clerk then intercepts the returned check.  
+ 
+Another way to accomplish a pay-and-return scheme is to intentionally pay the wrong 
+vendor. In this type of scheme an employee sends Vendor A’s check to  Vendor B. After the 
+checks are mailed, the employee calls the vendors to explain the “mistake” and requests that 
+they return the checks to his attention. When the checks arrive, the employee converts them 
+and keeps the money. The employee usually runs the vouchers through the accounts payable 
+system a second time so that the vendors eventually get their money.  
+ 
+ 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.542                         2011 Fraud Examiners Manual  
+An employee might also pay the proper vendor, but intentionally overpay him. Once again, 
+the employee contacts the vendor, this time to request that the excess payment be returned. 
+Finally, an employee might intentionally purchase excess merchandise, return the excess, and 
+pocket the refund.  
+ 
+Overbilling with a Nonaccomplice Vendor’s Invoices 
+In most instances where an employee creates fraudulent invoices to overbill his employer, he 
+uses a shell company. It is not as common for an employee to submit the invoice of an 
+existing vendor. Nevertheless, in some instances an employee will undertake such a scheme 
+by altering an existing vendor’s invoice or by  creating a counterfeit copy of a vendor’s 
+invoice form.  
+ 
+Personal Purchases With Company Funds  
+Instead of undertaking billing schemes to generate cash, many fraudsters simply purchase 
+personal items with their company’s money. Company accounts are used to buy items for 
+employees, their businesses, their families, and so on.  
+ 
+Personal Purchases Through False Invoicing 
+Employees who undertake purchases schemes may do so by running unsanctioned invoices 
+through the accounts payable system. The perpetrator in this type of scheme buys an item 
+and submits the bill to his employer as if it represented a legitimate company expense. The 
+victim company ends up unknowingly buying goods or services for a dishonest employee. 
+(See “Invoice Purchasing Schemes” flowchart.) 
+ 
+THE FRAUDSTER AS AUTHORIZER OF INVOICES 
+The person who engages in a purchases scheme is often the very person in the company 
+whose duties include authorizing  purchases. Obviously, proper controls should preclude 
+anyone from approving his own purchases. Such poorly separated functions leave little other 
+than his conscience to dissuade an employee from fraud. Fraud arises in part because of a 
+perceived opportunity. An employee who sees that no one is reviewing his actions is more 
+likely to turn to fraud than one who knows his company works diligently to detect employee 
+theft.  
+  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.543 
+EXAMPLE 
+A manager of a remote location of a large, publicly traded company was authorized to 
+order supplies and approve vend or invoices for payment. For over a year, the manager 
+routinely added personal items and supplies for his own business to orders made on behalf 
+of his employer. The orders often included a strange mix of items. For instance, technical 
+supplies and home furnishings might be purchased in the same order. Because the manager 
+was in a position to approve his own purcha ses, he could get away with such blatantly 
+obvious frauds. In addition to ordering personal items, the perpetrator changed the delivery 
+address for certain supplies so that they would be delivered directly to his home or side 
+business. This scheme cost the victim comp any approximately $300,000 in unnecessary 
+purchases.  
+ 
+In some situations, the perpetrator is authorized to approve purchases, but controls prevent 
+him from also initiating purchase requests. This procedure is supposed to prevent an 
+employee from purchasing personal items with company funds. Unfortunately, those with 
+authority to approve purchases often have a good deal of control over their subordinates. 
+These persons can use their influence to force subordinates to assist in purchases schemes. 
+In other cases, the manager might simply initiate the purchase order himself by forging the 
+subordinate’s signature.  
+ 
+EXAMPLE 
+Purchases for under $1,000 at a certain utility company could be made with limited value 
+purchase orders (LPOs), which required the signatures of two people: the originator of a 
+purchase request and the approver of the request. An LPO attached to an invoice for less 
+than $1,000 would be paid by the accounts payable department. In this case, a manager 
+bought goods and services on company accounts, and prepared LPOs for the purchases. (In 
+some cases, the LPO would falsely describe the item to conceal the natu re of the purchase.) 
+Once the LPO was prepared, the manager forced a clerk in his department to sign the 
+document as the originator of  the transaction. The clerk, in timidated by her boss, did not 
+question the authenticity of the LPOs. With two signatures affixed, the LPO appeared to 
+be legitimate and the bills were paid. The sche me cost the victim company at least $25,000. 
+ 
+FALSE PURCHASE REQUISITIONS 
+If an employee does not have purchasing authority, he may get approval for a fraudulent 
+purchase by misrepresenting the nature of the acquisition. In many companies, those with 
+the power to authorize purchases are not always attentive to their duties. If a trusted 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.544                         2011 Fraud Examiners Manual  
+subordinate says that the company needs to buy a certain item or items, busy supervisors 
+often give rubber stamp approval to the purchase requisition. Additionally, employees 
+sometimes misrepresent the nature of the items they are purchasing in order to pass a 
+cursory review by their superiors.  
+ 
+EXAMPLE 
+An engineer bought over $30,000 worth of personal items. The engineer dealt directly with 
+vendors and was also in charge of overseeing the receipt of the materials he purchased. He 
+was therefore able to misrepresent the nature of the merchandise he bought, listing it as 
+“maintenance items.” Vendor invoices were altered to agree to this description.  
+  
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.545 
+ 
+ 
+ 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.546                         2011 Fraud Examiners Manual  
+If the perpetrator falsifies his purchase requisition in this manner, the fraud should be 
+detected when delivery occurs. For example, if the purchase requisition says “maintenance 
+items” but the vendor delivers home furnishings, it will be obvious that the perpetrator has 
+committed fraud. The problem of delivery can be avoided if the perpetrator is in charge of 
+receiving incoming shipments. He can verify that delivery of “maintenance items” was 
+received. This is a breach of separation of duties, but unfortunately, it is fairly common for 
+purchasing agents to verify delivery of their own orders. Even if the victim organization 
+enforces a centralized delivery point, the perpetrator might enlist the aid of an accomplice in 
+the receiving department to falsify the organization’s receiving reports.  
+ 
+Another way to avoid detection at the delivery stage is to change the delivery address for 
+purchases. Instead of being shipped to the victim organization, the items that the employee 
+buys are sent directly to his home or business. The perpetrator might also order the goods 
+drop shipped to a remote location.  
+ 
+Personal Purchases on Credit Cards or Other Company Accounts  
+Instead of running false invoices through accounts payable, some employees make personal 
+purchases on company credit cards or on running accounts with vendors. (See “Purchases 
+on Credit Card or Company Account” flowchar t.) Unlike invoicing schemes, prior approval 
+for these purchases is not required. An employee with a company credit card can buy an 
+item merely by signing his name (or forging someone else’s) at the time of purchase. Later 
+review of the credit card statement, however, may detect the fraudulent purchase. 
+Unfortunately, many high-level employees approve their own credit card expenses, making it 
+very easy to carry out a purchasing scheme. 
+ 
+Of course, only certain employees are authorized to use company credit cards. Employees 
+without this privilege can only make fraudulent purchases with a company card if they first 
+manage to get hold of one. To this end, company cards are sometimes stolen or “borrowed” 
+from authorized users.  
+ 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.547 
+ 
+ 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.548                         2011 Fraud Examiners Manual  
+EXAMPLE 
+An accountant falsely added her name to a list of employees to whom cards were to be 
+issued. She used her card to make fraudulent purchases, but forged the signatures of 
+authorized cardholders to cover her tracks. Since no one knew she even had a company 
+card, she would not be a prime suspect in the fraud even if someone questioned the 
+purchases. For over five years this employee continued her scheme, racking up a six figure 
+bill on her employer’s account. In addition, she had control of the credit card statement and 
+was able to code her purchases to various expense accounts, thereby further delaying 
+detection of her crime. 
+ 
+Another way to conceal a credit card purchasing scheme is to doctor the credit card 
+statement so that fraudulent purchases do not show up. Some employees go so far as to 
+destroy the real credit card statement and produce counterfeit copies on which their 
+fraudulent purchases are omitted.  
+ 
+Returning Merchandise for Cash 
+The fraudulent purchases schemes discussed to this point have all involved false purchases 
+of merchandise for the sake of obtaining the merchandise. In some cases, however, an 
+employee buys items and then returns them for cash.  
+ 
+EXAMPLE 
+An employee made fraudulent gains from a business travel account. The employee’s scheme 
+began by purchasing tickets for herself and her family through her company’s travel budget. 
+Poor separation of duties allowed the fraudster to order the tickets, receive them, prepare 
+claims for payments, and distribute checks. The only review of her activities was made by a 
+busy and rather uninterested supervisor who approved the employee’s claims without 
+requiring support documentation. Eventually, the employee’s scheme evolved. She began to 
+purchase airline tickets and return them for their cash value. An employee of the travel 
+agency assisted in the scheme by encoding the tickets as though the fraudster had paid for 
+them herself. That caused the airlines to pay refunds directly to the fraudster rather than to 
+her employer. In the course of two years, this employee embezzled over $100,000 through 
+her purchases scheme.  
+ 
+Detection of Billing Schemes 
+Because there are many variations of purchasing fraud schemes, there are also several 
+detection methods. Detection methods are most effective when used in combinations. Each 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.549 
+detection method is likely to point out anomalies that can then be investigated further to 
+determine if a fraud scheme has occurred or is currently underway. Additionally, the 
+detection methods will point out the weaknesses in internal controls and alert the auditor to 
+potential opportunities for future fraud schemes. 
+ 
+Analytical Review 
+A review of the various general ledger accounts might reveal unusual or unexpected events. 
+These events could be undetected purchasing fraud. For example, a comparison of inventory 
+purchases in relationship to net sales might indicate that purchases are too high or too low 
+for that level of sales. This might be a “red flag,” indicating excess purchasing schemes or 
+fictitious sales schemes, respectively. 
+ 
+Another analytical method uses a comparison of the inventory purchases of prior years with 
+those of the current year. This comparison might indicate that an overbilling scheme or a 
+duplicate-payment scheme is in progress. 
+ 
+Analyses such as those described above can be performed for any acquisition of goods or 
+services of a company. Analytical reviews are most effective in detecting fraud schemes that 
+are large, such that the anomalies will be apparent. Other detection methods are more 
+effective for fraud schemes that are smaller in relationship to the financial statements taken 
+as a whole. Regardless of fraud size, examination of source documentation will be necessary. 
+When an anomaly is detected, further investigation is required, which will demand an 
+examination of source documentation. 
+ 
+Computer-Assisted Analytical Review 
+The computer can assist the auditor in determining the presence of unusual patterns in the 
+acquisition or purchasing function. The computer can provide the auditor with a matrix of 
+the purchasing activity to determine the presence of unusual patterns. An analysis of the 
+following data might uncover purchasing schemes, such as: 
+  
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.550                         2011 Fraud Examiners Manual  
+FRAUD SCHEME DETECTION METHOD 
+Fictitious vendors Vendors and employees with matching addresses  
+More than one vendor with the same address  
+Vendors with only post office box addresses 
+Overbilling 
+ 
+Unusual, or “one-time,” extra charges  
+Conflict of interest Vendors with employees who are employee family members 
+An unusually high occurrence of complaints  
+Complaints about specific vendors 
+Higher prices and/or substandard quality 
+ 
+Statistical Sampling 
+As with inventory, the source documentation for purchases can be statistically sampled and 
+examined for irregularities. Statistical samples can be drawn to test specific attributes. This 
+detection method is particularly effective if a single attribute is suspected, such as fictitious 
+vendors. A listing of all post office box addresses might reveal fictitious vendors. 
+ 
+Vendor or Outsider Complaints 
+Fraudulent schemes will often unravel because a vendor or other outsider complains to the 
+employer or company. Complaints from customers, vendors, and others are good detection 
+tools that can lead the fraud examiner to further inquiry. 
+ 
+Site Visits — Observation 
+A site visit will often reveal much about the internal control, or lack thereof, for any 
+location. The observation of how the accounting transactions are actually transcribed will 
+sometimes alert the fraud examiner to potential problem areas. 
+ 
+Sample Audit Program 
+The following audit program may be beneficial in detecting red flags to billing schemes: 
+• Does the company have a purchasing department? If yes, is it independent of (1) the 
+accounting department, (2) the receiving department, or (3) the shipping department? 
+• Are purchases made only after the respective department heads sign purchase 
+requisitions? 
+• Are purchases made by means of purchase orders sent to vendors for all purchases or 
+only for purchases over a predetermined dollar limit? 
+• Do purchase orders specify a description of items, quantity, price, terms, delivery 
+requirements, and dates? 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.551 
+• Is a list of unfilled purchase orders maintained and reviewed periodically? 
+• Are purchase order forms prenumbered and is the sequence accounted for periodically? 
+• Does the client maintain an approved vendors list? 
+• Are items purchased only after competitive bids are obtained? If so, are competitive bids 
+obtained for all purchases or only for purchases over a predetermined dollar limit? 
+• Is a log maintained of all receipts? 
+• Does the receiving department prepare receiving reports for all items received? If yes, 
+are receiving reports (1) prepared for all items, (2) prepared only for items that have 
+purchase orders, or (3) renumbered? 
+• At the time the items are received, does someone independent of the purchasing 
+department check the merchandise before acceptance as to description, quantity,  
+and condition? 
+• Are copies of receiving reports (1) furnished to the accounting department, (2) furnished 
+to the purchasing department, or (3) filed in the receiving department? 
+• Are receipts under blanket purchase orders monitored, and are quantities exceeding 
+authorized total returned to the vendor? 
+• Are procedures adequate for the proper accounting for partial deliveries of  
+purchase orders? 
+• Are purchasing and receiving functions separate from invoice processing, accounts 
+payable, and general ledger functions? 
+• Are vendors’ invoices, receiving reports, and purchase orders matched before the related 
+liability is recorded? 
+• Are invoices checked as to prices, extensions, footings, freight charges, allowances, and 
+credit terms? 
+• Are controls adequate to ensure that all available discounts are taken? 
+• Are purchases recorded in a purchase register or voucher register before being processed 
+through cash disbursements? 
+• Does a responsible employee assign the appropriate general ledger account distribution 
+to which the invoices are to be posted? 
+• Are procedures adequate to ensure that invoices have been processed before payment 
+and to prevent duplicate payment (e.g., a block stamp)? 
+• Does a responsible official approve invoices for payment? 
+• Are procedures adequate to ensure that merchandise purchased for direct delivery to 
+customers is promptly billed to the customers and recorded as both a receivable and  
+a payable? 
+• Are records of goods returned to vendors matched to vendor credit memos? 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.552                         2011 Fraud Examiners Manual  
+• Are unmatched receiving reports, purchase orders, and vendors’ invoices periodically 
+reviewed and investigated for proper recording? 
+• Is the accounts payable ledger or voucher register reconciled monthly to the general 
+ledger control accounts? 
+• Are statements from vendors regularly reviewed and reconciled against recorded 
+liabilities? 
+• Do adjustments to accounts payable (e.g., writing off of debit balances) require the 
+approval of a designated official? 
+• Are budgets used? If yes, are bu dgets approved by responsible officials, and are actual 
+expenditures compared with budgeted amounts and variances analyzed and explained? 
+• If excess inventory purchasing is suspected, verify that all inventory purchased was 
+received (receiving report) at the proper location. An examination of receiving reports or 
+invoices might reveal alternate shipping sites. 
+ 
+Prevention of Billing Schemes 
+The preventing of purchasing fraud can be especially difficult. Purchasing personnel are 
+often held to a different standard than other employees of a company. For example, sales 
+people often are given inducements or perquisites in order to persuade potential customers. 
+These same inducements are offered to the purchasing personnel of the company from the 
+company’s vendors. And yet, the company ex pects the purchasing personnel to perform 
+their function without bias and to make decisions that are in the best interest of the 
+company, without regard to the inducements offered by suppliers. Additionally, the 
+personnel involved in the purchasing and payment functions are generally not compensated 
+on a basis commensurate with their performance, as are salespeople. Therefore, there is a 
+reverse incentive to perform in the best interest of the company. 
+ 
+Probably the most effective purchasing fraud prevention measure is education (training) of 
+the purchasing and payable personnel. The second most effective purchasing fraud 
+prevention measure is an objective compensation arrangement with people responsible for 
+purchasing decisions. 
+ 
+Education (Training) 
+Purchasing personnel should be trained thoroughly in ethical situations. The National 
+Association of Purchasing Management has a code of ethics for its Certified Purchasing 
+Managers. As a deterrent to fraud, companies might consider enrollment and certification. 
+Financial Transactions  Asset Misappropriation: Fraudulent Disbursements 
+2011 Fraud Examiners Manual   1.553 
+Compensation 
+People responsible for the purchasing decisions (buyers) should be paid well enough to 
+reduce the motive and rationalization for fraud. Auditors can examine the compensation of 
+purchasers and determine if any buyers were recently passed over for raises. This might be 
+an indication of discontent that could lead to the formation of a fraudulent scheme against 
+the employer. 
+ 
+Proper Documentation 
+Proper documentation for purchasing should include prenumbered and controlled purchase 
+requisitions, purchase orders, receiving reports, and checks. 
+ 
+Proper Approvals 
+Before adding a vendor to the list, there should be an investigation of the “proposed” 
+vendor, performed by someone other than the personnel in purchasing and accounts 
+payable. If a vendor number is required before payment is made and the personnel 
+responsible for the investigation assigns the vendor that identification number, then the 
+buyer cannot place fictitious vendors on the list. Large or unusual purchases should be 
+approved by someone independent of the purchasing department. 
+ 
+Segregation of Duties 
+For the best results and accountability, each company sufficient in size should have a 
+separate purchasing department. Regardless of the company size, the purchasing function 
+should be separate from the payment function. 
+ 
+Hotlines 
+Companies should study the feasibility of installing hotlines to provide a forum for 
+complaints by employees and outsiders. 
+ 
+Competitive Bidding 
+Ensure that bid policies and procedures are thoroughly reviewed. Whenever possible, 
+enforce competitive bidding. After the bidding process has been completed, a questionnaire 
+can be sent to successful and unsuccessful bidders. This questionnaire can reveal areas to not 
+only make the bidding process more effective but it also can provide a forum for bidders to 
+express concerns over questionable or fraudulent activities. 
+ 
+Asset Misappropriation: Fraudulent Disbursements Financial Transactions   
+1.554                         2011 Fraud Examiners Manual  
+Prevention Checklist 
+The following is a list of billing scheme prevention methods that may be helpful in the 
+deterrence of billing fraud: 
+• Authorization procedures of purchase orders, invoicing, and payments should be 
+documented and adhered to. 
+• The accounts payable list of vendors should be periodically reviewed for strange vendors 
+and addresses. 
+• Payment codings should be reviewed for abnormal descriptions. 
+• Vendor purchases should be analyzed for abnormal levels on both a monthly and yearly 
+basis. 
+• Purchases and inventory levels should be compared and analyzed. (See Inventory and 
+Other Assets). 
+• Control methods to check for duplicate invoices and purchase order numbers should be 
+in place. 
+• A separation of duties between authorization, purchasing, receiving, shipping, and 
+accounting should be in place. 
+• Payment of vouchers should be periodically reviewed to ensure integrity of proper 
+documentation. 
+• Receiving and shipping reports should be reviewed for completeness and accuracy. 
+• Asset information should include purchasing trails and other information. 
+• Journal entries to inventory accounts should be strictly scrutinized. 
+• Appropriate bank reconciliation and review procedures should be performed 
+periodically, checking for out-of-place vendors and endorsements. 
+• Credit card statements should be reviewed often for irregularities. 
+• The validity of invoices with a post office box address should be verified. 
+• Proper controls for the receipt and handling of “return to sender” checks should be 
+installed. 
+ 
+ 
+
+
+
+:
+
+
+bill scheme
+the asset misappropri scheme discuss up to thi pointskim larceni regist
+scheme and check tamperingal requir the perpetr of the scheme to physic take
+cash or check from hi employ the next three section will cover a differ kind of asset
+misappropri scheme on which allow the perpetr to misappropri compani
+fund without ever actual handl cash or check while at work these succe by make
+a fals claim for payment upon the victim organ thi group consist of bill scheme
+which attack the purchas function of a compani payrol scheme and expens reimburs
+scheme the most common of these is the bill scheme
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1535
+bill scheme ar a popular form of employe fraud mainli becaus thei offer the
+prospect of larg reward sinc the major of most busi disburs ar made in
+the purchas cycl larger theft can be hidden through falsebil scheme than through
+other kind of fraudul disburs there ar three princip type of bill scheme
+fals invoic via shell compani fals invoic via nonaccomplic vendor and person
+purchas made with compani fund
+invoic via shell compani
+form a shell compani
+shell compani ar fictiti entiti creat for the purpos of commit fraud thei mai
+be noth more than a fabric name and a post offic box that an employe us to
+collect disburs from fals bill howev sinc the check receiv will be made
+out in the name of the shell compani the perpetr will normal also set up a bank
+account in hi new compani name so he can deposit and cash the fraudul check see
+fals bill from shell compani flowchart
+a person will probabl have to present a bank with a certif of incorpor or an
+assumednam certif in order to open a bank account for a shell compani these ar
+document that a compani must obtain through a state or local govern the document
+can be forg but it is more like that the perpetr will simpli file the requisit
+paperwork and obtain legitim document from hi state or counti thi can usual be
+accomplish for a small fee the cost of which will be more than offset by a success fraud
+scheme
+if it is discov that a vendor is fals bill a compani investig for the victim
+compani mai be abl to identifi the owner of the suspect compani by review it busi
+registr file which ar a matter of public record
+to avoid be detect through a record search some perpetr form their shell
+compani under anoth name it is common for instanc for employe to set up shell
+compani in the name of a spous or other close rel male fraudster often establish
+shell compani under their wive maiden name an employe might also form the
+compani under a complet fictiti name
+asset misappropri fraudul disburs financi transact
+1536 2011 fraud examin manual
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1537
+exampl
+an employe us a cowork identif to form a shell vendor the fraudster then
+proceed to bill hi employ for approxim 20000 in fals servic the result
+check were deposit in the account of the shell compani and currenc wa withdrawn from
+the account through an atm
+anoth issu involv in form a shell compani is the entiti addressth place where
+fraudul check will be collect often an employe rent a post offic box and list it as
+the mail address of hi shell compani some employe list their home address instead a
+comparison of employe address to vendor address might reveal shell compani in an
+account payabl system
+exampl
+a depart head set up a dummi compani us ing hi resid as the mail address
+over a twoyear period thi man submit over 250000 worth of fals invoic
+eventu the scheme wa detect by a newli hire clerk the clerk wa process an
+invoic when she notic that the address of the vendor wa the same as her bosss address
+by a lucki coincid the clerk had type a person letter for her boss earlier that dai
+and rememb hi address had the depart head us a po box instead of hi
+home address on the invoic hi scheme might have continu indefinit
+employe often us their home address to collect fraudul disburs becaus
+mani busi ar wari of send check to vendor that have a post offic box for a
+mail address other common collect site for shell compani scheme ar the address
+of rel friend or accomplic
+submit fals invoic
+onc a shell compani ha been form and a bank account ha been open the corrupt
+employe begin bill hi employ invoic can be manufactur by variou mean such
+as a profession printer a person comput or a typewrit fals invoic do not alwai
+have to be of profession qualiti to gener fraudul disburs typewritten
+invoic ar often suffici to gener check
+asset misappropri fraudul disburs financi transact
+1538 2011 fraud examin manual
+selfapprov of fraudul invoic
+the difficulti in a shell compani scheme is not usual in produc the invoic but in
+get the victim organ to pai them author for the fictiti purchas and
+therefor payment of the bill is the kei in a larg percentag of shell compani case the
+perpetr is in a posit to approv payment on the veri invoic he is fraudul
+submit it is obviou the duti of prepar and approv voucher should be separ
+to avoid thi kind of scheme
+in compani where a proper separ of duti exist the employe with approv
+author sometim creat fraudul voucher or purchas order and forg the signatur
+of the person who is in charg of prepar these document then the perpetr approv
+payment on the fraudul voucher he ha gener thi make it appear that two
+employe have sign off on the voucher as mandat by the victim organ
+control
+not all compani requir the complet of payment voucher befor thei will issu check
+in some enterpris check ar written base on less formal procedur such as the
+submiss of check request these request simpli list the name of the paye the
+amount to be paid and a brief narr state the reason for the check obvious thi is
+not a veri sound procedur for prevent fraud dishonest employe have littl troubl
+run shell compani scheme in organ that oper thi wai
+rubber stamp supervisor
+if an employe cannot author payment himself the next best thing is if the person who
+ha that author is inattent or overli trust rubber stamp supervisor like thi ar
+destin to be target by uneth employe in some case supervisor ar attent to
+the purchas order thei ar ask to author but thei lack the technic knowledg to
+spot fraud as it is happen for instanc a manag or administr might not complet
+understand the cost associ with upgrad comput softwar to modern a work
+area thi manag will have to reli on hi subordin who have the necessari technic
+expertis to determin that cost ar be kept in line the subordin mai be abl to take
+advantag of thi situat to caus the compani to overpai for the equip requir to
+upgrad the system
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1539
+relianc on fals document
+when an employe doe not have approv author for purchas and doe not have the
+benefit of a rubber stamp supervisor he must run hi voucher through the normal account
+payabl process the success of thi kind of scheme will depend on the appar authent
+of the fals voucher he creat if the perpetr can gener purchas order and receiv
+report that corrobor the inform on the fraudul invoic from hi shell compani
+he can fool account payabl into issu a check
+collus
+collus among sever employe is sometim us to overcom welldesign intern
+control for exampl in a compani with proper separ of duti the function of
+purchas good or servic author the purchas receiv the good or servic and
+make the payment to the vendor should all be separ if thi process is strictli adher
+to it will be extrem difficult for ani singl employe to commit a falsebil scheme but
+if sever employe work togeth thei can overcom the intern control of their
+employ
+exampl
+a warehous foreman and a part order clerk conspir to purchas approxim
+300000 of nonexist suppli the part order clerk would initi the fals
+transact by obtain approv to place order for part he claim were need the
+order were then sent to a vendor who act in conjunct with the two employe
+fraudster prepar fals invoic which were sent to the victim compani meanwhil the
+warehous foreman verifi receipt of the fi ctitiou shipment of incom suppli the
+perpetr were therefor abl to compil complet voucher for the fraudul purchas
+without overstep their normal duti
+even if all intern control ar observ at some point a compani must reli on it
+employe to be honest on of the purpos of separ duti is to prevent ani on
+person from have too much control over a particular busi function it provid a builtin
+monitor mechan where everi person action ar in some wai verifi by anoth
+person but if everyon is corrupt even proper control will not prevent fraud
+asset misappropri fraudul disburs financi transact
+1540 2011 fraud examin manual
+purchas of servic rather than good
+most shell compani scheme involv the purchas of servic rather than good the
+primari reason for thi is that servic ar not tangibl if an employe set up a shell
+compani to make fictiti sale of good to hi employ these good will obvious never
+arriv by compar it purchas to it inventori level the victim organ might
+detect the fraud it is much more difficult on the other hand for the victim organ to
+verifi that the servic were never render for thi reason mani employe involv in
+shell compani scheme bill their employ for thing like consult servic
+passthrough scheme
+in most shell compani scheme victim organ ar bill for complet fictiti
+purchas of good or servic howev there is a subcategori of shellcompani scheme
+in which actual good or servic ar sold to the victim compani these ar known as passthrough
+scheme
+passthrough scheme ar usual undertaken by employe in charg of purchas on
+behalf of the victim compani instead of bui merchandis directli from a vendor the
+employe set up a shell compani and purchas the merchandis through that fictiti
+entiti he then resel the merchandis to hi employ from the shell compani at an
+inflat price
+exampl
+a depart director wa put in charg of purchas comput equip becaus of hi
+expertis on the subject and hi high stand within the compani he wa unsupervis in
+thi task the director set up a shell compani in anoth state and bought us comput
+through the shell compani then turn around and sold them to hi employ at a greatli
+exagger price the monei from the victim compani first instal on the comput
+wa us to pai the shell compani debt to the real vendor subsequ payment were
+profit for the bogu compani the scheme cost the victim compani over 1 million
+invoic via nonaccomplic vendor
+payandreturn scheme
+instead of us shell compani in their overbil scheme some employe gener
+fraudul disburs by us the invoic of legitim thirdparti vendor who ar not
+a part of the fraud scheme in a payandreturn scheme an employe intention mishandl
+payment that ar ow to legitim vendor see pai and return scheme flowchart
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1541
+on wai to do thi is to purpos doublep ay an invoic for instanc a clerk might
+intention pai an invoic twice then call the vendor and request that on of the check be
+return the clerk then intercept the return check
+anoth wai to accomplish a payandreturn scheme is to intention pai the wrong
+vendor in thi type of scheme an employe send vendor as check to vendor b after the
+check ar mail the employe call the vendor to explain the mistak and request that
+thei return the check to hi attent when the check arriv the employe convert them
+and keep the monei the employe usual run the voucher through the account payabl
+system a second time so that the vendor eventu get their monei
+asset misappropri fraudul disburs financi transact
+1542 2011 fraud examin manual
+an employe might also pai the proper vendor but intention overpai him onc again
+the employe contact the vendor thi time to request that the excess payment be return
+final an employe might intention purchas excess merchandis return the excess and
+pocket the refund
+overbil with a nonaccomplic vendor invoic
+in most instanc where an employe creat fraudul invoic to overbil hi employ he
+us a shell compani it is not as common for an employe to submit the invoic of an
+exist vendor nevertheless in some instanc an employe will undertak such a scheme
+by alter an exist vendor invoic or by creat a counterfeit copi of a vendor
+invoic form
+person purchas with compani fund
+instead of undertak bill scheme to gener cash mani fraudster simpli purchas
+person item with their compani monei compani account ar us to bui item for
+employe their busi their famili and so on
+person purchas through fals invoic
+employe who undertak purchas scheme mai do so by run unsanct invoic
+through the account payabl system the perpetr in thi type of scheme bui an item
+and submit the bill to hi employ as if it repres a legitim compani expens the
+victim compani end up unknowingli bui good or servic for a dishonest employe
+see invoic purchas scheme flowchart
+the fraudster as author of invoic
+the person who engag in a purchas scheme is often the veri person in the compani
+whose duti includ author purchas obvious proper control should preclud
+anyon from approv hi own purchas such poorli separ function leav littl other
+than hi conscienc to dissuad an employe from fraud fraud aris in part becaus of a
+perceiv opportun an employe who see that no on is review hi action is more
+like to turn to fraud than on who know hi compani work dilig to detect employe
+theft
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1543
+exampl
+a manag of a remot locat of a larg publicli trade compani wa author to
+order suppli and approv vend or invoic for payment for over a year the manag
+routin ad person item and suppli for hi own busi to order made on behalf
+of hi employ the order often includ a strang mix of item for instanc technic
+suppli and home furnish might be purchas in the same order becaus the manag
+wa in a posit to approv hi own purcha se he could get awai with such blatantli
+obviou fraud in addit to order person item the perpetr chang the deliveri
+address for certain suppli so that thei would be deliv directli to hi home or side
+busi thi scheme cost the victim comp ani approxim 300000 in unnecessari
+purchas
+in some situat the perpetr is author to approv purchas but control prevent
+him from also initi purchas request thi procedur is suppos to prevent an
+employe from purchas person item with compani fund unfortun those with
+author to approv purchas often have a good deal of control over their subordin
+these person can us their influenc to forc subordin to assist in purchas scheme
+in other case the manag might simpli initi the purchas order himself by forg the
+subordin signatur
+exampl
+purchas for under 1000 at a certain util compani could be made with limit valu
+purchas order lpo which requir the signatur of two peopl the origin of a
+purchas request and the approv of the request an lpo attach to an invoic for less
+than 1000 would be paid by the account payabl depart in thi case a manag
+bought good and servic on compani account and prepar lpo for the purchas in
+some case the lpo would fals describ the item to conceal the natu re of the purchas
+onc the lpo wa prepar the manag forc a clerk in hi depart to sign the
+document as the origin of the transact the clerk in timid by her boss did not
+question the authent of the lpo with two signatur affix the lpo appear to
+be legitim and the bill were paid the sche me cost the victim compani at least 25000
+fals purchas requisit
+if an employe doe not have purchas author he mai get approv for a fraudul
+purchas by misrepres the natur of the acquisit in mani compani those with
+the power to author purchas ar not alwai attent to their duti if a trust
+asset misappropri fraudul disburs financi transact
+1544 2011 fraud examin manual
+subordin sai that the compani need to bui a certain item or item busi supervisor
+often give rubber stamp approv to the purchas requisit addition employe
+sometim misrepres the natur of the item thei ar purchas in order to pass a
+cursori review by their superior
+exampl
+an engin bought over 30000 worth of person item the engin dealt directli with
+vendor and wa also in charg of overse the receipt of the materi he purchas he
+wa therefor abl to misrepres the natur of the merchandis he bought list it as
+mainten item vendor invoic were alter to agre to thi descript
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1545
+asset misappropri fraudul disburs financi transact
+1546 2011 fraud examin manual
+if the perpetr falsifi hi purchas requisit in thi manner the fraud should be
+detect when deliveri occur for exampl if the purchas requisit sai mainten
+item but the vendor deliv home furnish it will be obviou that the perpetr ha
+commit fraud the problem of deliveri can be avoid if the perpetr is in charg of
+receiv incom shipment he can verifi that deliveri of mainten item wa
+receiv thi is a breach of separ of duti but unfortun it is fairli common for
+purchas agent to verifi deliveri of their own order even if the victim organ
+enforc a central deliveri point the perpetr might enlist the aid of an accomplic in
+the receiv depart to falsifi the organ receiv report
+anoth wai to avoid detect at the deliveri stage is to chang the deliveri address for
+purchas instead of be ship to the victim organ the item that the employe
+bui ar sent directli to hi home or busi the perpetr might also order the good
+drop ship to a remot locat
+person purchas on credit card or other compani account
+instead of run fals invoic through account payabl some employe make person
+purchas on compani credit card or on run account with vendor see purchas
+on credit card or compani account flowchar t unlik invoic scheme prior approv
+for these purchas is not requir an employe with a compani credit card can bui an
+item mere by sign hi name or forg someon els at the time of purchas later
+review of the credit card statement howev mai detect the fraudul purchas
+unfortun mani highlevel employe approv their own credit card expens make it
+veri easi to carri out a purchas scheme
+of cours onli certain employe ar author to us compani credit card employe
+without thi privileg can onli make fraudul purchas with a compani card if thei first
+manag to get hold of on to thi end compani card ar sometim stolen or borrow
+from author user
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1547
+asset misappropri fraudul disburs financi transact
+1548 2011 fraud examin manual
+exampl
+an account fals ad her name to a list of employe to whom card were to be
+issu she us her card to make fraudul purchas but forg the signatur of
+author cardhold to cover her track sinc no on knew she even had a compani
+card she would not be a prime suspect in the fraud even if someon question the
+purchas for over five year thi employe continu her scheme rack up a six figur
+bill on her employ account in addit she had control of the credit card statement and
+wa abl to code her purchas to variou expens account therebi further delai
+detect of her crime
+anoth wai to conceal a credit card purchas scheme is to doctor the credit card
+statement so that fraudul purchas do not show up some employe go so far as to
+destroi the real credit card statement and produc counterfeit copi on which their
+fraudul purchas ar omit
+return merchandis for cash
+the fraudul purchas scheme discuss to thi point have all involv fals purchas
+of merchandis for the sake of obtain the merchandis in some case howev an
+employe bui item and then return them for cash
+exampl
+an employe made fraudul gain from a busi travel account the employe scheme
+began by purchas ticket for herself and her famili through her compani travel budget
+poor separ of duti allow the fraudster to order the ticket receiv them prepar
+claim for payment and distribut check the onli review of her activ wa made by a
+busi and rather uninterest supervisor who approv the employe claim without
+requir support document eventu the employe scheme evolv she began to
+purchas airlin ticket and return them for their cash valu an employe of the travel
+agenc assist in the scheme by encod the ticket as though the fraudster had paid for
+them herself that caus the airlin to pai refund directli to the fraudster rather than to
+her employ in the cours of two year thi employe embezzl over 100000 through
+her purchas scheme
+detect of bill scheme
+becaus there ar mani variat of purchas fraud scheme there ar also sever
+detect method detect method ar most effect when us in combin each
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1549
+detect method is like to point out anomali that can then be investig further to
+determin if a fraud scheme ha occur or is current underwai addition the
+detect method will point out the weak in intern control and alert the auditor to
+potenti opportun for futur fraud scheme
+analyt review
+a review of the variou gener ledger account might reveal unusu or unexpect event
+these event could be undetect purchas fraud for exampl a comparison of inventori
+purchas in relationship to net sale might indic that purchas ar too high or too low
+for that level of sale thi might be a red flag indic excess purchas scheme or
+fictiti sale scheme respect
+anoth analyt method us a comparison of the inventori purchas of prior year with
+those of the current year thi comparison might indic that an overbil scheme or a
+duplicatepay scheme is in progress
+analys such as those describ abov can be perform for ani acquisit of good or
+servic of a compani analyt review ar most effect in detect fraud scheme that
+ar larg such that the anomali will be appar other detect method ar more
+effect for fraud scheme that ar smaller in relationship to the financi statement taken
+as a whole regardless of fraud size examin of sourc document will be necessari
+when an anomali is detect further investig is requir which will demand an
+examin of sourc document
+computerassist analyt review
+the comput can assist the auditor in determin the presenc of unusu pattern in the
+acquisit or purchas function the comput can provid the auditor with a matrix of
+the purchas activ to determin the presenc of unusu pattern an analysi of the
+follow data might uncov purchas scheme such as
+asset misappropri fraudul disburs financi transact
+1550 2011 fraud examin manual
+fraud scheme detect method
+fictiti vendor vendor and employe with match address
+more than on vendor with the same address
+vendor with onli post offic box address
+overbil
+unusu or onetim extra charg
+conflict of interest vendor with employe who ar employe famili member
+an unusu high occurr of complaint
+complaint about specif vendor
+higher price andor substandard qualiti
+statist sampl
+as with inventori the sourc document for purchas can be statist sampl and
+examin for irregular statist sampl can be drawn to test specif attribut thi
+detect method is particularli effect if a singl attribut is suspect such as fictiti
+vendor a list of all post offic box address might reveal fictiti vendor
+vendor or outsid complaint
+fraudul scheme will often unravel becaus a vendor or other outsid complain to the
+employ or compani complaint from custom vendor and other ar good detect
+tool that can lead the fraud examin to further inquiri
+site visit observ
+a site visit will often reveal much about the intern control or lack thereof for ani
+locat the observ of how the account transact ar actual transcrib will
+sometim alert the fraud examin to potenti problem area
+sampl audit program
+the follow audit program mai be benefici in detect red flag to bill scheme
+doe the compani have a purchas depart if ye is it independ of 1 the
+account depart 2 the receiv depart or 3 the ship depart
+ar purchas made onli after the respect depart head sign purchas
+requisit
+ar purchas made by mean of purchas order sent to vendor for all purchas or
+onli for purchas over a predetermin dollar limit
+do purchas order specifi a descript of item quantiti price term deliveri
+requir and date
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1551
+is a list of unfil purchas order maintain and review period
+ar purchas order form prenumb and is the sequenc account for period
+doe the client maintain an approv vendor list
+ar item purchas onli after competit bid ar obtain if so ar competit bid
+obtain for all purchas or onli for purchas over a predetermin dollar limit
+is a log maintain of all receipt
+doe the receiv depart prepar receiv report for all item receiv if ye
+ar receiv report 1 prepar for all item 2 prepar onli for item that have
+purchas order or 3 renumb
+at the time the item ar receiv doe someon independ of the purchas
+depart check the merchandis befor accept as to descript quantiti
+and condit
+ar copi of receiv report 1 furnish to the account depart 2 furnish
+to the purchas depart or 3 file in the receiv depart
+ar receipt under blanket purchas order monitor and ar quantiti exceed
+author total return to the vendor
+ar procedur adequ for the proper account for partial deliveri of
+purchas order
+ar purchas and receiv function separ from invoic process account
+payabl and gener ledger function
+ar vendor invoic receiv report and purchas order match befor the relat
+liabil is record
+ar invoic check as to price extens foot freight charg allow and
+credit term
+ar control adequ to ensur that all avail discount ar taken
+ar purchas record in a purchas regist or voucher regist befor be process
+through cash disburs
+doe a respons employe assign the appropri gener ledger account distribut
+to which the invoic ar to be post
+ar procedur adequ to ensur that invoic have been process befor payment
+and to prevent duplic payment eg a block stamp
+doe a respons offici approv invoic for payment
+ar procedur adequ to ensur that merchandis purchas for direct deliveri to
+custom is promptli bill to the custom and record as both a receiv and
+a payabl
+ar record of good return to vendor match to vendor credit memo
+asset misappropri fraudul disburs financi transact
+1552 2011 fraud examin manual
+ar unmatch receiv report purchas order and vendor invoic period
+review and investig for proper record
+is the account payabl ledger or voucher regist reconcil monthli to the gener
+ledger control account
+ar statement from vendor regularli review and reconcil against record
+liabil
+do adjust to account payabl eg write off of debit balanc requir the
+approv of a design offici
+ar budget us if ye ar bu dget approv by respons offici and ar actual
+expenditur compar with budget amount and varianc analyz and explain
+if excess inventori purchas is suspect verifi that all inventori purchas wa
+receiv receiv report at the proper locat an examin of receiv report or
+invoic might reveal altern ship site
+prevent of bill scheme
+the prevent of purchas fraud can be especi difficult purchas personnel ar
+often held to a differ standard than other employe of a compani for exampl sale
+peopl often ar given induc or perquisit in order to persuad potenti custom
+these same induc ar offer to the purchas personnel of the compani from the
+compani vendor and yet the compani ex pect the purchas personnel to perform
+their function without bia and to make decis that ar in the best interest of the
+compani without regard to the induc offer by supplier addition the
+personnel involv in the purchas and payment function ar gener not compens
+on a basi commensur with their perform as ar salespeopl therefor there is a
+revers incent to perform in the best interest of the compani
+probabl the most effect purchas fraud prevent measur is educ train of
+the purchas and payabl personnel the second most effect purchas fraud
+prevent measur is an object compens arrang with peopl respons for
+purchas decis
+educ train
+purchas personnel should be train thoroughli in ethic situat the nation
+associ of purchas manag ha a code of ethic for it certifi purchas
+manag as a deterr to fraud compani might consid enrol and certif
+financi transact asset misappropri fraudul disburs
+2011 fraud examin manual 1553
+compens
+peopl respons for the purchas decis buyer should be paid well enough to
+reduc the motiv and ration for fraud auditor can examin the compens of
+purchas and determin if ani buyer were recent pass over for rais thi might be
+an indic of discont that could lead to the format of a fraudul scheme against
+the employ
+proper document
+proper document for purchas should includ prenumb and control purchas
+requisit purchas order receiv report and check
+proper approv
+befor ad a vendor to the list there should be an investig of the propos
+vendor perform by someon other than the personnel in purchas and account
+payabl if a vendor number is requir befor payment is made and the personnel
+respons for the investig assign the vendor that identif number then the
+buyer cannot place fictiti vendor on the list larg or unusu purchas should be
+approv by someon independ of the purchas depart
+segreg of duti
+for the best result and account each compani suffici in size should have a
+separ purchas depart regardless of the compani size the purchas function
+should be separ from the payment function
+hotlin
+compani should studi the feasibl of instal hotlin to provid a forum for
+complaint by employe and outsid
+competit bid
+ensur that bid polici and procedur ar thoroughli review whenev possibl
+enforc competit bid after the bid process ha been complet a questionnair
+can be sent to success and unsuccess bidder thi questionnair can reveal area to not
+onli make the bid process more effect but it also can provid a forum for bidder to
+express concern over question or fraudul activ
+asset misappropri fraudul disburs financi transact
+1554 2011 fraud examin manual
+prevent checklist
+the follow is a list of bill scheme prevent method that mai be help in the
+deterr of bill fraud
+author procedur of purchas order invoic and payment should be
+document and adher to
+the account payabl list of vendor should be period review for strang vendor
+and address
+payment code should be review for abnorm descript
+vendor purchas should be analyz for abnorm level on both a monthli and yearli
+basi
+purchas and inventori level should be compar and analyz see inventori and
+other asset
+control method to check for duplic invoic and purchas order number should be
+in place
+a separ of duti between author purchas receiv ship and
+account should be in place
+payment of voucher should be period review to ensur integr of proper
+document
+receiv and ship report should be review for complet and accuraci
+asset inform should includ purchas trail and other inform
+journal entri to inventori account should be strictli scrutin
+appropri bank reconcili and review procedur should be perform
+period check for outofplac vendor and endors
+credit card statement should be review often for irregular
+the valid of invoic with a post offic box address should be verifi
+proper control for the receipt and handl of return to sender check should be
+instal

@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Merchants should be advised not to accept a Visa credit card that begins with a 5 and has less than 13 digits.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=All Visa accounts begin with a 4 and contain either 13 or 16 digits. MasterCard account numbers begin with a 5 and contain 16 digits. If a customer presents a Visa card with a number that begins with a 5, then the card is probably counterfeit.See page(s) 1.1028 in the Fraud Examiner's Manual

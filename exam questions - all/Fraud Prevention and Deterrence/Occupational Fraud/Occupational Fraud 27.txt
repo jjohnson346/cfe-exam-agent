@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Asset misappropriation schemes are subdivided into two groups: cash schemes and non-cash schemes. According to the 2010 Report to the Nations, frauds that target cash are more common than those that target non-cash assets.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Eighty-six percent of the cases we reviewed involved some form of asset misappropriation. The majority of asset misappropriation schemes focus on cash, as opposed to other organizational assets. Eight of the nine categories target cash and. overall, approximately 85 percent of all asset misappropriation cases in our study involved the theft or misuse of cash.See page(s) 4.624-4.625 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=The Institute of Internal Auditors International Standards for the Professional Practice of Internal Auditing require that internal auditors apply the care and skill of a(n) ___________________.
+
+Options=Reasonably prudent and competent internal auditor | Expert whose primary responsibility is detecting fraud | Expert v/hose primary responsibility is investigating fraud | All of the above
+
+CorrectResponse=0
+
+Explanation=Internal auditors must apply the care and skill expected of a reasonably prudent and competent internal auditor Due professional care does not imply infallibility.See page(s) 1.242 in the Fraud Examiner's Manual

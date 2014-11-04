@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Able, a fraud examiner, interviewed Beta, a fraud suspect. No other people were present at the interview. During the course of the interview, Able accuses Beta of committing fraud. This accusation later turns out to be erroneous, and Beta sues Able for damages. Beta can recover damages for
+
+Options=Libel | Defamation | Slander | None of the above
+
+CorrectResponse=3
+
+Explanation=The four elements of defamation are:•	A false statement of fact•	Tending to subject the person to whom it referred to ill will or disrepute•	Published to one or more persons•	Made without privilegeEven though Able made an untrue statement, it was not broadcast to a third party or parties. As a result, the statement does not meet the test of defamation, and Beta probably would not recover damages.See page(s) 2.414-2.415 in the Fraud Examiner's Manual

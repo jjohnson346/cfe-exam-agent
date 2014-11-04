@@ -1,0 +1,9 @@
+Section=Overview of the Legal System
+
+Stem=Blue, a fraud defendant, was tried in federal criminal court and acquitted. Can Blue be retried for the same offense?
+
+Options=He can if the prosecution has new evidence | He can if there were serious errors committed by the judge at trial | Blue cannot be tried again | He can if Blue was incompetent during the first trial
+
+CorrectResponse=2
+
+Explanation=Because of the Fifth Amendment‰??s double jeopardy provisions, only a convicted defendant in a criminal case can appeal a verdict. The government cannot appeal an acquittal on the merits. If a statute authorizes the prosecution to appeal, such an appeal is constitutional only if the appellate court can decide the appeal without subjecting the defendant to a second trial. The prosecution may, hov/ever, appeal adverse pre-trial rulings on the admissibility of evidence and certain other matters that can terminate a prosecution temporarily (but do not result in a decision on the merits in favor of the defendant). Either party in a civil case may appeal a judgment.See page(s) 2.109 in the Fraud Examiner's Manual

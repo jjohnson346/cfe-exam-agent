@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=A decision to immunize a witness is solely within the discretion of the:
+
+Options=Judge | Prosecutor | Jury | None of the above
+
+CorrectResponse=1
+
+Explanation=A decision to immunize a witness is solely within the discretion of the prosecution If the application meets statutory requirements, the court must grant the order.See page(s) 2.507 in the Fraud Examiner's Manual

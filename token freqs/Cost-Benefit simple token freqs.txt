@@ -1,0 +1,28 @@
+Token                          Frequency
+-----------------------------  ---------
+with                                   1
+is                                     1
+transaction                            1
+gaap                                   2
+a                                      2
+exceed                                 1
+departure                              1
+cost-benefit                           1
+compliance                             2
+from                                   1
+the                                    2
+fraud                                  1
+in                                     1
+costs                                  1
+manual                                 1
+permitted                              1
+of                                     2
+expected                               2
+if                                     1
+1.201                                  1
+examiners                              1
+2011                                   1
+reporting                              1
+benefits                               1
+
+Totals:                     24        30

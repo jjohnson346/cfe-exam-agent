@@ -1,0 +1,25 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+change                                 1
+a                                      1
+the                                    2
+omitted                                1
+i                                      2
+and                                    2
+missing                                2
+not                                    1
+never                                  4
+verb                                   1
+located                                1
+file                                   2
+omit                                   1
+will                                   2
+:                                      1
+verbs                                  1
+probably                               2
+do                                     1
+required                               1
+locate                                 2
+
+Totals:                     21        32

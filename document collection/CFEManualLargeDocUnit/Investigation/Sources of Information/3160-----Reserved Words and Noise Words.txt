@@ -1,0 +1,80 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/A Guide to Successful Internet Searching/Reserved Words and Noise Words
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+Reserved Words and Noise Words 
+The connector words and, or, not, and near are considered reserved words, and are therefore 
+ignored when they appear in a search phrase. Similarly, noise words are common words with 
+very little meaning (e.g., in, of, and the); such words are also ignored unless the user puts the 
+entire phrase in parentheses. (See the Specific Search Operators section, below, for more 
+direction on reserved and noise words.)  
+ 
+The following are some of the common noise words ignored by most search engines. And 
+and or are marked with an asterisk because they are both noise words and reserved words.  
+  
+Boolean Operators
+ 
++  Designates words that must appear right next to each other. 
+–  Designates words that should not appear on a Web page. 
+“ ” Designates a list of words that must appear together in an exact order, 
+such as “holy cow.”  
+and Designates two or more words that must both appear on a page, but not 
+necessarily next to each other. 
+or  Designates two connected words, one of which must appear on a page. 
+not Designates words that should not appear on the page, much like the minus 
+sign. 
+near Designates words that should appear within a certain number of words of 
+each other. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.513 
+the and *  of 
+his my there 
+when is are 
+so or *  it 
+ 
+
+
+
+:
+
+
+reserv word and nois word
+the connector word and or not and near ar consid reserv word and ar therefor
+ignor when thei appear in a search phrase similarli nois word ar common word with
+veri littl mean eg in of and the such word ar also ignor unless the user put the
+entir phrase in parenthes see the specif search oper section below for more
+direct on reserv and nois word
+the follow ar some of the common nois word ignor by most search engin and
+and or ar mark with an asterisk becaus thei ar both nois word and reserv word
+boolean oper
+design word that must appear right next to each other
+design word that should not appear on a web page
+design a list of word that must appear togeth in an exact order
+such as holi cow
+and design two or more word that must both appear on a page but not
+necessarili next to each other
+or design two connect word on of which must appear on a page
+not design word that should not appear on the page much like the minu
+sign
+near design word that should appear within a certain number of word of
+each other
+investig access inform onlin
+2011 fraud examin manual 3513
+the and of
+hi my there
+when is ar
+so or it

@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=The Identity Theft Red Flag regulations (commonly called the Red Flag Rules) require financial institutions and creditors to develop and implement a written theft prevention program to detect, prevent, and mitigate the risk of identity theft for their customers.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=On January 1, 2008. the Identity Theft Red Flag regulations (Red Flag Rules), which update sections of the Fair and Accurate Credit Transactions Act of 2003, became effective Issued by the Federal Trade Commission (FTC) and five federal bank regulatory agencies, the Red Flag Rules require financial institutions and creditors (i.e.. banking institutions, retailers, utilities, car dealers, etc.) to develop and implement a written identity theft prevention program to detect, prevent, and mitigate the risk of identity theft for both new and existing accounts in numerous industries, including financial services, utilities, health care, and telecommunications.See page(s) 1.1765 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Common types of loan falsifications include which of the following?
+
+Options=Altered credit scores | Fraudulent earnings documentation | Altered bank statements | All of the above
+
+CorrectResponse=3
+
+Explanation=It is illegal to provide false documents to verify income or assets, to make misrepresentations in a loan application, and to knowingly process a false loan application. Common types of loan falsifications include altered bank statements, altered or fraudulent earnings documentation, fraudulent letters of credit, fabricated letters of gift, misrepresentation of employment, misrepresentation of loan purpose, altered credit scores, false Social Security numbers, failure to fully disclose borrower’s debts or assets, and brokers using the identities of prior customers to obtain loans for customers unable to qualify.See page(s) 1.913 in the Fraud Examiner's Manual

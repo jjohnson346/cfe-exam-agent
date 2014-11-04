@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, cash register disbursement schemes were both the most common and the most costly type of fraudulent disbursement scheme.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Of the fraud cases in our 2010 study, only 3 percent involved fraudulent cash register disbursements, making this the least common type of fraudulent disbursement. Cash register disbursement schemes v/ere also among the least costly forms of fraudulent disbursement schemes, causing a median loss of $23,000.See page(s) 4.625 in the Fraud Examiner's Manual

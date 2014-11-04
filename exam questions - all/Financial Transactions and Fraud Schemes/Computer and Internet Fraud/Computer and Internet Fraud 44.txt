@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Effective computer security ensures the availability of accurate data in time to meet an organization's needs at a cost that is commensurate with the risks involved. One of the key elements in an effective computer security system is the maintenance of which of the following components? \r\rI.	Confidentiality \rII.	Materiality \rIII.	Integrity \rIV.	Availability
+
+Options=I, III, and IV only | I, II, III. and IV | II and III only | I, II, and III only
+
+CorrectResponse=0
+
+Explanation=Effective computer security ensures the availability of accurate data in time to meet an organization's needs at a cost that is commensurate with the risks involved. Key elements are:See page(s) 1.1839 in the Fraud Examiner's Manual

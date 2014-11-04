@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which of the following is NOT a possible legal risk which can result from improperly conducted interviews?
+
+Options=Breach of implied contract claim | Invasion of privacy claim | Defamation claim | Forcible entry and detainer claim
+
+CorrectResponse=3
+
+Explanation=There are several possible legal claims that can result from an improperly conducted interview. Such claims include invasion of privacy, intentional infliction of emotional distress, defamation, breach of implied contract, and false imprisonment. A forcible entry and detainer claim is a type of landlord-tenant claim and would not be involvedSee page(s) 2.413-2.416 in the Fraud Examiner's Manual

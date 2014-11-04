@@ -1,0 +1,477 @@
+2011 Fraud Examiners Manual/Law/BASIC PRINCIPLES OF EVIDENCE/Hearsay
+
+
+:
+
+
+Law
+
+
+:
+
+
+Evidence
+
+
+:
+
+
+Hearsay 
+Simply put, hearsay refers to a statement that repeats what some other person said while 
+outside of court. FRE 801 defines hearsay as “a statement, other than one made … at the trial 
+or hearing, offered in evidence to prove the truth of the matter asserted.” Basically, hearsay 
+involves the following elements: 
+• A statement (anything intended to be an assertion; statements can be oral, written, or 
+nonverbal conduct, such as nodding a head) 
+• That is made outside the court’s supervision (statements made at trial or during deposition are 
+not hearsay because they are made during court proceedings, but a statement made at 
+work or at a crime scene is outside the court’s supervision and could be hearsay if the 
+other elements are also present) 
+• That is offered to prove the truth of the matter asserted (a party is offering a statement to prove the 
+truth of the matter asserted if the party is trying to prove that the assertion made by the 
+declarant [the person who made the out-of-court statement] is true) 
+ 
+This sets apart virtually anything said outside the courtroom or outside an officially 
+designated function of the court such as a deposition.  
+ 
+Under the general rule, hearsay is not admissible in court, but this rule is subject to numerous 
+exceptions. Excluding hearsay on one level means witnesses cannot say, “He said … she 
+Basic Principles of Evidence  Law 
+2.718  2011 Fraud Examiners Manual  
+said.” Each person testifies to his own experience.  This is designed to protect the credibility 
+and condition of testimony and to preserve each side’s right to cross-examine witnesses.  
+ 
+Each witness in the trial will be questioned about personal, firsthand encounters. Unless their 
+statements satisfy one of the exceptions discussed below, witnesses will speak only about 
+things they have experienced themselves. If possible, evidence should be presented in the 
+courtroom so that the jury can determine the weight to give each piece of evidence.  
+ 
+The hearsay rule often creates admissibility issues for electronically stored information (ESI) 
+because such evidence is often made out of court and offered to prove the truth of the matter 
+asserted.  
+ 
+Exceptions to the Hearsay Rule 
+The general rule against hearsay is full of exceptions — ways to get information into the 
+record — which accounts for the rule’s infamy in courtroom dramas and in real courtrooms. 
+The rules of evidence exempts several categories of statements that are not to be considered 
+hearsay, and there are many circumstances in which evidence, although hearsay, is admissible.  
+ 
+The Truth of the Statement Is Not at Issue 
+The hearsay rule only applies if the statement is being offered to prove the truth of the matter 
+contained in the statement. Therefore, if the statement is offered for some other purpose, it 
+technically is not hearsay. Any out-of-court statement can be admitted if it (1) is relevant to 
+some aspect of the proceedings and (2) is not offered for the truth of its contents. Such 
+statements are most often used to show a person’s knowledge or state of mind at a particular 
+time. For instance, a witness will be allowed to testify that she heard the defendant say, “I 
+can’t stand this company. They owe me big time.” The statement cannot be used to prove 
+that the defendant actually stole from the company; however, it can be admitted to show the 
+defendant’s state of mind — that he was disgruntled. 
+ 
+Admissions by an Adverse Party 
+Generally, the statement of an adverse party is not hearsay. Such statements are called 
+“admissions” and can be very powerful evidence. More specifically, an admission is an out-of-court 
+statement or conduct by a party to the lawsuit that tends to support the other side’s 
+position or diminish the declarant’s own position. Thus, anything spoken or written by a 
+party to a lawsuit can be entered into the record, provided that the statement can be  
+ 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.719 
+corroborated and is relevant. Each side can use its adversary’s out-of-court statements as 
+evidence.  
+ 
+For example, during your investigation of the case prior to trial, you interviewed the 
+defendant. During the interview, he tells you that he falsified the invoices. Later he denies 
+making the statement. If you take the stand and tell the jury that the defendant told you he 
+falsified invoices, technically that statement is hearsay. However, since it is an admission, it 
+will be admitted under this exception to the rule.  
+ 
+An admission is not necessarily an outright confession. A witness may testify that a bank 
+officer told her, “I have ways of getting loans approved that no one else knows about.” The 
+statement alone does not prove loan fraud against the officer, but it does establish, by his 
+own admission, his stated intent to subvert the security controls of the institution. 
+ 
+In cases involving corporations, large groups, or government agencies, any statement made by 
+a member of the organization is potentially an admission. The person who made the 
+statement has to be directly authorized to speak for the organization or perform a job related 
+to the issue under discussion. For example, an agent employed by Jefferson Realtors who 
+says, “You’ve been defrauded here” to an aggrieved client has made an admission on behalf 
+of the company. A janitor at Jefferson Realtors, however, cannot make the same admission 
+because janitorial duties are not related to the formation of contracts, and chances are the 
+janitor is not authorized to make corporate declarations. Since an agent makes contracts on 
+the company’s behalf, the statement is an admission even if the agent is not the official 
+spokesperson for Jefferson’s legal affairs.  
+ 
+Former Testimony Under Oath 
+Testimony given by the declarant at another hearing is admissible if the party against whom 
+the testimony is now offered had an opportunity and motive to examine the witness similar to 
+that in the present trial. 
+ 
+Business and Government Records 
+We commonly think of invoices, receipts, and official documents as the final legal word, but 
+like statements made outside of court, business and government records are hearsay; they are 
+prepared outside the courtroom. A special exception for these materials, however, makes 
+them admissible if they are provided with a legal foundation. The admissibility of such 
+records rests on two criteria:  
+Basic Principles of Evidence  Law 
+2.720  2011 Fraud Examiners Manual  
+• Have they been prepared during “regularly conducted business activity”? 
+• Are they verifiably trustworthy? 
+ 
+Materials prepared specifically for trial are not admissible as business records. Anything that 
+casts doubt on the veracity of these documents can bar them. In situations where the charge 
+involves altered documents, the materials are admitted to prove the charge of alteration — not 
+for their truth-value — so the hearsay rule does not apply.  
+ 
+Computerized records have had no trouble being accepted as evidence. Generally, the hearsay 
+exception for business records applies (i.e., they are admissible as long as the records have 
+been compiled as a regular facet of doing business).  
+ 
+However, it should be noted that a minority of courts follow a different approach when 
+addressing hearsay within computerized records, which has recently garnered much acclaim. 
+These courts distinguish between computer-stored records and computer-generated records 
+and hold that ESI containing only computer-generated records (such as log-in records from 
+ISPs, telephone records, and ATM receipts) untouched by human hands do not contain 
+hearsay. In such cases, there is no need to establish that a hearsay exception applies. 
+Alternatively, computer-stored records are created or maintained by a human and therefore 
+are deemed hearsay. Thus, they must meet a hearsay exception to be admitted. 
+ 
+Statement Against Interest 
+A statement against interest is a special form of admission in which a prior statement is at odds 
+with the declarant’s current claim. To be admissible under this exception, the statement must 
+meet three requirements:  
+• The declarant must be unavailable to testify. 
+• The statement must have been against important interests of the declarant when made. 
+• Corroborating circumstances must clearly establish the trustworthiness of the statement. 
+ 
+In prosecuting a tax evasion charge, for example, prosecutors may present a financial 
+statement used by the defendant to obtain a loan; this is a statement against interest because 
+the document declares a higher net worth than the defendant now claims to have. 
+ 
+Absence of an Entry in Business Records 
+Evidence that a matter is not included in the memoranda or reports kept in the regular course 
+of business may be admissible to prove that a certain event did not occur if the matter was 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.721 
+one about which a memorandum or report regularly was made and preserved. However, this 
+does not hold true if the source of information or the circumstances indicate a lack of 
+trustworthiness. 
+ 
+Recorded Recollections 
+A memorandum or record may be admissible if it concerns a matter that the witness once had 
+knowledge of but now has forgotten, if it was made or adopted by the witness when the 
+matter was fresh in memory, and if it is shown to be accurate. Such memoranda or records 
+also may be shown to a witness who has temporarily forgotten the events to refresh the 
+witness’s recollection and allow the testimony to be more complete or accurate. 
+ 
+Present Sense Impressions 
+Courts assume statements that are made during or immediately after significant events or 
+conditions and that describe or explain the events or conditions are reliable, so present sense 
+impressions are admissible. For example, a witness can report that he first suspected fraud at 
+Securities Plus by noting that his superior said, “Oh my God! This can’t be happening!” when 
+he was informed that there would be an audit. In a similar example, Mr. Whistler notices 
+Jenny Moore, a co-worker, in John Smith’s office and overhears her say, “Oh, here are some 
+bid sheets in the trash can.” If the government prosecutes Smith for bid rigging, which is 
+demonstrated by the bid sheets, Mr. Whistler can testify about Moore’s statement as a present 
+sense impression because the words described the scene before her. 
+ 
+Excited Utterances 
+There is also an exception for statements relating to a startling event or condition made while 
+the declarant was under the stress of its excitement. Unlike statements of present sense 
+impressions, excited utterances require an occurrence that is startling enough to produce 
+excitement.  In the Mr. Whistler scenario, for example, Moore’s statements might qualify as 
+an excited utterance if she discovered the bid sheets after months of searching for 
+incriminating evidence and told Whistler, while jumping up and down in excitement, “I’ve 
+found the evidence I’ve been waiting for a long time!” Here, the successful conclusion of the 
+search was sufficiently exciting.  
+ 
+Then Existing Mental, Emotional, or Physical Condition  
+Statements of the declarant’s then-existing state of mind, emotion, or physical condition are 
+also admissible as exceptions to the hearsay rule. Specifically, the Federal Rule of Evidence 
+803 lists “state of mind, emotion, sensation, or physical condition …, pain, and bodily health” 
+Basic Principles of Evidence  Law 
+2.722  2011 Fraud Examiners Manual  
+as acceptable subject matter, along with extremely personalized thought processes such as 
+“intent, plan, motive, design, mental feeling ….”  
+ 
+Defense attorneys at a fraud trial sometimes use arguments about what their client intended, or 
+the confusion and stress the person was suffering. For instance, the defendant was seen 
+shredding documents, and he was overheard to say, “They’ll never prove anything now.” The 
+statement may be admitted to show the defendant’s state of mind at the time he was 
+shredding the documents. It also shows that the defendant acted with the intent to destroy 
+the documents. Hearsay statements that help establish this intention are admissible as 
+exceptions. 
+ 
+Statements for Purposes of Medical Diagnosis or Treatment 
+Anything first communicated during a medical examination is admissible as a hearsay 
+exception. This includes medical history, symptoms, pain, and the general character of the 
+medical condition. These statements do not even have to have been made by the patient. 
+They can involve someone (parent or spouse) accompanying the patient.  
+ 
+Printed Matter, Learned Treatises, and Refresher Writings 
+Written materials that add to the court’s knowledge of an issue are excepted from the hearsay 
+rule. This exception often bears on the testimony of expert witnesses who often use 
+published material in their work. 
+ 
+Printed materials  that support technical or professional assertions, such as commodity market 
+reports, stock market quotes, mortality tables, cost of living indexes, etc., are admissible if 
+they are “generally used and relied upon by the public or by persons in particular 
+occupations.” The Federal Rules of Evidence specifically mentions market reports and 
+commercial publications. 
+ 
+The Federal Rules of Evidence also creates a hearsay exception for learned treatises, providing 
+that an authoritative work is admissible to either support or attack the opinion of an expert 
+witness and that the works are established as reliable authority. However, some courts limit 
+the rule. In these jurisdictions, specialized “treatises, periodicals, or pamphlets” can be 
+referenced only during cross-examination. In a world of proliferating and sometimes 
+contradictory sources of information, just what counts as a learned treatise and what is a 
+fringe group’s manifesto is not immediately clear. 
+Writing used to refresh a witness’s memory is admissible under special circumstances. Basically, 
+Law  Basic Principles of Evidence 
+2011 Fraud Examiners Manual    2.723 
+courts may permit testifying witnesses to refresh or revive their memory by referring to a 
+writing or anything else if the witnesses will thereafter be able to testify without depending on 
+the terms of the writing. For example, Whistler, who is serving as a witness at a fraud trial, 
+wants to see some notes he wrote two years ago to make sure he got the numbers right in his 
+testimony. He is allowed to consult the notes and continue with his testimony. There is a 
+lawyerly aspect to this rule—the text of the notes is admissible, too, but only if the opposing 
+attorney requests the admission.  
+ 
+Other Exceptions 
+Miscellaneous exceptions to the hearsay rule include things like dying declarations  and ancient 
+documents. For those instances not specified in any rule, there remains the judge’s discretion: 
+Anything the judge deems trustworthy for the purposes of its presentation is admissible. This is 
+the cornerstone of the rule. Hearsay is excluded in the first place because it supposedly lacks 
+trustworthiness. However, other kinds of hearsay that do not fall within any specific hearsay 
+exceptions may be admissible if they meet the same standards of trustworthiness as required 
+for the listed exceptions.   
+ 
+ 
+Excluding Illegally Seized Evidence 
+In general, evidence obtained improperly is tainted and unfit for trial. The Fourth 
+Amendment sets out this cornerstone exclusionary rule, barring anything obtained by 
+authorities without proper authorization from the owner or possessor, or through a court-ordered 
+search warrant. Generally, this rule applies only in criminal cases, But it also applies 
+to government employers. Therefore, a public employer cannot use illegally seized evidence 
+to discipline an employee. There is no Fourth Amendment prohibition against a private  
+employer using illegally seized evidence to discipline an employee, however. But if a private 
+employer does use illegally seized evidence to discipline an employee, the employer might be 
+exposing itself to litigation for invasion of privacy, trespass, or other common law causes of 
+action, even though the evidence may still be admitted in court. 
+ 
+ 
+
+
+
+:
+
+
+hearsai
+simpli put hearsai refer to a statement that repeat what some other person said while
+outsid of court fre 801 defin hearsai as a statement other than on made at the trial
+or hear offer in evid to prove the truth of the matter assert basic hearsai
+involv the follow element
+a statement anyth intend to be an assert statement can be oral written or
+nonverb conduct such as nod a head
+that is made outsid the court supervis statement made at trial or dure deposit ar
+not hearsai becaus thei ar made dure court proceed but a statement made at
+work or at a crime scene is outsid the court supervis and could be hearsai if the
+other element ar also present
+that is offer to prove the truth of the matter assert a parti is offer a statement to prove the
+truth of the matter assert if the parti is try to prove that the assert made by the
+declar the person who made the outofcourt statement is true
+thi set apart virtual anyth said outsid the courtroom or outsid an offici
+design function of the court such as a deposit
+under the gener rule hearsai is not admiss in court but thi rule is subject to numer
+except exclud hearsai on on level mean wit cannot sai he said she
+basic principl of evid law
+2718 2011 fraud examin manual
+said each person testifi to hi own experi thi is design to protect the credibl
+and condit of testimoni and to preserv each side right to crossexamin wit
+each wit in the trial will be question about person firsthand encount unless their
+statement satisfi on of the except discuss below wit will speak onli about
+thing thei have experienc themselv if possibl evid should be present in the
+courtroom so that the juri can determin the weight to give each piec of evid
+the hearsai rule often creat admiss issu for electron store inform esi
+becaus such evid is often made out of court and offer to prove the truth of the matter
+assert
+except to the hearsai rule
+the gener rule against hearsai is full of except wai to get inform into the
+record which account for the rule infami in courtroom drama and in real courtroom
+the rule of evid exempt sever categori of statement that ar not to be consid
+hearsai and there ar mani circumst in which evid although hearsai is admiss
+the truth of the statement is not at issu
+the hearsai rule onli appli if the statement is be offer to prove the truth of the matter
+contain in the statement therefor if the statement is offer for some other purpos it
+technic is not hearsai ani outofcourt statement can be admit if it 1 is relev to
+some aspect of the proceed and 2 is not offer for the truth of it content such
+statement ar most often us to show a person knowledg or state of mind at a particular
+time for instanc a wit will be allow to testifi that she heard the defend sai i
+cant stand thi compani thei ow me big time the statement cannot be us to prove
+that the defend actual stole from the compani howev it can be admit to show the
+defend state of mind that he wa disgruntl
+admiss by an advers parti
+gener the statement of an advers parti is not hearsai such statement ar call
+admiss and can be veri power evid more specif an admiss is an outofcourt
+statement or conduct by a parti to the lawsuit that tend to support the other side
+posit or diminish the declar own posit thu anyth spoken or written by a
+parti to a lawsuit can be enter into the record provid that the statement can be
+law basic principl of evid
+2011 fraud examin manual 2719
+corrobor and is relev each side can us it adversari outofcourt statement as
+evid
+for exampl dure your investig of the case prior to trial you interview the
+defend dure the interview he tell you that he falsifi the invoic later he deni
+make the statement if you take the stand and tell the juri that the defend told you he
+falsifi invoic technic that statement is hearsai howev sinc it is an admiss it
+will be admit under thi except to the rule
+an admiss is not necessarili an outright confess a wit mai testifi that a bank
+offic told her i have wai of get loan approv that no on els know about the
+statement alon doe not prove loan fraud against the offic but it doe establish by hi
+own admiss hi state intent to subvert the secur control of the institut
+in case involv corpor larg group or govern agenc ani statement made by
+a member of the organ is potenti an admiss the person who made the
+statement ha to be directli author to speak for the organ or perform a job relat
+to the issu under discuss for exampl an agent emploi by jefferson realtor who
+sai youv been defraud here to an aggriev client ha made an admiss on behalf
+of the compani a janitor at jefferson realtor howev cannot make the same admiss
+becaus janitori duti ar not relat to the format of contract and chanc ar the
+janitor is not author to make corpor declar sinc an agent make contract on
+the compani behalf the statement is an admiss even if the agent is not the offici
+spokesperson for jefferson legal affair
+former testimoni under oath
+testimoni given by the declar at anoth hear is admiss if the parti against whom
+the testimoni is now offer had an opportun and motiv to examin the wit similar to
+that in the present trial
+busi and govern record
+we commonli think of invoic receipt and offici document as the final legal word but
+like statement made outsid of court busi and govern record ar hearsai thei ar
+prepar outsid the courtroom a special except for these materi howev make
+them admiss if thei ar provid with a legal foundat the admiss of such
+record rest on two criteria
+basic principl of evid law
+2720 2011 fraud examin manual
+have thei been prepar dure regularli conduct busi activ
+ar thei verifi trustworthi
+materi prepar specif for trial ar not admiss as busi record anyth that
+cast doubt on the verac of these document can bar them in situat where the charg
+involv alter document the materi ar admit to prove the charg of alter not
+for their truthvalu so the hearsai rule doe not appli
+computer record have had no troubl be accept as evid gener the hearsai
+except for busi record appli ie thei ar admiss as long as the record have
+been compil as a regular facet of do busi
+howev it should be note that a minor of court follow a differ approach when
+address hearsai within computer record which ha recent garner much acclaim
+these court distinguish between computerstor record and computergener record
+and hold that esi contain onli computergener record such as login record from
+isp telephon record and atm receipt untouch by human hand do not contain
+hearsai in such case there is no need to establish that a hearsai except appli
+altern computerstor record ar creat or maintain by a human and therefor
+ar deem hearsai thu thei must meet a hearsai except to be admit
+statement against interest
+a statement against interest is a special form of admiss in which a prior statement is at odd
+with the declar current claim to be admiss under thi except the statement must
+meet three requir
+the declar must be unavail to testifi
+the statement must have been against import interest of the declar when made
+corrobor circumst must clearli establish the trustworthi of the statement
+in prosecut a tax evas charg for exampl prosecutor mai present a financi
+statement us by the defend to obtain a loan thi is a statement against interest becaus
+the document declar a higher net worth than the defend now claim to have
+absenc of an entri in busi record
+evid that a matter is not includ in the memoranda or report kept in the regular cours
+of busi mai be admiss to prove that a certain event did not occur if the matter wa
+law basic principl of evid
+2011 fraud examin manual 2721
+on about which a memorandum or report regularli wa made and preserv howev thi
+doe not hold true if the sourc of inform or the circumst indic a lack of
+trustworthi
+record recollect
+a memorandum or record mai be admiss if it concern a matter that the wit onc had
+knowledg of but now ha forgotten if it wa made or adopt by the wit when the
+matter wa fresh in memori and if it is shown to be accur such memoranda or record
+also mai be shown to a wit who ha temporarili forgotten the event to refresh the
+witnesss recollect and allow the testimoni to be more complet or accur
+present sens impress
+court assum statement that ar made dure or immedi after signific event or
+condit and that describ or explain the event or condit ar reliabl so present sens
+impress ar admiss for exampl a wit can report that he first suspect fraud at
+secur plu by note that hi superior said oh my god thi cant be happen when
+he wa inform that there would be an audit in a similar exampl mr whistler notic
+jenni moor a cowork in john smith offic and overhear her sai oh here ar some
+bid sheet in the trash can if the govern prosecut smith for bid rig which is
+demonstr by the bid sheet mr whistler can testifi about moor statement as a present
+sens impress becaus the word describ the scene befor her
+excit utter
+there is also an except for statement relat to a startl event or condit made while
+the declar wa under the stress of it excit unlik statement of present sens
+impress excit utter requir an occurr that is startl enough to produc
+excit in the mr whistler scenario for exampl moor statement might qualifi as
+an excit utter if she discov the bid sheet after month of search for
+incrimin evid and told whistler while jump up and down in excit iv
+found the evid iv been wait for a long time here the success conclus of the
+search wa suffici excit
+then exist mental emot or physic condit
+statement of the declar thenexist state of mind emot or physic condit ar
+also admiss as except to the hearsai rule specif the feder rule of evid
+803 list state of mind emot sensat or physic condit pain and bodili health
+basic principl of evid law
+2722 2011 fraud examin manual
+as accept subject matter along with extrem person thought process such as
+intent plan motiv design mental feel
+defens attornei at a fraud trial sometim us argument about what their client intend or
+the confus and stress the person wa suffer for instanc the defend wa seen
+shred document and he wa overheard to sai theyll never prove anyth now the
+statement mai be admit to show the defend state of mind at the time he wa
+shred the document it also show that the defend act with the intent to destroi
+the document hearsai statement that help establish thi intent ar admiss as
+except
+statement for purpos of medic diagnosi or treatment
+anyth first commun dure a medic examin is admiss as a hearsai
+except thi includ medic histori symptom pain and the gener charact of the
+medic condit these statement do not even have to have been made by the patient
+thei can involv someon parent or spous accompani the patient
+print matter learn treatis and refresh write
+written materi that add to the court knowledg of an issu ar except from the hearsai
+rule thi except often bear on the testimoni of expert wit who often us
+publish materi in their work
+print materi that support technic or profession assert such as commod market
+report stock market quot mortal tabl cost of live index etc ar admiss if
+thei ar gener us and reli upon by the public or by person in particular
+occup the feder rule of evid specif mention market report and
+commerci public
+the feder rule of evid also creat a hearsai except for learn treatis provid
+that an authorit work is admiss to either support or attack the opinion of an expert
+wit and that the work ar establish as reliabl author howev some court limit
+the rule in these jurisdict special treatis period or pamphlet can be
+referenc onli dure crossexamin in a world of prolifer and sometim
+contradictori sourc of inform just what count as a learn treatis and what is a
+fring group manifesto is not immedi clear
+write us to refresh a witnesss memori is admiss under special circumst basic
+law basic principl of evid
+2011 fraud examin manual 2723
+court mai permit testifi wit to refresh or reviv their memori by refer to a
+write or anyth els if the wit will thereaft be abl to testifi without depend on
+the term of the write for exampl whistler who is serv as a wit at a fraud trial
+want to see some note he wrote two year ago to make sure he got the number right in hi
+testimoni he is allow to consult the note and continu with hi testimoni there is a
+lawyerli aspect to thi ruleth text of the note is admiss too but onli if the oppos
+attornei request the admiss
+other except
+miscellan except to the hearsai rule includ thing like dy declar and ancient
+document for those instanc not specifi in ani rule there remain the judg discret
+anyth the judg deem trustworthi for the purpos of it present is admiss thi is
+the cornerston of the rule hearsai is exclud in the first place becaus it supposedli lack
+trustworthi howev other kind of hearsai that do not fall within ani specif hearsai
+except mai be admiss if thei meet the same standard of trustworthi as requir
+for the list except
+exclud illeg seiz evid
+in gener evid obtain improperli is taint and unfit for trial the fourth
+amend set out thi cornerston exclusionari rule bar anyth obtain by
+author without proper author from the owner or possessor or through a courtord
+search warrant gener thi rule appli onli in crimin case but it also appli
+to govern employ therefor a public employ cannot us illeg seiz evid
+to disciplin an employe there is no fourth amend prohibit against a privat
+employ us illeg seiz evid to disciplin an employe howev but if a privat
+employ doe us illeg seiz evid to disciplin an employe the employ might be
+expos itself to litig for invas of privaci trespass or other common law caus of
+action even though the evid mai still be admit in court

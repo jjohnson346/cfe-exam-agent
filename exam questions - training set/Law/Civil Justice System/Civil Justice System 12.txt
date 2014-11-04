@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=A fidelity bond is a type of bail bond that ensures the defendant will appear at trial or suffer loss of the bond amount.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The fidelity bond claim is an often-overlooked method of recovery for losses due to internal fraud. A fidelity bond is a policy issued by many large insurance companies under which the insured entity is covered against losses caused by the dishonest or fraudulent acts of its employees.See page(s) 2.616 in the Fraud Examiner's Manual

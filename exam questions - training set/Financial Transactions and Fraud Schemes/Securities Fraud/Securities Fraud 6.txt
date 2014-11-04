@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=To determine if a misrepresentation is ___________________, the fraud examiner should ask, "Would a reasonable investor wish to know this information in order to make an informed decision?"
+
+Options=Promotional | Relevant | Privileged | Material
+
+CorrectResponse=3
+
+Explanation=It is important to show the materiality of misrepresentations or omissions. Even if representations made, for example in prospectus, are clearly false, it is still necessary to show materiality. As a general rule, the examiner or investigator needs to determine the answer to the following question: Would a reasonable investor wish to know this information in order to make an informed decision? If the answer is "yes," then this information, or the lack thereof, has a high likelihood of being deemed material.See page(s) 1.1543 in the Fraud Examiner‰??s Manual

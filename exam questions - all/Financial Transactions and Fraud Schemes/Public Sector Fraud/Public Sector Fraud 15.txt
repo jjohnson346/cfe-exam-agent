@@ -1,0 +1,9 @@
+Section=Public Sector Fraud
+
+Stem=The failure to produce documents in a timely manner during an audit may be an indication of which of the following:
+
+Options=The company is altering documents | There are no source documents to substantiate summary data | The information is not readily retrievable | All of the above
+
+CorrectResponse=3
+
+Explanation=Failure to produce documents might be an indication that there are no source documents to substantiate the summary data. For example, if costs are submitted for reimbursement, and the costs have not been incurred, then there will be no supporting data. It might also mean that the company is trying to alter or create fictitious documents to support its summary data. However, it could also mean that the information is not readily available.See page(s) 1.1914 in the Fraud Examiner’s Manual

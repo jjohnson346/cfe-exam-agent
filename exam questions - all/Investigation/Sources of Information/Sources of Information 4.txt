@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=The U.S. Secret Service is responsible for:
+
+Options=Maintaining records on counterfeiters | Protecting the President, Vice President, and other dignitaries | Maintaining records on forgers | All of the above
+
+CorrectResponse=3
+
+Explanation=The U.S. Secret Service maintains records on forgers, counterfeiters, and businesses that have contacted the Service concerning forged or counterfeit obligations of the United States, such as Treasury notes. In addition, the Treasurer of the United States can provide copies of canceled checks paid by the U.S. Treasury.See page(s) 3.439 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Electronic Data Interchange (EDI) has the potential to save the health care industry billions per year in paper costs, and many fraud examiners believe the incidence of health care fraud will decrease as well.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In the current health care system, there are over 1,500 third-party payers that process over four billion medical claims every year. Because the health care system uses over 450 different types of forms, it is estimated that in the past, the health care industry spent as much as S100 billion per year to process its paperwork. Thus, EDI has the potential to save the health care industry from $8 billion to $20 billion every year as claims are sent electronically to the third-party payer, thus eliminating paper. It is very simply a more efficient way for the health care industry to do business. However, fraud examiners fear that a more efficient system also paves the way for more efficient ways to defraud the health care industry.See page(s) 1.1248 in the Fraud Examiner‰??s Manual

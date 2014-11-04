@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=While conducting a fraud examination, Black, a Certified Fraud Examiner, obtained a document in 2009. Since Black obtained the document, several individuals have had it in their possession. In 2010, the document was introduced at trial. The defense objected because there was no record of who had possession of the document and what they did with it. The defense's objection is based a failure to maintain the _________________.
+
+Options=Chain of custody | Hearsay evidence | Secondary evidence | None of the above
+
+CorrectResponse=0
+
+Explanation="Chain of custody" refers to (1) who has had possession of an object, and (2) what they?ve done with it. This rule is especially pertinent to the discovery process, since discovery is the appropriate stage to be conducting tests and otherwise inspecting evidence. Gaps in the chain of custody (when it?s not clear what occurred with a set of records, for example) or outright mishandling (a group of questioned documents wasn't properly sealed, perhaps), can dishevel a case. See page(s) 2.715-2.716 in the Fraud Examiner's Manual

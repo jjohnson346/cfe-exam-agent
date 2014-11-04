@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations, occupational frauds committed by men tend to be much more frequent than occupational frauds committed by women.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=As in our past studies, the majority of fraud cases in our 2010 Report (two-thirds) were perpetrated by males. Men are also associated with a median loss more than twice as great as that caused by women. We have previously hypothesized that these disparities between the genders are reflective of the remaining ‰??glass ceiling' phenomenon, which results in males holding more management and executive-level positions in many organizations and thus having greater opportunity to commit larger-dollar fraudsSee page(s) 4.646 in the Fraud Examiner's Manual

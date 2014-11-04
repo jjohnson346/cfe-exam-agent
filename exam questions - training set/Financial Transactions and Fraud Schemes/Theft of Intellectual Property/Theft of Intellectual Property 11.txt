@@ -1,0 +1,9 @@
+Section=Theft of Intellectual Property
+
+Stem=Document classification is an important part of any plan to safeguard valuable corporate information. It is recommended that trade secrets be classified as which of the following:
+
+Options=For your eyes only | Private | Restrictred | Authorized access only
+
+CorrectResponse=3
+
+Explanation=Document classification is also an important area in a protection plan. Working closely v/ith each department, proprietary documents should be classified according to the level of security that best meets the company‰??s needs. For instance, documents may be labeled ‰??private" for personnel matters and move up to ^restricted" for pricing or marketing information Trade secrets or highly sensitive information might be labeled ‰??authorized access only." Notes and drafts of documents should also be safeguarded or destroyed when the final document is completed.See page(s) 1.880 in the Fraud Examiner's Manual

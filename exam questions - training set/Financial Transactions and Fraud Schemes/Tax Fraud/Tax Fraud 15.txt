@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=Which of the following is not generally considered reasonable evidence of tax fraud?
+
+Options=False documents | Participation in illegal business | Unexplained bank deposits | Incompetence of the taxpayer
+
+CorrectResponse=3
+
+Explanation=Certain circumstances constitute reasonable evidence of fraud, including: unexplained bank deposits, false documents, false explanations for prior conduct, participation in illegal business, and false claims of extra withholding exemptions. Incompetence of a taxpayer may be, in certain circumstances, a proper defense to a tax fraud charge.See page(s) 1.1412 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=The aiding and abetting of fraud by outside parties, such as customers and vendors, is considered a fraud risk pertaining to which category of fraud?
+
+Options=Fraudulent financial reporting | Corruption | Asset misappropriation | None of the above
+
+CorrectResponse=1
+
+Explanation=Potential corruption risks include:	•	Payment of bribes or gratuities to companies, private individuals, or public officials •	Receipt of bribes, kickbacks, or gratuities •	Aiding and abetting of fraud by outside parties, such as customers or vendors	See page(s) 4.815 in the Fraud Examiner's Manual

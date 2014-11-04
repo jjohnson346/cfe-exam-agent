@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=In order to conceal the misappropriation of an asset, the accounting equation can be balanced by all of the following EXCEPT:
+
+Options=Creating an expense | Reducing owners' equity	| Reducing a liability	| Decreasing another asset
+
+CorrectResponse=3
+
+Explanation=The accounting equation. Assets = Liabilities + Owners' Equity, is the basis for all double-entry accounting. If an asset is stolen, the equation can be balanced by increasing another asset, reducing a liability, reducing an owners' equity account, reducing revenues (and thus retained earnings), or creating an expense (and thus reducing retained earnings). Of these, creating a fraudulent expense is most common.See page(s) 1.101 in the Fraud Examiner's Manual

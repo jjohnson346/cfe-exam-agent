@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=If investigating fraud involving food stamps, a Certified Fraud Examiner may consult this federal entity for beneficiary information.
+
+Options=The Department of Agriculture | The General Services Administration | The Pension Benefit Guaranty Corporation | The Department of the Treasury
+
+CorrectResponse=0
+
+Explanation=Some U.S. Department of Agriculture (USDA) agencies maintain or have access to financial records concerning contracts with the agency; recipients of various benefits, such as food stamps and free or reduced-price school lunch meals; farmland improvements; and federal crop insurance coverageSee page(s) 3.432-3.433 in the Fraud Examiner's Manual

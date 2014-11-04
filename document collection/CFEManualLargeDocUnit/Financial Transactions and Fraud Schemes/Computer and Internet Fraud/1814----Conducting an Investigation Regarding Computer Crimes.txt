@@ -1,0 +1,1000 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Conducting an Investigation Regarding Computer Crimes
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Conducting an Investigation Regarding Computer Crimes 
+Once an organization has received an indication that a possible criminal violation has 
+occurred by means of its information system resources, a preliminary investigation into the 
+allegation should be conducted to achieve the following goals: 
+ 
+1. Determine if indeed a crime has been committed. This is the critical step in the 
+internal investigation. The organization must be careful to differentiate between 
+inadvertent computer misuse and deliberate criminal intent. The company’s internal 
+auditors, physical and information security specialists, and senior management 
+should be involved in making this type of decision. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1849 
+2. Determine the status of the crime. When did the incident begin? Where did the 
+intrusion come from? Internal or external? Is the incident still occurring? If not still 
+occurring, when did it stop? 
+ 
+3. Review the organization security and audit policies and procedures to determine the 
+best method for continuing the investigation. 
+ 
+4. Determine the need for law enforcement assistance. The organization will have to 
+decide if the violation is serious enough to call in the police or other law 
+enforcement entities. Most computer crimes are not reported to law enforcement 
+due to several factors, including the organization’s desire to keep its flaws and 
+weaknesses from being exposed to its customers and stockholders. This is a difficult 
+decision for the company to make. However, as we also mentioned earlier, if 
+companies don’t report computer crimes, then law enforcement will be powerless to 
+help prevent and solve them and computer criminals will feel they have a free hand 
+to continue their activities. 
+ 
+Handling the Evidence 
+One of the major differences between investigating computer-related crimes and 
+conventional criminal activities is the volatility of the evidence that resides in the computers 
+themselves. Indeed, the evidence of a computer intrusion might be erased or altered as part 
+of the intrusion itself. It is therefore very important for the organization and/or law 
+enforcement personnel to deal quickly and decisively with evidence of suspected computer-
+ related criminal activities. 
+ 
+The admissibility of evidence obtained from computers in a court case is really no different 
+from the admissibility of any other type of evidence. The evidence must be: 
+• Relevant  
+• Supported by a foundation for its introduction into court 
+• Legally obtained 
+• Properly identified 
+• Properly preserved 
+ 
+In the handling of computer data in criminal investigations, the examiner or investigators 
+must be aware of some of the vulnerabilities of computer evidence: 
+• The investigator must ensure that turning off power to computer equipment will not 
+Computer and Internet Fraud  Financial Transactions   
+1.1850                           2011 Fraud Examiners Manual  
+destroy or erase evidence that is required for the investigation. 
+• The read/write heads of hard disk drives must be parked in a retracted position so that 
+powering down the disk drive will not cause the read/write head to contact the surface 
+of the disk platter. 
+• Be aware that magnetic storage media are vulnerable to magnetic fields and that evidence 
+might be erased without the investigator being aware of the erasure if the media are 
+brought close to a source of a magnetic field. 
+• Be aware that other equipment attached to the computer might be needed to complete 
+the investigation into the data that resides in the computer. 
+• The investigator should write-protect all diskettes that are being used in the investigation 
+so that they cannot be written upon inadvertently. 
+ 
+Integrity of Evidence 
+There are certain issues that must be considered when processing computer evidence. These 
+areas should be considered regardless of whether the incident will be processed as a criminal 
+offense for prosecution or possible civil litigation. Even if the organization decides to take 
+no action at all, how a computer fraud examination is conducted might have potential civil 
+liability implications for both the organization and/or the fraud examiner.  
+ 
+Should the fraud examiner discover evidence on a computer system, he must be able to state 
+unequivocally that the evidence was not changed in any way by their actions. This requires 
+that strict forensic methodologies be followed to satisfy the stringent evidentiary standards 
+necessary to ensure the integrity of the evidence “beyond a reasonable doubt” for possible 
+court presentation. Therefore, fraud examiners must be aware of the following issues that 
+relate to the gathering of computer evidence. 
+ 
+Search & Seizure — Expectation of Privacy 
+The first question that should be asked in a computer fraud examination pertains to the 
+expectation of privacy for any employee or outsider who might be involved in the incident.  
+ 
+For example, in one incident an employee was caught using a company computer for 
+personal use. The company had never established computer use policies. The employee had 
+never been formally notified that personal use of the computer was prohibited and that the 
+company had the right to inspect the contents of the computer at any time. Therefore, when 
+a supervisor discovered inappropriate personal files on the employee’s computer, the 
+employee protested the act as an invasion of his privacy. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1851 
+This demonstrates that appropriate policies can be critical. In the above circumstances the 
+company might have created a situation where they would actually need to obtain a court 
+order or a search warrant through a law enforcement agency just to examine the contents of 
+their own computers. 
+ 
+There is specific wording that should be used in the construction of a search warrant 
+involving either computers or telecommunications equipment. How the equipment and 
+magnetic media are described will be critical to the success of the court case. 
+ 
+Pre-Search Preparation 
+Obtaining as much intelligence as possible regard ing the location of the potential evidence is 
+very desirable before writing the search warrant affidavit. Questions that fraud examiners 
+should consider might include: 
+• Determine the type of computer systems that will be involved in the search. What 
+operating system is used? Are the computers networked together? 
+• Determine how many people will be needed to conduct the search. In one case, 
+approximately 17 networked file servers were involved, with multiple routers and dial-up 
+modems. A team of only two investigators would need at least four to six hours to 
+complete a seizure of this magnitude.  
+• If expert witnesses with a specific expertise are required during the search, identify and 
+clear them before the search warrant is written. Depending on the circumstances, their 
+credentials should possibly be included in the warrant affidavit before they are approved 
+by the magistrate issuing the search warrant. The time to discover that an “expert 
+witness” has a criminal conviction is before the search warrant affidavit has even been 
+written, not when the witness takes the stand to testify in a criminal proceeding. 
+• Determine the resources that will be required to successfully conduct the search. If a 
+great deal of equipment is to be seized, consider how the equipment will be transported 
+from the location. Obtain sufficient boxes, labels, bags, and other supplies at this time. 
+• Consider the timing of the search. In another case, an assistant district attorney 
+requested assistance in the execution of a search warrant. When detectives arrived, they 
+discovered that the DA wanted them to seize more than 30 computers, including 3 file 
+servers. This was at 3 p.m., and the DA then told the detectives that the authority to 
+execute the search warrant expired at 5 p.m. Naturally, the detectives could not possibly 
+have conducted the seizure within that time frame and in this case, the evidence was lost. 
+A better strategy would have been to time the execution of the search warrant for 5 p.m.  
+  
+Computer and Internet Fraud  Financial Transactions   
+1.1852                           2011 Fraud Examiners Manual  
+on a Friday afternoon. This would give the entire weekend to conduct the search, if 
+necessary. 
+ 
+Search Warrant Affidavit Construction 
+The construction of search warrants has been affected by both advancements in technology 
+and the evolving nature of criminal law. Fraud examiners must now consider several 
+problems not encountered before. For example, the fraud examiner must know how to write 
+a warrant to seize tangible property that contains intangible evidence. Further, the fraud 
+examiner must be allowed to convert that evidence into a human-readable form (i.e., 
+computer storage devices such as disks or CD-ROMs, which contain information that 
+cannot be viewed without the aid of some electronic device).  
+ 
+The warrant must allow for such contingencies as the ability to seize data files pertinent to 
+the case that are mixed with data files that have nothing to do with the case but reside on the 
+same storage device. The warrant must be broad enough to defend the search and seizure of 
+all computer evidence relevant to the investigation, but narrow enough to exclude all 
+material that is not. This can be an extremely difficult standard to meet at times and might 
+depend on the magistrate to whom the affidavit is presented. 
+ 
+To satisfy the “particularity” requirements of the Fourth Amendment, the fraud examiner 
+must be able to justify each and every item that might contain evidence. For example, stating 
+that “all printers” should be seized might be considered to be overly broad unless the fraud 
+examiner can justify the need for each specific printer. 
+ 
+However, with some thought fraud examiners should be able to justify the search and 
+seizure for everything that they need to complete the search for evidence. Items to be seized 
+might contain any or all of the following, depending upon the nature of the fraud case: 
+• Computers 
+• Computer components 
+• Computer peripherals 
+• Word processing equipment 
+• Modems 
+• Monitors 
+• Printers 
+• Plotters 
+• Optical scanners 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1853 
+• Data storage devices 
+? Magnetic 
+? Laser 
+? Optical 
+? Tape 
+? PCMCIA 
+? ZIP or JAZ drives 
+• Cables, wiring, cords 
+• Storage media 
+? Floppy disks 
+? Hard disks 
+? Magnetic tape (reels) 
+? PCMCIA RAM cards 
+? CD-ROM 
+? Magnetic/Optical disks 
+? Digital Audio Tape (DAT) 
+? Personal data managers 
+? Flash RAM cards (consider digital camera storage) 
+? USB thumb drives 
+• Computer programs 
+? Operating systems 
+? Application software 
+? Utility programs 
+? Compilers 
+? Interpreters 
+• Documents 
+• Manuals 
+• Printouts 
+• File listings 
+ 
+All related documentation should be covered by the wording of the search warrant and 
+seized along with the computer system. This documentation could be critical in the analysis 
+of the system hardware and software. Documents could indicate changes that have been 
+made to the system that will help the fraud examiner avoid damaging the system. The fact 
+that access control products have been added to the system might be a helpful piece of 
+information for the fraud examiner. 
+Computer and Internet Fraud  Financial Transactions   
+1.1854                           2011 Fraud Examiners Manual  
+Processing Evidence for Removal 
+The search for and seizure of technical equipment requires specific procedures that must be 
+followed by fraud examiners to guarantee the integrity of evidence, and to protect both the 
+organization and the individual fraud examiner from civil litigation. These guidelines are 
+written to satisfy the evidentiary requirements for criminal prosecution, and each step in the 
+process is there for a reason. Fraud examiners who deviate from these guidelines should be 
+able to justify their actions if called into question later. 
+ 
+1.  If possible, before executing a search warrant where computer equipment and/or 
+magnetic storage media is to be seized, try to make sure that someone will be present 
+who is familiar with computer equipment to assist in the identification of the various 
+components. 
+ 
+2.  It is critical that anyone not involved in the investigation be kept away from any 
+computer equipment, and not be allowed to touch any of the equipment. This 
+includes any person not directly involved in handling the computer and related 
+equipment. It is possible for a suspect or any person touching only one key of a 
+system keyboard (when a computer is operational) to destroy evidence. Limit the 
+number of personnel responsible for processing computer-related evidence to 
+maintain the integrity of this evidence.  
+ 
+ 
+3.  If the person seizing the system has the appropriate training and expertise, it might be 
+useful to observe the video display of the system. Information might be displayed that 
+will be of value in the case. If this occurs, document with a close-up photograph of the 
+video screen. (Take care if using a camera with a flash that the flash does not reflect 
+back into the camera lens.) 
+ 
+4.  If a computer or peripheral is not covered by the respective search warrant, leave it 
+alone until a supplemental warrant can be obtained. 
+ 
+5.  If the computer is to be removed from the location, do not enter anything via the 
+system keyboard or attempt to read information from the system or any associated 
+magnetic media. 
+ 
+6.  Do not move the computer any more than is necessary until it is properly secured. 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1855 
+Even then, extreme care should be taken, as sudden motion could cause the 
+destruction of data or damage to the equipment itself. 
+ 
+7.  Photograph the overall view of the computer system (wide view). Move the equipment 
+as little as possible before taking this photograph to indicate how the equipment was 
+originally positioned. Consider videotaping the confiscation procedure for complete 
+documentation of all actions performed. However, caution is advised, since the video 
+will capture everything that is said and done. Speculative statements or levity should be 
+restricted.  
+ 
+8.  Document the state of the computer when first observed (was it operational, what was 
+displayed on the monitor screen, etc.). 
+ 
+9.  Depending on the experience of the person seizing the system, it might be advisable to 
+unplug the power from the Central Processing Unit (CPU) before taking any further 
+action. Unplug the power at the wall outlet, if accessible. Even though this action will 
+lose any data in Random Access Memory, it might prevent the computer from deleting 
+or changing other data. N O TE: This applies to sta nd alone microcomputers only, 
+and does not include computers connected to a Local Area Network (LAN). 
+ 
+10.  Turn off the power to all other components and/or pieces of peripheral equipment 
+(such as printers, video display CRTs, or monitors, etc.). Be aware that many 
+peripherals utilize Random Access Memory, which can contain evidence that will be 
+lost when power is removed. 
+ 
+11.  If possible, photograph all cable connections (usually in the rear of the system), before 
+disconnecting. 
+ 
+12.  Disconnect all components that are attached to an external power supply only (e.g., 
+from an electrical wall socket, etc.). 
+ 
+13.  Never connect or disconnect any of the cables of the system when the computer is 
+operating. This could result in physical damage to the system components and/or 
+peripheral equipment. 
+ 
+14.  Label all cable connections, including any telephone cables that are connected to the 
+Computer and Internet Fraud  Financial Transactions   
+1.1856                           2011 Fraud Examiners Manual  
+system so that the system can be reconstructed at a later time for analysis. 
+ 
+15.  Again, photograph all cable connections. Before photographing, try to arrange the 
+cable connector labels in such a way that they will be visible in the photographs. 
+ 
+16.  Label each item of equipment that will be confiscated. This includes the CPU, 
+monitor, printers, etc. Each item that has a removable exterior case should be sealed 
+with a tamperproof evidence tape (especially the CPU case). This will help to prevent 
+later allegations that components were removed or altered. 
+ 
+17.  Consideration should be given to separate close-up isolation photographs for each 
+item to be seized. These close-up shots will serve the purpose of providing more 
+specific identification of seized items, and responding to possible future allegations of 
+physical damage to a seized item. 
+ 
+18.  Document the location of all items seized (which room, specific location in the room, 
+reference to photographs, the person who seized the item, serial numbers, special 
+identification markings, etc.). 
+ 
+19.  Check all disk drives to determine if they contain a disk. If so, remove the disk from 
+the drive and place it in a disk sleeve. Write-protect the disk immediately. Label the 
+particular disk drive to show which drive the disk came from, and then label a paper 
+bag to indicate that the disk was taken from the labeled drive. Place the disk in the 
+paper bag and seal it. 
+ 
+20.  Place a cardboard insert or a “throwaway” disk  into the disk drive and secure the drive 
+door shut to secure the drive heads for transportation. Cardboard inserts are specially 
+made for this purpose. If none are available, a disk of the particular size that contains 
+no data might be used (preferably a new, unused disk). 
+ 
+21.  Check any other removable storage media drives, remove any storage media they 
+contain, and label the media for identification purposes. (This includes components 
+such as optical drives, external tape drives, IOMEGA drives, CD-ROM, etc.) 
+ 
+22.  If there is any uncertainty as to what a piece of equipment is, do not speculate, just 
+label the equipment with a unique identifying number and secure the item for later 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1857 
+analysis. However, be prepared to justify the seizure of a component that might or 
+might not be covered in the search warrant. 
+ 
+23.  When all components and cables have been labeled and documented, disconnect the 
+cables from their respective component and secure the cables.  
+ 
+24.  If covered in the search warrant, confiscate all related manuals and other 
+documentation, and all magnetic media. Also confiscate any other items that might be 
+evidence in the case and that are covered by the terms of the search warrant. 
+ 
+25.  If at all possible, after all equipment and magnetic media have been labeled and 
+inventoried, each item should be stored in a paper bag or a cardboard box and sealed 
+(to keep out dust). Large items, such as the CPU and/or printers could be stored in 
+large paper bags or large boxes. Smaller items, such as disks and CDs, could be stored 
+in sandwich-bag sized paper bags. This practice will protect these items from 
+unnecessary exposure to dust. An additional label should be attached to the bag 
+identifying the contents of the bag, along with any identifying numbers, such as the 
+number of an evidence tag. Note: Plastic bags (such as garbage and sandwich 
+bags) should not be used to store evidence.  
+ 
+26.  Ensure that adequate support is given to all items when they are being moved. 
+ 
+27.  Thoroughly document the inventory of everything to be removed from the location. 
+This will be required for the search warrant return (if applicable), but also serves to 
+provide a measure of liability protection for the person seizing the system.  
+ 
+Basic computer procedures are essential when processing evidence. These precautions must 
+be followed explicitly when working with computers: 
+• Do not eat, drink, or smoke close to the computer system or near any of the storage 
+media (such as disks or CDs). Crumbs, liquid, and/or smoke particles could all 
+potentially damage the equipment or stored data. If this happens, it becomes very 
+difficult, if not impossible, to recover the data (and evidence). 
+• Do not fold or bend disks, or touch the magnetic media inside the disk cover. 
+• Do not write on a disk, on a label of a disk, or on a bag that contains a disk. Write on a 
+label and then place the label on the disk. If it is necessary to write on a disk, use a soft 
+felt-tip pen. 
+Computer and Internet Fraud  Financial Transactions   
+1.1858                           2011 Fraud Examiners Manual  
+• Do not  place magnetic media near magnetic fields, as this could cause damage. Magnetic 
+fields strong enough to damage data are more common than you might think. 
+• Do not expose magnetic media to either extreme heat or cold. Temperatures outside of 
+the range from 40-90 degrees Fahrenheit can damage the data. 
+• Do not fingerprint magnetic media. The particles of fingerprint powder are almost 
+impossible to remove from the media surface, and the drive will not be able to read the 
+data contained on the media. Permanent damage to the drive equipment could  
+also result. 
+ 
+Evidence Storage 
+After a computer system has been seized, most criminal justice agencies have a central 
+evidence storage facility where the equipment is transported and stored until it is either 
+processed further or needed in court. In the majority of cases, the special storage 
+requirements of computer systems are not addressed. 
+ 
+The storage environment should be in a location that is: 
+• Relatively dust-free 
+• Both temperature and humidity controlled 
+• Free of magnetic and electronic fields 
+ 
+Possible Threats to Magnetic Media 
+• Telephones 
+• Radio speakers 
+• Radio transmitters 
+• Copy machines 
+• Plastic garbage or sandwich bags  
+• Degaussing equipment 
+• Electric fans 
+• Under-shelf lighting (heat) 
+• Leaving media in vehicle trunk during ex treme temperatures (either hot or cold) 
+• Magnets 
+• Proximity to a radiator or an open heating vent 
+ 
+Evidence Analysis 
+The primary concern during the analysis of electronic evidence is to maintain the integrity of 
+the evidence. This means that procedures must be developed to ensure that no allegations 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1859 
+can be raised in court that the methodology used during analysis could have damaged or 
+altered the hardware, media, or data that constitutes the evidence. 
+ 
+Currently, there are no specialized evidence analysis laboratories available to most criminal 
+justice agencies to analyze computer, electronic, or magnetic evidence. The U.S. Secret 
+Service and the FBI both have such capabilities, but unless the case is of critical importance 
+these laboratories process only cases investigated by those agencies. 
+ 
+Understanding the Terms 
+To effectively analyze the data stored within a computer the fraud examiner must have a 
+practical understanding of the basic operations of a computer and how it stores information. 
+The fraud examiner must also have the expertise to access the data at the most basic level. 
+Without this knowledge, information could be hidden from view or stored within other files 
+or locations not usually accessed by the computer. 
+ 
+Each new development in technology brings with it new concepts and a new vocabulary. 
+The modern fraud examiner must stay current on the terms used to describe technological 
+developments, tools, and practices, as he may be asked to explain such concepts as part of 
+the engagement, in the resulting report, or as an expert witness during consequent 
+legal proceedings.  
+ 
+Fraud examiners must also be educated in the use of the various software utilities that will 
+enable them to analyze the electronic data. Utilities such as Norton Utilities will be of great 
+assistance in investigations involving personal computers. There are several utility 
+applications that automate a great deal of the evidence analysis process. However, you 
+should not use these programs unless you have been properly trained.  
+ 
+Evidence Inventory 
+Many times computers seized as evidence are only inventoried according to the information 
+available on the outside of the CPU case — namely the make, model, and serial number of 
+the particular unit. The components inside the CPU case are never examined. Fraud 
+examiners must consider that there could literally be thousands of dollars of equipment 
+inside this case. Inadequate inventories of computer equipment leave the organization, and 
+possibly the fraud examiner, in a precarious liability position should any of this equipment be 
+damaged or lost. 
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1860                           2011 Fraud Examiners Manual  
+In analyzing and searching magnetic or optical media for potential evidence, the fraud 
+examiner should consider the following: 
+• Mirror copies 
+• Virus detection 
+• Keyword search 
+• Hidden and deleted files 
+• File slack area 
+• File signatures 
+• Encrypted files 
+ 
+“Mirror” Copies 
+If possible, the fraud examiner should make an exact duplicate, or “mirror” copy, of any 
+media that is to be analyzed. This will ensure that no changes or damage occurs to the 
+original evidence. This will not be possible in all cases due to a lack of equipment or other 
+resources, but should be considered as the “ideal” procedure. 
+ 
+When there is no alternative but to analyze the original of the seized evidence, consideration 
+should be given to using utility software to “lock” the disk so that no information can be 
+written to the disk. This will protect the integrity of the original evidence, and prevent 
+inadvertent alteration of the original data. 
+ 
+Virus Detection 
+All data storage media should be examined for computer viruses. This will serve not only to 
+protect the fraud examiner’s own equipment, but also will protect the fraud examiner from 
+possible allegations that he infected the seized media with a computer virus. 
+ 
+Keyword Search 
+Due to the tremendous storage capacity of contemporary computer media, it might be more 
+cost effective for the fraud examiner to conduct a “keyword search” of the media, searching 
+for key words, names, dates, account numbers, etc. that are material to the fraud case. This 
+will minimize the amount of time used to complete the analysis, and also protects the fraud 
+examiner from possible allegations that their search was overly broad. 
+ 
+“Hidden” and “Deleted” Files 
+Most computer operating systems allow files to be designated as “hidden” files. When so 
+designated, the files might not be visible to normal search procedures, such as displaying a 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1861 
+disk directory. Utility programs exist to show these “hidden” files. Fraud examiners should 
+inspect these files to determine if they were intentionally hidden because they contain 
+evidence. 
+ 
+In addition, many computer users do not realize that an initial command to “delete” a file 
+does not necessarily mean that the file contents have been destroyed. With the appropriate 
+utility programs, erased files can be “unerased” and reviewed by the fraud examiner. 
+ 
+File Slack Area 
+There is a difference in most operating systems between the “logical” size of a file and the 
+“physical” size of the file. The logical size pertains to the size in the number of “bytes” that 
+the file occupies. In a directory listing, this is the number that is displayed for “file size.”   
+ 
+The physical size of a file depends on how the operating system stores files. In most 
+operating systems, the disk is organized into designated blocks called clusters. Files occupy a 
+whole number of clusters, even if the logical size of the file is smaller than the cluster size. In 
+these cases, difference in space between the physical file space and the logical file space is 
+called the file slack area. This area might contain data from previously-erased files that could 
+contain evidence. Unless the fraud examiner has a special utility to identify and investigate 
+the file slack area, potential evidence possibly located there could be missed. 
+ 
+File Signatures 
+When reviewing a directory listing in a file manager such as Windows Explorer, the “type” 
+of file is one of the options that might display. This information might indicate that the file 
+is an “application,” or that it is a “Word Document,” or some other type. However, this 
+designation is usually based on the “extension” of the file, and might not be an accurate 
+indication of the file contents.  
+ 
+For example, if a file were created in Microsoft Word, and saved with the file name of 
+“Murder Confession.doc,” the directory listing would correctly indicate that this file was a 
+“Word Document.” However, if the file were renamed as “Angel.exe,” the directory listing 
+would mistakenly indicate that the file was an “application,” even though the contents of the 
+file itself have not changed. 
+ 
+Computer and Internet Fraud  Financial Transactions   
+1.1862                           2011 Fraud Examiners Manual  
+Inspecting each and every file on seized media would be tremendously tedious and very 
+time-consuming. However, there are utility programs that can automate this process and 
+report any discrepancies such as the one described above. 
+ 
+Encrypted Files 
+Should the fraud examiner come across files that have been encrypted during the analysis of 
+seized computer media, several considerations arise. 
+ 
+First of all, utility programs exist to decrypt documents encrypted by many of the more 
+common business software applications, such as Microsoft Word and WordPerfect. There 
+are also several companies who specialize in this type of decryption. 
+ 
+Secondly, there is precedent for forcing the suspect to divulge the decryption code through a 
+court order. Consider once again that the computer is only a container and that the 
+encryption is an additional “lock” that is prohibiting the fraud examiner from reviewing the 
+contents for potential evidence. If a valid search warrant exists authorizing the examination 
+of the data, this would be no different than a court ordering a suspect to unlock a file cabinet 
+to allow the inspection of its contents. 
+ 
+ 
+
+
+
+:
+
+
+conduct an investig regard comput crime
+onc an organ ha receiv an indic that a possibl crimin violat ha
+occur by mean of it inform system resourc a preliminari investig into the
+alleg should be conduct to achiev the follow goal
+1 determin if inde a crime ha been commit thi is the critic step in the
+intern investig the organ must be care to differenti between
+inadvert comput misus and deliber crimin intent the compani intern
+auditor physic and inform secur specialist and senior manag
+should be involv in make thi type of decis
+financi transact comput and internet fraud
+2011 fraud examin manual 11849
+2 determin the statu of the crime when did the incid begin where did the
+intrus come from intern or extern is the incid still occur if not still
+occur when did it stop
+3 review the organ secur and audit polici and procedur to determin the
+best method for continu the investig
+4 determin the need for law enforc assist the organ will have to
+decid if the violat is seriou enough to call in the polic or other law
+enforc entiti most comput crime ar not report to law enforc
+due to sever factor includ the organ desir to keep it flaw and
+weak from be expos to it custom and stockhold thi is a difficult
+decis for the compani to make howev as we also mention earlier if
+compani dont report comput crime then law enforc will be powerless to
+help prevent and solv them and comput crimin will feel thei have a free hand
+to continu their activ
+handl the evid
+on of the major differ between investig computerrel crime and
+convent crimin activ is the volatil of the evid that resid in the comput
+themselv inde the evid of a comput intrus might be eras or alter as part
+of the intrus itself it is therefor veri import for the organ andor law
+enforc personnel to deal quickli and decis with evid of suspect comput
+relat crimin activ
+the admiss of evid obtain from comput in a court case is realli no differ
+from the admiss of ani other type of evid the evid must be
+relev
+support by a foundat for it introduct into court
+legal obtain
+properli identifi
+properli preserv
+in the handl of comput data in crimin investig the examin or investig
+must be awar of some of the vulner of comput evid
+the investig must ensur that turn off power to comput equip will not
+comput and internet fraud financi transact
+11850 2011 fraud examin manual
+destroi or eras evid that is requir for the investig
+the readwrit head of hard disk drive must be park in a retract posit so that
+power down the disk drive will not caus the readwrit head to contact the surfac
+of the disk platter
+be awar that magnet storag media ar vulner to magnet field and that evid
+might be eras without the investig be awar of the erasur if the media ar
+brought close to a sourc of a magnet field
+be awar that other equip attach to the comput might be need to complet
+the investig into the data that resid in the comput
+the investig should writeprotect all diskett that ar be us in the investig
+so that thei cannot be written upon inadvert
+integr of evid
+there ar certain issu that must be consid when process comput evid these
+area should be consid regardless of whether the incid will be process as a crimin
+offens for prosecut or possibl civil litig even if the organ decid to take
+no action at all how a comput fraud examin is conduct might have potenti civil
+liabil implic for both the organ andor the fraud examin
+should the fraud examin discov evid on a comput system he must be abl to state
+unequivoc that the evid wa not chang in ani wai by their action thi requir
+that strict forens methodolog be follow to satisfi the stringent evidentiari standard
+necessari to ensur the integr of the evid beyond a reason doubt for possibl
+court present therefor fraud examin must be awar of the follow issu that
+relat to the gather of comput evid
+search seizur expect of privaci
+the first question that should be ask in a comput fraud examin pertain to the
+expect of privaci for ani employe or outsid who might be involv in the incid
+for exampl in on incid an employe wa caught us a compani comput for
+person us the compani had never establish comput us polici the employe had
+never been formal notifi that person us of the comput wa prohibit and that the
+compani had the right to inspect the content of the comput at ani time therefor when
+a supervisor discov inappropri person file on the employe comput the
+employe protest the act as an invas of hi privaci
+financi transact comput and internet fraud
+2011 fraud examin manual 11851
+thi demonstr that appropri polici can be critic in the abov circumst the
+compani might have creat a situat where thei would actual need to obtain a court
+order or a search warrant through a law enforc agenc just to examin the content of
+their own comput
+there is specif word that should be us in the construct of a search warrant
+involv either comput or telecommun equip how the equip and
+magnet media ar describ will be critic to the success of the court case
+presearch prepar
+obtain as much intellig as possibl regard ing the locat of the potenti evid is
+veri desir befor write the search warrant affidavit question that fraud examin
+should consid might includ
+determin the type of comput system that will be involv in the search what
+oper system is us ar the comput network togeth
+determin how mani peopl will be need to conduct the search in on case
+approxim 17 network file server were involv with multipl router and dialup
+modem a team of onli two investig would need at least four to six hour to
+complet a seizur of thi magnitud
+if expert wit with a specif expertis ar requir dure the search identifi and
+clear them befor the search warrant is written depend on the circumst their
+credenti should possibl be includ in the warrant affidavit befor thei ar approv
+by the magistr issu the search warrant the time to discov that an expert
+wit ha a crimin convict is befor the search warrant affidavit ha even been
+written not when the wit take the stand to testifi in a crimin proceed
+determin the resourc that will be requir to successfulli conduct the search if a
+great deal of equip is to be seiz consid how the equip will be transport
+from the locat obtain suffici box label bag and other suppli at thi time
+consid the time of the search in anoth case an assist district attornei
+request assist in the execut of a search warrant when detect arriv thei
+discov that the da want them to seiz more than 30 comput includ 3 file
+server thi wa at 3 pm and the da then told the detect that the author to
+execut the search warrant expir at 5 pm natur the detect could not possibl
+have conduct the seizur within that time frame and in thi case the evid wa lost
+a better strategi would have been to time the execut of the search warrant for 5 pm
+comput and internet fraud financi transact
+11852 2011 fraud examin manual
+on a fridai afternoon thi would give the entir weekend to conduct the search if
+necessari
+search warrant affidavit construct
+the construct of search warrant ha been affect by both advanc in technolog
+and the evolv natur of crimin law fraud examin must now consid sever
+problem not encount befor for exampl the fraud examin must know how to write
+a warrant to seiz tangibl properti that contain intang evid further the fraud
+examin must be allow to convert that evid into a humanread form ie
+comput storag devic such as disk or cdrom which contain inform that
+cannot be view without the aid of some electron devic
+the warrant must allow for such conting as the abil to seiz data file pertin to
+the case that ar mix with data file that have noth to do with the case but resid on the
+same storag devic the warrant must be broad enough to defend the search and seizur of
+all comput evid relev to the investig but narrow enough to exclud all
+materi that is not thi can be an extrem difficult standard to meet at time and might
+depend on the magistr to whom the affidavit is present
+to satisfi the particular requir of the fourth amend the fraud examin
+must be abl to justifi each and everi item that might contain evid for exampl state
+that all printer should be seiz might be consid to be overli broad unless the fraud
+examin can justifi the need for each specif printer
+howev with some thought fraud examin should be abl to justifi the search and
+seizur for everyth that thei need to complet the search for evid item to be seiz
+might contain ani or all of the follow depend upon the natur of the fraud case
+comput
+comput compon
+comput peripher
+word process equip
+modem
+monitor
+printer
+plotter
+optic scanner
+financi transact comput and internet fraud
+2011 fraud examin manual 11853
+data storag devic
+magnet
+laser
+optic
+tape
+pcmcia
+zip or jaz drive
+cabl wire cord
+storag media
+floppi disk
+hard disk
+magnet tape reel
+pcmcia ram card
+cdrom
+magneticopt disk
+digit audio tape dat
+person data manag
+flash ram card consid digit camera storag
+usb thumb drive
+comput program
+oper system
+applic softwar
+util program
+compil
+interpret
+document
+manual
+printout
+file list
+all relat document should be cover by the word of the search warrant and
+seiz along with the comput system thi document could be critic in the analysi
+of the system hardwar and softwar document could indic chang that have been
+made to the system that will help the fraud examin avoid damag the system the fact
+that access control product have been ad to the system might be a help piec of
+inform for the fraud examin
+comput and internet fraud financi transact
+11854 2011 fraud examin manual
+process evid for remov
+the search for and seizur of technic equip requir specif procedur that must be
+follow by fraud examin to guarante the integr of evid and to protect both the
+organ and the individu fraud examin from civil litig these guidelin ar
+written to satisfi the evidentiari requir for crimin prosecut and each step in the
+process is there for a reason fraud examin who deviat from these guidelin should be
+abl to justifi their action if call into question later
+1 if possibl befor execut a search warrant where comput equip andor
+magnet storag media is to be seiz try to make sure that someon will be present
+who is familiar with comput equip to assist in the identif of the variou
+compon
+2 it is critic that anyon not involv in the investig be kept awai from ani
+comput equip and not be allow to touch ani of the equip thi
+includ ani person not directli involv in handl the comput and relat
+equip it is possibl for a suspect or ani person touch onli on kei of a
+system keyboard when a comput is oper to destroi evid limit the
+number of personnel respons for process computerrel evid to
+maintain the integr of thi evid
+3 if the person seiz the system ha the appropri train and expertis it might be
+us to observ the video displai of the system inform might be displai that
+will be of valu in the case if thi occur document with a closeup photograph of the
+video screen take care if us a camera with a flash that the flash doe not reflect
+back into the camera len
+4 if a comput or peripher is not cover by the respect search warrant leav it
+alon until a supplement warrant can be obtain
+5 if the comput is to be remov from the locat do not enter anyth via the
+system keyboard or attempt to read inform from the system or ani associ
+magnet media
+6 do not move the comput ani more than is necessari until it is properli secur
+financi transact comput and internet fraud
+2011 fraud examin manual 11855
+even then extrem care should be taken as sudden motion could caus the
+destruct of data or damag to the equip itself
+7 photograph the overal view of the comput system wide view move the equip
+as littl as possibl befor take thi photograph to indic how the equip wa
+origin posit consid videotap the confisc procedur for complet
+document of all action perform howev caution is advis sinc the video
+will captur everyth that is said and done specul statement or leviti should be
+restrict
+8 document the state of the comput when first observ wa it oper what wa
+displai on the monitor screen etc
+9 depend on the experi of the person seiz the system it might be advis to
+unplug the power from the central process unit cpu befor take ani further
+action unplug the power at the wall outlet if access even though thi action will
+lose ani data in random access memori it might prevent the comput from delet
+or chang other data n o te thi appli to sta nd alon microcomput onli
+and doe not includ comput connect to a local area network lan
+10 turn off the power to all other compon andor piec of peripher equip
+such as printer video displai crt or monitor etc be awar that mani
+peripher util random access memori which can contain evid that will be
+lost when power is remov
+11 if possibl photograph all cabl connect usual in the rear of the system befor
+disconnect
+12 disconnect all compon that ar attach to an extern power suppli onli eg
+from an electr wall socket etc
+13 never connect or disconnect ani of the cabl of the system when the comput is
+oper thi could result in physic damag to the system compon andor
+peripher equip
+14 label all cabl connect includ ani telephon cabl that ar connect to the
+comput and internet fraud financi transact
+11856 2011 fraud examin manual
+system so that the system can be reconstruct at a later time for analysi
+15 again photograph all cabl connect befor photograph try to arrang the
+cabl connector label in such a wai that thei will be visibl in the photograph
+16 label each item of equip that will be confisc thi includ the cpu
+monitor printer etc each item that ha a remov exterior case should be seal
+with a tamperproof evid tape especi the cpu case thi will help to prevent
+later alleg that compon were remov or alter
+17 consider should be given to separ closeup isol photograph for each
+item to be seiz these closeup shot will serv the purpos of provid more
+specif identif of seiz item and respond to possibl futur alleg of
+physic damag to a seiz item
+18 document the locat of all item seiz which room specif locat in the room
+refer to photograph the person who seiz the item serial number special
+identif mark etc
+19 check all disk drive to determin if thei contain a disk if so remov the disk from
+the drive and place it in a disk sleev writeprotect the disk immedi label the
+particular disk drive to show which drive the disk came from and then label a paper
+bag to indic that the disk wa taken from the label drive place the disk in the
+paper bag and seal it
+20 place a cardboard insert or a throwawai disk into the disk drive and secur the drive
+door shut to secur the drive head for transport cardboard insert ar special
+made for thi purpos if none ar avail a disk of the particular size that contain
+no data might be us prefer a new unus disk
+21 check ani other remov storag media drive remov ani storag media thei
+contain and label the media for identif purpos thi includ compon
+such as optic drive extern tape drive iomega drive cdrom etc
+22 if there is ani uncertainti as to what a piec of equip is do not specul just
+label the equip with a uniqu identifi number and secur the item for later
+financi transact comput and internet fraud
+2011 fraud examin manual 11857
+analysi howev be prepar to justifi the seizur of a compon that might or
+might not be cover in the search warrant
+23 when all compon and cabl have been label and document disconnect the
+cabl from their respect compon and secur the cabl
+24 if cover in the search warrant confisc all relat manual and other
+document and all magnet media also confisc ani other item that might be
+evid in the case and that ar cover by the term of the search warrant
+25 if at all possibl after all equip and magnet media have been label and
+inventori each item should be store in a paper bag or a cardboard box and seal
+to keep out dust larg item such as the cpu andor printer could be store in
+larg paper bag or larg box smaller item such as disk and cd could be store
+in sandwichbag size paper bag thi practic will protect these item from
+unnecessari exposur to dust an addit label should be attach to the bag
+identifi the content of the bag along with ani identifi number such as the
+number of an evid tag note plastic bag such as garbag and sandwich
+bag should not be us to store evid
+26 ensur that adequ support is given to all item when thei ar be move
+27 thoroughli document the inventori of everyth to be remov from the locat
+thi will be requir for the search warrant return if applic but also serv to
+provid a measur of liabil protect for the person seiz the system
+basic comput procedur ar essenti when process evid these precaut must
+be follow explicitli when work with comput
+do not eat drink or smoke close to the comput system or near ani of the storag
+media such as disk or cd crumb liquid andor smoke particl could all
+potenti damag the equip or store data if thi happen it becom veri
+difficult if not imposs to recov the data and evid
+do not fold or bend disk or touch the magnet media insid the disk cover
+do not write on a disk on a label of a disk or on a bag that contain a disk write on a
+label and then place the label on the disk if it is necessari to write on a disk us a soft
+felttip pen
+comput and internet fraud financi transact
+11858 2011 fraud examin manual
+do not place magnet media near magnet field as thi could caus damag magnet
+field strong enough to damag data ar more common than you might think
+do not expos magnet media to either extrem heat or cold temperatur outsid of
+the rang from 4090 degre fahrenheit can damag the data
+do not fingerprint magnet media the particl of fingerprint powder ar almost
+imposs to remov from the media surfac and the drive will not be abl to read the
+data contain on the media perman damag to the drive equip could
+also result
+evid storag
+after a comput system ha been seiz most crimin justic agenc have a central
+evid storag facil where the equip is transport and store until it is either
+process further or need in court in the major of case the special storag
+requir of comput system ar not address
+the storag environ should be in a locat that is
+rel dustfre
+both temperatur and humid control
+free of magnet and electron field
+possibl threat to magnet media
+telephon
+radio speaker
+radio transmitt
+copi machin
+plastic garbag or sandwich bag
+degauss equip
+electr fan
+undershelf light heat
+leav media in vehicl trunk dure ex treme temperatur either hot or cold
+magnet
+proxim to a radiat or an open heat vent
+evid analysi
+the primari concern dure the analysi of electron evid is to maintain the integr of
+the evid thi mean that procedur must be develop to ensur that no alleg
+financi transact comput and internet fraud
+2011 fraud examin manual 11859
+can be rais in court that the methodolog us dure analysi could have damag or
+alter the hardwar media or data that constitut the evid
+current there ar no special evid analysi laboratori avail to most crimin
+justic agenc to analyz comput electron or magnet evid the us secret
+servic and the fbi both have such capabl but unless the case is of critic import
+these laboratori process onli case investig by those agenc
+understand the term
+to effect analyz the data store within a comput the fraud examin must have a
+practic understand of the basic oper of a comput and how it store inform
+the fraud examin must also have the expertis to access the data at the most basic level
+without thi knowledg inform could be hidden from view or store within other file
+or locat not usual access by the comput
+each new develop in technolog bring with it new concept and a new vocabulari
+the modern fraud examin must stai current on the term us to describ technolog
+develop tool and practic as he mai be ask to explain such concept as part of
+the engag in the result report or as an expert wit dure consequ
+legal proceed
+fraud examin must also be educ in the us of the variou softwar util that will
+enabl them to analyz the electron data util such as norton util will be of great
+assist in investig involv person comput there ar sever util
+applic that autom a great deal of the evid analysi process howev you
+should not us these program unless you have been properli train
+evid inventori
+mani time comput seiz as evid ar onli inventori accord to the inform
+avail on the outsid of the cpu case name the make model and serial number of
+the particular unit the compon insid the cpu case ar never examin fraud
+examin must consid that there could liter be thousand of dollar of equip
+insid thi case inadequ inventori of comput equip leav the organ and
+possibl the fraud examin in a precari liabil posit should ani of thi equip be
+damag or lost
+comput and internet fraud financi transact
+11860 2011 fraud examin manual
+in analyz and search magnet or optic media for potenti evid the fraud
+examin should consid the follow
+mirror copi
+viru detect
+keyword search
+hidden and delet file
+file slack area
+file signatur
+encrypt file
+mirror copi
+if possibl the fraud examin should make an exact duplic or mirror copi of ani
+media that is to be analyz thi will ensur that no chang or damag occur to the
+origin evid thi will not be possibl in all case due to a lack of equip or other
+resourc but should be consid as the ideal procedur
+when there is no altern but to analyz the origin of the seiz evid consider
+should be given to us util softwar to lock the disk so that no inform can be
+written to the disk thi will protect the integr of the origin evid and prevent
+inadvert alter of the origin data
+viru detect
+all data storag media should be examin for comput virus thi will serv not onli to
+protect the fraud examin own equip but also will protect the fraud examin from
+possibl alleg that he infect the seiz media with a comput viru
+keyword search
+due to the tremend storag capac of contemporari comput media it might be more
+cost effect for the fraud examin to conduct a keyword search of the media search
+for kei word name date account number etc that ar materi to the fraud case thi
+will minim the amount of time us to complet the analysi and also protect the fraud
+examin from possibl alleg that their search wa overli broad
+hidden and delet file
+most comput oper system allow file to be design as hidden file when so
+design the file might not be visibl to normal search procedur such as displai a
+financi transact comput and internet fraud
+2011 fraud examin manual 11861
+disk directori util program exist to show these hidden file fraud examin should
+inspect these file to determin if thei were intention hidden becaus thei contain
+evid
+in addit mani comput user do not realiz that an initi command to delet a file
+doe not necessarili mean that the file content have been destroi with the appropri
+util program eras file can be uneras and review by the fraud examin
+file slack area
+there is a differ in most oper system between the logic size of a file and the
+physic size of the file the logic size pertain to the size in the number of byte that
+the file occupi in a directori list thi is the number that is displai for file size
+the physic size of a file depend on how the oper system store file in most
+oper system the disk is organ into design block call cluster file occupi a
+whole number of cluster even if the logic size of the file is smaller than the cluster size in
+these case differ in space between the physic file space and the logic file space is
+call the file slack area thi area might contain data from previouslyeras file that could
+contain evid unless the fraud examin ha a special util to identifi and investig
+the file slack area potenti evid possibl locat there could be miss
+file signatur
+when review a directori list in a file manag such as window explor the type
+of file is on of the option that might displai thi inform might indic that the file
+is an applic or that it is a word document or some other type howev thi
+design is usual base on the extens of the file and might not be an accur
+indic of the file content
+for exampl if a file were creat in microsoft word and save with the file name of
+murder confessiondoc the directori list would correctli indic that thi file wa a
+word document howev if the file were renam as angelex the directori list
+would mistakenli indic that the file wa an applic even though the content of the
+file itself have not chang
+comput and internet fraud financi transact
+11862 2011 fraud examin manual
+inspect each and everi file on seiz media would be tremend tediou and veri
+timeconsum howev there ar util program that can autom thi process and
+report ani discrep such as the on describ abov
+encrypt file
+should the fraud examin come across file that have been encrypt dure the analysi of
+seiz comput media sever consider aris
+first of all util program exist to decrypt document encrypt by mani of the more
+common busi softwar applic such as microsoft word and wordperfect there
+ar also sever compani who special in thi type of decrypt
+secondli there is preced for forc the suspect to divulg the decrypt code through a
+court order consid onc again that the comput is onli a contain and that the
+encrypt is an addit lock that is prohibit the fraud examin from review the
+content for potenti evid if a valid search warrant exist author the examin
+of the data thi would be no differ than a court order a suspect to unlock a file cabinet
+to allow the inspect of it content

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The commission formed in 1987 with the purpose of defining the responsibility of the auditor in preventing and detecting fraud is known as the:
+
+Options=Klaas Commission | Treadway Commission | Gephart Commission | None of the above
+
+CorrectResponse=1
+
+Explanation=The National Commission on Fraudulent Financial Reporting (commonly known as the Treadway Commission) was established in 1987 with the purpose of defining the responsibility of the auditor in preventing and detecting fraud. The commission was formed by the major professional auditing organizations: the American Institute of CPAs, the Institute of Internal Auditors, and the National Association of Accountants.See page(s) 4.703 in the Fraud Examiner's Manual

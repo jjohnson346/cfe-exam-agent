@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Katz v. United States is the landmark Supreme Court decision that covers the Fourth Amendment issues of "reasonable expectation of privacy."
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Katz v. United States, 389 US 347 (1967), is probably the most important of the Supreme Court's Fourth Amendment decisions. The court held that the amendment protects "people, not places." which applies wherever there is a "reasonable expectation of privacy," and that a search without a warrant is "per se unreasonable," absent extenuating circumstances.See page(s) 2.417 in the Fraud Examiner's Manual

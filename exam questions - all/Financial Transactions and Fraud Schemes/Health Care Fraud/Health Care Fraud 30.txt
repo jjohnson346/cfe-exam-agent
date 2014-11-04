@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=Electronic Data Interchange (EDI) increases the possibility of fraud in the health care industry in which of the following ways?
+
+Options=The automation of claims processing erases the claims adjuster's ability to visually detect suspicious-looking claims | EDI leaves no traditional paper trail | The impersonal nature of EDI raises the temptation of would-be fraudsters to commit white-collar crime due to lack of human intervention | All of the above
+
+CorrectResponse=3
+
+Explanation=EDI eliminates the abilities that fraud examiners have to detect fraud in the health care industry in three ways:•	The automation of claims has erased claims professionals7 ability to detect suspicious-looking claims. Because they are used to handling the paperwork of claims, EDI hampers the claims professional from getting a good picture of the overall nature of an account, instead reducing each transaction to individual claims.•	Because of the impersonal nature of electronic transactions, EDI raises the temptation of would-be fraudsters to commit white-collar crime.•	EDI leaves no paper trail, making the process of fraud detection difficult for the fraud examiner.See page(s) 1.1249 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=in admission-seeking interviews, an innocent person often v/ill react differently to the initial accusation than a culpable person. Which of the following reactions to the initial accusation is NOT common to a culpable person?
+
+Options=Silence | Weak denials | Strong denials | All of the above are reactions
+
+CorrectResponse=2
+
+Explanation=When accused of wrongdoing, the typical guilty person will react with silence. If the accused does deny culpability, those denials will usually be weak. In some cases, the accused will almost mumble the denial. It is common for the culpable individual to avoid outright denials. Rather, that person will give reasons why he could not have committed the act in question. The innocent person will sometimes react with genuine shock at being accused. It is not at all unusual for an innocent person, wrongfully accused, to react with anger. As opposed to the guilty person, the innocent person will strongly deny carrying out the act or acts in question.See page(s) 3.252 in the Fraud Examiner's Manual

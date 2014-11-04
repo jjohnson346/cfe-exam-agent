@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=The Corporate Sentencing Guidelines provide several possible remedies that can be assessed against an organization that is found liable for an offense. Which of the following is NOT an option?
+
+Options=Prison Sentences | Restitution | Fines | All of the above
+
+CorrectResponse=0
+
+Explanation=If an organization is found liable for an offense, the guidelines provide for four types of remedies: fines, restitution, remedial orders, and probation. Individual perpetrators may. however, face prison sentences.See page(s) 4.522-4.524 in the Fraud Examiner's Manual

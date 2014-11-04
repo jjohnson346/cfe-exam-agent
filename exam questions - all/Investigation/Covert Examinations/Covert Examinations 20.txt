@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Searches of which of the following records are useful in developing background information on a subject?
+
+Options=Bankruptcy filings, tax liens, and judgments | DMV driving records | Credit bureau headers | All of the above
+
+CorrectResponse=3
+
+Explanation=Some of the searches useful in developing background information are listed below:•	Credit bureau header searches are among the most powerful locator tools. Nearly all people have been involved in some credit activity either under their true names or an assumed (“also known as�?) name.•	A current occupant/new address search may be used to identify the occupant of an address, to confirm occupancy, to uncover a forwarding address, or to develop a list of neighbors who may know the suspect’s current whereabouts.•	Last name searches can be used if the past address is unknown. This search produces better results if the name is not common; however, if the last name is common, differentiating information should be included in the search.•	Searches of bankruptcy filings, tax liens, and court judgments have emerged in recent years as locator tools, because such records contain valid Social Security numbers.	z\See page(s) 3.518-3.520 in the Fraud Examiner's Manual

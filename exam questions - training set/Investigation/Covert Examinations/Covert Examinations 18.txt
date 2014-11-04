@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem="Dogpile" is an example of a(n)
+
+Options=Credit bureau | Public record service | Internet metasearch engine | None of the above
+
+CorrectResponse=2
+
+Explanation=Dogpile is an example of a metasearch engine. These sites search many other search engines (such as Google and Yahoo!) at once and return the results of all of the searches togetherSee page(s) 3.504 in the Fraud Examiner's Manual

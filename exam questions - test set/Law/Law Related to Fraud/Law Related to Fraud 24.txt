@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The crime of embezzlement normally involves a relationship of trust.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Embezzlement is the wrongful appropriation of money or property by a person to whom it has been lawfully entrusted. Embezzlement implicitly involves a breach of trust, although it is not necessary to show a fiduciary relationship between the parties. The elements of embezzlement vary somewhat by jurisdiction, but generally are:The defendant took or convertedWithout the knowledge or consent of the ownerMoney or property' of anotherThat was properly entrusted to the defendant.See page(s) 2.209 in the Fraud Examiner's Manual

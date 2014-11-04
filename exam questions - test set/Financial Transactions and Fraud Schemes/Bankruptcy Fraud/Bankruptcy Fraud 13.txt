@@ -1,0 +1,9 @@
+Section=Bankruptcy Fraud
+
+Stem=During a bankruptcy investigation, the bankruptcy trustee can request documents from third parties (such as banks and customers), but cannot compel the third parties to produce the documents.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=In order to fulfill their fiduciary investigative responsibilities, trustees need to gather financial information. If the debtor's books and records are missing, incomplete, or unreliable, they should be obtained from third parties, such as banks, customers, related parties, etc. If a third party resists the trustee s request, the trustee can subpoena records or testimony under Bankruptcy Rule 2004.See page(s) 1.1311 in the Fraud Examiner's Manual

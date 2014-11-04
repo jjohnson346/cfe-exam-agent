@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=Which of the following are computer hacking detection measures? I.	Review the file log for successful access attempts II.	Review the file log for unsuccessful access attempts III.	Provide sufficient resources and staff to administer the data security function IV.	Periodically review telecommunications security
+
+Options=I, II, III, and IV | Ill only | II and IV only | Ill and IV only
+
+CorrectResponse=0
+
+Explanation=An adequate hacker detection program contains three primary components: (1) Almost all communication systems maintain a log file that records all successful and unsuccessful system access attempts. These also allow for the printing of reports containing sign-on and sign-off activity. These reports should be printed out regularly and reviewed by the data security officer. Where possible, special reports should be printed on the number of unsuccessful access attempts. (2) The data security function should have sufficient resources and staff to administer passwords, maintain the security software, review system activity reports, and follow up on all potential security1See page(s) 1.1812-1.1813 in the Fraud Examiner's Manual

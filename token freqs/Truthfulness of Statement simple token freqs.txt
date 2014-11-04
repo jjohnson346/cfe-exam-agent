@@ -1,0 +1,33 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     2
+mistakes                               1
+weight                                 1
+allow                                  1
+for                                    1
+state                                  1
+adds                                   1
+of                                     2
+complete                               1
+recollection                           1
+written                                1
+current                                1
+truthfulness                           1
+best                                   1
+is                                     2
+it                                     2
+however                                1
+true                                   2
+the                                    3
+my                                     1
+should                                 2
+and                                    1
+statement                              3
+that                                   1
+language                               1
+example                                1
+this                                   2
+also                                   1
+specifically                           1
+
+Totals:                     29        40

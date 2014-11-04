@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=Since many people have a habit of writing down or recording their passwords near their computer, examiners should look around for notes that may appear to be passwords.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Since many people have a habit of writing down or recording their passwords near their computer, examiners should look around for notes that may appear to be passwords. This practice may aid in the discovery of passwords needed to access encrypted data in the event the subject of the investigation is being uncooperative.See page(s) 3.717 in the Fraud Examiner's Manual

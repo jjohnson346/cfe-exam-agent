@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=In a home-based business scheme, the swindlers marketing home-based businesses require a person to buy materials for assembly-at-home products, but the materials are essentially worthless or cheap.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=A popular fad today, many companies marketing home-based businesses require one to buy materials for assemble-at-home products. The consumer is promised that the company will purchase the completed products, and when it does not, the consumer is left with a bad investment and a stock of cheap, worthless goods.See page(s) 1.1704 in the Fraud Examiner‰??s Manual

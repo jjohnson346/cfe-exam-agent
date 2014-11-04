@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Whether it is due to embarrassment or the belief that nothing can be done, only about one in 100 victims of telemarketing fraud ever files a complaint.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Telemarketing offenses are classified as consumer fraud, yet many businesses are affected by office supply and marketing services scams. The hit-and-run nature of phone rooms, the geographical distances between the crooks and their victims, and the resources and priorities of law enforcement agencies all make enforcement efforts difficult. Only about one in 100 victims ever files a complaint.See page(s) 1.1708 in the Fraud Examiner‰??s Manual

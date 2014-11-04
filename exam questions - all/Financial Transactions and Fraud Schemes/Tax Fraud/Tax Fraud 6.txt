@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=In tax fraud cases, willfulness can be inferred from all but which of the following types of conduct?
+
+Options=Covering up sources of income | Destruction of books or records | Recording two different entries to the books - one for tax and the other for generally accepted accounting principles (GAAP) | Concealment of assets
+
+CorrectResponse=2
+
+Explanation=Willfulness can be inferred from conduct such as:•	Keeping a double set of books (not to be confused with GAAP and tax records)•	Making false entries or alterations or creating false invoices or documents•	Destruction of books or records•	Concealment of assets (illicit income)•	Covering up sources of income•	Avoiding making records usual in transactions of the kind•	Conduct that misleads or conceals (Spies v. U.S., 317 U.S., 492 (1943)See page(s) 1.1402 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=A person is involved in an auto accident but doesn't have insurance. To be reimbursed for the damages, he gets insurance, waits a small amount of time, and then reports the vehicle as having been in an accident, he has committed an insurance scam known as_.
+
+Options=Ditching | Churning | Past posting | None of the above
+
+CorrectResponse=2
+
+Explanation=Past posting is a scheme in which a person becomes involved in an automobile accident, but doesn’t have insurance. He gets insurance, waits a while, and then reports the vehicle as having been in an accident, thus collecting for the damages.See page(s) 1.1105 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=At the current time, the health care industry has a lack of tools to detect claims fraud committed through electronic claims processing.
+
+Options=True | False	
+
+CorrectResponse=0
+
+Explanation=The reasons the health care industry is concerned about EDI’s potential to stimulate fraudulent activity include:•	The lack of tools to detect EDI fraud•	The variation of health care services precipitates the potential from a plethora of dissimilar frauds•	The efficiency of EDI allows for more vendors and thus more claims to account for•	The swiftness in which transactions take place allows less time to uncover fraudSee page(s) 1.1250 in the Fraud Examiner’s Manual

@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+libraries                              1
+employment                             1
+can                                    1
+sometimes                              1
+people                                 1
+commerce                               1
+city                                   3
+influential                            1
+of                                     3
+chambers                               1
+directories                            3
+bookstores                             1
+name                                   1
+usually                                2
+place                                  1
+be                                     1
+occupation                             1
+such                                   1
+a                                      1
+at                                     1
+the                                    2
+and                                    2
+residence                              1
+contain                                1
+secondhand                             1
+public                                 1
+found                                  1
+
+Totals:                     27        36

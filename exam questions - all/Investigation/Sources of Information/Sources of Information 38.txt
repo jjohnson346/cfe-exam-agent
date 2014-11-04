@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=If a Certified Fraud Examiner wants to conduct a background investigation of a new vendor to ensure that the company actually exists, which of the following public records would be most useful at the county level in most states?
+
+Options=Criminal litigation index | Corporate charter | Civil litigation index | Fictitious business name/DBA information
+
+CorrectResponse=3
+
+Explanation=A fictitious business name/DBA filing is filed at the county level. This information will provide insight into the true business venture behind the name. Very similar to corporate filings with the secretary of state: these records will allow you to trace the corporation’s roots or prove ownership in sole proprietorships, partnerships, limited partnerships, joint ventures, and trusts. The civil and criminal indexes should not reveal any information about the suspected company unless the company had been involved in a civil or criminal litigation. It is always a good idea to locate a copy of the company's corporate charter; however, these records would be located at the secretary of state's office and not at the county courthouse.See page(s) 3.422 in the Fraud Examiner's Manual

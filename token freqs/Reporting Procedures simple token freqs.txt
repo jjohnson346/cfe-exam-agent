@@ -1,0 +1,32 @@
+Token                          Frequency
+-----------------------------  ---------
+attempt                                1
+suspecting                             1
+states                                 2
+alleged                                1
+fraud                                  1
+procedures                             1
+of                                     1
+statements                             1
+report                                 1
+investigation                          1
+guilt                                  1
+perpetrator                            1
+it                                     2
+others                                 1
+the                                    2
+regarding                              1
+should                                 2
+and                                    2
+not                                    2
+that                                   2
+anyone                                 1
+an                                     1
+reporting                              1
+part                                   1
+this                                   1
+also                                   1
+management                             1
+make                                   1
+
+Totals:                     28        35

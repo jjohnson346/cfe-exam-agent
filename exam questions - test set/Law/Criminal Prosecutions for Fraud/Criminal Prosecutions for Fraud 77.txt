@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In criminal cases, the defense seeks to exclude evidence by filing a:
+
+Options=Motion for severance | Motion to suppress evidence | Motion to dismiss | Motion to recuse tainted filings
+
+CorrectResponse=1
+
+Explanation=In a motion to suppress evidence, the defense argues that evidence was improperly obtained, is impertinent or unduly prejudicial, or violates some other right such as the privilege against self-incrimination. In many cases motions to exclude evidence‰??decided at a suppression hearing, where the judge (without a jury) rules on the propriety of the government‰??s conduct‰??are more important than the trial itself. If the defense is able to exclude illegally seized narcotics, or a tainted confession, or critical books and records, the prosecution might be forced to dismiss the charges (at least temporarily) for lack of adequate proof. On the other hand, an unsuccessful suppression motion might be followed by renewed interest by the defendant in a plea bargain.See page(s) 2.511 in the Fraud Examiner's Manual

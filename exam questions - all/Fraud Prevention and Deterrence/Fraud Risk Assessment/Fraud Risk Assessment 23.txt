@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=When performing a fraud risk assessment, the examiner should only designate an area as high risk if the assessment has conclusively revealed that fraud is occurring there.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Assessing an area as having a high fraud risk does not conclusively mean that fraud is occurring there. However, the fraud risk assessment is useful in identifying areas to proactively investigate to determine whether fraud has in fact occurred. In addition, putting activity in high-risk areas under increased scrutiny can deter potential fraudsters by increasing their perception of detection.See page(s) 4.804 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Under the U.S. federal civil legal system, interrogatories may be served on:
+
+Options=The witnesses | Jurors | The parties | None of the above
+
+CorrectResponse=2
+
+Explanation=Interrogatories are questions that are submitted to an opposing party in a suit. Interrogatories cannot be given to anyone other than a party to a suit. Questions are submitted to the witness in writing. If the receiving party thinks that a question is improper, then he may object to the question. If no objection is given, then the party must answer the question in writing. All answers must be sworn to under oath....Interrogatories are covered under Federal Rule of Civil Procedure 33.See page(s) 2.604 in the Fraud Examiner's Manual

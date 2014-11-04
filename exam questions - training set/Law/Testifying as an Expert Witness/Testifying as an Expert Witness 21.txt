@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=During cross-examination, it is opposing counsel's golden rule to cross-examine an expert only if opposing counsel doesn't know the answer to the questions.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=It is critical never to underestimate the expertise of the opposing counsel. Often, opposing counsel will be underplaying their understanding of the issues to lull the expert into a sense of security. This can lead the expert into a difficult situation. Opposing counsel's golden rule is to cross-examine only if it would benefit the case. In asking questions of the witness, opposing counsel will generally ask either short questions in plain words or will ask leading questions. Usually counsel knows the answers to the questions.See page(s) 2.821 in the Fraud Examiner's Manual

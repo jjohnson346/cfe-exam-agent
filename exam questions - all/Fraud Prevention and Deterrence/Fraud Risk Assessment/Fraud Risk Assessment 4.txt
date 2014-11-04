@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=_____________________ is a process aimed at proactively identifying and addressing an organization's vulnerabilities to internal and external fraud
+
+Options=A fraud risk assessment | A fraud examination | An internal control audit | A management assessment
+
+CorrectResponse=0
+
+Explanation=Fraud risk assessment is a process aimed at proactively identifying and addressing an organization's vulnerabilities to internal and external fraud. A fraud risk assessment starts with an identification and prioritization of fraud risks that exist in the business. The process evolves as the results of that identification and prioritization begin to drive education, communication, organizational alignment, and action around effectively managing fraud risk and identifying new fraud risks as they emerge.See page(s) 4.803 in the Fraud Examiner's Manual

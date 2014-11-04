@@ -1,0 +1,9 @@
+Section=Check and Credit Card Fraud
+
+Stem=Check fraud rings cannot organize without a significant amount of capital because the equipment necessary to operate a check fraud ring costs approximately S75,000 to $100,000.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The equipment essential to a check fraud ring includes a laser scanner, laser printer, and a personal computer, easily obtainable items, the total cost of which is about S1.500 These rings use digital scanners and offset printing to counterfeit checks. The checks are cashed by members of the ring or sold to third parties.See page(s) 1.1007 in the Fraud Examiner's Manual

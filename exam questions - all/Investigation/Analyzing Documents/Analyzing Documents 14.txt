@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Certain basic procedures in handling evidence are necessary to be accepted by a court of law. Which of the following elements is required for the evidence to be admissible?
+
+Options=Proof that the evidence is relevant and material | Proper identification of the item | Proof that the chain of custody has been maintained | All of the above
+
+CorrectResponse=3
+
+Explanation=Basic procedures in handling evidence are required for it to be accepted by the court. Proof must be provided that the evidence is relevant and material. Evidence submitted must be properly identified, and it must be established that the proper chain of custody was maintained.See page(s) 3.101 in the Fraud Examiner's Manual

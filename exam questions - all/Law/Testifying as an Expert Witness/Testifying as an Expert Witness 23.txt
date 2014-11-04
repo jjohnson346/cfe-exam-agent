@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Which of the following is one of the three questions that the Supreme Court requires judges to answer before allowing expert testimony?
+
+Options=Is the person qualified as an expert witness? | Has the expert been paid for his testimony? | Is the expert free from bias? | Was the expert hired by one of the parties?
+
+CorrectResponse=0
+
+Explanation=In the Kumho Tire and Daubert cases, the Supreme Court stated that before allowing an expert to testify before the jury, the judge must make two determinations:Is the person qualified as an expert witness?Will the expertise of the witness assist the jury in understanding the evidence or determining a fact at issue? Is the testimony reliable?See page(s) 2.811 in the Fraud Examiner's Manual

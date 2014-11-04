@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=The Bank Secrecy Act's main purpose is to prevent financial institutions from releasing information about their customers without the customers' approval.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Although money laundering has been around for a long time, the Bank Secrecy Act (BSA), which went into effect in 1970, was the first major piece of legislation aimed at detecting and preventing money laundering The purpose of the law as stated in section 5311 is “to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings �? The BSA sets forth a system of reporting and recordkeeping requirements designed to help track large or unusual financial transactions.See page(s) 1.1621 in the Fraud Examiner’s Manual

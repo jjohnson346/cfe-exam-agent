@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=When a fraud examiner is conducting an examination and is in the process of collecting documents, he should:
+
+Options=Try to handle the original as little as possible | Maintain a good filing system for the documents | Take the original document if it is available | All of the above
+
+CorrectResponse=3
+
+Explanation=When collecting documents during the course of an examination, the examiner should: (1) obtain the original document where feasible, make working copies, and keep the originals segregated; (2) not touch originals any more than necessary as they might later have to undergo forensic analysis; and (3) maintain a good filing system for the documents. This is especially critical where large volumes of documents are obtained.See page(s) 3.101 in the Fraud Examiner's Manual

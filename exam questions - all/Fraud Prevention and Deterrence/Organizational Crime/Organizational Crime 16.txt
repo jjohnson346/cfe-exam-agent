@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Clinard and Yeager believe corporate crimes are increasingly difficult to detect because:
+
+Options=Violations are more complex | Criminals are smarter | Accounting techniques are more sophisticated | None of the above
+
+CorrectResponse=0
+
+Explanation=Clinard and Yeager believe that corporate violations are increasingly difficult to discover, investigate, or prosecute successfully because of their growing complexity and intricacy. This is particularly true, they believe, of antitrust cases, foreign payoffs, computer fraud, and illegal political contributions.See page(s) 4.504 in the Fraud Examiner's Manual

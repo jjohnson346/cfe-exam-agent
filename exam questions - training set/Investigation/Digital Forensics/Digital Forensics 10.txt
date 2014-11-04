@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=If the fraud examiner believes that a crime may have been committed, he should discuss whether law enforcement should be notified prior to beginning a forensic examination.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Before conducting a forensic examination, examiners must consider whether a crime has in fact been committed. If it is determined at the beginning of the investigation that a formal referral to a law enforcement or prosecuting agency will be made, then the authorities must be notified before the investigation begins to determine whether law enforcement personnel should participate in the examination. In some jurisdictions, an examiner from the law enforcement community may not be available on short notice or at all.See page(s) 3.708 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=If you were responsible for investigating an alleged fraud in the design and installation of a new software application at your company, which of the following internal control systems would you review to determine whether the company's internal controls appeared adequate at the time of the alleged offense?r
+
+Options=System maintenance | Implementation controls | Computer operations | System software controls
+
+CorrectResponse=1
+
+Explanation=Implementation controls are those controls over the development of, or purchase of, a new application. All new system requests should be made in writing. A system development life-cycle methodology should be used for developing and implementing in-house or purchased packages. All new systems requests should be approved by the appropriate management level. Users should be involved in the project from design through final testing. All test results should be approved by both data center management and user personnel. There should be an implementation plan for placing the new system into production.See page(s) 1.1843 in the Fraud Examiner's Manual

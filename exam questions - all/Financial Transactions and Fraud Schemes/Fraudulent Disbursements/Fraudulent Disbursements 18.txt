@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=Able, an employee of ABC Company, was in charge of collecting the timecards of all the employees in his division (including his own) and delivering them to the division supervisor. After the supervisor reviewed and approved the timecards, Able delivered them to the payroll accounting department, where paychecks were issued. Able would out his timecard in erasable ink, wait until his supervisor had signed off on it, then change the number of hours on the timecard before he took it to payroll accounting. This increased the size of his paychecks. According to Corporate Fraud Handbook, this is an example of:
+
+Options=Forgery | Check tampering | A ghost employee scheme | A falsified hours and salary scheme
+
+CorrectResponse=3
+
+Explanation=For hourly employees, the size of a paycheck is based on two essential factors, the number of hours worked and the rate of pay. It is therefore obvious that for an hourly employee to fraudulently increase the size of his paycheck, he must either falsify the number of hours he has worked or change his wage rate. One form of control breakdown that is common in falsified hours and salary schemes is the failure to maintain proper control over timecards. In a properly run system, once timecards are authorized by management they should be sent directly to payroll. Those who prepare the timecards should not have access to them after they have been approved. When this procedure is not observed, the person who prepared a timecard can alter it after his supervisor has approved it but before it is delivered to payroll.See page(s) 217, 220 in the Corporate Fraud Handbook

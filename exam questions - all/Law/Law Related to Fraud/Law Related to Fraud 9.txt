@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Under federal criminal law, the government may allege and prove perjury if the defendant, under oath, makes two irreconcilable contradictory statements without having to prove which is true and which is false.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Perjury is an intentional false statement on a material point given under oath. Under a related federal statute (Title 18, U.S. Code, Section 1623) the government may allege and prove perjury if the defendant makes two irreconcilable contradictory statements, without proving which is true and which is falseSee page(s) 2.334 in the Fraud Examiner's Manual

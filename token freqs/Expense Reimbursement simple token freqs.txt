@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+for                                    2
+accordance                             1
+incurred                               1
+by                                     1
+actually                               1
+must                                   1
+business                               2
+procedures                             2
+expenses                               2
+order                                  1
+performing                             1
+on                                     1
+employee                               1
+preparing                              1
+be                                     2
+these                                  1
+documented                             1
+reports                                2
+with                                   1
+reimbursement                          1
+the                                    1
+in                                     4
+should                                 1
+expense                                3
+reimbursed                             1
+company                                2
+an                                     1
+documentation                          1
+review                                 1
+employees                              1
+
+Totals:                     31        43

@@ -1,0 +1,9 @@
+Section=Organizational Crime
+
+Stem=Under the Corporate Sentencing Guidelines, a corporation convicted of a felony is required to serve a probation between:
+
+Options=One and ten years | One and five years | One and three years | Five and ten years
+
+CorrectResponse=1
+
+Explanation=Where the offending organization has committed a felony, probation must run for at least one year. In no case may probation run for more than five years.See page(s) 4.523 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Once a suspect has confessed in an interview, it is important to get copies of as much physical evidence as possible. Of particular importance are bank records. Which of the following is the recommended method for obtaining bank records after a confession?
+
+Options=Obtain a separate written authorization for the release of the bank records | Ask the subject to bring the records to the next interview session | Add language to the written confession granting permission to obtain bank records | Ask to meet the subject the next day at his or her bank
+
+CorrectResponse=0
+
+Explanation=Physical evidence‰??regardless of how limited it might be‰??should be obtained from the confessor. In many instances, illicit income from fraud is deposited directly in the bank accounts of the perpetrator. The interviewer will typically want to ask the confessor to surrender his banking records voluntarily for review. It is recommended that either (1) a separate written authorization be created, or (2) specific language be added to the confession noting the voluntary surrender of banking information. The first method is generally preferable.See page(s) 3.269 in the Fraud Examiner's Manual

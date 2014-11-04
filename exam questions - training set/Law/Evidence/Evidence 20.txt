@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=The process of determining who had possession of physical evidence and what they have done with it is known as establishing the:
+
+Options=Foundation | Basis for appealff | Chain of custody | None of the above
+
+CorrectResponse=2
+
+Explanation=Chain of custody refers to (1) who has had possession of an object, and (2) what they've done with it.See page(s) 2.715 in the Fraud Examiner's Manual

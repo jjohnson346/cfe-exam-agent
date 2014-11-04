@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=The asset turnover ratio, which is measures how efficiently assets are used to produce sales, is calculated by dividing net sales by the asset balance at the end of the period.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The asset turnover ratio is used to determine the efficiency with which assets are used during the period. Net sales divided by average operating assets (net sales / average assets) is the calculation used to determine the asset turnover ratio .See page(s) 1.341 in the Fraud Examiner's Manual

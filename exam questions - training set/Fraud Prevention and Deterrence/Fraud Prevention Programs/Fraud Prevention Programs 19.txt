@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The COSO report suggests that ___________________ be responsible for the control environment of an organization.
+
+Options=Upper management | Individual employees | Middle management | Department heads
+
+CorrectResponse=0
+
+Explanation=COSO envisions that upper management will be responsible for the control environment of organizations. Employees look to management for guidance in most business affairs, and organizational ethics are no different. It is important for upper management to operate in an ethical manner, and it is equally important for employees to view management in a positive light.See page(s) 4.704 in the Fraud Examiner's Manual

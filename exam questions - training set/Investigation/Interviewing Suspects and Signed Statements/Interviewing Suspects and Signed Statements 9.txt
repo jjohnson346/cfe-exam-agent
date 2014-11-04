@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Gray, a Certified Fraud Examiner is interviewing Brown, a fraud suspect. Gray says to Brown, "Did you plan this deliberately, or did it just happen?" Brown's reply - whether yes or no - is called a(n):
+
+Options=Benchmark admission | De facto admission | Alternative admission | All of the above
+
+CorrectResponse=0
+
+Explanation=Either way the accused answers the alternative question‰??either yes or no‰??he has made a culpable statement, or a "benchmark admission." Once the benchmark admission is made, the miscreant has made a subconscious decision to confess. Alternate questions are structured so that the negative alternative is presented first, followed by the positive alternative. In this way, the accused only has to nod or say "yes‰??‰?? for the benchmark admission to be made. The accused also will commonly answer in the negative.See page(s) 3.263 in the Fraud Examiner's Manual

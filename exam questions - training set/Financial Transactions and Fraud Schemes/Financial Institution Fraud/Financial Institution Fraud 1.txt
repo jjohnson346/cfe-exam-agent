@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Which of the following is a common area for construction loan fraud schemes?
+
+Options=Developer overhead | Retainage | Estimates of costs to complete | All of the above
+
+CorrectResponse=3
+
+Explanation=Construction lending has different vulnerabilities than other permanent or interim lending. More risks are associated with construction projects than with already-built projects. Construction fraud schemes are numerous; the more common are related to estimates of costs to complete, developer overhead, draw requests, and retainage schemes.See page(s) 1.904-1.908 in the Fraud Examiner's Manual

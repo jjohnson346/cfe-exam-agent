@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=A health care provider can often bill a patient's insurance for a service not covered by using false diagnoses or procedure codes.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=When a provider knows that a service is not covered, using false diagnoses and covered procedure codes manipulation will generally get the claim paid. In addition, before ordering expensive laboratory x-rays or other similar services, physicians justify the ordering of such procedures by documenting that a need exists to make such diagnostic inquiries. The services are rendered, but because false information on a claim is used to deceive the insurance company, the claim is considered a false claimSee page(s) 1.1222 in the Fraud Examiner‰??s Manual

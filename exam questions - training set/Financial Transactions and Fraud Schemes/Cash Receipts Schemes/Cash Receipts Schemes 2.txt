@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Which of the following is the most common type of occupational fraud?
+
+Options=Fraudulent financial statements | Bribery | Asset misappropriation | Extortion
+
+CorrectResponse=2
+
+Explanation=Asset misappropriations are by far the most common of all occupational frauds. There are three major categories of asset misappropriation schemes: cash receipt schemes, fraudulent disbursements, and theft of inventory and other assets.See page(s) 1.401 in the Fraud Examiner's Manual

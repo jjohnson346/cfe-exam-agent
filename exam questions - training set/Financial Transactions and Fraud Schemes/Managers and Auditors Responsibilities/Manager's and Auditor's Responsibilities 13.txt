@@ -1,0 +1,13 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=AU 316 gives operational guidance for auditors to meet their responsibilities for material misstatements due to fraud. Auditors are instructed to consider the presence of fraud risk factors. The statement divides the types of risk based on three conditions:  
+
+I. Incentive/pressure to perpetrate fraud  
+II. Opportunity to commit fraud 
+III. Attitude/rationalization to justify the fraud action
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=AU 316 requires auditors to gather information necessary to identify risks of material misstatement due to fraud by considering fraud risk factors. Fraud is usually concealed and can be difficult to detect; nevertheless, auditors may identify events or conditions that are referred to as fraud risk factors. Risk factors are classified based on three conditions generally present when fraud exists: incentive/pressure to perpetrate fraud, opportunity to carry out the fraud and attitude/rationalization to justify the fraudulent action.See page(s) 1.227 in the Fraud Examiner‰??s Manual

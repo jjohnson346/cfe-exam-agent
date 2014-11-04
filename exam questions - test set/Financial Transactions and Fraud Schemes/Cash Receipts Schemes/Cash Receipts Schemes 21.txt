@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=A person responsible for collecting cash should NOT have authority to prepare bank deposits.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The primary method of preventing cash fraud is segregation of duties. Whenever one individual has control over the entire accounting transaction (e.g., authorization, recording, and custody), the opportunity is present for cash fraud. Each of the following duties/responsibilities should be segregated: cash receipts, bank deposits, bank reconciliation, and cash disbursements. If one person has the authority to collect the cash, deposit the receipts, record the collection, and disburse company funds, the risk is high that fraud can occur.See page(s) 1.431 in the Fraud Examiner's Manual

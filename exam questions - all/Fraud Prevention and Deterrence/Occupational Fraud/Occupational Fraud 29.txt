@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=Cressey found that embezzlers often experienced a sense of physical isolation.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The fourth category of nonsharable problems Cressey described is physical isolation, in which the person in financial straits is isolated from the people who can help him.See page(s) 4.604 in the Fraud Examiner's Manual

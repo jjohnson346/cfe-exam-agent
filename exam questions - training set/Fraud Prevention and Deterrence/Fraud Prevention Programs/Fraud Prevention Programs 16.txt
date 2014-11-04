@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=The Federal Sentencing Guidelines require that a compliance and ethics program be reasonably designed, implemented, and enforced so that it is generally effective in preventing and detecting criminal conduct.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The Guidelines require that a compliance and ethics program be reasonably designed, implemented, and enforced so that it is generally effective in preventing and detecting criminal conduct. However, this section further provides that the failure to prevent or detect the offense in question does not necessarily mean that the program is ineffective.See page(s) 4.709 in the Fraud Examiner's Manual

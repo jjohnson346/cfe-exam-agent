@@ -1,0 +1,10 @@
+Section=Occupational Fraud
+
+Stem=According to the 2010 Report to the Nations on Occupational Fraud and Abuse, which type of fraudulent disbursement scheme is most likely to result in a high-dollar loss?
+
+Options=A payroll scheme | An expense reimbursement scheme | A cash register disbursement scheme | A billing scheme
+
+CorrectResponse=3
+
+Explanation=Billing schemes are the most common and second most costly of the fraudulent disbursement schemes. Payroll, cash register disbursement, and expense reimbursement schemes, on the other hand, are among the least costly of the fraudulent disbursement schemes with median losses of 572,000, $23,000, and 533,000, respectively. See page(s) 4.625 in the Fraud Examiner's Manual
+

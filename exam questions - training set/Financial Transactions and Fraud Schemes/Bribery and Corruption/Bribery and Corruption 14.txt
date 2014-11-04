@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=Beta, a fraud perpetrator requested that funds be wired from his account. The wire transfer will show up on the bank statement as a credit memo
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A wire transfer from an account appears on that account statement as a debit memo (often abbreviated as DM). The Wire Transfer Request should show the name of the purchaser the payee, and the bank and account number to which the funds were transferred. The sender receives a copy of this request, and the bank also maintains a copy, which is usually filed by date.See page(s) 1.725-1.726 in the Fraud Examiner's Manual

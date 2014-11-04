@@ -1,0 +1,35 @@
+Token                          Frequency
+-----------------------------  ---------
+they                                   1
+residential                            1
+for                                    1
+membership                             1
+about                                  1
+contact                                1
+business                               1
+academic                               1
+short                                  1
+of                                     3
+corporations                           2
+name                                   1
+summaries                              1
+credentials                            1
+work                                   1
+information                            1
+gives                                  1
+organizations                          1
+fraternal                              1
+available                              1
+the                                    3
+in                                     1
+and                                    5
+register                               2
+including                              1
+corporate                              1
+company                                1
+titles                                 1
+executives                             3
+directors                              3
+their                                  2
+
+Totals:                     31        46

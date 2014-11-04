@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Vertical analysis is a technique for analyzing the relationships between items on an income statement or balance sheet by expressing all components as percentages. When using vertical analysis of an income statement, which of the following components is assigned 100 percent?
+
+Options=Total assets | Gross sales | Net assets | Net sales
+
+CorrectResponse=3
+
+Explanation=When using vertical analysis of an income statement, net sales is assigned 100 percent. On the balance sheet, total assets is assigned 100 percent and total liabilities and equity is assigned 100 percent. All other items on the statements are then expressed as a percentage of these two numbers.See page(s) 1.335 in the Fraud Examiner's Manual

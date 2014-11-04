@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem="Reasonable grounds to believe" is another term for:
+
+Options=Probable cause | Probable belief | Probable intent | None of the above
+
+CorrectResponse=0
+
+Explanation="Probable cause‰?? has been defined as referring to those facts and circumstances sufficient to cause a person of reasonable caution to believe that a crime has been committed and that the accused committed it. It requires more than mere suspicion or hunch, but less than virtual certainty.See page(s) 2.418 in the Fraud Examiner's Manual

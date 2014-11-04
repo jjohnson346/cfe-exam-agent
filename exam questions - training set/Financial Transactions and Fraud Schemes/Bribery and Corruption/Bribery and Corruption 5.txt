@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=People who give and take bribes usually have distinct characteristics. A person who is known to often bend or ignore standard operating procedures or rules, insert himself into areas in which he is not normally involved, or attempt to assert authority or make decisions that are normally made by others, is called:
+
+Options=The "Rule Breaker" | The "Odd Couple" | The "Middle-Aged Crazy" | None of the above
+
+CorrectResponse=0
+
+Explanation=The "Rule Breaker": A person taking payoffs often will take action on his own, or direct a subordinate to bend, break, or ignore standard operating procedures or rules to benefit the payer. Particular attention should be directed toward those who insert themselves into areas in which they normally are not involved or attempt to assert authority or make decisions for which they are not responsible.See page(s) 1.716 in the Fraud Examiner's Manual

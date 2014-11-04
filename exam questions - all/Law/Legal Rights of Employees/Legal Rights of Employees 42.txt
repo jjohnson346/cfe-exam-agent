@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=White, a Certified Fraud Examiner, works for the ABC Company. The company president told White to investigate Green, an employee, even though Green was not suspected of any wrongdoing. If White searches Green's private workspace, Green may be able to sue and recover from White and the company for:
+
+Options=Harassment | Publicity of private facts | Intrusion into seclusion | None of the above
+
+CorrectResponse=2
+
+Explanation=There are two relevant torts of invasion of privacy: (1) intrusion into seclusion and (2) public disclosure of private facts. The mere gathering of information is not a tort; however, the gathering of confidential information where the intrusion is unreasonable might give rise to a claim of intrusion into seclusion. There is no invasion of privacy if the information is open to public view or has been disclosed to others.See page(s) 2.435 in the Fraud Examiner's Manual

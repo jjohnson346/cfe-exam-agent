@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=Section 1107 of Sarbanes-Oxley, codified in Title 18, U.S.C., § 1513, makes it a crime to knowingly, with the intent to retaliate, take any harmful action against a person for providing truthful information relating to the commission or possible commission of any _____________ offense.
+
+Options=Mail fraud | Securities | Federal | Money laundering
+
+CorrectResponse=2
+
+Explanation=Section 1107 of Sarbanes-Oxley, codified in Title 18, U.S.C., § 1513, makes it a crime to knowingly, with the intent to retaliate, take any harmful action against a person for providing truthful information relating to the commission or possible commission of any Federal offense. This protection is only triggered when information is provided to a law enforcement officer; it does not apply to reports made to supervisors or to members of Congress, as is the case under § 806.See page(s) 1.1510 in the Fraud Examiner’s Manual

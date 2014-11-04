@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which U.S. Constitutional Amendment states that a defendant must be informed of the charges against him?
+
+Options=Fifth Amendment | Fourteenth Amendment | Sixth Amendment | Fourth Amendment
+
+CorrectResponse=2
+
+Explanation=The Sixth Amendment covers informing the defendant of the nature of the charges. It states: "In all criminal prosecutions, the accused shall enjoy the right to speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor: and to have assistance of counsel for his defense."See page(s) 2.502 in the Fraud Examiner's Manual

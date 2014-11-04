@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=Writing grammatically correct reports of fraud examinations is important. In general, the Certified Fraud Examiner should refer to himself in the report as "the writer" rather than use "I" or "me".
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Point of view indicates the writer's relation to the information presented, as reflected in the use of person. The writer usually expresses point of view in first-, second-, or third-person personal pronouns. The use of the first person indicates that the writer is a participant or observer ("This happened to me;‰?? ‰??I saw that‰??). The second and third person indicate that the writer is writing about other people (‰??This happened to you, to her, to them‰??). When writing a report, one should never use ‰??the writer" to replace ‰??I‰?? or ‰??me" in a mistaken attempt to sound formal or dignified.See page(s) 3.911 in the Fraud Examiner's Manual

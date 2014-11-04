@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=A "protected computer" as defined under the federal Computer Fraud and Abuse Act includes all but which of the following?
+
+Options=Computer used only in intrastate commerce | Computer used in foreign commerce | Computer used by the U S government | Computer used by a financial institution
+
+CorrectResponse=0
+
+Explanation=A "protected computer" as defined under the federal Computer Fraud and Abuse Act includes:‰?¢	A computer which is used exclusively by a financial institution or the United States government‰?¢	Any computer the use of which affects a computer used by a financial institution or the federal government‰?¢	A computer that is used in interstate or foreign commerce or communicationSee page(s) 1.1863 in the Fraud Examiner's Manual

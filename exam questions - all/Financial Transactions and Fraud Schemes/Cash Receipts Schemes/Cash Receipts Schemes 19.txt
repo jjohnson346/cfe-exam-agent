@@ -1,0 +1,9 @@
+Section=Cash Receipts Schemes
+
+Stem=Grey, a controller for a small company, was responsible for preparing and making the daily deposits, recording the deposits in the company's books, and reconciling the bank statement. Grey took several thousand dollars from the company deposits and concealed the theft by making false accounting entries. The money Grey stole had already been recorded in his company's accounting system as sales and receivables. According to Corporate Fraud Handbook, Grey's scheme is:
+
+Options=A skimming scheme | A fraudulent financial statement scheme | A cash larceny scheme | An illegal gratuities scheme
+
+CorrectResponse=2
+
+Explanation=Skimming is defined as the theft of off-book funds. Cash larceny schemes, however, involve the theft of money that has already appeared on a victim company’s books. Neither of the other choices is correct because neither of those schemes is a type of Asset Misappropriation. Grey's scheme involves the misappropriation of company assets (cash).See page(s) 100. 109 in the Corporate Fraud Handbook

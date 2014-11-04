@@ -1,0 +1,736 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/Investigating with the Internet
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+Investigating with the Internet 
+A great deal of information can be accessed through the Internet for little or no cost. This 
+section explains some Internet basics, as well as how to use its services to obtain information 
+about people, businesses, and fraud in general. 
+ 
+The Internet is a decentralized global network of millions of diverse computers and 
+computer networks. These networks can all “talk” to each other because they have agreed to 
+use a common communications protocol called TCP/IP, which is named after its two most 
+important protocols: Transmission Control Protocol (TCP) and Internet Protocol (IP). 
+ 
+Essentially, the Internet is a tool for communications between people and businesses. In 
+general, the Internet is a giant network linking together millions of computers worldwide. 
+ 
+The Internet is not organized by any uniform system, such as libraries’ Dewey Decimal 
+System. Instead, it remains a free-floating, loosely-strung gold mine of information, available 
+to those who understand how to use it. Unless you know the exact addresses of the Internet 
+sites you are looking for, it is necessary to learn how to find the information.  
+ 
+An Internet site, or page, is a single Web address, generally introduced by a person or a 
+company to post information on a topic or to generate or promote business. There are a 
+number of websites that will be of use to a fraud examiner, and some are listed and 
+discussed at the end of this chapter. 
+ 
+Traditional Methods for Finding Information on the Internet 
+The most basic way to find information on the Internet is to execute searches using search 
+engines or meta-search engines, or to locate information using website directories.  
+ 
+Accessing Information Online  Investigation 
+3.502   2011 Fraud Examiners Manual  
+Search Engines 
+Search engines are website tools that allow you to type in keywords describing the subject in 
+which you are interested. The search engine will then scour the pages of the Internet and 
+attempt to locate pages that may have pertinent information. For instance, in a search for the 
+keyword fraud, the search engine will likely bring back a number of pages that have some 
+relevant link to fraud (such as the Association of Certified Fraud Examiners’ website, located 
+at www.ACFE.com). There are several prominent search engines on the Internet, and each 
+functions in a different way. An extensive list of search engines is provided at the end of the 
+chapter; however, a few of the more popular engines are described below. 
+ 
+GOOGLE  
+Google is the most-used search engine in the United States and has advanced search 
+capabilities. Individual Web pages are ranked by the engine’s software according to how 
+often the page is linked to by others, determining the page’s “importance” by the number of 
+links and the identity of the linking page. Google is a good source for finding targeted 
+information on a particular topic. Additionally, learning Google-specific search operators will 
+provide the investigator with an extremely powerful tool for online investigations. 
+ 
+For example, Google Groups is a searchable Usenet archive. It scans thousands of postings 
+of Usenet groups, which are electronic bulletin boards classified by subject (see 
+“Newsgroups” below). A search using Google Groups will reveal instances in which the 
+terms you specify appear in a posting on the Internet. You can search by the name or e-mail 
+address of users who have posted to newsgroups, or by subject, keywords, attachments, and 
+so on. 
+ 
+BING 
+Bing (formerly Live Search, Windows Live Search, and MSN Search) is the current Web 
+search engine from Microsoft. Bing automatically groups search results in different 
+categories, depending on the type of searches users are conducting. Bing also provides the 
+ability to save and share search histories via Windows Live SkyDrive, Facebook, and e-mail. 
+ 
+In addition to providing many of the same search resources found in other popular engines 
+(e.g., it provides searches specific to travel, video, pictures, and maps), Bing has several 
+useful features. For example, Bing maintains an ongoing history of searches, giving 
+researchers a way to identify what they looked up and in what order. And Bing’s image 
+search is easier to manage than others because it displays more images on the results screen.  
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.503 
+ALTAVISTA 
+Altavista is a detail-oriented search engine. Because it reads the individual text of every page 
+listed on the Internet, Altavista is very useful for finding random information. If you are 
+simply “casting your line” to see what information might be available on a topic, this is a 
+good engine to use. However, Altavista’s searches are so thorough you will encounter every 
+page that contains your keyword(s), ending with as many as 200,000 hits. Successful Altavista 
+searching requires you to construct your search carefully.  
+ 
+YAHOO!  
+Yahoo! is a multifaceted website containing a first-rate directory (see below for more 
+information about directories), but it is also equipped with a search engine. In 2009, 
+however, Yahoo! announced that its search engine would be powered by Bing. And, as of 
+July 2010, up to 25 percent of the search results provided by Yahoo! Search are powered by 
+Bing. 
+ 
+EXCITE  
+Excite’s search engine is good for broad general topics because it a simultaneous search of 
+the Web, news headlines, sports scores, and company information. Results are grouped on a 
+single page. Weeding through the results can sometimes be a chore. 
+ 
+LYCOS  
+Lycos provides advanced search capabilities, including the ability to search for specific 
+media. Its Lycos Pro feature allows users to fine-tune searches. Lycos’s index of Web pages 
+is smaller than those of some other services.’ 
+ 
+ASK.COM  
+Formerly AskJeeves, Ask.com is a good site for beginners and for general queries. The 
+engine leads users through questions to help narrow the search, and also searches six other 
+search sites. (For similar services, see metasearch engines, below.) Ask.com’s ability to 
+interpret natural language makes it easy to use, though constructing precise queries can be 
+difficult for the same reason. 
+ 
+Meta-search Engines 
+Meta-search engines send user requests to several other search engines and display the 
+results. Some of the more common meta-search engines are described below. 
+ 
+Accessing Information Online  Investigation 
+3.504   2011 Fraud Examiners Manual  
+METACRAWLER  
+Metacrawler uses meta-search technology to search the Internet’s top search engines, 
+including Google, Yahoo! Search, Bing, Ask.com, and more. It searches the best results from 
+the combined pool of the world’s leading search engines instead of results from only one 
+search engine.  
+ 
+DOGPILE  
+Owned by Infospace, this engine sends a query to a customizable list of search engines, 
+directories, and specialty search sites (e.g., Google, Yahoo! Search, Bing, Ask.com) and then 
+displays the results from each search engine individually. Once the results are retrieved, the 
+innovative meta-search technology used by Dogpile goes to work removing duplicates and 
+analyzing the results to help ensure that the best results top the list. The Comparison View 
+feature lets users compare results from the leading engines with the click of a button. 
+ 
+MAMMA  
+Mamma is a “smart” meta-search engine; every time users type in a query, Mamma 
+simultaneously searches a variety of engines, directories, and content sites; properly formats 
+the words and syntax for each; compiles their results in a virtual database; eliminates 
+duplicates; and displays them in a uniform manner according to relevance.  
+ 
+SURFWAX  
+SurfWax claims to provide the best use of relevant search results from the open Internet. It 
+uses a cohesive matrix to search, sort, extract, and relate information from both the Internet 
+and enterprise intranets. Surfwax offers multiple search tools, including FocusWords, 
+SearchSets, SiteSnaps, and ContextZooming. 
+ 
+Directories 
+The road to mining information on the Internet does not always go through search engines. 
+Some of the best investigative tools an examiner has online are directories. As the name 
+suggests, directories  are specialized websites that collect the names of numerous other related 
+websites, allowing the user to browse through a complete listing of possible sites to visit. 
+Directories contain links to pages that have a commonality. Some all-inclusive directories 
+cover a plethora of different topics, and others are more focused on particular subjects or 
+disciplines. These include several accounting and auditing directories that fraud examiners 
+may find very useful. 
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.505 
+The upside to using directories is that you can logically navigate a search, easing through the 
+different categories until you find what you are looking for. However, directories contain 
+only a portion of the sites and pages available on the Internet; therefore, the fraud examiner 
+should use directories in concert with a search engine and not instead of one. 
+ 
+YAHOO!  
+In addition to its search engine, Yahoo! has an intricate directory, possibly the most 
+comprehensive and all-inclusive on the Internet. The directory is built and maintained by 
+Yahoo! employees, with input from users. Yahoo! functions much like a pyramid: it begins 
+with several large pools of categories, such as entertainment and government, and then 
+allows the user to select more specific options from each broad category. For instance, an 
+examiner could select “education,” then “universities,” then “university libraries,” until 
+finally encountering a direct link to the main library catalog for the University of Texas. By 
+paring down your selections to increasingly narrow topics, you can generally find several 
+useful websites.  
+ 
+VIRTUAL LIBRARY  
+The Virtual Library (VL) is the oldest catalog of the Web, started by Tim Berners-Lee, the 
+creator of the HTML that makes the Internet possible. Unlike commercial catalogs, it is run 
+by a loose confederation of volunteers who compile pages of key links for particular areas in 
+which they have expertise. While not the biggest index of the Web, the VL pages are widely 
+praised as guides to particular sections of the Internet. 
+ 
+INTERNET PUBLIC LIBRARY  
+Run by librarians, this service indexes Web pages by topic. The Internet Public Library also 
+contains an array of guides, such as online magazines and newspapers, associations, and tips 
+for conducting research. 
+ 
+OPEN DIRECTORY PROJECT 
+Founded in 1998, Open Directory Project (dmoz.org) is the largest human-edited directory 
+on the Internet. Dmoz.org provides non-commercial moderation of registered sites and is 
+maintained by a community of volunteer editors. It provides site listings grouped into 
+categories and subcategories.   
+ 
+Accessing Information Online  Investigation 
+3.506   2011 Fraud Examiners Manual  
+BEST OF THE WEB DIRECTORY 
+The Best of the Web Directory is a commercial directory that provides site listings 
+categorized by topic and region.  
+ 
+BUSINESS.COM 
+Business.com is an Internet search engine and Web directory that provides site listings in 
+more than 65,000 business categories.  
+ 
+Nontraditional Methods for Finding Information on the Internet 
+Moving beyond the use of Google and other tr aditional methods of searching the Internet is 
+important for individuals conducting fraud examinations. This section will examine how to 
+use the following websites to obtain information on the Internet: 
+• eBay 
+• Whois 
+• Craigslist 
+• Archive 
+• Zoominfo  
+• GuideStar 
+•  NOZA  
+ 
+In addition to the above sites, this section will also discuss how an examiner can find 
+valuable information using social networking sites.  
+ 
+The websites addressed in this discussion are tried and true resources that fraud examiners 
+should be comfortable with using. But before using these sites, establish an undercover e-mail 
+account to use when searching. The e-mail account should be set up through a web-based
+service like Hotmail, Yahoo!, or Gmail. Examiners should not use any of the following 
+information when creating the e-mail account: 
+• Personal names 
+• Geographical region 
+• Favorite sports teams 
+• Hobbies 
+ 
+In addition, a discreet e-mail account should have certain characteristics, such as a gender-neutral 
+name. The handle should be comprised of numbers and letters that appear to be for 
+a purpose, giving it added credibility and authenticity. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.507 
+EXAMPLE  
+LS-194-2183@yahoo.com  
+ 
+eBay 
+The online auction website eBay.com can be a valuable resource for fraud examiners. It 
+maintains lengthy, detailed logs for each transaction, but this high-level information should 
+be obtained with a subpoena. To conduct a more general search using a person’s name or e-mail 
+address on eBay: 
+• Go to “Advanced Search” in the upper-right corner of eBay’s home page. 
+• Choose “Find a Member” from the left column. 
+• Type in the first half of the person’s personal e-mail address (e.g., for 
+crazybird@gmail.com, type “crazybird”). 
+ 
+After finding a match, the examiner should visit the user’s eBay profile and read everything 
+available on the page. An examiner can gain insight into a fraud examination by examining 
+any items the subject bought or sold and by reviewing any comments the subject has made.  
+ 
+Once the examiner has read the user’s comments, he should click the user’s “Feedback 
+Profile.” Along the right side of the page will be a few selectable items under “Member 
+Quick Links”; the investigator should select “View ID History” to see if the member has 
+changed his ID over the past ten years. In addition, the examiner can make the suspect one 
+of his “Favorite Sellers,” to receive alerts when the subject places new items for sale on 
+eBay. 
+ 
+The Whois Protocol 
+Whois is a query response protocol that is used to search databases that store domain 
+registration records, including domain name, server addresses, technical contacts, and 
+addresses. These databases can be queried at the following sites: 
+• Networksolutions.com will provide the ownership and registration information for a 
+website.  
+• Arin.net is a whois server that searches for the registrant and IP address range of a 
+particular IP address.  
+• Allwhois.com will find the whois database for a particular domain name.  
+• Whatismyipaddress.com provides a collection of tools for locating information about an 
+IP address.   
+• Traceroute.org—like whatismyipaddress.com— can be used to trace IP addresses.  
+Accessing Information Online  Investigation 
+3.508   2011 Fraud Examiners Manual  
+Craigslist 
+Craigslist.org is a network of online communities, featuring free classified advertisements 
+with sections dedicated to jobs, housing, personals, items for sale, services, résumés, and so 
+on.  
+ 
+The key to searching Craigslist is getting past the geographic restriction. For example, if the 
+examiner is looking for items in the Silicon Valley, he cannot search other areas at the same 
+time. To expand the search, the examiner must specify another area or use 
+SearchTempest.com, a tool that allows users to search multiple Craigslist sites at once.  
+ 
+Archive 
+Archive.org offers researchers and historians a view of other websites captured by the 
+Wayback Machine on a specific date. To access archived sites, enter a web address in the 
+search box, and the engine will return a list of archived dates available. For example, a search 
+of www.data2know.com returns a list of archived pages, starting on August 18, 2000.  
+ 
+Zoominfo 
+Another great resource on the Internet is Zoominfo.com. Zoominfo collates information 
+from websites and then software bots — also known as intelligent agents — capture and match to 
+particular individuals or companies.  
+ 
+Zoominfo searches are conducted by company, person, or industry. Although Zoominfo 
+searches can return a large amount of information, examiners must understand that this 
+information is generated from other websites and should be verified. 
+ 
+Zoominfo search results look résumés and include information like business experience, 
+association connections, education credentials, and so on.  
+ 
+GuideStar 
+GuideStar is a great starting point to find data about nonprofits. GuideStar gathers and 
+publicizes information about more than 850,000 nonprofit organizations. It obtains 
+information from a variety of sources, including the IRS’s Form 990 data—this provides 
+information on the filing organization’s mission, programs, and finances—and from 
+individual organizations.  
+ 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.509 
+Noza 
+Nozasearch.com is a Web-based database of charitable giving designed as a research tool for 
+nonprofit organizations. It gathers data about private foundations’ activities that might be of 
+interest to grant-seekers, philanthropic organizations, and individual donors.  
+ 
+Social-Networking Websites 
+Social-networking sites can be searched like traditional websites. Although a lot of the 
+information available on social-networking sites can be found using traditional search 
+engines, there is an ever-growing number of resources that an examiner can use to search 
+these sites. For example, each social network has a search engine for locating members by 
+name, phone number, or e-mail address. In general, users can search for members without 
+logging in (e.g., MySpace’s default settings allow non-members to view members’ 
+information) and searches can be done anonymously.  
+ 
+If, however, a member’s profile is private, the researcher will only see a snapshot of the 
+member’s information. For example, to view a member’s profile in Facebook or LinkedIn, 
+the researcher must connect with the other member. If an examiner wants to view a private 
+profile, he should create a compelling, attractive, and simple profile for himself and ask to be 
+invited into the subject’s network. It is not necessary to create a false identity, and examiners 
+should not use someone else’s identity. But if the examiner is interesting enough, good 
+looking enough, or just savvy enough, he will probably be accepted into the network.  
+ 
+An entirely separate category of search engines has been designed specifically to find 
+information within social networks. These search engines use social networks to order, 
+prioritize, or refine search results. Some popular social-networking search engines include 
+Spokeo, Yoname, Technorati, Icerocket, and FriendFeed. This section discusses these search 
+engines along with how to search photo-sharing sites. 
+ 
+SPOKEO 
+Spokeo is a social-network aggregator site that gathers information about people by 
+searching for their e-mail addresses on various social-networking sites. Essentially, it is 
+designed to locate and track online profiles within social networks. This site allows users to 
+search by a person’s name, e-mail address, or phone number. This can be helpful if an 
+examiner knows about the subject’s profile in Facebook and Myspace but is not aware that 
+the subject is also a member of Hi5 and Xanga.  
+ 
+Accessing Information Online  Investigation 
+3.510   2011 Fraud Examiners Manual  
+For investigators and researchers, this is an incredible tool that gathers subject information 
+in a way that other research tools cannot. One of Spokeo’s best features is its ability to track 
+activity on members’ profiles. If the subject posts something on one of the popular social-networking 
+sites, such as MySpace or Facebook, the post will appear in Spokeo’s search 
+results and that person will be tracked for future updates.  
+ 
+Spokeo allows a user to search and track a limited number of e-mail addresses or names for 
+free, but requires a fee after a certain number of searches. 
+ 
+YONAME 
+Yoname is similar to Spokeo, but it searches  many social networks that Spokeo does not. 
+Yoname is a free service, but the results can be random. Spokeo has a better return rate on 
+its searches. It is important to note that if an examiner searches by a user’s e-mail address, 
+Yoname will send the user an e-mail saying that someone was looking up “yo name” in 
+Yoname. Although the e-mail does not contain the searcher’s information, it could be 
+enough to alert a suspicious fraudster.  
+ 
+TECHNORATI 
+Technorati is a search engine for websites like YouTube, MySpace, Blog, Xanga, and so 
+forth. The engine searches blogs with a variety of filters. A user can search by entering a 
+topic into the Technorati search field, or he can use some of the site’s search categories, 
+including photos, videos, and blogs. Using Technorati’s Advanced Search option, the 
+examiner can narrow down a search to a particular blog and search by tags to sites that are 
+linked to a particular blog. Although getting started with Technorati can be difficult, it can 
+be a very useful resource. 
+ 
+ICEROCKET 
+Icerocket offers a unique array of tools. Backed by Mark Cuban, owner of the Dallas 
+Mavericks, Icerocket was designed to track what people were searching for. It focuses 
+primarily on blogs, using meta-tagging to categorize and index the content contained within 
+blogs. As a result, a user can search by keyword, which captures any relevant matches found 
+on a website and prioritizes matches marked as tagged searches. 
+ 
+Like Technorati, Icerocket also allows users to  narrow down blog searches with an advanced 
+search link or by using search operators, such as title, author, and tag. For example, a search 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.511 
+for [title:“public records”] would find pages with  “public records” in their title. Similarly, a 
+search for [title:“public records” author:“John Doe”] will return blog posts by John Doe that 
+have “public records” in their title. 
+ 
+In addition to searching blogs, Icerocket searches through image directories, Twitter, and 
+MySpace. Even though an examiner can search MySpace directly, the Icerocket search 
+engine tool for MySpace presents a more traditional search environment. 
+ 
+FRIENDFEED 
+FriendFeed is a real-time feed aggregator that consolidates the updates from social-networking 
+sites, social-bookmarking sites, blogs, and other types of RSS feed. FriendFeed 
+facilitates tracking users’ social-media activities (e.g., posting on blogs or Twitter) across a 
+broad range of different social networks. According to FriendFeed’s website, its goal is to 
+make Internet content more applicable and helpful by using social-network sites as tools for 
+discovering intriguing information.  
+ 
+ 
+
+
+
+:
+
+
+investig with the internet
+a great deal of inform can be access through the internet for littl or no cost thi
+section explain some internet basic as well as how to us it servic to obtain inform
+about peopl busi and fraud in gener
+the internet is a decentr global network of million of divers comput and
+comput network these network can all talk to each other becaus thei have agre to
+us a common commun protocol call tcpip which is name after it two most
+import protocol transmiss control protocol tcp and internet protocol ip
+essenti the internet is a tool for commun between peopl and busi in
+gener the internet is a giant network link togeth million of comput worldwid
+the internet is not organ by ani uniform system such as librari dewei decim
+system instead it remain a freefloat looselystrung gold mine of inform avail
+to those who understand how to us it unless you know the exact address of the internet
+site you ar look for it is necessari to learn how to find the inform
+an internet site or page is a singl web address gener introduc by a person or a
+compani to post inform on a topic or to gener or promot busi there ar a
+number of websit that will be of us to a fraud examin and some ar list and
+discuss at the end of thi chapter
+tradit method for find inform on the internet
+the most basic wai to find inform on the internet is to execut search us search
+engin or metasearch engin or to locat inform us websit directori
+access inform onlin investig
+3502 2011 fraud examin manual
+search engin
+search engin ar websit tool that allow you to type in keyword describ the subject in
+which you ar interest the search engin will then scour the page of the internet and
+attempt to locat page that mai have pertin inform for instanc in a search for the
+keyword fraud the search engin will like bring back a number of page that have some
+relev link to fraud such as the associ of certifi fraud examin websit locat
+at wwwacfecom there ar sever promin search engin on the internet and each
+function in a differ wai an extens list of search engin is provid at the end of the
+chapter howev a few of the more popular engin ar describ below
+googl
+googl is the mostus search engin in the unit state and ha advanc search
+capabl individu web page ar rank by the engin softwar accord to how
+often the page is link to by other determin the page import by the number of
+link and the ident of the link page googl is a good sourc for find target
+inform on a particular topic addition learn googlespecif search oper will
+provid the investig with an extrem power tool for onlin investig
+for exampl googl group is a searchabl usenet archiv it scan thousand of post
+of usenet group which ar electron bulletin board classifi by subject see
+newsgroup below a search us googl group will reveal instanc in which the
+term you specifi appear in a post on the internet you can search by the name or email
+address of user who have post to newsgroup or by subject keyword attach and
+so on
+bing
+bing formerli live search window live search and msn search is the current web
+search engin from microsoft bing automat group search result in differ
+categori depend on the type of search user ar conduct bing also provid the
+abil to save and share search histori via window live skydriv facebook and email
+in addit to provid mani of the same search resourc found in other popular engin
+eg it provid search specif to travel video pictur and map bing ha sever
+us featur for exampl bing maintain an ongo histori of search give
+research a wai to identifi what thei look up and in what order and bing imag
+search is easier to manag than other becaus it displai more imag on the result screen
+investig access inform onlin
+2011 fraud examin manual 3503
+altavista
+altavista is a detailori search engin becaus it read the individu text of everi page
+list on the internet altavista is veri us for find random inform if you ar
+simpli cast your line to see what inform might be avail on a topic thi is a
+good engin to us howev altavista search ar so thorough you will encount everi
+page that contain your keyword end with as mani as 200000 hit success altavista
+search requir you to construct your search carefulli
+yahoo
+yahoo is a multifacet websit contain a firstrat directori see below for more
+inform about directori but it is also equip with a search engin in 2009
+howev yahoo announc that it search engin would be power by bing and as of
+juli 2010 up to 25 percent of the search result provid by yahoo search ar power by
+bing
+excit
+excit search engin is good for broad gener topic becaus it a simultan search of
+the web new headlin sport score and compani inform result ar group on a
+singl page weed through the result can sometim be a chore
+lyco
+lyco provid advanc search capabl includ the abil to search for specif
+media it lyco pro featur allow user to finetun search lycoss index of web page
+is smaller than those of some other servic
+askcom
+formerli askjeev askcom is a good site for beginn and for gener queri the
+engin lead user through question to help narrow the search and also search six other
+search site for similar servic see metasearch engin below askcom abil to
+interpret natur languag make it easi to us though construct precis queri can be
+difficult for the same reason
+metasearch engin
+metasearch engin send user request to sever other search engin and displai the
+result some of the more common metasearch engin ar describ below
+access inform onlin investig
+3504 2011 fraud examin manual
+metacrawl
+metacrawl us metasearch technolog to search the internet top search engin
+includ googl yahoo search bing askcom and more it search the best result from
+the combin pool of the world lead search engin instead of result from onli on
+search engin
+dogpil
+own by infospac thi engin send a queri to a customiz list of search engin
+directori and specialti search site eg googl yahoo search bing askcom and then
+displai the result from each search engin individu onc the result ar retriev the
+innov metasearch technolog us by dogpil goe to work remov duplic and
+analyz the result to help ensur that the best result top the list the comparison view
+featur let user compar result from the lead engin with the click of a button
+mamma
+mamma is a smart metasearch engin everi time user type in a queri mamma
+simultan search a varieti of engin directori and content site properli format
+the word and syntax for each compil their result in a virtual databas elimin
+duplic and displai them in a uniform manner accord to relev
+surfwax
+surfwax claim to provid the best us of relev search result from the open internet it
+us a cohes matrix to search sort extract and relat inform from both the internet
+and enterpris intranet surfwax offer multipl search tool includ focusword
+searchset sitesnap and contextzoom
+directori
+the road to mine inform on the internet doe not alwai go through search engin
+some of the best investig tool an examin ha onlin ar directori as the name
+suggest directori ar special websit that collect the name of numer other relat
+websit allow the user to brows through a complet list of possibl site to visit
+directori contain link to page that have a common some allinclus directori
+cover a plethora of differ topic and other ar more focus on particular subject or
+disciplin these includ sever account and audit directori that fraud examin
+mai find veri us
+investig access inform onlin
+2011 fraud examin manual 3505
+the upsid to us directori is that you can logic navig a search eas through the
+differ categori until you find what you ar look for howev directori contain
+onli a portion of the site and page avail on the internet therefor the fraud examin
+should us directori in concert with a search engin and not instead of on
+yahoo
+in addit to it search engin yahoo ha an intric directori possibl the most
+comprehens and allinclus on the internet the directori is built and maintain by
+yahoo employe with input from user yahoo function much like a pyramid it begin
+with sever larg pool of categori such as entertain and govern and then
+allow the user to select more specif option from each broad categori for instanc an
+examin could select educ then univers then univers librari until
+final encount a direct link to the main librari catalog for the univers of texa by
+pare down your select to increasingli narrow topic you can gener find sever
+us websit
+virtual librari
+the virtual librari vl is the oldest catalog of the web start by tim bernersle the
+creator of the html that make the internet possibl unlik commerci catalog it is run
+by a loos confeder of volunt who compil page of kei link for particular area in
+which thei have expertis while not the biggest index of the web the vl page ar wide
+prais as guid to particular section of the internet
+internet public librari
+run by librarian thi servic index web page by topic the internet public librari also
+contain an arrai of guid such as onlin magazin and newspap associ and tip
+for conduct research
+open directori project
+found in 1998 open directori project dmozorg is the largest humanedit directori
+on the internet dmozorg provid noncommerci moder of regist site and is
+maintain by a commun of volunt editor it provid site list group into
+categori and subcategori
+access inform onlin investig
+3506 2011 fraud examin manual
+best of the web directori
+the best of the web directori is a commerci directori that provid site list
+categor by topic and region
+businesscom
+businesscom is an internet search engin and web directori that provid site list in
+more than 65000 busi categori
+nontradit method for find inform on the internet
+move beyond the us of googl and other tr adit method of search the internet is
+import for individu conduct fraud examin thi section will examin how to
+us the follow websit to obtain inform on the internet
+ebai
+whoi
+craigslist
+archiv
+zoominfo
+guidestar
+noza
+in addit to the abov site thi section will also discuss how an examin can find
+valuabl inform us social network site
+the websit address in thi discuss ar tri and true resourc that fraud examin
+should be comfort with us but befor us these site establish an undercov email
+account to us when search the email account should be set up through a webbas
+servic like hotmail yahoo or gmail examin should not us ani of the follow
+inform when creat the email account
+person name
+geograph region
+favorit sport team
+hobbi
+in addit a discreet email account should have certain characterist such as a genderneutr
+name the handl should be compris of number and letter that appear to be for
+a purpos give it ad credibl and authent
+investig access inform onlin
+2011 fraud examin manual 3507
+exampl
+ls1942183yahoocom
+ebai
+the onlin auction websit ebaycom can be a valuabl resourc for fraud examin it
+maintain lengthi detail log for each transact but thi highlevel inform should
+be obtain with a subpoena to conduct a more gener search us a person name or email
+address on ebai
+go to advanc search in the upperright corner of ebai home page
+choos find a member from the left column
+type in the first half of the person person email address eg for
+crazybirdgmailcom type crazybird
+after find a match the examin should visit the user ebai profil and read everyth
+avail on the page an examin can gain insight into a fraud examin by examin
+ani item the subject bought or sold and by review ani comment the subject ha made
+onc the examin ha read the user comment he should click the user feedback
+profil along the right side of the page will be a few select item under member
+quick link the investig should select view id histori to see if the member ha
+chang hi id over the past ten year in addit the examin can make the suspect on
+of hi favorit seller to receiv alert when the subject place new item for sale on
+ebai
+the whoi protocol
+whoi is a queri respons protocol that is us to search databas that store domain
+registr record includ domain name server address technic contact and
+address these databas can be queri at the follow site
+networksolutionscom will provid the ownership and registr inform for a
+websit
+arinnet is a whoi server that search for the registr and ip address rang of a
+particular ip address
+allwhoiscom will find the whoi databas for a particular domain name
+whatismyipaddresscom provid a collect of tool for locat inform about an
+ip address
+tracerouteorglik whatismyipaddresscom can be us to trace ip address
+access inform onlin investig
+3508 2011 fraud examin manual
+craigslist
+craigslistorg is a network of onlin commun featur free classifi advertis
+with section dedic to job hous person item for sale servic rsum and so
+on
+the kei to search craigslist is get past the geograph restrict for exampl if the
+examin is look for item in the silicon vallei he cannot search other area at the same
+time to expand the search the examin must specifi anoth area or us
+searchtempestcom a tool that allow user to search multipl craigslist site at onc
+archiv
+archiveorg offer research and historian a view of other websit captur by the
+wayback machin on a specif date to access archiv site enter a web address in the
+search box and the engin will return a list of archiv date avail for exampl a search
+of wwwdata2knowcom return a list of archiv page start on august 18 2000
+zoominfo
+anoth great resourc on the internet is zoominfocom zoominfo collat inform
+from websit and then softwar bot also known as intellig agent captur and match to
+particular individu or compani
+zoominfo search ar conduct by compani person or industri although zoominfo
+search can return a larg amount of inform examin must understand that thi
+inform is gener from other websit and should be verifi
+zoominfo search result look rsum and includ inform like busi experi
+associ connect educ credenti and so on
+guidestar
+guidestar is a great start point to find data about nonprofit guidestar gather and
+public inform about more than 850000 nonprofit organ it obtain
+inform from a varieti of sourc includ the irss form 990 datathi provid
+inform on the file organ mission program and financesand from
+individu organ
+investig access inform onlin
+2011 fraud examin manual 3509
+noza
+nozasearchcom is a webbas databas of charit give design as a research tool for
+nonprofit organ it gather data about privat foundat activ that might be of
+interest to grantseek philanthrop organ and individu donor
+socialnetwork websit
+socialnetwork site can be search like tradit websit although a lot of the
+inform avail on socialnetwork site can be found us tradit search
+engin there is an evergrow number of resourc that an examin can us to search
+these site for exampl each social network ha a search engin for locat member by
+name phone number or email address in gener user can search for member without
+log in eg myspac default set allow nonmemb to view member
+inform and search can be done anonym
+if howev a member profil is privat the research will onli see a snapshot of the
+member inform for exampl to view a member profil in facebook or linkedin
+the research must connect with the other member if an examin want to view a privat
+profil he should creat a compel attract and simpl profil for himself and ask to be
+invit into the subject network it is not necessari to creat a fals ident and examin
+should not us someon els ident but if the examin is interest enough good
+look enough or just savvi enough he will probabl be accept into the network
+an entir separ categori of search engin ha been design specif to find
+inform within social network these search engin us social network to order
+priorit or refin search result some popular socialnetwork search engin includ
+spokeo yonam technorati icerocket and friendfe thi section discuss these search
+engin along with how to search photoshar site
+spokeo
+spokeo is a socialnetwork aggreg site that gather inform about peopl by
+search for their email address on variou socialnetwork site essenti it is
+design to locat and track onlin profil within social network thi site allow user to
+search by a person name email address or phone number thi can be help if an
+examin know about the subject profil in facebook and myspac but is not awar that
+the subject is also a member of hi5 and xanga
+access inform onlin investig
+3510 2011 fraud examin manual
+for investig and research thi is an incred tool that gather subject inform
+in a wai that other research tool cannot on of spokeo best featur is it abil to track
+activ on member profil if the subject post someth on on of the popular socialnetwork
+site such as myspac or facebook the post will appear in spokeo search
+result and that person will be track for futur updat
+spokeo allow a user to search and track a limit number of email address or name for
+free but requir a fee after a certain number of search
+yonam
+yonam is similar to spokeo but it search mani social network that spokeo doe not
+yonam is a free servic but the result can be random spokeo ha a better return rate on
+it search it is import to note that if an examin search by a user email address
+yonam will send the user an email sai that someon wa look up yo name in
+yonam although the email doe not contain the searcher inform it could be
+enough to alert a suspici fraudster
+technorati
+technorati is a search engin for websit like youtub myspac blog xanga and so
+forth the engin search blog with a varieti of filter a user can search by enter a
+topic into the technorati search field or he can us some of the site search categori
+includ photo video and blog us technorati advanc search option the
+examin can narrow down a search to a particular blog and search by tag to site that ar
+link to a particular blog although get start with technorati can be difficult it can
+be a veri us resourc
+icerocket
+icerocket offer a uniqu arrai of tool back by mark cuban owner of the dalla
+maverick icerocket wa design to track what peopl were search for it focus
+primarili on blog us metatag to categor and index the content contain within
+blog as a result a user can search by keyword which captur ani relev match found
+on a websit and priorit match mark as tag search
+like technorati icerocket also allow user to narrow down blog search with an advanc
+search link or by us search oper such as titl author and tag for exampl a search
+investig access inform onlin
+2011 fraud examin manual 3511
+for titlepubl record would find page with public record in their titl similarli a
+search for titlepubl record authorjohn doe will return blog post by john doe that
+have public record in their titl
+in addit to search blog icerocket search through imag directori twitter and
+myspac even though an examin can search myspac directli the icerocket search
+engin tool for myspac present a more tradit search environ
+friendfe
+friendfe is a realtim feed aggreg that consolid the updat from socialnetwork
+site socialbookmark site blog and other type of rss feed friendfe
+facilit track user socialmedia activ eg post on blog or twitter across a
+broad rang of differ social network accord to friendfe websit it goal is to
+make internet content more applic and help by us socialnetwork site as tool for
+discov intrigu inform

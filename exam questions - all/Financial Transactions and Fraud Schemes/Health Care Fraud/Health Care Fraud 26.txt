@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The list of health care providers that have been involved in fraudulent billing for services furnished to nursing facility patients includes which of the following?
+
+Options=DME suppliers | Physicians | Optometrists | All of the above have been guilty
+
+CorrectResponse=3
+
+Explanation=Nursing homes have become a multibillion dollar business in the last few years. As such, they have become a common target of fraud. A wide array of providers—including durable medical equipment (DME) suppliers, laboratories, physicians, optometrists, and psychiatrists—have been involved in fraudulent or abusive billing for services and supplies furnished to nursing facility patients. Most fraudulent activity involves billing for unnecessary or undelivered services, or misrepresenting a service to obtain reimbursement.See page(s) 1.1237 in the Fraud Examiner’s Manual

@@ -1,0 +1,9 @@
+Section=White-Collar Crime
+
+Stem="Social status" or "class" plays no role in the commission of white-collar crime.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=What is loosely called ‘ class’’ or “social status�? does have an effect on crimes. For example, one defendant used his position as chairman of a local bank board to set up loans for his ailing wood chip company. The loans would never have been approved without the chairman’s influence, and he never reported them in his proxy statement to the bank’s shareholders.See page(s) 4.407 in the Fraud Examiner's Manual

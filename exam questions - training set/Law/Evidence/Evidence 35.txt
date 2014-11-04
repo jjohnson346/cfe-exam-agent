@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Whether or not a particular piece of evidence is relevant or not depends on what the evidence is offered to prove. For example, evidence may be relevant to prove intent but irrelevant (and, therefore, not admissible) to prove that the defendant is a person of low character.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Whether a particular piece of evidence is relevant depends on what the evidence is offered to prove. An item of evidence may be relevant and admissible if offered to prove one thing, but not relevant and inadmissible if offered to prove something else. For example, under Rule 404(b) of the Federal Rules of Evidence, evidence of other crimes, wrongs, or acts committed by the defendant would not be admissible if offered to prove that the defendant is generally a bad person, and therefore is likely to have committed the crime with which he is charged. But evidence would be admissible if offered to prove motive, intent, identity, absence of mistake, or modus operandi, if such factors are at issue. See page(s) 2.703 in the Fraud Examiner's Manual.

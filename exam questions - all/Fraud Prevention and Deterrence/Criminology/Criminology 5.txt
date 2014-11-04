@@ -1,0 +1,9 @@
+Section=Criminology
+
+Stem=The theory of differential association is used frequently to explain white-collar criminality. Which of the following is NOT one of the assertions or principles of differential association?
+
+Options=Learning differs from pure imitation | Criminal behavior is learned | People are born to be criminals | Criminal behavior is acquired through participation with intimate personal groups
+
+CorrectResponse=2
+
+Explanation=The theory of differential association was developed by criminologist Edwin Sutherland. It states that: (1) criminal behavior is learned; (2) it is learned from other people in a process of communication; (3) criminal behavior is acquired through participation with intimate personal groups; (4) the learning process includes the shaping of motives, drives, rationalizations and attitudes; (5) motives are learned from definitions of legal codes as being favorable or unfavorable; (6) a person becomes criminal because of an excess of definitions favorable to violation of the law over definitions unfavorable to violation of the law; (7)differential association may vary in frequency, duration, priority, and intensity; (8) learning criminal behavior involves all the mechanisms of other learning; (9) learning differs from pure imitation; and (10) while criminal behavior is an expression of general needs and values, it is not explained by these needs and values.See page(s) 4.206-4.208 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Ethics for Fraud Examiners
+
+Stem=Professional ethics decisions usually turn on these questions: (1) "What written and unwritten rules govern my behavior?" and (2) "What are the possible consequences of my choices?".
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=One of the key elements in ethics is reflective choice. Ethical problems almost always involve projecting yourself into a future in which you have to live with your decisions. Professional ethics decisions usually turn on these questions: ‰??What written and unwritten rules govern my behavior?‰?? and ‰??What are the possible consequences of my choices?‰??See page(s) 4.902 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Which Amendment to the Constitution covers search and seizure?
+
+Options=First Amendment | Fifth Amendment | Sixth Amendment | Fourth Amendment
+
+CorrectResponse=3
+
+Explanation=The Fourth Amendment covers search and seizure. It states: "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizure, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized."See page(s) 2.501 in the Fraud Examiner's Manual

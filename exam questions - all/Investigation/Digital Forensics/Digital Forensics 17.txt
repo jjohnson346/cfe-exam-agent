@@ -1,0 +1,9 @@
+Section=Digital Forensics
+
+Stem=The analysis phase of a computer forensics examination involves acquiring an image of the suspect system and using the proper software tools to capture and preserve the image.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The image-acquisition phase involves the use of decision-making processes to determine the best method for acquiring an image of the suspect system and the proper use of software and hardware tools to facilitate the image capture. The examiner has to be sure that the image is created and preserved in a manner that will withstand a legal challenge. The analysis phase is arguably the most time consuming phase, especially for a financial crime or fraud investigation. This phase involves the use of specialized software designed to give the examiner the means to locate and extract artifacts that will be used as evidence in the investigation. The evidence can serve to incriminate the subject of the investigation or it can be exculpatory by disproving the subject’s involvement.See page(s) 3.719-3.720 in the Fraud Examiner's Manual

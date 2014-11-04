@@ -1,0 +1,9 @@
+Section=Fraudulent Disbursements
+
+Stem=In order for a ghost employee scheme to be successful, all of the following must happen EXCEPT:
+
+Options=The ghost employee must be a fictitious person and not a real person. | A fictitious person or a real person who does not work for the victim must be added to the payroll. | A paycheck must be issued and delivered to the ghost. | Timekeeping information must be collected for the ghost.
+
+CorrectResponse=0
+
+Explanation=In order for a ghost-employee scheme to work, four things must happen: (1) the ghost must be added to the payroll, (2) timekeeping and wage rate information must be collected, (3) a paycheck must be issued to the ghost, and (4) the check must be delivered to the perpetrator or an accomplice. The ghost employee may be a fictitious person or a real individual who simply does not work for the victim employer. When the ghost is a real person, it is often a friend or relative of the perpetrator. In some cases, the ghost employee is an accomplice of the fraudster who cashes the fraudulent paychecks and splits the money with the perpetrator.See page(s) 214 in the Corporate Fraud Handbook

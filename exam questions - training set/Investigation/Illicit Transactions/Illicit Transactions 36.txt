@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The expenditures method involves identifying all assets held by the subject that were acquired earlier, identifying the amount of the subject's current liabilities, and taking the difference between the two values.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Identifying assets previously acquired, identifying current liabilities, and taking the difference between the two is the asset method, not the expenditures method. The expenditures method involves comparing the subject‰??s known expenditures and known sources of funds during a given period. Any excess expenditures can only be explained as income from unknown sources.See page(s) 3.840, 3.842 in the Fraud Examiner's Manual

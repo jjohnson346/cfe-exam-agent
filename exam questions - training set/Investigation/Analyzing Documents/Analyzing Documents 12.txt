@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=A ___________________________ forgery is a writing, usually a signature, prepared by carefully copying or tracing a model example of another person's writings.
+
+Options=Autoforgery | Freehand | Simulated | None of the above
+
+CorrectResponse=2
+
+Explanation=A simulated or traced forgery is a writing, usually a signature, prepared by carefully copying or tracing a model example of another person‰??s writings. Although identifiable as a forgery, a simulated or traced signature forgery often does not contain enough normal handwriting characteristics of the forger to permit expert identification.See page(s) 3.110 in the Fraud Examiner's Manual

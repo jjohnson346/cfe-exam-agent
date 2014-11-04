@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=At trial, the plaintiff wants to introduce into evidence a series of memos. These memos were prepared by the defendant's accounting department at the end of each business day. Which of the following statements about the memos is true?
+
+Options=They are irrelevant and therefore not admissible | They are hearsay and therefore not admissible | They are hearsay but may be admissible if they were prepared specifically for trial | They are hearsay but may be admissible under one of the recognized hearsay exceptions
+
+CorrectResponse=3
+
+Explanation=Business and government records are technically hearsay because they’re prepared outside the courtroom. However, a special exception for these materials makes them admissible if they are provided with a legal foundation. The admissibility of records rests on two criteria: have they been prepared during “regularly conducted business activity?�? and are they verifiably trustworthy? Materials prepared specifically for trial are not admissible as business records. Anything which casts doubt on the veracity of these documents can bar them. In situations where the charge involves altered documents, the materials are admitted to prove the charge of alteration—not for their truth value—so the hearsay rule doesn’t apply.See page(s) 2.719-2.720 in the Fraud Examiner's Manual

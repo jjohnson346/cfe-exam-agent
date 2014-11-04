@@ -1,0 +1,9 @@
+Section=Testifying as an Expert Witness
+
+Stem=Baker is a CFE who has been hired by the plaintiffs attorney to testify as an expert in federal court. The attorney gave Baker a number of documents that he reviewed to create his report. If requested, Baker must not provide these documents to the opposing party because they are protected by the attorney work product privilege.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=The rule is that if an expert will testify at trial, everything he does regarding the case must be turned over to the other side. If an expert works only as a consultant to the attorney, then his work product is not discoverable. Just remember this, if you are hired to testify at trial, ANYTHING you used to form your opinion will be subject to review by the opposing party. This includes notes from other experts, documents received from the plaintiff or defendant, and any documents or notes from the attorney.See page(s) 2.807-2.808 in the Fraud Examiner's Manual

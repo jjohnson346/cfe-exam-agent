@@ -1,0 +1,9 @@
+Section=Manager's and Auditor's Responsibilities
+
+Stem=As required by the Sarbanes-Oxley Act, the SEC has laid out a detailed code of ethics, including specific requirements, procedures, and sanctions, that must be adopted for all senior financial officers of public companies.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=As required by the Sarbanes-Oxley Act, public companies must disclose in their annual report whether they have adopted a code of ethics for senior financial officers, and if they have not, they must explain their reasoning. The SEC believes that the establishment of the detailed provisions of the code of ethics is best left to the discretion of the company. Therefore, the rules do not specify any detailed requirements, particular language, compliance procedures, or sanctions for violations that must be included in the code of ethics. The SEC, however, does encourage the adoption of codes that are broader and more comprehensive than necessary to meet the new disclosure requirements.See page(s) 1.209 in the Fraud Examiner's Manual

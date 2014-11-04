@@ -1,0 +1,9 @@
+Section=Civil Justice System
+
+Stem=Under the federal system, documents in civil cases are obtained from the opposing party by which mechanism?
+
+Options=Requests to produce documents | Requests for admission | Search warrants | None of the above
+
+CorrectResponse=0
+
+Explanation=Requests to produce documents may be served on opposing parties. Records from third-party witnesses or institutions may be obtained by subpoenas that often must be accompanied by deposition notices as well to take testimony to authenticate the documents.See page(s) 2.605 in the Fraud Examiner's Manual

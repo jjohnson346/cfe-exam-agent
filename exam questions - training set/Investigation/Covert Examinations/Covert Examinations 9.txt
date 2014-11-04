@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Blake, a Certified Fraud Examiner, was approached by Gamma, the ex-girlfriend of Oscar, a fraud suspect. She offered to provide critical information about Oscar's fraud in exchange for full confidentiality. What should Blake do?
+
+Options=Deny Gamma's request | Offer limited confidentiality | Agree to Gamma's request | None of the above
+
+CorrectResponse=1
+
+Explanation=When dealing with a confidential informant, the examiner is not in a position to offer unqualified confidentiality. Therefore, any promises made to the informant should be qualified. The examiner should explain to the informant that all steps possible will be taken to ensure complete confidentiality; however, no absolute assurances can be given.See page(s) 3.318 in the Fraud Examiner's Manual

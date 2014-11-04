@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Anyone who induces another to commit an offense can be held guilty of:
+
+Options=Conspiracy | Misprision of a felony | Aiding and abetting | None of the above
+
+CorrectResponse=2
+
+Explanation=The aiding and abetting statute (Title 18, U.S. Code Section 2) provides that anyone who induces another to commit an offense, or who aids in its commission may himself be charged and convicted of the underlying offense and subject to its penaltiesSee page(s) 2.332 in the Fraud Examiner's Manual

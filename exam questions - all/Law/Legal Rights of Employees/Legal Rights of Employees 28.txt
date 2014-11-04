@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=ABC Company wants to protect its right to search employees' desk drawers. Which of the following is the single best method for accomplishing this goal?
+
+Options=Informing employees orally of the policy when they are hired | A sign posted in the break room | A written policy given to all employees stating what areas the company will search | None of the above
+
+CorrectResponse=2
+
+Explanation=To lower the expectation of privacy and to preserve the right to search any and all areas, the employer should adopt a written policy which provides that in order to maintain the security of its operations, the company will gain access to and search all work areas and personal belongings, including desks, file drawers, lockers, briefcases, handbags, pockets, and personal effects.See page(s) 2.424 in the Fraud Examiner's Manual

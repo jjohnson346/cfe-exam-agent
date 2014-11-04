@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=__________________ controls are designed to stop something bad from happening before it occurs, while _________________ controls are designed to identify something bad that has already occurred.
+
+Options=Detective; investigative | Investigative; detective | Investigative; deterrent | Preventive; detective
+
+CorrectResponse=3
+
+Explanation=Preventive controls are those manual or automated processes that stop something bad from happening before it occurs. Detective controls can also be manual or automated, but are designed to identify something bad that has already occurred.See page(s) 4.802 in the Fraud Examiner's Manual

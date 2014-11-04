@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Most telemarketing fraud calls are placed during the evening.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Telemarketers usually call in the evening. Nighttime calls find people of every age in more impulsive moods. Seniors may be more vulnerable to pitches promising them extra money and luxury goods because many live on fixed incomes. These lottery-style gambits can seem like an easy way for the elderly to improve their financial status.

@@ -1,0 +1,145 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for the General Ledger
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Fraud Detection Techniques for the General Ledger 
+STRATIFY GENERAL LEDGER DETAIL INFORMATION 
+Look at the multitude of activities in a gene ral ledger and ask yourself, “How can I survey 
+this data in an extremely quick manner while efficiently planning my audit?” This test should 
+provide the answer because it helps the auditor focus on large-dollar postings, while 
+assessing the administrative burden of maintaining low-dollar activity. 
+ 
+The stratification report should be reviewed for: 
+• Unreasonably large balances for which the activity could be queried for recalculation and 
+proper classification 
+• A high number of transactions with low accumulated activity for possible consolidation 
+• Planning detailed testing of the journal entry approval process 
+Data Analysis and Reporting Tools  Investigation 
+3.626   2011 Fraud Examiners Manual  
+JOURNAL ENTRY GAP TESTS 
+Gaps may signal incomplete data processing or, in the situation of journal entries, possible 
+hidden entries. Usually, a method of documenting these occurrences, along with a review by 
+an independent party, is sufficient to ensure the completeness and accuracy of processing. 
+However, it is rare that a journal entry gap test is performed in the accounting department (it 
+is more common in the accounts payable area related to the check sequence), so this may be 
+the first time this test is being performed. 
+ 
+Gaps in the journal entry sequence should be reviewed with the accounting department. The 
+test work should answer the following questions: 
+• What procedures are in place to document and approve all gaps in the sequences? 
+• How are gaps communicated to management? 
+ 
+IDENTIFY NONSTANDARD JOURNAL ENTRIES MADE IN A TIMEFRAME AFTER YEAR 
+END RELATED TO SPECIFIC ACCOUNTS 
+Nonstandard journal entries are generally those that are posted manually, rather than 
+through an automated feed from a fixed asset or accounts receivable sub-ledger. Such entries 
+are more prone to error and fraud mainly due to human error, the judgment applied to 
+support the entry, and the possibility of an override by management in authorizing the entry. 
+This is especially true for entries made just after year end (related to the prior year), as these 
+entries are more prone to be adjustments for the fiscal year’s annual reporting. 
+ 
+Given the above, the test for these entries should include: 
+• Reviewing the journal entry and associated supporting documentation 
+• Ensuring the approvals are appropriate for the size and nature of the journal entry 
+• Assessing whether generally accepted accounting principles (GAAP) are being applied 
+ 
+SUMMARIZE ACTIVITY BY USER ACCOUNT 
+This test looks for: 
+• Standard names such as “default” or “test.” These names usually have equally simple 
+passwords for a hacker to guess and should generally be avoided. Replacements to these 
+generic user IDs would be specific IDs associated with the person using the system (e.g., 
+“jsmith”). 
+• Unrecognized or terminated employees. This test focuses on the responsiveness within 
+the MIS function to ensure that only authorized employees have system access. Compare 
+the list created by this test to an active employee roster to spot any violations. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.627 
+• Users who have access beyond their level of responsibility. This access may highlight a 
+nonsegregation of duties in which a person has an opportunity to commit fraud by being 
+able to initiate, authorize, and/or record a transaction. 
+ 
+The resulting report should be reviewed bearing in mind the above considerations. 
+Recommended steps include: 
+• Delete default passwords and replace them with specific IDs 
+• Delete employees who are not on the active employee roster 
+• Review users who are posting high activity or who may have access to other non-
+ segregated functions and assess whether other controls are needed to mitigate the such 
+individuals’ access 
+ 
+
+
+
+:
+
+
+fraud detect techniqu for the gener ledger
+stratifi gener ledger detail inform
+look at the multitud of activ in a gene ral ledger and ask yourself how can i survei
+thi data in an extrem quick manner while effici plan my audit thi test should
+provid the answer becaus it help the auditor focu on largedollar post while
+assess the administr burden of maintain lowdollar activ
+the stratif report should be review for
+unreason larg balanc for which the activ could be queri for recalcul and
+proper classif
+a high number of transact with low accumul activ for possibl consolid
+plan detail test of the journal entri approv process
+data analysi and report tool investig
+3626 2011 fraud examin manual
+journal entri gap test
+gap mai signal incomplet data process or in the situat of journal entri possibl
+hidden entri usual a method of document these occurr along with a review by
+an independ parti is suffici to ensur the complet and accuraci of process
+howev it is rare that a journal entri gap test is perform in the account depart it
+is more common in the account payabl area relat to the check sequenc so thi mai be
+the first time thi test is be perform
+gap in the journal entri sequenc should be review with the account depart the
+test work should answer the follow question
+what procedur ar in place to document and approv all gap in the sequenc
+how ar gap commun to manag
+identifi nonstandard journal entri made in a timefram after year
+end relat to specif account
+nonstandard journal entri ar gener those that ar post manual rather than
+through an autom feed from a fix asset or account receiv subledg such entri
+ar more prone to error and fraud mainli due to human error the judgment appli to
+support the entri and the possibl of an overrid by manag in author the entri
+thi is especi true for entri made just after year end relat to the prior year as these
+entri ar more prone to be adjust for the fiscal year annual report
+given the abov the test for these entri should includ
+review the journal entri and associ support document
+ensur the approv ar appropri for the size and natur of the journal entri
+assess whether gener accept account principl gaap ar be appli
+summar activ by user account
+thi test look for
+standard name such as default or test these name usual have equal simpl
+password for a hacker to guess and should gener be avoid replac to these
+gener user id would be specif id associ with the person us the system eg
+jsmith
+unrecogn or termin employe thi test focus on the respons within
+the mi function to ensur that onli author employe have system access compar
+the list creat by thi test to an activ employe roster to spot ani violat
+investig data analysi and report tool
+2011 fraud examin manual 3627
+user who have access beyond their level of respons thi access mai highlight a
+nonsegreg of duti in which a person ha an opportun to commit fraud by be
+abl to initi author andor record a transact
+the result report should be review bear in mind the abov consider
+recommend step includ
+delet default password and replac them with specif id
+delet employe who ar not on the activ employe roster
+review user who ar post high activ or who mai have access to other non
+segreg function and assess whether other control ar need to mitig the such
+individu access

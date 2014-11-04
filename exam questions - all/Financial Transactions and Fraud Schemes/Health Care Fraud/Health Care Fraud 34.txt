@@ -1,0 +1,9 @@
+Section=Health Care Fraud
+
+Stem=The most common managed care arrangements are modified traditional coverage, HMOs, and PPOs.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The most common managed care arrangements are:	• Modified traditional coverage	• HMOs	• PPOs	See page(s) 1.1242 in the Fraud Examiner’s Manual

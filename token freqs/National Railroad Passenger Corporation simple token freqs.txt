@@ -1,0 +1,31 @@
+Token                          Frequency
+-----------------------------  ---------
+methods                                1
+railroad                               4
+subc                                   1
+travel                                 1
+corporation                            2
+passengers                             1
+of                                     2
+amtrak                                 1
+dates                                  1
+maintains                              1
+on                                     1
+train                                  1
+industry                               1
+information                            1
+schedules                              1
+payment                                1
+national                               2
+the                                    2
+ontractors                             1
+and                                    3
+passenger                              2
+including                              1
+routes                                 1
+reservation                            1
+contractors                            1
+histories                              1
+vendors                                1
+
+Totals:                     27        37

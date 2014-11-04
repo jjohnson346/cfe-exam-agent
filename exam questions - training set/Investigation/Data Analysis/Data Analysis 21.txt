@@ -1,0 +1,9 @@
+Section=Data Analysis
+
+Stem=Beta, a fraud examiner, is concerned that employees are abusing their expense accounts and are spending more than the $30 per day allowed for meals. Beta performs a data analysis on all expense reports to locate any meal expenses greater than $30. This type of data analysis function is called _______________________.
+
+Options=Horizontal analysis | Vertical analysis | Compliance verification | Multi-file processing
+
+CorrectResponse=2
+
+Explanation=Compliance verification determines whether company policies are met by employee transactions. If a company limits the amount of its reimbursements, the software can check to see that this limit is being observed. Many times fraud examiners can find early indications of fraud by testing detail data for values above or below specified amounts. For example, when employees are out of town, do they adhere to company policy of spending not more than S30 per day for meals? To start, we can look at all expense report data and select those v/ith daily meal expenses exceeding $30. With the information returned from this simple query, we have a starting point for suspecting fraud.See page(s) 3.608 in the Fraud Examiner's Manual

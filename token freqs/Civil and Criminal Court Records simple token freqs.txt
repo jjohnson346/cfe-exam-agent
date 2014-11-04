@@ -1,0 +1,29 @@
+Token                          Frequency
+-----------------------------  ---------
+cause                                  1
+provide                                1
+can                                    1
+court                                  2
+date                                   1
+of                                     2
+federal                                1
+criminal                               2
+name                                   1
+action                                 1
+current                                1
+civil                                  2
+defendant                              1
+disposition                            1
+information                            1
+status                                 1
+plaintiff                              1
+number                                 1
+the                                    5
+filing                                 1
+and                                    4
+valuable                               1
+including                              1
+case                                   2
+records                                2
+
+Totals:                     25        38

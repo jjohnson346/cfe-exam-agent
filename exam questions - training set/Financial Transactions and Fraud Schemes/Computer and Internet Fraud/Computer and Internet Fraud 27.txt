@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=All of the following are common control techniques in a computerized system EXCEPT:
+
+Options=Edit checks | Password encryption matching | One-for-one checking | Computer sequence checking
+
+CorrectResponse=1
+
+Explanation=The following control techniques are commonly used in computerized systems: (1) One-for-one checking consists of checking each source document against a detailed list processed by the computer. (2) Batch/control totals involve manually grouping transactions at the input stage and manually establishing a control total over the entire group. (3) In computer sequence checking, the computer verifies the preassigned serial numbers of input transactions and reports missing or duplicate numbers. (4) Computer matching consists of the computer matching the input data to information held on the master file or suspense files. (5) Programmed edit checks are computer program procedures that edit data. (6) Prerecorded input is used to reduce errors during data entry.See page(s) 1.1846-1.1847 in the Fraud Examiner's Manual

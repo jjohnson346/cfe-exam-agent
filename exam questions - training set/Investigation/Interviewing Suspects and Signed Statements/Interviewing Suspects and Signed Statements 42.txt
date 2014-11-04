@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=When preparing the room for an admission-seeking interview, which is the LEAST important of all considerations?
+
+Options=Types of locks on the door | Privacy afforded by the room | Type of decorations in the room | All of the above are equally important
+
+CorrectResponse=0
+
+Explanation=The location should establish a sense of a privacy. The door should be closed but not locked, and there should be no physical barriers preventing the target from leaving. This is to avoid allegations of "custodial interrogation.‰?? Distractions should be kept to a minimum. Ideally, there should be no photographs, windows, or other objects in the room.	Chairs should be placed about four to six feet apart, and the accused should not be permitted to sit behind a desk. This is to prohibit a psychological barrier for the accused to "hide behind."See page(s) 3.249-3.250 in the Fraud Examiner's Manual

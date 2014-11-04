@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=Which of the following should be emphasized in an employee reporting program? I.	Fraud, waste, and abuse occur in only a few companies. II.	The company actively encourages employees with information to come forward. III.	The employee's name must be disclosed. IV.	The report need not be made to one's immediate supervisor
+
+Options=II and III | I, II, and IV | I, II, III. and IV | II and IV
+
+CorrectResponse=3
+
+Explanation=Each employee in the company should know where to report suspicious, unethical, or illegal behavior. A reporting program should emphasize that:‰?¢	Fraud, waste, and abuse occur in nearly all companies.‰?¢	Such conduct costs the company jobs and profits.‰?¢	The company actively encourages any employee with information to be able to come forward.See page(s) 4.722 in the Fraud Examiner's Manual

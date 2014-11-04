@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Delta, a fraud suspect, has been charged criminally. Before her trial she contacted witnesses against her and tried to get them to change their stories. Delta could be further charged with:
+
+Options=Obstruction of justice | Misprision of a felony | Aiding and abetting | None of the above
+
+CorrectResponse=0
+
+Explanation=Delta could probably be charged with obstruction of justice. These statutes punish efforts to impede or obstruct the investigation or trial of other substantive offenses. In the federal code, there are several obstruction statutes which punish, among other things, the attempted or actual destruction of evidence, tampering with or threatening witnesses, jurors or other court personnel.See page(s) 2.332 in the Fraud Examiner's Manual

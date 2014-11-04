@@ -1,0 +1,9 @@
+Section=Illicit Transactions
+
+Stem=The _______________________________ method is used to prove illicit income circumstantially, by showing that a person's assets or expenditures for a given period exceed those that can be accounted for from known or admitted sources of income.
+
+Options=Sampling | Net worth | Benford's | Attribute
+
+CorrectResponse=1
+
+Explanation=The net-worth method (or comparative net-worth analysis) is used to prove illicit income circumstantially, by showing that a person's assets or expenditures for a given period exceed that which can be accounted for from known or admitted sources of income. The net-worth method is a reliable method for estimating a person's ill-gotten gains.See page(s) 3.833 in the Fraud Examiner's Manual

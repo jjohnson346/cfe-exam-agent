@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=According to the Investment Company Act of 1940, investment companies are divided into three categories. Companies organized under a trust indenture or contract of agency, or those similar in nature, which do not have a board of directors, and issue only redeemable securities are known as:
+
+Options=Face amount certificate companies | Unit investment trust companies | Management companies | None of the above
+
+CorrectResponse=1
+
+Explanation=Under the Investment Company Act of 1940, investment companies are required to register with the SEC, which also regulates their activities. This Act dictates qualifications for officers and directors, requires that certain matters be submitted for stockholder approval, and mandates SEC permission for certain transactions such as those between insiders and affiliates. It divides investment companies into three categories:‰?¢	Face-amount certificate companies: Companies engaged in issuing face-amount certificates of the installment type.‰?¢	Unit investment trusts: Companies organized under a trust indenture or contract of agency, or those similar in nature, which do not have a board of directors and issue only redeemable securities.‰?¢	Management companies: Firms that do not fit the criteria of the first two categories, including open- and closed-end companies, whether listed on securities exchanges or not.See page(s) 1.1503 in the Fraud Examiner‰??s Manual

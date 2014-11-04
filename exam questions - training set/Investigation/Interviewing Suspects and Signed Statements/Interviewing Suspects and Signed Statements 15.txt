@@ -1,0 +1,9 @@
+Section=Interviewing Suspects and Signed Statements
+
+Stem=Blue, a Certified Fraud Examiner, is conducting an admission-seeking interview of Green, a fraud suspect. Blue's "theme" for Green's fraud was that Green was unfairly treated at work. But Green doesn't seem to accept this theme. What should Blue do?
+
+Options=Continue to repeat the theme | Terminate the interview | Select another theme | None of the above
+
+CorrectResponse=2
+
+Explanation=Once the accusation has been made, repeated, and denials are stopped, it is time for the interviewer to establish a morally acceptable rationalization that v/ill allow the accused to square the misdeed with his conscience. It is not necessary that this theme be related to the underlying causes of the misconduct. It is common and acceptable for the accused to explain away the moral consequences of the action by seizing onto any plausible explanation other than being a "bad person." If the accused does not seem to relate to one theme, the interviewer should go on to another until one seems to fit. Thereafter, that theme should be developed fully. Note that the theme development explains away the moral‰??but not the legal‰??consequences of the misdeed. The interviewer is cautioned not to make any statements that would lead the accused to believe he will be excused from legal liability by cooperating.See page(s) 3.255 in the Fraud Examiner's Manual

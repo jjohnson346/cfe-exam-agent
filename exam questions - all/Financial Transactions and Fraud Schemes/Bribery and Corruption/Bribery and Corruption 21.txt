@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=All of the following terms describe characteristics of a corrupt payer EXCEPT:
+
+Options=The "Too Successful Bidder"	| The "One-Person Operation" | The "Gift Bearer" | The "Big Spender"
+
+CorrectResponse=3
+
+Explanation=Typical signs of a corrupt payer include: (1) the "Gift Bearer," (2) the "Sleaze Factor" (3) the "Too Successful Bidder." (4) poor quality, higher prices, or (5) the "One-Person Operation." The "Big Spender" is a typical sign of a corrupt recipient.See page(s) 1.717 in the Fraud Examiner's Manual

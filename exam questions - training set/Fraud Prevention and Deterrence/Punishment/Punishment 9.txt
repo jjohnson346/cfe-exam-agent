@@ -1,0 +1,9 @@
+Section=Punishment
+
+Stem=In the area of criminal justice, _______________________ is the planned release and community supervision of incarcerated offenders before the actual expiration of their prison sentence.
+
+Options=Parole | Pardon | Probation | Community release
+
+CorrectResponse=0
+
+Explanation=Parole (from the French, and meaning "word' as in ‰??v/ord of honor) is the planned release and community supervision of offenders before the expiration of their sentence Under most state laws, an offender is eligible for parole after serving one-third of his sentence. Parole decisions usually are made by a board or a commission, based on its members‰?? conclusion regarding whether the offender will remain at liberty without violating the law. There is pressure on parole board members to be notably conservative in their actions, because any repetition of an offense by someone they release, particularly if the offense is heinous, will trigger community outrage against the board. On the other hand, overcrowded prison conditions dictate early release to make room for newcomers.See page(s) 4.314 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Fraud Prevention Programs
+
+Stem=In order for its compliance program to be considered effective under the Federal Sentencing Guidelines, the organization must communicate its program to all its employees. Although training regarding the program is encouraged, it is not required by the Guidelines.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Under the Sentencing Guidelines, organizations MUST conduct "effective training programs." Organizations are also required to periodically and appropriately communicate the program's compliance requirements and procedures to all employees affected by the program, including upper-level personnel. These programs should be designed to inform employees about the company's stance on corporate compliance. They should also inform employees about what kinds of acts and omissions are prohibited by the law and by the organization.See page(s) 4.710 in the Fraud Examiner's Manual

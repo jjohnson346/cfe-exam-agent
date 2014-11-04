@@ -1,0 +1,294 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Accounts Payable
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Fraud Detection Techniques for Accounts Payable 
+VENDOR SUMMARY TOTALS PERIOD ONE TO PERIOD TWO COMPARISON 
+This is a basic analytical report to identify trends in a vendor’s purchase history. A trend 
+analysis should be completed to identify key vendors with whom activity has increased or 
+decreased substantially. This can best be assessed using the dollar and percentage variance 
+fields, which can be added as calculated fields in Excel. Based on the changes in the business 
+Data Analysis and Reporting Tools  Investigation 
+3.622   2011 Fraud Examiners Manual  
+environment and/or new company projects, a reasonableness assessment should be 
+performed on the vendor changes. 
+ 
+DESCRIPTIVE STATISTICS/BENFORD’S LAW ANALYSIS 
+Descriptive statistics provide maximum amount, minimum amount, average amount, and 
+other high-level statistics. These statistics should be reviewed for reasonableness; for 
+example, a high number of negative amounts or a maximum amount that looks too high 
+might not be reasonable. 
+ 
+After obtaining the descriptive statistics of a data set, the software provides a Benford’s Law 
+analysis of the first two digits of the data, as well as a list of all amounts from highest to 
+lowest frequency, for review.  
+ 
+To review, Benford’s Law distinguishes between natural and non-natural numbers. Natural 
+numbers  are those numbers that are not ordered in a particular numbering scheme and are not 
+generated from a random number system. For example, most accounts payable files will be 
+populated by dollar values that are natural numbers. Conversely, non-natural numbers  like 
+Social Security numbers and telephone numbers are designed systematically to convey 
+information that restricts the natural nature of the number. 
+ 
+Benford’s Law provides that the distribution of the initial digits in natural numbers is not 
+random; instead, it follows a predictable pattern. The table below shows the expected 
+occurrence for the distribution of the first digit in natural numbers, according to this law: 
+ 
+First Digit Probability
+ 1 30.1%
+ 2 17.6%
+ 3 12.5%
+ 4 9.7%
+ 5 7.9%
+ 6 6.7%
+ 7 5.8%
+ 8 5.1%
+ 9 4.6%
+ Total 100.0%
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.623 
+That is, Benford’s Law maintains that certain di gits show up more than others do. A “1” will 
+appear as the first non-zero digit roughly 30 percent of the time; “2” will be the leading digit 
+almost 18 percent of the time; “9” will lead o ff only 4.6 percent of the time. Moreover, zero 
+is most likely to be the second digit, appearing 12 percent of the time.  
+ 
+Benford’s Law makes it possible to detect fraudulent numbers in large data files by 
+comparing the frequency of the appearance of initial digits in a list of numbers to those 
+anticipated by Benford’s Law. For example, when embezzlers invent numbers, they tend to 
+fake data containing too many instances of initial digits of “7,” “8,” and “9” and too few 
+instances of “1,” “2,” and “3.” Thus, with Benford’s Law, examiners can tell if someone 
+fakes data that are derived from other data, and they can also identify errors within the data 
+that appear “out of place” given the data’s frequency of appearance. 
+ 
+The Benford’s Law analysis should be executed first so the most statistical outliers can be 
+reviewed.  
+ 
+Furthermore, as a follow up to these tests, examiners should use a Query Sheet to query 
+outlier activity for additional review. 
+ 
+ABOVE-AVERAGE PAYMENTS TO A VENDOR (MORE THAN TWO TIMES THE AVERAGE) 
+Unusually large payments to a vendor in relation to the average are a sign of error (e.g., a 
+key-punch error) or fraud (e.g., a kickback scheme in which the vendor is paid additional 
+amounts that are kicked-back to the employee entering the payment into the system). 
+ 
+For vendors with unusual payments above the average, a sample of the “average” payment 
+invoices, as well as the unusual payment invoices should be reviewed. The reasonableness of 
+the purchase should be assessed based on the documentation reviewed. The auditor should 
+be keenly aware of the potential for a key-punch error regarding the unusual payment 
+and/or the possibility of the vendor purposely overcharging the organization. 
+ 
+DUPLICATE PAYMENT TESTING  
+Duplicate payments to vendors normally represent errors that the computer system was 
+unable to detect. In most systems, a check will be made as to whether the vendor number, 
+invoice number, and amount are the same. This test could be run to ensure this basic control 
+is operational and also to test for other permutations of duplication. Any results from this 
+test should be reviewed first for trends. For example, rent payments that occur on a monthly 
+Data Analysis and Reporting Tools  Investigation 
+3.624   2011 Fraud Examiners Manual  
+basis may appear to be duplicate payments when, in fact, they are simply regularly occurring 
+payments. Note also that certain accounting packages allow the issuance of partial payments 
+(e.g., a payment to the same vendor with the same invoice number and amount). Therefore, 
+the auditor should determine whether the system allows such payments and, if so, omit them 
+prior to running this application. 
+ 
+Voided checks should also be reviewed; if a payment is made first on a regular check and 
+then on a voided one, only one payment was technically made. 
+ 
+EMPLOYEE-TO-VENDOR ADDRESS MATCH 
+This test identifies identical or similar fields between the master tables of vendors and 
+employees in an attempt to identify fraudulent payments to employees. While this test 
+explains how to complete this task for addresses, the same could be done for phone 
+numbers, tax identification numbers, and other personal information. 
+ 
+Once the results are produced, the auditor should  scan them to determine if there are any 
+valid address matches between the employee and vendor tables. As a next step, a Query 
+Sheet could be created of the actual invoices posted to any questionable vendor to determine 
+if they are fraudulent. Two notes when completing this review are: 
+• Because this exercise may detect fraud, it may be beneficial to locate the invoices or 
+vendor information independent of the accounts payable department (who may be 
+culpable for creating the false vendor account). 
+• Because it is common to pay employee travel and entertainment expenses or employee 
+advances, this should be the key reason to not consider the payments fraudulent. If 
+possible, the vendor file should be filtered for all employee travel and entertainment 
+vendor accounts prior to running this test. 
+ 
+IDENTIFYING PAYMENTS MADE AFTER PERIOD END FOR VALID LIABILITIES AT PERIOD END 
+This report works to identify unrecorded liabilities. A common scheme is for an  
+organization to “hold” an invoice by not enterin g it into the system. Then, after period end, 
+the invoice will be entered into the system, thereby evading the expense charge in the period 
+under review. 
+ 
+The invoices identified in this test should be reviewed for reasonableness and materiality. If 
+not material, further test work may not be considered necessary. If material, trends may be 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.625 
+identified in the types of invoices or the vendor. The final analysis should include pulling the 
+actual invoices to determine whether they are for services rendered or products received 
+before the period end. 
+ 
+IDENTIFY EXCEEDED PURCHASE ORDERS 
+This report works to identify authorization issues within an accounts payable process 
+whereby the invoices paid exceed the approved purchase order amounts. Aside from 
+assessing the authorized limits, this report tests the system control that should not allow an 
+invoice to be paid above a predetermined limit (normally between 5 and 10 percent). 
+The report may also highlight frauds: 
+• In which a valid purchase order is provided to authorize payment, yet inflated payments 
+are made to assist the fraudster in some way. 
+• In which vendors working with an employee create a purchase order with valid unit 
+prices, yet inflate those prices when the invoices are sent. 
+ 
+This test may highlight a control issue within the computer system (which should check for 
+exceeded purchase orders), or it may identify numerous overrides to the computer system. 
+These overrides may be within the normal course of business (e.g., purchase order prices 
+were meant to be at the invoice price rate, but were entered in error on the purchase order), 
+but may also highlight fraudulent activity. Regardless, the auditor should walk through the 
+process of entering a purchase order and associated invoices to understand the system 
+controls. Once understood, the differences presented in this test can be investigated by 
+vouching to purchase order and invoice documentation. 
+ 
+
+
+
+:
+
+
+fraud detect techniqu for account payabl
+vendor summari total period on to period two comparison
+thi is a basic analyt report to identifi trend in a vendor purchas histori a trend
+analysi should be complet to identifi kei vendor with whom activ ha increas or
+decreas substanti thi can best be assess us the dollar and percentag varianc
+field which can be ad as calcul field in excel base on the chang in the busi
+data analysi and report tool investig
+3622 2011 fraud examin manual
+environ andor new compani project a reason assess should be
+perform on the vendor chang
+descript statisticsbenford law analysi
+descript statist provid maximum amount minimum amount averag amount and
+other highlevel statist these statist should be review for reason for
+exampl a high number of neg amount or a maximum amount that look too high
+might not be reason
+after obtain the descript statist of a data set the softwar provid a benford law
+analysi of the first two digit of the data as well as a list of all amount from highest to
+lowest frequenc for review
+to review benford law distinguish between natur and nonnatur number natur
+number ar those number that ar not order in a particular number scheme and ar not
+gener from a random number system for exampl most account payabl file will be
+popul by dollar valu that ar natur number convers nonnatur number like
+social secur number and telephon number ar design systemat to convei
+inform that restrict the natur natur of the number
+benford law provid that the distribut of the initi digit in natur number is not
+random instead it follow a predict pattern the tabl below show the expect
+occurr for the distribut of the first digit in natur number accord to thi law
+first digit probabl
+1 301
+2 176
+3 125
+4 97
+5 79
+6 67
+7 58
+8 51
+9 46
+total 1000
+investig data analysi and report tool
+2011 fraud examin manual 3623
+that is benford law maintain that certain di git show up more than other do a 1 will
+appear as the first nonzero digit roughli 30 percent of the time 2 will be the lead digit
+almost 18 percent of the time 9 will lead o ff onli 46 percent of the time moreov zero
+is most like to be the second digit appear 12 percent of the time
+benford law make it possibl to detect fraudul number in larg data file by
+compar the frequenc of the appear of initi digit in a list of number to those
+anticip by benford law for exampl when embezzl invent number thei tend to
+fake data contain too mani instanc of initi digit of 7 8 and 9 and too few
+instanc of 1 2 and 3 thu with benford law examin can tell if someon
+fake data that ar deriv from other data and thei can also identifi error within the data
+that appear out of place given the data frequenc of appear
+the benford law analysi should be execut first so the most statist outlier can be
+review
+furthermor as a follow up to these test examin should us a queri sheet to queri
+outlier activ for addit review
+aboveaverag payment to a vendor more than two time the averag
+unusu larg payment to a vendor in relat to the averag ar a sign of error eg a
+keypunch error or fraud eg a kickback scheme in which the vendor is paid addit
+amount that ar kickedback to the employe enter the payment into the system
+for vendor with unusu payment abov the averag a sampl of the averag payment
+invoic as well as the unusu payment invoic should be review the reason of
+the purchas should be assess base on the document review the auditor should
+be keenli awar of the potenti for a keypunch error regard the unusu payment
+andor the possibl of the vendor purpos overcharg the organ
+duplic payment test
+duplic payment to vendor normal repres error that the comput system wa
+unabl to detect in most system a check will be made as to whether the vendor number
+invoic number and amount ar the same thi test could be run to ensur thi basic control
+is oper and also to test for other permut of duplic ani result from thi
+test should be review first for trend for exampl rent payment that occur on a monthli
+data analysi and report tool investig
+3624 2011 fraud examin manual
+basi mai appear to be duplic payment when in fact thei ar simpli regularli occur
+payment note also that certain account packag allow the issuanc of partial payment
+eg a payment to the same vendor with the same invoic number and amount therefor
+the auditor should determin whether the system allow such payment and if so omit them
+prior to run thi applic
+void check should also be review if a payment is made first on a regular check and
+then on a void on onli on payment wa technic made
+employeetovendor address match
+thi test identifi ident or similar field between the master tabl of vendor and
+employe in an attempt to identifi fraudul payment to employe while thi test
+explain how to complet thi task for address the same could be done for phone
+number tax identif number and other person inform
+onc the result ar produc the auditor should scan them to determin if there ar ani
+valid address match between the employe and vendor tabl as a next step a queri
+sheet could be creat of the actual invoic post to ani question vendor to determin
+if thei ar fraudul two note when complet thi review ar
+becaus thi exercis mai detect fraud it mai be benefici to locat the invoic or
+vendor inform independ of the account payabl depart who mai be
+culpabl for creat the fals vendor account
+becaus it is common to pai employe travel and entertain expens or employe
+advanc thi should be the kei reason to not consid the payment fraudul if
+possibl the vendor file should be filter for all employe travel and entertain
+vendor account prior to run thi test
+identifi payment made after period end for valid liabil at period end
+thi report work to identifi unrecord liabil a common scheme is for an
+organ to hold an invoic by not enterin g it into the system then after period end
+the invoic will be enter into the system therebi evad the expens charg in the period
+under review
+the invoic identifi in thi test should be review for reason and materi if
+not materi further test work mai not be consid necessari if materi trend mai be
+investig data analysi and report tool
+2011 fraud examin manual 3625
+identifi in the type of invoic or the vendor the final analysi should includ pull the
+actual invoic to determin whether thei ar for servic render or product receiv
+befor the period end
+identifi exceed purchas order
+thi report work to identifi author issu within an account payabl process
+wherebi the invoic paid exce the approv purchas order amount asid from
+assess the author limit thi report test the system control that should not allow an
+invoic to be paid abov a predetermin limit normal between 5 and 10 percent
+the report mai also highlight fraud
+in which a valid purchas order is provid to author payment yet inflat payment
+ar made to assist the fraudster in some wai
+in which vendor work with an employe creat a purchas order with valid unit
+price yet inflat those price when the invoic ar sent
+thi test mai highlight a control issu within the comput system which should check for
+exceed purchas order or it mai identifi numer overrid to the comput system
+these overrid mai be within the normal cours of busi eg purchas order price
+were meant to be at the invoic price rate but were enter in error on the purchas order
+but mai also highlight fraudul activ regardless the auditor should walk through the
+process of enter a purchas order and associ invoic to understand the system
+control onc understood the differ present in thi test can be investig by
+vouch to purchas order and invoic document

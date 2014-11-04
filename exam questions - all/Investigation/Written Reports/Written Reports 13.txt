@@ -1,0 +1,9 @@
+Section=Written Reports
+
+Stem=When preparing a report of an interview of a witness who provided information not relevant to the examination, the examiner should:
+
+Options=Include only relevant information | Include all information provided by the witness, regardless of the relevance | Indicate in the report that irrelevant information has been excluded | None of the above
+
+CorrectResponse=0
+
+Explanation=Report all facts without bias. Everything relevant should be included regardless of which side it proves or disproves. At the outset of a fraud examination, the examiner should carefully determine what information v/ill be needed to prove the case and attempt to include only this information. A report should include only those matters that are relevant to the examination. However, almost every investigation yields much information of which the relevance is not immediately known. In such cases, it is best to opt for completenessSee page(s) 3.902 in the Fraud Examiner's Manual

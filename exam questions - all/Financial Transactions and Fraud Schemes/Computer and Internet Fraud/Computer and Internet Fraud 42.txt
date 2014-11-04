@@ -1,0 +1,9 @@
+Section=Computer and Internet Fraud
+
+Stem=If a computer security system includes profiling software, which of the following characteristics would it test for authorized access?
+
+Options=Fingerprints | Signatures | Typing speed | Palm prints
+
+CorrectResponse=2
+
+Explanation=Profiling software authenticates users by monitoring their statistical characteristics, such as typing speed and keystroke touch. Smartcard access devices are similar to an ATM card; like ATM cards, they are susceptible to loss and forgery.See page(s) 1.1841 in the Fraud Examiner's Manual

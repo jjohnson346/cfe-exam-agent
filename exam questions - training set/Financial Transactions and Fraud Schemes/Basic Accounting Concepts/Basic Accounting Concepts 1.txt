@@ -1,0 +1,9 @@
+Section=Basic Accounting Concepts
+
+Stem=Which GAAP principle requires corresponding expenses and revenue to be recorded in the same accounting period?
+
+Options=Consistency | Full disclosure | Matching | Conservatism
+
+CorrectResponse=2
+
+Explanation=The matching concept requires the books and records and the resultant financial statements to match revenue and expense in the proper accounting period. Fraud can occur when purposeful attempts are made to manipulate the matching concept. For example, through controlling the year-end cut-off in financial figures, many companies boost their current net income by counting revenue from the following year early, and by delaying the posting of this year's expenses until next year.

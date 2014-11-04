@@ -1,0 +1,50 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Correlation Analysis
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Correlation Analysis 
+Using this function, investigators can determine the relationships between different variables 
+in the raw data. Investigators can learn a lot about computer data files by learning the 
+relationship between two variables. For example, we should expect a strong correlation 
+between these independent and dependent variables because a direct relationship exists 
+between the two variables. Hotel costs should increase as the number of days traveled 
+increases. The gallons of paint used should increase as the number of houses built increases. 
+You can probably use many more of such relationships. 
+ 
+Independent Variable Dependent Variable 
+Number of days traveling Hotel cost 
+Number of documents printed Reams of paper used 
+Number of houses built Paint used 
+ 
+
+
+
+:
+
+
+correl analysi
+us thi function investig can determin the relationship between differ variabl
+in the raw data investig can learn a lot about comput data file by learn the
+relationship between two variabl for exampl we should expect a strong correl
+between these independ and depend variabl becaus a direct relationship exist
+between the two variabl hotel cost should increas as the number of dai travel
+increas the gallon of paint us should increas as the number of hous built increas
+you can probabl us mani more of such relationship
+independ variabl depend variabl
+number of dai travel hotel cost
+number of document print ream of paper us
+number of hous built paint us

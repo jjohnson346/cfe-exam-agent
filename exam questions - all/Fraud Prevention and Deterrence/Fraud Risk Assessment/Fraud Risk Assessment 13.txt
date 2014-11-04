@@ -1,0 +1,9 @@
+Section=Fraud Risk Assessment
+
+Stem=Part of conducting an effective fraud risk assessment involves being able to think like a fraudster.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=The ability to think the unthinkable is essential to conducting an effective fraud risk assessment. Most honest people are not naturally inclined to think like a fraudster. In fact, many large-scale frauds that have occurred would have been deemed unthinkable by people closest to the events. A good fraud risk assessment has to allow for the people leading and conducting the assessment to be expansive in their consideration and evaluation of fraud risk. Thoughts of “it can't happen here" should not be allowed to moderate the evaluation of fraud risk.See page(s) 4.807 in the Fraud Examiner's Manual

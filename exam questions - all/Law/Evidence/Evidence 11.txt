@@ -1,0 +1,9 @@
+Section=Evidence
+
+Stem=Certain communications between an attorney and client are privileged. Which of the following does NOT have to be present to support a claim of attorney-client privilege?
+
+Options=The communication was intended to be confidential | Purpose of the communication was to provide legal advice | A lawsuit has been filed | Attorney-client relationship
+
+CorrectResponse=2
+
+Explanation=The attorney-client privilege precludes disclosure of communications between an attorney and client, but only if the following conditions are met: (1) the client retained the attorney (2) to provide legal advice (3) and thereafter communicated v/ith the attorney on a confidential basis, and (4) has not waived the privilege. It is not necessary that the communications take place after a lawsuit has been filed.See page(s) 2.725 in the Fraud Examiner's Manual

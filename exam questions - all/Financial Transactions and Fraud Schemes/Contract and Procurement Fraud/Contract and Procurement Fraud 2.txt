@@ -1,0 +1,9 @@
+Section=Contract and Procurement Fraud
+
+Stem=ABC, Inc submits a bid on a contract. At the same time, it submits bids from several nonexistent companies. It appears to the contractor that there has been a vigorous bidding competition when, in fact, ABC has been merely bidding against itself. This type of scheme is known as which of the following:
+
+Options=Phantom bids | Bid rotation | Complementary bids | Bid suppression
+
+CorrectResponse=0
+
+Explanation=Several companies have been caught creating dummy companies to submit a variety of bids on a single contract. That way. they give the appearance of vigorous competition while actually bidding against themselves. The bids from fictitious companies are referred to as phantom bids.

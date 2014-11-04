@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=The RICO statute generally requires which of the following?
+
+Options=Four or more predicate violations | Two or more criminal offenses | Three or more criminal offenses | None of the above
+
+CorrectResponse=1
+
+Explanation=RICO is probably the best-known and most controversial federal statute in use today. Originally enacted in 1970 to fight organized crime’s infiltration of legitimate business, its powerful criminal and civil provisions have come to be used in a wide range of fraud cases. The statute outlaws the investment of ill-gotten gains in another business enterprise; the acquisition of an interest in an enterprise through certain illegal acts; and the conduct of the affairs of an enterprise through such acts. Section 1962(c) of the RICO act requires, among other things, that the defendant conduct the affairs of the enterprise through a "pattern of racketeering activity/' that is, two or more illegal acts, enumerated in the statute as predicate violations, such as mail and wire fraud and ITSP violations.See page(s) 2.236-2.237 in the Fraud Examiner's Manual

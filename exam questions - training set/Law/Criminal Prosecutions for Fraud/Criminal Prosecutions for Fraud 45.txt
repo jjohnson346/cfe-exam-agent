@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=If a party fails to make an objection during trial, the error can generally be corrected on appeal.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Generally, an appeal may be made only for errors of law to which the defendant made timely objection at trial or in pre-trial proceedings. The failure to object is said to waive any claims of error. A timely objection theoretically would permit the trial judge to correct the error at the time, eliminating the delay and expense of an appeal and possible new trial. Only very serious errors that affect substantial rights of the defendant may be raised on an appeal without the necessity for an earlier timely objection.See page(s) 2.528 in the Fraud Examiner's Manual

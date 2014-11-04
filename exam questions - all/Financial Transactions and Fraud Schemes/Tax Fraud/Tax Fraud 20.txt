@@ -1,0 +1,9 @@
+Section=Tax Fraud
+
+Stem=If any part of a substantial tax underpayment is the result of fraud, then which of the following penalties might be assessed by the Internal Revenue Service?
+
+Options=100 percent of the underpayment | 75 percent of the underpayment | 50 percent of the underpayment | 25 percent of the underpayment
+
+CorrectResponse=1
+
+Explanation=Per IRS Code 6663: A penalty of 75 percent of the underpayment is imposed if any part of the underpayment is due to fraud. If the taxpayer is successful in proving that a portion of the underpayment is not the result of fraud, then that portion of the underpayment may be subject to the negligence penalty.See page(s) 1.1405 in the Fraud Examiner’s Manual

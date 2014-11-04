@@ -1,0 +1,9 @@
+Section=Analyzing Documents
+
+Stem=Which of the following methods can be used to obtain documentary evidence?
+
+Options=Oral consent | Written consent | Subpoena | All of the above
+
+CorrectResponse=3
+
+Explanation=If both parties agree, it is possible to obtain evidence by consent This is the preferred method. The consent can be oral or written. When information is obtained from possible adverse witnesses, or the target of the examination, it is recommended that the consent be in writing. In many cases, however, the investigator will not wish to alert the suspect to his intentions and other routes must be taken. If the evidence is owned by and in the control of the party that requests the investigation (for instance, in desk drawers in the office), then the investigator is usually able to obtain the documents as required. If evidence is held by other parties or in uncontrolled locations, specific legal action is required before attempting to obtain it. This usually takes the form of a subpoena or other order from the court to produce the documents and records (including electronic records). Other forms of court orders can be used to obtain witness evidence and statements. Under no circumstances should the investigator attempt to obtain documents by other means, as this can lead to charges of theft, trespass, and other sanctions.See page(s) 3.101-3.102 in the Fraud Examiner's Manual

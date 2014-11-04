@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Which of the following is NOT considered an example of obstruction of justice?
+
+Options=Showing disrespect to the judge | Tampering with a witness | Destruction of documents | Obstructing a federal audit
+
+CorrectResponse=0
+
+Explanation=There are several obstruction statutes in the federal code (see Title 18, å¤ 1503. et. seq.) that punish, among other things, document destruction; influencing a juror; theft or alteration of a record or process; obstruction relating to court orders; tampering with a witness, victim, or an informant; obstruction of a federal audit; and obstructing the examination of a financial institution. Showing disrespect to the judge (among other things such as refusing to obey a judge's order) is contempt of court.See page(s) 2.332 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interviews, if the respondent replies, "I don't remember," this is usually a symptom of resistance.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Usually "I don‰??t remember" is not an expression of resistance. Instead, it is an expression of modesty, tentativeness, or caution. One of the best ways to respond is to simply remain silent while the person is deliberating. He is saying, in effect, "Give me a moment to think." If this is not successful, the best way to counter is to pose an alternate, narrower question.See page(s) 3.230 in the Fraud Examiner's Manual

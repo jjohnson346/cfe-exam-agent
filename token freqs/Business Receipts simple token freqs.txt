@@ -1,0 +1,36 @@
+Token                          Frequency
+-----------------------------  ---------
+trade                                  1
+for                                    1
+etc                                    1
+from                                   1
+where                                  1
+business                               2
+expenses                               1
+currency                               1
+undeposited                            1
+of                                     1
+personal                               1
+paid                                   1
+are                                    3
+credit                                 1
+all                                    1
+arrangements                           2
+•                                      6
+with                                   1
+check                                  1
+form                                   1
+segregated                             1
+or                                     1
+deposited                              1
+receipts                               4
+ones                                   1
+electronic                             1
+payments                               1
+cash                                   1
+finance                                1
+foreign                                1
+letters                                1
+ever                                   1
+
+Totals:                     32        44

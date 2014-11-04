@@ -1,0 +1,9 @@
+Section=Covert Examinations
+
+Stem=Symbols and words - such as the plus sign, the minus sign, and the words "and" and "not" that are used to limit or expand an Internet search are referred to as which of the following?
+
+Options=Limiting factors | Search fields | Boolean operators | Expansion numerals
+
+CorrectResponse=2
+
+Explanation=The best way to use a search engine is to use two, or possibly three, keywords that best describe the topic. If the words succeed one another, as in the case of “check fraud,�? then it may be beneficial to use Boolean operators to aid one’s search. Boolean operators are symbols that help the search engine to better understand exactly what it is searching for. Putting the “+" symbol in “check+fraud," for example, will indicate to the search engine that it is to search only for pages that have the word “fraud" immediately following ‘ check.�? If you insert the word “and," so that the search reads "check and fraud,�? the search engine will understand to search for websites and pages that contain both the words “check" and “fraud; but not necessarily right next to each other.See page(s) 3.511-3.512 in the Fraud Examiner's Manual

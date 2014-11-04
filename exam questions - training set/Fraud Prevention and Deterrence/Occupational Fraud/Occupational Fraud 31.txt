@@ -1,0 +1,9 @@
+Section=Occupational Fraud
+
+Stem=One criminologist found that many fraud perpetrators were living beyond their means when they committed their crimes. This criminologist is:
+
+Options=Lombroso | Braithwaite | Albrecht | None of the above
+
+CorrectResponse=2
+
+Explanation=In Dr. Steve Albrecht s study, the researchers gave internal auditors at companies that had experienced frauds two sets of 25 motivating factors and asked which factors were present in the frauds they had dealt with. Participants were asked to rank these factors on a seven-point scale indicating the degree to which each factor existed in their specific frauds. The top three most highly ranked factors from the list of personal characteristics, based on this study, were (1) living beyond their means, (2) an overwhelming desire for personal gain, and (3) high personal debt.See page(s) 4.611 in the Fraud Examiner's Manual

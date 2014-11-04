@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=In interview situations, a(n) _________________________ is an orderly, continuous account of an event or incident, given by a respondent without prompting.
+
+Options=Free narrative | Informational response | Unprompted script | None of the above
+
+CorrectResponse=0
+
+Explanation=The "free narrative" is an orderly, continuous account of an event or incident, given with or without prompting. It is used to get a quick overview of what is known about a matter. Be sure to designate specifically the occurrence that you wish to discuss. Sometimes the respondent must be controlled to prevent unnecessary digression. Otherwise, use a minimum of interruptions, and do not stop the narrative without good reason. The respondent will sometimes provide valuable clues when talking about things that are only partially related to the matter under inquiry.See page(s) 3.225 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=Grand jury proceedings are criminal in nature, conducted in secret, and may NOT be used in civil or other legal proceedings.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=A grand jury may be used only to obtain evidence of possible violations of the criminal law. and its process may not be used as a ruse to obtain evidence for parallel civil actions. However, the grand jury, with the appropriate court order, can make evidence available to the proper government authorities for a civil proceeding, as long as the primary purpose of the grand jury inquiry was to enforce the criminal laws. Access by private parties to grand jury proceedings is difficult and unlikely.See page(s) 2.507 in the Fraud Examiner's Manual

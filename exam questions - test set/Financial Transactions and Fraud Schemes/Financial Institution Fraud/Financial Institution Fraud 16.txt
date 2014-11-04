@@ -1,0 +1,9 @@
+Section=Financial Institution Fraud
+
+Stem=Some of the more common red flags of new bank account fraud schemes include all of the following EXCEPT:(‰?¢
+
+Options=Customer requests a large number of temporary checks | No order for printed checks | Customer residence outside the bank's trade area | Customer requests two ATM cards
+
+CorrectResponse=3
+
+Explanation=Some of the more common red flags of potential new account schemes are:‰?¢	Customer residence outside the bank's trade area‰?¢	Dress and/or actions inconsistent or inappropriate for the customer's stated age, occupation, or income level‰?¢	New account holder requesting immediate cash withdrav/al upon deposit‰?¢	Request for large quantity of temporary checks‰?¢	No order for printed checksSee page(s) 1.934 in the Fraud Examiner's Manual

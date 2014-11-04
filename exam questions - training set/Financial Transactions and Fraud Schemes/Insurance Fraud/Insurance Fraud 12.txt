@@ -1,0 +1,9 @@
+Section=Insurance Fraud
+
+Stem=Workers' compensation premium rates differ significantly based upon geographic location from state to state.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Workers' compensation premium rates differ significantly based on geographic location from state to state. An employer might have a storefront location or a P.O. box in a state that has lower rates. A multistate employer may list all of its employees as operating in the state that has the lowest rates.See page(s) 1.1115 in the Fraud Examiner's Manual

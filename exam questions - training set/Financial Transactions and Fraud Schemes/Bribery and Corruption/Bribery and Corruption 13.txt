@@ -1,0 +1,9 @@
+Section=Bribery and Corruption
+
+Stem=In order to examine on-book payments of fictitious disbursements, the fraud examiner would examine which of the following records from a company suspected of making illegal payments?
+
+Options=Sales backup documentation | Payables and expenses charged to the account on which the illicit payments were made | Bank account information | All of the above
+
+CorrectResponse=3
+
+Explanation=In order to determine on-book payments, obtain the following records from the company suspected of making illegal payments: bank account information, sales backup documentation, accounting books and records, payables and expenses charged to the account on which the illicit payments were made, payments for services, and anomalous charges.See page(s) 1.723 in the Fraud Examiner's Manual

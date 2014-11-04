@@ -1,0 +1,17 @@
+Token                          Frequency
+-----------------------------  ---------
+to                                     1
+information                            1
+department                             3
+a                                      2
+by                                     1
+city                                   1
+that                                   1
+personnel                              3
+county                                 2
+maintains                              1
+records                                1
+maintained                             1
+similar                                1
+
+Totals:                     13        19

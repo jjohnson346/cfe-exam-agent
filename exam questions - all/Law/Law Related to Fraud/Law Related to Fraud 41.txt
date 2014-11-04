@@ -1,0 +1,9 @@
+Section=Law Related to Fraud
+
+Stem=Green, a Certified Fraud Examiner was hired to investigate the ABC Company. ABC paid a Japanese public official to win lucrative overseas contracts. ABC could be prosecuted for violation of the:
+
+Options=International Corruption and Bribery Act | Foreign Corrupt Practices Act | Off-Shore Transfer and Bribery Act | None of the above
+
+CorrectResponse=1
+
+Explanation=The Foreign Corrupt Practices Act of 1977 prohibits certain publicly held companies from making corrupt payments to foreign officials or political organizations. Other amendments to the Act make it illegal for any U.S. citizen to make such payments. The statute was the result of disclosures from the Watergate investigations of corporate grease payments to foreigners to obtain business overseas.See page(s) 2.249 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Securities Fraud
+
+Stem=The scheme in which a security is sold by one party to another, with the understanding that the seller will repurchase it later at an agreed-upon price is called:
+
+Options=Dumping | Churning | Parking | None of the above
+
+CorrectResponse=2
+
+Explanation=Parking is the practice of selling a security to a buyer with the understanding that the seller will repurchase the security later at an agreed-upon price. This scheme allows circumvention of ownership reporting requirements and net capital rules.See page(s) 1.1534 in the Fraud Examiner’s Manual

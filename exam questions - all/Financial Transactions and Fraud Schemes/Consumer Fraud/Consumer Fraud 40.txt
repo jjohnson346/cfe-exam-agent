@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=One red flag associated with illegal pyramid schemes is whether most of the financial return is built around things unrelated to product sales, such as recruiting other reps.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Some legitimate merchandising companies use a pyramid structure to rank their employee-owners and to determine those people's compensation. But a pyramid structure becomes a pyramid scheme when the company makes its money by recruiting people. Instead of selling a product or service, the group deals primarily in new memberships. Joining the group allows the new member to profit by signing up new members. The process continues until the available pool of new members is drained, which happens sooner than one might think.See page(s) 1.1741 in the Fraud Examiner’s Manual

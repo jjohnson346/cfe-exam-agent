@@ -1,0 +1,9 @@
+Section=Financial Statement Fraud
+
+Stem=Internal controls are always the strongest deterrent to financial statement fraud.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=Opportunities to commit fraud most often arise gradually. Generally, these opportunities can stem from the lack of adequate oversight functions within the company. The existence of an oversight function does not. in and of itself, guarantee the detection of fraudulent acts: the oversight functions also must respond effectively. The perception of detection, not internal control per se, is arguably the strongest deterrent to fraud.See page(s) 1.305 in the Fraud Examiner's Manual

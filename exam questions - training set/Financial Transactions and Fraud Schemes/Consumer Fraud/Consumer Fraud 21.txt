@@ -1,0 +1,9 @@
+Section=Consumer Fraud
+
+Stem=Shoddy merchandise is a familiar element of the biz op scam.
+
+Options=True | False
+
+CorrectResponse=0
+
+Explanation=Shoddy merchandise is a familiar element of the biz op scam. The scams are tailored for the targeted audience. A Maryland ring ran advertisements in Income Plus magazine and other investor-oriented publications for a solar-powered car battery recharger. ‰??In seconds, you're off and running," the ad claimed. The offer stated that distributors were making over S200.000 a year with the revolutionary devices. But the machines were worthless. One investor took the recharger to an electrician, and was told it could recharge a battery but that it would take a few weeks.See page(s) 1.1717 in the Fraud Examiner‰??s Manual

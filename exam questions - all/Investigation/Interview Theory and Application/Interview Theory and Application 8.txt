@@ -1,0 +1,9 @@
+Section=Interview Theory and Application
+
+Stem=During the introductory phase of the interview, the interviewer should avoid terms such as:
+
+Options=Review | Inquiry | Investigation | All of the above items should be avoided
+
+CorrectResponse=2
+
+Explanation=Witnesses are easily intimidated by the shadings of various words. Except in the case of the target, words such as "investigation" and "audit" should be avoided. The best terminology to use is words with a softer meaning such as "inquiry" or "examination."See page(s) 3.217 in the Fraud Examiner's Manual

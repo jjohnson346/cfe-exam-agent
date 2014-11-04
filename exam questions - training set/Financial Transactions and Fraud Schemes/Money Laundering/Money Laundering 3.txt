@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=Which of the following are required to file a Suspicious Activity Report with FinCEN if they suspect customers are laundering or attempting to launder funds through their organization?
+
+Options=Casinos | Insurance companies | Securities broker-dealers | All of the above
+
+CorrectResponse=3
+
+Explanation=In addition to traditional financial institutions such as banks and credit unions, a number of industries are also required to file Suspicious Activity Reports with FinCEN if they suspect that a client or customer is attempting to launder funds or engage in other illegal activity. These include securities broker-dealers; casinos and card clubs; insurance companies; unregistered investment firms; and dealers in precious metals, stones, or jewelsSee page(s) 1.1630-1.1632 in the Fraud Examiner's Manual

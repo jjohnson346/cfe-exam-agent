@@ -1,0 +1,27 @@
+Token                          Frequency
+-----------------------------  ---------
+information                            1
+they                                   1
+have                                   2
+back                                   1
+the                                    2
+regarding                              1
+in                                     1
+reputations                            1
+businesses                             1
+commerce                               2
+city                                   1
+and                                    2
+of                                     4
+area                                   1
+chambers                               1
+directories                            2
+generally                              1
+often                                  1
+issues                                 1
+operators                              1
+also                                   1
+chamber                                1
+keep                                   1
+
+Totals:                     23        31
