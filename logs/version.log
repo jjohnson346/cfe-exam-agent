@@ -1,7 +1,23 @@
 version log
 
-1.5.5
-- made further changes to classes in manual package to support execution from mac platform.
+1.5.7
+
+- added information retrieval functionality.
+
+The ir engine, IREngine, is specific to a particular document collection directory, and as such,
+will search only those documents in that particular directory.  The concept here is that for each exam
+section, there will be an instance of the IREngine class whose document collection directory contains
+the documents for the manual section associated with that exam section, the mapping for which is in the
+cfe exam manual class.
+
+- added classes to support the partitioning of the exam questions into a training set and a test set.
+
+This functionality is contained in the classes of the ontol.training.set package - QuestionCollection
+and TrainingAndTestSetsGenerator classes.  A random number generator is used to select a proportionate
+share of questions from each exam section (i.e., it is assured that every exam section has at least 
+one test question - no exam sections are left without a test question.)
+
+
 
 1.5.6
 
@@ -15,3 +31,7 @@ Because the section, Upcoding, is a subsection in the document hierarchy, its se
 the parent section, Medicare Fraud.  Under the old approach, then, Medicare fraud's text body included the
 body of the Upcoding section as well.  Now, however, after the enhancement in 1.5.6, Medicare fraud section
 includes in its body only that text which is NOT included in any child section's text body.
+
+1.5.5
+- made further changes to classes in manual package to support execution from mac platform.
+
