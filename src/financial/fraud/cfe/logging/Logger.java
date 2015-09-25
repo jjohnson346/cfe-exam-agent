@@ -110,7 +110,7 @@ public class Logger {
 
 	/**
 	 * outputs text to each destination, making use of the printf 
-	 * method of the PrintStream object for each desination, which 
+	 * method of the PrintStream object for each destination, which 
 	 * includes parameter for formatting.
 	 * 
 	 * @param level the level of detail

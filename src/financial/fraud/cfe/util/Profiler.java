@@ -141,7 +141,7 @@ public class Profiler {
 		Logger logger = Logger.getInstance();
 		logger.addDestination("logs\\profiler.log");
 		logger.setDetailLevel(DetailLevel.MEDIUM);
-		QuestionServer qs = new QuestionServer();
+		QuestionServer qs = new QuestionServer("exam questions - all");
 		Profiler profiler = new Profiler(logger);
 		ProfileData pd = profiler.profile(qs);
 		pd.calculate();

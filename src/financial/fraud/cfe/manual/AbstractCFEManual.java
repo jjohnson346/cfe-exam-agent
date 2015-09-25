@@ -1,7 +1,8 @@
 package financial.fraud.cfe.manual;
 
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -58,12 +59,21 @@ public abstract class AbstractCFEManual implements CFEManual {
 	 * list of manual sections that yielded any errors during the load process. used for debugging
 	 */
 	protected List<CFEManualSection> errors;
-
+	
+	/**
+	 * reference to the single instance of the Logger class (implements the Singleton pattern).
+	 * Used for debugging, as well as for general reporting of system status.
+	 */
+	protected Logger logger;
+	
 	/**
 	 * constructor builds the tree structure of cfe manual section objects.
 	 */
 	protected AbstractCFEManual() {
-		Logger.getInstance().println("Reading Fraud Examiners Manual...", DetailLevel.MINIMAL);
+
+		logger = Logger.getInstance();
+
+		logger.println("Reading Fraud Examiners Manual...", DetailLevel.MINIMAL);
 
 		String manualText = getManualText();
 		String toc = getTOC();
@@ -71,39 +81,39 @@ public abstract class AbstractCFEManual implements CFEManual {
 		errors = new LinkedList<CFEManualSection>();
 
 		// build the hash map lookup for cfe manual section -> exam section name.
-		Logger.getInstance().println("Loading manual section -> exam section lookup...", DetailLevel.MEDIUM);
+		logger.println("Loading manual section -> exam section lookup...", DetailLevel.MEDIUM);
 		buildExamSectionLookup();
-		Logger.getInstance().println(" manual section -> exam section load complete.", DetailLevel.MEDIUM);
+		logger.println(" manual section -> exam section load complete.", DetailLevel.MEDIUM);
 
 		// build the hash map lookup for cfe manual section -> question section name.
-		Logger.getInstance().println("Loading manual section -> question section lookup...", DetailLevel.MEDIUM);
+		logger.println("Loading manual section -> question section lookup...", DetailLevel.MEDIUM);
 		buildQuestionSectionLookup();
-		Logger.getInstance().println("manual section -> question section load complete.", DetailLevel.MEDIUM);
+		logger.println("manual section -> question section load complete.", DetailLevel.MEDIUM);
 
 		// build tree structure of cfe manual section objects.
-		Logger.getInstance().println("Building manual tree...", DetailLevel.MEDIUM);
+		logger.println("Building manual tree...", DetailLevel.MEDIUM);
 		buildManualTree(toc, manualText);
-		Logger.getInstance().println("Build of manual tree completed successfully.", DetailLevel.MEDIUM);
+		logger.println("Build of manual tree completed successfully.", DetailLevel.MEDIUM);
 
 		// initialize beginning position of each cfe manual section object.
-		Logger.getInstance().println("Loading beginning positions of manual sections...", DetailLevel.MEDIUM);
+		logger.println("Loading beginning positions of manual sections...", DetailLevel.MEDIUM);
 		loadBegPositions(root, manualText, 0);
-		Logger.getInstance().println("Beginning positions load complete.", DetailLevel.MEDIUM);
+		logger.println("Beginning positions load complete.", DetailLevel.MEDIUM);
 
 		// initialize end position for each cfe manual section object.
-		Logger.getInstance().println("Loading end positions for manual sections...", DetailLevel.MEDIUM);
+		logger.println("Loading end positions for manual sections...", DetailLevel.MEDIUM);
 		loadEndPositions(root, manualText);
-		Logger.getInstance().println("End positions load complete.", DetailLevel.MEDIUM);
+		logger.println("End positions load complete.", DetailLevel.MEDIUM);
 
 		// build the hash map lookup for cfe question section -> cfe manual section name.
-		Logger.getInstance().println("Loading question section -> manual section lookup...", DetailLevel.MEDIUM);
+		logger.println("Loading question section -> manual section lookup...", DetailLevel.MEDIUM);
 		buildManualSectionLookup();
-		Logger.getInstance().println("question section lookup -> manual section load complete.", DetailLevel.MEDIUM);
+		logger.println("question section lookup -> manual section load complete.", DetailLevel.MEDIUM);
 
 		// build the hash map lookup for cfe manual section name -> cfe manual section object.
 		buildManualSectionMap();
 
-		Logger.getInstance().println("Completed reading Fraud Examiners Manual.", DetailLevel.MINIMAL);
+		logger.println("Completed reading Fraud Examiners Manual.", DetailLevel.MINIMAL);
 	}
 
 	/**
@@ -114,21 +124,46 @@ public abstract class AbstractCFEManual implements CFEManual {
 	 */
 	private String getTOC() {
 		String toc = null;
-		Scanner scanner = null;
-
 		try {
-			// change backslashes to forward slashes for mac version.
-			// scanner = new Scanner(new File("manual\\2011_zz_fem_toc.txt"));
-			scanner = new Scanner(new File("manual//2011_zz_fem_toc.txt"));
-			scanner.useDelimiter("\\Z");
-			toc = scanner.next();
-		} catch (FileNotFoundException e) {
-			System.out.println("File not found.");
+			toc = getFileContents("manual//2011_zz_fem_toc.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
 			System.exit(1);
-		} finally {
-			scanner.close();
 		}
 		return toc;
+
+		// 2015.09.16 - code below was replace with the code above that calls a function that
+		// encapsulates the logic for extracting the text from a file.
+
+		// Scanner scanner = null;
+		//
+		//
+		// // 2015.09.16 - replaced code using Scanner with code below using BufferedReader.
+		// // not sure why, but scanner is not loading the entire file, only a small part of it.
+		// try {
+		// BufferedReader br = new BufferedReader(new FileReader("manual//2011_zz_fem_manual_text.txt"));
+		// StringBuilder fileContents = new StringBuilder();
+		// String line;
+		// while ((line = br.readLine()) != null) {
+		// fileContents.append(line + "\n");
+		// }
+		// toc = new String(fileContents);
+		// } catch (IOException e) {
+		// e.printStackTrace();
+		// System.exit(1);
+		// }
+		// try {
+		// // change backslashes to forward slashes for mac version.
+		// // scanner = new Scanner(new File("manual\\2011_zz_fem_toc.txt"));
+		// scanner = new Scanner(new File("manual//2011_zz_fem_toc.txt"));
+		// scanner.useDelimiter("\\Z");
+		// toc = scanner.next();
+		// } catch (FileNotFoundException e) {
+		// System.out.println("File not found.");
+		// System.exit(1);
+		// } finally {
+		// scanner.close();
+		// }
 	}
 
 	/**
@@ -139,21 +174,82 @@ public abstract class AbstractCFEManual implements CFEManual {
 	 */
 	private String getManualText() {
 		String manual = null;
-		Scanner scanner = null;
-
 		try {
-			// change backslashes to forward slashes for mac version.
-			// scanner = new Scanner(new File("manual\\2011_zz_fem_manual_text.txt"));
-			scanner = new Scanner(new File("manual//2011_zz_fem_manual_text.txt"));
-			scanner.useDelimiter("\\Z");
-			manual = scanner.next();
-		} catch (FileNotFoundException e) {
-			System.out.println("File not found.");
+			manual = getFileContents("manual//2011_zz_fem_manual_text.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
 			System.exit(1);
-		} finally {
-			scanner.close();
 		}
 		return manual;
+
+		// 2015.09.16 - code below was replace with the code above that calls a function that
+		// encapsulates the logic for extracting the text from a file.
+
+		// String manual = null;
+		// Scanner scanner = null;
+
+		// 2015.04.08 - replaced code using Scanner with code below using BufferedReader.
+		// not sure why, but scanner is not working when executed from within jar (scanner.next())
+		// throws an exception.
+		// try {
+		// BufferedReader br = new BufferedReader(new FileReader("manual//2011_zz_fem_manual_text.txt"));
+		// StringBuilder fileContents = new StringBuilder();
+		// String line;
+		// while ((line = br.readLine()) != null) {
+		// fileContents.append(line + "\n");
+		// }
+		// manual = new String(fileContents);
+		// } catch (IOException e) {
+		// e.printStackTrace();
+		// System.exit(1);
+		// }
+		// // try {
+		// // change backslashes to forward slashes for mac version.
+		// // scanner = new Scanner(new File("manual\\2011_zz_fem_manual_text.txt"));
+		// scanner = new Scanner(new File("manual//2011_zz_fem_manual_text.txt"));
+		// scanner.useDelimiter("\\Z");
+		// System.out.println("calling scanner.next()....");
+		// System.out.println(System.getProperty("java.version"));
+		// System.out.println(System.getProperty("user.dir"));
+		// manual = scanner.next();
+		// } catch (FileNotFoundException e) {
+		// System.out.println("File not found.");
+		// System.exit(1);
+		// } finally {
+		// scanner.close();
+		// }
+		// return manual;
+	}
+
+	/**
+	 * returns the contents of a file as a string, using FileReader, BufferedReader instead of Scanner. Scanner has been
+	 * causing problems, see comment from 04/2015. Also, in addition to the problems with the manual, using the Scanner
+	 * to load the TOC is also causing issues.
+	 * 
+	 * @param fileName
+	 */
+	private String getFileContents(String fileName) throws IOException {
+		String contents = null;
+		BufferedReader br = null;
+
+		// 2015.04.08 - replaced code using Scanner with code below using BufferedReader.
+		// not sure why, but scanner is not working when executed from within jar (scanner.next())
+		// throws an exception.
+		try {
+			br = new BufferedReader(new FileReader(fileName));
+			StringBuilder fileContents = new StringBuilder();
+			String line;
+			while ((line = br.readLine()) != null) {
+				fileContents.append(line + "\n");
+			}
+			contents = new String(fileContents);
+		} catch (IOException e) {
+			e.printStackTrace();
+			System.exit(1);
+		} finally {
+			br.close();
+		}
+		return contents;
 	}
 
 	/**
@@ -188,6 +284,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 			// section automatically does this by assigning a reference to parent, and then
 			// inserting the current section into the children of the parent.
 			Scanner scanner = new Scanner(toc);
+
 			while (scanner.hasNextLine()) {
 				// read next line of toc.
 				Scanner lineScanner = new Scanner(scanner.nextLine());
@@ -311,8 +408,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 
 		examSectionLookup.put("2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes",
 				"Financial Transactions and Fraud Schemes");
-		examSectionLookup.put("2011 Fraud Examiners Manual/Introduction",
-				"Financial Transactions and Fraud Schemes");
+		examSectionLookup.put("2011 Fraud Examiners Manual/Introduction", "Financial Transactions and Fraud Schemes");
 		examSectionLookup.put("2011 Fraud Examiners Manual/Law", "Law");
 		examSectionLookup.put("2011 Fraud Examiners Manual/Investigation", "Investigation");
 		examSectionLookup.put("2011 Fraud Examiners Manual/Fraud Prevention and Deterrence",
@@ -343,13 +439,12 @@ public abstract class AbstractCFEManual implements CFEManual {
 
 		// the rest are simply the reverse of the question section -> manual section pairs in
 		// the manual section lookup.
-		questionSectionLookup.put("2011 Fraud Examiners Manual/Introduction",
-				"Introduction to Fraud Examination");
+		questionSectionLookup.put("2011 Fraud Examiners Manual/Introduction", "Introduction to Fraud Examination");
 		questionSectionLookup.put(
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS",
 				"Basic Accounting Concepts");
 		questionSectionLookup
-				.put("2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENT’S, AUDITORS’, AND FRAUD EXAMINERS’ RESPONSIBILITIES",
+				.put("2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENTï¿½S, AUDITORSï¿½, AND FRAUD EXAMINERSï¿½ RESPONSIBILITIES",
 						"Manager's and Auditor's Responsibilities");
 		questionSectionLookup.put(
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BRIBERY AND CORRUPTION",
@@ -439,10 +534,13 @@ public abstract class AbstractCFEManual implements CFEManual {
 				"Data Analysis");
 		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS", "Digital Forensics");
 		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/REPORTING STANDARDS", "Written Reports");
-		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/FRAUD EXAMINATION CHECKLIST", "Written Reports");
-		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/SAMPLE FRAUD EXAMINATION REPORTS", "Written Reports");
+		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/FRAUD EXAMINATION CHECKLIST",
+				"Written Reports");
+		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/SAMPLE FRAUD EXAMINATION REPORTS",
+				"Written Reports");
 		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/SAMPLE FORMS", "Written Reports");
-		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/ENGAGEMENT CONTRACTS OPINION LETTERS", "Written Reports");
+		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/ENGAGEMENT CONTRACTS OPINION LETTERS",
+				"Written Reports");
 		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/COVERT EXAMINATIONS",
 				"Covert Examinations");
 		questionSectionLookup.put("2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS",
@@ -484,40 +582,28 @@ public abstract class AbstractCFEManual implements CFEManual {
 	 * 
 	 * (NOTE: The sub-headings should be in all capitals when adding to table.)
 	 * 
-	 * The Law Related to Fraud:
-	 * 		The Law Related to Fraud (Part 1)
-	 * 		The Law Related to Fraud (Part 2)
+	 * The Law Related to Fraud: The Law Related to Fraud (Part 1) The Law Related to Fraud (Part 2)
 	 * 
-	 * Ethics for Professional Examiners:
-	 * 		Ethics for Fraud Examiners
-	 * 		ACFE Code of Professional Standards
-	 * 		CFE Code of Professional Standards
+	 * Ethics for Professional Examiners: Ethics for Fraud Examiners ACFE Code of Professional Standards CFE Code of
+	 * Professional Standards
 	 * 
-	 * Criminology:
-	 * 		Theories of Crime Causation
-	 * 		Understanding Human Behavior
+	 * Criminology: Theories of Crime Causation Understanding Human Behavior
 	 * 
-	 * Sources of Information:
-	 * 		Sources of Information
-	 * 		Accessing Information Online
-	 * 		
-	 * Written Reports:
-	 * 		Fraud Examination Checklist
-	 * 		Sample Fraud Examination Reports
-	 * 		Sample Forms
-	 * 		Engagement Contracts and Opinion Letters
+	 * Sources of Information: Sources of Information Accessing Information Online
+	 * 
+	 * Written Reports: Fraud Examination Checklist Sample Fraud Examination Reports Sample Forms Engagement Contracts
+	 * and Opinion Letters
 	 */
 	private void buildManualSectionLookup() {
 
 		manualSectionLookup = new HashMap<String, String>();
 
-		manualSectionLookup.put("Introduction to Fraud Examination",
-				"2011 Fraud Examiners Manual/Introduction");
+		manualSectionLookup.put("Introduction to Fraud Examination", "2011 Fraud Examiners Manual/Introduction");
 		manualSectionLookup.put("Basic Accounting Concepts",
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS");
 		manualSectionLookup
 				.put("Manager's and Auditor's Responsibilities",
-						"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENT’S, AUDITORS’, AND FRAUD EXAMINERS’ RESPONSIBILITIES");
+						"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENTï¿½S, AUDITORSï¿½, AND FRAUD EXAMINERSï¿½ RESPONSIBILITIES");
 		manualSectionLookup.put("Bribery and Corruption",
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BRIBERY AND CORRUPTION");
 		manualSectionLookup

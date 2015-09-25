@@ -203,3 +203,50 @@ determine the best option to pick.
 11/04/2014 - There is no law, based on the approach to the dissertation at this point, that requires 
 the agent to be based solely on the knowledge base approach.  Blend in information retrieval approaches
 as they prove effective relative to the KB approach.  Use basic optimization technique for this?
+* 12. When analyzing multiple choice questions, analyze the entity types of the options.
+
+It is possible that when looking at the options within a question, the options are generally
+of the same entity type.  For example, a "Who" question is likely to have names of people
+for all options.  This may be helpful when doing entity type determination and relation
+extraction.
+
+* 13. Try an approach to question answer, as a start, that uses only the hierarchical structure of the fem.
+
+That is, consider the semantic network that is created from only the section titles, subsection titles,
+and sub-subsection titles, etc. in the manual.  (That is, ignore text).  How much information can be
+gleaned from this?  consider also, the entities in the multiple choice questions, and how they might line
+up with the entities given in the section titles.  
+
+* 14. Use a multi-agent approach for the qa system.
+
+That is, the multi-agent system will have agents that specialize in a specific test area, or manual
+section.  A meta-agent will determine, trivially, which agent is to be used; trivially because the task
+of determining which section is applicable for the answer should be an easy one since the question
+comes with an exam section label.
+
+* 15. Use the options in the multiple choice questions to identify entities/entity types.
+
+That is, since it is likely the case that the entities are of the same type (see item 12), assume that 
+they, in fact, are of of the same type, and then search for these entities in the manual to get further
+information about them, perform relation extraction on them, etc.
+
+* 16. Use the question stem to determine the entity type for the options. 
+
+For example, if the question starts with "Who..." then all of the options can be assumed to be
+of the person type.
+
+Example question:  
+
+Basic Accounting Concepts 1
+
+Stem=Which GAAP principle requires corresponding expenses and revenue to be recorded in the same accounting period?
+
+Options=Consistency | Full disclosure | Matching | Conservatism
+
+
+All of the options can be correctly assumed to of entity type, GAAP principle.
+
+* 17. Consult wikipedia for further bibliographic references/info on closed-domain qa.
+
+Consult Wolfram Alpha QA - referred to on Wikipedia as a hybrid QA system that uses data mining algorithms
+to construct a knowledge base.

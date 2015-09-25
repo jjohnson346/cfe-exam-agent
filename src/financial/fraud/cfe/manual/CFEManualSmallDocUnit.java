@@ -16,15 +16,18 @@ import financial.fraud.cfe.logging.Logger;
 public class CFEManualSmallDocUnit extends AbstractCFEManual {
 
 	public CFEManualSmallDocUnit() {
-		
+
 		super();
-		
+
+		System.out.println("initializing logger...");
+		logger = Logger.getInstance();
+
 		// set doc text for each cfe manual section object.
-		Logger.getInstance().println("Setting document bodies for manual sections...", DetailLevel.MEDIUM);
+		logger.println("Setting document bodies for manual sections...", DetailLevel.MEDIUM);
 		this.setBodiesForSections();
-		Logger.getInstance().println("Setting document bodies process complete.", DetailLevel.MEDIUM);
+		logger.println("Setting document bodies process complete.", DetailLevel.MEDIUM);
 	}
-	
+
 	private void setBodiesForSections() {
 		setSectionBody(root);
 	}
@@ -35,6 +38,7 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 			setSectionBody(subSection);
 		}
 	}
+
 	/**
 	 * determines the beginning character position of for each CFEManual section object within the text of the cfe
 	 * manual. For the root section, this is always 0. For the rest, it starts the search at the beginning position of
@@ -65,17 +69,18 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
 		Matcher pageMatcher = pagePattern.matcher(manualText);
 
-		// System.out.println("Searching for page " + section.pageNumber + "...");
+		logger.println("Searching for page " + section.pageNumber + "...", DetailLevel.FULL);
+		
 		if (pageMatcher.find()) {
 			pagePos = pageMatcher.start();
-			// System.out.println("page " + section.pageNumber + " found at " + pagePos);
+			logger.println("page " + section.pageNumber + " found at " + pagePos, DetailLevel.FULL);
 		} else {
-			// System.out.println("page " + section.pageNumber + " NOT FOUND.");
+			logger.println("page " + section.pageNumber + " NOT FOUND.", DetailLevel.FULL);
 		}
 
 		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
 
-		// find the name of section immed. after begPos.
+		// find the name of section immediately after begPos.
 		section.begPosition = manualText.indexOf(section.name, begPos);
 
 		// final String SECTION_LINE_REGEX = "^" + section.name + "\\s*?$";
@@ -96,7 +101,7 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 		}
 		return section.begPosition;
 	}
-	
+
 	/**
 	 * determines the position of the last character for each CFEManualSection object. This is done by iterating through
 	 * the section objects of the tree, and setting the end position of the prior section to equal the beginning
@@ -113,7 +118,7 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 	 */
 	protected void loadEndPositions(CFEManualSection section, String manualText) {
 
-		Logger.getInstance().println("Loading section details for section, " + section.name + "...", DetailLevel.FULL);
+		logger.println("Loading section details for section, " + section.name + "...", DetailLevel.FULL);
 
 		CFEManualSection currSection = null;
 		CFEManualSection prevSection = null;
@@ -168,9 +173,8 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 		if (hasChild)
 			section.endPosition = firstSubSectionBegPos;
 
-		Logger.getInstance().println("Section details load for section, " + section.name + " complete.",
-				DetailLevel.FULL);
+		logger.println("Section details load for section, " + section.name + " complete.", DetailLevel.FULL);
 
 	}
-	
+
 }

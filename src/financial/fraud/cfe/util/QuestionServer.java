@@ -3,6 +3,7 @@ package financial.fraud.cfe.util;
 import java.io.File;
 import java.io.IOException;
 import java.util.Iterator;
+import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -25,7 +26,7 @@ public class QuestionServer {
 
 	private List<String> questionFileNames;			// the list of question file names
 	
-	private List<CFEExamQuestion> questions;			// the list of CFEExamQuestion objects
+	private LinkedHashSet<CFEExamQuestion> questions;			// the list of CFEExamQuestion objects
 	
 	private Iterator<CFEExamQuestion> iter;			// an iterator for traversing the questions list
 	
@@ -35,27 +36,15 @@ public class QuestionServer {
 	 * CFEExamQuestions objects, created by traversing the files in the exam questions
 	 * directory.
 	 */
-	public QuestionServer() {
+	public QuestionServer(String directory) {
 		
 		Logger.getInstance().println("Initializing question server...", DetailLevel.MEDIUM);
 		
-		questionFileNames = getQuestionFileNames();
+		questionFileNames = getQuestionFileNames(directory);
 		questions = getQuestions();
 		iter = questions.iterator();
 		
 		Logger.getInstance().println("Question server initialization complete.", DetailLevel.MEDIUM);
-	}
-	
-	/**
-	 * This constructor takes a list of CFEExamQuestions objects as an input parameter, 
-	 * and initializes its questions variable to reference this list (instead of internally
-	 * developing the list from the files in the exam questions directory).
-	 * 
-	 * @param questions
-	 */
-	public QuestionServer(List<CFEExamQuestion> questions) {
-		this.questions = questions;
-		iter = questions.iterator();
 	}
 	
 	/**
@@ -85,11 +74,11 @@ public class QuestionServer {
 	 * 
 	 * @return a list of strings for the question file names
 	 */
-	private List<String> getQuestionFileNames() {
+	private List<String> getQuestionFileNames(String directory) {
 		LinkedList<String> questionFileNames = new LinkedList<String>();
 
 		try {
-			File questionsDir = new File("Exam Questions");
+			File questionsDir = new File(directory);
 			String examQuestionsPathName = questionsDir.getCanonicalPath();
 
 			for (String testAreaDirName : questionsDir.list()) {
@@ -115,16 +104,19 @@ public class QuestionServer {
 		return questionFileNames;
 	}
 	
+
 	/**
-	 * returns the list of questions compiled by traversing the question files 
+	 * returns the linked hash set of questions compiled by traversing the question files 
 	 * in each exam section directory in the the exam questions directory.
 	 * 
 	 * @return a list of CFEExamQuestion objects
 	 */
-	private List<CFEExamQuestion> getQuestions() {
-		LinkedList<CFEExamQuestion> questions = new LinkedList<CFEExamQuestion>();
+	private LinkedHashSet<CFEExamQuestion> getQuestions() {
+		LinkedHashSet<CFEExamQuestion> questions = new LinkedHashSet<CFEExamQuestion>();
 		for(String fileName : questionFileNames) {
-			questions.add(new CFEExamQuestion(fileName));
+			CFEExamQuestion q = new CFEExamQuestion(fileName);
+			if(!questions.add(q)) 
+				System.out.println("duplicate question: " + q);
 		}
 		return questions;
 	}
@@ -133,7 +125,7 @@ public class QuestionServer {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		QuestionServer qs = new QuestionServer();
+		QuestionServer qs = new QuestionServer("exam questions - all");
 
 		int count = 0;
 		while(qs.hasNext()) {
