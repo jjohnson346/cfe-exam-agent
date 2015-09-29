@@ -1,0 +1,693 @@
+ACCOUNTING CONCEPTS 
+ 
+Fraudulent acts are usually of a financial nature. The fraud examiner must therefore 
+understand the essential nature of financial transactions and how they affect records. 
+Additionally, the fraud examiner should have a grasp of both financial terminology and 
+accounting theory.  
+ 
+ 
+Accounting Basics 
+Accounting can be defined as the identification, accumulation, measurement, and 
+communication of economic data about an enterprise for decision makers and other 
+interested parties. The measurement and recording of this data are accomplished through 
+keeping a balance of the accounting equation. The accounting model or accounting equation, 
+as shown below, is the basis for all double-entry accounting:  
+ 
+Assets = Liabilities + Owners� Equity 
+ 
+By definition, assets consist of the net resources owned by an entity. Examples of assets 
+include cash, receivables, inventory, property, and equipment, as well as intangible items of 
+value such as patents, licenses, and trademarks. To qualify as an asset, an item must (1) be 
+owned by the entity and (2) provide future benefit.  
+ 
+Liabilities are the obligations of an entity or outsiders� claims against a company�s assets. 
+Liabilities usually arise from the acquisition of assets or the incurrence of operational 
+expenses. 
+Accounting Concepts  Financial Transactions   
+1.102                         2011 Fraud Examiners Manual  
+Owners� equity  represents the investment of a company�s owners plus accumulated profits 
+(revenues less expenses). Owners� equity is equal to assets minus liabilities.  
+ 
+This equation has been the cornerstone of accounting since 1494, when Luca Pacioli 
+invented it. The balance of the equation is the key. If a company borrows from a bank, cash 
+(an asset) and notes payable (a liability) increase to show the receipt of cash and an 
+obligation owed by the company. Since both assets and liabilities increase by the same 
+amount, the equation stays in balance.  
+ 
+Accounts and the Accounting Cycle 
+The major components of the accounting equation are made up of numerous detail 
+accounts. An account is nothing more than a specific accounting record that provides an 
+efficient way to categorize similar transactions. All transactions are recorded in accounts that 
+are categorized as asset accounts, liability accounts, owners� equity accounts, revenue 
+accounts, and expense accounts. Account format occurs in a number of ways. The simplest, 
+most fundamental format is the use of a large letter T, often referred to as a T account.  
+ 
+Entries to the left side of an account are debits (dr) and entries to the right side of an account 
+are credits (cr). Debits increase asset and expense accounts, while credits decrease them. 
+Conversely, credits increase liability, owners� equity, and revenue accounts; debits decrease 
+them. Every transaction recorded in the accounting records will have both a debit and a 
+credit, thus the term double-entry accounting. The accounting equation, in the form of T 
+accounts, looks like the following:   
+ 
+ 
+ 
+Fraud investigation often requires an understanding of the debit-and-credit process. For 
+example, a fraud examiner who is searching for a mysterious $5,000 disappearance of cash 
+finds a debit in the legal expense account and a corresponding credit in the cash account for 
+$5,000, but cannot find genuine documentation for the charge. The examiner can then 
+reasonably suspect that a perpetrator may have attempted to conceal the theft by labeling the 
+misappropriated $5,000 as a legal expense.  
+ 
+ Assets  =  Liabilities + Owner's Equities
+
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.103 
+Discovering concealment efforts through a review of accounting records is one of the easier 
+methods of detecting internal fraud; usually, one needs only to look for weaknesses in the 
+various steps of the accounting cycle. Legitimate transactions leave an audit trail. They start 
+with a source document such as an invoice, a check, a receipt, or a receiving report. These 
+source documents become the basis for journal entries, which are chronological listings of 
+transactions with their debit and credit amounts. Entries are made in various accounting 
+journals. Then, entries are posted to the appropriate general ledger accounts. The 
+summarized account amounts become the basis for financial statements for a particular 
+period. 
+ 
+Illustrated below is this flow of transactional information through the accounting records, 
+followed by examples of typical accounting transactions, to help in understanding how 
+transactions affect the balance sheet: 
+ 
+ 
+Journal Entries  
+As transactions occur, they are recorded in a company�s books via journal entries. Each journal 
+entry serves as a record of a particular transaction and forms an audit trail that can be 
+retraced later for an understanding of a company�s operations. Journal entries that are not 
+triggered by a transaction, called adjusting journal entries, are also made periodically for items 
+such as depreciation expense and accounts receivable write-offs.  
+ 
+ 
+Transaction Occurs 
+Purchase Orders, Receipts, and Other 
+Documents Are Created 
+Transaction Is Recorded in Journals 
+Journals Are Posted to Individual Accounts
+Financial Statements Are Generated with 
+Account Balances 
+Accounting Concepts  Financial Transactions   
+1.104                         2011 Fraud Examiners Manual  
+EXAMPLE  
+XYZ Company completed the following transactions during its first year of operations, 
+20XX. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accounting Methods 
+
+There are two primary methods of accounting: cash-basis and accrual-basis. Cash-basis 
+accounting involves recording revenues and expenses based on when a company pays or 
+receives cash. For example, sales are recorded when a company receives payment for goods, 
+regardless of when the goods are delivered. If a customer purchases goods on credit, the 
+company does not book the sale until the cash is received for the sale. Likewise, if a 
+customer prepays for a sale, the company records the sales revenue immediately, rather than 
+when the goods are passed off to the customer. The same holds true with expenses: they are 
+recorded when paid without consideration to when they are incurred.  
+ 
+Accrual-basis accounting, on the other hand, requires revenues to be recorded when they are 
+earned (generally, when goods are delivered or services are rendered to a customer), without 
+Transaction Analysis Account Debit Credit Assets Liabilities  Equity
+ Enterprise established, Cash increased Cash 192,000 192,000    
+Owner invests $192,000 Liabilities no effect   Common Stock 192,000  192,000   
+Equity increased
+ Cumulative Balance�����. ������������������� ������������������� 1 9 2,000 192,000 192,000    -    192,000   
+Company borrowed $80,000 Cash increased Cash 80,000  80,000    
+on a note payable Liabilities increased   Notes Payable 80,000  80,000    
+Equity no effect
+ Cumulative Balance�����. ������������������� ������������������� 2 7 2,000 272,000 272,000    80,000    1 9 2,000   
+Purchase business Cash decreased Equipment 70,000   70,000    
+equipment for $70,000 Assets increased   Cash 70,000  (70,000)  
+Liab & Equity no effect
+ Cumulative Balance�����. ������������������� ������������������� 3 4 2,000 342,000 272,000    80,000    1 9 2,000   
+Services rendered to client Cash increased Cash 15,000  15,000    
+$40,000, $15,000 collected A /R increased   Accounts Receivable 25,000  25,000    
+in advance Equity increased   Sales Revenue 40,000   40,000   
+Cumulative Balance�����. ������������������� ������������������� 3 8 2,000 382,000 312,000    80,000    2 3 2,000   
+Operating expenses incurred Cash decreased Operating Expenses 25,000  (25,000)   
+$25,000, Liabilities increased Cash 14,000  (14,000)  
+14,000 paid in cash Equity decreased   Accounts Payable 11,000  11,000    
+Cumulative Balance�����. ������������������� ������������������� 4 0 7,000 407,000 298,000    91,000    2 0 7,000   
+Paid $5,000 on Note Cash decreased Notes Payable 5,000  (5,000)    
+Payable  Liabilities decreased   Cash 5,000  (5,000)    
+Cumulative Balance�����. ������������������� ������������������� 4 1 2,000 412,000 293,000    86,000    2 0 7,000   
+Depreciated equipment for Asset decreased Depreciation expense 7,000  (7,000)   
+1 yr, estimated life 10yr  Equity decreased   Accum. Depreciation 7,000  (7,000)    
+($70,000 /1 0) = $7,000
+ Cumulative Balance�����. ������������������� ������������������� 4 1 9,000 419,000 286,000    86,000    2 0 0,000   
+Balance Sheet Effect  
+Journal Entry Assets = Liabilities + Owners Equity
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.105 
+regard to when cash exchanges hands. Expenses are recorded in the same period as the 
+revenues to which they relate. For example, employee wages are expensed in the period 
+during which the employees provided services, which may not necessarily be the same 
+period in which they were paid. 
+ 
+Under cash accounting, a company may decide to postpone paying some expenses so they 
+are not recorded in the current period, resulting in an artificially inflated bottom line. 
+Conversely, accrual accounting requires expenses to be matched to revenues; therefore, it 
+provides a truer picture of a company�s financial situation. As such, generally accepted 
+accounting principles mandate the use of accrual-basis accounting.  
+ 
+ 
+Financial Statements 
+The results of the accounting process are reports, or financial statements, that exemplify the 
+financial position and operating results of an entity. Financial statements are often the 
+vehicles through which fraud occurs. 
+ 
+According to AU section 623, Special Reports, promulgated by the AICPA�s Auditing 
+Standards Board, financial statements include presentations of financial data and 
+accompanying notes prepared in conformity with either generally accepted accounting 
+principles or some other comprehensive basis of accounting. The following is a list of such 
+financial statements: 
+� Balance sheet 
+� Statement of income or statement of operations 
+� Statement of retained earnings 
+� Statement of cash flows 
+� Statement of changes in owners� equity 
+� Statement of assets and liabilities that does not include owners� equity accounts 
+� Statement of revenue and expenses 
+� Summary of operations 
+� Statement of operations by product lines 
+� Statement of cash receipts and disbursements 
+ 
+Although not specifically noted in AU section 623, financial statements may also include 
+other financial data presentations, such as: 
+� Prospective financial information (forecasts) 
+Accounting Concepts  Financial Transactions   
+1.106                         2011 Fraud Examiners Manual  
+� Proxy statements 
+� Interim financial information (for example, quarterly financial statements) 
+� Current value financial presentations 
+� Personal financial statements (current or present value) 
+� Bankruptcy financial statements 
+� Registration statement disclosures (Securities Act of 1933) 
+ 
+Other comprehensive bases of accounting, according to AU section 623, include: 
+� Government or regulatory agency accounting 
+� Tax-basis accounting 
+� Cash receipts and disbursements, or modified cash receipts and disbursements 
+� Any other basis with a definite set of criteria applied to all material items, such as the 
+price-level basis of accounting 
+ 
+Consequently, the term financial statements  includes almost any financial data presentation 
+prepared in accordance with generally accepted accounting principles or another 
+comprehensive basis of accounting. Throughout this section, the term financial statements 
+will include the above forms of reporting financial data, including the accompanying 
+footnotes and management�s discussion. For most companies, however, a full set of financial 
+statements comprises a balance sheet, a statement of income, a statement of owners� equity 
+or a statement of retained earnings, and a statement of cash flows. Therefore, fraud 
+examiners should be familiar with the purpose and components of each of these financial 
+statements.  
+ 
+Balance Sheet 
+The balance sheet shows a �snapshot� of a company�s financial situation at a specific point in 
+time, generally the last day of the accounting period. The balance sheet is an expansion of 
+the accounting equation, assets = liabilities + owners� equity. That is, it lists a company�s assets 
+on one side and its liabilities and owners� equity on the other side. The nature of the 
+accounting equation means that the two sides of the statement should balance, hence the 
+name �balance sheet.�  
+ 
+The following balance sheet, derived from the journal entries in the above example, shows 
+the financial position of XYZ Company on the last day of its first year of operations.  
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.107 
+XYZ Company 
+Balance Sheet  
+December 31, 20XX 
+      
+      
+Assets     Liabilities    
+Current Assets    Current Liabilities   
+Cash  $  198,000    Accounts Payable  $    11,000   
+Accounts Receivable 25,000   Total Current Liabilities   $    11,000 
+Total Current Assets   $  223,000     
+    Long-term Liabilities   
+Fixed Assets    Notes Payable 75,000   
+Equipment 70,000   
+Total Long-term 
+Liabilities  75,000 
+Less: Accum. Depreciation (7,000)   Total Liabilities  86,000 
+Total Fixed Assets  63,000     
+    Owners� Equity    
+    Common Stock 192,000   
+    Retained Earnings 8,000   
+    Total Owners� Equity  200,000 
+       
+Total Assets   $  286,000  
+Total Liabilities and 
+Equity   $  286,000 
+ 
+As mentioned, assets are the resources owned by a company. Generally, assets are presented 
+on the balance sheet in order of liquidity, or how soon they are expected to be converted to 
+cash. The first section on the assets side, current assets, includes all those assets that are 
+expected to be converted to cash, sold, or used up within one year. This category usually 
+includes cash, accounts receivable (the amount owed to a company by customers for sales 
+on credit), inventory, and prepaid items. Following the current assets are the long-term assets, 
+or those assets that will likely not be converted to cash in the near future, such as fixed assets 
+(e.g., land, buildings, equipment) and intangible assets (e.g., patents, trademarks, goodwill). A 
+company�s fixed assets are presented net of accumulated depreciation, an amount that 
+represents the cumulative expense taken for wear-and-tear on a company�s property. 
+Likewise, intangible assets are presented net of accumulated amortization, an amount that 
+represents the collective expense taken for declines in value of the intangible property. 
+ 
+Liabilities are presented in order of maturity. Like current assets, current liabilities  are those 
+obligations that are expected to be paid within one year, such as accounts payable (the 
+amount owed to vendors by a company for purchases on credit), accrued expenses (e.g., 
+taxes payable or salaries payable), and the portion of long-term debts that will come due 
+Accounting Concepts  Financial Transactions   
+1.108                         2011 Fraud Examiners Manual  
+within the next year. Those liabilities that are not due for more than a year are listed under 
+the heading long-term liabilities. The most common liabilities in this group are bonds, notes, 
+and mortgages payable. The total balance of the note payable is listed under long-term 
+liabilities on XYZ Company�s balance sheet, indicating that it does not have to make any 
+payments on the note during the next year. However, if a $5,000 payment was required 
+during the next year, the company would have to reclassify $5,000 of the note balance to the 
+current liabilities section and show the remaining $70,000 as a long-term liability. This 
+adjustment would not change the total amount of the outstanding liability that was shown � all 
+$75,000 would still appear on the balance sheet - but it would allow financial statement 
+users to know that the company had an obligation to pay $5,000 during the next year rather 
+than at some unspecified time in the future.  
+ 
+The owners� equity in a firm generally represents amounts from two sources � owner 
+contributions (usually referred to as common or capital stock, and paid-in capital) and 
+undistributed earnings (usually referred to as retained earnings). The balance in the capital stock 
+account increases when the owners of a company invest in it through the purchase of 
+company stock. The retained earnings balance increases when a company has earnings and 
+decreases when a company has losses. The retained earnings account is also decreased when 
+earnings are distributed to a company�s owners in the form of dividends, or when a company 
+has losses. XYZ Company�s balance sheet shows that the company�s owners have 
+contributed $192,000 to the company and that the company has retained $8,000 of earnings 
+as of December 31, 20XX.  
+ 
+Income Statement 
+Whereas the balance sheet shows a company�s financial position at a specific point in time, 
+the income statement details how much profit (or loss) a company earned during a period of 
+time, such as a quarter or a year. The accounts reflected on the income statement are 
+temporary; at the end of each fiscal year, they are reduced to a zero balance (closed), with the 
+resulting net income (or loss) added to (or subtracted from) retained earnings on the balance 
+sheet.  
+ 
+Below is the income statement for XYZ Company for its first year of operations based on 
+the sample transactions above. 
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.109 
+XYZ Company 
+Statement of Income 
+For the Year Ended December 31, 20 X X  
+   
+Revenue   
+Net Sales  $             40,000  
+Less: Cost of Goods Sold  25,000  
+Gross Profit   $             15,000 
+   
+Operating Expenses    
+Depreciation 7,000  
+Total Operating Expenses  7,000 
+   
+Net Income   $               8,000 
+ 
+Two basic types of accounts are reported on the income statement - revenues  and expenses. 
+Revenues represent amounts received from the sale of goods or services during the 
+accounting period. Most companies present net sales  or net service revenues  as the first line item 
+on the income statement. The term �net� means that the amount shown is the company�s 
+total sales minus any sales refunds, returns, discounts, or allowances.  
+ 
+From net sales, an expense titled cost of goods sold  or cost of sales  is deducted. Regardless of 
+industry, this expense denotes the amount a company spent (in past, present, and/or future 
+accounting periods) to produce the goods or services that were sold during the current 
+period. For a company that manufactures goods, cost of goods sold signifies the amount the 
+company spent on materials, labor, and overhead expenses to produce the goods that were 
+sold during the accounting period. For a merchandise reseller, this expense is the amount the 
+company has paid to purchase the goods that were resold during the period. For a service 
+company, the cost of sales is typically the amount of salaries paid to the employees who 
+performed the services that were sold. The difference between net sales and cost of goods 
+sold is called gross profit  or gross margin, which represents the amount left over from sales to 
+pay the company�s operating expenses.  
+ 
+Operating expenses are those costs that a company incurs to support and sustain its business 
+operations. Generally, these expenses include items such as advertising, management�s 
+salaries, office supplies, repairs and maintenance, rent, utilities, depreciation, interest, and 
+Accounting Concepts  Financial Transactions   
+1.110                         2011 Fraud Examiners Manual  
+taxes. Accrual accounting requires that these items be included on the income statement in 
+the period in which they are incurred, regardless of when they are paid.  
+ 
+After subtracting operating expenses from gross profit, a company�s net income or net earnings 
+for the period is determined. If a company�s total expenses were greater than its total 
+revenues and the bottom line is negative, then it had a net loss  for the period. Commonly, a 
+profitable company will distribute some of its net income to its owners in the form of 
+dividends. Whatever income is not distributed is transferred to the retained earnings account 
+on the balance sheet. In the case of XYZ Company, net income for the year was $8,000. The 
+company did not distribute any of these earnings, so the total amount � $8,000 � is shown 
+on the balance sheet as retained earnings. If the company is also profitable during its next 
+year of operations, any net income that is not distributed as dividends will be added to the 
+$8,000 balance in retained earnings. If expenses outpace revenues and XYZ Company shows 
+a loss for its second year, that loss will be deducted from the $8,000 retained earnings 
+balance at the end of the second year.  
+ 
+To summarize, the income statement ties to the balance sheet through the retained earnings 
+account as follows: 
+ 
+ 
+ 
+Statement of Owners� Equity 
+The statement of owners� equity details the changes in the total owners� equity amount listed 
+on the balance sheet. Because it shows how the amounts on the income statement flow 
+through to the balance sheet, it acts as the connecting link between the two statements. The 
+balance of the owners� equity at the beginning of the year is the starting point for the 
+statement. The transactions that affect owners� equity are listed next and added together. 
+The result is added to (or subtracted from, if negative) the beginning-of-the-year balance, 
+which provides the end-of-the-year balance for total owners� equity.  
+Assets Liabilities + Owners� Equity =  
+Common Stock Retained Earnings
+ Dividends Net  Income
+ Revenue Expenses 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.111 
+The statement of owners� equity for XYZ Company would appear as follows:  
+ 
+XYZ Company 
+Statement of Owners� Equity 
+For the Year Ended December 31, 20XX  
+  
+Owners� equity, January 1, 20XX  $              -  
+Investment by owners during the year  $      192,000  
+Net income for the year 8,000  
+Increase in owners� equity 200,000  
+Owners� equity, December 31, 20XX  $      200,000  
+ 
+XYZ Company completed two types of transactions that affected the owners� equity during 
+20XX: the $192,000 invested by the company�s shareholders, and the revenue and expenses 
+that resulted in the net income of $8,000. Had the company distributed any money to the 
+shareholders in the form of dividends, that amount would be listed on the statement of 
+owners� equity as well. Notice that the $8,000 ties directly to the bottom line of the income 
+statement, and the $200,000 owners� equity ties to the �total owners� equity� amount on the 
+balance sheet.  
+ 
+Some companies present a statement of retained earnings rather than a statement of owners� 
+equity. Similar to the statement of owners� equity,  the statement of retained earnings starts 
+with the retained earnings balance at the beginning of the year. All transactions affecting the 
+retained earnings account are then listed and added to the beginning balance to arrive at the 
+ending balance in the retained earnings account. Below is an example of the statement of 
+retained earnings for XYZ Company:  
+ 
+XYZ Company 
+Statement of Retained Earnings 
+For the Year Ended December 31, 20XX  
+   
+Retained earnings, January 1, 20XX  $              -   
+Net income for the year  $         8,000  
+Increase in owners� equity 8,000  
+Retained earnings, December 31, 20XX  $         8,000  
+ 
+Accounting Concepts  Financial Transactions   
+1.112                         2011 Fraud Examiners Manual  
+Statement of Cash Flows 
+The statement of cash flows reports a company�s sources and uses of cash during the 
+accounting period. This statement is often used by potential investors and other interested 
+parties in tandem with the income statement to determine the true financial performance of 
+a company during the period being reported. The nature of accrual accounting allows (and 
+often requires) the income statement to contain many non-cash items and subjective 
+estimates that make it difficult to fully and clearly interpret a company�s operating results. 
+However, it is much harder to distort the amount of cold, hard cash that was received and 
+paid during the year, so the statement of cash flows adds to the transparency of the financial 
+statements.  
+ 
+The following is the statement of cash flows for XYZ Company:  
+ 
+XYZ Company 
+Statement of Cash Flows � Direct Method 
+For the Year Ended December 31, 20 X X  
+   
+Cash flows from operating activities   
+Cash received from customers  $       15,000  
+Cash paid for merchandise (14,000)  
+Net cash flows from operating activities  $         1,000  
+  
+Cash flows from investing activities  
+Cash paid for purchase of equipment (70,000)  
+Net cash flows from investing activities (70,000) 
+  
+Cash flows from financing activities  
+Cash received as owners� investment 192,000  
+Cash received from issuing note payable 80,000  
+Cash paid on note payable (5,000)  
+Net cash flows from financing activities 267,000  
+  
+Increase in cash 198,000  
+Cash balance at the beginning of the year           0  
+Cash balance at the end of the year  $      198,000  
+ 
+The statement of cash flows is broken down into three sections: cash flows from operating 
+activities, cash flows from investing activities, and cash flows from financing activities.  
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.113 
+Cash Flows from Operations 
+The cash flows from operations section summarizes a company�s cash receipts and payments 
+arising from its normal business operations. Cash inflows included in this category 
+commonly consist of payments received from customers for sales, and cash outflows include 
+payments to vendors for merchandise and operating expenses and to employees for wages.  
+ 
+This category can also be summarized as those cash transactions that ultimately affect a 
+company�s operating income; therefore, it is often considered the most important of the 
+three categories of cash flows. If a company continually shows large profits per its income 
+statement, but cannot generate positive cash flows from operations, then questionable 
+accounting practices might be to blame. On the other hand, net income that is supported by 
+positive and increasing net cash flows from operations is generally considered an indicator of 
+a strong company. 
+ 
+There are two methods of reporting cash flows from operations. In the above example, 
+XYZ Company�s statement of cash flows is presented using the direct method. This method 
+lists the sources of operating cash flows and the uses of operating cash flows, with the 
+difference between them being the net cash flow from operating activities.  
+ 
+In contrast, the indirect method  reconciles net income per the income statement with net cash 
+flows from operating activities; that is, accrual-basis net income is adjusted for non-cash 
+revenues and expenses to arrive at net cash flows from operations. Below is an example of 
+XYZ Company�s cash flows from operations using the indirect method:  
+ 
+XYZ Company 
+Statement of Cash Flows � Indirect Method 
+For the Year Ended December 31, 20 X X  
+Cash flows from operating activities   
+Net income, per income statement   $         8,000  
+Add:  Depreciation  $         7,000  
+  Increase in accounts payable 11,000 18,000  
+  26,000  
+Subtract:  Increase in accounts receivable (25,000) (25,000) 
+Net cash flows from operating activities  1,000  
+ 
+Accounting Concepts  Financial Transactions   
+1.114                         2011 Fraud Examiners Manual  
+Note that the net cash flows from operating activities is the same amount - in this case, 
+$1,000 � regardless of the method that is used.  The indirect method is usually easier to 
+compute and provides a comparison of a company�s operating results under the accrual and 
+cash methods of accounting. As a result, most companies choose to use the indirect method, 
+but either method is acceptable.  
+ 
+Cash Flows from Investing Activities 
+Cash inflows from investing activities usually arise from the sale of fixed assets (e.g., 
+property and equipment), investments (e.g., the stocks and bonds of other companies), or 
+intangible assets (e.g., patents and trademarks). Similarly, cash outflows from investing 
+activities include any cash paid for the purchase of fixed assets, investments, or intangible 
+assets.  
+ 
+Cash Flows from Financing Activities 
+Cash flows from financing activities involve the cash received or paid in connection with 
+issuing debt and equity securities. Cash inflows in this category occur when a company sells 
+its own stock, issues bonds, or takes out a loan. A company�s cash outflows from financing 
+activities include paying cash dividends to shareholders, acquiring shares of its own stock 
+(called treasury stock), and repaying debt.  
+  
+The total cash flows from all three categories are combined to arrive at the net increase or 
+decrease in cash for the year. This total is then added to or subtracted from the cash balance 
+at the beginning of the year to arrive at the cash balance at the end of the year, which ties 
+back to the amount of cash reported on the balance sheet.  
+ 
+Users of Financial Statements 
+Financial statement fraud schemes are most often perpetrated by management against 
+potential users of the statements. These users of financial statements include company 
+ownership and management, lending organizations, investors, regulating bodies, vendors, 
+and customers. The production of truthful financial statements plays an important role in 
+the continued success of an organization. However, fraudulent statements can be used for a 
+number of reasons. The most common use is to increase the apparent prosperity of an 
+organization in the eyes of potential and current investors. (For more information, see the 
+chapter on �Financial Statement Fraud.�)  
+ 
+ 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.115 
+Generally Accepted Accounting Principles (GAAP) 
+In preparing financial statements, management, accountants, and auditors are charged with 
+following measurement and reporting practices known as generally accepted accounting principles  
+(GAAP). The accounting practices that compose GAAP have developed through the 
+accumulation of authoritative accounting pronouncements issued by several authoritative 
+bodies. Historically, these pronouncements included Accounting Research Bulletins, 
+Accounting Principles Board (APB) Opinions, Financial Accounting Standards Board 
+(FASB) Statements and Interpretations, Emerging Issues Task Force Abstracts, and SEC 
+Staff Accounting Bulletins.  
+ 
+In 2009, FASB launched the FASB Accounting Standards Codification(FASB ASC)  as the 
+sole source of authoritative U.S. GAAP for non-governmental organizations. The 
+Codification compiles and organizes all previous sources of GAAP by topic, providing an 
+efficient and easy-to-use structure for researching and referencing accounting standards. The 
+FASB ASC effectively supersedes the pre-Codification GAAP hierarchy established in SAS 
+No. 69 and FASB Statement No. 162.  
+ 
+While the U.S. has its own set of accounting standards that form GAAP, the various 
+accounting rules from different countries are converging. The International Accounting 
+Standards Board (IASB) is developing a single set of standards, called International Financial 
+Reporting Standards (IFRS). For each accounting function, the IASB is looking for the most 
+appropriate principle for how transactions should be accounted for, or the most suitable 
+method of reporting the results. The IASB has sought the best, sometimes adopting a 
+standard from one country or another, other times creating a new standard entirely. 
+Currently, more than 120 countries require or permit the use of IFRS, with several more 
+planning to adopt IFRS in the next few years. A list of the countries that have adopted the 
+IFRS is available at www.iasplus.com/country/useias.htm.  
+ 
+Basic Underlying Accounting Principles 
+Basic accounting principles, referred to as generally accepted accounting principles, are the 
+rules by which a company�s financial transactions are recorded into their appropriate account 
+classifications. These principles have evolved over time and are expected to continue 
+changing in response to shifts in social and economic conditions, advancements in 
+technology, and demand by users for more useful or productive standards. The following is 
+a list of the basic underlying principles on which accountants should base their practices.  
+ 
+Accounting Concepts  Financial Transactions   
+1.116                         2011 Fraud Examiners Manual  
+Historical Cost 
+Although some exceptions exist, historical cost is, generally, the proper basis for the 
+recording of assets, expenses, equities, etc. For example, a piece of operational machinery 
+should be shown on the balance sheet at initial acquisition cost and not at current market 
+value or an estimated replacement value. 
+ 
+Revenue Recognition 
+In general, revenue is recognized or recorded when it becomes realized or realizable, and 
+earned. These criteria are usually met when:  
+� Persuasive evidence of an arrangement exists,  
+� Delivery has occurred or services have been rendered,  
+� The seller�s price to the buyer is fixed or determinable, and 
+� Collectibility is reasonably assured.  
+ 
+Therefore, revenue should not be recognized for work that is to be performed in subsequent 
+accounting periods, even though the work may currently be under contract; the revenue 
+should be recognized in the period in which the work is performed.  
+ 
+Matching 
+The matching principle requires that expenses be recorded in the same accounting period as 
+the revenues they help generate. Estimates, accruals, and allocations are often needed to 
+meet this requirement. When a sale is recorded, the appropriate charges for cost of goods 
+sold, or other expenses directly corresponding to the sale, should be recorded in the same 
+accounting period.  
+ 
+Consistency 
+Entities should employ consistent accounting procedures from period to period. Variations 
+or changes in accounting policies and procedures must be justifiable. Standards used to value 
+inventory, depreciate assets, or accrue expenses should be consistent from one accounting 
+period to the next. 
+ 
+Full Disclosure 
+The financial statements of an entity should include all information necessary for the 
+formation of valid decisions by the users. The statements should not include too much 
+information, but are required to include enough information so that the user is not misled. 
+Supplemental notes to the financial statements are usually required to meet these criteria. 
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.117 
+Objectivity 
+Accounting records should be designed and kept on objective, rather than subjective, 
+evidence. Underlying verifiability must exist for the information contained in the statements. 
+For example, assets are carried at historical cost and not at an estimated current value. 
+Historical cost should be verifiable through legitimate proof of purchase.  
+ 
+Separate Entity Assumption 
+Economic activity of an entity should be kept separate from other personal or business 
+entities. For example, personal business transactions of an entity�s owners or operators 
+should not be included in the financial reports of the entity.  
+ 
+Going Concern � Continuity Assumption 
+There is an assumption that an entity will continue as a going concern; that is, the life of the 
+entity will be long enough to fulfill its financial and legal obligations. Any evidence to the 
+contrary must be reported in the financial statements of the entity. 
+ 
+Unit of Measure 
+All financial reports are based on the monetary unit, e.g., the dollar for U.S. entities. This 
+assumption recognizes that the monetary unit is an effective means of communicating 
+financial information. Adjustments for inflationary trends are not shown in the financial 
+statements of the entity. 
+ 
+Periodicity�Time Period Assumption 
+The life of an entity is divided into economic time periods on which reporting statements are 
+fashioned. These reporting periods vary, but a year is the most common. Some companies 
+follow the calendar year, while others use a business year that ends near the lowest point of 
+business activity in a 12-month cycle, regardless of where that point falls in the calendar year.  
+ 
+Departures from GAAP � Modifying Conventions 
+As with rules for most things, departures from GAAP are sometimes required. The 
+following modifying conventions give guidance and should be considered when deviating 
+from what is generally acceptable. 
+ 
+Conservatism 
+When considering an accounting matter in which there are two alternatives that equally 
+satisfy conceptual and implementation principles for a transaction, an accountant should 
+Accounting Concepts  Financial Transactions   
+1.118                         2011 Fraud Examiners Manual  
+take a conservative approach, and follow the alternative that will have the least favorable 
+impact on the net income of the entity. 
+ 
+Industry Practices and Peculiarities 
+The peculiarities and practices of an industry (such as banking, investment, and insurance) 
+may warrant selective exceptions to accounting principles. Some differences in accounting 
+also occur in response to legal requirements, such as those entities subject to regulatory 
+controls.  
+ 
+Substance over Form 
+The economic substance of a transaction determines the accounting treatment, which may 
+differ from the legal treatment. For example, although a lease contract may not transfer 
+property rights, if the true substance of the transaction is a sale, then the lessee should 
+record the transaction as an acquisition and capitalize the property.  
+ 
+Application of Judgment 
+An accountant may depart from GAAP if the results of departure appear reasonable under 
+the circumstances, especially when strict adherence to GAAP will produce unreasonable 
+results and the departure is properly disclosed.  
+ 
+Materiality 
+The amount of an item is material if its omission would affect the judgment of a reasonable 
+person who is relying on the financial statements. The materiality threshold does not mean 
+that immaterial items do not have to be recorded; rather, strict adherence to GAAP is 
+necessary only when the item has a significant impact on the financial statements of an 
+entity. In addition, the aggregate effect of immaterial items must also be considered. 
+ 
+Cost-Benefit 
+A departure from GAAP is permitted if the expected costs of reporting a transaction in 
+compliance with GAAP exceed the expected benefits of compliance. 
+ 
+2011 Fraud Examiners Manual   1.201 

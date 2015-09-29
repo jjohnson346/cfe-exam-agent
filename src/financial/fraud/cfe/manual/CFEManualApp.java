@@ -1,5 +1,6 @@
 package financial.fraud.cfe.manual;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
@@ -31,6 +32,9 @@ public class CFEManualApp {
 	private DocumentUnit docUnit;
 
 	private Logger logger; // a reference to the Logger instance
+	
+	private final String OUTPUT_PATH = "manual test output";	// the directory where any output files will be placed,
+															// including section text files, manual structure files, etc.
 
 	public CFEManualApp() {
 		cfeManuals = new HashMap<String, CFEManual>();
@@ -55,8 +59,9 @@ public class CFEManualApp {
 				switch (input) {
 				case 1:
 					// a simple test of creating and printing the cfe manual
-					String fileName = "2011.Fraud.Examiners.Manual.Structure." + docUnit + ".txt";
-					outputTextToFile(fileName, cfeManual.toString());
+					String fileName = "2011.Fraud.Examiners.Manual.Structure." + docUnit
+							+ ".txt";
+					outputTextToFile(fileName, OUTPUT_PATH, cfeManual.toString());
 					System.out.println("2011 Fraud Examiners Manual structure written to " + fileName + ".");
 					break;
 				case 2:
@@ -241,7 +246,7 @@ public class CFEManualApp {
 				try {
 					System.out.println("Writing to file...");
 					String fileName = new String("Section.Text." + section.name + ".txt");
-					outputTextToFile(fileName, sectionText);
+					outputTextToFile(fileName, OUTPUT_PATH, sectionText);
 					System.out.printf("%s%s%s\n\n", "Section text output to Section.Text.", section.name, ".txt");
 				} catch (IOException e) {
 					System.out.println("Error writing to file.");
@@ -260,14 +265,18 @@ public class CFEManualApp {
 	 *            the name of the file to which to output the text
 	 * @param text
 	 *            the text to output
+	 * @param path
+	 *            the path where the output file will be placed
+	 * 
 	 * @throws IOException
 	 *             could be thrown if can't make file
 	 */
-	private void outputTextToFile(String fileName, String text) throws IOException {
-
+	private void outputTextToFile(String fileName, String path, String text) throws IOException {
 		// first, make sure the file name consists of only valid characters.
 		fileName = fileName.replace(": ", " - ");
 		fileName = fileName.replace("/", " - ");
+		
+		fileName = path + File.separator + fileName;
 
 		Writer writer = new FileWriter(fileName);
 		for (int i = 0; i < text.length(); i += 2000) {
@@ -364,18 +373,18 @@ public class CFEManualApp {
 			System.out.println("2 - MINIMAL");
 			System.out.println("3 - MEDIUM");
 			System.out.println("4 - FULL");
-			
+
 			System.exit(1);
 		}
-		
-		switch(Integer.parseInt(args[0])) {
-		case 1: 
+
+		switch (Integer.parseInt(args[0])) {
+		case 1:
 			app.logger.setDetailLevel(DetailLevel.NONE);
 			break;
 		case 2:
 			app.logger.setDetailLevel(DetailLevel.MINIMAL);
 			break;
-		case 3: 
+		case 3:
 			app.logger.setDetailLevel(DetailLevel.MEDIUM);
 			break;
 		case 4:
@@ -385,7 +394,7 @@ public class CFEManualApp {
 			System.out.println("invalid input.");
 			System.exit(1);
 		}
-		
+
 		app.execute();
 	}
 
