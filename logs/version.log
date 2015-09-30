@@ -1,5 +1,10 @@
 version log
 
+1.5.8
+
+- modified CFEManualApp class so that any output is directed to the "manual test output" sub-directory.
+
+
 1.5.7
 
 - added information retrieval functionality.
