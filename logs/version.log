@@ -1,5 +1,9 @@
 version log
 
+1.5.9
+
+- added build files, build.xml and run_exam_1.sh template file to be built/modified in ant build.
+
 1.5.8
 
 - modified CFEManualApp class so that any output is directed to the "manual test output" sub-directory.
