@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="build" default="demo" basedir="..">
+	<property name="version" value="1.5.8" />
+	<property name="demo.dir" value="../../Demo/Demo_${version}" />
+	<property name="build.dir" value="bin" />
+
+	<target name="demo">
+		<mkdir dir="${demo.dir}" />
+		<jar destfile="${demo.dir}/cfe-exam-agent-${version}.jar" basedir="${build.dir}"/>
+		<copy todir="${demo.dir}">
+			<fileset dir=".">
+				<include name="config/**" />
+				<include name="exam questions - all/**" />
+				<include name="exams/**" />
+				<include name="logs/**" />
+				<include name="manual/**" />
+				<include name="profile data/**" />
+			</fileset>
+		</copy>
+		<copy file="deployment/run_exam_1.sh" todir="${demo.dir}"/>
+		<replace file="${demo.dir}/run_exam_1.sh" token="@version@" value="${version}"/>
+	</target>
+</project>
