@@ -1,5 +1,13 @@
 version log
 
+1.9.0
+
+- added functionality for capturing the manual section for each exam question (both training and 
+test sets).
+
+This data serves as the basis for creating the information retrieval module that will be used
+for document processing for each question.
+
 1.5.9
 
 - added build files, build.xml and run_exam_1.sh template file to be built/modified in ant build.
