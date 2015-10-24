@@ -7,6 +7,9 @@ version log
 This is currently a very rudimentary configuration, consistent with the example shown in chapter 1
 of McCandless, Lucene in Action.
 
+- switched character encoding to ISO-8850-1 from UTF-1 in Preferences/workspace in order
+remove funky characters in file (cfe manual, question files, toc).
+
 TODO: - added functionality for capturing the manual section for each exam question (both training and 
 test sets).
 
