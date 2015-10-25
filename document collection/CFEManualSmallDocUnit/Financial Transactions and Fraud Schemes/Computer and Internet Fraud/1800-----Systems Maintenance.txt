@@ -1,0 +1,45 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security/Systems Maintenance
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Systems Maintenance 
+All program and system changes should be approved in writing. Programmers should not 
+have access to the production library, but only to “test” libraries. All programs that are to be 
+modified should be moved into a test library by someone other than a programmer. All 
+completed program changes should be tested and the results approved by both data center 
+and user personnel before being placed into production. Adequate program documentation 
+should be approved for all program changes. User personnel should be notified when 
+modified programs will be placed into production. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1843 
+
+
+
+:
+
+
+system mainten
+all program and system chang should be approv in write programm should not
+have access to the product librari but onli to test librari all program that ar to be
+modifi should be move into a test librari by someon other than a programm all
+complet program chang should be test and the result approv by both data center
+and user personnel befor be place into product adequ program document
+should be approv for all program chang user personnel should be notifi when
+modifi program will be place into product
+financi transact comput and internet fraud
+2011 fraud examin manual 11843

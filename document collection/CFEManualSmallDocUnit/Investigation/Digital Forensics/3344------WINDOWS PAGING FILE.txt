@@ -1,0 +1,35 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Computer-created Files/WINDOWS PAGING FILE
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+WINDOWS PAGING FILE 
+Operating systems have a limited supply of Random Access Memory (RAM), and if an 
+operating system runs out of physical RAM and needs more memory, it will move some of 
+the data outside physical memory and store it temporarily in a special file on the hard disk. 
+This file, which is called a paging file or a swap file, is used to simulate RAM. 
+ 
+
+
+
+:
+
+
+window page file
+oper system have a limit suppli of random access memori ram and if an
+oper system run out of physic ram and need more memori it will move some of
+the data outsid physic memori and store it temporarili in a special file on the hard disk
+thi file which is call a page file or a swap file is us to simul ram

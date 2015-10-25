@@ -1,0 +1,118 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Internet Fraud/Phishing
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Phishing 
+Phishing scams are some of the fastest-growing threats on the Internet. According to the 
+Gartner research firm, more than 5 million U.S. consumers lost money to phishing attacks in 
+the 12 months ending in September 2008, an almost 40 percent increase over the 3.6 million 
+who lost money in phishing attacks in the 12 months ending in August 2007. Although the 
+number of consumers who lost money to phishing attacks increased in 2008, the average 
+customer loss per incident in 2008 was $351, down 60 percent from 2007.  
+ 
+The definition of phishing is to trick people into providing their personal and financial 
+information by pretending to be from a legitimate company, agency, or organization. In this 
+type of scam, phishers typically use e-mails to direct Internet users to websites that look like 
+legitimate e-commerce sites, such as online banks, retailers, or government agencies. 
+Phishers actually control these sites and use them to steal sensitive information, such as bank 
+account details and passwords. Phishers can also use the phone to hunt for victims’ personal 
+information. Some pose as employers and call people who have listed themselves on job 
+search websites; others call pretending to be from a company or government agency, making 
+the same kinds of false claims and asking for personal information. Phishers may also 
+undertake technical subterfuge schemes to plant crimeware onto PCs to steal information 
+directly, such as using key-logging systems to intercept customers’ online account user names 
+and passwords. 
+ 
+Opinions vary, but the amount of time it takes for an unprotected personal computer to 
+become infected with a virus or malware can range from four to thirty-four minutes. To aid 
+Computer and Internet Fraud  Financial Transactions   
+1.1830                           2011 Fraud Examiners Manual  
+in preventing phishing, computers should be armed with spam filters, anti-virus and anti-
+ spyware software, and a firewall, and kept up to date. A spam filter can help reduce the 
+number of phishing e-mails received. Anti-virus software, which scans incoming messages 
+for troublesome files, and anti-spyware software, which looks for programs that have been 
+installed on a computer and tracks a user’s online activities without their knowledge, can 
+protect users against pharming and other techniques that phishers use. Firewalls prevent 
+hackers and unauthorized communications from entering a user’s computer—which is 
+especially important if one has a broadband connection because their computer is open to 
+the Internet whenever it’s turned on. Look for programs that offer automatic updates and 
+take advantage of free patches that manufacturers offer to fix newly discovered problems. 
+ 
+In order to prevent identity theft through phishing e-mails, computer users should 
+completely delete unsolicited e-mails from banks, credit unions, investment firms, and 
+government agencies with which they do not have an established relationship. If the 
+recipient does have an existing relationship with the supposed originator of the e-mail, the 
+Better Business Bureau recommends calling the organization to confirm whether or not the 
+e-mail is legitimate before taking any further action. Computer users on the go should be 
+wary of entering passwords or sensitive information into a computer that isn’t theirs, such as 
+at an Internet café, library, computer lab, or airport kiosk. Wi-Fi networks, either on the road 
+or in the consumer’s own home, present even more opportunities for identity thieves. The 
+easiest way to protect a Wi-Fi network at home is to not broadcast the Service Set Identifier. 
+A safe rule of thumb is to avoid exchanging sensitive information over a Wi-Fi connection 
+and wait until a safe network can be accessed.  
+ 
+
+
+
+:
+
+
+phish
+phish scam ar some of the fastestgrow threat on the internet accord to the
+gartner research firm more than 5 million us consum lost monei to phish attack in
+the 12 month end in septemb 2008 an almost 40 percent increas over the 36 million
+who lost monei in phish attack in the 12 month end in august 2007 although the
+number of consum who lost monei to phish attack increas in 2008 the averag
+custom loss per incid in 2008 wa 351 down 60 percent from 2007
+the definit of phish is to trick peopl into provid their person and financi
+inform by pretend to be from a legitim compani agenc or organ in thi
+type of scam phisher typic us email to direct internet user to websit that look like
+legitim ecommerc site such as onlin bank retail or govern agenc
+phisher actual control these site and us them to steal sensit inform such as bank
+account detail and password phisher can also us the phone to hunt for victim person
+inform some pose as employ and call peopl who have list themselv on job
+search websit other call pretend to be from a compani or govern agenc make
+the same kind of fals claim and ask for person inform phisher mai also
+undertak technic subterfug scheme to plant crimewar onto pc to steal inform
+directli such as us keylog system to intercept custom onlin account user name
+and password
+opinion vari but the amount of time it take for an unprotect person comput to
+becom infect with a viru or malwar can rang from four to thirtyfour minut to aid
+comput and internet fraud financi transact
+11830 2011 fraud examin manual
+in prevent phish comput should be arm with spam filter antiviru and anti
+spywar softwar and a firewal and kept up to date a spam filter can help reduc the
+number of phish email receiv antiviru softwar which scan incom messag
+for troublesom file and antispywar softwar which look for program that have been
+instal on a comput and track a user onlin activ without their knowledg can
+protect user against pharm and other techniqu that phisher us firewal prevent
+hacker and unauthor commun from enter a user computerwhich is
+especi import if on ha a broadband connect becaus their comput is open to
+the internet whenev it turn on look for program that offer automat updat and
+take advantag of free patch that manufactur offer to fix newli discov problem
+in order to prevent ident theft through phish email comput user should
+complet delet unsolicit email from bank credit union invest firm and
+govern agenc with which thei do not have an establish relationship if the
+recipi doe have an exist relationship with the suppos origin of the email the
+better busi bureau recommend call the organ to confirm whether or not the
+email is legitim befor take ani further action comput user on the go should be
+wari of enter password or sensit inform into a comput that isnt their such as
+at an internet caf librari comput lab or airport kiosk wifi network either on the road
+or in the consum own home present even more opportun for ident thiev the
+easiest wai to protect a wifi network at home is to not broadcast the servic set identifi
+a safe rule of thumb is to avoid exchang sensit inform over a wifi connect
+and wait until a safe network can be access

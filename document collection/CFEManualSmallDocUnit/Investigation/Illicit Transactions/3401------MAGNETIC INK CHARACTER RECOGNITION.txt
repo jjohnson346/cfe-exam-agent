@@ -1,0 +1,54 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Direct Methods of Tracing Financial Transactions/Negotiated Checks/MAGNETIC INK CHARACTER RECOGNITION
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+MAGNETIC INK CHARACTER RECOGNITION 
+Magnetic ink character recognition (MICR) is a machine language and is a check design 
+standard to which all banks must conform. Numeric information is printed in magnetic ink 
+on the bottom of bank checks and other documents. This coding is electronically scanned by 
+computers that convert the magnetic ink notations into electronic impulses readable by a 
+computer. MICR information is printed in groupings called fields. The first field on the left 
+on bank checks is the Federal Reserve check routing code and the next is the ABA transit 
+number. These numbers also appear in the upper right corner of the check. 
+ 
+The account number field shows the drawer’s assigned account number at the bank. When 
+the check is processed through the bank, an additional field is added on the right for the 
+amount of the check. The dollar amount of the check should always equal the encoded 
+MICR amount. These two figures should be compared to make sure that the subject did not 
+alter the returned check. All checks, drafts, and similar items that are not encoded with 
+magnetic ink cannot be cleared through the Federal Reserve system without special handling. 
+ 
+
+
+
+:
+
+
+magnet ink charact recognit
+magnet ink charact recognit micr is a machin languag and is a check design
+standard to which all bank must conform numer inform is print in magnet ink
+on the bottom of bank check and other document thi code is electron scan by
+comput that convert the magnet ink notat into electron impuls readabl by a
+comput micr inform is print in group call field the first field on the left
+on bank check is the feder reserv check rout code and the next is the aba transit
+number these number also appear in the upper right corner of the check
+the account number field show the drawer assign account number at the bank when
+the check is process through the bank an addit field is ad on the right for the
+amount of the check the dollar amount of the check should alwai equal the encod
+micr amount these two figur should be compar to make sure that the subject did not
+alter the return check all check draft and similar item that ar not encod with
+magnet ink cannot be clear through the feder reserv system without special handl

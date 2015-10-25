@@ -1,0 +1,82 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Conducting an Investigation Involving Computers/Integrity of Digital Evidence
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Integrity of Digital Evidence 
+Electronic evidence is more volatile than paper information, and because it can be easily 
+altered or destroyed, it must be handled properly. For example, computer files can be altered 
+simply through the normal startup process. Most  of the Microsoft operating systems, such as 
+Windows XP, change the time and date stamps on a number of files during startup and 
+delete a number of temporary files during the shutdown process. These pieces of 
+information could be critical to the investigation. 
+ 
+The destruction of digital evidence through improper handling can result in a finding of 
+spoliation of evidence by a judge or can raise questions about the alteration of exculpatory 
+evidence by the defense.  
+ 
+Additionally, if a judge determines that the authenticity of the evidence cannot be 
+satisfactorily made, then he may rule that the evidence is inadmissible. Although digital 
+evidence is different from tangible evidence, the rules regarding its admissibility in court is 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.703 
+really no different from the admissibility of any other type of evidence. To be admissible, 
+digital evidence must be: 
+• Relevant  
+• Supported by a foundation for its introduction into court 
+• Legally obtained 
+• Properly identified 
+• Properly preserved 
+ 
+Therefore, should the fraud examiner discover digital evidence, he must be able to state 
+unequivocally that the evidence was not changed in any way by his actions. This requires that 
+strict forensic methodologies be followed to satisfy the stringent evidentiary standards 
+necessary to ensure the integrity of the evidence “beyond a reasonable doubt” for 
+presentation in court. 
+ 
+
+
+
+:
+
+
+integr of digit evid
+electron evid is more volatil than paper inform and becaus it can be easili
+alter or destroi it must be handl properli for exampl comput file can be alter
+simpli through the normal startup process most of the microsoft oper system such as
+window xp chang the time and date stamp on a number of file dure startup and
+delet a number of temporari file dure the shutdown process these piec of
+inform could be critic to the investig
+the destruct of digit evid through improp handl can result in a find of
+spoliat of evid by a judg or can rais question about the alter of exculpatori
+evid by the defens
+addition if a judg determin that the authent of the evid cannot be
+satisfactorili made then he mai rule that the evid is inadmiss although digit
+evid is differ from tangibl evid the rule regard it admiss in court is
+investig digit forens
+2011 fraud examin manual 3703
+realli no differ from the admiss of ani other type of evid to be admiss
+digit evid must be
+relev
+support by a foundat for it introduct into court
+legal obtain
+properli identifi
+properli preserv
+therefor should the fraud examin discov digit evid he must be abl to state
+unequivoc that the evid wa not chang in ani wai by hi action thi requir that
+strict forens methodolog be follow to satisfi the stringent evidentiari standard
+necessari to ensur the integr of the evid beyond a reason doubt for
+present in court

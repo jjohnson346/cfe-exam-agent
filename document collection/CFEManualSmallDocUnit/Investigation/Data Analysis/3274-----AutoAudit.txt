@@ -1,0 +1,65 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/AutoAudit
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+AutoAudit 
+AutoAudit is a comprehensive, integrated audit automation system. In addition to the 
+workpapers and reporting functionality, AutoAudit has entity-level and process-level risk 
+assessment, staff scheduling, resource planning, issue tracking, time reporting, expense 
+reporting, quality assurance, department metrics, and an ad hoc reporting module. All of 
+these modules are integrated, and data automatically flows from one module into the next. 
+AutoAudit is designed to automate all of the primary processes that occur in an audit 
+department.  
+ 
+Although AutoAudit automates many parts of any type of audit, of particular interest to 
+fraud examiners are its risk assessment functions. AutoAudit offers an integrated risk 
+assessment module with the option of following a horizontal methodology (business process 
+risk assessment), a vertical methodology (audit universe made up of user-defined auditable 
+entities), or a combination of both methodologies. Specific risks and processes are identified 
+by the client, and the risk factors and weights can be customized to fit the specific needs of 
+the department and industry. Information about the inherent and residual risks helps 
+determine issues during the audit, and the information obtained during fieldwork can be 
+pushed back into the risk assessment to use as the starting point for the next cycle of 
+planning and auditing. 
+ 
+For more information, visit http://paisley.thomsonreuters.com. 
+ 
+
+
+
+:
+
+
+autoaudit
+autoaudit is a comprehens integr audit autom system in addit to the
+workpap and report function autoaudit ha entitylevel and processlevel risk
+assess staff schedul resourc plan issu track time report expens
+report qualiti assur depart metric and an ad hoc report modul all of
+these modul ar integr and data automat flow from on modul into the next
+autoaudit is design to autom all of the primari process that occur in an audit
+depart
+although autoaudit autom mani part of ani type of audit of particular interest to
+fraud examin ar it risk assess function autoaudit offer an integr risk
+assess modul with the option of follow a horizont methodolog busi process
+risk assess a vertic methodolog audit univers made up of userdefin audit
+entiti or a combin of both methodolog specif risk and process ar identifi
+by the client and the risk factor and weight can be custom to fit the specif need of
+the depart and industri inform about the inher and residu risk help
+determin issu dure the audit and the inform obtain dure fieldwork can be
+push back into the risk assess to us as the start point for the next cycl of
+plan and audit
+for more inform visit httppaisleythomsonreuterscom

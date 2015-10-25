@@ -1,0 +1,68 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for the General Ledger/SUMMARIZE ACTIVITY BY USER ACCOUNT
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+SUMMARIZE ACTIVITY BY USER ACCOUNT 
+This test looks for: 
+• Standard names such as “default” or “test.” These names usually have equally simple 
+passwords for a hacker to guess and should generally be avoided. Replacements to these 
+generic user IDs would be specific IDs associated with the person using the system (e.g., 
+“jsmith”). 
+• Unrecognized or terminated employees. This test focuses on the responsiveness within 
+the MIS function to ensure that only authorized employees have system access. Compare 
+the list created by this test to an active employee roster to spot any violations. 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.627 
+• Users who have access beyond their level of responsibility. This access may highlight a 
+nonsegregation of duties in which a person has an opportunity to commit fraud by being 
+able to initiate, authorize, and/or record a transaction. 
+ 
+The resulting report should be reviewed bearing in mind the above considerations. 
+Recommended steps include: 
+• Delete default passwords and replace them with specific IDs 
+• Delete employees who are not on the active employee roster 
+• Review users who are posting high activity or who may have access to other non-
+ segregated functions and assess whether other controls are needed to mitigate the such 
+individuals’ access 
+ 
+
+
+
+:
+
+
+summar activ by user account
+thi test look for
+standard name such as default or test these name usual have equal simpl
+password for a hacker to guess and should gener be avoid replac to these
+gener user id would be specif id associ with the person us the system eg
+jsmith
+unrecogn or termin employe thi test focus on the respons within
+the mi function to ensur that onli author employe have system access compar
+the list creat by thi test to an activ employe roster to spot ani violat
+investig data analysi and report tool
+2011 fraud examin manual 3627
+user who have access beyond their level of respons thi access mai highlight a
+nonsegreg of duti in which a person ha an opportun to commit fraud by be
+abl to initi author andor record a transact
+the result report should be review bear in mind the abov consider
+recommend step includ
+delet default password and replac them with specif id
+delet employe who ar not on the activ employe roster
+review user who ar post high activ or who mai have access to other non
+segreg function and assess whether other control ar need to mitig the such
+individu access

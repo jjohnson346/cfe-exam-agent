@@ -1,0 +1,52 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Worms
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Worms 
+A worm is a self-replicating program that resides as a file on a system, executes an 
+autonomous process, and deliberately moves from system to system. It looks for other 
+nodes on the networks, copies itself to them, and causes the self-copy to execute on other 
+nodes. These programs find network utilities showing node names, monitor network traffic, 
+and randomly select network identification codes as well as other mischief. 
+ 
+An example of a worm is the SQL Slammer, which raced across the globe and wreaked havoc 
+on the Internet in January 2003. This worm doubled the number of computers it infected 
+every 8.5 seconds in the first minute of its appearance. The worm, which exploited a flaw in 
+Microsoft Corporation’s SQL Server database software, caused damage by rapidly replicating 
+itself and clogging the pipelines of the global data network. The worm did not erase or cause 
+damage to desktop computers, but was designed to replicate itself so fast and so effectively 
+that no other traffic could get through networks. 
+ 
+
+
+
+:
+
+
+worm
+a worm is a selfrepl program that resid as a file on a system execut an
+autonom process and deliber move from system to system it look for other
+node on the network copi itself to them and caus the selfcopi to execut on other
+node these program find network util show node name monitor network traffic
+and randomli select network identif code as well as other mischief
+an exampl of a worm is the sql slammer which race across the globe and wreak havoc
+on the internet in januari 2003 thi worm doubl the number of comput it infect
+everi 85 second in the first minut of it appear the worm which exploit a flaw in
+microsoft corpor sql server databas softwar caus damag by rapidli replic
+itself and clog the pipelin of the global data network the worm did not eras or caus
+damag to desktop comput but wa design to replic itself so fast and so effect
+that no other traffic could get through network

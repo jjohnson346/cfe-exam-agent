@@ -1,0 +1,138 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security/Other Network Security
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Other Network Security 
+Securing a computer network by means of logical controls is a difficult but necessary 
+requirement for ensuring the safety of a computer system from attacks by outsiders. Logical 
+controls include management security policies, user authentication systems, data access 
+controls, network firewalls, security awareness training, encryption algorithms, penetration 
+testing, intrusion detection software, and incident response plans.  
+ 
+Network security can also be provided by a combination of design, hardware devices, and 
+software. Data encryption is carried out by a combination of hardware and software. 
+Encrypted data is scrambled by a formula using a unique key and can only be unscrambled 
+with the same formula and key at the receiving end. The decision to use encryption should be 
+made in light of the risks and after a cost-benefit analysis. Drawbacks to encryption are the 
+cost of the hardware and software, the cost of the administration, and the inherent delays 
+incurred by the extra steps required for processing. 
+ 
+Digital signatures are becoming more common, in part because Congress and many states 
+have passed legislation to legitimize the electronic “signing” of documents. In 2000 the 
+Electronic Signatures in Global and National Commerce Act (E-SIGN Act) became 
+effective. This federal statute basically provides a mechanism whereby any document that is 
+required to be signed, can be signed “electr onically.” The E-SIGN Act does not require a 
+party to use or accept electronic signatures, electronic contracts or electronic records, but 
+rather seeks to facilitate the use of electronic signatures and documents by upholding their 
+legal effect regardless of the type or method selected by the parties. The E-SIGN Act is also 
+technology-neutral and does not require a specific type or method that businesses and 
+consumers must use or accept in order to conduct their electronic transaction. The Act 
+regulates any transactions involving interstate or foreign commerce. However, many states 
+have enacted their own digital signature laws, which regulate purely intrastate transactions. 
+Additionally, many state and federal agencies, including the Internal Revenue Service and the 
+Securities and Exchange Commission, are encouraging the use of electronic filing and digital 
+signatures as a means to speed up the collection and processing of information. 
+ 
+Biological access verification, long the favorite stuff of movie makers, is now available.  
+This verification technique includes fingerprints, palm prints, voice prints, signatures, and 
+retina scans. 
+ 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1841 
+Profiling software authenticates users by monitoring their statistical characteristics, such as 
+typing speed and keystroke touch. Smart card access devices are similar to an ATM card; like 
+ATM cards, they are susceptible to loss and forgery. 
+ 
+The most effective components of internal security are education, reporting facilities, and 
+vigorous disciplinary action for offenders, including prosecution of illegal acts. An 
+enterprise-wide employee awareness program should be combined with formal training in 
+the area of information security. For employees to fulfill their security responsibilities they 
+should know what information needs to be kept confidential, how to recognize threats to 
+security, and how to use backups and other aids for their desktop machines. Giving 
+employees incentives such as bonuses to follow security guidelines, however, will be the 
+most effective motivator. 
+ 
+Protecting the network from external threats requires some additional considerations. The 
+less an external perpetrator knows about the technology environment (for example, type of 
+hardware and software packages used), the harder it is to obtain fraudulent access. Part of 
+the security policy should address how much and what kind of information regarding the 
+technology of an organization should be made public.  
+ 
+Organizations should guard against providing too much access to third parties. There is 
+pressure to establish connectivity by marketing, purchasing, research, and other branches. 
+Connectivity should be granted only after it has been established that the benefits outweigh 
+the risks and costs. 
+ 
+
+
+
+:
+
+
+other network secur
+secur a comput network by mean of logic control is a difficult but necessari
+requir for ensur the safeti of a comput system from attack by outsid logic
+control includ manag secur polici user authent system data access
+control network firewal secur awar train encrypt algorithm penetr
+test intrus detect softwar and incid respons plan
+network secur can also be provid by a combin of design hardwar devic and
+softwar data encrypt is carri out by a combin of hardwar and softwar
+encrypt data is scrambl by a formula us a uniqu kei and can onli be unscrambl
+with the same formula and kei at the receiv end the decis to us encrypt should be
+made in light of the risk and after a costbenefit analysi drawback to encrypt ar the
+cost of the hardwar and softwar the cost of the administr and the inher delai
+incur by the extra step requir for process
+digit signatur ar becom more common in part becaus congress and mani state
+have pass legisl to legitim the electron sign of document in 2000 the
+electron signatur in global and nation commerc act esign act becam
+effect thi feder statut basic provid a mechan wherebi ani document that is
+requir to be sign can be sign electr onic the esign act doe not requir a
+parti to us or accept electron signatur electron contract or electron record but
+rather seek to facilit the us of electron signatur and document by uphold their
+legal effect regardless of the type or method select by the parti the esign act is also
+technologyneutr and doe not requir a specif type or method that busi and
+consum must us or accept in order to conduct their electron transact the act
+regul ani transact involv interst or foreign commerc howev mani state
+have enact their own digit signatur law which regul pure intrast transact
+addition mani state and feder agenc includ the intern revenu servic and the
+secur and exchang commiss ar encourag the us of electron file and digit
+signatur as a mean to speed up the collect and process of inform
+biolog access verif long the favorit stuff of movi maker is now avail
+thi verif techniqu includ fingerprint palm print voic print signatur and
+retina scan
+financi transact comput and internet fraud
+2011 fraud examin manual 11841
+profil softwar authent user by monitor their statist characterist such as
+type speed and keystrok touch smart card access devic ar similar to an atm card like
+atm card thei ar suscept to loss and forgeri
+the most effect compon of intern secur ar educ report facil and
+vigor disciplinari action for offend includ prosecut of illeg act an
+enterprisewid employe awar program should be combin with formal train in
+the area of inform secur for employe to fulfil their secur respons thei
+should know what inform need to be kept confidenti how to recogn threat to
+secur and how to us backup and other aid for their desktop machin give
+employe incent such as bonus to follow secur guidelin howev will be the
+most effect motiv
+protect the network from extern threat requir some addit consider the
+less an extern perpetr know about the technolog environ for exampl type of
+hardwar and softwar packag us the harder it is to obtain fraudul access part of
+the secur polici should address how much and what kind of inform regard the
+technolog of an organ should be made public
+organ should guard against provid too much access to third parti there is
+pressur to establish connect by market purchas research and other branch
+connect should be grant onli after it ha been establish that the benefit outweigh
+the risk and cost

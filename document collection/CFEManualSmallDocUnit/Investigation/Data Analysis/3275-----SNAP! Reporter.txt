@@ -1,0 +1,58 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/SNAP! Reporter
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+SNAP! Reporter 
+Snap! Reporter is a data mining software program designed for use with Lotus Notes, 
+Microsoft Excel spreadsheets, and Access databases.  Its chief virtue is its ease of use. Most 
+software requires a familiarity with databases and data mining techniques, but anyone with 
+basic spreadsheet skills can produce reports and graphics with this product. In Snap!, data 
+retrieval and analysis are automated with one-button functions; some tasks are accomplished 
+by drag-and-drop.  
+ 
+Snap! produces Gantt Charts (i.e., graphical representations of projects) and counts 
+occurrences of key words rather than only charting actual numbers. The software also 
+creates stacked non-columnar reports and generates multiple Relationized Data Sets from 
+one originating record—functions not available in other products. Snap! is not as powerful 
+as some other data mining software, but it is easier to use. It is adequate to most tasks, 
+though some complex cases may need a stronger package. 
+Data Analysis and Reporting Tools  Investigation 
+3.630   2011 Fraud Examiners Manual  
+For more information, visit http://paisley.thomsonreuters.com. 
+ 
+
+
+
+:
+
+
+snap report
+snap report is a data mine softwar program design for us with lotu note
+microsoft excel spreadsheet and access databas it chief virtu is it eas of us most
+softwar requir a familiar with databas and data mine techniqu but anyon with
+basic spreadsheet skill can produc report and graphic with thi product in snap data
+retriev and analysi ar autom with onebutton function some task ar accomplish
+by draganddrop
+snap produc gantt chart ie graphic represent of project and count
+occurr of kei word rather than onli chart actual number the softwar also
+creat stack noncolumnar report and gener multipl relation data set from
+on origin recordfunct not avail in other product snap is not as power
+as some other data mine softwar but it is easier to us it is adequ to most task
+though some complex case mai need a stronger packag
+data analysi and report tool investig
+3630 2011 fraud examin manual
+for more inform visit httppaisleythomsonreuterscom

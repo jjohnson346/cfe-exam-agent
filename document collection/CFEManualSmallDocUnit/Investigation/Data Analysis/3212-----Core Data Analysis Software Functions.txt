@@ -1,0 +1,61 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Core Data Analysis Software Functions
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Core Data Analysis Software Functions 
+Computers can scan database information for several specific types of information, creating 
+a red-flag system. To perform this, most software packages use a combination of different 
+functions. These functions are: 
+• Sorting 
+• Record selection 
+• Joining files 
+• Multi-file processing 
+• Correlation analysis 
+• Verifying multiples of a number 
+• Compliance verification 
+• Duplicate searches 
+• Vertical ratio analysis 
+• Horizontal ratio analysis 
+• Date functions 
+• Graphing 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.606   2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+core data analysi softwar function
+comput can scan databas inform for sever specif type of inform creat
+a redflag system to perform thi most softwar packag us a combin of differ
+function these function ar
+sort
+record select
+join file
+multifil process
+correl analysi
+verifi multipl of a number
+complianc verif
+duplic search
+vertic ratio analysi
+horizont ratio analysi
+date function
+graph
+data analysi and report tool investig
+3606 2011 fraud examin manual

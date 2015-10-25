@@ -1,0 +1,92 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/CHECK AND CREDIT CARD FRAUD/Electronic Bill Payment and Person-to-Person Payments/Access Device
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Check and Credit Card Fraud
+
+
+:
+
+
+Access Device 
+An “access device” includes a card, code, or other means of access to a customer’s account 
+for the purpose of initiating electronic fund transfers. These include debit cards, personal 
+identification numbers (PINs), telephone transfer and bill payment codes, and other means 
+that a consumer may use to initiate an electronic fund transfer from his account. A 
+consumer’s account is considered an asset account, such as a demand deposit or savings 
+account, established for personal, family, or household purposes. A credit card is not 
+considered an access device since it provides access to a credit line rather than to a 
+consumer’s account. The term “access device” does not include a check or draft used to 
+capture to MICR encoding to initiate a one-time ACH debit. For example, if a customer 
+authorizes a single ACH debit from his account by giving a check to the merchant so they 
+can capture the routing, account, and serial numbers to initiate the debit, the check is not an 
+access device. If the customer, however, provides a payee with a check, or with information 
+from a check that is physically retained by the consumer, in order to allow the payee to 
+capture routing, account, and serial number information, the result transfer does constitute 
+an electronic fund transfer.  
+ 
+When an access devise is necessary to instruct a financial institution to perform a transfer, 
+the financial institution will be able to claim that it was authorized to debit or credit a 
+consumer’s account only if the transfer was initiated through use of an “accepted” access 
+device. An access device will qualify for this status only if the devise was issued to a person: 
+• Who requested and received it. 
+• Who signed and used it. 
+• Who authorized another to use the access device. 
+• For the purpose of transferring money between accounts or obtaining money, property, 
+labor, or services. 
+Financial Transactions  Check and Credit Card Fraud 
+2011 Fraud Examiners Manual   1.1037 
+If a consumer uses an accepted access device to initiate a transfer, the EFTA will cover the 
+transaction, even though a bank employee has intervened to complete the transaction. 
+Assume, for instance, that Smith wishes to transfer $100 from her checking account to her 
+savings account. She asks the teller at her bank to perform the transaction. The teller 
+requests that Smith enter her PIN into a card-reading device at the teller’s station. If the PIN 
+is used to initiate the transfer, the transaction is an electronic fund transfer. 
+ 
+
+
+
+:
+
+
+access devic
+an access devic includ a card code or other mean of access to a custom account
+for the purpos of initi electron fund transfer these includ debit card person
+identif number pin telephon transfer and bill payment code and other mean
+that a consum mai us to initi an electron fund transfer from hi account a
+consum account is consid an asset account such as a demand deposit or save
+account establish for person famili or household purpos a credit card is not
+consid an access devic sinc it provid access to a credit line rather than to a
+consum account the term access devic doe not includ a check or draft us to
+captur to micr encod to initi a onetim ach debit for exampl if a custom
+author a singl ach debit from hi account by give a check to the merchant so thei
+can captur the rout account and serial number to initi the debit the check is not an
+access devic if the custom howev provid a paye with a check or with inform
+from a check that is physic retain by the consum in order to allow the paye to
+captur rout account and serial number inform the result transfer doe constitut
+an electron fund transfer
+when an access devis is necessari to instruct a financi institut to perform a transfer
+the financi institut will be abl to claim that it wa author to debit or credit a
+consum account onli if the transfer wa initi through us of an accept access
+devic an access devic will qualifi for thi statu onli if the devis wa issu to a person
+who request and receiv it
+who sign and us it
+who author anoth to us the access devic
+for the purpos of transfer monei between account or obtain monei properti
+labor or servic
+financi transact check and credit card fraud
+2011 fraud examin manual 11037
+if a consum us an accept access devic to initi a transfer the efta will cover the
+transact even though a bank employe ha interven to complet the transact
+assum for instanc that smith wish to transfer 100 from her check account to her
+save account she ask the teller at her bank to perform the transact the teller
+request that smith enter her pin into a cardread devic at the teller station if the pin
+is us to initi the transfer the transact is an electron fund transfer

@@ -41,7 +41,7 @@ public class RegExTester {
 	void outputSectionLine() {
 		String manualText = getManualText();
 
-		final String PAGE_LINE_REGEX = "(^2011 Fraud Examiners Manual\\s+?" + "1.512" + "\\s*?$|^" + "1.512" + "\\s+?2011 Fraud Examiners Manual\\s+?)";
+		final String PAGE_LINE_REGEX = "(^2011 Fraud Examiners Manual\\s+?" + "4.619" + "\\s*?$|^" + "4.619" + "\\s+?2011 Fraud Examiners Manual\\s+?)";
 		
 		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
 		Matcher pageMatcher = pagePattern.matcher(manualText);
@@ -56,7 +56,8 @@ public class RegExTester {
 			System.out.println("PAGE NOT FOUND.");
 		}
 		
-		final String SECTION_LINE_REGEX = "^" + "To Whom Is the Check Made Payable\\?" + "\\s*?$";
+//		final String SECTION_LINE_REGEX = "^" + "To Whom Is the Check Made Payable\\?" + "\\s*?$";
+		final String SECTION_LINE_REGEX = "^" + "2008-2009 Integrity Survey";
 		
 		Pattern sectionPattern = Pattern.compile(SECTION_LINE_REGEX, Pattern.MULTILINE);
 		Matcher sectionMatcher = sectionPattern.matcher(manualText);
@@ -111,7 +112,7 @@ public class RegExTester {
 	
 	public static void main(String[] args) {
 		RegExTester r = new RegExTester();
-		r.outputPageLines();
+//		r.outputPageLines();
 		r.outputSectionLine();
 	}
 

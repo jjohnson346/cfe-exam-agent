@@ -1,0 +1,66 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/User-protected Files/STEGANOGRAPHY
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+STEGANOGRAPHY 
+Steganography is the process of hiding one piece of information within an apparently 
+innocent file. For example, a user can use the least significant bits of a bitmap image to hide 
+a message. By hiding the message in the least significant bits of an image, there is almost no 
+perceivable change in the bitmap image itself. And without directly comparing the altered 
+image to the original, it is practically impossible to tell that the image was altered.  
+ 
+  
+Digital Forensics  Investigation 
+3.724   2011 Fraud Examiners Manual  
+EXAMPLE 
+After a French defense contractor suspected that some of his critical designs were being 
+compromised, the government conducted an invest igation. The investigation revealed that an 
+employee had obtained his position at the company to steal the contractor’s trade secrets. To 
+transmit the trade secrets out of the company, the employee imbedded them into graphic images 
+used on the company’s public access website usin g steganography. Another party then copied the 
+image files from the website and extracted the proprietary designs.  
+ 
+Digitized audio files are another type of file that can be used to hide messages. For example, 
+by encoding a message in the least significant bits of a .WAV file, a user can make the 
+message almost impossible to detect. Messages can also be hidden in the unused sectors of a 
+floppy disk. 
+ 
+
+
+
+:
+
+
+steganographi
+steganographi is the process of hide on piec of inform within an appar
+innoc file for exampl a user can us the least signific bit of a bitmap imag to hide
+a messag by hide the messag in the least signific bit of an imag there is almost no
+perceiv chang in the bitmap imag itself and without directli compar the alter
+imag to the origin it is practic imposs to tell that the imag wa alter
+digit forens investig
+3724 2011 fraud examin manual
+exampl
+after a french defens contractor suspect that some of hi critic design were be
+compromis the govern conduct an invest igat the investig reveal that an
+employe had obtain hi posit at the compani to steal the contractor trade secret to
+transmit the trade secret out of the compani the employe imbed them into graphic imag
+us on the compani public access websit usin g steganographi anoth parti then copi the
+imag file from the websit and extract the proprietari design
+digit audio file ar anoth type of file that can be us to hide messag for exampl
+by encod a messag in the least signific bit of a wav file a user can make the
+messag almost imposs to detect messag can also be hidden in the unus sector of a
+floppi disk

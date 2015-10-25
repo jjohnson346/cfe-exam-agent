@@ -1,0 +1,35 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Mutation Engine Viruses
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Mutation Engine Viruses 
+This modern day virus uses a special language-driven algorithm generator that enables it to 
+create an infinite variety of original encryption algorithms. It avoids the checksum detection 
+method, like stealth viruses, by not changing the infected file size. Each time they replicate, 
+they produce a new and different code. 
+ 
+
+
+
+:
+
+
+mutat engin virus
+thi modern dai viru us a special languagedriven algorithm gener that enabl it to
+creat an infinit varieti of origin encrypt algorithm it avoid the checksum detect
+method like stealth virus by not chang the infect file size each time thei replic
+thei produc a new and differ code

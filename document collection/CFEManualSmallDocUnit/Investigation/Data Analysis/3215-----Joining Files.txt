@@ -1,0 +1,70 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Joining Files
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Joining Files  
+The Join function gathers together the specified parts of different data files. Joining files 
+combines fields from two sorted input files into a third file. Join is used to match data in a 
+transaction file with records in a master file, such as matching invoice data in an accounts 
+receivable file to a master cluster. For example, you may need to compare two different files 
+to find differing records between files. The following is an example of how joining two files 
+can easily provide that information. 
+ 
+File 1 
+Customer Account Balance Last Invoice 
+Jerry’s Cleaners 555221 $12,500 12/30/10 
+Quality Garments 555658 $9,283 11/15/10 
+Beverly’s Tailoring 554891 $27,588 01/15/10 
+ 
+File 2 
+Customer Account Balance Last Invoice 
+Quality Garments 555658 $9,283 11/15/10 
+McCloud’s Fabrics 556897 $10,888 09/24/10 
+Beverly’s Tailoring 554891 $27,588 01/15/10 
+ 
+The JOINED exception file 
+Customer Account Balance Last Invoice 
+McCloud’s Fabrics 556897 $10,888 09/24/09 
+Jerry’s Cleaners 555221 $12,500 12/30/09 
+ 
+
+
+
+:
+
+
+join file
+the join function gather togeth the specifi part of differ data file join file
+combin field from two sort input file into a third file join is us to match data in a
+transact file with record in a master file such as match invoic data in an account
+receiv file to a master cluster for exampl you mai need to compar two differ file
+to find differ record between file the follow is an exampl of how join two file
+can easili provid that inform
+file 1
+custom account balanc last invoic
+jerri cleaner 555221 12500 123010
+qualiti garment 555658 9283 111510
+beverli tailor 554891 27588 011510
+file 2
+custom account balanc last invoic
+qualiti garment 555658 9283 111510
+mccloud fabric 556897 10888 092410
+beverli tailor 554891 27588 011510
+the join except file
+custom account balanc last invoic
+mccloud fabric 556897 10888 092409
+jerri cleaner 555221 12500 123009

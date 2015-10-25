@@ -1,0 +1,48 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Electronic Commerce/Applying Encryption to E-Commerce Security
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Applying Encryption to E-Commerce Security 
+Generally speaking, the solutions offered by conventional and public-key encryption 
+technologies are usually adequate to ensure that e-commerce transactions are as secure as the 
+value of transactions requires.  
+ 
+The vast majority of transmissions over the Internet and the World Wide Web are not 
+encrypted in any way. If there is no need to hide the contents of a message or 
+communication, there is little need to expend resources on the encryption of such traffic and 
+the decryption at the other end. Encryption can be an expensive solution, whether in terms 
+of actual monetary cost or the cost in increased computational load on the users’ machines. 
+The needs of the organization to keep confidential transmissions secret should be weighed 
+against the effort and cost of encryption. 
+ 
+
+
+
+:
+
+
+appli encrypt to ecommerc secur
+gener speak the solut offer by convent and publickei encrypt
+technolog ar usual adequ to ensur that ecommerc transact ar as secur as the
+valu of transact requir
+the vast major of transmiss over the internet and the world wide web ar not
+encrypt in ani wai if there is no need to hide the content of a messag or
+commun there is littl need to expend resourc on the encrypt of such traffic and
+the decrypt at the other end encrypt can be an expens solut whether in term
+of actual monetari cost or the cost in increas comput load on the user machin
+the need of the organ to keep confidenti transmiss secret should be weigh
+against the effort and cost of encrypt

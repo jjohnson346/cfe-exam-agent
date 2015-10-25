@@ -1,0 +1,48 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Inoculation
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Inoculation 
+This is a totally different approach to virus detection. Instead of looking for the viruses 
+themselves, this technique looks for the changes that the viruses make to files and boot 
+sectors. Starting with a clean system, the software “inoculates” each boot sector and 
+program file by storing a snapshot of information about it based on its content and size. 
+Then, periodically, it reexamines these files to see if anything has changed. If it has, then the 
+utility will inform the user; if the user hasn’t made the change, the virus may have. 
+ 
+The main advantage of this type of virus detection is that since it is looking at the effects of 
+the virus, it doesn’t need to know what the virus itself is; this means it will detect even new 
+viruses without requiring updated virus definition files all of the time. The disadvantage, and 
+why it is not used that often, is that it generates a substantial amount of false positives.   
+ 
+
+
+
+:
+
+
+inocul
+thi is a total differ approach to viru detect instead of look for the virus
+themselv thi techniqu look for the chang that the virus make to file and boot
+sector start with a clean system the softwar inocul each boot sector and
+program file by store a snapshot of inform about it base on it content and size
+then period it reexamin these file to see if anyth ha chang if it ha then the
+util will inform the user if the user hasnt made the chang the viru mai have
+the main advantag of thi type of viru detect is that sinc it is look at the effect of
+the viru it doesnt need to know what the viru itself is thi mean it will detect even new
+virus without requir updat viru definit file all of the time the disadvantag and
+why it is not us that often is that it gener a substanti amount of fals posit

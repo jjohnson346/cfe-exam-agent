@@ -1,0 +1,45 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Digital Forensics Software/Powerful Processing and Speed
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Powerful Processing and Speed  
+• Distributed processing allows the user to leverage up to three additional computers to 
+reduce processing time and tackle massive data sets. 
+• True multi-processor and multi-threading support that takes advantage of hardware 
+advancements.  
+• Pre- and post-processing refinement allows users to control how images are processed. 
+• An advanced data-carving engine that allows users to carve allocated and unallocated 
+data and specify criteria, such as file size, data type and pixel size to reduce the amount 
+of irrelevant data carved while increasing overall thoroughness.  
+• Optimized dtSearch integration delivers fast indexing and fast search results. 
+ 
+
+
+
+:
+
+
+power process and speed
+distribut process allow the user to leverag up to three addit comput to
+reduc process time and tackl massiv data set
+true multiprocessor and multithread support that take advantag of hardwar
+advanc
+pre and postprocess refin allow user to control how imag ar process
+an advanc datacarv engin that allow user to carv alloc and unalloc
+data and specifi criteria such as file size data type and pixel size to reduc the amount
+of irrelev data carv while increas overal thorough
+optim dtsearch integr deliv fast index and fast search result

@@ -1,0 +1,42 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Multi-File Processing
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Multi-File Processing  
+Multi-file processing allows the user to relate several files by defining relationships between 
+multiple files, without the use of the Join command. A common data relationship would be 
+to relate an outstanding invoice master file to an accounts receivable file based on the 
+customer number. The relationship can be further extended to include an invoice detail file 
+based on invoice number. This relationship will allow you to see which customers have 
+outstanding invoices sorted by date.  
+Data Analysis and Reporting Tools  Investigation 
+3.608   2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+multifil process
+multifil process allow the user to relat sever file by defin relationship between
+multipl file without the us of the join command a common data relationship would be
+to relat an outstand invoic master file to an account receiv file base on the
+custom number the relationship can be further extend to includ an invoic detail file
+base on invoic number thi relationship will allow you to see which custom have
+outstand invoic sort by date
+data analysi and report tool investig
+3608 2011 fraud examin manual

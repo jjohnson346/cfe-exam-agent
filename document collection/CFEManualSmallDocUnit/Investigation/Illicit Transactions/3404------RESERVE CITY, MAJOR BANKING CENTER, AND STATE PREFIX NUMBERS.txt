@@ -1,0 +1,155 @@
+2011 Fraud Examiners Manual/Investigation/TRACING ILLICIT TRANSACTIONS/Direct Methods of Tracing Financial Transactions/Negotiated Checks/RESERVE CITY, MAJOR BANKING CENTER, AND STATE PREFIX NUMBERS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Illicit Transactions
+
+
+:
+
+
+RESERVE CITY, MAJOR BANKING CENTER, AND STATE PREFIX NUMBERS  
+  1 New York, NY 34 Tacoma, WA 68 Virginia 
+  2 Chicago, IL 35 Houston, TX 69 West Virginia 
+  3 Philadelphia, PA 36 St. Joseph, MO 70 Illinois 
+  4 St. Louis, MO 37 Fort Worth, TX 71 Indiana 
+  5 Boston, MA 38 Savannah, GA 72 Iowa 
+  6 Cleveland, OH 39 Oklahoma City, OK 73 Kentucky 
+  7 Baltimore, MD 40 Wichita, KS 74 Michigan 
+  8 Pittsburgh, PA 41 Sioux City, IA 75 Minnesota 
+  9 Detroit, MI 43 Lincoln, NE 76 Nebraska 
+10 Buffalo, NY 44 Topeka, KS 77 North Dakota  
+11 San Francisco, CA 45 Dubuque, IA 78 South Dakota 
+12 Milwaukee, WI 46 Galveston, TX 79 Wisconsin 
+13 Cincinnati, OH  47 Cedar Rapids, IA 80 Missouri 
+14 New Orleans, LA 48 Waco, TX 81 Arkansas 
+15 Washington, D.C. 49 Muskogee, OK 82 Colorado  
+16 Los Angeles, CA 50 New York 83 Kansas 
+17 Minneapolis, MN 51 Connecticut 84 Louisiana  
+18 Kansas City, MO 52 Maine 85 Mississippi 
+19 Seattle, WA 53 Massachusetts 86 Oklahoma 
+20 Indianapolis, IN 54 New Hampshire 87 Tennessee 
+21 Louisville, KY 55 New Jersey 88 Texas 
+22 St. Paul, MN 56 Ohio 89 --- 
+23 Denver, CO 57 Rhode Island 90 California 
+24 Portland, OR 58 Vermont 91 Arizona 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.815 
+25 Columbus, OH 59 AL, AS, GU, HI, PR, VI 7 92 Idaho 
+26 Memphis, TN 60 Pennsylvania 93 Montana 
+27 Omaha, NE 61 Alabama 94 Nevada 
+28 Spokane, WA 62 Delaware 95 New Mexico 
+29 Albany, NY 63 Florida 96 Oregon 
+30 San Antonio, TX 64 Georgia 97 Utah 
+31 Salt Lake City, UT 65 Maryland 98 Washington 
+32 Dallas, TX 66 North Carolina 99 Wyoming 
+ 
+All banks in an area served by a Federal Reserve bank or branch carry the routing symbol of 
+the Federal Reserve bank or branch. The Federal Reserve routing symbol (FRRS) 
+encompasses the first four digits of the nine-digit routing number. This routing symbol 
+identifies where the Federal Reserve bank is located. The first two numbers of the FRRS 
+designate the Federal Reserve District in which the bank is located (as shown below). The 12 
+Federal Reserve Districts and numbers are as follows:  
+ 
+01—Boston, MA 
+02—New York, NY 
+03—Philadelphia, PA 
+04—Cleveland, OH 
+05—Richmond, VA 
+06—Atlanta, GA 
+07—Chicago, IL 
+08—St. Louis, MO 
+09—Minneapolis, MN 
+10—Kansas City, KS 
+11—Dallas, TX 
+12—San Francisco, CA 
+ 
+The next two numbers designate the specific bank location of the Federal Reserve branch. A 
+thrift institution is designated when “2” is added to the first digit of the FRRS. For example, 
+if there is a thrift institution in the first district (Boston) the designation would be “21.” If 
+the thrift institution is in a district that has a double digit, such as San Francisco, the 
+designation becomes “32.” The next four numbers of the routing number sequence are 
+                                                 
+7 AL: Alaska; AS: American Samoa; GU: Guam; HI: Hawaii; PR: Puerto Rico; VI: Virgin Islands 
+Tracing Illicit Transactions  Investigation 
+3.816   2011 Fraud Examiners Manual  
+always unique to the financial institution; and the last number of the nine digit routing 
+number is a digit derived from an algorithmic calculation. 
+ 
+
+
+
+:
+
+
+reserv citi major bank center and state prefix number
+1 new york ny 34 tacoma wa 68 virginia
+2 chicago il 35 houston tx 69 west virginia
+3 philadelphia pa 36 st joseph mo 70 illinoi
+4 st loui mo 37 fort worth tx 71 indiana
+5 boston ma 38 savannah ga 72 iowa
+6 cleveland oh 39 oklahoma citi ok 73 kentucki
+7 baltimor md 40 wichita ks 74 michigan
+8 pittsburgh pa 41 sioux citi ia 75 minnesota
+9 detroit mi 43 lincoln ne 76 nebraska
+10 buffalo ny 44 topeka ks 77 north dakota
+11 san francisco ca 45 dubuqu ia 78 south dakota
+12 milwauke wi 46 galveston tx 79 wisconsin
+13 cincinnati oh 47 cedar rapid ia 80 missouri
+14 new orlean la 48 waco tx 81 arkansa
+15 washington dc 49 muskoge ok 82 colorado
+16 lo angel ca 50 new york 83 kansa
+17 minneapoli mn 51 connecticut 84 louisiana
+18 kansa citi mo 52 main 85 mississippi
+19 seattl wa 53 massachusett 86 oklahoma
+20 indianapoli in 54 new hampshir 87 tennesse
+21 louisvil ky 55 new jersei 88 texa
+22 st paul mn 56 ohio 89
+23 denver co 57 rhode island 90 california
+24 portland or 58 vermont 91 arizona
+investig trace illicit transact
+2011 fraud examin manual 3815
+25 columbu oh 59 al as gu hi pr vi 7 92 idaho
+26 memphi tn 60 pennsylvania 93 montana
+27 omaha ne 61 alabama 94 nevada
+28 spokan wa 62 delawar 95 new mexico
+29 albani ny 63 florida 96 oregon
+30 san antonio tx 64 georgia 97 utah
+31 salt lake citi ut 65 maryland 98 washington
+32 dalla tx 66 north carolina 99 wyom
+all bank in an area serv by a feder reserv bank or branch carri the rout symbol of
+the feder reserv bank or branch the feder reserv rout symbol frr
+encompass the first four digit of the ninedigit rout number thi rout symbol
+identifi where the feder reserv bank is locat the first two number of the frr
+design the feder reserv district in which the bank is locat as shown below the 12
+feder reserv district and number ar as follow
+01boston ma
+02new york ny
+03philadelphia pa
+04cleveland oh
+05richmond va
+06atlanta ga
+07chicago il
+08st loui mo
+09minneapoli mn
+10kansa citi ks
+11dalla tx
+12san francisco ca
+the next two number design the specif bank locat of the feder reserv branch a
+thrift institut is design when 2 is ad to the first digit of the frr for exampl
+if there is a thrift institut in the first district boston the design would be 21 if
+the thrift institut is in a district that ha a doubl digit such as san francisco the
+design becom 32 the next four number of the rout number sequenc ar
+7 al alaska as american samoa gu guam hi hawaii pr puerto rico vi virgin island
+trace illicit transact investig
+3816 2011 fraud examin manual
+alwai uniqu to the financi institut and the last number of the nine digit rout
+number is a digit deriv from an algorithm calcul

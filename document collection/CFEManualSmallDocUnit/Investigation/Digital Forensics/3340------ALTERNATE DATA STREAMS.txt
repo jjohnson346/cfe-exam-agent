@@ -1,0 +1,56 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/User-protected Files/ALTERNATE DATA STREAMS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+ALTERNATE DATA STREAMS 
+Another method used to hide files in Windows systems is the use of the alternate data 
+streams of a file or directory. This method, however, is only possible in Windows New 
+Technology File System (NTFS) — one of two basic types of file systems used to organize 
+data in Windows systems. Alternate data streams are a feature in the NTFS filesystem that 
+offers the ability to put data into existing files and folders without affecting their 
+functionality, size, or display in many traditional file-browsing utilities like command line or 
+Windows Explorer. 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.725 
+Although Windows Explorer does not provide a way to see what alternate data streams are 
+in a file, they are easy to make and allow an individual with basic knowledge to hide files 
+without having to resort to any third-party tools. 
+ 
+Fortunately, there are forensic tools that can search NTFS partitions for alternative data 
+streams.  
+ 
+
+
+
+:
+
+
+altern data stream
+anoth method us to hide file in window system is the us of the altern data
+stream of a file or directori thi method howev is onli possibl in window new
+technolog file system ntf on of two basic type of file system us to organ
+data in window system altern data stream ar a featur in the ntf filesystem that
+offer the abil to put data into exist file and folder without affect their
+function size or displai in mani tradit filebrows util like command line or
+window explor
+investig digit forens
+2011 fraud examin manual 3725
+although window explor doe not provid a wai to see what altern data stream ar
+in a file thei ar easi to make and allow an individu with basic knowledg to hide file
+without have to resort to ani thirdparti tool
+fortun there ar forens tool that can search ntf partit for altern data
+stream

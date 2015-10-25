@@ -1,0 +1,81 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Data Analysis Checklist
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Data Analysis Checklist 
+The following are some key issues to address as one conducts a data analysis. 
+• Ensure data validity and data integrity. There is always a concern when the examiner 
+moves data from one venue to another. One of the concerns is data validity. Is the data 
+valid and pertinent to the investigation? The second concern is integrity. Is the valid data 
+that was selected correct? A simple check or au dit of the validity and integrity of the data 
+should be the first step in the data analysis.    
+• Consider data format and structure. This consideration is important when the examiner 
+wishes to import or export data with his computer. A date can be formatted into a 
+number of different styles, such as mm/dd/yyyy. The structure of the data will also be 
+important along with the extension. A text file will have a .txt extension associated with 
+it. What format is the current data in? What format will the computer require? How does 
+the examiner get the data from here to there if the data formats and structures are 
+different? 
+• Count the zeros. The examiner should perform a preliminary analysis to ensure that the 
+key strategic issue he is about to develop is worth the effort before initiating his fraud 
+investigation. 
+Data Analysis and Reporting Tools  Investigation 
+3.614   2011 Fraud Examiners Manual  
+• Consider the spectrum of distinct levels of aggregation at which fraud monitoring is 
+required. Determine the lowest level (transaction level), the highest level (multiparty 
+criminal conspiracies), and the intervening layers that may be present in your industry 
+and respective data. 
+• Begin with the end in mind. In his book, The Seven Habits of Highly Effective People, Stephen 
+Covey states that beginning with the end in mind is good habit. When you develop your 
+fraud intelligence action plan, be certain to consider the end result. One question to ask 
+may be, “Will this algorithm/consultant hold up under the intense scrutiny of a court of 
+law?”  
+ 
+
+
+
+:
+
+
+data analysi checklist
+the follow ar some kei issu to address as on conduct a data analysi
+ensur data valid and data integr there is alwai a concern when the examin
+move data from on venu to anoth on of the concern is data valid is the data
+valid and pertin to the investig the second concern is integr is the valid data
+that wa select correct a simpl check or au dit of the valid and integr of the data
+should be the first step in the data analysi
+consid data format and structur thi consider is import when the examin
+wish to import or export data with hi comput a date can be format into a
+number of differ style such as mmddyyyi the structur of the data will also be
+import along with the extens a text file will have a txt extens associ with
+it what format is the current data in what format will the comput requir how doe
+the examin get the data from here to there if the data format and structur ar
+differ
+count the zero the examin should perform a preliminari analysi to ensur that the
+kei strateg issu he is about to develop is worth the effort befor initi hi fraud
+investig
+data analysi and report tool investig
+3614 2011 fraud examin manual
+consid the spectrum of distinct level of aggreg at which fraud monitor is
+requir determin the lowest level transact level the highest level multiparti
+crimin conspiraci and the interven layer that mai be present in your industri
+and respect data
+begin with the end in mind in hi book the seven habit of highli effect peopl stephen
+covei state that begin with the end in mind is good habit when you develop your
+fraud intellig action plan be certain to consid the end result on question to ask
+mai be will thi algorithmconsult hold up under the intens scrutini of a court of
+law

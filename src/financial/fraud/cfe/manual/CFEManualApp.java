@@ -148,9 +148,10 @@ public class CFEManualApp {
 		while (true) {
 			System.out.println("Select the CFE Manual:");
 			System.out.println("1.  Small Document Unit.");
-			System.out.println("2.  Large Document Unit.");
+			System.out.println("2.  Small Document Unit - regex.");
+			System.out.println("3.  Large Documnet Unit.");
 			System.out.println("********* OR ***********");
-			System.out.println("3.  Go to Main Menu");
+			System.out.println("4.  Go to Main Menu");
 
 			Scanner scanner = new Scanner(System.in);
 			menuChoice = scanner.nextInt();
@@ -169,6 +170,18 @@ public class CFEManualApp {
 				docUnit = DocumentUnit.SMALL;
 				return;
 			case 2:
+				System.out.println("Configuring CFE Manual as Small Doc Unit manual...");
+				cfeManual = cfeManuals.get("sduregex");
+				if (cfeManual == null) {
+					System.out.println("Small Doc Unit CFE Manual needs to be initialized....");
+					System.out.println("Initializing Small Doc Unit manual... Please stand by.");
+
+					cfeManual = new CFEManualSmallDocUnitRegex();
+					cfeManuals.put("sduregex", cfeManual);
+				}
+				docUnit = DocumentUnit.SMALL_REGEX;
+				return;
+			case 3:
 				System.out.println("Configuring CFE Manual as Large Doc Unit manual...");
 				cfeManual = cfeManuals.get("ldu");
 				if (cfeManual == null) {
@@ -179,7 +192,7 @@ public class CFEManualApp {
 				}
 				docUnit = DocumentUnit.LARGE;
 				return;
-			case 3:
+			case 4:
 				return;
 			default:
 				System.out.println("Invalid option.  Please enter a valid selection.");
@@ -353,7 +366,7 @@ public class CFEManualApp {
 	}
 
 	private enum DocumentUnit {
-		SMALL, LARGE
+		SMALL, SMALL_REGEX, LARGE
 	}
 
 	/**

@@ -1,0 +1,83 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/SECURITIES FRAUD/Securities Fraud Schemes/Front Running — Dual Trading
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Securities Fraud
+
+
+:
+
+
+Front Running — Dual Trading 
+Front running an order is a type of insider trading. Although it usually will not cause a direct 
+loss to the customer, it could, and is a violation of exchange rules. Front running involves 
+the use for profit of the privileged knowledge of a customer’s order to buy or sell a large 
+amount of a commodity, options, or security that, because of its size, is likely to move the 
+market. Back office personnel could have knowledge of such an order and buy or sell for 
+their own account ahead of the customer. Because order fillers on the exchange floor are 
+allowed to trade for their own account and fill orders for customers (dual trading) they also 
+have an opportunity.  
+ 
+Financial Transactions  Securities Fraud 
+2011 Fraud Examiners Manual   1.1535 
+Consider the following scenario: an order is received from a hedger to sell 500 December 
+cattle futures contracts at the market. If the order filler knows that current market conditions 
+are such that this order will move the market significantly lower, it would be very tempting 
+to sell a few contracts for himself and profit from the market decline when he executes the 
+customer order. Order fillers are required to ope rate in the best interest of the customer and 
+“work” the order to get the best price. Howev er, once the trader has established his short 
+position, it is really in his own interest to drive the market as far down as possible when 
+executing the 500 contract sell order. In this situation, the order filler may not give his best 
+efforts and could hurt the customer. 
+ 
+The vast majority of exchange members would never put themselves ahead of a customer, 
+but it has happened in the past. In today’s markets with sophisticated surveillance, exchange 
+investigative personnel actively guard against this type of activity. The time stamps on the 
+customer order, time and sales reports from the exchange, and the account activity of the 
+trader would have to be obtained and examined to substantiate any front running allegation. 
+This information is easily obtainable. Brokerage compliance personnel should easily detect 
+front running by back office personnel by periodically checking their account activity or not 
+allowing them to open trading accounts at all. 
+ 
+
+
+
+:
+
+
+front run dual trade
+front run an order is a type of insid trade although it usual will not caus a direct
+loss to the custom it could and is a violat of exchang rule front run involv
+the us for profit of the privileg knowledg of a custom order to bui or sell a larg
+amount of a commod option or secur that becaus of it size is like to move the
+market back offic personnel could have knowledg of such an order and bui or sell for
+their own account ahead of the custom becaus order filler on the exchang floor ar
+allow to trade for their own account and fill order for custom dual trade thei also
+have an opportun
+financi transact secur fraud
+2011 fraud examin manual 11535
+consid the follow scenario an order is receiv from a hedger to sell 500 decemb
+cattl futur contract at the market if the order filler know that current market condit
+ar such that thi order will move the market significantli lower it would be veri tempt
+to sell a few contract for himself and profit from the market declin when he execut the
+custom order order filler ar requir to op rate in the best interest of the custom and
+work the order to get the best price howev er onc the trader ha establish hi short
+posit it is realli in hi own interest to drive the market as far down as possibl when
+execut the 500 contract sell order in thi situat the order filler mai not give hi best
+effort and could hurt the custom
+the vast major of exchang member would never put themselv ahead of a custom
+but it ha happen in the past in todai market with sophist surveil exchang
+investig personnel activ guard against thi type of activ the time stamp on the
+custom order time and sale report from the exchang and the account activ of the
+trader would have to be obtain and examin to substanti ani front run alleg
+thi inform is easili obtain brokerag complianc personnel should easili detect
+front run by back offic personnel by period check their account activ or not
+allow them to open trade account at all

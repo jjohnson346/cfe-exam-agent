@@ -1,0 +1,40 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Four Phases
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Four Phases 
+There are several definitions and different schools of thought for investigations involving 
+computer forensics, but all practitioners in the field will agree that investigations typically 
+involve four phases: seizure, image acquisition, analysis, and reporting and testifying.  
+ 
+Each phase is dependent on the phases that come before it. For instance, if the seizure phase 
+is handled incorrectly, then each of the following phases can suffer and ultimately render the 
+reporting and testifying phase moot. 
+ 
+
+
+
+:
+
+
+four phase
+there ar sever definit and differ school of thought for investig involv
+comput forens but all practition in the field will agre that investig typic
+involv four phase seizur imag acquisit analysi and report and testifi
+each phase is depend on the phase that come befor it for instanc if the seizur phase
+is handl incorrectli then each of the follow phase can suffer and ultim render the
+report and testifi phase moot

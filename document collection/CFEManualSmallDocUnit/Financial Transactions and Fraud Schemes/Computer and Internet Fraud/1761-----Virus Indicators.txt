@@ -1,0 +1,73 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Virus Indicators
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Virus Indicators 
+The following are some of the indicators that a computer might exhibit suggesting that it 
+might be infected: 
+• A sudden and sometimes dramatic decrease of free space on your media. 
+• The system suddenly, and for no apparent reason, slows down its command-response 
+time. 
+• An increase in the size of some files. 
+• There has been a change in the length of executable files, a change in their content, or a 
+change in their file date/time stamp. 
+• An unexpected number of disk accesses, especially to particular file(s). 
+• The operating system and/or other programs suddenly begin behaving in unpredictable 
+ways. Sometimes disk files that should be there cannot be accessed or are suddenly 
+erased with no warning. 
+• Unusual messages and graphics. 
+• Unable to boot-up the system. 
+• Unable to access files. 
+• Unexplained and repeated maintenance repairs. 
+• System or data files disappear or become fragmented. 
+• Unexplained changes in memory. 
+• Unexplained changes in program sizes. 
+• Resident antiviral software programs display messages that a virus has been encountered. 
+Note that until the source of the virus has been identified and removed from the system, 
+antiviral systems might continually inform the operator that a virus is being encountered 
+and removed. 
+ 
+
+
+
+:
+
+
+viru indic
+the follow ar some of the indic that a comput might exhibit suggest that it
+might be infect
+a sudden and sometim dramat decreas of free space on your media
+the system suddenli and for no appar reason slow down it commandrespons
+time
+an increas in the size of some file
+there ha been a chang in the length of execut file a chang in their content or a
+chang in their file datetim stamp
+an unexpect number of disk access especi to particular file
+the oper system andor other program suddenli begin behav in unpredict
+wai sometim disk file that should be there cannot be access or ar suddenli
+eras with no warn
+unusu messag and graphic
+unabl to bootup the system
+unabl to access file
+unexplain and repeat mainten repair
+system or data file disappear or becom fragment
+unexplain chang in memori
+unexplain chang in program size
+resid antivir softwar program displai messag that a viru ha been encount
+note that until the sourc of the viru ha been identifi and remov from the system
+antivir system might continu inform the oper that a viru is be encount
+and remov

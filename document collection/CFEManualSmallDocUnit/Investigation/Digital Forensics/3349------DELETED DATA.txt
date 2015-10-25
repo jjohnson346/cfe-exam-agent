@@ -1,0 +1,35 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Computer-created Files/DELETED DATA
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+DELETED DATA 
+Deletion is a widely misunderstood function in computing because deleting data is not the 
+same as destroying data. Choosing the delete option erases the file’s reference from the table 
+of contents, but it does not erase the file; in fa ct, data is not erased from a computer’s hard 
+drive until the file is overwritten. 
+ 
+
+
+
+:
+
+
+delet data
+delet is a wide misunderstood function in comput becaus delet data is not the
+same as destroi data choos the delet option eras the file refer from the tabl
+of content but it doe not eras the file in fa ct data is not eras from a comput hard
+drive until the file is overwritten

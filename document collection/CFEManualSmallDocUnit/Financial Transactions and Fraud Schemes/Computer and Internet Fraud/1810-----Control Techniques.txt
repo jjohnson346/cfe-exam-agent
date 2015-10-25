@@ -1,0 +1,75 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Security/Control Techniques
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Control Techniques 
+Control techniques commonly used in computerized systems are listed below. 
+• One-for-one checking consists of checking each source document against a detailed list 
+processed by the computer. This technique is normally used for low-volume input 
+because of the cost and time involved. 
+• Batch/control totals involve manually grouping transactions at the input stage and 
+manually establishing a control total over the entire group. The methods used include 
+document counts, item or line counts, dollar totals, and cash totals. 
+• In computer sequence checking, the computer verifies the preassigned serial numbers of 
+input transactions and reports missing or duplicate numbers. 
+• Computer matching consists of the computer matching the input data to information 
+held on the master file or suspense files. Unmatched items are reported for investigation.  
+• Programmed edit checks are computer program procedures that edit data. Examples 
+include: 
+? Reasonableness 
+? Dependency 
+? Existence 
+? Format 
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1847 
+? Mathematical accuracy 
+? Range 
+? Digit verification 
+? Prior data matching 
+• Prerecorded input is used to reduce errors during data entry.  
+ 
+
+
+
+:
+
+
+control techniqu
+control techniqu commonli us in computer system ar list below
+oneforon check consist of check each sourc document against a detail list
+process by the comput thi techniqu is normal us for lowvolum input
+becaus of the cost and time involv
+batchcontrol total involv manual group transact at the input stage and
+manual establish a control total over the entir group the method us includ
+document count item or line count dollar total and cash total
+in comput sequenc check the comput verifi the preassign serial number of
+input transact and report miss or duplic number
+comput match consist of the comput match the input data to inform
+held on the master file or suspens file unmatch item ar report for investig
+program edit check ar comput program procedur that edit data exampl
+includ
+reason
+depend
+exist
+format
+financi transact comput and internet fraud
+2011 fraud examin manual 11847
+mathemat accuraci
+rang
+digit verif
+prior data match
+prerecord input is us to reduc error dure data entri

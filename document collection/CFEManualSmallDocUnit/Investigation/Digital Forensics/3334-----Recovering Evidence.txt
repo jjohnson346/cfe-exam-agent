@@ -1,0 +1,44 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/Recovering Evidence
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Recovering Evidence 
+In addition to live files, a wealth of information can be recovered and analyzed on seized 
+systems. Because Windows operating systems are the most widely used, knowledge about the 
+file systems—methods used to store and organi ze computer files and the data they contain 
+for easy access—used by the Windows operating system is critical. Knowledge of the 
+Windows operating system will help the examiner locate relevant evidence that is commonly 
+found in files stored on hard drives, storage devices, and media.  
+ 
+Common files containing evidence stored in the operating system include user-created files, 
+user-protected files, and computer-created files.  
+ 
+
+
+
+:
+
+
+recov evid
+in addit to live file a wealth of inform can be recov and analyz on seiz
+system becaus window oper system ar the most wide us knowledg about the
+file systemsmethod us to store and organi ze comput file and the data thei contain
+for easi accessus by the window oper system is critic knowledg of the
+window oper system will help the examin locat relev evid that is commonli
+found in file store on hard drive storag devic and media
+common file contain evid store in the oper system includ usercr file
+userprotect file and computercr file

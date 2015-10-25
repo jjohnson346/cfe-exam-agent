@@ -1,0 +1,57 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Using Data Analysis Software/Compliance Verification
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Compliance Verification 
+This function determines whether company policies are met by employee transactions. If a 
+company limits the amount of its reimbursements, the software can check to see that this 
+limit is being observed. Many times fraud exam iners can find early indications of fraud by 
+testing detail data for values above or below specified amounts. For example, when 
+employees are out of town, do they adhere to the company policy of not spending more 
+than $30 a day for meals? For starters, we can look at the expense reports and select those 
+with meal expenses exceeding $30. With the in formation returned from this simple query, we 
+have a starting point for suspecting fraud. Even though these variances are small ($2 and $3), 
+the time taken to research small variances can be well invested. The trail might lead to 
+something big. After further investigation, you might learn that the employee did not have 
+supporting documentation to submit because a vendor’s sales representative paid for all the 
+meals. If this is the case, you have two fraud suspects, the employee and the employee’s boss 
+who approved the report. 
+ 
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.609 
+
+
+
+:
+
+
+complianc verif
+thi function determin whether compani polici ar met by employe transact if a
+compani limit the amount of it reimburs the softwar can check to see that thi
+limit is be observ mani time fraud exam iner can find earli indic of fraud by
+test detail data for valu abov or below specifi amount for exampl when
+employe ar out of town do thei adher to the compani polici of not spend more
+than 30 a dai for meal for starter we can look at the expens report and select those
+with meal expens exceed 30 with the in format return from thi simpl queri we
+have a start point for suspect fraud even though these varianc ar small 2 and 3
+the time taken to research small varianc can be well invest the trail might lead to
+someth big after further investig you might learn that the employe did not have
+support document to submit becaus a vendor sale repres paid for all the
+meal if thi is the case you have two fraud suspect the employe and the employe boss
+who approv the report
+investig data analysi and report tool
+2011 fraud examin manual 3609

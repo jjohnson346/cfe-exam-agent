@@ -1,0 +1,35 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Digital Forensics Software/How EnCase Forensic Works/OBTAIN FORENSICALLY SOUND ACQUISITIONS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+OBTAIN FORENSICALLY SOUND ACQUISITIONS 
+EnCase Forensic produces an exact binary duplicate of the original drive or media, then 
+verifies it by generating MD5 hash values for related image files and assigning CRC values to 
+the data. These checks and balances reveal when evidence has been tampered with or 
+altered, helping to keep all digital evidence forensically sound for use in court proceedings. 
+ 
+
+
+
+:
+
+
+obtain forens sound acquisit
+encas forens produc an exact binari duplic of the origin drive or media then
+verifi it by gener md5 hash valu for relat imag file and assign crc valu to
+the data these check and balanc reveal when evid ha been tamper with or
+alter help to keep all digit evid forens sound for us in court proceed

@@ -60,8 +60,8 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 	 *            the beginning position of the prior section.
 	 * @return an integer, the beginning position for the CFEManualSection object
 	 */
-	// protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
-	protected int loadBegPositions(CFEManualSection section, String manualText, int startPos) {
+	protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
+		//	protected int loadBegPositions(CFEManualSection section, String manualText, int startPos) {
 		// start search from last begPosition.
 		// int pagePos = manualText.indexOf(section.pageNumber);
 
@@ -92,20 +92,20 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 		// 2. Computer Fraud
 		// In this case, without the +1, Computer Fraud is assigned the same begPos
 		// as Computer Fraud versus Computer Crime...! +1 provides the fix.
-		int begPos = pagePos < startPos ? startPos : pagePos;
+		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
 
 		// find the name of section immediately after begPos.
 		section.begPosition = manualText.indexOf(section.name, begPos);
 
-		if (section.name.toLowerCase().equals("computer and internet fraud")
-				|| section.name.toLowerCase().equals("computer fraud versus computer crime")
-				|| section.name.toLowerCase().equals("computer fraud")
-				|| section.name.toLowerCase().equals("computer crime"))
-			System.out.println(section.name + " " + pagePos + " " + (startPos + 1) + " " + section.begPosition);
+//		if (section.name.toLowerCase().equals("computer and internet fraud")
+//				|| section.name.toLowerCase().equals("computer fraud versus computer crime")
+//				|| section.name.toLowerCase().equals("computer fraud")
+//				|| section.name.toLowerCase().equals("computer crime"))
+//			System.out.println(section.name + " " + pagePos + " " + (startPos + 1) + " " + section.begPosition);
 
 		if (section.parent != null) {
 			if (section.parent.name.toLowerCase().equals("Elements of White-Collar Offenses")) {
-				System.out.println(section.name + " " + pagePos + " " + (startPos + 1) + " " + section.begPosition);
+				System.out.println(section.name + " " + pagePos + " " + (prevBegPos + 1) + " " + section.begPosition);
 			}
 		}
 		// final String SECTION_LINE_REGEX = "^" + section.name + "\\s*?$";
@@ -120,15 +120,17 @@ public class CFEManualSmallDocUnit extends AbstractCFEManual {
 			errors.add(section);
 		}
 
+		prevBegPos = section.begPosition + section.name.length();
+		
 		for (CFEManualSection s : section.subSections.values()) {
 			// modified the recursive call so as to *not* use prevBegPos, but instead
 			// use section.begPosition + section.name.length. For consecutive sections that are named
 			// similarly, particularly where there is a parent/child relationship
 			// between these sections, using prevBegPos is problematic. see comment
 			// above regarding the Computer Fraud sections.
-			begPos = loadBegPositions(s, manualText, section.begPosition + section.name.length());
+			begPos = loadBegPositions(s, manualText, prevBegPos);
 			// begPos = loadBegPositions(s, manualText, prevBegPos);
-			startPos = begPos;
+			prevBegPos = begPos + s.name.length();
 		}
 		return section.begPosition;
 	}

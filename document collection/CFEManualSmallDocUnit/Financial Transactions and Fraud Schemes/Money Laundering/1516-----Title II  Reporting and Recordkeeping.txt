@@ -1,0 +1,231 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MONEY LAUNDERING/Federal and State Law/Title II — Reporting and Recordkeeping
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Money Laundering
+
+
+:
+
+
+Title II — Reporting and Recordkeeping 
+Title II of the Bank Secrecy Act is codified as 31, U.S.C., §§ 5311–5330. The purpose of 
+these sections is to require certain reports or records to be filed or kept by “financial 
+institutions.” Section 5312(a)(2) defines “financial institution” very broadly to include not 
+only banks, but also securities brokers; currency exchange houses; insurance companies; loan 
+companies; travel agencies; telegraph companies; issuers or cashiers of checks or money 
+orders; auto, boat, and airplane dealers; casinos; and persons involved in real estate closings 
+and settlements. Only recently has the Treasury Department begun to reign in much of the 
+non-financial institution transaction business in the U.S. by requiring registration of these 
+diverse enterprises (see the “Money Services Business” excerpt below). 
+ 
+The regulations promulgated by the U.S. Treasury Department are contained primarily in 
+Chapter 31 of the Code of Federal Regulations at Part 103, Subpart B and require the 
+following reports: 
+ 
+CURRENCY TRANSACTION REPORT (CTR) — FINCEN FORM 104 
+All banks, and certain other financial institutions, are required to fill out currency transaction 
+reports (CTR) whenever there is a currency transaction (deposit, withdrawal, exchange, or 
+cashing of checks) of $10,000 or more.  The easiest way to summarize the filing requirement is 
+to remember: if currency in excess of $10,000 is brought into a financial institution to conduct 
+a transaction, or if as the result of a transaction, $10,000 in currency leaves the financial 
+institution, a CTR must be filed.  
+ 
+FinCEN Form 104 (formerly named IRS Form 4789) is prepared by the financial institution 
+and contains the name(s) of the individual(s) conducting the transaction(s) or the name(s) of 
+the person(s) or organization(s) on whose behalf the transaction is being conducted, as well as 
+all identifying data of these individuals or entities. It also requires the details of the transaction 
+and identifying data of the financial institution preparing the form. For purposes of reporting, 
+multiple transactions must be treated as a single transaction if the financial institution has 
+knowledge that the transactions are by or on behalf of the same person and the amounts total 
+more than $10,000 during any one business day. 
+ 
+Under Title 31, U.S.C., section 5313, the Treasury Department publishes a “mandatory 
+exemption” list that specifically identifies entities whose transactions with a financial 
+institution are exempt from these reporting requirements. The exempted entities include 
+banks, departments or agencies of state or federal government, and other businesses “whose 
+Money Laundering  Financial Transactions   
+1.1624                           2011 Fraud Examiners Manual  
+reports have little or no value for law enforcement purposes.” The exempt list must be 
+published periodically in the Federal Register.  
+ 
+The Treasury Department can also provide “discretionary exemptions” for “qualified business 
+customers,” which are defined as businesses that  (1) maintain transaction accounts (as defined 
+by the Federal Reserve Act) at the particular institution; (2) frequently engage in transactions 
+with the institution that are subject to the reporting requirements; and (3) meet the guidelines 
+and criteria established by the Treasury Department to ensure that the failure to file reports on 
+these entities will not interfere with the purposes of the Act. 
+ 
+A copy of Form 104 is included at the end of this chapter. 
+ 
+CURRENCY REPORTS BY CASINOS — FINCEN FORM 102 
+Form 102 (formerly named IRS Form 8362) is required to be filed by casinos licensed by 
+state or local government and having an annual gross revenue in excess of $1,000,000. 
+Nevada casinos are exempt from filing these forms because of a strict state law that requires 
+reporting for currency transactions. The filing requirements and transaction details for this 
+form are almost identical to Form 104. 
+ 
+CURRENCY REPORTS BY NON-FINANCIAL BUSINESSES — IRS FORM 8300 
+The PATRIOT Act created Title 31, section 5331, of the U.S. Code, which requires persons 
+engaged in any trade or business to file a report with FinCEN when, in the course of their 
+business, they receive more than $10,000 in coins or currency, either in one transaction or in 
+two or more related transactions. For purposes of computing the amount of multiple related 
+transactions, the recipient must aggregate all payments made within one year of the first 
+payment. Transactions covered by this Section must be reported within 15 days of receipt of 
+payments in excess of $10,000. The rules govern ing these reports are codified at 31, CFR, § 
+103.30. 
+ 
+This section does not apply to financial institutions, which are already covered by 31, U.S.C., 
+§ 5313 as described above. It also does not apply to transactions occurring entirely outside 
+the United States. In addition, the rules exempt certain loans, installment sales, and down 
+payment plans.  
+ 
+The information required to be reported under section 5331 is very similar to the 
+information that was already required by the IRS under section 6050I of the Internal 
+Financial Transactions  Money Laundering 
+2011 Fraud Examiners Manual   1.1625 
+Revenue Code. Because of the similarity between the two statutes, the reports are to be 
+made on the same Form 8300, which is filed jointly with FinCEN and the IRS. Essentially, 
+the rule imposes no new record-keeping burden (since Form 8300 already had to be filed 
+with the IRS). 
+ 
+Under the Internal Revenue Code, there are both civil and criminal penalties for failure to 
+file Form 8300 or filing a false form. Criminal sanctions include imprisonment of up to five 
+years (for a willful failure to file) and fines of up to $500,000 (for organizations knowingly 
+filing a false return). 
+ 
+REPORTS OF INTERNATIONAL TRANSPORTATION OF CURRENCY OR MONETARY INSTRUMENT CUSTOMS (CMIR) — FINCEN FORM 105 
+Pursuant to Title 31, U.S.C., § 5316, a person shall file a report if he transports or is about to 
+transport monetary instruments of more than $10,000 into or out of the United States at one 
+time or if he receives by transport, mail, or shipment monetary instruments in excess of 
+$10,000 at one time transported into the United Sates from a place outside the United States. 
+FinCEN Form 105 (formerly named Customs Form 4790) is to be filed at the time of 
+transportation or within 15 days of receipt. 
+ 
+For the purposes of this statute, the term “monetary instrument” means United States and 
+foreign coin and currency; bearer instruments such as business, bank, or personal checks; 
+money orders; promissory notes; bearer stocks; and bonds. 
+ 
+There are exemptions from the CMIR filin g requirements that extend to banks for  
+transfers of funds through normal banking procedures, the Federal Reserve, and certain 
+common carriers. 
+ 
+A copy of this form is included at the end of this chapter. 
+ 
+REPORT OF FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)—TREASURY FORM 90-22.1 
+Treasury Department regulations require citizens of the United States and resident aliens to 
+file a report when they maintain a financial interest or signature authority over a foreign bank 
+account with a balance of more than $10,000 during the calendar year. Accounts in different 
+foreign countries have to be aggregated. 
+ 
+Money Laundering  Financial Transactions   
+1.1626                           2011 Fraud Examiners Manual  
+
+
+
+:
+
+
+titl ii report and recordkeep
+titl ii of the bank secreci act is codifi as 31 usc 53115330 the purpos of
+these section is to requir certain report or record to be file or kept by financi
+institut section 5312a2 defin financi institut veri broadli to includ not
+onli bank but also secur broker currenc exchang hous insur compani loan
+compani travel agenc telegraph compani issuer or cashier of check or monei
+order auto boat and airplan dealer casino and person involv in real estat close
+and settlement onli recent ha the treasuri depart begun to reign in much of the
+nonfinanci institut transact busi in the us by requir registr of these
+divers enterpris see the monei servic busi excerpt below
+the regul promulg by the us treasuri depart ar contain primarili in
+chapter 31 of the code of feder regul at part 103 subpart b and requir the
+follow report
+currenc transact report ctr fincen form 104
+all bank and certain other financi institut ar requir to fill out currenc transact
+report ctr whenev there is a currenc transact deposit withdraw exchang or
+cash of check of 10000 or more the easiest wai to summar the file requir is
+to rememb if currenc in excess of 10000 is brought into a financi institut to conduct
+a transact or if as the result of a transact 10000 in currenc leav the financi
+institut a ctr must be file
+fincen form 104 formerli name ir form 4789 is prepar by the financi institut
+and contain the name of the individu conduct the transact or the name of
+the person or organ on whose behalf the transact is be conduct as well as
+all identifi data of these individu or entiti it also requir the detail of the transact
+and identifi data of the financi institut prepar the form for purpos of report
+multipl transact must be treat as a singl transact if the financi institut ha
+knowledg that the transact ar by or on behalf of the same person and the amount total
+more than 10000 dure ani on busi dai
+under titl 31 usc section 5313 the treasuri depart publish a mandatori
+exempt list that specif identifi entiti whose transact with a financi
+institut ar exempt from these report requir the exempt entiti includ
+bank depart or agenc of state or feder govern and other busi whose
+monei launder financi transact
+11624 2011 fraud examin manual
+report have littl or no valu for law enforc purpos the exempt list must be
+publish period in the feder regist
+the treasuri depart can also provid discretionari exempt for qualifi busi
+custom which ar defin as busi that 1 maintain transact account as defin
+by the feder reserv act at the particular institut 2 frequent engag in transact
+with the institut that ar subject to the report requir and 3 meet the guidelin
+and criteria establish by the treasuri depart to ensur that the failur to file report on
+these entiti will not interfer with the purpos of the act
+a copi of form 104 is includ at the end of thi chapter
+currenc report by casino fincen form 102
+form 102 formerli name ir form 8362 is requir to be file by casino licens by
+state or local govern and have an annual gross revenu in excess of 1000000
+nevada casino ar exempt from file these form becaus of a strict state law that requir
+report for currenc transact the file requir and transact detail for thi
+form ar almost ident to form 104
+currenc report by nonfinanci busi ir form 8300
+the patriot act creat titl 31 section 5331 of the us code which requir person
+engag in ani trade or busi to file a report with fincen when in the cours of their
+busi thei receiv more than 10000 in coin or currenc either in on transact or in
+two or more relat transact for purpos of comput the amount of multipl relat
+transact the recipi must aggreg all payment made within on year of the first
+payment transact cover by thi section must be report within 15 dai of receipt of
+payment in excess of 10000 the rule govern ing these report ar codifi at 31 cfr
+10330
+thi section doe not appli to financi institut which ar alreadi cover by 31 usc
+5313 as describ abov it also doe not appli to transact occur entir outsid
+the unit state in addit the rule exempt certain loan instal sale and down
+payment plan
+the inform requir to be report under section 5331 is veri similar to the
+inform that wa alreadi requir by the ir under section 6050i of the intern
+financi transact monei launder
+2011 fraud examin manual 11625
+revenu code becaus of the similar between the two statut the report ar to be
+made on the same form 8300 which is file jointli with fincen and the ir essenti
+the rule impos no new recordkeep burden sinc form 8300 alreadi had to be file
+with the ir
+under the intern revenu code there ar both civil and crimin penalti for failur to
+file form 8300 or file a fals form crimin sanction includ imprison of up to five
+year for a will failur to file and fine of up to 500000 for organ knowingli
+file a fals return
+report of intern transport of currenc or monetari instrument custom cmir fincen form 105
+pursuant to titl 31 usc 5316 a person shall file a report if he transport or is about to
+transport monetari instrument of more than 10000 into or out of the unit state at on
+time or if he receiv by transport mail or shipment monetari instrument in excess of
+10000 at on time transport into the unit sate from a place outsid the unit state
+fincen form 105 formerli name custom form 4790 is to be file at the time of
+transport or within 15 dai of receipt
+for the purpos of thi statut the term monetari instrument mean unit state and
+foreign coin and currenc bearer instrument such as busi bank or person check
+monei order promissori note bearer stock and bond
+there ar exempt from the cmir filin g requir that extend to bank for
+transfer of fund through normal bank procedur the feder reserv and certain
+common carrier
+a copi of thi form is includ at the end of thi chapter
+report of foreign bank and financi account fbartreasuri form 90221
+treasuri depart regul requir citizen of the unit state and resid alien to
+file a report when thei maintain a financi interest or signatur author over a foreign bank
+account with a balanc of more than 10000 dure the calendar year account in differ
+foreign countri have to be aggreg
+monei launder financi transact
+11626 2011 fraud examin manual
