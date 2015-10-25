@@ -40,6 +40,7 @@ public class Document {
 			contents = input.next();
 
 			String[] fields = contents.split("\n\n\n:\n\n\n");
+			System.out.println(contents);
 			path = fields[0];
 			examSection = fields[1];
 			questionSection = fields[2];

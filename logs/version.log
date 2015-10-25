@@ -16,6 +16,19 @@ test sets).
 This data serves as the basis for creating the information retrieval module that will be used
 for document processing for each question.
 
+- fixed a bug in loadBeginningPositions() method of CFEManualSmallDocUnit and CFEManualLargeDocUnit.
+
+This bug addressed the issue of when two consecutive sections were named very similarly.
+if the page number of the section is at a position that is less than the
+position for the previous section, start at the position of the previous
+section. Note, here, that we've added one to prevBegPos in order to
+address the issue of when two consecutive sections are named very similarly.
+For example, consider these two sections:
+1. Computer Fraud versus Computer Crime
+2. Computer Fraud
+In this case, without the +1, Computer Fraud is assigned the same begPos
+as Computer Fraud versus Computer Crime...! +1 provides the fix.
+
 1.5.9
 
 - added build files, build.xml and run_exam_1.sh template file to be built/modified in ant build.

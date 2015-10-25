@@ -10,14 +10,14 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * encapsulates logic for finding capitalized section names within the manual that are not 
- * included in the table of contents file.  This functionality significantly increases the granularity
- * and depth of the sections into which the cfe manual can be broken down for the purpose of information
- * retrieval.
- * 
- * @author jjohnson346
- *
- */
+* CFEManualSectionExtractor encapsulates logic for finding capitalized section names within the manual that are not
+* included in the table of contents file. This functionality significantly increases the granularity and depth of the
+* sections into which the cfe manual can be broken down for the purpose of information retrieval.
+* 
+* @author jjohnson346
+*
+*/
+
 public class CFEManualSectionExtractor {
 
 	private String cfeManualText;			// stores the text of the cfe manual (excl. toc)

@@ -8,7 +8,8 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * An instance of CFEManual represents a copy of the cfe manual, "read" by cfe agent before taking a test...
+ * CFEManualSmallDocUnit2 implements the CFEManual interface, sectioning the manual using regular expressions
+ * instead of direct string searches, as is the case for CFEManualSmallDocUnit.
  * 
  * @author jjohnson346
  * 
@@ -35,7 +36,17 @@ public class CFEManualSmallDocUnit2 extends AbstractCFEManual {
 			System.out.println("page " + section.pageNumber + " NOT FOUND.");
 		}
 
-		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
+		// 10/24/2015 - version 1.9.0 -
+		// if the page number of the section is at a position that is less than the
+		// position for the previous section, start at the position of the previous
+		// section. Note, here, that we've added one to prevBegPos in order to
+		// address the issue of when two consecutive sections are named very similarly.
+		// For example, consider these two sections:
+		// 1. Computer Fraud versus Computer Crime
+		// 2. Computer Fraud
+		// In this case, without the +1, Computer Fraud is assigned the same begPos
+		// as Computer Fraud versus Computer Crime...! +1 provides the fix.
+		int begPos = pagePos < prevBegPos + 1 ? prevBegPos + 1 : pagePos;
 
 		// find the name of section immed. after begPos.
 		// section.begPosition = manualText.indexOf(section.name, begPos);

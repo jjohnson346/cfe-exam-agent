@@ -14,9 +14,9 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * A partial implementation of CFEManual, providing implementations for all functions except the protected method,
- * loadBeginningPositions() which will vary between child classes of this class, depending on the size of the document
- * unit.
+ * A convenience class providing a partial implementation of CFEManual, providing implementations for all functions
+ * except the protected method, loadBeginningPositions() which will vary between child classes of this class, depending
+ * on the size of the document unit.
  * 
  * @author jjohnson346
  * 
@@ -59,13 +59,13 @@ public abstract class AbstractCFEManual implements CFEManual {
 	 * list of manual sections that yielded any errors during the load process. used for debugging
 	 */
 	protected List<CFEManualSection> errors;
-	
+
 	/**
-	 * reference to the single instance of the Logger class (implements the Singleton pattern).
-	 * Used for debugging, as well as for general reporting of system status.
+	 * reference to the single instance of the Logger class (implements the Singleton pattern). Used for debugging, as
+	 * well as for general reporting of system status.
 	 */
 	protected Logger logger;
-	
+
 	/**
 	 * constructor builds the tree structure of cfe manual section objects.
 	 */
