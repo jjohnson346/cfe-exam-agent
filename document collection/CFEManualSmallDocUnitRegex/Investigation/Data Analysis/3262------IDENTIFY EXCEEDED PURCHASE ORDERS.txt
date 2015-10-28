@@ -1,0 +1,62 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Accounts Payable/IDENTIFY EXCEEDED PURCHASE ORDERS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+IDENTIFY EXCEEDED PURCHASE ORDERS 
+This report works to identify authorization issues within an accounts payable process 
+whereby the invoices paid exceed the approved purchase order amounts. Aside from 
+assessing the authorized limits, this report tests the system control that should not allow an 
+invoice to be paid above a predetermined limit (normally between 5 and 10 percent). 
+The report may also highlight frauds: 
+• In which a valid purchase order is provided to authorize payment, yet inflated payments 
+are made to assist the fraudster in some way. 
+• In which vendors working with an employee create a purchase order with valid unit 
+prices, yet inflate those prices when the invoices are sent. 
+ 
+This test may highlight a control issue within the computer system (which should check for 
+exceeded purchase orders), or it may identify numerous overrides to the computer system. 
+These overrides may be within the normal course of business (e.g., purchase order prices 
+were meant to be at the invoice price rate, but were entered in error on the purchase order), 
+but may also highlight fraudulent activity. Regardless, the auditor should walk through the 
+process of entering a purchase order and associated invoices to understand the system 
+controls. Once understood, the differences presented in this test can be investigated by 
+vouching to purchase order and invoice documentation. 
+ 
+
+
+
+:
+
+
+identifi exceed purchas order
+thi report work to identifi author issu within an account payabl process
+wherebi the invoic paid exce the approv purchas order amount asid from
+assess the author limit thi report test the system control that should not allow an
+invoic to be paid abov a predetermin limit normal between 5 and 10 percent
+the report mai also highlight fraud
+in which a valid purchas order is provid to author payment yet inflat payment
+ar made to assist the fraudster in some wai
+in which vendor work with an employe creat a purchas order with valid unit
+price yet inflat those price when the invoic ar sent
+thi test mai highlight a control issu within the comput system which should check for
+exceed purchas order or it mai identifi numer overrid to the comput system
+these overrid mai be within the normal cours of busi eg purchas order price
+were meant to be at the invoic price rate but were enter in error on the purchas order
+but mai also highlight fraudul activ regardless the auditor should walk through the
+process of enter a purchas order and associ invoic to understand the system
+control onc understood the differ present in thi test can be investig by
+vouch to purchas order and invoic document

@@ -9,6 +9,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
@@ -97,7 +99,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 
 		// initialize beginning position of each cfe manual section object.
 		logger.println("Loading beginning positions of manual sections...", DetailLevel.MEDIUM);
-		loadBegPositions(root, manualText, 0);
+		loadBegPositions(root, manualText, 0, 0);
 		logger.println("Beginning positions load complete.", DetailLevel.MEDIUM);
 
 		// initialize end position for each cfe manual section object.
@@ -113,7 +115,23 @@ public abstract class AbstractCFEManual implements CFEManual {
 		// build the hash map lookup for cfe manual section name -> cfe manual section object.
 		buildManualSectionMap();
 
+		// set doc text for each cfe manual section object.
+		logger.println("Setting document bodies for manual sections...", DetailLevel.MEDIUM);
+		this.setBodiesForSections();
+		logger.println("Setting document bodies process complete.", DetailLevel.MEDIUM);
+
 		logger.println("Completed reading Fraud Examiners Manual.", DetailLevel.MINIMAL);
+	}
+
+	private void setBodiesForSections() {
+		setSectionBody(root);
+	}
+
+	private void setSectionBody(CFEManualSection section) {
+		section.setText();
+		for (CFEManualSection subSection : section.subSections.values()) {
+			setSectionBody(subSection);
+		}
 	}
 
 	/**
@@ -350,21 +368,63 @@ public abstract class AbstractCFEManual implements CFEManual {
 	}
 
 	/**
-	 * abstract method for determining the first character of each document to be created from the manual. This is
-	 * abstract because depending on the chosen granularity, the implementation for this method will vary.
+	 * abstract method for determining the beginning character position of for each CFEManual section object within the
+	 * text of the cfe manual. For the root section, this is always 0. For the rest, it starts the search at the
+	 * beginning position of the previous section or at the position of the page number for the section, looking for the
+	 * section name starting at that point.
+	 * 
+	 * Note: for the root node, beginning position is set in the buildManualTree() method (not here).
 	 * 
 	 * This function is called recursively for each cfe manual section object, where for a call to this function for a
 	 * given section object, this function calls this function for each child section of the current section.
 	 * 
 	 * @param section
-	 *            the parent CFEManualSection object for which to find the beginning position
+	 *            the CFEManualSection object for which to determine the beginning position
 	 * @param manualText
-	 *            the String containing the entirety of the manual from within which to find the beginning position
-	 * @param prevBegPos
-	 *            the beginning position of the prior CFE Manual section
-	 * @return the beginning position of the CFEManualSection object passed in
+	 *            a string containing the text of the cfe manual
+	 * @param startPos
+	 *            the beginning position of the prior section.
+	 * @return an integer, the beginning position for the CFEManualSection object
 	 */
-	protected abstract int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos);
+	protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos, int prevPagePos) {
+		int pagePos = 0;
+
+		final String PAGE_LINE_REGEX = "(^2011 Fraud Examiners Manual\\s+?" + section.pageNumber + "\\s*?$|^"
+				+ section.pageNumber + "\\s+?2011 Fraud Examiners Manual\\s+?)";
+
+		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
+		Matcher pageMatcher = pagePattern.matcher(manualText);
+
+		logger.println("Searching for page " + section.pageNumber + "...", DetailLevel.FULL);
+
+		if (pageMatcher.find(prevPagePos)) {
+			pagePos = pageMatcher.start();
+			logger.println("page " + section.pageNumber + " found at " + pagePos, DetailLevel.FULL);
+		} else {
+			logger.println("page " + section.pageNumber + " NOT FOUND.", DetailLevel.FULL);
+		}
+
+		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
+
+		// find the name of section immediately after begPos.
+		// section.begPosition = manualText.indexOf(section.name, begPos);
+		section.begPosition = getSectionBegPosition(section, manualText, begPos);
+		
+		if (section.begPosition == -1) {
+			errors.add(section);
+		}
+
+		prevBegPos = section.begPosition + section.name.length();
+		prevPagePos = pagePos;
+
+		for (CFEManualSection s : section.subSections.values()) {
+			begPos = loadBegPositions(s, manualText, prevBegPos, prevPagePos);
+			prevBegPos = begPos + s.name.length();
+		}
+		return section.begPosition;
+	}
+
+	protected abstract int getSectionBegPosition(CFEManualSection section, String manualText, int begPos);
 
 	/**
 	 * abstract method for determining the last character of each document to be created from the manual. This is

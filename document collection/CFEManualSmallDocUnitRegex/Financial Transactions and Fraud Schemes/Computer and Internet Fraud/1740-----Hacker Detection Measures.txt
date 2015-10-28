@@ -1,0 +1,58 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Hacking/Hacker Detection Measures
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Hacker Detection Measures 
+An adequate hacker detection program contains three primary components: 
+• Almost all communication systems maintain a log file that records all successful and 
+unsuccessful system access attempts. These also allow for the printing of reports 
+containing sign-on and sign-off activity. These reports should be printed out regularly and 
+reviewed by the data security officer. Where possible, special reports should be printed 
+on the number of unsuccessful access attempts. These attempts at logging into the 
+system should be followed up by data security to determine their cause.  
+• The data security function should have sufficient resources and staff to administer 
+passwords, maintain the security software, review system activity reports, and follow up 
+on all potential security violations.  
+  
+Financial Transactions  Computer and Internet Fraud 
+2011 Fraud Examiners Manual   1.1813 
+• Finally, periodic reviews of telecommunications security should be performed by 
+consultants and/or internal or external auditors, if the latter have the necessary 
+experience and qualifications. 
+ 
+
+
+
+:
+
+
+hacker detect measur
+an adequ hacker detect program contain three primari compon
+almost all commun system maintain a log file that record all success and
+unsuccess system access attempt these also allow for the print of report
+contain signon and signoff activ these report should be print out regularli and
+review by the data secur offic where possibl special report should be print
+on the number of unsuccess access attempt these attempt at log into the
+system should be follow up by data secur to determin their caus
+the data secur function should have suffici resourc and staff to administ
+password maintain the secur softwar review system activ report and follow up
+on all potenti secur violat
+financi transact comput and internet fraud
+2011 fraud examin manual 11813
+final period review of telecommun secur should be perform by
+consult andor intern or extern auditor if the latter have the necessari
+experi and qualif

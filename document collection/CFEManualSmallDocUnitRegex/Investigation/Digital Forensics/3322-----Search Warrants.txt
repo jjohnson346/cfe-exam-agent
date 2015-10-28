@@ -1,0 +1,222 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Computer Investigations and Computer Forensics/Search Warrants
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Search Warrants  
+If, however, a search warrant is required, additional considerations must be addressed. A 
+search warrant  is a court order that grants authorities the right to search a premises or property 
+for information pertinent to the case. 
+ 
+All warrants must satisfy the requirements under the Fourth Amendment. That is, all 
+warrants for searches must be judicially sanctioned and supported by “probable cause,” and 
+they must “particularly” describe the place to be searched or things to be seized. Only a 
+judge can issue a search warrant and only law enforcement can seek and serve a search 
+warrant. 
+ 
+To obtain a valid search warrant, law enforcement officers prepare affidavits. The affidavits 
+will detail the probable cause or legal reasoning behind the request for the warrant. Often 
+law enforcement personnel will need guidance from the fraud examiner as they conduct pre-
+ search preparation and construct the search warrant affidavit.  
+ 
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.713 
+But because the requirements for these affidavits have been affected by technological 
+innovations, fraud examiners must consider several new issues must when constructing a 
+search warrant affidavit involving digital evidence. The fraud examiner must know how to 
+write a warrant to seize tangible property that contains intangible evidence. Further, the 
+fraud examiner must be allowed to convert that evidence into a human-readable form (e.g., 
+storage devices such as disks, which contain information that cannot be viewed without the 
+aid of some electronic device). Likewise, the warrant must allow for the ability to seize data 
+files pertinent to the case that are mixed with data files, which have nothing to do with the 
+case but reside on the same storage device.  
+ 
+Additionally, the warrant must be broad enough to defend the search and seizure of all 
+computer evidence relevant to the investigation, but narrow enough to exclude all material 
+that is not, and this can be an extremely difficult standard to meet at times and might depend 
+on the magistrate to whom the affidavit is presented. However, with some thought fraud 
+examiners should be able to justify the search and seizure of everything that they need to 
+complete the search for evidence. Items to be seized might contain any or all of the 
+following, depending on the nature of the fraud case: 
+• Computers 
+• Computer components 
+• Computer peripherals 
+• Word-processing equipment 
+• Modems 
+• Monitors 
+• Printers 
+• Plotters 
+• Optical scanners 
+• Data storage devices 
+? Magnetic 
+? Laser 
+? Optical 
+? Tape 
+? PCMCIA 
+? Portable drives, such as flash or thumb drives 
+? Cables, wiring, cords 
+? Storage media 
+? Disks 
+Digital Forensics  Investigation 
+3.714   2011 Fraud Examiners Manual  
+? Magnetic tape (reels) 
+? PCMCIA RAM cards 
+? CD-ROMs 
+? Magnetic/optical disks 
+? Digital audio tape (DAT) 
+? Personal data managers 
+? Flash RAM cards (consider digital-camera storage) 
+? Computer programs 
+? Operating systems 
+? Application software 
+? Utility programs 
+? Compilers 
+? Interpreters 
+? Documents 
+? Manuals 
+? Printouts 
+? File listings 
+ 
+Moreover, to satisfy the “particularity” requirement of the Fourth Amendment, the affidavit 
+must be able to justify each item that might contain evidence. For example, stating that “all 
+printers” should be seized might be overly broad unless the fraud examiner can justify the 
+need for each specific printer. But with some thought, fraud examiners should be able to 
+justify the search and seizure of everything they need to complete the search for evidence.  
+ 
+Also, all related documentation should also be seized with the target computer system, and, 
+therefore, it should be covered by the search warrant’s wording. Such documentation is 
+important because it may be critical when analyzing the system’s hardware and software. 
+Documents could indicate system changes that will help to avoid damaging the system. 
+Documents could also contain other helpful pieces of information (e.g., the fact that access 
+control products have been added to a system might be a helpful piece of information).  
+ 
+Thus, obtaining as much intelligence as possible regarding the location of the potential 
+evidence is very desirable before writing the search warrant affidavit. Considerations include: 
+• Determine the type of computer systems that will be involved in the search. What 
+operating system is used? Are the computers networked together? 
+• Determine how many people will be needed to conduct the search.  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.715 
+• If expert witnesses with a specific expertise are required during the search, identify and 
+clear them before the search warrant is written. Depending on the circumstances, their 
+credentials should possibly be included in the warrant affidavit before they are approved 
+by the magistrate issuing the search warrant.  
+• Determine the resources that will be required to conduct the search. If a great deal of 
+equipment is to be seized, consider how the equipment will be transported from the 
+location. Obtain sufficient boxes, labels, bags, and other supplies at this time. 
+• Consider the timing of the search.  
+ 
+
+
+
+:
+
+
+search warrant
+if howev a search warrant is requir addit consider must be address a
+search warrant is a court order that grant author the right to search a premis or properti
+for inform pertin to the case
+all warrant must satisfi the requir under the fourth amend that is all
+warrant for search must be judici sanction and support by probabl caus and
+thei must particularli describ the place to be search or thing to be seiz onli a
+judg can issu a search warrant and onli law enforc can seek and serv a search
+warrant
+to obtain a valid search warrant law enforc offic prepar affidavit the affidavit
+will detail the probabl caus or legal reason behind the request for the warrant often
+law enforc personnel will need guidanc from the fraud examin as thei conduct pre
+search prepar and construct the search warrant affidavit
+investig digit forens
+2011 fraud examin manual 3713
+but becaus the requir for these affidavit have been affect by technolog
+innov fraud examin must consid sever new issu must when construct a
+search warrant affidavit involv digit evid the fraud examin must know how to
+write a warrant to seiz tangibl properti that contain intang evid further the
+fraud examin must be allow to convert that evid into a humanread form eg
+storag devic such as disk which contain inform that cannot be view without the
+aid of some electron devic likewis the warrant must allow for the abil to seiz data
+file pertin to the case that ar mix with data file which have noth to do with the
+case but resid on the same storag devic
+addition the warrant must be broad enough to defend the search and seizur of all
+comput evid relev to the investig but narrow enough to exclud all materi
+that is not and thi can be an extrem difficult standard to meet at time and might depend
+on the magistr to whom the affidavit is present howev with some thought fraud
+examin should be abl to justifi the search and seizur of everyth that thei need to
+complet the search for evid item to be seiz might contain ani or all of the
+follow depend on the natur of the fraud case
+comput
+comput compon
+comput peripher
+wordprocess equip
+modem
+monitor
+printer
+plotter
+optic scanner
+data storag devic
+magnet
+laser
+optic
+tape
+pcmcia
+portabl drive such as flash or thumb drive
+cabl wire cord
+storag media
+disk
+digit forens investig
+3714 2011 fraud examin manual
+magnet tape reel
+pcmcia ram card
+cdrom
+magneticopt disk
+digit audio tape dat
+person data manag
+flash ram card consid digitalcamera storag
+comput program
+oper system
+applic softwar
+util program
+compil
+interpret
+document
+manual
+printout
+file list
+moreov to satisfi the particular requir of the fourth amend the affidavit
+must be abl to justifi each item that might contain evid for exampl state that all
+printer should be seiz might be overli broad unless the fraud examin can justifi the
+need for each specif printer but with some thought fraud examin should be abl to
+justifi the search and seizur of everyth thei need to complet the search for evid
+also all relat document should also be seiz with the target comput system and
+therefor it should be cover by the search warrant word such document is
+import becaus it mai be critic when analyz the system hardwar and softwar
+document could indic system chang that will help to avoid damag the system
+document could also contain other help piec of inform eg the fact that access
+control product have been ad to a system might be a help piec of inform
+thu obtain as much intellig as possibl regard the locat of the potenti
+evid is veri desir befor write the search warrant affidavit consider includ
+determin the type of comput system that will be involv in the search what
+oper system is us ar the comput network togeth
+determin how mani peopl will be need to conduct the search
+investig digit forens
+2011 fraud examin manual 3715
+if expert wit with a specif expertis ar requir dure the search identifi and
+clear them befor the search warrant is written depend on the circumst their
+credenti should possibl be includ in the warrant affidavit befor thei ar approv
+by the magistr issu the search warrant
+determin the resourc that will be requir to conduct the search if a great deal of
+equip is to be seiz consid how the equip will be transport from the
+locat obtain suffici box label bag and other suppli at thi time
+consid the time of the search

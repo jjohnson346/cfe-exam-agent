@@ -16,56 +16,14 @@ import financial.fraud.cfe.logging.Logger;
 public class CFEManualLargeDocUnit extends AbstractCFEManual {
 
 	/**
-	 * determines the beginning character position of for each CFEManual section object within the text of the cfe
-	 * manual. For the root section, this is always 0. For the rest, it starts the search at the beginning position of
-	 * the previous section, looking for the section name starting at that point.
-	 * 
-	 * Note: for the root node, beginning position is set in the buildManualTree() method (not here).
-	 * 
-	 * This function is called recursively for each cfe manual section object, where for a call to this function for a
-	 * given section object, this function calls this function for each child section of the current section.
-	 * 
-	 * @param section
-	 *            the CFEManualSection object for which to determine the beginning position
-	 * @param manualText
-	 *            a string containing the text of the cfe manual
-	 * @param prevBegPos
-	 *            the beginning position of the prior section.
-	 * @return an integer, the beginning position for the CFEManualSection object
+	 * implements the functionality for finding the section's name in the manual text starting
+	 * at begPos.  Uses a straight up text search to do this.
 	 */
-	protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
-		// start search from last begPosition.
-		int pagePos = manualText.indexOf(section.pageNumber);
-		int begPos = 0;
-
-		// 10/24/2015 - version 1.9.0 -
-		// if the page number of the section is at a position that is less than the
-		// position for the previous section, start at the position of the previous
-		// section. Note, here, that we've added one to prevBegPos in order to
-		// address the issue of when two consecutive sections are named very similarly.
-		// For example, consider these two sections:
-		// 1. Computer Fraud versus Computer Crime
-		// 2. Computer Fraud
-		// In this case, without the +1, Computer Fraud is assigned the same begPos
-		// as Computer Fraud versus Computer Crime...! +1 provides the fix.
-		if (pagePos < prevBegPos + 1)
-			begPos = prevBegPos + 1;
-		else
-			begPos = pagePos + 1;
-
-		// find the name of section immed. after begPos.
-		section.begPosition = manualText.indexOf(section.name, begPos);
-
-		if (section.begPosition == -1) {
-			errors.add(section);
-		}
-
-		for (CFEManualSection s : section.subSections.values()) {
-			begPos = loadBegPositions(s, manualText, prevBegPos);
-			prevBegPos = begPos;
-		}
-		return section.begPosition;
+	@Override
+	protected int getSectionBegPosition(CFEManualSection section, String manualText, int begPos) {
+		return manualText.indexOf(section.name, begPos);
 	}
+
 
 	/**
 	 * determines the position of the last character for each CFEManualSection object. This is done by iterating through

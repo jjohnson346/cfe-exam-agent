@@ -16,82 +16,30 @@ import financial.fraud.cfe.logging.Logger;
  */
 public class CFEManualSmallDocUnitRegex extends AbstractCFEManual {
 
-	// protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
-	protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
-		// start search from last begPosition.
-		// int pagePos = manualText.indexOf(section.pageNumber);
-
-		int pagePos = 0;
-
-		final String PAGE_LINE_REGEX = "(^2011 Fraud Examiners Manual\\s+?" + section.pageNumber + "\\s*?$|^"
-				+ section.pageNumber + "\\s+?2011 Fraud Examiners Manual\\s+?)";
-
-		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
-		Matcher pageMatcher = pagePattern.matcher(manualText);
-
-		// System.out.println("Searching for page " + section.pageNumber + "...");
-		if (pageMatcher.find(prevBegPos)) {
-			pagePos = pageMatcher.start();
-			// System.out.println("page " + section.pageNumber + " found at " + pagePos);
-		} else {
-			System.out.println("page " + section.pageNumber + " NOT FOUND.");
-		}
-
-		// 10/24/2015 - version 1.9.0 -
-		// if the page number of the section is at a position that is less than the
-		// position for the previous section, start at the position of the previous
-		// section. Note, here, that we've added one to prevBegPos in order to
-		// address the issue of when two consecutive sections are named very similarly.
-		// For example, consider these two sections:
-		// 1. Computer Fraud versus Computer Crime
-		// 2. Computer Fraud
-		// In this case, without the +1, Computer Fraud is assigned the same begPos
-		// as Computer Fraud versus Computer Crime...! +1 provides the fix.
-		// int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
-
-		// find the name of section immed. after begPos.
-		// section.begPosition = manualText.indexOf(section.name, begPos);
-
-		// System.out.println("building regex for " + section.name + "...");
-		// String regex = sectionLineRegex(section.name);
-		// System.out.println(regex);
-		// String sectionLineRegex = "^" + sectionLineRegex(section.name) + "\\s*?$";
+	/**
+	 * implements the functionality for finding the section's name in the manual text starting
+	 * at begPos.  Uses a straight up text search to do this.
+	 */
+	@Override
+	protected int getSectionBegPosition(CFEManualSection section, String manualText, int begPos) {
 		String sectionLineRegex = "^" + sectionLineRegex(section.name);
 
 		Pattern sectionPattern = Pattern.compile(sectionLineRegex, Pattern.MULTILINE);
 		Matcher sectionMatcher = sectionPattern.matcher(manualText);
 
-		// if (sectionMatcher.find(pagePos))
-		// section.begPosition = sectionMatcher.start();
-		// final String SECTION_LINE_REGEX = sectionLineRegex(section.name);
-		//
-		// Pattern sectionPattern = Pattern.compile(SECTION_LINE_REGEX, Pattern.MULTILINE);
-		// Matcher sectionMatcher = sectionPattern.matcher(manualText);
-
-		// if (sectionMatcher.find(begPos)) {
-		if (sectionMatcher.find(pagePos)) {
-			section.begPosition = sectionMatcher.start();
-			// section.begPosition = begPos;
-			// System.out.println("section " + section.name + " found at " + begPos);
+		int sectionBeginPosition = 0;
+		if (sectionMatcher.find(begPos)) {
+			sectionBeginPosition = sectionMatcher.start();
 		} else {
 
 			System.out.println("section " + section.name + " NOT FOUND.");
 			System.out.println("regex: " + sectionLineRegex);
 		}
 
-		if (section.begPosition == -1) {
+		if (sectionBeginPosition == -1) {
 			errors.add(section);
 		}
-
-		prevBegPos = pagePos;
-
-		for (CFEManualSection s : section.subSections.values()) {
-			// begPos = loadBegPositions(s, manualText, prevBegPos);
-			loadBegPositions(s, manualText, prevBegPos);
-			// prevBegPos = begPos;
-			// prevBegPos = begPos + s.name.length();
-		}
-		return section.begPosition;
+		return sectionBeginPosition;
 	}
 
 	private String sectionLineRegex(String sectionName) {

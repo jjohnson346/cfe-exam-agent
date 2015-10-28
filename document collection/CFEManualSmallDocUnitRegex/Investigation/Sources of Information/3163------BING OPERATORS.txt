@@ -1,0 +1,103 @@
+2011 Fraud Examiners Manual/Investigation/ACCESSING INFORMATION ONLINE/A Guide to Successful Internet Searching/Specific Search Operators/BING OPERATORS
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Sources of Information
+
+
+:
+
+
+BING OPERATORS 
+Although Bing and Google share some of the same search resources, Bing has search 
+operators that are unique to its search engine.  
+ 
+Operators Search Results Example  
+contains: Searches for pages where there’s a 
+hyperlink to a file with the extension  
+[swimming dolphin 
+contains:wmv] will find wmv 
+clips of dolphins swimming.    
+inanchor: Returns pages that contain the specified 
+terms in the link anchors of Web pages 
+[inanchor: useful fraud sites] 
+searches for pages that are called 
+useful fraud sites by others. 
+Investigation  Accessing Information Online 
+2011 Fraud Examiners Manual    3.515 
+inbody: Restricts results to those containing all 
+the search terms specified in the body 
+[inbody: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their body.  
+intitle: Restricts results to those containing all 
+the search terms specified in the title 
+[intitle: securities fraud] will 
+return only documents that 
+contain the words securities  and 
+fraud in their title. 
+ip: Finds websites hosted by a specific IP 
+address 
+[ IP:198.46.34.22 ] finds 
+websites hosted by the specified 
+IP address.  
+prefer: Adds emphasis to a search term to help 
+focus the search results 
+[fraud prefer:Ponzi] specifies the 
+type of fraud that the user wants 
+to find.  
+ 
+ 
+
+
+
+:
+
+
+bing oper
+although bing and googl share some of the same search resourc bing ha search
+oper that ar uniqu to it search engin
+oper search result exampl
+contain search for page where there a
+hyperlink to a file with the extens
+swim dolphin
+containswmv will find wmv
+clip of dolphin swim
+inanchor return page that contain the specifi
+term in the link anchor of web page
+inanchor us fraud site
+search for page that ar call
+us fraud site by other
+investig access inform onlin
+2011 fraud examin manual 3515
+inbodi restrict result to those contain all
+the search term specifi in the bodi
+inbodi secur fraud will
+return onli document that
+contain the word secur and
+fraud in their bodi
+intitl restrict result to those contain all
+the search term specifi in the titl
+intitl secur fraud will
+return onli document that
+contain the word secur and
+fraud in their titl
+ip find websit host by a specif ip
+address
+ip198463422 find
+websit host by the specifi
+ip address
+prefer add emphasi to a search term to help
+focu the search result
+fraud preferponzi specifi the
+type of fraud that the user want
+to find

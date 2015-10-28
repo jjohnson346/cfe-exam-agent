@@ -1,0 +1,39 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Forensic Examination and Analysis/User-protected Files/CAMOUFLAGED FILES
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+CAMOUFLAGED FILES 
+A user might camouflage certain files under an innocent name or different file extension to 
+prevent others from discovering them. For example, a suspect might change a file name 
+from “evidence.doc” to “install. exe” and place the file in a directory that stores program 
+files. Therefore, examiners should analyze a target’s hard drive to determine whether any file 
+types have been camouflaged. This is done by analyzing the file header — the first bits of data 
+in a file — which contains data identifying the file format. 
+ 
+
+
+
+:
+
+
+camouflag file
+a user might camouflag certain file under an innoc name or differ file extens to
+prevent other from discov them for exampl a suspect might chang a file name
+from evidencedoc to instal ex and place the file in a directori that store program
+file therefor examin should analyz a target hard drive to determin whether ani file
+type have been camouflag thi is done by analyz the file header the first bit of data
+in a file which contain data identifi the file format

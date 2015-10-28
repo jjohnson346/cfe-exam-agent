@@ -1,0 +1,13 @@
+1.  Spaces introduced into section title names of manual text were removed manually.
+
+2.  Spaces removed from text body manually for such elements as the following:
+	" th e " -> "the"
+	" i s " -> "is"
+	etc.
+	
+3.  p.1.1035 - modified section name, "Electronic Fund Transf er" to "Electronic Fund Transfer"
+
+4.  p.1.1708 - modified section name, "Telemarkting Fraud" to "Telemarketing Fraud".
+
+5.  p.1.1923 - modified section name, "The Federal Bureau of Investigation" to "Federal Bureau of Investigation"
+in order to match the toc entry for this section.

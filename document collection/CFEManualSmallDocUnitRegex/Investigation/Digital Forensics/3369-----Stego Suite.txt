@@ -1,0 +1,95 @@
+2011 Fraud Examiners Manual/Investigation/DIGITAL FORENSICS/Digital Forensics Software/Stego Suite
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Digital Forensics
+
+
+:
+
+
+Stego Suite 
+The Stego Suite by WetStone is a software bundle available for the investigation, detection, 
+analysis, and recovery of digital steganography. It identifies the presence of steganography 
+without prior knowledge of the steganography algorithm that might have been used against 
+the target file.  
+ 
+WetStone’s Stego Suite comprises four products: Stego Watch, a steganography tool; Stego 
+Analyst, an image and audio file analyzer; Stego Break, a password cracker; and the recently 
+added Stego Hunter, a steganography application identifier. 
+  
+Investigation  Digital Forensics 
+2011 Fraud Examiners Manual    3.735 
+ 
+Stego Watch  
+ 
+ 
+ 
+ 
+Stego Analysis 
+ 
+ 
+Stego Break 
+Digital Forensics  Investigation 
+3.736   2011 Fraud Examiners Manual  
+Postmortem analysis of data recovered from a digital crime scene can be a tedious process. 
+When the digital data contains thousands of images, audio files, or digital video that may 
+contain other hidden evidence, the process can be impossible without the aid of key 
+technologies and expertise. Stego Suite’s tools provide the ability to quickly examine and 
+evaluate digital image and/or audio data for the presence of hidden information  
+or communications. 
+ 
+Active Web scanning of a website to ensure that unauthorized people are not using the site 
+to exchange innocuous-looking messages or smuggle proprietary data is also becoming a 
+must. The tools of Stego Suite baseline a Web domain and continuously scan the domain for 
+the presence of hidden data inside digital images.  
+ 
+For more information about the Stego Suite and other products by WetStone, visit 
+www.wetstonetech.com. 
+ 
+ 
+Investigation  Tracing Illicit Transactions 
+2011 Fraud Examiners Manual    3.801 
+
+
+
+:
+
+
+stego suit
+the stego suit by wetston is a softwar bundl avail for the investig detect
+analysi and recoveri of digit steganographi it identifi the presenc of steganographi
+without prior knowledg of the steganographi algorithm that might have been us against
+the target file
+wetston stego suit compris four product stego watch a steganographi tool stego
+analyst an imag and audio file analyz stego break a password cracker and the recent
+ad stego hunter a steganographi applic identifi
+investig digit forens
+2011 fraud examin manual 3735
+stego watch
+stego analysi
+stego break
+digit forens investig
+3736 2011 fraud examin manual
+postmortem analysi of data recov from a digit crime scene can be a tediou process
+when the digit data contain thousand of imag audio file or digit video that mai
+contain other hidden evid the process can be imposs without the aid of kei
+technolog and expertis stego suit tool provid the abil to quickli examin and
+evalu digit imag andor audio data for the presenc of hidden inform
+or commun
+activ web scan of a websit to ensur that unauthor peopl ar not us the site
+to exchang innocuouslook messag or smuggl proprietari data is also becom a
+must the tool of stego suit baselin a web domain and continu scan the domain for
+the presenc of hidden data insid digit imag
+for more inform about the stego suit and other product by wetston visit
+wwwwetstonetechcom
+investig trace illicit transact
+2011 fraud examin manual 3801

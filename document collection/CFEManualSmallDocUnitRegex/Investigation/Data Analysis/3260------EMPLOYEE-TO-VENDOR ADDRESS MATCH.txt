@@ -1,0 +1,58 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Accounts Payable/EMPLOYEE-TO-VENDOR ADDRESS MATCH
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+EMPLOYEE-TO-VENDOR ADDRESS MATCH 
+This test identifies identical or similar fields between the master tables of vendors and 
+employees in an attempt to identify fraudulent payments to employees. While this test 
+explains how to complete this task for addresses, the same could be done for phone 
+numbers, tax identification numbers, and other personal information. 
+ 
+Once the results are produced, the auditor should  scan them to determine if there are any 
+valid address matches between the employee and vendor tables. As a next step, a Query 
+Sheet could be created of the actual invoices posted to any questionable vendor to determine 
+if they are fraudulent. Two notes when completing this review are: 
+• Because this exercise may detect fraud, it may be beneficial to locate the invoices or 
+vendor information independent of the accounts payable department (who may be 
+culpable for creating the false vendor account). 
+• Because it is common to pay employee travel and entertainment expenses or employee 
+advances, this should be the key reason to not consider the payments fraudulent. If 
+possible, the vendor file should be filtered for all employee travel and entertainment 
+vendor accounts prior to running this test. 
+ 
+
+
+
+:
+
+
+employeetovendor address match
+thi test identifi ident or similar field between the master tabl of vendor and
+employe in an attempt to identifi fraudul payment to employe while thi test
+explain how to complet thi task for address the same could be done for phone
+number tax identif number and other person inform
+onc the result ar produc the auditor should scan them to determin if there ar ani
+valid address match between the employe and vendor tabl as a next step a queri
+sheet could be creat of the actual invoic post to ani question vendor to determin
+if thei ar fraudul two note when complet thi review ar
+becaus thi exercis mai detect fraud it mai be benefici to locat the invoic or
+vendor inform independ of the account payabl depart who mai be
+culpabl for creat the fals vendor account
+becaus it is common to pai employe travel and entertain expens or employe
+advanc thi should be the kei reason to not consid the payment fraudul if
+possibl the vendor file should be filter for all employe travel and entertain
+vendor account prior to run thi test

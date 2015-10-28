@@ -18,121 +18,38 @@ import financial.fraud.cfe.logging.Logger;
  */
 public class CFEManualSmallDocUnit extends AbstractCFEManual {
 
-	public CFEManualSmallDocUnit() {
-
-		super();
-
-		System.out.println("initializing logger...");
-		logger = Logger.getInstance();
-
-		// set doc text for each cfe manual section object.
-		logger.println("Setting document bodies for manual sections...", DetailLevel.MEDIUM);
-		this.setBodiesForSections();
-		logger.println("Setting document bodies process complete.", DetailLevel.MEDIUM);
-	}
-
-	private void setBodiesForSections() {
-		setSectionBody(root);
-	}
-
-	private void setSectionBody(CFEManualSection section) {
-		section.setText();
-		for (CFEManualSection subSection : section.subSections.values()) {
-			setSectionBody(subSection);
-		}
-	}
+//	public CFEManualSmallDocUnit() {
+//		
+//		super();
+//
+//		System.out.println("initializing logger...");
+//		logger = Logger.getInstance();
+//
+//		// set doc text for each cfe manual section object.
+//		logger.println("Setting document bodies for manual sections...", DetailLevel.MEDIUM);
+//		this.setBodiesForSections();
+//		logger.println("Setting document bodies process complete.", DetailLevel.MEDIUM);
+//	}
+//
+//	private void setBodiesForSections() {
+//		setSectionBody(root);
+//	}
+//
+//	private void setSectionBody(CFEManualSection section) {
+//		section.setText();
+//		for (CFEManualSection subSection : section.subSections.values()) {
+//			setSectionBody(subSection);
+//		}
+//	}
+//
 
 	/**
-	 * determines the beginning character position of for each CFEManual section object within the text of the cfe
-	 * manual. For the root section, this is always 0. For the rest, it starts the search at the beginning position of
-	 * the previous section, looking for the section name starting at that point.
-	 * 
-	 * Note: for the root node, beginning position is set in the buildManualTree() method (not here).
-	 * 
-	 * This function is called recursively for each cfe manual section object, where for a call to this function for a
-	 * given section object, this function calls this function for each child section of the current section.
-	 * 
-	 * @param section
-	 *            the CFEManualSection object for which to determine the beginning position
-	 * @param manualText
-	 *            a string containing the text of the cfe manual
-	 * @param startPos
-	 *            the beginning position of the prior section.
-	 * @return an integer, the beginning position for the CFEManualSection object
+	 * implements the functionality for finding the section's name in the manual text starting
+	 * at begPos.  Uses a straight up text search to do this.
 	 */
-	protected int loadBegPositions(CFEManualSection section, String manualText, int prevBegPos) {
-		//	protected int loadBegPositions(CFEManualSection section, String manualText, int startPos) {
-		// start search from last begPosition.
-		// int pagePos = manualText.indexOf(section.pageNumber);
-
-		int pagePos = 0;
-
-		final String PAGE_LINE_REGEX = "(^2011 Fraud Examiners Manual\\s+?" + section.pageNumber + "\\s*?$|^"
-				+ section.pageNumber + "\\s+?2011 Fraud Examiners Manual\\s+?)";
-
-		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
-		Matcher pageMatcher = pagePattern.matcher(manualText);
-
-		logger.println("Searching for page " + section.pageNumber + "...", DetailLevel.FULL);
-
-		if (pageMatcher.find()) {
-			pagePos = pageMatcher.start();
-			logger.println("page " + section.pageNumber + " found at " + pagePos, DetailLevel.FULL);
-		} else {
-			logger.println("page " + section.pageNumber + " NOT FOUND.", DetailLevel.FULL);
-		}
-
-		// 10/24/2015 - version 1.9.0 -
-		// if the page number of the section is at a position that is less than the
-		// position for the previous section, start at the position of the previous
-		// section. Note, here, that we've added one to prevBegPos in order to
-		// address the issue of when two consecutive sections are named very similarly.
-		// For example, consider these two sections:
-		// 1. Computer Fraud versus Computer Crime
-		// 2. Computer Fraud
-		// In this case, without the +1, Computer Fraud is assigned the same begPos
-		// as Computer Fraud versus Computer Crime...! +1 provides the fix.
-		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
-
-		// find the name of section immediately after begPos.
-		section.begPosition = manualText.indexOf(section.name, begPos);
-
-//		if (section.name.toLowerCase().equals("computer and internet fraud")
-//				|| section.name.toLowerCase().equals("computer fraud versus computer crime")
-//				|| section.name.toLowerCase().equals("computer fraud")
-//				|| section.name.toLowerCase().equals("computer crime"))
-//			System.out.println(section.name + " " + pagePos + " " + (startPos + 1) + " " + section.begPosition);
-
-		if (section.parent != null) {
-			if (section.parent.name.toLowerCase().equals("Elements of White-Collar Offenses")) {
-				System.out.println(section.name + " " + pagePos + " " + (prevBegPos + 1) + " " + section.begPosition);
-			}
-		}
-		// final String SECTION_LINE_REGEX = "^" + section.name + "\\s*?$";
-		//
-		// Pattern sectionPattern = Pattern.compile(SECTION_LINE_REGEX, Pattern.MULTILINE);
-		// Matcher sectionMatcher = sectionPattern.matcher(manualText);
-		//
-		// if (sectionMatcher.find(pagePos))
-		// section.begPosition = sectionMatcher.start();
-
-		if (section.begPosition == -1) {
-			errors.add(section);
-		}
-
-		prevBegPos = section.begPosition + section.name.length();
-		
-		for (CFEManualSection s : section.subSections.values()) {
-			// modified the recursive call so as to *not* use prevBegPos, but instead
-			// use section.begPosition + section.name.length. For consecutive sections that are named
-			// similarly, particularly where there is a parent/child relationship
-			// between these sections, using prevBegPos is problematic. see comment
-			// above regarding the Computer Fraud sections.
-			begPos = loadBegPositions(s, manualText, prevBegPos);
-			// begPos = loadBegPositions(s, manualText, prevBegPos);
-			prevBegPos = begPos + s.name.length();
-		}
-		return section.begPosition;
+	@Override
+	protected int getSectionBegPosition(CFEManualSection section, String manualText, int begPos) {
+		return manualText.indexOf(section.name, begPos);
 	}
 
 	/**

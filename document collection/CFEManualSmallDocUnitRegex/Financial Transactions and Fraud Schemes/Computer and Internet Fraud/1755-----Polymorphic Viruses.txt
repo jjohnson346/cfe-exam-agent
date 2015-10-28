@@ -1,0 +1,61 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Polymorphic Viruses
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Polymorphic Viruses 
+Polymorphic viruses create varied (though fully functional) copies of themselves as a way to 
+avoid detection by antivirus software. Some polymorphic viruses use different encryption 
+Computer and Internet Fraud  Financial Transactions   
+1.1820                           2011 Fraud Examiners Manual  
+schemes and require different decryption routines. Thus, the same virus may look 
+completely different on different systems or even within different files. Other polymorphic 
+viruses vary instruction sequences and use false commands in the attempt to thwart antivirus 
+software. One of the most advanced polymorphic viruses uses a mutation engine and 
+random-number generators to change the virus code and its decryption routine. 
+Spanska.4250  is a type of polymorphic virus. This virus infects program files (files with .exe 
+and .com extensions). When one of the programs is infected, the virus hides in the 
+computer’s memory. Spanska.4250 remains in memory on the lookout to infect programs 
+executed by users. Once Spanska.4250 carries out its infection the size of the infected 
+programs will increase by 4250 bytes (the virus size). Moreover, the following message will 
+be displayed: “(c) Spanska 97.” This virus uses an anti-tracing technique to make it more 
+difficult to detect. In addition, it uses the system date to encrypt itself so it will be possible to 
+find up to 366 different variants of this virus. 
+ 
+
+
+
+:
+
+
+polymorph virus
+polymorph virus creat vari though fulli function copi of themselv as a wai to
+avoid detect by antiviru softwar some polymorph virus us differ encrypt
+comput and internet fraud financi transact
+11820 2011 fraud examin manual
+scheme and requir differ decrypt routin thu the same viru mai look
+complet differ on differ system or even within differ file other polymorph
+virus vari instruct sequenc and us fals command in the attempt to thwart antiviru
+softwar on of the most advanc polymorph virus us a mutat engin and
+randomnumb gener to chang the viru code and it decrypt routin
+spanska4250 is a type of polymorph viru thi viru infect program file file with ex
+and com extens when on of the program is infect the viru hide in the
+comput memori spanska4250 remain in memori on the lookout to infect program
+execut by user onc spanska4250 carri out it infect the size of the infect
+program will increas by 4250 byte the viru size moreov the follow messag will
+be displai c spanska 97 thi viru us an antitrac techniqu to make it more
+difficult to detect in addit it us the system date to encrypt itself so it will be possibl to
+find up to 366 differ variant of thi viru

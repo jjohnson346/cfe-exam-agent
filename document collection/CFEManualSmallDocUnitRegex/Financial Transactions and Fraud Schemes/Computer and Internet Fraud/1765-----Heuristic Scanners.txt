@@ -1,0 +1,33 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/COMPUTER AND INTERNET FRAUD/Computer Viruses/Heuristic Scanners
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Computer and Internet Fraud
+
+
+:
+
+
+Heuristic Scanners 
+These scanners inspect executable files for code using algorithms to identify operations that 
+would indicate an unknown virus. They might also examine macros to detect virus-like 
+behavior. 
+ 
+
+
+
+:
+
+
+heurist scanner
+these scanner inspect execut file for code us algorithm to identifi oper that
+would indic an unknown viru thei might also examin macro to detect viruslik
+behavior

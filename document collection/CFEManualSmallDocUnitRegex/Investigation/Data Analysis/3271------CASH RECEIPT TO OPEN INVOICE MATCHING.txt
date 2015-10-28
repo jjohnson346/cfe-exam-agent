@@ -1,0 +1,48 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Revenue/CASH RECEIPT TO OPEN INVOICE MATCHING
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+CASH RECEIPT TO OPEN INVOICE MATCHING 
+This test helps assess the existence and valuation of open invoices at period end based on 
+the cash received subsequent to year end. Therefore, it is one of the most popular tests used 
+by fraud examiners in assessing the existence of period end invoices. 
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.628   2011 Fraud Examiners Manual  
+Based on this test, the fraud examiner can easily assess whether open invoices were paid with 
+cash (and therefore existed at year end), and for those still outstanding, whether they should 
+be reviewed further from the perspective of year-end valuation. Such invoices probably 
+relate to customers who regularly pay late, but they could represent new customer payment 
+issues and/or fraudulent sales posted at year-end that will never receive cash. 
+ 
+
+
+
+:
+
+
+cash receipt to open invoic match
+thi test help assess the exist and valuat of open invoic at period end base on
+the cash receiv subsequ to year end therefor it is on of the most popular test us
+by fraud examin in assess the exist of period end invoic
+data analysi and report tool investig
+3628 2011 fraud examin manual
+base on thi test the fraud examin can easili assess whether open invoic were paid with
+cash and therefor exist at year end and for those still outstand whether thei should
+be review further from the perspect of yearend valuat such invoic probabl
+relat to custom who regularli pai late but thei could repres new custom payment
+issu andor fraudul sale post at yearend that will never receiv cash

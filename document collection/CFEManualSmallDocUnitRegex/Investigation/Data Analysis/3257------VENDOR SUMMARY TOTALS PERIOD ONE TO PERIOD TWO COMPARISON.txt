@@ -1,0 +1,142 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Accounts Payable/VENDOR SUMMARY TOTALS PERIOD ONE TO PERIOD TWO COMPARISON
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+VENDOR SUMMARY TOTALS PERIOD ONE TO PERIOD TWO COMPARISON 
+This is a basic analytical report to identify trends in a vendor’s purchase history. A trend 
+analysis should be completed to identify key vendors with whom activity has increased or 
+decreased substantially. This can best be assessed using the dollar and percentage variance 
+fields, which can be added as calculated fields in Excel. Based on the changes in the business 
+Data Analysis and Reporting Tools  Investigation 
+3.622   2011 Fraud Examiners Manual  
+environment and/or new company projects, a reasonableness assessment should be 
+performed on the vendor changes. 
+ 
+DESCRIPTIVE STATISTICS/BENFORD’S LAW ANALYSIS 
+Descriptive statistics provide maximum amount, minimum amount, average amount, and 
+other high-level statistics. These statistics should be reviewed for reasonableness; for 
+example, a high number of negative amounts or a maximum amount that looks too high 
+might not be reasonable. 
+ 
+After obtaining the descriptive statistics of a data set, the software provides a Benford’s Law 
+analysis of the first two digits of the data, as well as a list of all amounts from highest to 
+lowest frequency, for review.  
+ 
+To review, Benford’s Law distinguishes between natural and non-natural numbers. Natural 
+numbers  are those numbers that are not ordered in a particular numbering scheme and are not 
+generated from a random number system. For example, most accounts payable files will be 
+populated by dollar values that are natural numbers. Conversely, non-natural numbers  like 
+Social Security numbers and telephone numbers are designed systematically to convey 
+information that restricts the natural nature of the number. 
+ 
+Benford’s Law provides that the distribution of the initial digits in natural numbers is not 
+random; instead, it follows a predictable pattern. The table below shows the expected 
+occurrence for the distribution of the first digit in natural numbers, according to this law: 
+ 
+First Digit Probability
+ 1 30.1%
+ 2 17.6%
+ 3 12.5%
+ 4 9.7%
+ 5 7.9%
+ 6 6.7%
+ 7 5.8%
+ 8 5.1%
+ 9 4.6%
+ Total 100.0%
+  
+Investigation  Data Analysis and Reporting Tools 
+2011 Fraud Examiners Manual    3.623 
+That is, Benford’s Law maintains that certain di gits show up more than others do. A “1” will 
+appear as the first non-zero digit roughly 30 percent of the time; “2” will be the leading digit 
+almost 18 percent of the time; “9” will lead o ff only 4.6 percent of the time. Moreover, zero 
+is most likely to be the second digit, appearing 12 percent of the time.  
+ 
+Benford’s Law makes it possible to detect fraudulent numbers in large data files by 
+comparing the frequency of the appearance of initial digits in a list of numbers to those 
+anticipated by Benford’s Law. For example, when embezzlers invent numbers, they tend to 
+fake data containing too many instances of initial digits of “7,” “8,” and “9” and too few 
+instances of “1,” “2,” and “3.” Thus, with Benford’s Law, examiners can tell if someone 
+fakes data that are derived from other data, and they can also identify errors within the data 
+that appear “out of place” given the data’s frequency of appearance. 
+ 
+The Benford’s Law analysis should be executed first so the most statistical outliers can be 
+reviewed.  
+ 
+Furthermore, as a follow up to these tests, examiners should use a Query Sheet to query 
+outlier activity for additional review. 
+ 
+
+
+
+:
+
+
+vendor summari total period on to period two comparison
+thi is a basic analyt report to identifi trend in a vendor purchas histori a trend
+analysi should be complet to identifi kei vendor with whom activ ha increas or
+decreas substanti thi can best be assess us the dollar and percentag varianc
+field which can be ad as calcul field in excel base on the chang in the busi
+data analysi and report tool investig
+3622 2011 fraud examin manual
+environ andor new compani project a reason assess should be
+perform on the vendor chang
+descript statisticsbenford law analysi
+descript statist provid maximum amount minimum amount averag amount and
+other highlevel statist these statist should be review for reason for
+exampl a high number of neg amount or a maximum amount that look too high
+might not be reason
+after obtain the descript statist of a data set the softwar provid a benford law
+analysi of the first two digit of the data as well as a list of all amount from highest to
+lowest frequenc for review
+to review benford law distinguish between natur and nonnatur number natur
+number ar those number that ar not order in a particular number scheme and ar not
+gener from a random number system for exampl most account payabl file will be
+popul by dollar valu that ar natur number convers nonnatur number like
+social secur number and telephon number ar design systemat to convei
+inform that restrict the natur natur of the number
+benford law provid that the distribut of the initi digit in natur number is not
+random instead it follow a predict pattern the tabl below show the expect
+occurr for the distribut of the first digit in natur number accord to thi law
+first digit probabl
+1 301
+2 176
+3 125
+4 97
+5 79
+6 67
+7 58
+8 51
+9 46
+total 1000
+investig data analysi and report tool
+2011 fraud examin manual 3623
+that is benford law maintain that certain di git show up more than other do a 1 will
+appear as the first nonzero digit roughli 30 percent of the time 2 will be the lead digit
+almost 18 percent of the time 9 will lead o ff onli 46 percent of the time moreov zero
+is most like to be the second digit appear 12 percent of the time
+benford law make it possibl to detect fraudul number in larg data file by
+compar the frequenc of the appear of initi digit in a list of number to those
+anticip by benford law for exampl when embezzl invent number thei tend to
+fake data contain too mani instanc of initi digit of 7 8 and 9 and too few
+instanc of 1 2 and 3 thu with benford law examin can tell if someon
+fake data that ar deriv from other data and thei can also identifi error within the data
+that appear out of place given the data frequenc of appear
+the benford law analysi should be execut first so the most statist outlier can be
+review
+furthermor as a follow up to these test examin should us a queri sheet to queri
+outlier activ for addit review

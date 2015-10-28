@@ -11,7 +11,7 @@ import org.json.simple.JSONObject;
 
 import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualSection;
-import financial.fraud.cfe.manual.CFEManualSmallDocUnit;
+import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
 
 /**
  * DocCollectionGenerator creates a collection of Document objects each of which
@@ -448,7 +448,7 @@ public class DocCollectionGenerator {
 
 	public static void main(String[] args) {
 		 DocCollectionGenerator dcu = new DocCollectionGenerator(new
-		 CFEManualSmallDocUnit());
+		 CFEManualSmallDocUnitRegex());
 //		DocCollectionGenerator dcu = new DocCollectionGenerator(
 //				new CFEManualLargeDocUnit());
 

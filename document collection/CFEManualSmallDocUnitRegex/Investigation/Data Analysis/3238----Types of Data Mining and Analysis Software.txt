@@ -1,0 +1,92 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+Types of Data Mining and Analysis Software 
+There are many types of data mining and data analysis software on the market these days, 
+and every year new products and new versions of old products emerge. Because every fraud 
+examination involving data analysis is different, it would be impossible to recommend one 
+software product to serve every purpose. Choosing a data analysis tool is something that the 
+fraud examiner must evaluate on each individual case. A fraud examiner should research 
+applications intensively to decide which package is most appropriate for the current 
+investigation.  
+ 
+Data Analysis and Reporting Tools  Investigation 
+3.616   2011 Fraud Examiners Manual  
+Data mining and knowledge discovery software are generally classified into the following 
+categories: 
+• Public domain/shareware/freeware: This type of software is available free or for a 
+nominal charge through websites, ftp sites, and newsgroups. Many shareware programs, 
+such as WINKS SDA, allow users a trial period, after which they must pay a fee to 
+reactivate the software. Freeware, however, is available at no cost or for an optional fee. 
+These types of programs can be located through Internet search engines and through 
+software download services such as ZDNet. 
+• Beta software: Beta software is pre-release software that is still in test mode. Generally, 
+this type of software is free, and users are asked to review the software’s performance, 
+report malfunctions, and so on.  
+• Commercial applications: Commercial applications are general release products that 
+usually come with technical support and warranty. The most prominent commercial 
+applications, which are discussed below, include: 
+–  ACL 
+–  IDEA 
+–  Excel 
+–  ActiveData for Excel 
+–  AutoAudit 
+–  SNAP! Reporter 
+–  DataWatch Corporation’s Monarch for Windows 
+–  Arbutus Query 
+–  Oversight Systems 
+ 
+
+
+
+:
+
+
+type of data mine and analysi softwar
+there ar mani type of data mine and data analysi softwar on the market these dai
+and everi year new product and new version of old product emerg becaus everi fraud
+examin involv data analysi is differ it would be imposs to recommend on
+softwar product to serv everi purpos choos a data analysi tool is someth that the
+fraud examin must evalu on each individu case a fraud examin should research
+applic intens to decid which packag is most appropri for the current
+investig
+data analysi and report tool investig
+3616 2011 fraud examin manual
+data mine and knowledg discoveri softwar ar gener classifi into the follow
+categori
+public domainsharewarefreewar thi type of softwar is avail free or for a
+nomin charg through websit ftp site and newsgroup mani sharewar program
+such as wink sda allow user a trial period after which thei must pai a fee to
+reactiv the softwar freewar howev is avail at no cost or for an option fee
+these type of program can be locat through internet search engin and through
+softwar download servic such as zdnet
+beta softwar beta softwar is prereleas softwar that is still in test mode gener
+thi type of softwar is free and user ar ask to review the softwar perform
+report malfunct and so on
+commerci applic commerci applic ar gener releas product that
+usual come with technic support and warranti the most promin commerci
+applic which ar discuss below includ
+acl
+idea
+excel
+activedata for excel
+autoaudit
+snap report
+datawatch corpor monarch for window
+arbutu queri
+oversight system

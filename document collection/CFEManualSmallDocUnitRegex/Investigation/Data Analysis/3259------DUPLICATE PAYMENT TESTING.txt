@@ -1,0 +1,56 @@
+2011 Fraud Examiners Manual/Investigation/DATA ANALYSIS AND REPORTING TOOLS/Types of Data Mining and Analysis Software/Fraud Detection Techniques for Accounts Payable/DUPLICATE PAYMENT TESTING
+
+
+:
+
+
+Investigation
+
+
+:
+
+
+Data Analysis
+
+
+:
+
+
+DUPLICATE PAYMENT TESTING  
+Duplicate payments to vendors normally represent errors that the computer system was 
+unable to detect. In most systems, a check will be made as to whether the vendor number, 
+invoice number, and amount are the same. This test could be run to ensure this basic control 
+is operational and also to test for other permutations of duplication. Any results from this 
+test should be reviewed first for trends. For example, rent payments that occur on a monthly 
+Data Analysis and Reporting Tools  Investigation 
+3.624   2011 Fraud Examiners Manual  
+basis may appear to be duplicate payments when, in fact, they are simply regularly occurring 
+payments. Note also that certain accounting packages allow the issuance of partial payments 
+(e.g., a payment to the same vendor with the same invoice number and amount). Therefore, 
+the auditor should determine whether the system allows such payments and, if so, omit them 
+prior to running this application. 
+ 
+Voided checks should also be reviewed; if a payment is made first on a regular check and 
+then on a voided one, only one payment was technically made. 
+ 
+
+
+
+:
+
+
+duplic payment test
+duplic payment to vendor normal repres error that the comput system wa
+unabl to detect in most system a check will be made as to whether the vendor number
+invoic number and amount ar the same thi test could be run to ensur thi basic control
+is oper and also to test for other permut of duplic ani result from thi
+test should be review first for trend for exampl rent payment that occur on a monthli
+data analysi and report tool investig
+3624 2011 fraud examin manual
+basi mai appear to be duplic payment when in fact thei ar simpli regularli occur
+payment note also that certain account packag allow the issuanc of partial payment
+eg a payment to the same vendor with the same invoic number and amount therefor
+the auditor should determin whether the system allow such payment and if so omit them
+prior to run thi applic
+void check should also be review if a payment is made first on a regular check and
+then on a void on onli on payment wa technic made

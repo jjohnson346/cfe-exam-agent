@@ -1,0 +1,140 @@
+2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS/Accounting Basics/Accounting Methods
+
+
+:
+
+
+Financial Transactions and Fraud Schemes
+
+
+:
+
+
+Basic Accounting Concepts
+
+
+:
+
+
+Accounting Methods 
+
+There are two primary methods of accounting: cash-basis and accrual-basis. Cash-basis 
+accounting involves recording revenues and expenses based on when a company pays or 
+receives cash. For example, sales are recorded when a company receives payment for goods, 
+regardless of when the goods are delivered. If a customer purchases goods on credit, the 
+company does not book the sale until the cash is received for the sale. Likewise, if a 
+customer prepays for a sale, the company records the sales revenue immediately, rather than 
+when the goods are passed off to the customer. The same holds true with expenses: they are 
+recorded when paid without consideration to when they are incurred.  
+ 
+Accrual-basis accounting, on the other hand, requires revenues to be recorded when they are 
+earned (generally, when goods are delivered or services are rendered to a customer), without 
+Transaction Analysis Account Debit Credit Assets Liabilities  Equity
+ Enterprise established, Cash increased Cash 192,000 192,000    
+Owner invests $192,000 Liabilities no effect   Common Stock 192,000  192,000   
+Equity increased
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 1 9 2,000 192,000 192,000    -    192,000   
+Company borrowed $80,000 Cash increased Cash 80,000  80,000    
+on a note payable Liabilities increased   Notes Payable 80,000  80,000    
+Equity no effect
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 2 7 2,000 272,000 272,000    80,000    1 9 2,000   
+Purchase business Cash decreased Equipment 70,000   70,000    
+equipment for $70,000 Assets increased   Cash 70,000  (70,000)  
+Liab & Equity no effect
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 3 4 2,000 342,000 272,000    80,000    1 9 2,000   
+Services rendered to client Cash increased Cash 15,000  15,000    
+$40,000, $15,000 collected A /R increased   Accounts Receivable 25,000  25,000    
+in advance Equity increased   Sales Revenue 40,000   40,000   
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 3 8 2,000 382,000 312,000    80,000    2 3 2,000   
+Operating expenses incurred Cash decreased Operating Expenses 25,000  (25,000)   
+$25,000, Liabilities increased Cash 14,000  (14,000)  
+14,000 paid in cash Equity decreased   Accounts Payable 11,000  11,000    
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 0 7,000 407,000 298,000    91,000    2 0 7,000   
+Paid $5,000 on Note Cash decreased Notes Payable 5,000  (5,000)    
+Payable  Liabilities decreased   Cash 5,000  (5,000)    
+Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 1 2,000 412,000 293,000    86,000    2 0 7,000   
+Depreciated equipment for Asset decreased Depreciation expense 7,000  (7,000)   
+1 yr, estimated life 10yr  Equity decreased   Accum. Depreciation 7,000  (7,000)    
+($70,000 /1 0) = $7,000
+ Cumulative Balance……………. ………………………………………………… ………………………………………………… 4 1 9,000 419,000 286,000    86,000    2 0 0,000   
+Balance Sheet Effect  
+Journal Entry Assets = Liabilities + Owners Equity
+Financial Transactions  Accounting Concepts 
+2011 Fraud Examiners Manual   1.105 
+regard to when cash exchanges hands. Expenses are recorded in the same period as the 
+revenues to which they relate. For example, employee wages are expensed in the period 
+during which the employees provided services, which may not necessarily be the same 
+period in which they were paid. 
+ 
+Under cash accounting, a company may decide to postpone paying some expenses so they 
+are not recorded in the current period, resulting in an artificially inflated bottom line. 
+Conversely, accrual accounting requires expenses to be matched to revenues; therefore, it 
+provides a truer picture of a company’s financial situation. As such, generally accepted 
+accounting principles mandate the use of accrual-basis accounting.  
+ 
+ 
+
+
+
+:
+
+
+account method
+there ar two primari method of account cashbasi and accrualbasi cashbasi
+account involv record revenu and expens base on when a compani pai or
+receiv cash for exampl sale ar record when a compani receiv payment for good
+regardless of when the good ar deliv if a custom purchas good on credit the
+compani doe not book the sale until the cash is receiv for the sale likewis if a
+custom prepai for a sale the compani record the sale revenu immedi rather than
+when the good ar pass off to the custom the same hold true with expens thei ar
+record when paid without consider to when thei ar incur
+accrualbasi account on the other hand requir revenu to be record when thei ar
+earn gener when good ar deliv or servic ar render to a custom without
+transact analysi account debit credit asset liabil equiti
+enterpris establish cash increas cash 192000 192000
+owner invest 192000 liabil no effect common stock 192000 192000
+equiti increas
+cumul balanc
+1 9 2000 192000 192000 192000
+compani borrow 80000 cash increas cash 80000 80000
+on a note payabl liabil increas note payabl 80000 80000
+equiti no effect
+cumul balanc
+2 7 2000 272000 272000 80000 1 9 2000
+purchas busi cash decreas equip 70000 70000
+equip for 70000 asset increas cash 70000 70000
+liab equiti no effect
+cumul balanc
+3 4 2000 342000 272000 80000 1 9 2000
+servic render to client cash increas cash 15000 15000
+40000 15000 collect a r increas account receiv 25000 25000
+in advanc equiti increas sale revenu 40000 40000
+cumul balanc
+3 8 2000 382000 312000 80000 2 3 2000
+oper expens incur cash decreas oper expens 25000 25000
+25000 liabil increas cash 14000 14000
+14000 paid in cash equiti decreas account payabl 11000 11000
+cumul balanc
+4 0 7000 407000 298000 91000 2 0 7000
+paid 5000 on note cash decreas note payabl 5000 5000
+payabl liabil decreas cash 5000 5000
+cumul balanc
+4 1 2000 412000 293000 86000 2 0 7000
+depreci equip for asset decreas depreci expens 7000 7000
+1 yr estim life 10yr equiti decreas accum depreci 7000 7000
+70000 1 0 7000
+cumul balanc
+4 1 9000 419000 286000 86000 2 0 0000
+balanc sheet effect
+journal entri asset liabil owner equiti
+financi transact account concept
+2011 fraud examin manual 1105
+regard to when cash exchang hand expens ar record in the same period as the
+revenu to which thei relat for exampl employe wage ar expens in the period
+dure which the employe provid servic which mai not necessarili be the same
+period in which thei were paid
+under cash account a compani mai decid to postpon pai some expens so thei
+ar not record in the current period result in an artifici inflat bottom line
+convers accrual account requir expens to be match to revenu therefor it
+provid a truer pictur of a compani financi situat as such gener accept
+account principl mandat the us of accrualbasi account
