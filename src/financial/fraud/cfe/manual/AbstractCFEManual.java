@@ -504,7 +504,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS",
 				"Basic Accounting Concepts");
 		questionSectionLookup
-				.put("2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENTï¿½S, AUDITORSï¿½, AND FRAUD EXAMINERSï¿½ RESPONSIBILITIES",
+				.put("2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENT’S, AUDITORS’, AND FRAUD EXAMINERS’ RESPONSIBILITIES",
 						"Manager's and Auditor's Responsibilities");
 		questionSectionLookup.put(
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BRIBERY AND CORRUPTION",
@@ -663,7 +663,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/ACCOUNTING CONCEPTS");
 		manualSectionLookup
 				.put("Manager's and Auditor's Responsibilities",
-						"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENTï¿½S, AUDITORSï¿½, AND FRAUD EXAMINERSï¿½ RESPONSIBILITIES");
+						"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/MANAGEMENT’S, AUDITORS’, AND FRAUD EXAMINERS’ RESPONSIBILITIES");
 		manualSectionLookup.put("Bribery and Corruption",
 				"2011 Fraud Examiners Manual/Financial Transactions and Fraud Schemes/BRIBERY AND CORRUPTION");
 		manualSectionLookup

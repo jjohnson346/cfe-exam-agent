@@ -164,7 +164,7 @@ public class CFEManualApp {
 					System.out.println("Small Doc Unit CFE Manual needs to be initialized....");
 					System.out.println("Initializing Small Doc Unit manual... Please stand by.");
 
-					cfeManual = new CFEManualSmallDocUnit();
+					cfeManual = new CFEManualSmallDocUnitFind();
 					cfeManuals.put("sdu", cfeManual);
 				}
 				docUnit = DocumentUnit.SMALL;

@@ -6,6 +6,13 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * represents a document, a member of the document collection that constitutes the searchable
+ * resources of the search engine.  Generally, a document maps 1-1 to a cfe manual section.
+ * 
+ * @author joejohnson
+ *
+ */
 public class Document {
 	
 	private int id;
@@ -40,7 +47,6 @@ public class Document {
 			contents = input.next();
 
 			String[] fields = contents.split("\n\n\n:\n\n\n");
-			System.out.println(contents);
 			path = fields[0];
 			examSection = fields[1];
 			questionSection = fields[2];

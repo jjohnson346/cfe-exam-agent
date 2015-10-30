@@ -11,7 +11,7 @@ import org.json.simple.JSONObject;
 
 import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualSection;
-import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
+import financial.fraud.cfe.manual.CFEManualSmallDocUnitFind;
 
 /**
  * DocCollectionGenerator creates a collection of Document objects each of which
@@ -21,11 +21,8 @@ import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
  * concrete classes that implement the CFEManual interface and structure the
  * manual as a tree in memory.
  * 
- * Currently, there are 2 CFEManual classes - CFEManualLargeDocUnit and
- * CFEManualSmallDocUnit. There is, in fact, a third, CFEManualSmallDocUnit2,
- * that bases its searches for section headers on regular expressions (instead
- * of simple string searches). However, it does not appear that this one is
- * actively being used as the basis for a document collection.
+ * Currently, there are 2 CFEManual classes - CFEManualLargeDocUnitFind and
+ * CFEManualSmallDocUnitRegex.
  * 
  * @author joejohnson
  *
@@ -139,7 +136,7 @@ public class DocCollectionGenerator {
 	// }
 	// }
 	//
-	public void buildDocCollection3() {
+	public void buildDocCollection() {
 		try {
 			String cfeManualFullClassName = cfeManual.getClass().getName();
 			String cfeManualClassName = StringUtils.substringAfterLast(
@@ -448,12 +445,12 @@ public class DocCollectionGenerator {
 
 	public static void main(String[] args) {
 		 DocCollectionGenerator dcu = new DocCollectionGenerator(new
-		 CFEManualSmallDocUnitRegex());
+		 CFEManualSmallDocUnitFind());
 //		DocCollectionGenerator dcu = new DocCollectionGenerator(
 //				new CFEManualLargeDocUnit());
 
 		dcu.cleanDocCollection();
-		dcu.buildDocCollection3();
+		dcu.buildDocCollection();
 
 	}
 }

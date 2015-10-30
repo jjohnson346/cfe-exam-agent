@@ -6,19 +6,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Map.Entry;
 
 /**
  * DocumentCollection serves as a facade for accessing the cfe manual documents. The getDocuments(examSection,
  * questionSection) method provides the core functionality for this class, returning a Map of Document objects.
  * 
- * (The cfe manual documents are the files containing the sections into which the manual was broken up.) There are
- * currently two sets of cfe manual documents (as of 10/23/2015) - CFEManualLargeDocUnit docs and CFEManualSmallDocUnit
- * docs. Each of these sets of docs has a counterpart class containing the code that decomposed the cfe manual according
- * to the respective unit size. (For CFEManualLargeDocUnit, there's the financial.fraud.cfe.manual.CFEManualLargeDocUnit
- * class and for CFEManualSmallDocUnit, there's the financial.fraud.cfe.manual.CFEManualSmallDocUnit class. There's also
- * third class, CFEManualSmallDocUnit2. However, it appears no set of documents was created using this class, which
- * contains code that searches using regular expressions instead of on string matches.)
- *
+ * 
  * @author joejohnson
  */
 
@@ -95,8 +89,25 @@ public class DocumentCollection {
 		return examSectionDocCollection.get(questionSection);
 	}
 
+	/**
+	 * returns the list of Document objects for the entire manual.
+	 * 
+	 * @return
+	 */
+	public Map<String, Map<String, List<Document>>> getDocuments() {
+		return docCollection;
+		// List<Document> documents = new ArrayList<Document>();
+		// for(Map<String, List<Document>> examSectionMap : docCollection.values()) {
+		// for(List<Document> questionSectionDocs : examSectionMap.values()) {
+		// for(Document d : questionSectionDocs) {
+		// documents.add(d);
+		// }
+		// }
+		// }
+	}
+
 	public static void main(String[] args) {
-		DocumentCollection dc = new DocumentCollection("CFEManualSmallDocUnit");
+		DocumentCollection dc = new DocumentCollection("CFEManualSmallDocUnitRegex");
 
 		List<Document> bankruptcyDocs = dc.getDocuments("Financial Transactions and Fraud Schemes", "Bankruptcy Fraud");
 
