@@ -55,13 +55,8 @@ public class CFEManualIndexer {
 		int totalDocCount = 0;
 		
 		for (Map.Entry<String, Map<String, List<Document>>> examSectionEntry : docCollection.entrySet()) {
-			// make exam section directory if it doesn't already exist.
-			String examSectionName = examSectionEntry.getKey();
-			// File examSectionIndexDir = new File("lucene index collection/" + cfeManualClassName + "/"
-			// + examSectionEntry.getKey());
-			// if (!examSectionIndexDir.exists())
-			// examSectionIndexDir.mkdir();
 
+			String examSectionName = examSectionEntry.getKey();
 			Map<String, List<Document>> questionSections = examSectionEntry.getValue();
 
 			for (Map.Entry<String, List<Document>> questionSectionEntry : questionSections.entrySet()) {
@@ -94,6 +89,7 @@ public class CFEManualIndexer {
 				org.apache.lucene.document.Document doc = new org.apache.lucene.document.Document();
 				doc.add(new Field("contents", d.getRawText(), Field.Store.YES, Field.Index.ANALYZED));
 				doc.add(new Field("path", d.getPath(), Field.Store.YES, Field.Index.ANALYZED));
+				doc.add(new Field("title", d.getTitle(), Field.Store.YES, Field.Index.ANALYZED));
 				writer.addDocument(doc);
 			}
 		} finally {
@@ -136,10 +132,57 @@ public class CFEManualIndexer {
 	//
 	// System.out.println("Indexing " + numIndexed + " files took " + (end - start) + " milliseconds");
 	// }
-	
+
+	public void cleanIndexCollection(String cfeManualClassName) {
+		// String cfeManualFullClassName = cfeManual.getClass().getName();
+		// String cfeManualClassName = cfeManualFullClassName
+		// .substring(cfeManualFullClassName.lastIndexOf(".") + 1);
+		File cfeManualDir = new File("lucene index collection/"
+				+ cfeManualClassName);
+		try {
+			delete(cfeManualDir);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	private void delete(File file) throws IOException {
+
+		if (file.isDirectory()) {
+			// directory is empty, then delete it
+			if (file.list().length == 0) {
+				file.delete();
+				System.out.println("Directory deleted: " + file.getName());
+			} else {
+				// list all the directory contents
+				String files[] = file.list();
+
+				for (String temp : files) {
+					// construct the file structure
+					File fileDelete = new File(file, temp);
+					// recursive delete
+					delete(fileDelete);
+				}
+
+				// check the directory again, if empty then delete it
+				if (file.list().length == 0) {
+					file.delete();
+					System.out.println("Directory deleted: " + file.getName());
+				}
+			}
+
+		} else {
+			// if file, then delete it
+			file.delete();
+			System.out.println("File deleted: " + file.getName());
+		}
+	}
+
+
 	public static void main(String[] args) throws Exception {
 		long start = System.currentTimeMillis();
 		CFEManualIndexer indexer = new CFEManualIndexer();
+		indexer.cleanIndexCollection("CFEManualSmallDocUnitRegex");
 		indexer.buildIndexCollection("CFEManualSmallDocUnitRegex");
 		long end = System.currentTimeMillis();
 	}
