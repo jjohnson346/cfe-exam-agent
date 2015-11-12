@@ -1,5 +1,6 @@
 package financial.fraud.cfe.util;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Formatter;
 
@@ -139,9 +140,10 @@ public class Profiler {
 //		QuestionServer qs = new QuestionServer(questions);
 		
 		Logger logger = Logger.getInstance();
-		logger.addDestination("logs\\profiler.log");
+		logger.addDestination("logs" + File.separator + "profiler.log");
 		logger.setDetailLevel(DetailLevel.MEDIUM);
-		QuestionServer qs = new QuestionServer("exam questions - all");
+		QuestionServer qs = new QuestionServer("exam questions - training set");
+//		QuestionServer qs = new QuestionServer("exam questions - all");
 		Profiler profiler = new Profiler(logger);
 		ProfileData pd = profiler.profile(qs);
 		pd.calculate();
@@ -151,7 +153,7 @@ public class Profiler {
 
 		// save profile data to file.
 		try {
-			Formatter output = new Formatter("profile data\\profile data.txt");
+			Formatter output = new Formatter("profile data" + File.separator + "profile data.txt");
 			output.format("%s", pd);
 			output.flush();
 			output.close();

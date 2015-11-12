@@ -165,9 +165,16 @@ public class CFEExamAgent {
 //					System.out.printf("\n\n");
 //				}
 //			}
+
+			if (executionMode.equals("Interactive")) {
+				System.out.printf("\n%s\n\n", "Press Enter to continue.");
+				scanner.nextLine();
+			}
+
+			
 		}
 		
-		Logger.getInstance().printf(DetailLevel.MINIMAL, "EXAM COMPLETE. Score:  %d out of %d", numCorrect, cfeExam.size());
+		Logger.getInstance().printf(DetailLevel.MINIMAL, "EXAM COMPLETE. Score:  %d out of %d\n\n\n", numCorrect, cfeExam.size());
 	}
 
 	/**
