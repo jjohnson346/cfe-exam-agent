@@ -8,7 +8,7 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * CFEManualSmallDocUnit2 implements the CFEManual interface, sectioning the manual using regular expressions instead of
+ * CFEManualSmallDocUnitRegex implements the CFEManual interface, sectioning the manual using regular expressions instead of
  * direct string searches, as is the case for CFEManualSmallDocUnit.
  * 
  * @author jjohnson346
