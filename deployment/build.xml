@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project name="build" default="demo" basedir="..">
-	<property name="version" value="1.9.0" />
+	<property name="version" value="1.9.1" />
 	<property name="demo.dir" value="../../Demo/Demo_${version}" />
 	<property name="test.dir" value="../../Demo/Test_${version}" />
 	<property name="build.dir" value="bin" />
 
+<!--
 	<target name="demo">
 		<mkdir dir="${demo.dir}" />
 		<jar destfile="${demo.dir}/cfe-exam-agent-${version}.jar" basedir="${build.dir}" />
@@ -21,8 +22,8 @@
 		<copy file="deployment/run_exam_1.sh" todir="${demo.dir}" />
 		<replace file="${demo.dir}/run_exam_1.sh" token="@version@" value="${version}" />
 	</target>
-
-	<target name="demo 2" depends="clean demo">
+-->
+	<target name="demo" depends="clean demo">
 		<mkdir dir="${demo.dir}" />
 		<jar destfile="${demo.dir}/cfe-exam-agent-${version}.jar" basedir="${build.dir}" />
 		<copy file="config/cfe-exam-agent.properties.demo" tofile="${demo.dir}/config/cfe-exam-agent.properties" />
@@ -43,10 +44,10 @@
 		<delete dir="${demo.dir}" />
 	</target>
 
-	<target name="test set" depends="clean test">
+	<target name="test" depends="clean test">
 		<mkdir dir="${test.dir}" />
 		<jar destfile="${test.dir}/cfe-exam-agent-${version}.jar" basedir="${build.dir}" />
-		<copy file="config/cfe-exam-agent.properties.testset" tofile="${test.dir}/config/cfe-exam-agent.properties" />
+		<copy file="config/cfe-exam-agent.properties.test" tofile="${test.dir}/config/cfe-exam-agent.properties" />
 		<copy file="profile data/profile data.training set.txt" tofile="${test.dir}/profile data/profile data.txt" />
 		<copy file="exams/Test Set Exam.txt" todir="${test.dir}/exams" />
 		<copy todir="${test.dir}">

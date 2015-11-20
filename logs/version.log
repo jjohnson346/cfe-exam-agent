@@ -1,22 +1,35 @@
 version log
 
+1.9.1
+
+- This version of the cfe exam agent serves as Version 1 of the cfe exam agent.
+
+- Generated profile data for training set (1297 questions) from which the cfe agent can run
+against the 203 question test set.
+
+- Configured the cfe agent for both a demo configuration and a test configuration.
+
+- Configured the ant build file to deploy the demo and test configs for this version 1.
+
+- Modified the agent class (CFEExamAgent.java) to require return input from user between 
+question and solution logging during execution of exam.
+
+
 1.9.0
 
-- added lucene component to support search functionality.  
+- Added lucene component to support search functionality.  
 
 This is currently a very rudimentary configuration, consistent with the example shown in chapter 1
 of McCandless, Lucene in Action.
 
-- switched character encoding to ISO-8850-1 from UTF-1 in Preferences/workspace in order
+- Switched character encoding to ISO-8850-1 from UTF-1 in Preferences/workspace in order
 remove funky characters in file (cfe manual, question files, toc).
 
-TODO: - added functionality for capturing the manual section for each exam question (both training and 
-test sets).
-
-This data serves as the basis for creating the information retrieval module that will be used
+TODO: - Add functionality for capturing the manual section for each exam question (both training and 
+test sets). This data will serve as the basis for creating the information retrieval module that will be used
 for document processing for each question.
 
-- fixed a bug in loadBeginningPositions() method of CFEManualSmallDocUnit and CFEManualLargeDocUnit.
+- Fixed a bug in loadBeginningPositions() method of CFEManualSmallDocUnit and CFEManualLargeDocUnit.
 
 This bug addressed the issue of when two consecutive sections were named very similarly.
 if the page number of the section is at a position that is less than the
