@@ -11,17 +11,22 @@ public class AlgorithmMaxFrequencyTest {
 
 	@Test
 	public void testSolve() {
-		
+
 		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
-		
+
 		CFEManualLargeDocUnit cfeManual = new CFEManualLargeDocUnit();
-		CFEExamQuestion question = new CFEExamQuestion("exam questions\\Investigation\\Covert Examinations\\Covert Examinations 12.txt");
-		
-		MaxFrequency af = new MaxFrequency(cfeManual);
-		
-		int response = af.solve(question);
+		CFEExamQuestion question = new CFEExamQuestion(
+				"exam questions\\Investigation\\Covert Examinations\\Covert Examinations 12.txt");
+
+		// 2.0.0 - remove cfeManual from constructor call.
+		// MaxFrequency af = new MaxFrequency(cfeManual);
+		MaxFrequency af = new MaxFrequency();
+
+		// 2.0.0 - add cfeManual to solve call.
+		// int response = af.solve(question);
+		int response = af.solve(question, cfeManual);
 		af.printOptionFrequencies();
-		
+
 		System.out.printf("%d\n", response);
 	}
 

@@ -3,6 +3,7 @@ package financial.fraud.cfe.algorithm;
 import java.util.ArrayList;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 
 /**
@@ -27,13 +28,13 @@ public class ConceptMatch implements IAlgorithm {
 	
 	/**
 	 * returns the cfe manual object
+	 * 2.0.0 - remove the construcor.
 	 * 
 	 * @param cfeManual
 	 */
-	public ConceptMatch(CFEManualLargeDocUnit cfeManual) {
-		this.cfeManual = cfeManual;
-	}
-
+	// public ConceptMatch(CFEManualLargeDocUnit cfeManual) {
+	// this.cfeManual = cfeManual;
+	// }
 	
 	/**
 	 * current version of this is trivial - simply returning 0, always.
@@ -41,7 +42,7 @@ public class ConceptMatch implements IAlgorithm {
 	 * TODO: need to incorporate logic for this algo.
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 		return 0;
 	}
 	

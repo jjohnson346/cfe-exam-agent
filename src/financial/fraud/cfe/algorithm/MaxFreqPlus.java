@@ -1,7 +1,7 @@
 package financial.fraud.cfe.algorithm;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
-import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
+import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.util.FeatureAllOfTheAbove;
 import financial.fraud.cfe.util.FeatureNoneOfTheAbove;
 
@@ -26,12 +26,13 @@ public class MaxFreqPlus extends MaxFrequency {
 	
 	/**
 	 * constructor accepts cfe manual object and stores it for later processing.
+	 * 2.0.0 - removed constructor with cfeManual
 	 * 
 	 * @param cfeManual the cfe manual object
 	 */
-	public MaxFreqPlus(CFEManualLargeDocUnit cfeManual) {
-		super(cfeManual);
-	}
+	// public MaxFreqPlus(CFEManualLargeDocUnit cfeManual) {
+	// super(cfeManual);
+	// }
 
 	/**
 	 * returns the index of the max frequency option, where for questions with 
@@ -40,9 +41,9 @@ public class MaxFreqPlus extends MaxFrequency {
 	 * for all of the above min and none of the above max.
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 		
-		int responseIdx = super.solve(question);
+		int responseIdx = super.solve(question, cfeManual);
 		
 		// if this is a none-of-the-above question and max <= NONE_OF_THE_ABOVE_MAX,
 		// then return none of the above.

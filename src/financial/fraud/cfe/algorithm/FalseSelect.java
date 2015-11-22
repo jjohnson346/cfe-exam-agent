@@ -1,6 +1,7 @@
 package financial.fraud.cfe.algorithm;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.util.FeatureTrueFalse;
 
 
@@ -15,11 +16,12 @@ import financial.fraud.cfe.util.FeatureTrueFalse;
  */
 public class FalseSelect implements IAlgorithm {
 
+	// 2.0.0 - added CFEManual as a parameter for solve
 	/**
 	 * returns false if the question is a true/false question.
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 		FeatureTrueFalse featureTrueFalse = new FeatureTrueFalse(question);
 		if(featureTrueFalse.exists())
 			return 1;

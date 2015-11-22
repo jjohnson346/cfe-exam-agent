@@ -7,6 +7,7 @@ import java.util.Map;
 import financial.fraud.cfe.agent.CFEExamQuestion;
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
+import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 import financial.fraud.cfe.util.FeatureAllOfTheAbove;
 import financial.fraud.cfe.util.FeatureNoneOfTheAbove;
@@ -27,15 +28,18 @@ public class BagOfWords extends MaxFrequency {
 	private final int ALL_OF_THE_ABOVE_MIN = 1;
 
 	
-	public BagOfWords(CFEManualLargeDocUnit cfeManual) {
-		super(cfeManual);
-	}
+	// 2.0.0 - removed constructor.
+	// public BagOfWords(CFEManualLargeDocUnit cfeManual) {
+	// super(cfeManual);
+	// }
 	
 	/**
 	 * returns the index of the option whose likelihood is highest.
+	 * 2.0.0 - added CFEManual parameter.
+	 * 
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 
 		// TODO: eliminate options all of the above, none of the above from option counts.
 		// Considering these in the computation could throw off results relative to min/max

@@ -6,6 +6,7 @@ import java.util.List;
 import financial.fraud.cfe.agent.CFEExamQuestion;
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
+import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 import financial.fraud.cfe.manual.CFEManualSection;
 import financial.fraud.cfe.util.FeatureTrueFalse;
@@ -31,15 +32,17 @@ public class MinFrequency implements IAlgorithmFrequency {
 	
 	protected ArrayList<Double> optionFrequencies;
 	
-	public MinFrequency(CFEManualLargeDocUnit cfeManual) {
-		this.cfeManual = cfeManual;
-	}
+	// 2.0.0 - removed this constructor.
+	// public MinFrequency(CFEManualLargeDocUnit cfeManual) {
+	// this.cfeManual = cfeManual;
+	// }
 
+	// 2.0.0 - added CFEManual as a parameter for solve.
 	/**
 	 * returns the index of the option which occurs least frequently in the section text.
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 		this.question = question;
 		
 		// if this is a true false question, this is not a good 

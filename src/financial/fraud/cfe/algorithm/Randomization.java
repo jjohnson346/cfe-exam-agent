@@ -3,6 +3,7 @@ package financial.fraud.cfe.algorithm;
 import java.util.Random;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.manual.CFEManual;
 
 
 /**
@@ -29,11 +30,12 @@ public class Randomization implements IAlgorithm {
 		return "Random";
 	}
 	
+	// 2.0.0 - add CFEManual as a parameter for solve.
 	/**
 	 * returns a random selection for index as the answer to the question.
 	 */
 	@Override
-	public int solve(CFEExamQuestion question) {
+	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
 		return randomIdx.nextInt(question.options.size());
 	}
 }

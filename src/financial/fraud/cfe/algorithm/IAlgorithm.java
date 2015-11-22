@@ -1,6 +1,7 @@
 package financial.fraud.cfe.algorithm;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.manual.CFEManual;
 
 /**
  * serves as an interface to be implemented by all classes implementing 
@@ -18,5 +19,5 @@ public interface IAlgorithm {
 	 * @param question the CFEExamQuestion to which to apply the algorithm
 	 * @return the index of the option selected
 	 */
-	public int solve(CFEExamQuestion question);
+	public int solve(CFEExamQuestion question, CFEManual cfeManual);
 }
