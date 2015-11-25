@@ -11,6 +11,9 @@ import financial.fraud.cfe.logging.Logger;
  * CFEManualSmallDocUnitRegex implements the CFEManual interface, sectioning the manual using regular expressions instead of
  * direct string searches, as is the case for CFEManualSmallDocUnit.
  * 
+ * As of 1.9.0, this is the preferred way to decompose the manual into small documents, 
+ * (as opposed to CFEManualSmallDocUnitFind).
+ * 
  * @author jjohnson346
  * 
  */

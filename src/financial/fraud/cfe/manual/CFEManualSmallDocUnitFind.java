@@ -13,6 +13,7 @@ import financial.fraud.cfe.logging.Logger;
  * (Recall there are, I believe, discernible sections within the manual that are not reflected in the manual's index -
  * it may be fruitful to break up the manual down by that finer level of detail.)
  * 
+ * 1.9.0 - this is NOT the preferred method for breaking up the manual.  Use CFEManualSmallDocUnitRegex.
  * @author jjohnson346
  * 
  */

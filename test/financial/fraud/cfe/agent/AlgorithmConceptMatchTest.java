@@ -2,7 +2,7 @@ package financial.fraud.cfe.agent;
 
 import org.junit.Test;
 
-import financial.fraud.cfe.algorithm.ConceptMatch;
+import financial.fraud.cfe.algorithm.ConceptMatchOld;
 import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 
 public class AlgorithmConceptMatchTest {
@@ -15,7 +15,7 @@ public class AlgorithmConceptMatchTest {
 
 		// ConceptMatch acm = new ConceptMatch(cfeManual);
 		// 2.0.0 - remove cfeManual from constructor call.
-		ConceptMatch acm = new ConceptMatch();
+		ConceptMatchOld acm = new ConceptMatchOld();
 
 		// 2.0.0 - add cfeManual to solve() call.
 		// int response = acm.solve(question);

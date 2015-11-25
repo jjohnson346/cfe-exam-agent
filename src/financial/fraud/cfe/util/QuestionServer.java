@@ -32,7 +32,7 @@ public class QuestionServer {
 	
 	
 	/**
-	 * The no-arg constructor initializes the questions reference to a list of 
+	 * The one-arg constructor initializes the questions reference to a list of 
 	 * CFEExamQuestions objects, created by traversing the files in the exam questions
 	 * directory.
 	 */
@@ -83,17 +83,17 @@ public class QuestionServer {
 
 			for (String testAreaDirName : questionsDir.list()) {
 
-				String testAreaPathName = examQuestionsPathName + "//" + testAreaDirName;
+				String testAreaPathName = examQuestionsPathName + File.separator + testAreaDirName;
 				File testAreaDir = new File(testAreaPathName);
 
 				for (String sectionDirName : testAreaDir.list()) {
 
-					String sectionPathName = testAreaPathName + "//" + sectionDirName;
+					String sectionPathName = testAreaPathName + File.separator + sectionDirName;
 					File sectionDir = new File(sectionPathName);
 
 					for (String fileName : sectionDir.list()) {
 
-						String questionFileName = sectionPathName + "//" + fileName;
+						String questionFileName = sectionPathName + File.separator + fileName;
 						questionFileNames.add(questionFileName);
 					}
 				}

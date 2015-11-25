@@ -29,10 +29,11 @@ public class CFEManualIndexSearcher {
 		is = new IndexSearcher(dir);
 	}
 
-	public List<Document> search(String q) throws IOException, ParseException {
+	public List<Document> search(String queryString, String fieldName) throws IOException, ParseException {
 
-		QueryParser parser = new QueryParser(Version.LUCENE_30, "contents", new StandardAnalyzer(Version.LUCENE_30));
-		Query query = parser.parse(q);
+		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName, new StandardAnalyzer(Version.LUCENE_30));
+		Query query = parser.parse(queryString);
+		System.out.println(query.toString());
 		// long start = System.currentTimeMillis();
 		TopDocs hits = is.search(query, 10);
 		// long end = System.currentTimeMillis();
@@ -58,7 +59,7 @@ public class CFEManualIndexSearcher {
 			CFEManualIndexSearcher indexSearcher = new CFEManualIndexSearcher("CFEManualSmallDocUnitRegex",
 					"Financial Transactions and Fraud Schemes", "Bankruptcy Fraud");
 			
-			List<Document> results = indexSearcher.search("court");
+			List<Document> results = indexSearcher.search("court", "contents");
 			
 			for(Document d : results)
 				System.out.println(d.get("title"));

@@ -1,6 +1,6 @@
 Section=Bankruptcy Fraud
 
-Stem=Bankrupcy cases can be filed at either the federal or state level.
+Stem=Bankruptcy cases can be filed at either the federal or state level.
 
 Options=True | False
 
