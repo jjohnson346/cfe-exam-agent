@@ -1,5 +1,26 @@
 version log
 
+2.0.0
+
+- implemented ConceptMatch algorithm.  This is based on a lucene-search-based approach
+that is to be applied to definition/factoid type questions (profile = 2, at the current time).
+The algorithm finds those docs whose title closely matches the options and then finds the docs
+that match with the stem query.  Then it selects the option doc which most closely matches the query
+based on the stem.
+
+- As part of the ConceptMatch implementation, identified elimination strings, strings that 
+commonly occur in the question stem of definition/factoid questions but offer nothing to the query
+and should be removed.  Examples include "which of the following", "is referred to as", "are known
+as".
+
+- Modified feature set to include a definition-not feature. A question is classified as 
+such if it is a definition question that includes the word " not " in the stem, such that it is
+assumed that the question is looking for the negation option - i.e., the option that is NOT a 
+match to the stem, for which we must write an algorithm.
+
+- enhanced QuestionServer to offer functionality for offering questions that match a particular
+profile, passed in as a parameter to the constructor.
+
 1.9.1
 
 - This version of the cfe exam agent serves as Version 1 of the cfe exam agent.

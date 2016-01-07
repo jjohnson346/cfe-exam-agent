@@ -10,6 +10,7 @@ package financial.fraud.cfe.algorithm;
 
 public enum AlgorithmType {
 
+//	CONCEPT_MATCH,	// 2016/01/04 - version 2.0.0 - added CONCEPT MATCH
 	ALL_ABOVE, 
 	TRUE_SELECT, 
 	FALSE_SELECT, 

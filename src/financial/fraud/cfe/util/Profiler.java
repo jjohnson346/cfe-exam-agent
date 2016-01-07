@@ -191,7 +191,8 @@ public class Profiler {
 		Logger logger = Logger.getInstance();
 		logger.addDestination("logs" + File.separator + "profiler.log");
 		logger.setDetailLevel(DetailLevel.MEDIUM);
-		QuestionServer qs = new QuestionServer("exam questions - training set");
+		// QuestionServer qs = new QuestionServer("exam questions - training set");
+		QuestionServer qs = new QuestionServer("exam questions - test set");
 		// QuestionServer qs = new QuestionServer("exam questions - all");
 		Profiler profiler = new Profiler(logger);
 		ProfileData pd = profiler.profile(qs);

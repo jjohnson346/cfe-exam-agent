@@ -9,11 +9,16 @@ package financial.fraud.cfe.util;
  *
  */
 public enum FeatureType {
+	// IMPORTANT: If an item is added to or deleted from this list
+	// make sure to adjust the methods in the Profile class, hasFeature() and
+	// getDescription, which are tightly coupled with the structure and values
+	// of the FeatureType enum.
 	ALL_OF_THE_ABOVE, 
 	NONE_OF_THE_ABOVE, 
 	EXCEPT,
 	TRUE_FALSE, 
 	TRUE_FALSE_ABSOLUTE,
 	DEFINITION, 
-	HAS_LONG_OPTIONS; 
+	DEFINITION_NOT, 
+	HAS_LONG_OPTIONS;
 }

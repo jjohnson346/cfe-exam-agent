@@ -2,7 +2,7 @@ Section=Computer and Internet Fraud
 
 Stem=Which of the following is a type of computer virus?
 
-Options=Executable files | Freeware | Worms |Crasher	
+Options=Executable files | Freeware | Worms | Crasher	
 
 CorrectResponse=2
 

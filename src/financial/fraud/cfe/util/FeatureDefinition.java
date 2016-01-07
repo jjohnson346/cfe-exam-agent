@@ -18,7 +18,7 @@ import financial.fraud.cfe.agent.CFEExamQuestion;
  */
 public class FeatureDefinition implements IFeature {
 
-	private CFEExamQuestion question;
+	protected CFEExamQuestion question;
 	
 	/**
 	 * constructor stores the question to which the next exists() method call

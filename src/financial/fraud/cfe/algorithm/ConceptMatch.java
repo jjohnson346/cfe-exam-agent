@@ -40,8 +40,9 @@ import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
  */
 public class ConceptMatch implements IAlgorithm {
 
-	protected String[] elimPhrases = { "is referred to as",
-			"which of the following", "?" };
+	protected String[] elimPhrases = { "is referred to as", "are referred to as",
+			"which of the following", "?", "are known as", "is known as",
+			"are sometimes called", "is called", "would be described as" };
 
 	@Override
 	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
@@ -60,7 +61,7 @@ public class ConceptMatch implements IAlgorithm {
 			Directory dir = FSDirectory.open(new File(INDEX_DIR));
 			is = new IndexSearcher(dir);
 
-			// get the map of docs that return from a search on each of the 
+			// get the map of docs that return from a search on each of the
 			// options for the question.
 			conceptDocs = getConceptDocs(is, question);
 
@@ -72,7 +73,7 @@ public class ConceptMatch implements IAlgorithm {
 
 			// traverse the stem docs returned from the search on question stem,
 			// starting from the beginning, in order of decreasing
-			// match score. Return the option corresponding to the first 
+			// match score. Return the option corresponding to the first
 			// doc in this set that is contained in the concept docs map.
 			for (ScoreDoc scoreDoc : hits.scoreDocs) {
 				// return the highest scoring doc which exists in our options
@@ -143,7 +144,7 @@ public class ConceptMatch implements IAlgorithm {
 			lowerStem = lowerStem.replace(elimPhrase, "");
 
 		System.out.println("Stem (lower case): " + lowerStem + "\n");
-		
+
 		String fieldName = "contents";
 		String queryString = lowerStem;
 		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName,
@@ -173,11 +174,11 @@ public class ConceptMatch implements IAlgorithm {
 	private static void printDocTitles(IndexSearcher is, TopDocs hits)
 			throws IOException {
 		ScoreDoc[] matches = hits.scoreDocs;
-		if(matches.length == 0)
+		if (matches.length == 0)
 			System.out.println("** no docs returned **");
 		for (int i = 0; i < matches.length; i++) {
 			Document doc = is.doc(matches[i].doc);
-			System.out.println((i+1) + ". " + doc.get("title"));
+			System.out.println((i + 1) + ". " + doc.get("title"));
 		}
 		System.out.println();
 	}
