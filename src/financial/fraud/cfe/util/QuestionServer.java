@@ -13,11 +13,10 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * The QuestionServer class acts as an interface for retrieving CFEExamQuestion
- * objects. The class creates a private list of of CFEExamQuestion objects
- * (typically by traversing the question files in the exam questions directory),
- * and provides a concise interface, (hasNext(), next()) for retrieving each one
- * in sequence. This class is currently used by the Profiler class.
+ * The QuestionServer class acts as an interface for retrieving CFEExamQuestion objects. The class creates a private
+ * list of of CFEExamQuestion objects (typically by traversing the question files in the exam questions directory), and
+ * provides a concise interface, (hasNext(), next()) for retrieving each one in sequence. This class is currently used
+ * by the Profiler class.
  * 
  *
  * @author jjohnson346
@@ -35,46 +34,39 @@ public class QuestionServer {
 											// questions list
 
 	/**
-	 * The one-arg constructor initializes the questions reference to a list of
-	 * CFEExamQuestions objects, created by traversing the files in the exam
-	 * questions directory.
+	 * The one-arg constructor initializes the questions reference to a list of CFEExamQuestions objects, created by
+	 * traversing the files in the exam questions directory.
 	 */
 	public QuestionServer(String directory) {
 
-		Logger.getInstance().println("Initializing question server...",
-				DetailLevel.MEDIUM);
+		Logger.getInstance().println("Initializing question server...", DetailLevel.MEDIUM);
 
 		questionFileNames = getQuestionFileNames(directory);
 		questions = getQuestions();
 		iter = questions.iterator();
 
-		Logger.getInstance().println(
-				"Question server initialization complete.", DetailLevel.MEDIUM);
+		Logger.getInstance().println("Question server initialization complete.", DetailLevel.MEDIUM);
 	}
 
 	/**
-	 * initializes the questions reference to a list of CFEExamQuestions
-	 * objects, created by traversing the files in the exam questions directory
-	 * and filtering out all those questions whose profile do not equal the
-	 * profile passed in as an argument.
+	 * initializes the questions reference to a list of CFEExamQuestions objects, created by traversing the files in the
+	 * exam questions directory and filtering out all those questions whose profile do not equal the profile passed in
+	 * as an argument.
 	 */
 	public QuestionServer(String directory, int profile) {
 
-		Logger.getInstance().println("Initializing question server...",
-				DetailLevel.MEDIUM);
+		Logger.getInstance().println("Initializing question server...", DetailLevel.MEDIUM);
 
 		questionFileNames = getQuestionFileNames(directory);
 		questions = getQuestions(profile);
 		iter = questions.iterator();
 
-		Logger.getInstance().println(
-				"Question server initialization complete.", DetailLevel.MEDIUM);
+		Logger.getInstance().println("Question server initialization complete.", DetailLevel.MEDIUM);
 	}
-	
+
 	/**
-	 * returns the number of questions to be served by this object, 
-	 * given the directory, and, if specified, the question profile specified
-	 * to the constructor
+	 * returns the number of questions to be served by this object, given the directory, and, if specified, the question
+	 * profile specified to the constructor
 	 * 
 	 * @return the count of questions
 	 */
@@ -83,8 +75,7 @@ public class QuestionServer {
 	}
 
 	/**
-	 * returns whether the iterator is at the end of the list of
-	 * CFEExamQuestions objects
+	 * returns whether the iterator is at the end of the list of CFEExamQuestions objects
 	 * 
 	 * @return true if not at the end of the list
 	 */
@@ -105,8 +96,7 @@ public class QuestionServer {
 	}
 
 	/**
-	 * returns a list of all of the question files in the exam questions
-	 * directory.
+	 * returns a list of all of the question files in the exam questions directory.
 	 * 
 	 * @return a list of strings for the question file names
 	 */
@@ -119,20 +109,17 @@ public class QuestionServer {
 
 			for (String testAreaDirName : questionsDir.list()) {
 
-				String testAreaPathName = examQuestionsPathName
-						+ File.separator + testAreaDirName;
+				String testAreaPathName = examQuestionsPathName + File.separator + testAreaDirName;
 				File testAreaDir = new File(testAreaPathName);
 
 				for (String sectionDirName : testAreaDir.list()) {
 
-					String sectionPathName = testAreaPathName + File.separator
-							+ sectionDirName;
+					String sectionPathName = testAreaPathName + File.separator + sectionDirName;
 					File sectionDir = new File(sectionPathName);
 
 					for (String fileName : sectionDir.list()) {
 
-						String questionFileName = sectionPathName
-								+ File.separator + fileName;
+						String questionFileName = sectionPathName + File.separator + fileName;
 						questionFileNames.add(questionFileName);
 					}
 				}
@@ -144,9 +131,8 @@ public class QuestionServer {
 	}
 
 	/**
-	 * returns the linked hash set of questions compiled by traversing the
-	 * question files in each exam section directory in the the exam questions
-	 * directory.
+	 * returns the linked hash set of questions compiled by traversing the question files in each exam section directory
+	 * in the the exam questions directory.
 	 * 
 	 * @return a list of CFEExamQuestion objects
 	 */
@@ -161,16 +147,14 @@ public class QuestionServer {
 	}
 
 	/**
-	 * returns the linked hash set of questions compiled by traversing the
-	 * question files in each exam section directory in the the exam questions
-	 * directory, but unlike the no-arg implementation of this function, filters
-	 * out those questions whose profile do not match the profile argument.
+	 * returns the linked hash set of questions compiled by traversing the question files in each exam section directory
+	 * in the the exam questions directory, but unlike the no-arg implementation of this function, filters out those
+	 * questions whose profile do not match the profile argument.
 	 * 
 	 * @param profile
 	 *            the profile of the questions to be added to the collection
 	 * 
-	 * @return a list of CFEExamQuestion objects whose profile matches the
-	 *         profile argument
+	 * @return a list of CFEExamQuestion objects whose profile matches the profile argument
 	 */
 	private LinkedHashSet<CFEExamQuestion> getQuestions(int profile) {
 		LinkedHashSet<CFEExamQuestion> questions = new LinkedHashSet<CFEExamQuestion>();
@@ -189,7 +173,8 @@ public class QuestionServer {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// 2016/01/04 - version 2.0.0 - note that current profile indices are set as follows:
+		// 2016/01/04 - version 2.0.0 - note that current profile indices are
+		// set as follows:
 		//
 		// AllOfTheAbove * 2^7 +
 		// NoneOfTheAbove * 2^6 +
@@ -198,14 +183,14 @@ public class QuestionServer {
 		// TrueFalseAbsolute * 2^3
 		// Definition * 2^2 +
 		// DefinitionNot * 2^1 +
-		// HasLongOptions * 2^0 
+		// HasLongOptions * 2^0
 
 		// QuestionServer qs = new QuestionServer("exam questions - all");
-		QuestionServer qs = new QuestionServer("exam questions - training set", 4);
-//		QuestionServer qs = new QuestionServer("exam questions - test set", 6);
+		// QuestionServer qs = new QuestionServer("exam questions - training set", 4);
+		QuestionServer qs = new QuestionServer("exam questions - test set", 4);
 
 		Scanner input = new Scanner(System.in);
-		
+
 		int count = 0;
 		while (qs.hasNext()) {
 			CFEExamQuestion q = qs.next();

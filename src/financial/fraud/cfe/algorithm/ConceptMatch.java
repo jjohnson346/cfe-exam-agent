@@ -52,12 +52,20 @@ public class ConceptMatch implements IAlgorithm {
 			// retrieve the IndexSearcher object for the docs for the section
 			// that correspond to the question.
 			final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
+			
+			// for Question: Bankruptcy Fraud 1
+			// final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
+			// final String QUESTION_SECTION_NAME = "Bankruptcy Fraud";
+			
+			// for Question: Basic Accounting Concepts 2, 12
 			final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
-			final String QUESTION_SECTION_NAME = "Bankruptcy Fraud";
+			final String QUESTION_SECTION_NAME = "Basic Accounting Concepts";
+			
 			final String INDEX_DIR = "lucene index collection" + File.separator
 					+ CFE_MANUAL_CLASS_NAME + File.separator
 					+ EXAM_SECTION_NAME + File.separator
 					+ QUESTION_SECTION_NAME;
+			
 			Directory dir = FSDirectory.open(new File(INDEX_DIR));
 			is = new IndexSearcher(dir);
 
@@ -87,7 +95,7 @@ public class ConceptMatch implements IAlgorithm {
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (ParseException e) {
-			System.out.println("unable to parse query.");
+			System.out.println("unable to parse query: " + e.getMessage());
 		}
 
 		// search based on stem yielded no docs that matched those returned from
@@ -140,13 +148,16 @@ public class ConceptMatch implements IAlgorithm {
 	private TopDocs getStemDocs(IndexSearcher is, CFEExamQuestion question)
 			throws ParseException, IOException {
 		String lowerStem = question.stem.toLowerCase();
+		
+		// 
 		for (String elimPhrase : elimPhrases)
 			lowerStem = lowerStem.replace(elimPhrase, "");
 
 		System.out.println("Stem (lower case): " + lowerStem + "\n");
 
 		String fieldName = "contents";
-		String queryString = lowerStem;
+//		String queryString = lowerStem;
+		String queryString = "The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:";
 		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName,
 				new StandardAnalyzer(Version.LUCENE_30));
 		Query query = parser.parse(queryString);
@@ -160,15 +171,27 @@ public class ConceptMatch implements IAlgorithm {
 	}
 
 	public static void main(String[] args) {
+//		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
+//				+ File.separator + "Financial Transactions and Fraud Schemes"
+//				+ File.separator + "Bankruptcy Fraud" + File.separator
+//				+ "Bankruptcy Fraud 1.txt");
+//		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
+//				+ File.separator + "Financial Transactions and Fraud Schemes"
+//				+ File.separator + "Basic Accounting Concepts" + File.separator
+//				+ "Basic Accounting Concepts 12.txt");
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
 				+ File.separator + "Financial Transactions and Fraud Schemes"
-				+ File.separator + "Bankruptcy Fraud" + File.separator
-				+ "Bankruptcy Fraud 1.txt");
+				+ File.separator + "Basic Accounting Concepts" + File.separator
+				+ "Basic Accounting Concepts 2.txt");
 		System.out.println(question);
 
 		ConceptMatch cm = new ConceptMatch();
 		int result = cm.solve(question, null);
 		System.out.println("option selected: " + result);
+		if(result == question.correctResponse)
+			System.out.println("Correct!");
+		else
+			System.out.println("Incorrect.  Correct answer: " + question.options.get(question.correctResponse));
 	}
 
 	private static void printDocTitles(IndexSearcher is, TopDocs hits)
