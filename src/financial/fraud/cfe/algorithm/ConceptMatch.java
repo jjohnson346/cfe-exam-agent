@@ -26,23 +26,33 @@ import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 
 /**
- * AlgorithmConceptMatch is an algorithm that uses the words in the stem in
- * order to determine a detail section upon which to base a max word count
- * algorithm for selecting the correct option. First, it gets the words of the
- * stem, then it determines the likely detail section given these words from
- * which the question was created, then it counts the instances of each option
- * phrase within this detail section and returns the option with the max count.
- * There is no incorporation of logic for all of the above and none of the
- * above.
+ * AlgorithmConceptMatch is an algorithm that uses the words in the stem in order to determine a detail section upon
+ * which to base a max word count algorithm for selecting the correct option. First, it gets the words of the stem, then
+ * it determines the likely detail section given these words from which the question was created, then it counts the
+ * instances of each option phrase within this detail section and returns the option with the max count. There is no
+ * incorporation of logic for all of the above and none of the above.
  * 
  * @author Joe
  *
  */
 public class ConceptMatch implements IAlgorithm {
 
-	protected String[] elimPhrases = { "is referred to as", "are referred to as",
-			"which of the following", "?", "are known as", "is known as",
-			"are sometimes called", "is called", "would be described as" };
+	private String examSectionName;
+
+	private String questionSectionName;
+
+	final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
+
+	public void setExamSectionName(String examSectionName) {
+		this.examSectionName = examSectionName;
+	}
+
+	public void setQuestionSectionName(String questionSectionName) {
+		this.questionSectionName = questionSectionName;
+	}
+
+	protected String[] elimPhrases = { "is referred to as", "are referred to as", "which of the following", "?",
+			"are known as", "is known as", "are sometimes called", "is called", "would be described as" };
 
 	@Override
 	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
@@ -51,22 +61,27 @@ public class ConceptMatch implements IAlgorithm {
 		try {
 			// retrieve the IndexSearcher object for the docs for the section
 			// that correspond to the question.
-			final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
-			
+			// final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
+
 			// for Question: Bankruptcy Fraud 1
 			// final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
 			// final String QUESTION_SECTION_NAME = "Bankruptcy Fraud";
-			
+
 			// for Question: Basic Accounting Concepts 2, 12
-			final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
-			final String QUESTION_SECTION_NAME = "Basic Accounting Concepts";
-			
-			final String INDEX_DIR = "lucene index collection" + File.separator
-					+ CFE_MANUAL_CLASS_NAME + File.separator
-					+ EXAM_SECTION_NAME + File.separator
-					+ QUESTION_SECTION_NAME;
-			
-			Directory dir = FSDirectory.open(new File(INDEX_DIR));
+			// final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
+			// final String QUESTION_SECTION_NAME = "Basic Accounting Concepts";
+
+			// for Question: Bribery and Corruption 17
+			// final String EXAM_SECTION_NAME = "Financial Transactions and Fraud Schemes";
+			// final String QUESTION_SECTION_NAME = "Bribery and Corruption";
+
+			// final String INDEX_DIR = "lucene index collection" + File.separator + CFE_MANUAL_CLASS_NAME
+			// + File.separator + EXAM_SECTION_NAME + File.separator + QUESTION_SECTION_NAME;
+
+			String indexDir = "lucene index collection" + File.separator + CFE_MANUAL_CLASS_NAME + File.separator
+					+ examSectionName + File.separator + questionSectionName;
+
+			Directory dir = FSDirectory.open(new File(indexDir));
 			is = new IndexSearcher(dir);
 
 			// get the map of docs that return from a search on each of the
@@ -104,10 +119,8 @@ public class ConceptMatch implements IAlgorithm {
 	}
 
 	/**
-	 * returns a map containing the collection of entries with key = docID and
-	 * value = option where the docID is for a document found to be a search
-	 * result document from searching on the string for the corresponding
-	 * option.
+	 * returns a map containing the collection of entries with key = docID and value = option where the docID is for a
+	 * document found to be a search result document from searching on the string for the corresponding option.
 	 * 
 	 * @param is
 	 *            the IndexSearcher to use for the search on each option string
@@ -117,8 +130,8 @@ public class ConceptMatch implements IAlgorithm {
 	 * @throws ParseException
 	 * @throws IOException
 	 */
-	private Map<Integer, Integer> getConceptDocs(IndexSearcher is,
-			CFEExamQuestion question) throws ParseException, IOException {
+	private Map<Integer, Integer> getConceptDocs(IndexSearcher is, CFEExamQuestion question) throws ParseException,
+			IOException {
 		Map<Integer, Integer> conceptDocs = new HashMap<Integer, Integer>();
 
 		// do a search on each of the options, add the docs from each
@@ -130,8 +143,7 @@ public class ConceptMatch implements IAlgorithm {
 
 			String fieldName = "title";
 			String queryString = option;
-			QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName,
-					new StandardAnalyzer(Version.LUCENE_30));
+			QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName, new StandardAnalyzer(Version.LUCENE_30));
 			Query query = parser.parse(queryString);
 			TopDocs hits = is.search(query, 10);
 
@@ -145,21 +157,27 @@ public class ConceptMatch implements IAlgorithm {
 		return conceptDocs;
 	}
 
-	private TopDocs getStemDocs(IndexSearcher is, CFEExamQuestion question)
-			throws ParseException, IOException {
+	private TopDocs getStemDocs(IndexSearcher is, CFEExamQuestion question) throws ParseException, IOException {
 		String lowerStem = question.stem.toLowerCase();
-		
-		// 
+
+		// remove elimination phrases (see array initialized above).
 		for (String elimPhrase : elimPhrases)
 			lowerStem = lowerStem.replace(elimPhrase, "");
+
+		// remove any colon that may be in the stem, :. This is syntax recognized
+		// by the QueryParse as part of the query language syntax for lucene. The colon
+		// is used to identify a field upon which to base the search. Query string,
+		// "title:extreme", indicates that the query is intended as a search for the word
+		// extreme in the title field, reference McCandless, Lucene in Action, page 80.
+		lowerStem = lowerStem.replace(":", "");
 
 		System.out.println("Stem (lower case): " + lowerStem + "\n");
 
 		String fieldName = "contents";
-//		String queryString = lowerStem;
-		String queryString = "The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:";
-		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName,
-				new StandardAnalyzer(Version.LUCENE_30));
+		String queryString = lowerStem;
+		// String queryString =
+		// "The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:";
+		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName, new StandardAnalyzer(Version.LUCENE_30));
 		Query query = parser.parse(queryString);
 		TopDocs hits = is.search(query, 10);
 
@@ -171,31 +189,48 @@ public class ConceptMatch implements IAlgorithm {
 	}
 
 	public static void main(String[] args) {
-//		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
-//				+ File.separator + "Financial Transactions and Fraud Schemes"
-//				+ File.separator + "Bankruptcy Fraud" + File.separator
-//				+ "Bankruptcy Fraud 1.txt");
-//		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
-//				+ File.separator + "Financial Transactions and Fraud Schemes"
-//				+ File.separator + "Basic Accounting Concepts" + File.separator
-//				+ "Basic Accounting Concepts 12.txt");
-		CFEExamQuestion question = new CFEExamQuestion("exam questions - all"
-				+ File.separator + "Financial Transactions and Fraud Schemes"
-				+ File.separator + "Basic Accounting Concepts" + File.separator
-				+ "Basic Accounting Concepts 2.txt");
+		String examSectionName;
+		String questionSectionName;
+		String questionName;
+
+		// Brankruptcy Fraud 1.txt - correct!
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Bankruptcy Fraud";
+		// questionName = "Bankruptcy Fraud 1.txt";
+
+		// Basic Accounting Concepts 12.txt - correct!
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Basic Accounting Concepts";
+		// questionName = "Basic Accounting Concepts 12.txt";
+
+		// Basic Accounting Concepts 2.txt - correct!
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Basic Accounting Concepts";
+		// questionName = "Basic Accounting Concepts 2.txt";
+
+		// Bribery and Corruption 17.txt - INCORRECT - t
+		examSectionName = "Financial Transactions and Fraud Schemes";
+		questionSectionName = "Bribery and Corruption";
+		questionName = "Bribery and Corruption 17.txt";
+
+		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName
+				+ File.separator + questionSectionName + File.separator + questionName);
+
 		System.out.println(question);
 
 		ConceptMatch cm = new ConceptMatch();
+		cm.setExamSectionName(examSectionName);
+		cm.setQuestionSectionName(questionSectionName);
+
 		int result = cm.solve(question, null);
 		System.out.println("option selected: " + result);
-		if(result == question.correctResponse)
+		if (result == question.correctResponse)
 			System.out.println("Correct!");
 		else
 			System.out.println("Incorrect.  Correct answer: " + question.options.get(question.correctResponse));
 	}
 
-	private static void printDocTitles(IndexSearcher is, TopDocs hits)
-			throws IOException {
+	private static void printDocTitles(IndexSearcher is, TopDocs hits) throws IOException {
 		ScoreDoc[] matches = hits.scoreDocs;
 		if (matches.length == 0)
 			System.out.println("** no docs returned **");
