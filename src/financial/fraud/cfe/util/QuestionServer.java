@@ -186,8 +186,14 @@ public class QuestionServer {
 		// HasLongOptions * 2^0
 
 		// QuestionServer qs = new QuestionServer("exam questions - all");
+
+		// definition questions:
 		// QuestionServer qs = new QuestionServer("exam questions - training set", 4);
-		QuestionServer qs = new QuestionServer("exam questions - test set", 4);
+		// QuestionServer qs = new QuestionServer("exam questions - test set", 4);
+
+		// definition/none of above questions:
+		// QuestionServer qs = new QuestionServer("exam questions - training set", 68);
+		QuestionServer qs = new QuestionServer("exam questions - test set",68);
 
 		Scanner input = new Scanner(System.in);
 
@@ -197,7 +203,8 @@ public class QuestionServer {
 			// System.out.println(q.section);
 			System.out.println("Question " + ++count + " of " + qs.size() + ":");
 			System.out.println(q);
-			input.nextLine();
+			System.out.println(q.getFormattedCorrectResponse());
+			// input.nextLine();
 		}
 		System.out.println("count: " + count);
 	}

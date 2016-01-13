@@ -2,7 +2,7 @@ Section=Fraudulent Disbursements
 
 Stem=Which of the following accounts has the greatest potential of harboring smaller embezzlements?
 
-Options=Advertising expense | Travel and entertainment expenses | Revenue | AJI of the above
+Options=Advertising expense | Travel and entertainment expenses | Revenue | Any of the above
 
 CorrectResponse=1
 

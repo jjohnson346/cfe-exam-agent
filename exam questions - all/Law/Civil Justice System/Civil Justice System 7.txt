@@ -2,7 +2,7 @@ Section=Civil Justice System
 
 Stem=The commencement of a civil action begins with the filing of a(n):
 
-Options=Complaint	| Motion | Affidavit | Any of the above
+Options=Complaint | Motion | Affidavit | Any of the above
 
 CorrectResponse=0
 

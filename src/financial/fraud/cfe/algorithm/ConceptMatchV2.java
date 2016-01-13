@@ -41,10 +41,31 @@ import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
  * instances of each option phrase within this detail section and returns the option with the max count. There is no
  * incorporation of logic for all of the above and none of the above.
  * 
+ * Notes for reporting:
+ * IMPORTANT EXAM QUESTIONS FOR TRACING THE DEVELOPMENT OF THIS ALGORITHM:
+ * 
+ * Exam Question: Bankuptcy Fraud 1 - this question serves as an example of how the rudimentary algorithm, where 
+ * we find matching docs for options, optionsDocs, and we match those up with those found for the stem, stemDocs.
+ * A search based on the field, "title", for options is sufficient to find the correct answer using this matching 
+ * approach.
+ * 
+ * Exam Question: Bribery and Corruption 17 - this question serves as an example where there were multiple options with 
+ * one or more matching documents in common.  The algorithm requires that each document be associated with at most one
+ * option.  Which option to pick, then?  Lacking any logic to handle this, the way the algorithm is implemented is such
+ * that an option further down in the question option list will overwrite an option higher up in the option list (when
+ * doc id/option pairs are being added to the optionsDocs map).  Instead, we insert logic such that the option for which
+ * the match score is highest is assigned to the document.
+ * 
+ * 
+ * Exam Question:  Financial Statement Fraud 9 - this question serves as an example where there were no docs returned for 
+ * any of the options because none fit closely with the title of a document.  Thus, when building the optionsDocs
+ * map based on a search based on the "title" field, no option was selected (-1 was returned).  This prompted the incorporation
+ * of a search based on the "contents" field as a follow-up measure in the case of such a circumstance.
+ * 
  * @author Joe
  *
  */
-public class ConceptMatch2 implements IAlgorithm {
+public class ConceptMatchV2 implements IAlgorithm {
 
 	private String examSectionName;
 
@@ -65,8 +86,10 @@ public class ConceptMatch2 implements IAlgorithm {
 
 	@Override
 	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
-		Map<Integer, Integer> conceptDocs = new HashMap<Integer, Integer>();
+		Map<Integer, Integer> optionsDocs = new HashMap<Integer, Integer>();
 		IndexSearcher is;
+		int bestOption = -1;
+		
 		try {
 			String indexDir = "lucene index collection" + File.separator + CFE_MANUAL_CLASS_NAME + File.separator
 					+ examSectionName + File.separator + questionSectionName;
@@ -74,29 +97,34 @@ public class ConceptMatch2 implements IAlgorithm {
 			Directory dir = FSDirectory.open(new File(indexDir));
 			is = new IndexSearcher(dir);
 
-			// get the map of docs that return from a search on each of the
-			// options for the question.
-			conceptDocs = getConceptDocs(is, question);
+			// get the map of docs that return from a search in doc collection on each of the
+			// options for the question, based on the field, title.
+			optionsDocs = getOptionsDocs(is, question, "title");
 
 			// print out the map for reasonableness.
-			System.out.println("conceptDocs: " + conceptDocs + "\n");
+			System.out.println("optionsDocs: " + optionsDocs + "\n");
 
 			// get the docs that return from a search on question stem.
 			TopDocs hits = getStemDocs(is, question);
+			
+			bestOption = getBestDocMatchOption(hits, optionsDocs, is);
+			
+			if(bestOption != -1)
+				return bestOption;
+			
+			System.out.println("Search for options docs based on title field unsuccessful.");
+			System.out.println("Repeating search for options docs using contents field...\n");
+			// if we made it here, no success finding a matching doc between stem docs and options docs.
+			// repeat search for options docs, this time using contents field instead of title.
+			optionsDocs = getOptionsDocs(is, question, "contents");
+			
+			// print out the map for reasonableness.
+			System.out.println("optionsDocs: " + optionsDocs + "\n");
+			
+			// repeat search for match of options doc to a stem doc.
+			bestOption = getBestDocMatchOption(hits, optionsDocs, is);
+			
 
-			// traverse the stem docs returned from the search on question stem,
-			// starting from the beginning, in order of decreasing
-			// match score. Return the option corresponding to the first
-			// doc in this set that is contained in the concept docs map.
-			for (ScoreDoc scoreDoc : hits.scoreDocs) {
-				// return the highest scoring doc which exists in our options
-				// search results.
-				if (conceptDocs.containsKey(scoreDoc.doc)) {
-					System.out.println("Selected option based on document: " + is.doc(scoreDoc.doc).get("title") + "("
-							+ scoreDoc.doc + ")");
-					return conceptDocs.get(scoreDoc.doc);
-				}
-			}
 			is.close();
 
 		} catch (IOException e) {
@@ -107,7 +135,44 @@ public class ConceptMatch2 implements IAlgorithm {
 
 		// search based on stem yielded no docs that matched those returned from
 		// the concept searches. so return -1.
+		return bestOption;
+	}
+	
+	
+	/**
+	 * returns the option whose for which a document returned from searching on that option appears
+	 * highest in the list of documents returned from searching on the stem.  
+	 * 
+	 * This method traverses the list of documents returned from a search on the question stem, (recall,
+	 * the list of returned docs is in order of decreasing match score).  As it goes down the list, it 
+	 * looks in the optionsDocs map for a matching document, i.e., a document also returned from a 
+	 * search on an option.  This algorithm then returns that corresponding option.
+	 * 
+	 * @param hits
+	 * @param optionsDocs
+	 * @param is
+	 * @return
+	 * @throws IOException
+	 */
+	private int getBestDocMatchOption(TopDocs hits, Map<Integer,Integer> optionsDocs, IndexSearcher is) throws IOException {
+		// traverse the stem docs returned from the search on question stem,
+		// starting from the beginning, in order of decreasing
+		// match score. Return the option corresponding to the first
+		// doc in this set that is contained in the options docs map.
+		for (ScoreDoc scoreDoc : hits.scoreDocs) {
+			// return the highest scoring doc which exists in our options
+			// search results.
+			if (optionsDocs.containsKey(scoreDoc.doc)) {
+				System.out.println("Options doc with best match: " + is.doc(scoreDoc.doc).get("title") + "("
+						+ scoreDoc.doc + ")");
+				return optionsDocs.get(scoreDoc.doc);
+			}
+		}
+		
+		// if we made it here, then there was no doc in the stem search results that is also
+		// contained in the options docs.  So, return -1.
 		return -1;
+		
 	}
 
 	/**
@@ -118,12 +183,15 @@ public class ConceptMatch2 implements IAlgorithm {
 	 *            the IndexSearcher to use for the search on each option string
 	 * @param question
 	 *            the question whose options are to be searched against
+	 * @param fileName
+	 *            the name of the field upon which to apply the query for each document, usually "title" or "contents"
+	 * 
 	 * @return the map containing the key/value: docID/option entries
 	 * @throws ParseException
 	 * @throws IOException
 	 */
-	private Map<Integer, Integer> getConceptDocs(IndexSearcher is, CFEExamQuestion question) throws ParseException,
-			IOException {
+	private Map<Integer, Integer> getOptionsDocs(IndexSearcher is, CFEExamQuestion question, String fieldName)
+			throws ParseException, IOException {
 		// Map<Integer, Integer> conceptDocs = new HashMap<Integer, Integer>();
 		Map<Integer, OptionScore> docOptionScores = new HashMap<Integer, OptionScore>();
 
@@ -134,7 +202,7 @@ public class ConceptMatch2 implements IAlgorithm {
 		for (int i = 0; i < options.size(); i++) {
 			String option = options.get(i);
 
-			String fieldName = "title";
+			// String fieldName = "title";
 			String queryString = option;
 			QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName, new StandardAnalyzer(Version.LUCENE_30));
 			Query query = parser.parse(queryString);
@@ -207,67 +275,35 @@ public class ConceptMatch2 implements IAlgorithm {
 		String questionSectionName;
 		String questionName;
 
-		// Brankruptcy Fraud 1.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Bankruptcy Fraud";
-		// questionName = "Bankruptcy Fraud 1.txt";
-
-		// Basic Accounting Concepts 12.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Basic Accounting Concepts";
-		// questionName = "Basic Accounting Concepts 12.txt";
-
-		// Basic Accounting Concepts 2.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Basic Accounting Concepts";
-		// questionName = "Basic Accounting Concepts 2.txt";
-
-		// Bribery and Corruption 17.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Bribery and Corruption";
-		// questionName = "Bribery and Corruption 17.txt";
-
-		// Consumer Fraud 29.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Consumer Fraud";
-		// questionName = "Consumer Fraud 29.txt";
-
-		// Consumer Fraud 6.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Consumer Fraud";
-		// questionName = "Consumer Fraud 6.txt";
-		
-		// Contract and Procurement Fraud 14.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Contract and Procurement Fraud";
-		// questionName = "Contract and Procurement Fraud 14.txt";
-
-		// Contract and Procurement Fraud 3.txt - correct!
-		// examSectionName = "Financial Transactions and Fraud Schemes";
-		// questionSectionName = "Contract and Procurement Fraud";
-		// questionName = "Contract and Procurement Fraud 3.txt";
-
 		// Financial Statement Fraud 9.txt
 		examSectionName = "Financial Transactions and Fraud Schemes";
 		questionSectionName = "Financial Statement Fraud";
-		questionName = "Financial Statement Fraud 9.txt";		
+		questionName = "Financial Statement Fraud 9.txt";
 
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName
 				+ File.separator + questionSectionName + File.separator + questionName);
 
 		System.out.println(question);
 
-		ConceptMatch2 cm = new ConceptMatch2();
+		ConceptMatchV2 cm = new ConceptMatchV2();
 		cm.setExamSectionName(examSectionName);
 		cm.setQuestionSectionName(questionSectionName);
 
 		int result = cm.solve(question, null);
-		System.out.println("option selected: " + result);
-		if (result == question.correctResponse)
+		System.out.println("Option selected: " + getFormattedResponse(result, question));
+		if (result == question.correctResponse) {
 			System.out.println("Correct!");
-		else
+		} else {
 			System.out.println("Incorrect.  Correct answer: " + question.options.get(question.correctResponse));
+			System.out.println("Explanation: " + question.explanation);
+			System.out.println("Manual page: " + question.getSourcePage());
+		}
 	}
+	
+	public static String getFormattedResponse(int result, CFEExamQuestion question) {
+		return String.format("%s%s%s", (char) (result + 97), ") ", question.options.get(result));
+	}
+
 
 	private static void printDocTitles(IndexSearcher is, TopDocs hits) throws IOException {
 		ScoreDoc[] matches = hits.scoreDocs;
@@ -275,7 +311,7 @@ public class ConceptMatch2 implements IAlgorithm {
 			System.out.println("** no docs returned **");
 		for (int i = 0; i < matches.length; i++) {
 			Document doc = is.doc(matches[i].doc);
-			System.out.println((i + 1) + ". " + doc.get("title") + "(" + matches[i].doc + ")");
+			System.out.println((i + 1) + ". " + doc.get("title") + "(" + matches[i].doc + ")" + "  " + matches[i].score);
 		}
 		System.out.println();
 	}

@@ -35,7 +35,7 @@ import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
  * @author Joe
  *
  */
-public class ConceptMatch implements IAlgorithm {
+public class ConceptMatchV1 implements IAlgorithm {
 
 	private String examSectionName;
 
@@ -218,7 +218,7 @@ public class ConceptMatch implements IAlgorithm {
 
 		System.out.println(question);
 
-		ConceptMatch cm = new ConceptMatch();
+		ConceptMatchV1 cm = new ConceptMatchV1();
 		cm.setExamSectionName(examSectionName);
 		cm.setQuestionSectionName(questionSectionName);
 

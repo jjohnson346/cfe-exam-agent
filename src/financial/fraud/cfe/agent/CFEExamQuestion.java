@@ -13,6 +13,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Properties;
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import financial.fraud.cfe.util.Profile;
 
@@ -202,6 +204,15 @@ public class CFEExamQuestion {
 		sb.append(String.format("%s%s\n", "Explanation=", explanation));
 
 		return sb.toString();
+	}
+	
+	public String getSourcePage() {
+		Pattern p = Pattern.compile("\\d\\.\\d{3}");
+		Matcher m = p.matcher(explanation);
+		if(m.find())
+			return m.group();
+		else
+			return "no source page found in explanation.";
 	}
 
 	/**
