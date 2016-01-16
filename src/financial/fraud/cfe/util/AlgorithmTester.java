@@ -1,13 +1,12 @@
 package financial.fraud.cfe.util;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
-import financial.fraud.cfe.algorithm.ConceptMatchV2;
 import financial.fraud.cfe.algorithm.ConceptMatchV3;
 import financial.fraud.cfe.algorithm.IAlgorithm;
-import financial.fraud.cfe.ir.lucene.LuceneUtil;
+import financial.fraud.cfe.logging.DetailLevel;
+import financial.fraud.cfe.logging.Logger;
 import financial.fraud.cfe.manual.CFEManual;
 import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
 
@@ -29,7 +28,7 @@ public class AlgorithmTester {
 
 	}
 
-	public void start() {
+	public void start(boolean interactive) {
 		CFEManual cfeManual = new CFEManualSmallDocUnitRegex();
 
 		Scanner input = new Scanner(System.in);
@@ -45,30 +44,13 @@ public class AlgorithmTester {
 		try {
 			while (qs.hasNext()) {
 				CFEExamQuestion question = qs.next();
-				// System.out.println(q.section);
 				System.out.println("\n\nQuestion " + ++count + " of " + qs.size() + ":");
 				System.out.println(question);
-				if (algorithm instanceof ConceptMatchV2) {
-					HashMap<String, String> examSectionLookup = LuceneUtil.getExamSectionLookup();
-					ConceptMatchV2 cm2 = (ConceptMatchV2) algorithm;
-					cm2.setQuestionSectionName(question.section);
-					String examSection = examSectionLookup.get(question.section);
-					if (examSection == null)
-						throw new Exception("unable to retrieve exam section for question section: " + question.section);
-					cm2.setExamSectionName(examSectionLookup.get(question.section));
-				}
 
-				if (algorithm instanceof ConceptMatchV3) {
-					HashMap<String, String> examSectionLookup = LuceneUtil.getExamSectionLookup();
-					ConceptMatchV3 cm3 = (ConceptMatchV3) algorithm;
-					cm3.setQuestionSectionName(question.section);
-					String examSection = examSectionLookup.get(question.section);
-					if (examSection == null)
-						throw new Exception("unable to retrieve exam section for question section: " + question.section);
-					cm3.setExamSectionName(examSectionLookup.get(question.section));
-				}
 				// allow the user to view the question before continuing to the agent's response.
-				input.nextLine();
+				if (interactive)
+					input.nextLine();
+
 				int result = algorithm.solve(question, cfeManual);
 
 				if (result != -1)
@@ -87,7 +69,8 @@ public class AlgorithmTester {
 				}
 
 				// allow the user to view the results before continuing to next question.
-				input.nextLine();
+				if (interactive)
+					input.nextLine();
 			}
 			System.out.println("Total questions answered: " + count);
 			System.out.println("Number question correctly answered: " + correctCount + "(" + (double) correctCount
@@ -104,8 +87,40 @@ public class AlgorithmTester {
 	}
 
 	public static void main(String[] args) {
+		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
+
+		// conceptmatchV1 on profile 4 (def) on test set: accuracy: 10 out of 26 (38%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV1());
+
+		// conceptmatchV1 on profile 4 (def) on training set: accuracy: 71 out of 196 (36.2%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV1());
+
+		// conceptmatchV2 on profile 4 (def) on test set: accuracy: 18 out of 26 (69.2%)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV2());
-		AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3());
-		algoTester.start();
+
+		// conceptmatchV2 on profile 4 (def) on training set: accuracy: 118 out of 196 (60.2%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV2());
+
+		// conceptmatchV3 on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3());
+
+		// conceptmatchV3 on profile 4 (def) on training set: accuracy: 121 out of 196 (61.7%)
+		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV3());
+
+		// ConceptMatchV3NOTA on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3NOTA());
+
+		// ConceptMatchV3NOTA on profile 4 (def) on training set: accuracy: 121 out of 196 (61.7%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new
+		// ConceptMatchV3NOTA());
+
+		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on test set: accuracy: 24 out of 33 (72.7%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 68, new ConceptMatchV3NOTA());
+
+		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on training set: accuracy: 107 out of 169 (63.3%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new
+		// ConceptMatchV3NOTA());
+
+		algoTester.start(false);
 	}
 }

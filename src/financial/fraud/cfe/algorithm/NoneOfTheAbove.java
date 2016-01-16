@@ -2,13 +2,12 @@ package financial.fraud.cfe.algorithm;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
 import financial.fraud.cfe.manual.CFEManual;
-import financial.fraud.cfe.util.FeatureAllOfTheAbove;
+import financial.fraud.cfe.util.FeatureNoneOfTheAbove;
 
 /**
  * AlgorithmAllOfTheAbove is an algorithm that simply returns option[3] (corresponding
- * to the last of 4 options in a 0-based array).  This is particularly effective for
- * questions that include an "all of the above" option (last) since these questions
- * have that as the correct option so frequently.
+ * to the last of 4 options in a 0-based array), corresponding to "none of the above"
+ * for none-of-the-above questions.
  * 
  * @author Joe
  *
@@ -25,7 +24,7 @@ public class NoneOfTheAbove implements IAlgorithm {
 	 */
 	@Override
 	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
-		FeatureAllOfTheAbove feature = new FeatureAllOfTheAbove(question);
+		FeatureNoneOfTheAbove feature = new FeatureNoneOfTheAbove(question);
 		if(feature.exists())
 			return feature.getOptionIndex();
 		else
@@ -34,6 +33,6 @@ public class NoneOfTheAbove implements IAlgorithm {
 
 	@Override
 	public String toString() {
-		return "All of the Above";
+		return "None of the Above";
 	}
 }

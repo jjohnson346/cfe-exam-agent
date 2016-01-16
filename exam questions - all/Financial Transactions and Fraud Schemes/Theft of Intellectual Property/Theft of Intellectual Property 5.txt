@@ -2,7 +2,7 @@ Section=Theft of Intellectual Property
 
 Stem=A special room that is acoustically shielded and radio-frequency shielded so that conversations within the room cannot be monitored outside the room is called:
 
-Options="Quiet" room | "Dead" room| "Shield" room | None of the above
+Options="Quiet" room | "Dead" room | "Shield" room | None of the above
 
 CorrectResponse=0
 

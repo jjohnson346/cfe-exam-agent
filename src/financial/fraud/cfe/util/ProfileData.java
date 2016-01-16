@@ -208,7 +208,7 @@ public class ProfileData {
 	private String toStringMultipleChoice() {
 		StringBuilder sb = new StringBuilder();
 
-		final int COLUMN_WIDTH = 14;
+		final int COLUMN_WIDTH = 22;
 		String formatString = "%" + COLUMN_WIDTH + "s";
 
 		// make header.
@@ -223,7 +223,7 @@ public class ProfileData {
 		sb.append(String.format(formatString, "Description"));
 		sb.append("\n");
 		for (int i = 0; i < AlgorithmType.values().length + 4; i++)
-			sb.append(String.format(formatString, "-------------"));
+			sb.append(String.format(formatString, "---------------------"));
 		sb.append("\n");
 
 		int totalCount = 0;		// for displaying the total count at the bottom.
@@ -255,7 +255,7 @@ public class ProfileData {
 
 		// display total trial count
 		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
-				+ "d%" + COLUMN_WIDTH * 9 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
+				+ "d%" + COLUMN_WIDTH * 13 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
 
 		return new String(sb);
 		
@@ -264,7 +264,7 @@ public class ProfileData {
 	private String toStringTrueFalse() {
 		StringBuilder sb = new StringBuilder();
 
-		final int COLUMN_WIDTH = 14;
+		final int COLUMN_WIDTH = 22;
 		String formatString = "%" + COLUMN_WIDTH + "s";
 
 		// make header.
@@ -279,7 +279,7 @@ public class ProfileData {
 		sb.append(String.format(formatString, "Description"));
 		sb.append("\n");
 		for (int i = 0; i < AlgorithmType.values().length + 4; i++)
-			sb.append(String.format(formatString, "-------------"));
+			sb.append(String.format(formatString, "---------------------"));
 		sb.append("\n");
 
 		int totalCount = 0;		// for displaying the total count at the bottom.
@@ -313,7 +313,7 @@ public class ProfileData {
 //		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
 //				+ "d\n", "Total Count:", totalCount));
 		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
-				+ "d%" + COLUMN_WIDTH * 9 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
+				+ "d%" + COLUMN_WIDTH * 13 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
 
 		return new String(sb);
 		

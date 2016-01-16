@@ -2,16 +2,12 @@ package financial.fraud.cfe.algorithm;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import jdk.nashorn.internal.runtime.ParserException;
-
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
-import org.apache.lucene.document.Document;
 import org.apache.lucene.queryParser.ParseException;
 import org.apache.lucene.queryParser.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
@@ -23,8 +19,9 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.logging.DetailLevel;
+import financial.fraud.cfe.logging.Logger;
 import financial.fraud.cfe.manual.CFEManual;
-import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
 
 /**
  * ConceptMatch2 is just like ConceptMatch except it compares the scores for each concept document, i.e., each document
@@ -34,6 +31,12 @@ import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
  * where O' is a different question option and S' is the score for D with respect to O', then scores S and S' are
  * compared, and the option whose score is maximum is chosen. If S' > S, then the entry with D = (O',S') is left as is
  * in the hash table. On the other hand, if S' < S, then the entry is overwritten with D = (O,S).
+ * 
+ * In addition to the enhancement described above, ConceptMatch2 includes logic for handling the scenario in which
+ * the options docs include *no documents* that are in the stem docs, i.e., these two document sets are disjoint.  
+ * (In ConceptMatchV1, there was no logic to address this issue.)  In ConceptMatchV2, if this scenario occurs, 
+ * the options docs set is rebuilt, but instead of searching on the title field, the search is performed on the contents
+ * field, likely yielding more hits, and thus, a greater likelihood of docs that also occur in the stem docs set.
  *
  * AlgorithmConceptMatch is an algorithm that uses the words in the stem in order to determine a detail section upon
  * which to base a max word count algorithm for selecting the correct option. First, it gets the words of the stem, then
@@ -65,24 +68,7 @@ import financial.fraud.cfe.manual.CFEManualLargeDocUnit;
  * @author Joe
  *
  */
-public class ConceptMatchV2 implements IAlgorithm {
-
-	private String examSectionName;
-
-	private String questionSectionName;
-
-	final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
-
-	public void setExamSectionName(String examSectionName) {
-		this.examSectionName = examSectionName;
-	}
-
-	public void setQuestionSectionName(String questionSectionName) {
-		this.questionSectionName = questionSectionName;
-	}
-
-	protected String[] elimPhrases = { "is referred to as", "are referred to as", "which of the following", "?",
-			"are known as", "is known as", "are sometimes called", "is called", "would be described as" };
+public class ConceptMatchV2 extends AbstractConceptMatch {
 
 	@Override
 	public int solve(CFEExamQuestion question, CFEManual cfeManual) {
@@ -91,10 +77,9 @@ public class ConceptMatchV2 implements IAlgorithm {
 		int bestOption = -1;
 		
 		try {
-			String indexDir = "lucene index collection" + File.separator + CFE_MANUAL_CLASS_NAME + File.separator
-					+ examSectionName + File.separator + questionSectionName;
+			setIndexDirectory(question);
 
-			Directory dir = FSDirectory.open(new File(indexDir));
+			Directory dir = FSDirectory.open(new File(indexDirectory));
 			is = new IndexSearcher(dir);
 
 			// get the map of docs that return from a search in doc collection on each of the
@@ -102,7 +87,7 @@ public class ConceptMatchV2 implements IAlgorithm {
 			optionsDocs = getOptionsDocs(is, question, "title");
 
 			// print out the map for reasonableness.
-			System.out.println("optionsDocs: " + optionsDocs + "\n");
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","optionsDocs: " + optionsDocs + "\n");
 
 			// get the docs that return from a search on question stem.
 			TopDocs hits = getStemDocs(is, question);
@@ -112,14 +97,14 @@ public class ConceptMatchV2 implements IAlgorithm {
 			if(bestOption != -1)
 				return bestOption;
 			
-			System.out.println("Search for options docs based on title field unsuccessful.");
-			System.out.println("Repeating search for options docs using contents field...\n");
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Search for options docs based on title field unsuccessful.");
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Repeating search for options docs using contents field...\n");
 			// if we made it here, no success finding a matching doc between stem docs and options docs.
 			// repeat search for options docs, this time using contents field instead of title.
 			optionsDocs = getOptionsDocs(is, question, "contents");
 			
 			// print out the map for reasonableness.
-			System.out.println("optionsDocs: " + optionsDocs + "\n");
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","optionsDocs: " + optionsDocs + "\n");
 			
 			// repeat search for match of options doc to a stem doc.
 			bestOption = getBestDocMatchOption(hits, optionsDocs, is);
@@ -130,7 +115,7 @@ public class ConceptMatchV2 implements IAlgorithm {
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (ParseException e) {
-			System.out.println("unable to parse query: " + e.getMessage());
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","unable to parse query: " + e.getMessage());
 		}
 
 		// search based on stem yielded no docs that matched those returned from
@@ -163,7 +148,7 @@ public class ConceptMatchV2 implements IAlgorithm {
 			// return the highest scoring doc which exists in our options
 			// search results.
 			if (optionsDocs.containsKey(scoreDoc.doc)) {
-				System.out.println("Options doc with best match: " + is.doc(scoreDoc.doc).get("title") + "("
+				Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Options doc with best match: " + is.doc(scoreDoc.doc).get("title") + "("
 						+ scoreDoc.doc + ")");
 				return optionsDocs.get(scoreDoc.doc);
 			}
@@ -224,7 +209,7 @@ public class ConceptMatchV2 implements IAlgorithm {
 					docOptionScores.put(scoreDoc.doc, new OptionScore(i, scoreDoc.score));
 				}
 			// print out the doc titles as a reasonableness check.
-			System.out.println("Doc results for: " + option);
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Doc results for: " + option);
 			printDocTitles(is, hits);
 		}
 
@@ -239,36 +224,6 @@ public class ConceptMatchV2 implements IAlgorithm {
 		return optionDocs;
 	}
 
-	private TopDocs getStemDocs(IndexSearcher is, CFEExamQuestion question) throws ParseException, IOException {
-		String lowerStem = question.stem.toLowerCase();
-
-		// remove elimination phrases (see array initialized above).
-		for (String elimPhrase : elimPhrases)
-			lowerStem = lowerStem.replace(elimPhrase, "");
-
-		// remove any colon that may be in the stem, :. This is syntax recognized
-		// by the QueryParse as part of the query language syntax for lucene. The colon
-		// is used to identify a field upon which to base the search. Query string,
-		// "title:extreme", indicates that the query is intended as a search for the word
-		// extreme in the title field, reference McCandless, Lucene in Action, page 80.
-		lowerStem = lowerStem.replace(":", "");
-
-		System.out.println("Stem (lower case): " + lowerStem + "\n");
-
-		String fieldName = "contents";
-		String queryString = lowerStem;
-		// String queryString =
-		// "The worth of a business, if it is any good, will always be higher than the value of its hard assets. This is reflected in the accounting concept of:";
-		QueryParser parser = new QueryParser(Version.LUCENE_30, fieldName, new StandardAnalyzer(Version.LUCENE_30));
-		Query query = parser.parse(queryString);
-		TopDocs hits = is.search(query, 10);
-
-		// print out the doc titles as a reasonableness check.
-		System.out.println("Doc results for stem: " + lowerStem);
-		printDocTitles(is, hits);
-
-		return hits;
-	}
 
 	public static void main(String[] args) {
 		String examSectionName;
@@ -280,49 +235,24 @@ public class ConceptMatchV2 implements IAlgorithm {
 		questionSectionName = "Financial Statement Fraud";
 		questionName = "Financial Statement Fraud 9.txt";
 
+		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
+
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName
 				+ File.separator + questionSectionName + File.separator + questionName);
 
-		System.out.println(question);
+		Logger.getInstance().printf(DetailLevel.FULL, "%s\n",question);
 
 		ConceptMatchV2 cm = new ConceptMatchV2();
-		cm.setExamSectionName(examSectionName);
-		cm.setQuestionSectionName(questionSectionName);
 
 		int result = cm.solve(question, null);
-		System.out.println("Option selected: " + getFormattedResponse(result, question));
+		Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Option selected: " + (char) (result + 97) + ") " + question.options.get(result));
 		if (result == question.correctResponse) {
-			System.out.println("Correct!");
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Correct!");
 		} else {
-			System.out.println("Incorrect.  Correct answer: " + question.options.get(question.correctResponse));
-			System.out.println("Explanation: " + question.explanation);
-			System.out.println("Manual page: " + question.getSourcePage());
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Incorrect.  Correct answer: " + question.options.get(question.correctResponse));
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Explanation: " + question.explanation);
+			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Manual page: " + question.getSourcePage());
 		}
 	}
 	
-	public static String getFormattedResponse(int result, CFEExamQuestion question) {
-		return String.format("%s%s%s", (char) (result + 97), ") ", question.options.get(result));
-	}
-
-
-	private static void printDocTitles(IndexSearcher is, TopDocs hits) throws IOException {
-		ScoreDoc[] matches = hits.scoreDocs;
-		if (matches.length == 0)
-			System.out.println("** no docs returned **");
-		for (int i = 0; i < matches.length; i++) {
-			Document doc = is.doc(matches[i].doc);
-			System.out.println((i + 1) + ". " + doc.get("title") + "(" + matches[i].doc + ")" + "  " + matches[i].score);
-		}
-		System.out.println();
-	}
-
-	private class OptionScore {
-		int option;
-		double score;
-
-		private OptionScore(int option, double score) {
-			this.option = option;
-			this.score = score;
-		}
-	}
 }

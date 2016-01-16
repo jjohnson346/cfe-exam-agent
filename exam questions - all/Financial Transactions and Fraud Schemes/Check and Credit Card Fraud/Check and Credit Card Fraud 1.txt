@@ -2,7 +2,7 @@ Section=Check and Credit Card Fraud
 
 Stem=A form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder is called which of the following?
 
-Options=Credit doctor fraud | True name fraud | Non-receipt fraud | None of the above
+Options=Credit doctor fraud | True name fraud | Nonreceipt fraud | None of the above
 
 CorrectResponse=2
 
