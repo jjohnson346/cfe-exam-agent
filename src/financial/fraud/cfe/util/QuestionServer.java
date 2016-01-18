@@ -193,7 +193,10 @@ public class QuestionServer {
 
 		// definition/none of above questions:
 		// QuestionServer qs = new QuestionServer("exam questions - training set", 68);
-		QuestionServer qs = new QuestionServer("exam questions - test set",68);
+		// QuestionServer qs = new QuestionServer("exam questions - test set",68);
+
+		// definition/not questions:
+		QuestionServer qs = new QuestionServer("exam questions - training set", 6);
 
 		Scanner input = new Scanner(System.in);
 
@@ -204,6 +207,7 @@ public class QuestionServer {
 			System.out.println("Question " + ++count + " of " + qs.size() + ":");
 			System.out.println(q);
 			System.out.println(q.getFormattedCorrectResponse());
+			System.out.println();
 			// input.nextLine();
 		}
 		System.out.println("count: " + count);

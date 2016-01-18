@@ -146,4 +146,9 @@ public class ConceptMatchV1 extends AbstractConceptMatch {
 			Logger.getInstance().printf(DetailLevel.FULL, "%s%s\n","Incorrect.  Correct answer: ", question.options.get(question.correctResponse));
 	}
 
+	@Override
+	public String toString() {
+		return "Concept Match V1";
+	}
+
 }

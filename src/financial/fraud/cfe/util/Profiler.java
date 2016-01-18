@@ -12,6 +12,7 @@ import financial.fraud.cfe.algorithm.CompositeFrequency;
 import financial.fraud.cfe.algorithm.ConceptMatchV1;
 import financial.fraud.cfe.algorithm.ConceptMatchV2;
 import financial.fraud.cfe.algorithm.ConceptMatchV3;
+import financial.fraud.cfe.algorithm.ConceptMatchV3NOT;
 import financial.fraud.cfe.algorithm.ConceptMatchV3NOTA;
 import financial.fraud.cfe.algorithm.FalseSelect;
 import financial.fraud.cfe.algorithm.IAlgorithm;
@@ -82,10 +83,11 @@ public class Profiler {
 		// cfeManual);
 		algos[AlgorithmType.COMP_FREQ.ordinal()] = new CompositeFrequency();
 
-		algos[AlgorithmType.CONCEPT_MATCH_V1.ordinal()] = new ConceptMatchV1();
-		algos[AlgorithmType.CONCEPT_MATCH_V2.ordinal()] = new ConceptMatchV2();
-		algos[AlgorithmType.CONCEPT_MATCH_V3.ordinal()] = new ConceptMatchV3();
-		algos[AlgorithmType.CONCEPT_MATCH_V3_NOTA.ordinal()] = new ConceptMatchV3NOTA();
+		algos[AlgorithmType.CM_V1.ordinal()] = new ConceptMatchV1();
+		algos[AlgorithmType.CM_V2.ordinal()] = new ConceptMatchV2();
+		algos[AlgorithmType.CM_V3.ordinal()] = new ConceptMatchV3();
+		algos[AlgorithmType.CM_V3_NOTA.ordinal()] = new ConceptMatchV3NOTA();
+		algos[AlgorithmType.CM_V3_NOT.ordinal()] = new ConceptMatchV3NOT();
 
 		algos[AlgorithmType.RANDOM.ordinal()] = new Randomization();
 
@@ -148,49 +150,42 @@ public class Profiler {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// ArrayList<CFEExamQuestion> questions = new
-		// ArrayList<CFEExamQuestion>();
-		//
-		// questions.add(new
-		// CFEExamQuestion("Exam Questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 9.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 10.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 11.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 12.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 13.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 14.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 15.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 16.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 17.txt"));
-		// questions.add(new
-		// CFEExamQuestion("exam questions\\Financial Transactions and Fraud Schemes\\Health Care Fraud\\Health Care Fraud 18.txt"));
-		//
-		// QuestionServer qs = new QuestionServer(questions);
 
 		Logger logger = Logger.getInstance();
 		logger.addDestination("logs" + File.separator + "profiler.log");
 		logger.setDetailLevel(DetailLevel.MEDIUM);
+		
 		QuestionServer qs = new QuestionServer("exam questions - training set");
 		// QuestionServer qs = new QuestionServer("exam questions - test set");
 		// QuestionServer qs = new QuestionServer("exam questions - all");
+		
 		Profiler profiler = new Profiler(logger);
 		ProfileData pd = profiler.profile(qs);
 		pd.calculate();
 
-		// print profile data.
-		System.out.println(pd);
+		// print summarized profile data.
+		System.out.println(pd.summarize());
 
 		// save profile data to file.
+
+		// first, save raw data to file.  retrieved by calling the toString() method on
+		// profile data object.  This serves as the source for the agent to retrieve the 
+		// profile data when taking an exam.
 		try {
-			Formatter output = new Formatter("profile data" + File.separator + "profile data.txt");
+			Formatter output = new Formatter("profile data" + File.separator + "profile.data.txt");
 			output.format("%s", pd);
+			output.flush();
+			output.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
+		// next, save the formatted data to a file.  this data is pre-formatted for analysis, with
+		// true-false questions broken out from multiple choice questions, and summarized as it formerly
+		// was in an excel spreadsheet (for versions prior to 2.0.1).
+		try {
+			Formatter output = new Formatter("profile data" + File.separator + "profile.data.summarized.txt");
+			output.format("%s", pd.summarize());
 			output.flush();
 			output.close();
 		} catch (FileNotFoundException e) {

@@ -88,7 +88,7 @@ public class CFEExamQuestion {
 		// in this constructor. This is low priority because this constructor is not currently used,
 		// only the other constructor which constructs the question from a question file (and uses the
 		// name of the file) is currently being used to create question objects.
-		name = "Test " + ((int)(Math.random() * 100) + 1);
+		name = "Test " + ((int) (Math.random() * 100) + 1);
 
 		// instantiate a Profile object, passing to its constructor the question
 		// object. The Profile constructor determines the profile to the question
@@ -205,11 +205,11 @@ public class CFEExamQuestion {
 
 		return sb.toString();
 	}
-	
+
 	public String getSourcePage() {
 		Pattern p = Pattern.compile("\\d\\.\\d{3}");
 		Matcher m = p.matcher(explanation);
-		if(m.find())
+		if (m.find())
 			return m.group();
 		else
 			return "no source page found in explanation.";
@@ -245,7 +245,10 @@ public class CFEExamQuestion {
 	 * @return a string containing the formatted text of the option
 	 */
 	public String getFormattedResponse(int response) {
-		return String.format("%s%s%s", (char) (response + 97), ") ", options.get(response));
+		if (response == -1)
+			return "no response submitted by this algorithm. (Value returned = -1.)";
+		else
+			return String.format("%s%s%s", (char) (response + 97), ") ", options.get(response));
 	}
 
 	/**
@@ -275,7 +278,7 @@ public class CFEExamQuestion {
 		if (!(o instanceof CFEExamQuestion))
 			return false;
 
-		CFEExamQuestion q = (CFEExamQuestion)o;
+		CFEExamQuestion q = (CFEExamQuestion) o;
 		if (stem.equals(q.stem) && options.equals(q.options))
 			return true;
 		else
@@ -296,33 +299,35 @@ public class CFEExamQuestion {
 	 * test harness to verify that questions can be compared using equals() and according to hashCode() appropriately.
 	 */
 	public static void main(String[] args) {
-		List<String> options = Arrays.asList(new String[]{"a", "b", "c", "d"});
-		List<String> trueFalse = Arrays.asList(new String[]{"true", "false"});
-		CFEExamQuestion q1 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", trueFalse, 0, "obvious");
-		CFEExamQuestion q2 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", trueFalse, 0, "obvious");
-		CFEExamQuestion q3 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", options, 0, "obvious");
+		List<String> options = Arrays.asList(new String[] { "a", "b", "c", "d" });
+		List<String> trueFalse = Arrays.asList(new String[] { "true", "false" });
+		CFEExamQuestion q1 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", trueFalse, 0,
+				"obvious");
+		CFEExamQuestion q2 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", trueFalse, 0,
+				"obvious");
+		CFEExamQuestion q3 = new CFEExamQuestion("Common Sense", "Does a bear crap in the woods?", options, 0,
+				"obvious");
 		CFEExamQuestion q4 = new CFEExamQuestion("Common Sense", "What is 1 + 1?", options, 0, "2");
-		
+
 		System.out.println("q1.equals(q2) should be true: " + q1.equals(q2));
 		System.out.println("q1.equals(q3) should be false: " + q1.equals(q3));
 		System.out.println("q1.equals(q4) should be false: " + q1.equals(q4));
-		
+
 		HashSet<CFEExamQuestion> questionSet = new HashSet<CFEExamQuestion>();
 		questionSet.add(q1);
 		questionSet.add(q2);
 		questionSet.add(q3);
 		questionSet.add(q4);
-		
+
 		// this print out should show only three entries output because of the override of equals().
-		System.out.println(questionSet); 
-		
+		System.out.println(questionSet);
+
 		// hash codes for q1 and q2 should be equal, and for should be different from those of
 		// q3 and q4 (which should be different from each other).
 		System.out.println("q1.hashCode(): " + q1.hashCode());
 		System.out.println("q1.hashCode(): " + q2.hashCode());
 		System.out.println("q1.hashCode(): " + q3.hashCode());
 		System.out.println("q1.hashCode(): " + q4.hashCode());
-		
-		
+
 	}
 }

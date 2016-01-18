@@ -254,5 +254,10 @@ public class ConceptMatchV2 extends AbstractConceptMatch {
 			Logger.getInstance().printf(DetailLevel.FULL, "%s\n","Manual page: " + question.getSourcePage());
 		}
 	}
-	
+
+	@Override
+	public String toString() {
+		return "Composite Match V2";
+	}
+
 }

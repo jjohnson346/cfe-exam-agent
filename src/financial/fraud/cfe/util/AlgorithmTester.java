@@ -3,7 +3,7 @@ package financial.fraud.cfe.util;
 import java.util.Scanner;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
-import financial.fraud.cfe.algorithm.ConceptMatchV3;
+import financial.fraud.cfe.algorithm.ConceptMatchV3NOT;
 import financial.fraud.cfe.algorithm.IAlgorithm;
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
@@ -105,7 +105,7 @@ public class AlgorithmTester {
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3());
 
 		// conceptmatchV3 on profile 4 (def) on training set: accuracy: 121 out of 196 (61.7%)
-		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV3());
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV3());
 
 		// ConceptMatchV3NOTA on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3NOTA());
@@ -120,6 +120,13 @@ public class AlgorithmTester {
 		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on training set: accuracy: 107 out of 169 (63.3%)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new
 		// ConceptMatchV3NOTA());
+
+		// ConceptMatchV3NOT on profile 6 (def/not) on training set: accuracy: 12 out of 27 (44.4%)
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 6, new
+		// ConceptMatchV3NOT());
+
+		// ConceptMatchV3NOT on profile 36 (def/not) on training set: accuracy: 1 out of 12 (8.3%)
+		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 36, new ConceptMatchV3NOT());
 
 		algoTester.start(false);
 	}

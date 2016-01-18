@@ -124,7 +124,7 @@ public class ProfileData {
 		// Scanner scanner = new Scanner(new
 		// File("profile data\\profile data.txt"));
 		Scanner scanner = new Scanner(
-				new File("profile data//profile data.txt"));
+				new File("profile data//profile.data.txt"));
 
 		// skip first 2 header lines.
 		scanner.nextLine();
@@ -144,16 +144,55 @@ public class ProfileData {
 		scanner.close();
 	}
 
+	@Override
+	public String toString() {
+		StringBuilder sb = new StringBuilder();
+
+		final int COLUMN_WIDTH = 14;
+		String formatString = "%" + COLUMN_WIDTH + "s";
+
+		// make header.
+		sb.append(String.format(formatString, "Index"));
+		sb.append(String.format(formatString, "Trials"));
+
+		for (AlgorithmType t : AlgorithmType.values()) {
+			sb.append(String.format(formatString, t));
+		}
+		sb.append("\n");
+		for (int i = 0; i < AlgorithmType.values().length + 2; i++)
+			sb.append(String.format(formatString, "-------------"));
+		sb.append("\n");
+
+		// display values.
+		for (int i = 0; i < NUM_FEATURE_COMBOS; i++) {
+			sb.append(String.format(formatString, i));
+			sb.append(String.format(formatString, trialCounts[i]));
+
+			for (int j = 0; j < AlgorithmType.values().length; j++) {
+				sb.append(String.format("%" + COLUMN_WIDTH + ".3f", successProbs[i][j]));
+			}
+			sb.append("\n");
+		}
+
+		// display total trial count
+		int totalCount = 0;
+		for (int i = 0; i < trialCounts.length; i++) {
+			totalCount += trialCounts[i];
+		}
+		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH + "d\n", "Total Count:", totalCount));
+
+		return new String(sb);
+	}
+
 	/**
 	 * returns a pretty formatted version of the contents of number of trials
 	 * and successProb for each question profile.
 	 */
-	@Override
-	public String toString() {
+	public String summarize() {
 		StringBuilder sb = new StringBuilder();
-		sb.append(toStringTrueFalse());
+		sb.append(summarizeTrueFalse());
 		sb.append("\n\n");
-		sb.append(toStringMultipleChoice());
+		sb.append(summarizeMultipleChoice());
 		return new String(sb);
 //		StringBuilder sb = new StringBuilder();
 //
@@ -205,10 +244,10 @@ public class ProfileData {
 	}
 	
 	
-	private String toStringMultipleChoice() {
+	private String summarizeMultipleChoice() {
 		StringBuilder sb = new StringBuilder();
 
-		final int COLUMN_WIDTH = 22;
+		final int COLUMN_WIDTH = 14;
 		String formatString = "%" + COLUMN_WIDTH + "s";
 
 		// make header.
@@ -223,7 +262,7 @@ public class ProfileData {
 		sb.append(String.format(formatString, "Description"));
 		sb.append("\n");
 		for (int i = 0; i < AlgorithmType.values().length + 4; i++)
-			sb.append(String.format(formatString, "---------------------"));
+			sb.append(String.format(formatString, "-------------"));
 		sb.append("\n");
 
 		int totalCount = 0;		// for displaying the total count at the bottom.
@@ -255,16 +294,16 @@ public class ProfileData {
 
 		// display total trial count
 		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
-				+ "d%" + COLUMN_WIDTH * 13 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
+				+ "d%" + COLUMN_WIDTH * 14 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
 
 		return new String(sb);
 		
 	}
 	
-	private String toStringTrueFalse() {
+	private String summarizeTrueFalse() {
 		StringBuilder sb = new StringBuilder();
 
-		final int COLUMN_WIDTH = 22;
+		final int COLUMN_WIDTH = 14;
 		String formatString = "%" + COLUMN_WIDTH + "s";
 
 		// make header.
@@ -279,7 +318,7 @@ public class ProfileData {
 		sb.append(String.format(formatString, "Description"));
 		sb.append("\n");
 		for (int i = 0; i < AlgorithmType.values().length + 4; i++)
-			sb.append(String.format(formatString, "---------------------"));
+			sb.append(String.format(formatString, "-------------"));
 		sb.append("\n");
 
 		int totalCount = 0;		// for displaying the total count at the bottom.
@@ -313,7 +352,7 @@ public class ProfileData {
 //		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
 //				+ "d\n", "Total Count:", totalCount));
 		sb.append(String.format("%" + COLUMN_WIDTH + "s%" + COLUMN_WIDTH
-				+ "d%" + COLUMN_WIDTH * 13 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
+				+ "d%" + COLUMN_WIDTH * 14 + "s%" + COLUMN_WIDTH + ".3f\n", "Total Count:", totalCount, " ", weightedAgentAccuracy));
 
 		return new String(sb);
 		
@@ -326,6 +365,23 @@ public class ProfileData {
 				max = successProbs[i];
 		}
 		return max;
+	}
+	
+	public static void main(String[] args) {
+		ProfileData pd = new ProfileData();
+		
+		try {
+			pd.load();
+			for(int i = 0; i < pd.NUM_FEATURE_COMBOS; i++) {
+				for(int j = 0; j < pd.NUM_ALGOS; j++) {
+					System.out.printf("%7.3f", pd.successProbs[i][j]);
+				}
+				System.out.println();
+			}
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
 	}
 	
 	

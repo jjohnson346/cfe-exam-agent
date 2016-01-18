@@ -306,4 +306,9 @@ public class ConceptMatchV3NOTA extends AbstractConceptMatch {
 		}
 	}
 
+	@Override
+	public String toString() {
+		return "Composite Match V3 NOTA";
+	}
+
 }

@@ -7,6 +7,11 @@ import financial.fraud.cfe.algorithm.AlgorithmType;
 import financial.fraud.cfe.algorithm.AllOfTheAbove;
 import financial.fraud.cfe.algorithm.BagOfWords;
 import financial.fraud.cfe.algorithm.CompositeFrequency;
+import financial.fraud.cfe.algorithm.ConceptMatchV1;
+import financial.fraud.cfe.algorithm.ConceptMatchV2;
+import financial.fraud.cfe.algorithm.ConceptMatchV3;
+import financial.fraud.cfe.algorithm.ConceptMatchV3NOT;
+import financial.fraud.cfe.algorithm.ConceptMatchV3NOTA;
 import financial.fraud.cfe.algorithm.FalseSelect;
 import financial.fraud.cfe.algorithm.IAlgorithm;
 import financial.fraud.cfe.algorithm.IAlgorithmFrequency;
@@ -90,6 +95,13 @@ public class CFEExamAgent {
 			// CompositeFrequency(
 			// cfeManual);
 			algos[AlgorithmType.COMP_FREQ.ordinal()] = new CompositeFrequency();
+
+			algos[AlgorithmType.CM_V1.ordinal()] = new ConceptMatchV1();
+			algos[AlgorithmType.CM_V2.ordinal()] = new ConceptMatchV2();
+			algos[AlgorithmType.CM_V3.ordinal()] = new ConceptMatchV3();
+			algos[AlgorithmType.CM_V3_NOTA.ordinal()] = new ConceptMatchV3NOTA();
+			algos[AlgorithmType.CM_V3_NOT.ordinal()] = new ConceptMatchV3NOT();
+
 			algos[AlgorithmType.RANDOM.ordinal()] = new Randomization();
 
 			// load profile data upon which to base algo selections.

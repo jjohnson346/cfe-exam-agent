@@ -103,6 +103,11 @@ public class AbstractConceptMatch implements IAlgorithm {
 			this.option = option;
 			this.score = score;
 		}
+		
+		@Override
+		public String toString() {
+			return "option: " + option + " score: " + score;
+		}
 	}
 
 
