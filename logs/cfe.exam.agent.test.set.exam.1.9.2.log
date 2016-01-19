@@ -16676,7 +16676,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-17. Computer and Internet Fraud 10 (1)
+17. Computer and Internet Fraud 10
 
 Computer and Internet Fraud
 
@@ -16698,29 +16698,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-18. Computer and Internet Fraud 10
-
-Computer and Internet Fraud
-
-Internet scams have become very prevalent due, in part, to the fact that the Internet is poorly regulated and policed.
-
-a) True
-b) False
-
-Question profile index: 8
-              All of the Above:      0.000
-                   True Select:      0.587
-                  False Select:      0.413
-                  MaxFrequency:      0.000
-                   MaxFreqPlus:      0.000
-                  MinFrequency:      0.000
-                  Bag Of Words:      0.000
-           Composite Frequency:      0.000
-                        Random:      0.533
-Algorithm selected: True Select
-Agent response:  a) True -- CORRECT.
-
-19. Computer and Internet Fraud 16
+18. Computer and Internet Fraud 16
 
 Computer and Internet Fraud
 
@@ -16744,7 +16722,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-20. Computer and Internet Fraud 31
+19. Computer and Internet Fraud 31
 
 Computer and Internet Fraud
 
@@ -16802,7 +16780,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Security software packages -- INCORRECT. (Correct answer:  a) Elimination of as many dial-in ports as possible)
 
-21. Computer and Internet Fraud 35
+20. Computer and Internet Fraud 35
 
 Computer and Internet Fraud
 
@@ -16845,7 +16823,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) System software controls -- INCORRECT. (Correct answer:  c) Computer operations controls	| Data file controls)
 
-22. Computer and Internet Fraud 40 (1)
+21. Computer and Internet Fraud 40
 
 Computer and Internet Fraud
 
@@ -16901,63 +16879,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
 
-23. Computer and Internet Fraud 40
-
-Computer and Internet Fraud
-
-All but which of the following are anti-hacker measures?
-
-a) Communication software that disconnects after no less than ten unsuccessful attempts
-b) Encryption for sensitive data files
-c) Changing default passv/ords on purchased software packages
-d) Passwords of sufficient length to prevent "guessing"
-
-Question profile index: 1
-              All of the Above:      0.000
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.294
-                   MaxFreqPlus:      0.294
-                  MinFrequency:      0.311
-                  Bag Of Words:      0.316
-           Composite Frequency:      0.316
-                        Random:      0.305
-Question section: Computer and Internet Fraud
-communication: 16
-software: 71
-that: 322
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-encryption: 23
-for: 210
-sensitive: 15
-data: 121
-files: 73
-Total Frequency for Option: 6.3995085E8
-Geom Mean Frequency: 57.707109850304775
-changing: 3
-default: 2
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-passwords: 30
-of: 736
-sufficient: 4
-length: 4
-to: 777
-prevent: 13
-guessing: 2
-Total Frequency for Option: 7.13696256E9
-Geom Mean Frequency: 25.56493978096913
-Algorithm selected: Bag Of Words
-                                                                               Phrase           Frequency
- Communication software that disconnects after no less than ten unsuccessful attempts              0.000
-                                                  Encryption for sensitive data files             57.707
-                           Changing default passv/ords on purchased software packages              0.000
-                                 Passwords of sufficient length to prevent "guessing"             25.565
-
-Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
-
-24. Computer and Internet Fraud 5
+22. Computer and Internet Fraud 5
 
 Computer and Internet Fraud
 
@@ -17039,7 +16961,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Gaining information about a system using deception, such as someone else's password -- INCORRECT. (Correct answer:  c) Covert placement of instructions which causes the computer to perform unauthorized functions but allows other programs to work normally‰??)
 
-25. Consumer Fraud 10
+23. Consumer Fraud 10
 
 Consumer Fraud
 
@@ -17061,7 +16983,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-26. Consumer Fraud 20
+24. Consumer Fraud 20
 
 Consumer Fraud
 
@@ -17101,7 +17023,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Round robin -- INCORRECT. (Correct answer:  c) Pure cash pyramid scheme)
 
-27. Consumer Fraud 26
+25. Consumer Fraud 26
 
 Consumer Fraud
 
@@ -17125,7 +17047,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-28. Consumer Fraud 28
+26. Consumer Fraud 28
 
 Consumer Fraud
 
@@ -17147,7 +17069,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-29. Consumer Fraud 29
+27. Consumer Fraud 29
 
 Consumer Fraud
 
@@ -17187,7 +17109,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Real estate scams -- INCORRECT. (Correct answer:  b) Telemarketing scams)
 
-30. Consumer Fraud 35
+28. Consumer Fraud 35
 
 Consumer Fraud
 
@@ -17209,7 +17131,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-31. Consumer Fraud 6
+29. Consumer Fraud 6
 
 Consumer Fraud
 
@@ -17249,7 +17171,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Fronters -- INCORRECT. (Correct answer:  a) Turnkeys)
 
-32. Contract and Procurement Fraud 14
+30. Contract and Procurement Fraud 14
 
 Contract and Procurement Fraud
 
@@ -17289,7 +17211,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Labor mischarges -- INCORRECT. (Correct answer:  a) Product substitution schemes)
 
-33. Contract and Procurement Fraud 3
+31. Contract and Procurement Fraud 3
 
 Contract and Procurement Fraud
 
@@ -17329,7 +17251,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Bid submission schemes -- CORRECT.
 
-34. Contract and Procurement Fraud 4
+32. Contract and Procurement Fraud 4
 
 Contract and Procurement Fraud
 
@@ -17382,7 +17304,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Wide disparity in bid prices -- INCORRECT. (Correct answer:  c) Successful bidder consulting with buyer in need recognition stage)
 
-35. Financial Institution Fraud 16
+33. Financial Institution Fraud 16
 
 Financial Institution Fraud
 
@@ -17412,7 +17334,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Customer requests a large number of temporary checks -- INCORRECT. (Correct answer:  d) Customer requests two ATM cards)
 
-36. Financial Institution Fraud 24
+34. Financial Institution Fraud 24
 
 Financial Institution Fraud
 
@@ -17463,7 +17385,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Paying off the old loan with proceeds from a new loan -- INCORRECT. (Correct answer:  d) Both charging the loan off as a bad loan and paying off the old loan with proceeds from a new loan)
 
-37. Financial Institution Fraud 32
+35. Financial Institution Fraud 32
 
 Financial Institution Fraud
 
@@ -17523,7 +17445,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The original project is not feasible. -- INCORRECT. (Correct answer:  c) Design changes were requested)
 
-38. Financial Institution Fraud 4
+36. Financial Institution Fraud 4
 
 Financial Institution Fraud
 
@@ -17547,7 +17469,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-39. Financial Statement Fraud 13
+37. Financial Statement Fraud 13
 
 Financial Statement Fraud
 
@@ -17587,7 +17509,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Vertical analysis -- CORRECT.
 
-40. Financial Statement Fraud 6
+38. Financial Statement Fraud 6
 
 Financial Statement Fraud
 
@@ -17609,7 +17531,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-41. Financial Statement Fraud 9
+39. Financial Statement Fraud 9
 
 Financial Statement Fraud
 
@@ -17649,7 +17571,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Disbursement/recovery method -- INCORRECT. (Correct answer:  c) Percentage-of-completion method)
 
-42. Fraudulent Disbursements 19
+40. Fraudulent Disbursements 19
 
 Fraudulent Disbursements
 
@@ -17689,7 +17611,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) An authorized maker scheme -- INCORRECT. (Correct answer:  b) A forged maker scheme)
 
-43. Fraudulent Disbursements 20
+41. Fraudulent Disbursements 20
 
 Fraudulent Disbursements
 
@@ -17770,7 +17692,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Those who prepare the payroll, also review and sign all payroll checks -- CORRECT.
 
-44. Fraudulent Disbursements 23
+42. Fraudulent Disbursements 23
 
 Fraudulent Disbursements
 
@@ -17810,7 +17732,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Revenue -- INCORRECT. (Correct answer:  b) Travel and entertainment expenses)
 
-45. Fraudulent Disbursements 40
+43. Fraudulent Disbursements 40
 
 Fraudulent Disbursements
 
@@ -17878,7 +17800,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Review payroll records for duplicate addresses or deposit accounts -- INCORRECT. (Correct answer:  d) Compare the disbursement date of trust account taxes with the deposit date)
 
-46. Fraudulent Disbursements 46
+44. Fraudulent Disbursements 46
 
 Fraudulent Disbursements
 
@@ -17902,7 +17824,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-47. Fraudulent Disbursements 48
+45. Fraudulent Disbursements 48
 
 Fraudulent Disbursements
 
@@ -17942,7 +17864,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Ghost employee scheme -- CORRECT.
 
-48. Health Care Fraud 1
+46. Health Care Fraud 1
 
 Health Care Fraud
 
@@ -17964,7 +17886,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-49. Health Care Fraud 14
+47. Health Care Fraud 14
 
 Health Care Fraud
 
@@ -17986,7 +17908,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-50. Health Care Fraud 21
+48. Health Care Fraud 21
 
 Health Care Fraud
 
@@ -18008,7 +17930,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-51. Health Care Fraud 30
+49. Health Care Fraud 30
 
 Health Care Fraud
 
@@ -18032,7 +17954,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-52. Health Care Fraud 8
+50. Health Care Fraud 8
 
 Health Care Fraud
 
@@ -18056,7 +17978,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-53. Insurance Fraud 13
+51. Insurance Fraud 13
 
 Insurance Fraud
 
@@ -18096,7 +18018,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Sliding -- CORRECT.
 
-54. Insurance Fraud 14
+52. Insurance Fraud 14
 
 Insurance Fraud
 
@@ -18136,7 +18058,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Churning -- INCORRECT. (Correct answer:  b) External frauds)
 
-55. Insurance Fraud 3
+53. Insurance Fraud 3
 
 Insurance Fraud
 
@@ -18160,7 +18082,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of agent/broker fraud schemes -- CORRECT.
 
-56. Introduction to Fraud Examination 1
+54. Introduction to Fraud Examination 1
 
 Introduction to Fraud Examination
 
@@ -18190,7 +18112,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Analyze the available data -- INCORRECT. (Correct answer:  d) Report hypothesis to management)
 
-57. Introduction to Fraud Examination 14
+55. Introduction to Fraud Examination 14
 
 Introduction to Fraud Examination
 
@@ -18230,7 +18152,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The initial phase of the interview -- INCORRECT. (Correct answer:  b) The basis upon which a fraud examination is undertaken)
 
-58. Introduction to Fraud Examination 23
+56. Introduction to Fraud Examination 23
 
 Introduction to Fraud Examination
 
@@ -18252,7 +18174,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-59. Inventory and Other Assets 13
+57. Inventory and Other Assets 13
 
 Inventory and Other Assets
 
@@ -18274,7 +18196,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-60. Inventory and Other Assets 23
+58. Inventory and Other Assets 23
 
 Inventory and Other Assets
 
@@ -18314,7 +18236,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Larceny scheme -- INCORRECT. (Correct answer:  a) Purchasing and receiving scheme)
 
-61. Inventory and Other Assets 3
+59. Inventory and Other Assets 3
 
 Inventory and Other Assets
 
@@ -18336,7 +18258,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-62. Inventory and Other Assets 8
+60. Inventory and Other Assets 8
 
 Inventory and Other Assets
 
@@ -18358,7 +18280,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-63. Manager's and Auditor's Responsibilities 16
+61. Manager's and Auditor's Responsibilities 16
 
 Manager's and Auditor's Responsibilities
 
@@ -18419,7 +18341,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Effectiveness and efficiency of operations -- INCORRECT. (Correct answer:  c) Sale of assets)
 
-64. Manager's and Auditor's Responsibilities 29 (1)
+62. Manager's and Auditor's Responsibilities 29
 
 Manager's and Auditor's Responsibilities
 
@@ -18443,31 +18365,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
 
-65. Manager's and Auditor's Responsibilities 29
-
-Manager's and Auditor's Responsibilities
-
-Which of the following is a requirement regarding internal control over financial reporting (ICOFR) under the Sarbanes-Oxley Act?
-
-a) Management must acknowledge its responsibility for establishing and maintaining adequate ICOFR
-b) Management must identify the framework used in performing its assessment of ICOFR
-c) The auditor must issue an opinion on management's assessment of the ICOFR
-d) All of the above are requirements regarding ICOFR
-
-Question profile index: 65
-              All of the Above:      0.843
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.101
-                   MaxFreqPlus:      0.101
-                  MinFrequency:      0.090
-                  Bag Of Words:      0.618
-           Composite Frequency:      0.618
-                        Random:      0.180
-Algorithm selected: All of the Above
-Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
-
-66. Manager's and Auditor's Responsibilities 9
+63. Manager's and Auditor's Responsibilities 9
 
 Manager's and Auditor's Responsibilities
 
@@ -18489,7 +18387,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-67. Managers and Auditors Responsibilities 3
+64. Managers and Auditors Responsibilities 3
 
 Manager's and Auditor's Responsibilities
 
@@ -18511,7 +18409,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-68. Money Laundering 22
+65. Money Laundering 22
 
 Money Laundering
 
@@ -18533,7 +18431,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-69. Money Laundering 26
+66. Money Laundering 26
 
 Money Laundering
 
@@ -18573,7 +18471,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  d) Reporting -- INCORRECT. (Correct answer:  b) Paper trail)
 
-70. Money Laundering 5
+67. Money Laundering 5
 
 Money Laundering
 
@@ -18639,7 +18537,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Designation of a money laundering compliance officer -- INCORRECT. (Correct answer:  c) Inclusion of a $10,000 limit on all wire transfers)
 
-71. Money Laundering 6
+68. Money Laundering 6
 
 Money Laundering
 
@@ -18661,7 +18559,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-72. Public Sector Fraud 13
+69. Public Sector Fraud 13
 
 Public Sector Fraud
 
@@ -18727,7 +18625,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The false statement need not be made directly to the governmental agency -- INCORRECT. (Correct answer:  b) The government must prove that it suffered a loss)
 
-73. Public Sector Fraud 2
+70. Public Sector Fraud 2
 
 Public Sector Fraud
 
@@ -18764,7 +18662,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Theft -- CORRECT.
 
-74. Public Sector Fraud 6
+71. Public Sector Fraud 6
 
 Public Sector Fraud
 
@@ -18786,7 +18684,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-75. Public Sector Fraud 7
+72. Public Sector Fraud 7
 
 Public Sector Fraud
 
@@ -18808,7 +18706,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-76. Securities Fraud 1
+73. Securities Fraud 1
 
 Securities Fraud
 
@@ -18857,7 +18755,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Blue Sky Registration Association -- INCORRECT. (Correct answer:  a) Central Registration Depository)
 
-77. Securities Fraud 12
+74. Securities Fraud 12
 
 Securities Fraud
 
@@ -18897,7 +18795,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Churning -- INCORRECT. (Correct answer:  c) Parking)
 
-78. Securities Fraud 15
+75. Securities Fraud 15
 
 Securities Fraud
 
@@ -18919,7 +18817,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-79. Securities Fraud 5
+76. Securities Fraud 5
 
 Securities Fraud
 
@@ -18941,7 +18839,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-80. Tax Fraud 12
+77. Tax Fraud 12
 
 Tax Fraud
 
@@ -18969,7 +18867,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Death of the taxpayer	| The taxpayer establishes that an objectively reasonable position was taken -- CORRECT.
 
-81. Tax Fraud 21
+78. Tax Fraud 21
 
 Tax Fraud
 
@@ -19017,7 +18915,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) What the IRS believes it can prove -- INCORRECT. (Correct answer:  b) Identity of the taxpayer)
 
-82. Tax Fraud 4
+79. Tax Fraud 4
 
 Tax Fraud
 
@@ -19069,7 +18967,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The amount paid back under the claim of right doctrinex -- INCORRECT. (Correct answer:  d) The amount stolen and paid back as an ordinary and necessary business expense)
 
-83. Theft of Intellectual Property 1
+80. Theft of Intellectual Property 1
 
 Theft of Intellectual Property
 
@@ -19123,7 +19021,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Detect the presence and location of technical surveillance equipment -- CORRECT.
 
-84. Theft of Intellectual Property 10
+81. Theft of Intellectual Property 10
 
 Theft of Intellectual Property
 
@@ -19145,7 +19043,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-85. Theft of Intellectual Property 14
+82. Theft of Intellectual Property 14
 
 Theft of Intellectual Property
 
@@ -19185,7 +19083,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Safeguarding proprietary information -- CORRECT.
 
-86. Criminology 11
+83. Criminology 11
 
 Criminology
 
@@ -19207,7 +19105,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-87. Criminology 12
+84. Criminology 12
 
 Criminology
 
@@ -19229,7 +19127,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-88. Ethics for Fraud Examiners 1
+85. Ethics for Fraud Examiners 1
 
 Ethics for Fraud Examiners
 
@@ -19251,7 +19149,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-89. Ethics for Fraud Examiners 15
+86. Ethics for Fraud Examiners 15
 
 Ethics for Fraud Examiners
 
@@ -19273,7 +19171,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-90. Ethics for Fraud Examiners 28
+87. Ethics for Fraud Examiners 28
 
 Ethics for Fraud Examiners
 
@@ -19295,7 +19193,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-91. Ethics for Fraud Examiners 30
+88. Ethics for Fraud Examiners 30
 
 Ethics for Fraud Examiners
 
@@ -19317,7 +19215,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-92. Ethics for Fraud Examiners 5
+89. Ethics for Fraud Examiners 5
 
 Ethics for Fraud Examiners
 
@@ -19339,7 +19237,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-93. Fraud Prevention Programs 10
+90. Fraud Prevention Programs 10
 
 Fraud Prevention Programs
 
@@ -19397,7 +19295,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Any of the above -- CORRECT.
 
-94. Fraud Prevention Programs 12
+91. Fraud Prevention Programs 12
 
 Fraud Prevention Programs
 
@@ -19419,7 +19317,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-95. Fraud Prevention Programs 21
+92. Fraud Prevention Programs 21
 
 Fraud Prevention Programs
 
@@ -19475,7 +19373,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Establishment of a code of ethics -- INCORRECT. (Correct answer:  b) Lenient disciplinary measures)
 
-96. Fraud Prevention Programs 26
+93. Fraud Prevention Programs 26
 
 Fraud Prevention Programs
 
@@ -19497,7 +19395,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-97. Fraud Prevention Programs 27
+94. Fraud Prevention Programs 27
 
 Fraud Prevention Programs
 
@@ -19519,7 +19417,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-98. Fraud Prevention Programs 8
+95. Fraud Prevention Programs 8
 
 Fraud Prevention Programs
 
@@ -19543,7 +19441,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-99. Fraud Risk Assessment 15
+96. Fraud Risk Assessment 15
 
 Fraud Risk Assessment
 
@@ -19567,7 +19465,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-100. Fraud Risk Assessment 18
+97. Fraud Risk Assessment 18
 
 Fraud Risk Assessment
 
@@ -19589,7 +19487,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-101. Fraud Risk Assessment 21
+98. Fraud Risk Assessment 21
 
 Fraud Risk Assessment
 
@@ -19629,7 +19527,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Corruption -- CORRECT.
 
-102. Fraud Risk Assessment 34
+99. Fraud Risk Assessment 34
 
 Fraud Risk Assessment
 
@@ -19653,7 +19551,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-103. Fraud Risk Assessment 36
+100. Fraud Risk Assessment 36
 
 Fraud Risk Assessment
 
@@ -19675,7 +19573,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-104. Occupational Fraud 15
+101. Occupational Fraud 15
 
 Occupational Fraud
 
@@ -19715,7 +19613,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Rationalization -- CORRECT.
 
-105. Occupational Fraud 20
+102. Occupational Fraud 20
 
 Occupational Fraud
 
@@ -19755,7 +19653,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Edwin H. Sutherland -- INCORRECT. (Correct answer:  c) Donald R. Cressey)
 
-106. Occupational Fraud 26
+103. Occupational Fraud 26
 
 Occupational Fraud
 
@@ -19779,7 +19677,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are categories -- CORRECT.
 
-107. Occupational Fraud 3
+104. Occupational Fraud 3
 
 Occupational Fraud
 
@@ -19819,7 +19717,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Donald R. Cressey -- CORRECT.
 
-108. Occupational Fraud 8
+105. Occupational Fraud 8
 
 Occupational Fraud
 
@@ -19841,7 +19739,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-109. Organizational Crime 14
+106. Organizational Crime 14
 
 Organizational Crime
 
@@ -19863,7 +19761,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-110. Organizational Crime 2
+107. Organizational Crime 2
 
 Organizational Crime
 
@@ -19885,7 +19783,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-111. Organizational Crime 20
+108. Organizational Crime 20
 
 Organizational Crime
 
@@ -19909,7 +19807,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are approaches -- CORRECT.
 
-112. Organizational Crime 3
+109. Organizational Crime 3
 
 Organizational Crime
 
@@ -19931,7 +19829,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-113. Punishment 4
+110. Punishment 4
 
 Punishment
 
@@ -19953,7 +19851,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-114. Punishment 6
+111. Punishment 6
 
 Punishment
 
@@ -19975,7 +19873,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-115. White-Collar Crime 12
+112. White-Collar Crime 12
 
 White-Collar Crime
 
@@ -19997,7 +19895,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-116. White-Collar Crime 2
+113. White-Collar Crime 2
 
 White-Collar Crime
 
@@ -20019,7 +19917,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-117. Analyzing Documents 16
+114. Analyzing Documents 16
 
 Analyzing Documents
 
@@ -20059,7 +19957,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Chain of custody -- CORRECT.
 
-118. Analyzing Documents 4
+115. Analyzing Documents 4
 
 Analyzing Documents
 
@@ -20083,7 +19981,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-119. Analyzing Documents 8
+116. Analyzing Documents 8
 
 Analyzing Documents
 
@@ -20105,7 +20003,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-120. Covert Examinations 25
+117. Covert Examinations 25
 
 Covert Examinations
 
@@ -20129,7 +20027,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-121. Covert Examinations 37
+118. Covert Examinations 37
 
 Covert Examinations
 
@@ -20151,7 +20049,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-122. Covert Examinations 39
+119. Covert Examinations 39
 
 Covert Examinations
 
@@ -20191,7 +20089,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Covert -- INCORRECT. (Correct answer:  a) Mobile)
 
-123. Covert Examinations 5
+120. Covert Examinations 5
 
 Covert Examinations
 
@@ -20231,7 +20129,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Symbols -- CORRECT.
 
-124. Covert Examinations 7
+121. Covert Examinations 7
 
 Covert Examinations
 
@@ -20253,7 +20151,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-125. Data Analysis 10
+122. Data Analysis 10
 
 Data Analysis
 
@@ -20275,7 +20173,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-126. Data Analysis 16
+123. Data Analysis 16
 
 Data Analysis
 
@@ -20299,7 +20197,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-127. Data Analysis 2
+124. Data Analysis 2
 
 Data Analysis
 
@@ -20339,7 +20237,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Sort -- CORRECT.
 
-128. Data Analysis 8
+125. Data Analysis 8
 
 Data Analysis
 
@@ -20379,7 +20277,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Vertical analysis -- INCORRECT. (Correct answer:  b) Duplicate search)
 
-129. Digital Forensics 21
+126. Digital Forensics 21
 
 Digital Forensics
 
@@ -20403,7 +20301,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-130. Digital Forensics 24
+127. Digital Forensics 24
 
 Digital Forensics
 
@@ -20425,7 +20323,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-131. Digital Forensics 30
+128. Digital Forensics 30
 
 Digital Forensics
 
@@ -20447,7 +20345,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-132. Digital Forensics 31
+129. Digital Forensics 31
 
 Digital Forensics
 
@@ -20496,7 +20394,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Shut down the operating system normally -- INCORRECT. (Correct answer:  b) Unplug the computer immediately)
 
-133. Digital Forensics 7
+130. Digital Forensics 7
 
 Digital Forensics
 
@@ -20536,7 +20434,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Passwords -- CORRECT.
 
-134. Illicit Transactions 12
+131. Illicit Transactions 12
 
 Illicit Transactions
 
@@ -20611,7 +20509,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) It is difficult to trace the payments -- CORRECT.
 
-135. Illicit Transactions 22
+132. Illicit Transactions 22
 
 Illicit Transactions
 
@@ -20633,7 +20531,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-136. Illicit Transactions 25
+133. Illicit Transactions 25
 
 Illicit Transactions
 
@@ -20655,7 +20553,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-137. Illicit Transactions 35
+134. Illicit Transactions 35
 
 Illicit Transactions
 
@@ -20695,7 +20593,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The payment was made in cash (currency) -- CORRECT.
 
-138. Illicit Transactions 40
+135. Illicit Transactions 40
 
 Illicit Transactions
 
@@ -20735,7 +20633,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Deposit ticket -- INCORRECT. (Correct answer:  c) On-us item)
 
-139. Illicit Transactions 47
+136. Illicit Transactions 47
 
 Illicit Transactions
 
@@ -20775,7 +20673,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Third-party witnesses -- INCORRECT. (Correct answer:  b) The bank account records)
 
-140. Interview Theory and Application 29
+137. Interview Theory and Application 29
 
 Interview Theory and Application
 
@@ -20799,7 +20697,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of questions -- CORRECT.
 
-141. Interview Theory and Application 32
+138. Interview Theory and Application 32
 
 Interview Theory and Application
 
@@ -20861,7 +20759,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) At the very end of the interview -- INCORRECT. (Correct answer:  b) Well into the interview)
 
-142. Interview Theory and Application 34
+139. Interview Theory and Application 34
 
 Interview Theory and Application
 
@@ -20901,7 +20799,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Assessment -- INCORRECT. (Correct answer:  c) Calibrating)
 
-143. Interview Theory and Application 35
+140. Interview Theory and Application 35
 
 Interview Theory and Application
 
@@ -20941,7 +20839,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Review the key points discussed during the interview to ensure he has understood everything Alfred has said -- CORRECT.
 
-144. Interview Theory and Application 62
+141. Interview Theory and Application 62
 
 Interview Theory and Application
 
@@ -20981,7 +20879,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Verbal statements which illustrate a point -- INCORRECT. (Correct answer:  b) Motions made primarily with the hands to demonstrate a point)
 
-145. Interview Theory and Application 7
+142. Interview Theory and Application 7
 
 Interview Theory and Application
 
@@ -21021,7 +20919,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Trauma -- INCORRECT. (Correct answer:  d) None of the above)
 
-146. Interview Theory and Application 71
+143. Interview Theory and Application 71
 
 Interview Theory and Application
 
@@ -21061,7 +20959,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Gain time to frame his answer -- CORRECT.
 
-147. Interview Theory and Application 81
+144. Interview Theory and Application 81
 
 Interview Theory and Application
 
@@ -21101,7 +20999,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Trauma -- INCORRECT. (Correct answer:  b) Inferential confusion)
 
-148. Interview Theory and Application 84
+145. Interview Theory and Application 84
 
 Interview Theory and Application
 
@@ -21125,7 +21023,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above will affect the symptoms -- CORRECT.
 
-149. Interview Theory and Application 90
+146. Interview Theory and Application 90
 
 Interview Theory and Application
 
@@ -21147,7 +21045,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-150. Interviewing Suspects and Signed Statements 1
+147. Interviewing Suspects and Signed Statements 1
 
 Interviewing Suspects and Signed Statements
 
@@ -21187,7 +21085,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) "Did you spend everything?" -- INCORRECT. (Correct answer:  b) "What do you have left?")
 
-151. Interviewing Suspects and Signed Statements 12
+148. Interviewing Suspects and Signed Statements 12
 
 Interviewing Suspects and Signed Statements
 
@@ -21209,7 +21107,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-152. Interviewing Suspects and Signed Statements 20
+149. Interviewing Suspects and Signed Statements 20
 
 Interviewing Suspects and Signed Statements
 
@@ -21239,7 +21137,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) The location of any assets -- INCORRECT. (Correct answer:  d) That Blue's conduct was an accident)
 
-153. Interviewing Suspects and Signed Statements 32
+150. Interviewing Suspects and Signed Statements 32
 
 Interviewing Suspects and Signed Statements
 
@@ -21279,7 +21177,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) By subpoena -- INCORRECT. (Correct answer:  b) By written consent)
 
-154. Interviewing Suspects and Signed Statements 40
+151. Interviewing Suspects and Signed Statements 40
 
 Interviewing Suspects and Signed Statements
 
@@ -21341,7 +21239,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) "Of course you know. How much was it?" -- INCORRECT. (Correct answer:  a) "Was it as much as $600,000?)
 
-155. Sources of Information 10
+152. Sources of Information 10
 
 Sources of Information
 
@@ -21381,7 +21279,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) State of issue -- CORRECT.
 
-156. Sources of Information 15
+153. Sources of Information 15
 
 Sources of Information
 
@@ -21421,7 +21319,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Business credit reporting association -- INCORRECT. (Correct answer:  b) File-based credit reporting agency)
 
-157. Sources of Information 17
+154. Sources of Information 17
 
 Sources of Information
 
@@ -21443,7 +21341,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-158. Sources of Information 25
+155. Sources of Information 25
 
 Sources of Information
 
@@ -21483,7 +21381,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Probate court -- INCORRECT. (Correct answer:  d) None of the above)
 
-159. Sources of Information 42
+156. Sources of Information 42
 
 Sources of Information
 
@@ -21505,7 +21403,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-160. Written Reports 1
+157. Written Reports 1
 
 Written Reports
 
@@ -21545,7 +21443,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Opinions -- INCORRECT. (Correct answer:  a) Conclusions)
 
-161. Written Reports 12
+158. Written Reports 12
 
 Written Reports
 
@@ -21567,7 +21465,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-162. Written Reports 20
+159. Written Reports 20
 
 Written Reports
 
@@ -21607,7 +21505,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Matrix -- INCORRECT. (Correct answer:  b) Link network diagram)
 
-163. Civil Justice System 1
+160. Civil Justice System 1
 
 Civil Justice System
 
@@ -21647,7 +21545,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Filing of a complaint -- CORRECT.
 
-164. Civil Justice System 16
+161. Civil Justice System 16
 
 Civil Justice System
 
@@ -21687,7 +21585,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The CFE/client privilege -- INCORRECT. (Correct answer:  d) None of the above)
 
-165. Civil Justice System 22
+162. Civil Justice System 22
 
 Civil Justice System
 
@@ -21750,7 +21648,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Order a certain portion of the damages be remitted -- INCORRECT. (Correct answer:  c) Hear new evidence and render a verdict)
 
-166. Civil Justice System 28
+163. Civil Justice System 28
 
 Civil Justice System
 
@@ -21790,7 +21688,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Requests for admission -- INCORRECT. (Correct answer:  a) Requests to produce documents)
 
-167. Civil Justice System 7
+164. Civil Justice System 7
 
 Civil Justice System
 
@@ -21827,7 +21725,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Affidavit -- INCORRECT. (Correct answer:  a) Complaint	| Motion)
 
-168. Criminal Prosecutions for Fraud 23
+165. Criminal Prosecutions for Fraud 23
 
 Criminal Prosecutions for Fraud
 
@@ -21867,7 +21765,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) A peremptory challenge -- CORRECT.
 
-169. Criminal Prosecutions for Fraud 28
+166. Criminal Prosecutions for Fraud 28
 
 Criminal Prosecutions for Fraud
 
@@ -21889,7 +21787,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-170. Criminal Prosecutions for Fraud 31
+167. Criminal Prosecutions for Fraud 31
 
 Criminal Prosecutions for Fraud
 
@@ -21911,7 +21809,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-171. Criminal Prosecutions for Fraud 36
+168. Criminal Prosecutions for Fraud 36
 
 Criminal Prosecutions for Fraud
 
@@ -21951,7 +21849,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) All statements of witnesses made against him/her -- INCORRECT. (Correct answer:  c) All relevant statements made by him/her)
 
-172. Criminal Prosecutions for Fraud 39
+169. Criminal Prosecutions for Fraud 39
 
 Criminal Prosecutions for Fraud
 
@@ -21991,7 +21889,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The Brady plea -- INCORRECT. (Correct answer:  b) The Alford plea)
 
-173. Criminal Prosecutions for Fraud 58
+170. Criminal Prosecutions for Fraud 58
 
 Criminal Prosecutions for Fraud
 
@@ -22013,7 +21911,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-174. Criminal Prosecutions for Fraud 66
+171. Criminal Prosecutions for Fraud 66
 
 Criminal Prosecutions for Fraud
 
@@ -22053,7 +21951,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Peremptory challenge -- INCORRECT. (Correct answer:  b) Voir dire)
 
-175. Criminal Prosecutions for Fraud 73
+172. Criminal Prosecutions for Fraud 73
 
 Criminal Prosecutions for Fraud
 
@@ -22093,7 +21991,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Brady material -- CORRECT.
 
-176. Criminal Prosecutions for Fraud 77
+173. Criminal Prosecutions for Fraud 77
 
 Criminal Prosecutions for Fraud
 
@@ -22144,7 +22042,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Motion to dismiss -- INCORRECT. (Correct answer:  b) Motion to suppress evidence)
 
-177. Evidence 21
+174. Evidence 21
 
 Evidence
 
@@ -22184,7 +22082,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Circumstantial evidence -- INCORRECT. (Correct answer:  b) Hearsay evidence)
 
-178. Evidence 34
+175. Evidence 34
 
 Evidence
 
@@ -22224,7 +22122,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Circumstantial evidence -- CORRECT.
 
-179. Evidence 36
+176. Evidence 36
 
 Evidence
 
@@ -22246,7 +22144,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-180. Evidence 39
+177. Evidence 39
 
 Evidence
 
@@ -22268,7 +22166,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-181. Evidence 7
+178. Evidence 7
 
 Evidence
 
@@ -22308,7 +22206,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The best evidence rule -- CORRECT.
 
-182. Law Related to Fraud 20
+179. Law Related to Fraud 20
 
 Law Related to Fraud
 
@@ -22348,7 +22246,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Material -- CORRECT.
 
-183. Law Related to Fraud 24
+180. Law Related to Fraud 24
 
 Law Related to Fraud
 
@@ -22370,7 +22268,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-184. Law Related to Fraud 35
+181. Law Related to Fraud 35
 
 Law Related to Fraud
 
@@ -22422,7 +22320,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Knowledge of the statement's falsity -- INCORRECT. (Correct answer:  a) Negligence)
 
-185. Law Related to Fraud 45
+182. Law Related to Fraud 45
 
 Law Related to Fraud
 
@@ -22479,7 +22377,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The defendant knew the purpose of the agreement -- INCORRECT. (Correct answer:  c) The overt act was criminal in nature)
 
-186. Law Related to Fraud 47
+183. Law Related to Fraud 47
 
 Law Related to Fraud
 
@@ -22528,7 +22426,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) An intentional false statement -- INCORRECT. (Correct answer:  c) Uttered in a court of law)
 
-187. Law Related to Fraud 54
+184. Law Related to Fraud 54
 
 Law Related to Fraud
 
@@ -22568,7 +22466,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Obstruction of justice -- CORRECT.
 
-188. Law Related to Fraud 6
+185. Law Related to Fraud 6
 
 Law Related to Fraud
 
@@ -22608,7 +22506,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Bust -- INCORRECT. (Correct answer:  c) Bustout)
 
-189. Legal Rights of Employees 2
+186. Legal Rights of Employees 2
 
 Legal Rights of Employees
 
@@ -22648,7 +22546,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Cannot be given to prospective employees -- CORRECT.
 
-190. Legal Rights of Employees 21
+187. Legal Rights of Employees 21
 
 Legal Rights of Employees
 
@@ -22670,7 +22568,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-191. Legal Rights of Employees 23
+188. Legal Rights of Employees 23
 
 Legal Rights of Employees
 
@@ -22710,7 +22608,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Noncustodial -- CORRECT.
 
-192. Legal Rights of Employees 39
+189. Legal Rights of Employees 39
 
 Legal Rights of Employees
 
@@ -22732,7 +22630,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-193. Legal Rights of Employees 43
+190. Legal Rights of Employees 43
 
 Legal Rights of Employees
 
@@ -22772,7 +22670,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Fourth Amendment -- INCORRECT. (Correct answer:  d) Fifth Amendment)
 
-194. Legal Rights of Employees 7
+191. Legal Rights of Employees 7
 
 Legal Rights of Employees
 
@@ -22796,7 +22694,7 @@ Question profile index: 65
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-195. Overview of the Legal System 19
+192. Overview of the Legal System 19
 
 Overview of the Legal System
 
@@ -22836,7 +22734,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Beyond a reasonable doubt -- CORRECT.
 
-196. Overview of the Legal System 7
+193. Overview of the Legal System 7
 
 Overview of the Legal System
 
@@ -22858,7 +22756,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-197. Overview of the Legal System 8
+194. Overview of the Legal System 8
 
 Overview of the Legal System
 
@@ -22882,7 +22780,7 @@ Question profile index: 66
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-198. Testifying as an Expert Witness 13
+195. Testifying as an Expert Witness 13
 
 Testifying as an Expert Witness
 
@@ -22922,7 +22820,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Opinion -- INCORRECT. (Correct answer:  a) Fact)
 
-199. Testifying as an Expert Witness 14
+196. Testifying as an Expert Witness 14
 
 Testifying as an Expert Witness
 
@@ -22944,7 +22842,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-200. Testifying as an Expert Witness 22
+197. Testifying as an Expert Witness 22
 
 Testifying as an Expert Witness
 
@@ -22966,7 +22864,7 @@ Question profile index: 8
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-201. Testifying as an Expert Witness 4
+198. Testifying as an Expert Witness 4
 
 Testifying as an Expert Witness
 
@@ -22988,7 +22886,7 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-202. Testifying as an Expert Witness 6
+199. Testifying as an Expert Witness 6
 
 Testifying as an Expert Witness
 
@@ -23054,7 +22952,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Testifying that the defendant is guilty -- CORRECT.
 
-203. Testifying as an Expert Witness 9
+200. Testifying as an Expert Witness 9
 
 Testifying as an Expert Witness
 
@@ -23076,4 +22974,6 @@ Question profile index: 12
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-EXAM COMPLETE. Score:  100 out of 203
+EXAM COMPLETE. Score:  98 out of 200
+
+
