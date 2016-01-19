@@ -1,9 +1,0 @@
-Section=Computer and Internet Fraud
-
-Stem=Internet scams have become very prevalent due, in part, to the fact that the Internet is poorly regulated and policed.
-
-Options=True | False
-
-CorrectResponse=0
-
-Explanation=A booming segment of computer fraud, Internet fraud, has become a growing concern to the law enforcement community. This type of fraud has proliferated and will continue to proliferate because of the ripe conditions that exist on the World Wide Web for fraudulent activities. The Internet is still a developing technology for much of international business and thus has not been subjected to much litigation or policing. The laws that do currently apply to the Internet are difficult to enforce, since the Internet crosses virtually every international border on the planet. The lack of international laws and the difficulty enforcing those laws gives Internet fraudsters a better than average chance of avoiding capture and punishment.See page(s) 1.1825 in the Fraud Examiner's Manual

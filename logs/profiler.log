@@ -36,7 +36,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bankruptcy Fraud 11 (item 2 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -68,7 +68,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bankruptcy Fraud 14 (item 4 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -84,7 +84,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bankruptcy Fraud 15 (item 5 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -196,7 +196,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bankruptcy Fraud 3 (item 12 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -260,7 +260,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bankruptcy Fraud 7 (item 16 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -276,7 +276,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bankruptcy Fraud 9 (item 17 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -308,7 +308,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Basic Accounting Concepts 10 (item 19 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -324,7 +324,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Basic Accounting Concepts 11 (item 20 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -372,7 +372,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Basic Accounting Concepts 15 (item 23 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -404,7 +404,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Basic Accounting Concepts 18 (item 25 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -596,7 +596,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bribery and Corruption 13 (item 37 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -692,7 +692,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bribery and Corruption 20 (item 43 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -740,7 +740,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bribery and Corruption 23 (item 46 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -820,7 +820,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bribery and Corruption 3 (item 51 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -852,7 +852,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Bribery and Corruption 5 (item 53 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -868,7 +868,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bribery and Corruption 6 (item 54 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -884,7 +884,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Bribery and Corruption 7 (item 55 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -932,7 +932,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Cash Receipts Schemes 1 (item 58 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -980,7 +980,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Cash Receipts Schemes 13 (item 61 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -1012,7 +1012,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Cash Receipts Schemes 15 (item 63 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1060,7 +1060,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Cash Receipts Schemes 19 (item 66 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1108,7 +1108,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Cash Receipts Schemes 22 (item 69 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -1124,7 +1124,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Cash Receipts Schemes 23 (item 70 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -1140,7 +1140,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Cash Receipts Schemes 3 (item 71 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1220,7 +1220,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Cash Receipts Schemes 8 (item 76 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -1252,7 +1252,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Check and Credit Card Fraud 10 (item 78 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -1284,7 +1284,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Check and Credit Card Fraud 13 (item 80 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -1492,7 +1492,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 11 (item 93 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -1508,7 +1508,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Computer and Internet Fraud 12 (item 94 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -1556,7 +1556,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 15 (item 97 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1620,7 +1620,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Computer and Internet Fraud 2 (item 101 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -1668,7 +1668,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 22 (item 104 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1684,7 +1684,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Computer and Internet Fraud 23 (item 105 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -1748,7 +1748,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 27 (item 109 of 1300)...
 Profile Index: 36
 	Testing ALL_ABOVE... fail.
@@ -1764,7 +1764,7 @@ Profile Index: 36
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 28 (item 110 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -1780,7 +1780,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Computer and Internet Fraud 29 (item 111 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -1908,7 +1908,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 38 (item 119 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -1924,7 +1924,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 39 (item 120 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2020,7 +2020,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 45 (item 126 of 1300)...
 Profile Index: 36
 	Testing ALL_ABOVE... fail.
@@ -2084,7 +2084,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Computer and Internet Fraud 6 (item 130 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -2132,7 +2132,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Computer and Internet Fraud 9 (item 133 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -2148,7 +2148,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 1 (item 134 of 1300)...
 Profile Index: 161
 	Testing ALL_ABOVE... fail.
@@ -2196,7 +2196,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 13 (item 137 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2244,7 +2244,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 16 (item 140 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2292,7 +2292,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 19 (item 143 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2308,7 +2308,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 2 (item 144 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2324,7 +2324,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 21 (item 145 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2372,7 +2372,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 24 (item 148 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2388,7 +2388,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 25 (item 149 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -2404,7 +2404,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 27 (item 150 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2420,7 +2420,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 3 (item 151 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -2436,7 +2436,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 30 (item 152 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2452,7 +2452,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 31 (item 153 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -2468,7 +2468,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 32 (item 154 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2484,7 +2484,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 33 (item 155 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2500,7 +2500,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 34 (item 156 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -2516,7 +2516,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 36 (item 157 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2548,7 +2548,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 38 (item 159 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2564,7 +2564,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 39 (item 160 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2580,7 +2580,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 4 (item 161 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2596,7 +2596,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 40 (item 162 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2612,7 +2612,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 41 (item 163 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2644,7 +2644,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 43 (item 165 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -2756,7 +2756,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 5 (item 172 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2804,7 +2804,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 52 (item 175 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -2836,7 +2836,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 54 (item 177 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2852,7 +2852,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 55 (item 178 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2868,7 +2868,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 56 (item 179 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -2884,7 +2884,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Consumer Fraud 57 (item 180 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -2932,7 +2932,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Consumer Fraud 8 (item 183 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3012,7 +3012,7 @@ Profile Index: 36
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Contract and Procurement Fraud 12 (item 188 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -3044,7 +3044,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Contract and Procurement Fraud 15 (item 190 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3060,7 +3060,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Contract and Procurement Fraud 2 (item 191 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3124,7 +3124,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Contract and Procurement Fraud 8 (item 195 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3172,7 +3172,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 10 (item 198 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -3204,7 +3204,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Financial Institution Fraud 12 (item 200 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3220,7 +3220,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 13 (item 201 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3236,7 +3236,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 14 (item 202 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -3268,7 +3268,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Financial Institution Fraud 17 (item 204 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3316,7 +3316,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 2 (item 207 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -3476,7 +3476,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 3 (item 217 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -3508,7 +3508,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Financial Institution Fraud 31 (item 219 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3524,7 +3524,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Financial Institution Fraud 5 (item 220 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3572,7 +3572,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Institution Fraud 8 (item 223 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3668,7 +3668,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Statement Fraud 14 (item 229 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -3716,7 +3716,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Statement Fraud 17 (item 232 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -3748,7 +3748,7 @@ Profile Index: 36
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Statement Fraud 19 (item 234 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3780,7 +3780,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Financial Statement Fraud 20 (item 236 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -3876,7 +3876,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Financial Statement Fraud 8 (item 242 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -3892,7 +3892,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 1 (item 243 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -3924,7 +3924,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 11 (item 245 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -3956,7 +3956,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 13 (item 247 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -3988,7 +3988,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 15 (item 249 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -4068,7 +4068,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 21 (item 254 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -4084,7 +4084,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraudulent Disbursements 22 (item 255 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -4116,7 +4116,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 25 (item 257 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4132,7 +4132,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 26 (item 258 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -4148,7 +4148,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraudulent Disbursements 27 (item 259 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4212,7 +4212,7 @@ Profile Index: 36
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 30 (item 263 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -4244,7 +4244,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraudulent Disbursements 32 (item 265 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -4276,7 +4276,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 34 (item 267 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4308,7 +4308,7 @@ Profile Index: 132
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 36 (item 269 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4372,7 +4372,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 4 (item 273 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4436,7 +4436,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraudulent Disbursements 44 (item 277 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -4452,7 +4452,7 @@ Profile Index: 6
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 45 (item 278 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -4484,7 +4484,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 5 (item 280 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -4500,7 +4500,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraudulent Disbursements 6 (item 281 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -4516,7 +4516,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraudulent Disbursements 7 (item 282 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -4564,7 +4564,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 10 (item 285 of 1300)...
 Profile Index: 36
 	Testing ALL_ABOVE... fail.
@@ -4612,7 +4612,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 13 (item 288 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -4660,7 +4660,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 17 (item 291 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -4676,7 +4676,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Health Care Fraud 18 (item 292 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -4692,7 +4692,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 19 (item 293 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -4756,7 +4756,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Health Care Fraud 23 (item 297 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -4964,7 +4964,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 36 (item 310 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5044,7 +5044,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 40 (item 315 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5060,7 +5060,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Health Care Fraud 5 (item 316 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -5140,7 +5140,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Insurance Fraud 10 (item 321 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -5156,7 +5156,7 @@ Profile Index: 132
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Insurance Fraud 11 (item 322 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -5188,7 +5188,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Insurance Fraud 15 (item 324 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5204,7 +5204,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Insurance Fraud 16 (item 325 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5268,7 +5268,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Insurance Fraud 4 (item 329 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5284,7 +5284,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Insurance Fraud 5 (item 330 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -5332,7 +5332,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Insurance Fraud 8 (item 333 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -5348,7 +5348,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Insurance Fraud 9 (item 334 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -5364,7 +5364,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Introduction to Fraud Examination 10 (item 335 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -5476,7 +5476,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Introduction to Fraud Examination 18 (item 342 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5508,7 +5508,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Introduction to Fraud Examination 2 (item 344 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -5556,7 +5556,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Introduction to Fraud Examination 22 (item 347 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5588,7 +5588,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Introduction to Fraud Examination 3 (item 349 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5620,7 +5620,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Introduction to Fraud Examination 5 (item 351 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5636,7 +5636,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Introduction to Fraud Examination 6 (item 352 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5668,7 +5668,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Introduction to Fraud Examination 8 (item 354 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5732,7 +5732,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 11 (item 358 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5748,7 +5748,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 12 (item 359 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -5828,7 +5828,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Inventory and Other Assets 18 (item 364 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -5844,7 +5844,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 19 (item 365 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5860,7 +5860,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 2 (item 366 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5892,7 +5892,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Inventory and Other Assets 21 (item 368 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -5924,7 +5924,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 24 (item 370 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -5940,7 +5940,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 25 (item 371 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -5972,7 +5972,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 27 (item 373 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -5988,7 +5988,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Inventory and Other Assets 28 (item 374 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -6005,7 +6005,7 @@ Profile Index: 24
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
 	Testing RANDOM... fail.
-Currently processing Inventory and Other Assets 29 (1) (item 375 of 1300)...
+Currently processing Inventory and Other Assets 29 (item 375 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
 	Testing TRUE_SELECT... fail.
@@ -6084,8 +6084,8 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
-Currently processing Inventory and Other Assets 7 (1) (item 380 of 1300)...
+	Testing RANDOM... fail.
+Currently processing Inventory and Other Assets 7 (item 380 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
 	Testing TRUE_SELECT... fail.
@@ -6117,7 +6117,7 @@ Profile Index: 1
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
 	Testing RANDOM... fail.
-Currently processing Manager's and Auditor's Responsibilities 10 (1) (item 382 of 1300)...
+Currently processing Manager's and Auditor's Responsibilities 10 (item 382 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
 	Testing TRUE_SELECT... fail.
@@ -6164,7 +6164,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Manager's and Auditor's Responsibilities 13 (item 385 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -6180,7 +6180,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Manager's and Auditor's Responsibilities 14 (item 386 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -6244,7 +6244,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Manager's and Auditor's Responsibilities 19 (item 390 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -6308,7 +6308,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Manager's and Auditor's Responsibilities 23 (item 394 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -6420,7 +6420,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Manager's and Auditor's Responsibilities 31 (item 401 of 1300)...
 Profile Index: 36
 	Testing ALL_ABOVE... fail.
@@ -6517,7 +6517,7 @@ Profile Index: 129
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
 	Testing RANDOM... fail.
-Currently processing Managers and Auditors Responsibilities 2 (1) (item 407 of 1300)...
+Currently processing Managers and Auditors Responsibilities 2 (item 407 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
 	Testing TRUE_SELECT... fail.
@@ -6532,7 +6532,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Managers and Auditors Responsibilities 4 (item 408 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -6564,7 +6564,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Money Laundering 1 (item 410 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -6580,7 +6580,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Money Laundering 10 (item 411 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -6740,7 +6740,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Money Laundering 2 (item 421 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -6788,7 +6788,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Money Laundering 23 (item 424 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -6836,7 +6836,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Money Laundering 27 (item 427 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -6868,7 +6868,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Money Laundering 29 (item 429 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -6916,7 +6916,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Money Laundering 31 (item 432 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -6948,7 +6948,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Money Laundering 4 (item 434 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7028,7 +7028,7 @@ Profile Index: 33
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Public Sector Fraud 10 (item 439 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -7060,7 +7060,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Public Sector Fraud 12 (item 441 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -7092,7 +7092,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Public Sector Fraud 15 (item 443 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -7108,7 +7108,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Public Sector Fraud 16 (item 444 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -7284,7 +7284,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Public Sector Fraud 4 (item 455 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -7332,7 +7332,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Public Sector Fraud 9 (item 458 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -7444,7 +7444,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Securities Fraud 18 (item 465 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7476,7 +7476,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Securities Fraud 2 (item 467 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -7492,7 +7492,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Securities Fraud 20 (item 468 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7524,7 +7524,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Securities Fraud 22 (item 470 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7588,7 +7588,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Securities Fraud 26 (item 474 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7636,7 +7636,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Securities Fraud 29 (item 477 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7684,7 +7684,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Securities Fraud 31 (item 480 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -7732,7 +7732,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Securities Fraud 6 (item 483 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -7796,7 +7796,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 1 (item 487 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -7828,7 +7828,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 11 (item 489 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -7860,7 +7860,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 14 (item 491 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -7876,7 +7876,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Tax Fraud 15 (item 492 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -8004,7 +8004,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 5 (item 500 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -8020,7 +8020,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 6 (item 501 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -8036,7 +8036,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Tax Fraud 7 (item 502 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -8100,7 +8100,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Theft of Intellectual Property 12 (item 506 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8132,7 +8132,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Theft of Intellectual Property 15 (item 508 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -8180,7 +8180,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Theft of Intellectual Property 2 (item 511 of 1300)...
 Profile Index: 36
 	Testing ALL_ABOVE... fail.
@@ -8228,7 +8228,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Theft of Intellectual Property 5 (item 514 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -8260,7 +8260,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Theft of Intellectual Property 7 (item 516 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -8292,7 +8292,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Theft of Intellectual Property 9 (item 518 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -8340,7 +8340,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminology 13 (item 521 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8372,7 +8372,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminology 2 (item 523 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8468,7 +8468,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminology 8 (item 529 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8532,7 +8532,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Ethics for Fraud Examiners 12 (item 533 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8564,7 +8564,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Ethics for Fraud Examiners 14 (item 535 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8596,7 +8596,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Ethics for Fraud Examiners 17 (item 537 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8644,7 +8644,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Ethics for Fraud Examiners 2 (item 540 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -8660,7 +8660,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Ethics for Fraud Examiners 20 (item 541 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -8804,7 +8804,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Ethics for Fraud Examiners 3 (item 550 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -8868,7 +8868,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Ethics for Fraud Examiners 34 (item 554 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8884,7 +8884,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Ethics for Fraud Examiners 35 (item 555 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -8932,7 +8932,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Ethics for Fraud Examiners 7 (item 558 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8948,7 +8948,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Ethics for Fraud Examiners 8 (item 559 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -8980,7 +8980,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 1 (item 561 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9044,7 +9044,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 15 (item 565 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9092,7 +9092,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 18 (item 568 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -9108,7 +9108,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 19 (item 569 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -9156,7 +9156,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 22 (item 572 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -9188,7 +9188,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 24 (item 574 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9204,7 +9204,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 25 (item 575 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9220,7 +9220,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 28 (item 576 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -9332,7 +9332,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 34 (item 583 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -9364,7 +9364,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 36 (item 585 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9380,7 +9380,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 37 (item 586 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9396,7 +9396,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 38 (item 587 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -9476,7 +9476,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 42 (item 592 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -9492,7 +9492,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Prevention Programs 43 (item 593 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -9508,7 +9508,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 44 (item 594 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -9540,7 +9540,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 6 (item 596 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -9572,7 +9572,7 @@ Profile Index: 129
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Prevention Programs 9 (item 598 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9588,7 +9588,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 1 (item 599 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -9636,7 +9636,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 12 (item 602 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9652,7 +9652,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 13 (item 603 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9668,7 +9668,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 14 (item 604 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9684,7 +9684,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 16 (item 605 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -9700,7 +9700,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 17 (item 606 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -9716,7 +9716,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 19 (item 607 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9780,7 +9780,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 23 (item 611 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -9796,7 +9796,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 24 (item 612 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -9828,7 +9828,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 26 (item 614 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -9844,7 +9844,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 27 (item 615 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -9892,7 +9892,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 3 (item 618 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -9908,7 +9908,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 30 (item 619 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9924,7 +9924,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 31 (item 620 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -9940,7 +9940,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 32 (item 621 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -9956,7 +9956,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 33 (item 622 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9972,7 +9972,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 35 (item 623 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -9988,7 +9988,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 37 (item 624 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -10004,7 +10004,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 38 (item 625 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -10020,7 +10020,7 @@ Profile Index: 129
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Fraud Risk Assessment 4 (item 626 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10068,7 +10068,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Fraud Risk Assessment 7 (item 629 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10164,7 +10164,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 12 (item 635 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10228,7 +10228,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 17 (item 639 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10244,7 +10244,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 18 (item 640 of 1300)...
 Profile Index: 134
 	Testing ALL_ABOVE... fail.
@@ -10276,7 +10276,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 2 (item 642 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10292,7 +10292,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 21 (item 643 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10308,7 +10308,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 22 (item 644 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -10324,7 +10324,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 23 (item 645 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10340,7 +10340,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 24 (item 646 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10356,7 +10356,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 25 (item 647 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10372,7 +10372,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 27 (item 648 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10388,7 +10388,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 28 (item 649 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10436,7 +10436,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 31 (item 652 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -10484,7 +10484,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 34 (item 655 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -10548,7 +10548,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 38 (item 659 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -10580,7 +10580,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Occupational Fraud 4 (item 661 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10628,7 +10628,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Occupational Fraud 7 (item 664 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -10692,7 +10692,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Organizational Crime 11 (item 668 of 1300)...
 Profile Index: 161
 	Testing ALL_ABOVE... fail.
@@ -10740,7 +10740,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 15 (item 671 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -10788,7 +10788,7 @@ Profile Index: 134
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Organizational Crime 18 (item 674 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10820,7 +10820,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 21 (item 676 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -10852,7 +10852,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 23 (item 678 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -10868,7 +10868,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 24 (item 679 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -10932,7 +10932,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 28 (item 683 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -10964,7 +10964,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Organizational Crime 30 (item 685 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -11012,7 +11012,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Organizational Crime 6 (item 688 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11028,7 +11028,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Organizational Crime 7 (item 689 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11092,7 +11092,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Punishment 10 (item 693 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -11172,7 +11172,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Punishment 5 (item 698 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -11284,7 +11284,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing White-Collar Crime 13 (item 705 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -11332,7 +11332,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing White-Collar Crime 5 (item 708 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -11348,7 +11348,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing White-Collar Crime 6 (item 709 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11396,7 +11396,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing White-Collar Crime 9 (item 712 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -11412,7 +11412,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Analyzing Documents 1 (item 713 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -11476,7 +11476,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Analyzing Documents 13 (item 717 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11540,7 +11540,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Analyzing Documents 3 (item 721 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -11636,7 +11636,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 10 (item 727 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11652,7 +11652,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 11 (item 728 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11684,7 +11684,7 @@ Profile Index: 132
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 13 (item 730 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -11732,7 +11732,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 16 (item 733 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -11748,7 +11748,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 17 (item 734 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -11780,7 +11780,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 19 (item 736 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -11796,7 +11796,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 2 (item 737 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -11844,7 +11844,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 22 (item 740 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -11876,7 +11876,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 24 (item 742 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -11908,7 +11908,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 27 (item 744 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -11940,7 +11940,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 29 (item 746 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -11956,7 +11956,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 3 (item 747 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -11988,7 +11988,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 31 (item 749 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -12052,7 +12052,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 35 (item 753 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -12068,7 +12068,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 36 (item 754 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12100,7 +12100,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 4 (item 756 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12116,7 +12116,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Covert Examinations 40 (item 757 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -12132,7 +12132,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 6 (item 758 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12148,7 +12148,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 8 (item 759 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -12164,7 +12164,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Covert Examinations 9 (item 760 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -12180,7 +12180,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 1 (item 761 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12212,7 +12212,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 12 (item 763 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12244,7 +12244,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 14 (item 765 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12260,7 +12260,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 15 (item 766 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12276,7 +12276,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 17 (item 767 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12308,7 +12308,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 19 (item 769 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -12356,7 +12356,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 22 (item 772 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12372,7 +12372,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 23 (item 773 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12404,7 +12404,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 25 (item 775 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -12420,7 +12420,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 26 (item 776 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -12436,7 +12436,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 27 (item 777 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12484,7 +12484,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Data Analysis 4 (item 780 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12548,7 +12548,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Data Analysis 9 (item 784 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12580,7 +12580,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 10 (item 786 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12612,7 +12612,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 12 (item 788 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -12660,7 +12660,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 15 (item 791 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12676,7 +12676,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 16 (item 792 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -12692,7 +12692,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 17 (item 793 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12740,7 +12740,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 2 (item 796 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12756,7 +12756,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 20 (item 797 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -12788,7 +12788,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 23 (item 799 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -12852,7 +12852,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 28 (item 803 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12932,7 +12932,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 34 (item 808 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -12948,7 +12948,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 35 (item 809 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12964,7 +12964,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 36 (item 810 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -12980,7 +12980,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Digital Forensics 37 (item 811 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -12996,7 +12996,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Digital Forensics 38 (item 812 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -13140,7 +13140,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 1 (item 821 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -13156,7 +13156,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 10 (item 822 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -13172,7 +13172,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 11 (item 823 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -13188,7 +13188,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 13 (item 824 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13204,7 +13204,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 14 (item 825 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13220,7 +13220,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 15 (item 826 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13268,7 +13268,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 18 (item 829 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -13300,7 +13300,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 2 (item 831 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -13332,7 +13332,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 21 (item 833 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -13348,7 +13348,7 @@ Profile Index: 129
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 23 (item 834 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13396,7 +13396,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 27 (item 837 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -13412,7 +13412,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 28 (item 838 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -13476,7 +13476,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 31 (item 842 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -13492,7 +13492,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 32 (item 843 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -13508,7 +13508,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 33 (item 844 of 1300)...
 Profile Index: 97
 	Testing ALL_ABOVE... fail.
@@ -13540,7 +13540,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 36 (item 846 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13556,7 +13556,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 37 (item 847 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13572,7 +13572,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 38 (item 848 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -13588,7 +13588,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 39 (item 849 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -13636,7 +13636,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 42 (item 852 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -13652,7 +13652,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 43 (item 853 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -13668,7 +13668,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Illicit Transactions 44 (item 854 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -13684,7 +13684,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 45 (item 855 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -13764,7 +13764,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 50 (item 860 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -13812,7 +13812,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Illicit Transactions 7 (item 863 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -13860,7 +13860,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 1 (item 866 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -13956,7 +13956,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 15 (item 872 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -13972,7 +13972,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 16 (item 873 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -13988,7 +13988,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 17 (item 874 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14052,7 +14052,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 20 (item 878 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14068,7 +14068,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 21 (item 879 of 1300)...
 Profile Index: 134
 	Testing ALL_ABOVE... fail.
@@ -14084,7 +14084,7 @@ Profile Index: 134
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 22 (item 880 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -14212,7 +14212,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 30 (item 888 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -14276,7 +14276,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 37 (item 892 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14340,7 +14340,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 40 (item 896 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14388,7 +14388,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 43 (item 899 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -14404,7 +14404,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 44 (item 900 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -14436,7 +14436,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 46 (item 902 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14452,7 +14452,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 47 (item 903 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14468,7 +14468,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 48 (item 904 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -14516,7 +14516,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 50 (item 907 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... fail.
@@ -14564,7 +14564,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 53 (item 910 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14580,7 +14580,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 54 (item 911 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14628,7 +14628,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 57 (item 914 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -14692,7 +14692,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 60 (item 918 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14724,7 +14724,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 63 (item 920 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14820,7 +14820,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 69 (item 926 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -14836,7 +14836,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 70 (item 927 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -14852,7 +14852,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 72 (item 928 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -14884,7 +14884,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 74 (item 930 of 1300)...
 Profile Index: 134
 	Testing ALL_ABOVE... fail.
@@ -14932,7 +14932,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 77 (item 933 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14948,7 +14948,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 78 (item 934 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -14964,7 +14964,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 79 (item 935 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -14996,7 +14996,7 @@ Profile Index: 132
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 80 (item 937 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15012,7 +15012,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interview Theory and Application 82 (item 938 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15092,7 +15092,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 88 (item 943 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -15124,7 +15124,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interview Theory and Application 9 (item 945 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15156,7 +15156,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 11 (item 947 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15204,7 +15204,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 15 (item 950 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15236,7 +15236,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 17 (item 952 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -15252,7 +15252,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 18 (item 953 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15268,7 +15268,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 19 (item 954 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -15284,7 +15284,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 2 (item 955 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -15300,7 +15300,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 21 (item 956 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15348,7 +15348,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 24 (item 959 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -15508,7 +15508,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 34 (item 969 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15524,7 +15524,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 35 (item 970 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15540,7 +15540,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 36 (item 971 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -15572,7 +15572,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 38 (item 973 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15588,7 +15588,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 39 (item 974 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15620,7 +15620,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Interviewing Suspects and Signed Statements 41 (item 976 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -15684,7 +15684,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 7 (item 980 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -15716,7 +15716,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Interviewing Suspects and Signed Statements 9 (item 982 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -15732,7 +15732,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 1 (item 983 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15764,7 +15764,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Sources of Information 12 (item 985 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -15780,7 +15780,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 13 (item 986 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -15860,7 +15860,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 2 (item 991 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -15876,7 +15876,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 20 (item 992 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -16004,7 +16004,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 29 (item 1000 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -16020,7 +16020,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 3 (item 1001 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -16084,7 +16084,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 33 (item 1005 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -16116,7 +16116,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 35 (item 1007 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16180,7 +16180,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Sources of Information 39 (item 1011 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -16228,7 +16228,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 41 (item 1014 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -16244,7 +16244,7 @@ Profile Index: 132
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Sources of Information 43 (item 1015 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16260,7 +16260,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Sources of Information 5 (item 1016 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -16276,7 +16276,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Sources of Information 6 (item 1017 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -16292,7 +16292,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Sources of Information 7 (item 1018 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -16340,7 +16340,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 10 (item 1021 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -16356,7 +16356,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 11 (item 1022 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -16372,7 +16372,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Written Reports 13 (item 1023 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -16420,7 +16420,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 16 (item 1026 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16452,7 +16452,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 18 (item 1028 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16468,7 +16468,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 19 (item 1029 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... success!
@@ -16532,7 +16532,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Written Reports 23 (item 1033 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -16580,7 +16580,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Written Reports 4 (item 1036 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16660,7 +16660,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Written Reports 9 (item 1041 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16692,7 +16692,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 11 (item 1043 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -16724,7 +16724,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Civil Justice System 13 (item 1045 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -16772,7 +16772,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Civil Justice System 17 (item 1048 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -16868,7 +16868,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 23 (item 1054 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -16900,7 +16900,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 25 (item 1056 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -16916,7 +16916,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 26 (item 1057 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -16964,7 +16964,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 3 (item 1060 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17012,7 +17012,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 32 (item 1063 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17044,7 +17044,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Civil Justice System 34 (item 1065 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17060,7 +17060,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Civil Justice System 4 (item 1066 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17124,7 +17124,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Civil Justice System 9 (item 1070 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -17140,7 +17140,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 1 (item 1071 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -17188,7 +17188,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 12 (item 1074 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -17204,7 +17204,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 13 (item 1075 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -17236,7 +17236,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 15 (item 1077 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17252,7 +17252,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 16 (item 1078 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17284,7 +17284,7 @@ Profile Index: 24
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 18 (item 1080 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -17316,7 +17316,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 2 (item 1082 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17332,7 +17332,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 20 (item 1083 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17348,7 +17348,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 21 (item 1084 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17380,7 +17380,7 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 24 (item 1086 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -17476,7 +17476,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 30 (item 1092 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17540,7 +17540,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 35 (item 1096 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -17572,7 +17572,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 38 (item 1098 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -17588,7 +17588,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 4 (item 1099 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -17668,7 +17668,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 44 (item 1104 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -17684,7 +17684,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 45 (item 1105 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17716,7 +17716,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 47 (item 1107 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -17748,7 +17748,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 49 (item 1109 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -17780,7 +17780,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 50 (item 1111 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -17876,7 +17876,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 56 (item 1117 of 1300)...
 Profile Index: 132
 	Testing ALL_ABOVE... fail.
@@ -17908,7 +17908,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 59 (item 1119 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -17924,7 +17924,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 6 (item 1120 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -17988,7 +17988,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 63 (item 1124 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18004,7 +18004,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 64 (item 1125 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18020,7 +18020,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 65 (item 1126 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18036,7 +18036,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 67 (item 1127 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18052,7 +18052,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 68 (item 1128 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18100,7 +18100,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 70 (item 1131 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18148,7 +18148,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 74 (item 1134 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18164,7 +18164,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 75 (item 1135 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18180,7 +18180,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 76 (item 1136 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18196,7 +18196,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 78 (item 1137 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18212,7 +18212,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Criminal Prosecutions for Fraud 79 (item 1138 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -18228,7 +18228,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 8 (item 1139 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18244,7 +18244,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Criminal Prosecutions for Fraud 9 (item 1140 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -18292,7 +18292,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 11 (item 1143 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18308,7 +18308,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Evidence 12 (item 1144 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -18356,7 +18356,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Evidence 15 (item 1147 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18372,7 +18372,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 16 (item 1148 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18468,7 +18468,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Evidence 22 (item 1154 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18516,7 +18516,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Evidence 25 (item 1157 of 1300)...
 Profile Index: 6
 	Testing ALL_ABOVE... fail.
@@ -18564,7 +18564,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 28 (item 1160 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18628,7 +18628,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 31 (item 1164 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -18676,7 +18676,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 35 (item 1167 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18708,7 +18708,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 38 (item 1169 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -18724,7 +18724,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 4 (item 1170 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -18740,7 +18740,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Evidence 5 (item 1171 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -18820,7 +18820,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 10 (item 1176 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18852,7 +18852,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 12 (item 1178 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18868,7 +18868,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 13 (item 1179 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18884,7 +18884,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 14 (item 1180 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -18900,7 +18900,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 15 (item 1181 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -18932,7 +18932,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 17 (item 1183 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -18980,7 +18980,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 2 (item 1186 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -19012,7 +19012,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 22 (item 1188 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -19060,7 +19060,7 @@ Profile Index: 65
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 26 (item 1191 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19124,7 +19124,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 3 (item 1195 of 1300)...
 Profile Index: 33
 	Testing ALL_ABOVE... fail.
@@ -19140,7 +19140,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 30 (item 1196 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -19156,7 +19156,7 @@ Profile Index: 68
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 31 (item 1197 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -19188,7 +19188,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 33 (item 1199 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -19252,7 +19252,7 @@ Profile Index: 65
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 38 (item 1203 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19300,7 +19300,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 40 (item 1206 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -19316,7 +19316,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 41 (item 1207 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -19396,7 +19396,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 48 (item 1212 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -19444,7 +19444,7 @@ Profile Index: 33
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 50 (item 1215 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19476,7 +19476,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 52 (item 1217 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19492,7 +19492,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Law Related to Fraud 53 (item 1218 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19524,7 +19524,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Law Related to Fraud 8 (item 1220 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -19556,7 +19556,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 1 (item 1222 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -19604,7 +19604,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 12 (item 1225 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19636,7 +19636,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 14 (item 1227 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -19668,7 +19668,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 16 (item 1229 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -19716,7 +19716,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 19 (item 1232 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19732,7 +19732,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 20 (item 1233 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19764,7 +19764,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 24 (item 1235 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19780,7 +19780,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 25 (item 1236 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19860,7 +19860,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 3 (item 1241 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -19972,7 +19972,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 36 (item 1248 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -19988,7 +19988,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 37 (item 1249 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -20020,7 +20020,7 @@ Profile Index: 129
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Legal Rights of Employees 4 (item 1251 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -20036,7 +20036,7 @@ Profile Index: 68
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 40 (item 1252 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -20132,7 +20132,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Legal Rights of Employees 8 (item 1258 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -20164,7 +20164,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Overview of the Legal System 1 (item 1260 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -20180,7 +20180,7 @@ Profile Index: 4
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Overview of the Legal System 10 (item 1261 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -20340,7 +20340,7 @@ Profile Index: 16
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Overview of the Legal System 20 (item 1271 of 1300)...
 Profile Index: 4
 	Testing ALL_ABOVE... fail.
@@ -20420,7 +20420,7 @@ Profile Index: 129
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Overview of the Legal System 9 (item 1276 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -20468,7 +20468,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 11 (item 1279 of 1300)...
 Profile Index: 129
 	Testing ALL_ABOVE... success!
@@ -20484,7 +20484,7 @@ Profile Index: 129
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 12 (item 1280 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -20516,7 +20516,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 16 (item 1282 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -20564,7 +20564,7 @@ Profile Index: 1
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 19 (item 1285 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -20580,7 +20580,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Testifying as an Expert Witness 2 (item 1286 of 1300)...
 Profile Index: 68
 	Testing ALL_ABOVE... fail.
@@ -20628,7 +20628,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 23 (item 1289 of 1300)...
 Profile Index: 1
 	Testing ALL_ABOVE... fail.
@@ -20644,7 +20644,7 @@ Profile Index: 1
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... success!
+	Testing RANDOM... fail.
 Currently processing Testifying as an Expert Witness 24 (item 1290 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -20676,7 +20676,7 @@ Profile Index: 16
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 26 (item 1292 of 1300)...
 Profile Index: 16
 	Testing ALL_ABOVE... fail.
@@ -20740,7 +20740,7 @@ Profile Index: 4
 	Testing CM_V3... success!
 	Testing CM_V3_NOTA... success!
 	Testing CM_V3_NOT... fail.
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 3 (item 1296 of 1300)...
 Profile Index: 24
 	Testing ALL_ABOVE... fail.
@@ -20756,7 +20756,7 @@ Profile Index: 24
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Currently processing Testifying as an Expert Witness 30 (item 1297 of 1300)...
 Profile Index: 65
 	Testing ALL_ABOVE... fail.
@@ -20820,5 +20820,5 @@ Profile Index: 6
 	Testing CM_V3... fail.
 	Testing CM_V3_NOTA... fail.
 	Testing CM_V3_NOT... success!
-	Testing RANDOM... fail.
+	Testing RANDOM... success!
 Profiler complete.

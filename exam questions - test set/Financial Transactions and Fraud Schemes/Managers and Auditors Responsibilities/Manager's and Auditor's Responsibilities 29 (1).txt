@@ -1,9 +1,0 @@
-Section=Manager's and Auditor's Responsibilities
-
-Stem=Which of the following is a requirement regarding internal control over financial reporting (ICOFR) under the Sarbanes-Oxley Act?
-
-Options=Management must acknowledge its responsibility for establishing and maintaining adequate ICOFR | Management must identify the framework used in performing its assessment of ICOFR | The auditor must issue an opinion on management's assessment of the ICOFR | All of the above are requirements regarding ICOFR
-
-CorrectResponse=3
-
-Explanation=Under Section 404 of the Sarbanes-Oxley Act, public companies must issue an internal control report within their annual report containing: (1) a statement of management's responsibility for establishing and maintaining adequate ICOFR; (2) a statement identifying the framework used by management in performing the assessment of the effectiveness of ICOFR; (3) management's assessment of ICOFR: and (4) a statement that the auditor has issued an attestation report on management's assessment of ICOFR.See page(s) 1.208-1.209 in the Fraud Examiner's Manual
