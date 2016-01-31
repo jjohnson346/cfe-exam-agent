@@ -16157,7 +16157,7 @@ Setting document bodies process complete.
 Completed reading Fraud Examiners Manual.
 CFE Exam Agent initialization complete.
 CFE EXAM:  exams/Test Set Exam.txt
-EXECUTION MODE:  Batch
+EXECUTION MODE:  BATCH
 
 Press Enter to continue.
 
@@ -16172,16 +16172,16 @@ b) Judgment debtor
 c) Judgment creditor
 d) Unsecured creditor
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -16210,7 +16210,7 @@ During a bankruptcy investigation, the bankruptcy trustee can request documents 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16219,7 +16219,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16234,7 +16234,7 @@ b) Appointing trustees
 c) Overseeing trustees
 d) All of the above are included
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -16243,7 +16243,7 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are included -- CORRECT.
 
@@ -16258,16 +16258,16 @@ b) Matching
 c) Conservatism
 d) Full disclosure
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -16298,16 +16298,16 @@ b) Leaseholds
 c) Goodwill
 d) All of the above are intangible assets
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are intangible assets -- CORRECT.
 
@@ -16322,16 +16322,16 @@ b) Going concern
 c) Materiality
 d) Cost
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -16362,16 +16362,16 @@ b) Preparing the business profile
 c) Preparing the vertical analysis
 d) Interviewing of the co-conspirator
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -16411,7 +16411,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Bribery and Corruption
 an: 118
 actual: 5
@@ -16485,7 +16485,7 @@ b) Making inquiries of the Internal Revenue Service
 c) Identifying and tracing through audit steps
 d) Secretly infiltrating ongoing transactions
 
-Question profile index: 33
+Question profile index: 17
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -16513,7 +16513,7 @@ An illegal gratuity requires proof of an intent to influence.
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16522,7 +16522,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16535,7 +16535,7 @@ Blue, a manager for a retail store, suspects his register employees of skimming 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16544,7 +16544,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16557,7 +16557,7 @@ Cash larceny is the removal of cash from a victim entity prior to its entry in a
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16566,7 +16566,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16579,7 +16579,7 @@ A person responsible for collecting cash should NOT have authority to prepare ba
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16588,7 +16588,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
@@ -16603,16 +16603,16 @@ b) True name fraud
 c) Non-receipt fraud
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -16641,7 +16641,7 @@ Merchants should be advised not to accept a Visa credit card that begins with a 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16650,7 +16650,7 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
@@ -16663,7 +16663,7 @@ Check fraud rings cannot organize without a significant amount of capital becaus
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16672,11 +16672,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-17. Computer and Internet Fraud 10 (1)
+17. Computer and Internet Fraud 10
 
 Computer and Internet Fraud
 
@@ -16685,7 +16685,7 @@ Internet scams have become very prevalent due, in part, to the fact that the Int
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -16694,33 +16694,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-18. Computer and Internet Fraud 10
-
-Computer and Internet Fraud
-
-Internet scams have become very prevalent due, in part, to the fact that the Internet is poorly regulated and policed.
-
-a) True
-b) False
-
-Question profile index: 16
-              All of the Above:      0.000
-                   True Select:      0.587
-                  False Select:      0.413
-                  MaxFrequency:      0.000
-                   MaxFreqPlus:      0.000
-                  MinFrequency:      0.000
-                  Bag Of Words:      0.000
-           Composite Frequency:      0.000
-                        Random:      0.523
-Algorithm selected: True Select
-Agent response:  a) True -- CORRECT.
-
-19. Computer and Internet Fraud 16
+18. Computer and Internet Fraud 16
 
 Computer and Internet Fraud
 
@@ -16731,7 +16709,7 @@ b) Prohibition of shared passwords
 c) Passwords of sufficient length (e.g., eight characters)
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -16740,11 +16718,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-20. Computer and Internet Fraud 31
+19. Computer and Internet Fraud 31
 
 Computer and Internet Fraud
 
@@ -16764,7 +16742,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Computer and Internet Fraud
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -16802,7 +16780,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Security software packages -- INCORRECT. (Correct answer:  a) Elimination of as many dial-in ports as possible)
 
-21. Computer and Internet Fraud 35
+20. Computer and Internet Fraud 35
 
 Computer and Internet Fraud
 
@@ -16821,7 +16799,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Computer and Internet Fraud
 implementation: 5
 controls: 34
@@ -16845,7 +16823,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) System software controls -- INCORRECT. (Correct answer:  c) Computer operations controls	| Data file controls)
 
-22. Computer and Internet Fraud 40 (1)
+21. Computer and Internet Fraud 40
 
 Computer and Internet Fraud
 
@@ -16865,7 +16843,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Computer and Internet Fraud
 communication: 16
 software: 71
@@ -16901,63 +16879,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
 
-23. Computer and Internet Fraud 40
-
-Computer and Internet Fraud
-
-All but which of the following are anti-hacker measures?
-
-a) Communication software that disconnects after no less than ten unsuccessful attempts
-b) Encryption for sensitive data files
-c) Changing default passv/ords on purchased software packages
-d) Passwords of sufficient length to prevent "guessing"
-
-Question profile index: 1
-              All of the Above:      0.000
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.294
-                   MaxFreqPlus:      0.294
-                  MinFrequency:      0.311
-                  Bag Of Words:      0.316
-           Composite Frequency:      0.316
-                        Random:      0.254
-Question section: Computer and Internet Fraud
-communication: 16
-software: 71
-that: 322
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-encryption: 23
-for: 210
-sensitive: 15
-data: 121
-files: 73
-Total Frequency for Option: 6.3995085E8
-Geom Mean Frequency: 57.707109850304775
-changing: 3
-default: 2
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-passwords: 30
-of: 736
-sufficient: 4
-length: 4
-to: 777
-prevent: 13
-guessing: 2
-Total Frequency for Option: 7.13696256E9
-Geom Mean Frequency: 25.56493978096913
-Algorithm selected: Bag Of Words
-                                                                               Phrase           Frequency
- Communication software that disconnects after no less than ten unsuccessful attempts              0.000
-                                                  Encryption for sensitive data files             57.707
-                           Changing default passv/ords on purchased software packages              0.000
-                                 Passwords of sufficient length to prevent "guessing"             25.565
-
-Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
-
-24. Computer and Internet Fraud 5
+22. Computer and Internet Fraud 5
 
 Computer and Internet Fraud
 
@@ -16977,7 +16899,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Computer and Internet Fraud
 searching: 3
 for: 210
@@ -17039,7 +16961,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Gaining information about a system using deception, such as someone else's password -- INCORRECT. (Correct answer:  c) Covert placement of instructions which causes the computer to perform unauthorized functions but allows other programs to work normally‰??)
 
-25. Consumer Fraud 10
+23. Consumer Fraud 10
 
 Consumer Fraud
 
@@ -17048,7 +16970,7 @@ One pressure tactic that fraudsters use in a pyramid scheme is to make the poten
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17057,11 +16979,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-26. Consumer Fraud 20
+24. Consumer Fraud 20
 
 Consumer Fraud
 
@@ -17072,16 +16994,16 @@ b) Bait and switch
 c) Pure cash pyramid scheme
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17101,7 +17023,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Round robin -- INCORRECT. (Correct answer:  c) Pure cash pyramid scheme)
 
-27. Consumer Fraud 26
+25. Consumer Fraud 26
 
 Consumer Fraud
 
@@ -17112,7 +17034,7 @@ b) The organization spends more time promoting its distributor levels than its p
 c) The organization recruits distributors into a pyramid-style compensation plan
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -17121,11 +17043,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-28. Consumer Fraud 28
+26. Consumer Fraud 28
 
 Consumer Fraud
 
@@ -17134,7 +17056,7 @@ In the prime rate credit card scam, telescammers offer customers major credit ca
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17143,11 +17065,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-29. Consumer Fraud 29
+27. Consumer Fraud 29
 
 Consumer Fraud
 
@@ -17158,16 +17080,16 @@ b) Telemarketing scams
 c) Advance fee frauds
 d) Internet fraud
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17187,7 +17109,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Real estate scams -- INCORRECT. (Correct answer:  b) Telemarketing scams)
 
-30. Consumer Fraud 35
+28. Consumer Fraud 35
 
 Consumer Fraud
 
@@ -17196,7 +17118,7 @@ Victims of confidence games are more likely to be organizations or businesses ra
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17205,11 +17127,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-31. Consumer Fraud 6
+29. Consumer Fraud 6
 
 Consumer Fraud
 
@@ -17220,16 +17142,16 @@ b) Fronters
 c) Factoring companies
 d) Closers
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17249,7 +17171,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Fronters -- INCORRECT. (Correct answer:  a) Turnkeys)
 
-32. Contract and Procurement Fraud 14
+30. Contract and Procurement Fraud 14
 
 Contract and Procurement Fraud
 
@@ -17260,16 +17182,16 @@ b) Labor mischarges
 c) Compliance fraud
 d) Accounting mischarges
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17289,7 +17211,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Labor mischarges -- INCORRECT. (Correct answer:  a) Product substitution schemes)
 
-33. Contract and Procurement Fraud 3
+31. Contract and Procurement Fraud 3
 
 Contract and Procurement Fraud
 
@@ -17300,16 +17222,16 @@ b) Bid-rigging schemes
 c) Bid submission schemes
 d) Presolicitation schemes
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17329,7 +17251,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Bid submission schemes -- CORRECT.
 
-34. Contract and Procurement Fraud 4
+32. Contract and Procurement Fraud 4
 
 Contract and Procurement Fraud
 
@@ -17349,7 +17271,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Contract and Procurement Fraud
 joint: 1
 Total Frequency for Option: 0.0
@@ -17382,7 +17304,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Wide disparity in bid prices -- INCORRECT. (Correct answer:  c) Successful bidder consulting with buyer in need recognition stage)
 
-35. Financial Institution Fraud 16
+33. Financial Institution Fraud 16
 
 Financial Institution Fraud
 
@@ -17393,7 +17315,7 @@ b) No order for printed checks
 c) Customer residence outside the bank's trade area
 d) Customer requests two ATM cards
 
-Question profile index: 33
+Question profile index: 17
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -17412,7 +17334,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Customer requests a large number of temporary checks -- INCORRECT. (Correct answer:  d) Customer requests two ATM cards)
 
-36. Financial Institution Fraud 24
+34. Financial Institution Fraud 24
 
 Financial Institution Fraud
 
@@ -17432,7 +17354,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Financial Institution Fraud
 paying: 4
 off: 10
@@ -17463,7 +17385,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Paying off the old loan with proceeds from a new loan -- INCORRECT. (Correct answer:  d) Both charging the loan off as a bad loan and paying off the old loan with proceeds from a new loan)
 
-37. Financial Institution Fraud 32
+35. Financial Institution Fraud 32
 
 Financial Institution Fraud
 
@@ -17483,7 +17405,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Financial Institution Fraud
 short: 16
 cuts: 1
@@ -17523,7 +17445,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The original project is not feasible. -- INCORRECT. (Correct answer:  c) Design changes were requested)
 
-38. Financial Institution Fraud 4
+36. Financial Institution Fraud 4
 
 Financial Institution Fraud
 
@@ -17534,20 +17456,20 @@ b) Mortgage-backed security fraud
 c) Equity skimming
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-39. Financial Statement Fraud 13
+37. Financial Statement Fraud 13
 
 Financial Statement Fraud
 
@@ -17558,16 +17480,16 @@ b) Vertical analysis
 c) Horizontal analysis
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17587,7 +17509,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Vertical analysis -- CORRECT.
 
-40. Financial Statement Fraud 6
+38. Financial Statement Fraud 6
 
 Financial Statement Fraud
 
@@ -17596,7 +17518,7 @@ The asset turnover ratio, which is measures how efficiently assets are used to p
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17605,11 +17527,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-41. Financial Statement Fraud 9
+39. Financial Statement Fraud 9
 
 Financial Statement Fraud
 
@@ -17620,16 +17542,16 @@ b) Partial-contract method
 c) Percentage-of-completion method
 d) Cost-to-market method
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17649,7 +17571,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Disbursement/recovery method -- INCORRECT. (Correct answer:  c) Percentage-of-completion method)
 
-42. Fraudulent Disbursements 19
+40. Fraudulent Disbursements 19
 
 Fraudulent Disbursements
 
@@ -17660,26 +17582,36 @@ b) A forged maker scheme
 c) An authorized maker scheme
 d) An altered payee scheme
 
-Question profile index: 6
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.250
-                   MaxFreqPlus:      0.250
-                  MinFrequency:      0.350
-                  Bag Of Words:      0.175
-           Composite Frequency:      0.250
-                        Random:      0.150
-Algorithm selected: MinFrequency
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
+Executing max frequency algo...
+Testing whether this is a TrueFalse question...
+This is not a true false question.
+Retrieving section text for question section, Fraudulent Disbursements
+Question section retrieval complete., 
+Determining frequency for string, A concealed check scheme
+Determining frequency for string, A forged maker scheme
+Determining frequency for string, An authorized maker scheme
+Determining frequency for string, An altered payee scheme
+Max Fequency algorithm complete.
+Algorithm selected: MaxFrequency
                      Phrase           Frequency
    A concealed check scheme              1.000
       A forged maker scheme              2.000
  An authorized maker scheme              3.000
     An altered payee scheme              0.000
 
-Agent response:  a) A concealed check scheme -- INCORRECT. (Correct answer:  b) A forged maker scheme)
+Agent response:  c) An authorized maker scheme -- INCORRECT. (Correct answer:  b) A forged maker scheme)
 
-43. Fraudulent Disbursements 20
+41. Fraudulent Disbursements 20
 
 Fraudulent Disbursements
 
@@ -17699,7 +17631,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Fraudulent Disbursements
 payroll: 119
 checks: 206
@@ -17760,7 +17692,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Those who prepare the payroll, also review and sign all payroll checks -- CORRECT.
 
-44. Fraudulent Disbursements 23
+42. Fraudulent Disbursements 23
 
 Fraudulent Disbursements
 
@@ -17771,16 +17703,16 @@ b) Travel and entertainment expenses
 c) Revenue
 d) AJI of the above
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17800,7 +17732,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Revenue -- INCORRECT. (Correct answer:  b) Travel and entertainment expenses)
 
-45. Fraudulent Disbursements 40
+43. Fraudulent Disbursements 40
 
 Fraudulent Disbursements
 
@@ -17820,7 +17752,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Fraudulent Disbursements
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -17868,7 +17800,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Review payroll records for duplicate addresses or deposit accounts -- INCORRECT. (Correct answer:  d) Compare the disbursement date of trust account taxes with the deposit date)
 
-46. Fraudulent Disbursements 46
+44. Fraudulent Disbursements 46
 
 Fraudulent Disbursements
 
@@ -17879,20 +17811,20 @@ b) Register disbursement scheme
 c) Authorized maker scheme
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-47. Fraudulent Disbursements 48
+45. Fraudulent Disbursements 48
 
 Fraudulent Disbursements
 
@@ -17903,16 +17835,16 @@ b) Commission scheme
 c) Ghost employee scheme
 d) Falsified hours and salary
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -17932,7 +17864,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Ghost employee scheme -- CORRECT.
 
-48. Health Care Fraud 1
+46. Health Care Fraud 1
 
 Health Care Fraud
 
@@ -17941,7 +17873,7 @@ The most difficult type of insurance fraud to detect is generally collusion, in 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17950,11 +17882,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-49. Health Care Fraud 14
+47. Health Care Fraud 14
 
 Health Care Fraud
 
@@ -17963,7 +17895,7 @@ Electronic Data Interchange (EDI) has the potential to save the health care indu
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17972,11 +17904,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-50. Health Care Fraud 21
+48. Health Care Fraud 21
 
 Health Care Fraud
 
@@ -17985,7 +17917,7 @@ Although they are legal companies, revenue recovery firms have been accused of p
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -17994,11 +17926,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-51. Health Care Fraud 30
+49. Health Care Fraud 30
 
 Health Care Fraud
 
@@ -18009,7 +17941,7 @@ b) EDI leaves no traditional paper trail
 c) The impersonal nature of EDI raises the temptation of would-be fraudsters to commit white-collar crime due to lack of human intervention
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -18018,11 +17950,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-52. Health Care Fraud 8
+50. Health Care Fraud 8
 
 Health Care Fraud
 
@@ -18033,20 +17965,20 @@ b) Sunglasses
 c) Narcotic drugs
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-53. Insurance Fraud 13
+51. Insurance Fraud 13
 
 Insurance Fraud
 
@@ -18057,16 +17989,16 @@ b) Twisting
 c) Churning
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18086,7 +18018,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Sliding -- CORRECT.
 
-54. Insurance Fraud 14
+52. Insurance Fraud 14
 
 Insurance Fraud
 
@@ -18097,16 +18029,16 @@ b) External frauds
 c) Churning
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18126,7 +18058,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Churning -- INCORRECT. (Correct answer:  b) External frauds)
 
-55. Insurance Fraud 3
+53. Insurance Fraud 3
 
 Insurance Fraud
 
@@ -18137,20 +18069,20 @@ b) Premium fraud
 c) Fictitious payees
 d) All of the above are types of agent/broker fraud schemes
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of agent/broker fraud schemes -- CORRECT.
 
-56. Introduction to Fraud Examination 1
+54. Introduction to Fraud Examination 1
 
 Introduction to Fraud Examination
 
@@ -18161,7 +18093,7 @@ b) Refine and amend the hypothesis
 c) Create a hypothesis
 d) Report hypothesis to management
 
-Question profile index: 33
+Question profile index: 17
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -18180,7 +18112,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Analyze the available data -- INCORRECT. (Correct answer:  d) Report hypothesis to management)
 
-57. Introduction to Fraud Examination 14
+55. Introduction to Fraud Examination 14
 
 Introduction to Fraud Examination
 
@@ -18191,7 +18123,7 @@ b) The basis upon which a fraud examination is undertaken
 c) The initial phase of the investigative process
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -18200,7 +18132,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18220,7 +18152,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The initial phase of the interview -- INCORRECT. (Correct answer:  b) The basis upon which a fraud examination is undertaken)
 
-58. Introduction to Fraud Examination 23
+56. Introduction to Fraud Examination 23
 
 Introduction to Fraud Examination
 
@@ -18229,7 +18161,7 @@ The job of the fraud examiner is to conduct an examination to determine whether 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18238,11 +18170,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-59. Inventory and Other Assets 13
+57. Inventory and Other Assets 13
 
 Inventory and Other Assets
 
@@ -18251,7 +18183,7 @@ There is nothing inherently wrong with related party transactions, as long as th
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18260,11 +18192,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-60. Inventory and Other Assets 23
+58. Inventory and Other Assets 23
 
 Inventory and Other Assets
 
@@ -18275,16 +18207,16 @@ b) Larceny scheme
 c) Asset transfer scheme
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18304,7 +18236,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Larceny scheme -- INCORRECT. (Correct answer:  a) Purchasing and receiving scheme)
 
-61. Inventory and Other Assets 3
+59. Inventory and Other Assets 3
 
 Inventory and Other Assets
 
@@ -18313,7 +18245,7 @@ Employees who steal inventory are often highly trusted within their organization
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18322,11 +18254,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-62. Inventory and Other Assets 8
+60. Inventory and Other Assets 8
 
 Inventory and Other Assets
 
@@ -18335,7 +18267,7 @@ In order to prevent inventory theft, the personnel who requisition inventory sho
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18344,11 +18276,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-63. Manager's and Auditor's Responsibilities 16
+61. Manager's and Auditor's Responsibilities 16
 
 Manager's and Auditor's Responsibilities
 
@@ -18368,7 +18300,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Manager's and Auditor's Responsibilities
 reliability: 4
 and: 854
@@ -18409,7 +18341,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Effectiveness and efficiency of operations -- INCORRECT. (Correct answer:  c) Sale of assets)
 
-64. Manager's and Auditor's Responsibilities 29 (1)
+62. Manager's and Auditor's Responsibilities 29
 
 Manager's and Auditor's Responsibilities
 
@@ -18420,7 +18352,7 @@ b) Management must identify the framework used in performing its assessment of I
 c) The auditor must issue an opinion on management's assessment of the ICOFR
 d) All of the above are requirements regarding ICOFR
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -18429,35 +18361,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
 
-65. Manager's and Auditor's Responsibilities 29
-
-Manager's and Auditor's Responsibilities
-
-Which of the following is a requirement regarding internal control over financial reporting (ICOFR) under the Sarbanes-Oxley Act?
-
-a) Management must acknowledge its responsibility for establishing and maintaining adequate ICOFR
-b) Management must identify the framework used in performing its assessment of ICOFR
-c) The auditor must issue an opinion on management's assessment of the ICOFR
-d) All of the above are requirements regarding ICOFR
-
-Question profile index: 129
-              All of the Above:      0.843
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.101
-                   MaxFreqPlus:      0.101
-                  MinFrequency:      0.090
-                  Bag Of Words:      0.618
-           Composite Frequency:      0.618
-                        Random:      0.213
-Algorithm selected: All of the Above
-Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
-
-66. Manager's and Auditor's Responsibilities 9
+63. Manager's and Auditor's Responsibilities 9
 
 Manager's and Auditor's Responsibilities
 
@@ -18466,7 +18374,7 @@ According to The Institute of Internal Auditors‰?? International Standards for t
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -18475,11 +18383,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-67. Managers and Auditors Responsibilities 3
+64. Managers and Auditors Responsibilities 3
 
 Manager's and Auditor's Responsibilities
 
@@ -18488,7 +18396,7 @@ Under the Sarbanes-Oxley Act, members of the audit committee can be paid for con
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -18497,11 +18405,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-68. Money Laundering 22
+65. Money Laundering 22
 
 Money Laundering
 
@@ -18510,7 +18418,7 @@ Money Laundering
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -18519,11 +18427,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-69. Money Laundering 26
+66. Money Laundering 26
 
 Money Laundering
 
@@ -18534,16 +18442,16 @@ b) Paper trail
 c) Integration
 d) Reporting
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18563,7 +18471,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  d) Reporting -- INCORRECT. (Correct answer:  b) Paper trail)
 
-70. Money Laundering 5
+67. Money Laundering 5
 
 Money Laundering
 
@@ -18583,7 +18491,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Money Laundering
 designation: 1
 of: 1066
@@ -18629,7 +18537,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Designation of a money laundering compliance officer -- INCORRECT. (Correct answer:  c) Inclusion of a $10,000 limit on all wire transfers)
 
-71. Money Laundering 6
+68. Money Laundering 6
 
 Money Laundering
 
@@ -18638,7 +18546,7 @@ Roger is traveling to Grand Cayman with a suitcase containing $8,000 in U.S. cur
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18647,11 +18555,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-72. Public Sector Fraud 13
+69. Public Sector Fraud 13
 
 Public Sector Fraud
 
@@ -18671,7 +18579,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Public Sector Fraud
 the: 623
 false: 42
@@ -18717,7 +18625,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The false statement need not be made directly to the governmental agency -- INCORRECT. (Correct answer:  b) The government must prove that it suffered a loss)
 
-73. Public Sector Fraud 2
+70. Public Sector Fraud 2
 
 Public Sector Fraud
 
@@ -18727,16 +18635,16 @@ a) Abuse| Fraud
 b) Theft
 c) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18754,7 +18662,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Theft -- CORRECT.
 
-74. Public Sector Fraud 6
+71. Public Sector Fraud 6
 
 Public Sector Fraud
 
@@ -18763,7 +18671,7 @@ According to Government Auditing Standards, assessing the risk of potential frau
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -18772,11 +18680,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-75. Public Sector Fraud 7
+72. Public Sector Fraud 7
 
 Public Sector Fraud
 
@@ -18785,7 +18693,7 @@ Government Auditing Standards state that when management fails to satisfy legal 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18794,11 +18702,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-76. Securities Fraud 1
+73. Securities Fraud 1
 
 Securities Fraud
 
@@ -18818,7 +18726,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Securities Fraud
 central: 3
 registration: 16
@@ -18847,7 +18755,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Blue Sky Registration Association -- INCORRECT. (Correct answer:  a) Central Registration Depository)
 
-77. Securities Fraud 12
+74. Securities Fraud 12
 
 Securities Fraud
 
@@ -18858,16 +18766,16 @@ b) Churning
 c) Parking
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -18887,7 +18795,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Churning -- INCORRECT. (Correct answer:  c) Parking)
 
-78. Securities Fraud 15
+75. Securities Fraud 15
 
 Securities Fraud
 
@@ -18896,7 +18804,7 @@ The Sarbanes-Oxley Act requires that CEOs and CFOs certify that they have disclo
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -18905,11 +18813,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-79. Securities Fraud 5
+76. Securities Fraud 5
 
 Securities Fraud
 
@@ -18918,7 +18826,7 @@ The sale of securities is governed by federal law only.
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -18927,11 +18835,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-80. Tax Fraud 12
+77. Tax Fraud 12
 
 Tax Fraud
 
@@ -18941,7 +18849,7 @@ a) Death of the taxpayer	| The taxpayer establishes that an objectively reasonab
 b) The taxpayer establishes that there is no deficiency
 c) The taxpayer establishes that he did not have an unrestricted right to the income
 
-Question profile index: 33
+Question profile index: 17
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -18959,7 +18867,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) Death of the taxpayer	| The taxpayer establishes that an objectively reasonable position was taken -- CORRECT.
 
-81. Tax Fraud 21
+78. Tax Fraud 21
 
 Tax Fraud
 
@@ -18979,7 +18887,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Tax Fraud
 staffing: 1
 Total Frequency for Option: 0.0
@@ -19007,7 +18915,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) What the IRS believes it can prove -- INCORRECT. (Correct answer:  b) Identity of the taxpayer)
 
-82. Tax Fraud 4
+79. Tax Fraud 4
 
 Tax Fraud
 
@@ -19027,7 +18935,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Tax Fraud
 the: 245
 amount: 5
@@ -19059,7 +18967,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The amount paid back under the claim of right doctrinex -- INCORRECT. (Correct answer:  d) The amount stolen and paid back as an ordinary and necessary business expense)
 
-83. Theft of Intellectual Property 1
+80. Theft of Intellectual Property 1
 
 Theft of Intellectual Property
 
@@ -19079,7 +18987,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Theft of Intellectual Property
 detect: 11
 fraudulent: 1
@@ -19113,7 +19021,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Detect the presence and location of technical surveillance equipment -- CORRECT.
 
-84. Theft of Intellectual Property 10
+81. Theft of Intellectual Property 10
 
 Theft of Intellectual Property
 
@@ -19122,7 +19030,7 @@ Computer backup files can be a major liability in the protection of trade secret
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19131,11 +19039,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-85. Theft of Intellectual Property 14
+82. Theft of Intellectual Property 14
 
 Theft of Intellectual Property
 
@@ -19146,16 +19054,16 @@ b) Secretive proprietary investments
 c) Safeguarding proprietary information
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19175,7 +19083,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Safeguarding proprietary information -- CORRECT.
 
-86. Criminology 11
+83. Criminology 11
 
 Criminology
 
@@ -19184,7 +19092,7 @@ Punishment is the most effective method for changing criminal behavior.
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19193,11 +19101,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-87. Criminology 12
+84. Criminology 12
 
 Criminology
 
@@ -19206,7 +19114,7 @@ According to the social control theory, the more important that social relations
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19215,11 +19123,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-88. Ethics for Fraud Examiners 1
+85. Ethics for Fraud Examiners 1
 
 Ethics for Fraud Examiners
 
@@ -19228,7 +19136,7 @@ A CFE generally would not be able to accept an assignment to uncover fraud in a 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19237,11 +19145,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-89. Ethics for Fraud Examiners 15
+86. Ethics for Fraud Examiners 15
 
 Ethics for Fraud Examiners
 
@@ -19250,7 +19158,7 @@ One of the key elements of ethics is a concept called reflective choice.
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19259,11 +19167,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-90. Ethics for Fraud Examiners 28
+87. Ethics for Fraud Examiners 28
 
 Ethics for Fraud Examiners
 
@@ -19272,7 +19180,7 @@ Materiality in a CFE's report is determined by the perceptions and conclusions o
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19281,11 +19189,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-91. Ethics for Fraud Examiners 30
+88. Ethics for Fraud Examiners 30
 
 Ethics for Fraud Examiners
 
@@ -19294,7 +19202,7 @@ A Certified Fraud Examiner was hired to investigate a company. After he carefull
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19303,11 +19211,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-92. Ethics for Fraud Examiners 5
+89. Ethics for Fraud Examiners 5
 
 Ethics for Fraud Examiners
 
@@ -19316,7 +19224,7 @@ If a Certified Fraud Examiner engaged in an illegal activity not knowing at the 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19325,11 +19233,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-93. Fraud Prevention Programs 10
+90. Fraud Prevention Programs 10
 
 Fraud Prevention Programs
 
@@ -19349,7 +19257,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Fraud Prevention Programs
 management: 100
 knew: 4
@@ -19387,7 +19295,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Any of the above -- CORRECT.
 
-94. Fraud Prevention Programs 12
+91. Fraud Prevention Programs 12
 
 Fraud Prevention Programs
 
@@ -19396,7 +19304,7 @@ Corporations and other organizations cannot be held liable for the criminal acts
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19405,11 +19313,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-95. Fraud Prevention Programs 21
+92. Fraud Prevention Programs 21
 
 Fraud Prevention Programs
 
@@ -19429,7 +19337,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Fraud Prevention Programs
 careful: 4
 screening: 6
@@ -19465,7 +19373,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Establishment of a code of ethics -- INCORRECT. (Correct answer:  b) Lenient disciplinary measures)
 
-96. Fraud Prevention Programs 26
+93. Fraud Prevention Programs 26
 
 Fraud Prevention Programs
 
@@ -19474,7 +19382,7 @@ A detailed fraud prevention policy can give management legal grounds to investig
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19483,11 +19391,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-97. Fraud Prevention Programs 27
+94. Fraud Prevention Programs 27
 
 Fraud Prevention Programs
 
@@ -19496,7 +19404,7 @@ Two selling points of a fraud prevention program are fraud's potentially negativ
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19505,11 +19413,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-98. Fraud Prevention Programs 8
+95. Fraud Prevention Programs 8
 
 Fraud Prevention Programs
 
@@ -19520,7 +19428,7 @@ b) Well-defined set of sanctions
 c) Strict adherence to prescribed disciplinary measures
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -19529,11 +19437,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-99. Fraud Risk Assessment 15
+96. Fraud Risk Assessment 15
 
 Fraud Risk Assessment
 
@@ -19544,7 +19452,7 @@ b) Professional organizations
 c) Industry news sources
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -19553,11 +19461,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-100. Fraud Risk Assessment 18
+97. Fraud Risk Assessment 18
 
 Fraud Risk Assessment
 
@@ -19566,7 +19474,7 @@ The fraud risk assessment report should contain a detailed, comprehensive list o
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19575,11 +19483,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-101. Fraud Risk Assessment 21
+98. Fraud Risk Assessment 21
 
 Fraud Risk Assessment
 
@@ -19590,16 +19498,16 @@ b) Corruption
 c) Asset misappropriation
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19619,7 +19527,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Corruption -- CORRECT.
 
-102. Fraud Risk Assessment 34
+99. Fraud Risk Assessment 34
 
 Fraud Risk Assessment
 
@@ -19630,7 +19538,7 @@ b) Improve communication and awareness about fraud
 c) Know who puts the organization at the greatest risk of fraud
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -19639,11 +19547,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-103. Fraud Risk Assessment 36
+100. Fraud Risk Assessment 36
 
 Fraud Risk Assessment
 
@@ -19652,7 +19560,7 @@ The fraud risk assessment team should consider both qualitative and quantitative
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19661,11 +19569,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-104. Occupational Fraud 15
+101. Occupational Fraud 15
 
 Occupational Fraud
 
@@ -19676,16 +19584,16 @@ b) Immediate financial resources
 c) Rationalization
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19705,7 +19613,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Rationalization -- CORRECT.
 
-105. Occupational Fraud 20
+102. Occupational Fraud 20
 
 Occupational Fraud
 
@@ -19716,16 +19624,16 @@ b) Edwin H. Sutherland
 c) Donald R. Cressey
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19745,7 +19653,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Edwin H. Sutherland -- INCORRECT. (Correct answer:  c) Donald R. Cressey)
 
-106. Occupational Fraud 26
+103. Occupational Fraud 26
 
 Occupational Fraud
 
@@ -19756,20 +19664,20 @@ b) Absconders
 c) Long-term violators
 d) All of the above are categories
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are categories -- CORRECT.
 
-107. Occupational Fraud 3
+104. Occupational Fraud 3
 
 Occupational Fraud
 
@@ -19780,16 +19688,16 @@ b) Donald R. Cressey
 c) Marshall B. Clinard
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19809,7 +19717,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Donald R. Cressey -- CORRECT.
 
-108. Occupational Fraud 8
+105. Occupational Fraud 8
 
 Occupational Fraud
 
@@ -19818,7 +19726,7 @@ Hollinger and Clark found in their research on employee misconduct that property
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19827,11 +19735,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-109. Organizational Crime 14
+106. Organizational Crime 14
 
 Organizational Crime
 
@@ -19840,7 +19748,7 @@ Research has shown that many executives know their behavior is illegal but tend 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19849,11 +19757,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-110. Organizational Crime 2
+107. Organizational Crime 2
 
 Organizational Crime
 
@@ -19862,7 +19770,7 @@ Clinard and Yeager, in their studies, found that illegal behavior by a corporati
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19871,11 +19779,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-111. Organizational Crime 20
+108. Organizational Crime 20
 
 Organizational Crime
 
@@ -19886,7 +19794,7 @@ b) State intervention
 c) Voluntary changes in corporate attitudes
 d) All of the above are approaches
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -19895,11 +19803,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are approaches -- CORRECT.
 
-112. Organizational Crime 3
+109. Organizational Crime 3
 
 Organizational Crime
 
@@ -19908,7 +19816,7 @@ In a complex organizational structure, it is less likely that misbehavior will b
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19917,11 +19825,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-113. Punishment 4
+110. Punishment 4
 
 Punishment
 
@@ -19930,7 +19838,7 @@ The Uniform Crime Reports are compiled and issued by the Federal Bureau of Inves
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19939,11 +19847,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-114. Punishment 6
+111. Punishment 6
 
 Punishment
 
@@ -19952,7 +19860,7 @@ When a criminal is sentenced to imprisonment, the length of the term is always l
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -19961,11 +19869,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-115. White-Collar Crime 12
+112. White-Collar Crime 12
 
 White-Collar Crime
 
@@ -19974,7 +19882,7 @@ White-collar criminals are more likely to be fined than to face prison terms as 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -19983,11 +19891,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-116. White-Collar Crime 2
+113. White-Collar Crime 2
 
 White-Collar Crime
 
@@ -19996,7 +19904,7 @@ In white-collar crime cases, the higher an offender's status, the more likely th
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20005,11 +19913,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-117. Analyzing Documents 16
+114. Analyzing Documents 16
 
 Analyzing Documents
 
@@ -20020,16 +19928,16 @@ b) Evidential value
 c) Exhibit stamp
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20049,7 +19957,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Chain of custody -- CORRECT.
 
-118. Analyzing Documents 4
+115. Analyzing Documents 4
 
 Analyzing Documents
 
@@ -20060,20 +19968,20 @@ b) Written consent
 c) Subpoena
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-119. Analyzing Documents 8
+116. Analyzing Documents 8
 
 Analyzing Documents
 
@@ -20082,7 +19990,7 @@ Admissible evidence generally falls into one of two types: direct or circumstant
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20091,11 +19999,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-120. Covert Examinations 25
+117. Covert Examinations 25
 
 Covert Examinations
 
@@ -20106,20 +20014,20 @@ b) Large time commitment
 c) Costliness
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-121. Covert Examinations 37
+118. Covert Examinations 37
 
 Covert Examinations
 
@@ -20128,7 +20036,7 @@ In order to protect the security of a covert investigation, no reports or memora
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20137,11 +20045,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-122. Covert Examinations 39
+119. Covert Examinations 39
 
 Covert Examinations
 
@@ -20152,16 +20060,16 @@ b) Undercover
 c) Covert
 d) Electronic
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20181,7 +20089,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Covert -- INCORRECT. (Correct answer:  a) Mobile)
 
-123. Covert Examinations 5
+120. Covert Examinations 5
 
 Covert Examinations
 
@@ -20192,7 +20100,7 @@ b) By name
 c) Symbols
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -20201,7 +20109,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20221,7 +20129,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Symbols -- CORRECT.
 
-124. Covert Examinations 7
+121. Covert Examinations 7
 
 Covert Examinations
 
@@ -20230,7 +20138,7 @@ When conducting a covert operation a fraud examiner is always allowed to videota
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -20239,11 +20147,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-125. Data Analysis 10
+122. Data Analysis 10
 
 Data Analysis
 
@@ -20252,7 +20160,7 @@ CaseMap is an excellent program to use if you wish to identify duplicate invoice
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20261,11 +20169,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-126. Data Analysis 16
+123. Data Analysis 16
 
 Data Analysis
 
@@ -20276,7 +20184,7 @@ b) Sort asset values by asset type or dollar amount
 c) Compare book and tax depreciation and indicate variances
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -20285,11 +20193,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-127. Data Analysis 2
+124. Data Analysis 2
 
 Data Analysis
 
@@ -20300,16 +20208,16 @@ b) Verify
 c) Sort
 d) Join
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20329,7 +20237,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Sort -- CORRECT.
 
-128. Data Analysis 8
+125. Data Analysis 8
 
 Data Analysis
 
@@ -20340,16 +20248,16 @@ b) Duplicate search
 c) Vertical analysis
 d) Correlation analysis
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20369,7 +20277,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Vertical analysis -- INCORRECT. (Correct answer:  b) Duplicate search)
 
-129. Digital Forensics 21
+126. Digital Forensics 21
 
 Digital Forensics
 
@@ -20380,20 +20288,20 @@ b) Printers
 c) Removable storage devices
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-130. Digital Forensics 24
+127. Digital Forensics 24
 
 Digital Forensics
 
@@ -20402,7 +20310,7 @@ To satisfy the requirements under the Fourth Amendment, all warrants for searche
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -20411,11 +20319,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-131. Digital Forensics 30
+128. Digital Forensics 30
 
 Digital Forensics
 
@@ -20424,7 +20332,7 @@ When seizing a laptop computer for forensic examination, you should first unplug
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20433,11 +20341,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-132. Digital Forensics 31
+129. Digital Forensics 31
 
 Digital Forensics
 
@@ -20457,7 +20365,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Digital Forensics
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -20486,7 +20394,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Shut down the operating system normally -- INCORRECT. (Correct answer:  b) Unplug the computer immediately)
 
-133. Digital Forensics 7
+130. Digital Forensics 7
 
 Digital Forensics
 
@@ -20497,16 +20405,16 @@ b) Passwords
 c) Practice aids
 d) Encrypted data
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20526,7 +20434,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Passwords -- CORRECT.
 
-134. Illicit Transactions 12
+131. Illicit Transactions 12
 
 Illicit Transactions
 
@@ -20546,7 +20454,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Illicit Transactions
 it: 71
 is: 210
@@ -20601,7 +20509,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) It is difficult to trace the payments -- CORRECT.
 
-135. Illicit Transactions 22
+132. Illicit Transactions 22
 
 Illicit Transactions
 
@@ -20610,7 +20518,7 @@ Net worth can be defined as the difference between assets and liabilities at a p
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20619,11 +20527,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-136. Illicit Transactions 25
+133. Illicit Transactions 25
 
 Illicit Transactions
 
@@ -20632,7 +20540,7 @@ If an anomaly is found in the financial statements and transactions and further 
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -20641,11 +20549,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-137. Illicit Transactions 35
+134. Illicit Transactions 35
 
 Illicit Transactions
 
@@ -20656,7 +20564,7 @@ b) The suspect sold the house
 c) The suspect was overpaid previously
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -20665,7 +20573,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20685,7 +20593,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The payment was made in cash (currency) -- CORRECT.
 
-138. Illicit Transactions 40
+135. Illicit Transactions 40
 
 Illicit Transactions
 
@@ -20696,16 +20604,16 @@ b) Deposit ticket
 c) On-us item
 d) Negotiated check
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20725,7 +20633,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Deposit ticket -- INCORRECT. (Correct answer:  c) On-us item)
 
-139. Illicit Transactions 47
+136. Illicit Transactions 47
 
 Illicit Transactions
 
@@ -20736,16 +20644,16 @@ b) The bank account records
 c) The suspect/recipient
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20765,7 +20673,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Third-party witnesses -- INCORRECT. (Correct answer:  b) The bank account records)
 
-140. Interview Theory and Application 29
+137. Interview Theory and Application 29
 
 Interview Theory and Application
 
@@ -20776,20 +20684,20 @@ b) Introductory
 c) Admission-seeking
 d) All of the above are types of questions
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of questions -- CORRECT.
 
-141. Interview Theory and Application 32
+138. Interview Theory and Application 32
 
 Interview Theory and Application
 
@@ -20809,7 +20717,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Interview Theory and Application
 sensitive: 12
 questions: 154
@@ -20851,7 +20759,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) At the very end of the interview -- INCORRECT. (Correct answer:  b) Well into the interview)
 
-142. Interview Theory and Application 34
+139. Interview Theory and Application 34
 
 Interview Theory and Application
 
@@ -20862,16 +20770,16 @@ b) Assessment
 c) Calibrating
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20891,7 +20799,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Assessment -- INCORRECT. (Correct answer:  c) Calibrating)
 
-143. Interview Theory and Application 35
+140. Interview Theory and Application 35
 
 Interview Theory and Application
 
@@ -20902,7 +20810,7 @@ b) Tell Alfred that he could be considered a suspect in the theft and observe hi
 c) Not review the key points, thereby preventing Alfred from knowing what Smith considers important
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -20911,7 +20819,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20931,7 +20839,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Review the key points discussed during the interview to ensure he has understood everything Alfred has said -- CORRECT.
 
-144. Interview Theory and Application 62
+141. Interview Theory and Application 62
 
 Interview Theory and Application
 
@@ -20942,7 +20850,7 @@ b) Motions made primarily with the hands to demonstrate a point
 c) Expressions made with the face, which meanings are clearly understood
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -20951,7 +20859,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -20971,7 +20879,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Verbal statements which illustrate a point -- INCORRECT. (Correct answer:  b) Motions made primarily with the hands to demonstrate a point)
 
-145. Interview Theory and Application 7
+142. Interview Theory and Application 7
 
 Interview Theory and Application
 
@@ -20982,16 +20890,16 @@ b) Ego threats
 c) Inhibitors of communication
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21011,7 +20919,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Trauma -- INCORRECT. (Correct answer:  d) None of the above)
 
-146. Interview Theory and Application 71
+143. Interview Theory and Application 71
 
 Interview Theory and Application
 
@@ -21022,7 +20930,7 @@ b) Frustrate Blue and end the interview
 c) Ensure he understands the question
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -21031,7 +20939,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21051,7 +20959,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Gain time to frame his answer -- CORRECT.
 
-147. Interview Theory and Application 81
+144. Interview Theory and Application 81
 
 Interview Theory and Application
 
@@ -21062,16 +20970,16 @@ b) Inferential confusion
 c) Chronological confusion
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21091,7 +20999,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Trauma -- INCORRECT. (Correct answer:  b) Inferential confusion)
 
-148. Interview Theory and Application 84
+145. Interview Theory and Application 84
 
 Interview Theory and Application
 
@@ -21102,20 +21010,20 @@ b) Drug use
 c) Mental illness
 d) All of the above will affect the symptoms
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above will affect the symptoms -- CORRECT.
 
-149. Interview Theory and Application 90
+146. Interview Theory and Application 90
 
 Interview Theory and Application
 
@@ -21124,7 +21032,7 @@ Showing sympathy is never a good idea in an interview.
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -21133,11 +21041,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-150. Interviewing Suspects and Signed Statements 1
+147. Interviewing Suspects and Signed Statements 1
 
 Interviewing Suspects and Signed Statements
 
@@ -21148,7 +21056,7 @@ b) "What do you have left?"
 c) "Is there anything left?"
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -21157,7 +21065,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21177,7 +21085,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) "Did you spend everything?" -- INCORRECT. (Correct answer:  b) "What do you have left?")
 
-151. Interviewing Suspects and Signed Statements 12
+148. Interviewing Suspects and Signed Statements 12
 
 Interviewing Suspects and Signed Statements
 
@@ -21186,7 +21094,7 @@ During a confession, privacy laws usually prohibit the interviewer from asking t
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21195,11 +21103,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-152. Interviewing Suspects and Signed Statements 20
+149. Interviewing Suspects and Signed Statements 20
 
 Interviewing Suspects and Signed Statements
 
@@ -21210,7 +21118,7 @@ b) That Blue knew the conduct was wrong
 c) A general estimate of the amount of money involved
 d) That Blue's conduct was an accident
 
-Question profile index: 33
+Question profile index: 17
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -21229,7 +21137,7 @@ Algorithm selected: MinFrequency
 
 Agent response:  a) The location of any assets -- INCORRECT. (Correct answer:  d) That Blue's conduct was an accident)
 
-153. Interviewing Suspects and Signed Statements 32
+150. Interviewing Suspects and Signed Statements 32
 
 Interviewing Suspects and Signed Statements
 
@@ -21240,16 +21148,16 @@ b) By written consent
 c) By verbal consent
 d) Any of the above
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21269,7 +21177,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) By subpoena -- INCORRECT. (Correct answer:  b) By written consent)
 
-154. Interviewing Suspects and Signed Statements 40
+151. Interviewing Suspects and Signed Statements 40
 
 Interviewing Suspects and Signed Statements
 
@@ -21289,7 +21197,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Interviewing Suspects and Signed Statements
 was: 47
 it: 210
@@ -21331,7 +21239,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) "Of course you know. How much was it?" -- INCORRECT. (Correct answer:  a) "Was it as much as $600,000?)
 
-155. Sources of Information 10
+152. Sources of Information 10
 
 Sources of Information
 
@@ -21342,16 +21250,16 @@ b) City of issue
 c) Individual identifiers
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21371,7 +21279,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) State of issue -- CORRECT.
 
-156. Sources of Information 15
+153. Sources of Information 15
 
 Sources of Information
 
@@ -21382,16 +21290,16 @@ b) File-based credit reporting agency
 c) Investigative reporting agency
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21411,7 +21319,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Business credit reporting association -- INCORRECT. (Correct answer:  b) File-based credit reporting agency)
 
-157. Sources of Information 17
+154. Sources of Information 17
 
 Sources of Information
 
@@ -21420,7 +21328,7 @@ Federal and state criminal conviction records are not available to the general p
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21429,11 +21337,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-158. Sources of Information 25
+155. Sources of Information 25
 
 Sources of Information
 
@@ -21444,7 +21352,7 @@ b) Probate court
 c) Department of Housing and Urban Development
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -21453,7 +21361,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21473,7 +21381,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Probate court -- INCORRECT. (Correct answer:  d) None of the above)
 
-159. Sources of Information 42
+156. Sources of Information 42
 
 Sources of Information
 
@@ -21482,7 +21390,7 @@ Baker is a con artist who has defrauded many people through phony home repair sc
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -21491,11 +21399,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-160. Written Reports 1
+157. Written Reports 1
 
 Written Reports
 
@@ -21506,16 +21414,16 @@ b) Opinions
 c) Speculations
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21535,7 +21443,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Opinions -- INCORRECT. (Correct answer:  a) Conclusions)
 
-161. Written Reports 12
+158. Written Reports 12
 
 Written Reports
 
@@ -21544,7 +21452,7 @@ Writing grammatically correct reports of fraud examinations is important. In gen
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21553,11 +21461,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-162. Written Reports 20
+159. Written Reports 20
 
 Written Reports
 
@@ -21568,16 +21476,16 @@ b) Link network diagram
 c) Time flow diagram
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21597,7 +21505,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Matrix -- INCORRECT. (Correct answer:  b) Link network diagram)
 
-163. Civil Justice System 1
+160. Civil Justice System 1
 
 Civil Justice System
 
@@ -21608,16 +21516,16 @@ b) Filing a discovery motion
 c) Conducting an investigation
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21637,7 +21545,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Filing of a complaint -- CORRECT.
 
-164. Civil Justice System 16
+161. Civil Justice System 16
 
 Civil Justice System
 
@@ -21648,16 +21556,16 @@ b) The employer/employee privilege
 c) The investigator/client privilege
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21677,7 +21585,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The CFE/client privilege -- INCORRECT. (Correct answer:  d) None of the above)
 
-165. Civil Justice System 22
+162. Civil Justice System 22
 
 Civil Justice System
 
@@ -21697,7 +21605,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Civil Justice System
 enter: 4
 a: 205
@@ -21740,7 +21648,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Order a certain portion of the damages be remitted -- INCORRECT. (Correct answer:  c) Hear new evidence and render a verdict)
 
-166. Civil Justice System 28
+163. Civil Justice System 28
 
 Civil Justice System
 
@@ -21751,16 +21659,16 @@ b) Requests for admission
 c) Search warrants
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21780,7 +21688,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Requests for admission -- INCORRECT. (Correct answer:  a) Requests to produce documents)
 
-167. Civil Justice System 7
+164. Civil Justice System 7
 
 Civil Justice System
 
@@ -21790,16 +21698,16 @@ a) Complaint	| Motion
 b) Affidavit
 c) Any of the above
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21817,7 +21725,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Affidavit -- INCORRECT. (Correct answer:  a) Complaint	| Motion)
 
-168. Criminal Prosecutions for Fraud 23
+165. Criminal Prosecutions for Fraud 23
 
 Criminal Prosecutions for Fraud
 
@@ -21828,16 +21736,16 @@ b) The voir dire
 c) A peremptory challenge
 d) The declinatory challenge
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21857,7 +21765,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) A peremptory challenge -- CORRECT.
 
-169. Criminal Prosecutions for Fraud 28
+166. Criminal Prosecutions for Fraud 28
 
 Criminal Prosecutions for Fraud
 
@@ -21866,7 +21774,7 @@ Both individuals and businesses have a Fifth Amendment right not to be compelled
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21875,11 +21783,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-170. Criminal Prosecutions for Fraud 31
+167. Criminal Prosecutions for Fraud 31
 
 Criminal Prosecutions for Fraud
 
@@ -21888,7 +21796,7 @@ Ignorance is a common defense to white-collar crime cases.
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21897,11 +21805,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-171. Criminal Prosecutions for Fraud 36
+168. Criminal Prosecutions for Fraud 36
 
 Criminal Prosecutions for Fraud
 
@@ -21912,7 +21820,7 @@ b) All statements, regardless of who made them
 c) All relevant statements made by him/her
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -21921,7 +21829,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21941,7 +21849,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) All statements of witnesses made against him/her -- INCORRECT. (Correct answer:  c) All relevant statements made by him/her)
 
-172. Criminal Prosecutions for Fraud 39
+169. Criminal Prosecutions for Fraud 39
 
 Criminal Prosecutions for Fraud
 
@@ -21952,16 +21860,16 @@ b) The Alford plea
 c) The Johnson plea
 d) The Katz plea
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21981,7 +21889,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The Brady plea -- INCORRECT. (Correct answer:  b) The Alford plea)
 
-173. Criminal Prosecutions for Fraud 58
+170. Criminal Prosecutions for Fraud 58
 
 Criminal Prosecutions for Fraud
 
@@ -21990,7 +21898,7 @@ If the jury selection process excludes certain groups, like minorities, the defe
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -21999,11 +21907,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-174. Criminal Prosecutions for Fraud 66
+171. Criminal Prosecutions for Fraud 66
 
 Criminal Prosecutions for Fraud
 
@@ -22014,16 +21922,16 @@ b) Voir dire
 c) Peremptory challenge
 d) Res judicata
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22043,7 +21951,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Peremptory challenge -- INCORRECT. (Correct answer:  b) Voir dire)
 
-175. Criminal Prosecutions for Fraud 73
+172. Criminal Prosecutions for Fraud 73
 
 Criminal Prosecutions for Fraud
 
@@ -22054,16 +21962,16 @@ b) Brady material
 c) Katz material
 d) Merkley material
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22083,7 +21991,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Brady material -- CORRECT.
 
-176. Criminal Prosecutions for Fraud 77
+173. Criminal Prosecutions for Fraud 77
 
 Criminal Prosecutions for Fraud
 
@@ -22103,7 +22011,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Criminal Prosecutions for Fraud
 motion: 18
 for: 137
@@ -22134,7 +22042,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Motion to dismiss -- INCORRECT. (Correct answer:  b) Motion to suppress evidence)
 
-177. Evidence 21
+174. Evidence 21
 
 Evidence
 
@@ -22145,16 +22053,16 @@ b) Hearsay evidence
 c) Circumstantial evidence
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22174,7 +22082,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Circumstantial evidence -- INCORRECT. (Correct answer:  b) Hearsay evidence)
 
-178. Evidence 34
+175. Evidence 34
 
 Evidence
 
@@ -22185,16 +22093,16 @@ b) Inferential evidencex
 c) Indirect evidence
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22214,7 +22122,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Circumstantial evidence -- CORRECT.
 
-179. Evidence 36
+176. Evidence 36
 
 Evidence
 
@@ -22223,7 +22131,7 @@ Evidence
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22232,11 +22140,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-180. Evidence 39
+177. Evidence 39
 
 Evidence
 
@@ -22245,7 +22153,7 @@ The Work Product Doctrine applies only to documents and things prepared in antic
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -22254,11 +22162,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-181. Evidence 7
+178. Evidence 7
 
 Evidence
 
@@ -22269,16 +22177,16 @@ b) The documentary rule
 c) The photocopy rule
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22298,7 +22206,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The best evidence rule -- CORRECT.
 
-182. Law Related to Fraud 20
+179. Law Related to Fraud 20
 
 Law Related to Fraud
 
@@ -22309,16 +22217,16 @@ b) Outrageous
 c) Aggravated
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22338,7 +22246,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Material -- CORRECT.
 
-183. Law Related to Fraud 24
+180. Law Related to Fraud 24
 
 Law Related to Fraud
 
@@ -22347,7 +22255,7 @@ The crime of embezzlement normally involves a relationship of trust.
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22356,11 +22264,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-184. Law Related to Fraud 35
+181. Law Related to Fraud 35
 
 Law Related to Fraud
 
@@ -22380,7 +22288,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Law Related to Fraud
 negligence: 7
 Total Frequency for Option: 7.0
@@ -22412,7 +22320,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Knowledge of the statement's falsity -- INCORRECT. (Correct answer:  a) Negligence)
 
-185. Law Related to Fraud 45
+182. Law Related to Fraud 45
 
 Law Related to Fraud
 
@@ -22432,7 +22340,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Law Related to Fraud
 at: 36
 least: 9
@@ -22469,7 +22377,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The defendant knew the purpose of the agreement -- INCORRECT. (Correct answer:  c) The overt act was criminal in nature)
 
-186. Law Related to Fraud 47
+183. Law Related to Fraud 47
 
 Law Related to Fraud
 
@@ -22489,7 +22397,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Law Related to Fraud
 an: 161
 intentional: 10
@@ -22518,7 +22426,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) An intentional false statement -- INCORRECT. (Correct answer:  c) Uttered in a court of law)
 
-187. Law Related to Fraud 54
+184. Law Related to Fraud 54
 
 Law Related to Fraud
 
@@ -22529,16 +22437,16 @@ b) Misprision of a felony
 c) Aiding and abetting
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22558,7 +22466,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Obstruction of justice -- CORRECT.
 
-188. Law Related to Fraud 6
+185. Law Related to Fraud 6
 
 Law Related to Fraud
 
@@ -22569,16 +22477,16 @@ b) Bustoff
 c) Bustout
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22598,7 +22506,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Bust -- INCORRECT. (Correct answer:  c) Bustout)
 
-189. Legal Rights of Employees 2
+186. Legal Rights of Employees 2
 
 Legal Rights of Employees
 
@@ -22609,7 +22517,7 @@ b) Can be given to prospective employees
 c) Cannot be given unless the employee consents
 d) None of the above
 
-Question profile index: 65
+Question profile index: 33
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
@@ -22618,7 +22526,7 @@ Question profile index: 65
                   MinFrequency:      0.341
                   Bag Of Words:      0.297
            Composite Frequency:      0.297
-                        Random:      0.264
+                        Random:      0.209
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22638,7 +22546,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Cannot be given to prospective employees -- CORRECT.
 
-190. Legal Rights of Employees 21
+187. Legal Rights of Employees 21
 
 Legal Rights of Employees
 
@@ -22647,7 +22555,7 @@ Gray, a private investigator, illegally searches the house of a suspect. He will
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22656,11 +22564,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-191. Legal Rights of Employees 23
+188. Legal Rights of Employees 23
 
 Legal Rights of Employees
 
@@ -22671,16 +22579,16 @@ b) Nonjudgmental
 c) Nongovernment
 d) Nonaccusatory
 
-Question profile index: 4
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.448
-                   MaxFreqPlus:      0.448
-                  MinFrequency:      0.251
-                  Bag Of Words:      0.399
-           Composite Frequency:      0.448
-                        Random:      0.257
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22700,7 +22608,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Noncustodial -- CORRECT.
 
-192. Legal Rights of Employees 39
+189. Legal Rights of Employees 39
 
 Legal Rights of Employees
 
@@ -22709,7 +22617,7 @@ Black, a Certified Fraud Examiner, interviews Green, a fraud suspect. No one els
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22718,11 +22626,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-193. Legal Rights of Employees 43
+190. Legal Rights of Employees 43
 
 Legal Rights of Employees
 
@@ -22733,26 +22641,36 @@ b) Fourth Amendment
 c) Sixth Amendment
 d) Fifth Amendment
 
-Question profile index: 6
+Question profile index: 2
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.250
-                   MaxFreqPlus:      0.250
-                  MinFrequency:      0.350
-                  Bag Of Words:      0.175
-           Composite Frequency:      0.250
-                        Random:      0.150
-Algorithm selected: MinFrequency
+                  MaxFrequency:      0.413
+                   MaxFreqPlus:      0.413
+                  MinFrequency:      0.269
+                  Bag Of Words:      0.359
+           Composite Frequency:      0.413
+                        Random:      0.300
+Executing max frequency algo...
+Testing whether this is a TrueFalse question...
+This is not a true false question.
+Retrieving section text for question section, Legal Rights of Employees
+Question section retrieval complete., 
+Determining frequency for string, Fourteenth Amendment
+Determining frequency for string, Fourth Amendment
+Determining frequency for string, Sixth Amendment
+Determining frequency for string, Fifth Amendment
+Max Fequency algorithm complete.
+Algorithm selected: MaxFrequency
                Phrase           Frequency
  Fourteenth Amendment              1.000
      Fourth Amendment             21.000
       Sixth Amendment              3.000
       Fifth Amendment              8.000
 
-Agent response:  a) Fourteenth Amendment -- INCORRECT. (Correct answer:  d) Fifth Amendment)
+Agent response:  b) Fourth Amendment -- INCORRECT. (Correct answer:  d) Fifth Amendment)
 
-194. Legal Rights of Employees 7
+191. Legal Rights of Employees 7
 
 Legal Rights of Employees
 
@@ -22763,7 +22681,7 @@ b) Blue intended to cause severe emotional distress, or recklessly disregarded w
 c) Brown actually suffered severe distress
 d) All of the above
 
-Question profile index: 129
+Question profile index: 65
               All of the Above:      0.843
                    True Select:      0.000
                   False Select:      0.000
@@ -22772,11 +22690,11 @@ Question profile index: 129
                   MinFrequency:      0.090
                   Bag Of Words:      0.618
            Composite Frequency:      0.618
-                        Random:      0.213
+                        Random:      0.180
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-195. Overview of the Legal System 19
+192. Overview of the Legal System 19
 
 Overview of the Legal System
 
@@ -22787,16 +22705,16 @@ b) The preponderance of evidence
 c) Beyond a legal doubt
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22816,7 +22734,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Beyond a reasonable doubt -- CORRECT.
 
-196. Overview of the Legal System 7
+193. Overview of the Legal System 7
 
 Overview of the Legal System
 
@@ -22825,7 +22743,7 @@ Criminal laws are statutory. Civil actions can be based on either statutes or co
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22834,11 +22752,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-197. Overview of the Legal System 8
+194. Overview of the Legal System 8
 
 Overview of the Legal System
 
@@ -22849,20 +22767,20 @@ b) Imprisonment
 c) Fines
 d) All of the above
 
-Question profile index: 132
-              All of the Above:      0.850
+Question profile index: 66
+              All of the Above:      0.743
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.100
-                   MaxFreqPlus:      0.117
-                  MinFrequency:      0.083
-                  Bag Of Words:      0.667
-           Composite Frequency:      0.117
-                        Random:      0.233
+                  MaxFrequency:      0.086
+                   MaxFreqPlus:      0.100
+                  MinFrequency:      0.143
+                  Bag Of Words:      0.586
+           Composite Frequency:      0.100
+                        Random:      0.329
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-198. Testifying as an Expert Witness 13
+195. Testifying as an Expert Witness 13
 
 Testifying as an Expert Witness
 
@@ -22873,16 +22791,16 @@ b) Guilt
 c) Opinion
 d) None of the above
 
-Question profile index: 68
+Question profile index: 34
               All of the Above:      0.000
                    True Select:      0.000
                   False Select:      0.000
-                  MaxFrequency:      0.563
-                   MaxFreqPlus:      0.544
-                  MinFrequency:      0.310
-                  Bag Of Words:      0.354
-           Composite Frequency:      0.544
-                        Random:      0.228
+                  MaxFrequency:      0.550
+                   MaxFreqPlus:      0.527
+                  MinFrequency:      0.308
+                  Bag Of Words:      0.343
+           Composite Frequency:      0.527
+                        Random:      0.266
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22902,7 +22820,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Opinion -- INCORRECT. (Correct answer:  a) Fact)
 
-199. Testifying as an Expert Witness 14
+196. Testifying as an Expert Witness 14
 
 Testifying as an Expert Witness
 
@@ -22911,7 +22829,7 @@ White is an expert testifying in a complicated securities fraud case In preparin
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22920,11 +22838,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-200. Testifying as an Expert Witness 22
+197. Testifying as an Expert Witness 22
 
 Testifying as an Expert Witness
 
@@ -22933,7 +22851,7 @@ If the evidence clearly shows that a suspect has committed a crime, it is permis
 a) True
 b) False
 
-Question profile index: 16
+Question profile index: 8
               All of the Above:      0.000
                    True Select:      0.587
                   False Select:      0.413
@@ -22942,11 +22860,11 @@ Question profile index: 16
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.523
+                        Random:      0.533
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-201. Testifying as an Expert Witness 4
+198. Testifying as an Expert Witness 4
 
 Testifying as an Expert Witness
 
@@ -22955,7 +22873,7 @@ Baker is a CFE who has been hired by the plaintiffs attorney to testify as an ex
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -22964,11 +22882,11 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-202. Testifying as an Expert Witness 6
+199. Testifying as an Expert Witness 6
 
 Testifying as an Expert Witness
 
@@ -22988,7 +22906,7 @@ Question profile index: 1
                   MinFrequency:      0.311
                   Bag Of Words:      0.316
            Composite Frequency:      0.316
-                        Random:      0.254
+                        Random:      0.305
 Question section: Testifying as an Expert Witness
 testifying: 44
 that: 141
@@ -23034,7 +22952,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Testifying that the defendant is guilty -- CORRECT.
 
-203. Testifying as an Expert Witness 9
+200. Testifying as an Expert Witness 9
 
 Testifying as an Expert Witness
 
@@ -23043,7 +22961,7 @@ Under Rule 702 of the Federal Rules of Evidence, a witness qualified as an exper
 a) True
 b) False
 
-Question profile index: 24
+Question profile index: 12
               All of the Above:      0.000
                    True Select:      0.228
                   False Select:      0.772
@@ -23052,10 +22970,10 @@ Question profile index: 24
                   MinFrequency:      0.000
                   Bag Of Words:      0.000
            Composite Frequency:      0.000
-                        Random:      0.561
+                        Random:      0.368
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-EXAM COMPLETE. Score:  100 out of 203
+EXAM COMPLETE. Score:  98 out of 200
 
 

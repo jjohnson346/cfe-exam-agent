@@ -196,7 +196,7 @@ public class QuestionServer {
 		// QuestionServer qs = new QuestionServer("exam questions - test set",68);
 
 		// definition/not questions:
-		QuestionServer qs = new QuestionServer("exam questions - training set", 6);
+		QuestionServer qs = new QuestionServer("exam questions - training set", 134);
 
 		Scanner input = new Scanner(System.in);
 

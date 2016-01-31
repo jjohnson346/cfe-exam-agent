@@ -221,7 +221,7 @@ public class ConceptMatchV3NOTA extends AbstractConceptMatch {
 		if (question.getProfile().featureExists(FeatureType.NONE_OF_THE_ABOVE)) {
 			Logger.getInstance()
 					.printf(DetailLevel.FULL, "%s\n",
-							"This is an ALL-OF-THE-ABOVE question.  Eliminating the All-OF-THE-ABOVE option for this algorithm... \n");
+							"This is an NONE-OF-THE-ABOVE question.  Eliminating the NONE-OF-THE-ABOVE option for this algorithm... \n");
 			options.remove(3);
 		}
 

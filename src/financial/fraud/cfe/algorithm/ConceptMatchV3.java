@@ -305,10 +305,14 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 		String questionName;
 
 		// Interview Theory and Application 34.txt
-		examSectionName = "Investigation";
-		questionSectionName = "Interview Theory and Application";
-		questionName = "Interview Theory and Application 34.txt";
+		// examSectionName = "Investigation";
+		// questionSectionName = "Interview Theory and Application";
+		// questionName = "Interview Theory and Application 34.txt";
 
+		examSectionName = "Financial Transactions and Fraud Schemes";
+		questionSectionName = "Money Laundering";
+		questionName = "Money Laundering 26.txt";
+		
 		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName

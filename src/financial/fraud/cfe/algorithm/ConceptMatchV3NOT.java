@@ -92,6 +92,13 @@ public class ConceptMatchV3NOT extends AbstractConceptMatch {
 		for(ScoreDoc scoreDoc : hits.scoreDocs) {
 			if(docOptionScores.containsKey(scoreDoc.doc)) {
 				int currOption = docOptionScores.get(scoreDoc.doc).option;
+//				double currScore = docOptionScores.get(scoreDoc.doc).score;
+//				if(optionScoreDocs.containsKey(currOption)) {
+//					ScoreDoc sd = optionScoreDocs.get(currOption);
+//					if(currScore > sd.score) {
+//						optionScoreDocs.put(currOption, scoreDoc);
+//					}
+//				}
 				if(!optionScoreDocs.containsKey(currOption))
 					optionScoreDocs.put(currOption, scoreDoc);
 			}
