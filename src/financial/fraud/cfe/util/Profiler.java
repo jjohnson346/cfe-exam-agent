@@ -86,8 +86,8 @@ public class Profiler {
 		algos[AlgorithmType.CM_V1.ordinal()] = new ConceptMatchV1();
 		algos[AlgorithmType.CM_V2.ordinal()] = new ConceptMatchV2();
 		algos[AlgorithmType.CM_V3.ordinal()] = new ConceptMatchV3();
-		algos[AlgorithmType.CM_V3_NOTA.ordinal()] = new ConceptMatchV3NOTA();
-		algos[AlgorithmType.CM_V3_NOT.ordinal()] = new ConceptMatchV3NOT();
+		algos[AlgorithmType.CM_NOTA.ordinal()] = new ConceptMatchV3NOTA();
+		algos[AlgorithmType.CM_NOT.ordinal()] = new ConceptMatchV3NOT();
 
 		algos[AlgorithmType.RANDOM.ordinal()] = new Randomization();
 

@@ -16186,7 +16186,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): a person who holds a perfected security interest against a person filing bankruptcy  
 
 Doc results for stem: a person who holds a perfected security interest against a person filing bankruptcy  
@@ -16242,7 +16242,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16271,7 +16271,7 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are included -- CORRECT.
 
@@ -16300,7 +16300,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): which gaap principle requires corresponding expenses and revenue to be recorded in the same accounting period 
 
 Doc results for stem: which gaap principle requires corresponding expenses and revenue to be recorded in the same accounting period 
@@ -16358,7 +16358,7 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are intangible assets -- CORRECT.
 
@@ -16387,7 +16387,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): the worth of a business, if it is any good, will always be higher than the value of its hard assets. this is reflected in the accounting concept of
 
 Doc results for stem: the worth of a business, if it is any good, will always be higher than the value of its hard assets. this is reflected in the accounting concept of
@@ -16445,7 +16445,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): in proving corrupt payments, the fraud examination often begins with 
 
 Doc results for stem: in proving corrupt payments, the fraud examination often begins with 
@@ -16510,7 +16510,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Bribery and Corruption
 an: 118
 actual: 5
@@ -16598,7 +16598,7 @@ Question profile index: 33
             Composite Match V3:      0.094
        Composite Match V3 NOTA:      0.094
         Composite Match V3 NOT:      0.469
-                        Random:      0.188
+                        Random:      0.313
 Stem (lower case): all of the following are basic methods of proving illegal payments except
 
 Doc results for stem: all of the following are basic methods of proving illegal payments except
@@ -16659,7 +16659,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16686,7 +16686,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16713,7 +16713,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
@@ -16740,7 +16740,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
@@ -16769,7 +16769,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): a form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder  
 
 Doc results for stem: a form of credit card fraud in which the perpetrator intercepts credit cards that are in transit between the credit issuer and the authorized account holder  
@@ -16852,7 +16852,7 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
@@ -16879,11 +16879,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-17. Computer and Internet Fraud 10 (1)
+17. Computer and Internet Fraud 10
 
 Computer and Internet Fraud
 
@@ -16906,38 +16906,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-18. Computer and Internet Fraud 10
-
-Computer and Internet Fraud
-
-Internet scams have become very prevalent due, in part, to the fact that the Internet is poorly regulated and policed.
-
-a) True
-b) False
-
-Question profile index: 16
-              All of the Above:      0.000
-                   True Select:      0.587
-                  False Select:      0.413
-                  MaxFrequency:      0.000
-                   MaxFreqPlus:      0.000
-                  MinFrequency:      0.000
-                  Bag Of Words:      0.000
-           Composite Frequency:      0.000
-              Concept Match V1:      0.027
-            Composite Match V2:      0.269
-            Composite Match V3:      0.165
-       Composite Match V3 NOTA:      0.165
-        Composite Match V3 NOT:      0.581
-                        Random:      0.461
-Algorithm selected: True Select
-Agent response:  a) True -- CORRECT.
-
-19. Computer and Internet Fraud 16
+18. Computer and Internet Fraud 16
 
 Computer and Internet Fraud
 
@@ -16962,11 +16935,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-20. Computer and Internet Fraud 31
+19. Computer and Internet Fraud 31
 
 Computer and Internet Fraud
 
@@ -16991,7 +16964,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Computer and Internet Fraud
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -17029,7 +17002,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Security software packages -- INCORRECT. (Correct answer:  a) Elimination of as many dial-in ports as possible)
 
-21. Computer and Internet Fraud 35
+20. Computer and Internet Fraud 35
 
 Computer and Internet Fraud
 
@@ -17053,7 +17026,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Computer and Internet Fraud
 implementation: 5
 controls: 34
@@ -17077,7 +17050,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) System software controls -- INCORRECT. (Correct answer:  c) Computer operations controls	| Data file controls)
 
-22. Computer and Internet Fraud 40 (1)
+21. Computer and Internet Fraud 40
 
 Computer and Internet Fraud
 
@@ -17102,7 +17075,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Computer and Internet Fraud
 communication: 16
 software: 71
@@ -17138,68 +17111,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
 
-23. Computer and Internet Fraud 40
-
-Computer and Internet Fraud
-
-All but which of the following are anti-hacker measures?
-
-a) Communication software that disconnects after no less than ten unsuccessful attempts
-b) Encryption for sensitive data files
-c) Changing default passv/ords on purchased software packages
-d) Passwords of sufficient length to prevent "guessing"
-
-Question profile index: 1
-              All of the Above:      0.000
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.294
-                   MaxFreqPlus:      0.294
-                  MinFrequency:      0.311
-                  Bag Of Words:      0.316
-           Composite Frequency:      0.316
-              Concept Match V1:      0.209
-            Composite Match V2:      0.294
-            Composite Match V3:      0.305
-       Composite Match V3 NOTA:      0.305
-        Composite Match V3 NOT:      0.282
-                        Random:      0.203
-Question section: Computer and Internet Fraud
-communication: 16
-software: 71
-that: 322
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-encryption: 23
-for: 210
-sensitive: 15
-data: 121
-files: 73
-Total Frequency for Option: 6.3995085E8
-Geom Mean Frequency: 57.707109850304775
-changing: 3
-default: 2
-Total Frequency for Option: 0.0
-Geom Mean Frequency: 0.0
-passwords: 30
-of: 736
-sufficient: 4
-length: 4
-to: 777
-prevent: 13
-guessing: 2
-Total Frequency for Option: 7.13696256E9
-Geom Mean Frequency: 25.56493978096913
-Algorithm selected: Bag Of Words
-                                                                               Phrase           Frequency
- Communication software that disconnects after no less than ten unsuccessful attempts              0.000
-                                                  Encryption for sensitive data files             57.707
-                           Changing default passv/ords on purchased software packages              0.000
-                                 Passwords of sufficient length to prevent "guessing"             25.565
-
-Agent response:  b) Encryption for sensitive data files -- INCORRECT. (Correct answer:  a) Communication software that disconnects after no less than ten unsuccessful attempts)
-
-24. Computer and Internet Fraud 5
+22. Computer and Internet Fraud 5
 
 Computer and Internet Fraud
 
@@ -17224,7 +17136,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Computer and Internet Fraud
 searching: 3
 for: 210
@@ -17286,7 +17198,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Gaining information about a system using deception, such as someone else's password -- INCORRECT. (Correct answer:  c) Covert placement of instructions which causes the computer to perform unauthorized functions but allows other programs to work normally‰??)
 
-25. Consumer Fraud 10
+23. Consumer Fraud 10
 
 Consumer Fraud
 
@@ -17309,11 +17221,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-26. Consumer Fraud 20
+24. Consumer Fraud 20
 
 Consumer Fraud
 
@@ -17338,7 +17250,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): a ________________	is a form of fraud which doesn't use services or products to establish their legitimacy.
 
 Doc results for stem: a ________________	is a form of fraud which doesn't use services or products to establish their legitimacy.
@@ -17410,7 +17322,7 @@ Search for option whose matching doc is first stem doc failed
 Algorithm selected: Composite Match V3
 Agent response:  no response submitted by this algorithm. (Value returned = -1.) -- INCORRECT. (Correct answer:  c) Pure cash pyramid scheme)
 
-27. Consumer Fraud 26
+25. Consumer Fraud 26
 
 Consumer Fraud
 
@@ -17435,11 +17347,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-28. Consumer Fraud 28
+26. Consumer Fraud 28
 
 Consumer Fraud
 
@@ -17462,11 +17374,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-29. Consumer Fraud 29
+27. Consumer Fraud 29
 
 Consumer Fraud
 
@@ -17491,7 +17403,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): "boiler rooms," "fronters," "closers," and "verifiers" are all terms associated with 
 
 Doc results for stem: "boiler rooms," "fronters," "closers," and "verifiers" are all terms associated with 
@@ -17593,7 +17505,7 @@ Search for option whose matching doc is first stem doc failed
 Algorithm selected: Composite Match V3
 Agent response:  no response submitted by this algorithm. (Value returned = -1.) -- INCORRECT. (Correct answer:  b) Telemarketing scams)
 
-30. Consumer Fraud 35
+28. Consumer Fraud 35
 
 Consumer Fraud
 
@@ -17616,11 +17528,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-31. Consumer Fraud 6
+29. Consumer Fraud 6
 
 Consumer Fraud
 
@@ -17645,7 +17557,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): _______provide telemarketing scammers with the autodialers, phone lists, credit card receipts, and merchandise they require to operate.
 
 Doc results for stem: _______provide telemarketing scammers with the autodialers, phone lists, credit card receipts, and merchandise they require to operate.
@@ -17680,7 +17592,7 @@ Options doc with best match: Turnkeys(41)
 Algorithm selected: Composite Match V3
 Agent response:  a) Turnkeys -- CORRECT.
 
-32. Contract and Procurement Fraud 14
+30. Contract and Procurement Fraud 14
 
 Contract and Procurement Fraud
 
@@ -17705,7 +17617,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): high percentages of returns; missing compliance certificates; and materials testing done by supplier, using his own personnel and facilities, are red flags of which type of fraud scheme
 
 Doc results for stem: high percentages of returns; missing compliance certificates; and materials testing done by supplier, using his own personnel and facilities, are red flags of which type of fraud scheme
@@ -17754,7 +17666,7 @@ Search successful for option whose matching doc is first stem doc: a) Product su
 Algorithm selected: Composite Match V3
 Agent response:  a) Product substitution schemes -- CORRECT.
 
-33. Contract and Procurement Fraud 3
+31. Contract and Procurement Fraud 3
 
 Contract and Procurement Fraud
 
@@ -17779,7 +17691,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): acceptance of a late bid, falsification of documents or receipts to get a late bid accepted, changes in the bid after other bidders' prices are known, and awarding the contract to the last bidder are typical red flags of which type of contract and procurement fraud
 
 Doc results for stem: acceptance of a late bid, falsification of documents or receipts to get a late bid accepted, changes in the bid after other bidders' prices are known, and awarding the contract to the last bidder are typical red flags of which type of contract and procurement fraud
@@ -17839,7 +17751,7 @@ Search successful for option whose matching doc is first stem doc: c) Bid submis
 Algorithm selected: Composite Match V3
 Agent response:  c) Bid submission schemes -- CORRECT.
 
-34. Contract and Procurement Fraud 4
+32. Contract and Procurement Fraud 4
 
 Contract and Procurement Fraud
 
@@ -17864,7 +17776,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Contract and Procurement Fraud
 joint: 1
 Total Frequency for Option: 0.0
@@ -17897,7 +17809,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Wide disparity in bid prices -- INCORRECT. (Correct answer:  c) Successful bidder consulting with buyer in need recognition stage)
 
-35. Financial Institution Fraud 16
+33. Financial Institution Fraud 16
 
 Financial Institution Fraud
 
@@ -17922,7 +17834,7 @@ Question profile index: 33
             Composite Match V3:      0.094
        Composite Match V3 NOTA:      0.094
         Composite Match V3 NOT:      0.469
-                        Random:      0.188
+                        Random:      0.313
 Stem (lower case): some of the more common red flags of new bank account fraud schemes include all of the following except(‰¢
 
 unable to parse query: Cannot parse 'some of the more common red flags of new bank account fraud schemes include all of the following except(‰¢': Encountered "<EOF>" at line 1, column 106.
@@ -17948,7 +17860,7 @@ Was expecting one of:
 Algorithm selected: Composite Match V3 NOT
 Agent response:  no response submitted by this algorithm. (Value returned = -1.) -- INCORRECT. (Correct answer:  d) Customer requests two ATM cards)
 
-36. Financial Institution Fraud 24
+34. Financial Institution Fraud 24
 
 Financial Institution Fraud
 
@@ -17973,7 +17885,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Financial Institution Fraud
 paying: 4
 off: 10
@@ -18004,7 +17916,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Paying off the old loan with proceeds from a new loan -- INCORRECT. (Correct answer:  d) Both charging the loan off as a bad loan and paying off the old loan with proceeds from a new loan)
 
-37. Financial Institution Fraud 32
+35. Financial Institution Fraud 32
 
 Financial Institution Fraud
 
@@ -18029,7 +17941,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Financial Institution Fraud
 short: 16
 cuts: 1
@@ -18069,7 +17981,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The original project is not feasible. -- INCORRECT. (Correct answer:  c) Design changes were requested)
 
-38. Financial Institution Fraud 4
+36. Financial Institution Fraud 4
 
 Financial Institution Fraud
 
@@ -18094,11 +18006,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-39. Financial Statement Fraud 13
+37. Financial Statement Fraud 13
 
 Financial Statement Fraud
 
@@ -18123,7 +18035,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): ________________ is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressingcomponents as percentages.
 
 Doc results for stem: ________________ is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressingcomponents as percentages.
@@ -18172,7 +18084,7 @@ Search successful for option whose matching doc is first stem doc: b) Vertical a
 Algorithm selected: Composite Match V3
 Agent response:  b) Vertical analysis -- CORRECT.
 
-40. Financial Statement Fraud 6
+38. Financial Statement Fraud 6
 
 Financial Statement Fraud
 
@@ -18195,11 +18107,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-41. Financial Statement Fraud 9
+39. Financial Statement Fraud 9
 
 Financial Statement Fraud
 
@@ -18224,7 +18136,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): revenue is recognized on long-term construction contracts under one of two methods.  is one of those methods
 
 Doc results for stem: revenue is recognized on long-term construction contracts under one of two methods.  is one of those methods
@@ -18304,7 +18216,7 @@ Options doc with best match: LongTerm Contracts(16)
 Algorithm selected: Composite Match V3
 Agent response:  c) Percentage-of-completion method -- CORRECT.
 
-42. Fraudulent Disbursements 19
+40. Fraudulent Disbursements 19
 
 Fraudulent Disbursements
 
@@ -18329,7 +18241,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): blue, a fiscal officer, had access to company checks but was not authorized to sign them. blue's company used an automated check signer which was guarded by a custodian. blue took some blank checks and made them payable to himself, then snuck into the custodian's office and signed them with the check signer. according to corporate fraud handbook, blue committed
 
 Doc results for stem: blue, a fiscal officer, had access to company checks but was not authorized to sign them. blue's company used an automated check signer which was guarded by a custodian. blue took some blank checks and made them payable to himself, then snuck into the custodian's office and signed them with the check signer. according to corporate fraud handbook, blue committed
@@ -18385,7 +18297,7 @@ Options doc with best match: Forged Endorsement Schemes(30)
 Algorithm selected: Composite Match V3
 Agent response:  b) A forged maker scheme -- CORRECT.
 
-43. Fraudulent Disbursements 20
+41. Fraudulent Disbursements 20
 
 Fraudulent Disbursements
 
@@ -18410,7 +18322,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Fraudulent Disbursements
 payroll: 119
 checks: 206
@@ -18471,7 +18383,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Those who prepare the payroll, also review and sign all payroll checks -- CORRECT.
 
-44. Fraudulent Disbursements 23
+42. Fraudulent Disbursements 23
 
 Fraudulent Disbursements
 
@@ -18496,7 +18408,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case):  accounts has the greatest potential of harboring smaller embezzlements
 
 Doc results for stem:  accounts has the greatest potential of harboring smaller embezzlements
@@ -18583,7 +18495,7 @@ Options doc with best match: Segregation of Duties(126)
 Algorithm selected: Composite Match V3
 Agent response:  d) Any of the above -- INCORRECT. (Correct answer:  b) Travel and entertainment expenses)
 
-45. Fraudulent Disbursements 40
+43. Fraudulent Disbursements 40
 
 Fraudulent Disbursements
 
@@ -18608,7 +18520,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Fraudulent Disbursements
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -18656,7 +18568,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Review payroll records for duplicate addresses or deposit accounts -- INCORRECT. (Correct answer:  d) Compare the disbursement date of trust account taxes with the deposit date)
 
-46. Fraudulent Disbursements 46
+44. Fraudulent Disbursements 46
 
 Fraudulent Disbursements
 
@@ -18681,11 +18593,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-47. Fraudulent Disbursements 48
+45. Fraudulent Disbursements 48
 
 Fraudulent Disbursements
 
@@ -18710,7 +18622,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): baker was an accountant with control over his company's payroll records. able was an employee who resigned his job with baker's company. even though able was no longer working for the company, baker left his name on the payroll records. thus, paychecks continued to be issued to able. baker collected the checks and deposited them in his own bank account. this is an example of what kind of payroll scheme
 
 Doc results for stem: baker was an accountant with control over his company's payroll records. able was an employee who resigned his job with baker's company. even though able was no longer working for the company, baker left his name on the payroll records. thus, paychecks continued to be issued to able. baker collected the checks and deposited them in his own bank account. this is an example of what kind of payroll scheme
@@ -18754,7 +18666,7 @@ Options doc with best match: Adding the Ghost to the Payroll(100)
 Algorithm selected: Composite Match V3
 Agent response:  c) Ghost employee scheme -- CORRECT.
 
-48. Health Care Fraud 1
+46. Health Care Fraud 1
 
 Health Care Fraud
 
@@ -18777,11 +18689,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-49. Health Care Fraud 14
+47. Health Care Fraud 14
 
 Health Care Fraud
 
@@ -18804,11 +18716,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-50. Health Care Fraud 21
+48. Health Care Fraud 21
 
 Health Care Fraud
 
@@ -18831,11 +18743,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-51. Health Care Fraud 30
+49. Health Care Fraud 30
 
 Health Care Fraud
 
@@ -18860,11 +18772,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-52. Health Care Fraud 8
+50. Health Care Fraud 8
 
 Health Care Fraud
 
@@ -18889,11 +18801,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-53. Insurance Fraud 13
+51. Insurance Fraud 13
 
 Insurance Fraud
 
@@ -18918,7 +18830,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): ______________is the term used for including additional coverages in the insurance policy without the knowledge of the insured.
 
 Doc results for stem: ______________is the term used for including additional coverages in the insurance policy without the knowledge of the insured.
@@ -18951,7 +18863,7 @@ Search successful for option whose matching doc is first stem doc: a) Sliding
 Algorithm selected: Composite Match V3
 Agent response:  a) Sliding -- CORRECT.
 
-54. Insurance Fraud 14
+52. Insurance Fraud 14
 
 Insurance Fraud
 
@@ -18976,7 +18888,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): health care fraud schemes committed by providers, such as doctors and home health care agencies, and by the insured 
 
 Doc results for stem: health care fraud schemes committed by providers, such as doctors and home health care agencies, and by the insured 
@@ -19028,7 +18940,7 @@ Search successful for option whose matching doc is first stem doc: b) External f
 Algorithm selected: Composite Match V3
 Agent response:  b) External frauds -- CORRECT.
 
-55. Insurance Fraud 3
+53. Insurance Fraud 3
 
 Insurance Fraud
 
@@ -19053,11 +18965,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of agent/broker fraud schemes -- CORRECT.
 
-56. Introduction to Fraud Examination 1
+54. Introduction to Fraud Examination 1
 
 Introduction to Fraud Examination
 
@@ -19082,7 +18994,7 @@ Question profile index: 33
             Composite Match V3:      0.094
        Composite Match V3 NOTA:      0.094
         Composite Match V3 NOT:      0.469
-                        Random:      0.188
+                        Random:      0.313
 Stem (lower case): in the fraud theory approach to fraud examination, it is necessary that the fraud examiner perform ail of the following tasks except
 
 Doc results for stem: in the fraud theory approach to fraud examination, it is necessary that the fraud examiner perform ail of the following tasks except
@@ -19124,7 +19036,7 @@ missing option selected: 0
 Algorithm selected: Composite Match V3 NOT
 Agent response:  a) Analyze the available data -- INCORRECT. (Correct answer:  d) Report hypothesis to management)
 
-57. Introduction to Fraud Examination 14
+55. Introduction to Fraud Examination 14
 
 Introduction to Fraud Examination
 
@@ -19149,7 +19061,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -19169,7 +19081,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The initial phase of the interview -- INCORRECT. (Correct answer:  b) The basis upon which a fraud examination is undertaken)
 
-58. Introduction to Fraud Examination 23
+56. Introduction to Fraud Examination 23
 
 Introduction to Fraud Examination
 
@@ -19192,11 +19104,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-59. Inventory and Other Assets 13
+57. Inventory and Other Assets 13
 
 Inventory and Other Assets
 
@@ -19219,11 +19131,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-60. Inventory and Other Assets 23
+58. Inventory and Other Assets 23
 
 Inventory and Other Assets
 
@@ -19248,7 +19160,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): falsifying incoming shipments of inventory can best be classified as what type of scheme
 
 Doc results for stem: falsifying incoming shipments of inventory can best be classified as what type of scheme
@@ -19282,7 +19194,7 @@ Options doc with best match: Purchasing and Receiving Schemes(7)
 Algorithm selected: Composite Match V3
 Agent response:  a) Purchasing and receiving scheme -- CORRECT.
 
-61. Inventory and Other Assets 3
+59. Inventory and Other Assets 3
 
 Inventory and Other Assets
 
@@ -19305,11 +19217,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-62. Inventory and Other Assets 8
+60. Inventory and Other Assets 8
 
 Inventory and Other Assets
 
@@ -19332,11 +19244,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-63. Manager's and Auditor's Responsibilities 16
+61. Manager's and Auditor's Responsibilities 16
 
 Manager's and Auditor's Responsibilities
 
@@ -19361,7 +19273,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Manager's and Auditor's Responsibilities
 reliability: 4
 and: 854
@@ -19402,7 +19314,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Effectiveness and efficiency of operations -- INCORRECT. (Correct answer:  c) Sale of assets)
 
-64. Manager's and Auditor's Responsibilities 29 (1)
+62. Manager's and Auditor's Responsibilities 29
 
 Manager's and Auditor's Responsibilities
 
@@ -19427,40 +19339,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
 
-65. Manager's and Auditor's Responsibilities 29
-
-Manager's and Auditor's Responsibilities
-
-Which of the following is a requirement regarding internal control over financial reporting (ICOFR) under the Sarbanes-Oxley Act?
-
-a) Management must acknowledge its responsibility for establishing and maintaining adequate ICOFR
-b) Management must identify the framework used in performing its assessment of ICOFR
-c) The auditor must issue an opinion on management's assessment of the ICOFR
-d) All of the above are requirements regarding ICOFR
-
-Question profile index: 129
-              All of the Above:      0.843
-                   True Select:      0.000
-                  False Select:      0.000
-                  MaxFrequency:      0.101
-                   MaxFreqPlus:      0.101
-                  MinFrequency:      0.090
-                  Bag Of Words:      0.618
-           Composite Frequency:      0.618
-              Concept Match V1:      0.090
-            Composite Match V2:      0.124
-            Composite Match V3:      0.124
-       Composite Match V3 NOTA:      0.124
-        Composite Match V3 NOT:      0.124
-                        Random:      0.157
-Algorithm selected: All of the Above
-Agent response:  d) All of the above are requirements regarding ICOFR -- CORRECT.
-
-66. Manager's and Auditor's Responsibilities 9
+63. Manager's and Auditor's Responsibilities 9
 
 Manager's and Auditor's Responsibilities
 
@@ -19483,11 +19366,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-67. Managers and Auditors Responsibilities 3
+64. Managers and Auditors Responsibilities 3
 
 Manager's and Auditor's Responsibilities
 
@@ -19510,11 +19393,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-68. Money Laundering 22
+65. Money Laundering 22
 
 Money Laundering
 
@@ -19537,11 +19420,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-69. Money Laundering 26
+66. Money Laundering 26
 
 Money Laundering
 
@@ -19566,7 +19449,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): a money laundering scheme cannot be successful until the _______________ is eliminated or made so complex that individual steps cannot be easily traced.
 
 Doc results for stem: a money laundering scheme cannot be successful until the _______________ is eliminated or made so complex that individual steps cannot be easily traced.
@@ -19601,7 +19484,7 @@ Search successful for option whose matching doc is first stem doc: c) Integratio
 Algorithm selected: Composite Match V3
 Agent response:  c) Integration -- INCORRECT. (Correct answer:  b) Paper trail)
 
-70. Money Laundering 5
+67. Money Laundering 5
 
 Money Laundering
 
@@ -19626,7 +19509,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Money Laundering
 designation: 1
 of: 1066
@@ -19672,7 +19555,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Designation of a money laundering compliance officer -- INCORRECT. (Correct answer:  c) Inclusion of a $10,000 limit on all wire transfers)
 
-71. Money Laundering 6
+68. Money Laundering 6
 
 Money Laundering
 
@@ -19695,11 +19578,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-72. Public Sector Fraud 13
+69. Public Sector Fraud 13
 
 Public Sector Fraud
 
@@ -19724,7 +19607,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Public Sector Fraud
 the: 623
 false: 42
@@ -19770,7 +19653,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The false statement need not be made directly to the governmental agency -- INCORRECT. (Correct answer:  b) The government must prove that it suffered a loss)
 
-73. Public Sector Fraud 2
+70. Public Sector Fraud 2
 
 Public Sector Fraud
 
@@ -19795,7 +19678,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): according to government auditing standards, _______________ is a type of illegal act that involves obtaining something of value through willful misrepresentation. 
 
 Doc results for stem: according to government auditing standards, _______________ is a type of illegal act that involves obtaining something of value through willful misrepresentation. 
@@ -19842,7 +19725,7 @@ Options doc with best match: Government Fraud Auditing Standards(1)
 Algorithm selected: Composite Match V3
 Agent response:  b) Fraud -- CORRECT.
 
-74. Public Sector Fraud 6
+71. Public Sector Fraud 6
 
 Public Sector Fraud
 
@@ -19865,11 +19748,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-75. Public Sector Fraud 7
+72. Public Sector Fraud 7
 
 Public Sector Fraud
 
@@ -19892,11 +19775,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-76. Securities Fraud 1
+73. Securities Fraud 1
 
 Securities Fraud
 
@@ -19921,7 +19804,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Securities Fraud
 central: 3
 registration: 16
@@ -19950,7 +19833,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Blue Sky Registration Association -- INCORRECT. (Correct answer:  a) Central Registration Depository)
 
-77. Securities Fraud 12
+74. Securities Fraud 12
 
 Securities Fraud
 
@@ -19975,7 +19858,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): the scheme in which a security is sold by one party to another, with the understanding that the seller will repurchase it later at an agreed-upon price 
 
 Doc results for stem: the scheme in which a security is sold by one party to another, with the understanding that the seller will repurchase it later at an agreed-upon price 
@@ -20008,7 +19891,7 @@ Search successful for option whose matching doc is first stem doc: c) Parking
 Algorithm selected: Composite Match V3
 Agent response:  c) Parking -- CORRECT.
 
-78. Securities Fraud 15
+75. Securities Fraud 15
 
 Securities Fraud
 
@@ -20031,11 +19914,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-79. Securities Fraud 5
+76. Securities Fraud 5
 
 Securities Fraud
 
@@ -20058,11 +19941,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-80. Tax Fraud 12
+77. Tax Fraud 12
 
 Tax Fraud
 
@@ -20086,7 +19969,7 @@ Question profile index: 33
             Composite Match V3:      0.094
        Composite Match V3 NOTA:      0.094
         Composite Match V3 NOT:      0.469
-                        Random:      0.188
+                        Random:      0.313
 Stem (lower case): all of the following are possible defenses to tax fraud except
 
 Doc results for stem: all of the following are possible defenses to tax fraud except
@@ -20141,7 +20024,7 @@ missing option selected: 0
 Algorithm selected: Composite Match V3 NOT
 Agent response:  a) Death of the taxpayer	| The taxpayer establishes that an objectively reasonable position was taken -- CORRECT.
 
-81. Tax Fraud 21
+78. Tax Fraud 21
 
 Tax Fraud
 
@@ -20166,7 +20049,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Tax Fraud
 staffing: 1
 Total Frequency for Option: 0.0
@@ -20194,7 +20077,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) What the IRS believes it can prove -- INCORRECT. (Correct answer:  b) Identity of the taxpayer)
 
-82. Tax Fraud 4
+79. Tax Fraud 4
 
 Tax Fraud
 
@@ -20219,7 +20102,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Tax Fraud
 the: 245
 amount: 5
@@ -20251,7 +20134,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) The amount paid back under the claim of right doctrinex -- INCORRECT. (Correct answer:  d) The amount stolen and paid back as an ordinary and necessary business expense)
 
-83. Theft of Intellectual Property 1
+80. Theft of Intellectual Property 1
 
 Theft of Intellectual Property
 
@@ -20276,7 +20159,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Theft of Intellectual Property
 detect: 11
 fraudulent: 1
@@ -20310,7 +20193,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Detect the presence and location of technical surveillance equipment -- CORRECT.
 
-84. Theft of Intellectual Property 10
+81. Theft of Intellectual Property 10
 
 Theft of Intellectual Property
 
@@ -20333,11 +20216,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-85. Theft of Intellectual Property 14
+82. Theft of Intellectual Property 14
 
 Theft of Intellectual Property
 
@@ -20362,7 +20245,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): an spi program is a good way for corporations to protect sensitive information. spi stands for 
 
 Doc results for stem: an spi program is a good way for corporations to protect sensitive information. spi stands for 
@@ -20412,7 +20295,7 @@ Options doc with best match: Program for Safeguarding Proprietary Information (S
 Algorithm selected: Composite Match V3
 Agent response:  c) Safeguarding proprietary information -- CORRECT.
 
-86. Criminology 11
+83. Criminology 11
 
 Criminology
 
@@ -20435,11 +20318,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-87. Criminology 12
+84. Criminology 12
 
 Criminology
 
@@ -20462,11 +20345,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-88. Ethics for Fraud Examiners 1
+85. Ethics for Fraud Examiners 1
 
 Ethics for Fraud Examiners
 
@@ -20489,11 +20372,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-89. Ethics for Fraud Examiners 15
+86. Ethics for Fraud Examiners 15
 
 Ethics for Fraud Examiners
 
@@ -20516,11 +20399,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-90. Ethics for Fraud Examiners 28
+87. Ethics for Fraud Examiners 28
 
 Ethics for Fraud Examiners
 
@@ -20543,11 +20426,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-91. Ethics for Fraud Examiners 30
+88. Ethics for Fraud Examiners 30
 
 Ethics for Fraud Examiners
 
@@ -20570,11 +20453,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-92. Ethics for Fraud Examiners 5
+89. Ethics for Fraud Examiners 5
 
 Ethics for Fraud Examiners
 
@@ -20597,11 +20480,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-93. Fraud Prevention Programs 10
+90. Fraud Prevention Programs 10
 
 Fraud Prevention Programs
 
@@ -20626,7 +20509,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Fraud Prevention Programs
 management: 100
 knew: 4
@@ -20664,7 +20547,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Any of the above -- CORRECT.
 
-94. Fraud Prevention Programs 12
+91. Fraud Prevention Programs 12
 
 Fraud Prevention Programs
 
@@ -20687,11 +20570,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-95. Fraud Prevention Programs 21
+92. Fraud Prevention Programs 21
 
 Fraud Prevention Programs
 
@@ -20716,7 +20599,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Fraud Prevention Programs
 careful: 4
 screening: 6
@@ -20752,7 +20635,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) Establishment of a code of ethics -- INCORRECT. (Correct answer:  b) Lenient disciplinary measures)
 
-96. Fraud Prevention Programs 26
+93. Fraud Prevention Programs 26
 
 Fraud Prevention Programs
 
@@ -20775,11 +20658,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-97. Fraud Prevention Programs 27
+94. Fraud Prevention Programs 27
 
 Fraud Prevention Programs
 
@@ -20802,11 +20685,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-98. Fraud Prevention Programs 8
+95. Fraud Prevention Programs 8
 
 Fraud Prevention Programs
 
@@ -20831,11 +20714,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-99. Fraud Risk Assessment 15
+96. Fraud Risk Assessment 15
 
 Fraud Risk Assessment
 
@@ -20860,11 +20743,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-100. Fraud Risk Assessment 18
+97. Fraud Risk Assessment 18
 
 Fraud Risk Assessment
 
@@ -20887,11 +20770,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-101. Fraud Risk Assessment 21
+98. Fraud Risk Assessment 21
 
 Fraud Risk Assessment
 
@@ -20916,7 +20799,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): the aiding and abetting of fraud by outside parties, such as customers and vendors, is considered a fraud risk pertaining to which category of fraud
 
 Doc results for stem: the aiding and abetting of fraud by outside parties, such as customers and vendors, is considered a fraud risk pertaining to which category of fraud
@@ -20954,7 +20837,7 @@ Search successful for option whose matching doc is first stem doc: b) Corruption
 Algorithm selected: Composite Match V3
 Agent response:  b) Corruption -- CORRECT.
 
-102. Fraud Risk Assessment 34
+99. Fraud Risk Assessment 34
 
 Fraud Risk Assessment
 
@@ -20979,11 +20862,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-103. Fraud Risk Assessment 36
+100. Fraud Risk Assessment 36
 
 Fraud Risk Assessment
 
@@ -21006,11 +20889,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-104. Occupational Fraud 15
+101. Occupational Fraud 15
 
 Occupational Fraud
 
@@ -21035,7 +20918,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): donald r. cressey developed a hypothesis that has come to be known as the "fraud triangle." one leg of the triangle represents a perceived unsharable financial need. the second leg is for perceived opportunity, and the final is for ____________________.
 
 Doc results for stem: donald r. cressey developed a hypothesis that has come to be known as the "fraud triangle." one leg of the triangle represents a perceived unsharable financial need. the second leg is for perceived opportunity, and the final is for ____________________.
@@ -21104,7 +20987,7 @@ Search successful for option whose matching doc is first stem doc: c) Rationaliz
 Algorithm selected: Composite Match V3
 Agent response:  c) Rationalization -- CORRECT.
 
-105. Occupational Fraud 20
+102. Occupational Fraud 20
 
 Occupational Fraud
 
@@ -21129,7 +21012,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): one researcher found that embezzlers were likely to have three factors accounting for their crimes immediate financial need, perceived opportunity, and rationalization. the person responsible for this theory of embezzlement is
 
 Doc results for stem: one researcher found that embezzlers were likely to have three factors accounting for their crimes immediate financial need, perceived opportunity, and rationalization. the person responsible for this theory of embezzlement is
@@ -21163,7 +21046,7 @@ Options doc with best match: Cressey’s Hypothesis(4)
 Algorithm selected: Composite Match V3
 Agent response:  c) Donald R. Cressey -- CORRECT.
 
-106. Occupational Fraud 26
+103. Occupational Fraud 26
 
 Occupational Fraud
 
@@ -21188,11 +21071,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are categories -- CORRECT.
 
-107. Occupational Fraud 3
+104. Occupational Fraud 3
 
 Occupational Fraud
 
@@ -21217,7 +21100,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): the criminologist responsible for the well-known hypothesis of the "fraud triangle" is
 
 Doc results for stem: the criminologist responsible for the well-known hypothesis of the "fraud triangle" is
@@ -21248,7 +21131,7 @@ Search successful for option whose matching doc is first stem doc: b) Donald R. 
 Algorithm selected: Composite Match V3
 Agent response:  b) Donald R. Cressey -- CORRECT.
 
-108. Occupational Fraud 8
+105. Occupational Fraud 8
 
 Occupational Fraud
 
@@ -21271,11 +21154,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-109. Organizational Crime 14
+106. Organizational Crime 14
 
 Organizational Crime
 
@@ -21298,11 +21181,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-110. Organizational Crime 2
+107. Organizational Crime 2
 
 Organizational Crime
 
@@ -21325,11 +21208,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-111. Organizational Crime 20
+108. Organizational Crime 20
 
 Organizational Crime
 
@@ -21354,11 +21237,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are approaches -- CORRECT.
 
-112. Organizational Crime 3
+109. Organizational Crime 3
 
 Organizational Crime
 
@@ -21381,11 +21264,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-113. Punishment 4
+110. Punishment 4
 
 Punishment
 
@@ -21408,11 +21291,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-114. Punishment 6
+111. Punishment 6
 
 Punishment
 
@@ -21435,11 +21318,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-115. White-Collar Crime 12
+112. White-Collar Crime 12
 
 White-Collar Crime
 
@@ -21462,11 +21345,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-116. White-Collar Crime 2
+113. White-Collar Crime 2
 
 White-Collar Crime
 
@@ -21489,11 +21372,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-117. Analyzing Documents 16
+114. Analyzing Documents 16
 
 Analyzing Documents
 
@@ -21518,7 +21401,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): when dealing with documents and other forms of evidence, it is necessary to preserve the ____________________ in order for it to be accepted by a court.
 
 Doc results for stem: when dealing with documents and other forms of evidence, it is necessary to preserve the ____________________ in order for it to be accepted by a court.
@@ -21551,7 +21434,7 @@ Options doc with best match: Chain of Custody(10)
 Algorithm selected: Composite Match V3
 Agent response:  a) Chain of custody -- CORRECT.
 
-118. Analyzing Documents 4
+115. Analyzing Documents 4
 
 Analyzing Documents
 
@@ -21576,11 +21459,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-119. Analyzing Documents 8
+116. Analyzing Documents 8
 
 Analyzing Documents
 
@@ -21603,11 +21486,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-120. Covert Examinations 25
+117. Covert Examinations 25
 
 Covert Examinations
 
@@ -21632,11 +21515,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-121. Covert Examinations 37
+118. Covert Examinations 37
 
 Covert Examinations
 
@@ -21659,11 +21542,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-122. Covert Examinations 39
+119. Covert Examinations 39
 
 Covert Examinations
 
@@ -21688,7 +21571,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case):  is one of the two general types of surveillance
 
 Doc results for stem:  is one of the two general types of surveillance
@@ -21723,7 +21606,7 @@ Options doc with best match: Covert Informants(26)
 Algorithm selected: Composite Match V3
 Agent response:  c) Covert -- INCORRECT. (Correct answer:  a) Mobile)
 
-123. Covert Examinations 5
+120. Covert Examinations 5
 
 Covert Examinations
 
@@ -21748,7 +21631,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -21768,7 +21651,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  c) Symbols -- CORRECT.
 
-124. Covert Examinations 7
+121. Covert Examinations 7
 
 Covert Examinations
 
@@ -21791,11 +21674,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-125. Data Analysis 10
+122. Data Analysis 10
 
 Data Analysis
 
@@ -21818,11 +21701,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-126. Data Analysis 16
+123. Data Analysis 16
 
 Data Analysis
 
@@ -21847,11 +21730,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-127. Data Analysis 2
+124. Data Analysis 2
 
 Data Analysis
 
@@ -21876,7 +21759,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): if you _________________ data, you arranqe the data in a meaningful order.
 
 Doc results for stem: if you _________________ data, you arranqe the data in a meaningful order.
@@ -21938,7 +21821,7 @@ Options doc with best match: Sorting(6)
 Algorithm selected: Composite Match V3
 Agent response:  c) Sort -- CORRECT.
 
-128. Data Analysis 8
+125. Data Analysis 8
 
 Data Analysis
 
@@ -21963,7 +21846,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): alpha, a fraud examiner, believes that vendors may be submitting invoices twice with the hope that they will be paid multiple times.  data analysis functions would be the most useful in identifying such invoices
 
 Doc results for stem: alpha, a fraud examiner, believes that vendors may be submitting invoices twice with the hope that they will be paid multiple times.  data analysis functions would be the most useful in identifying such invoices
@@ -22015,7 +21898,7 @@ Options doc with best match: Duplicate Searches(13)
 Algorithm selected: Composite Match V3
 Agent response:  b) Duplicate search -- CORRECT.
 
-129. Digital Forensics 21
+126. Digital Forensics 21
 
 Digital Forensics
 
@@ -22040,11 +21923,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-130. Digital Forensics 24
+127. Digital Forensics 24
 
 Digital Forensics
 
@@ -22067,11 +21950,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-131. Digital Forensics 30
+128. Digital Forensics 30
 
 Digital Forensics
 
@@ -22094,11 +21977,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-132. Digital Forensics 31
+129. Digital Forensics 31
 
 Digital Forensics
 
@@ -22123,7 +22006,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Digital Forensics
 Total Frequency for Option: 0.0
 Geom Mean Frequency: 0.0
@@ -22152,7 +22035,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) Shut down the operating system normally -- INCORRECT. (Correct answer:  b) Unplug the computer immediately)
 
-133. Digital Forensics 7
+130. Digital Forensics 7
 
 Digital Forensics
 
@@ -22177,7 +22060,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): when seizing a computer for examination, you should look around the area for ________________ because people have a habit of writing such things down near their computers.
 
 Doc results for stem: when seizing a computer for examination, you should look around the area for ________________ because people have a habit of writing such things down near their computers.
@@ -22243,7 +22126,7 @@ Options doc with best match: EXAMINE AND DOCUMENT THE MACHINE’S SURROUNDINGS(22)
 Algorithm selected: Composite Match V3
 Agent response:  b) Passwords -- CORRECT.
 
-134. Illicit Transactions 12
+131. Illicit Transactions 12
 
 Illicit Transactions
 
@@ -22268,7 +22151,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Illicit Transactions
 it: 71
 is: 210
@@ -22323,7 +22206,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) It is difficult to trace the payments -- CORRECT.
 
-135. Illicit Transactions 22
+132. Illicit Transactions 22
 
 Illicit Transactions
 
@@ -22346,11 +22229,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-136. Illicit Transactions 25
+133. Illicit Transactions 25
 
 Illicit Transactions
 
@@ -22373,11 +22256,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-137. Illicit Transactions 35
+134. Illicit Transactions 35
 
 Illicit Transactions
 
@@ -22402,7 +22285,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22422,7 +22305,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) The payment was made in cash (currency) -- CORRECT.
 
-138. Illicit Transactions 40
+135. Illicit Transactions 40
 
 Illicit Transactions
 
@@ -22447,7 +22330,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): a check or draft that is presented for payment where the depository bank is also the payor bank is a
 
 Doc results for stem: a check or draft that is presented for payment where the depository bank is also the payor bank is a
@@ -22534,7 +22417,7 @@ Search successful for option whose matching doc is first stem doc: c) On-us item
 Algorithm selected: Composite Match V3
 Agent response:  c) On-us item -- CORRECT.
 
-139. Illicit Transactions 47
+136. Illicit Transactions 47
 
 Illicit Transactions
 
@@ -22559,7 +22442,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): all of the following are sources of information for the financial profile. which is considered the most important
 
 Doc results for stem: all of the following are sources of information for the financial profile. which is considered the most important
@@ -22601,7 +22484,7 @@ Options doc with best match: Bank Deposit Analysis Method(77)
 Algorithm selected: Composite Match V3
 Agent response:  b) The bank account records -- CORRECT.
 
-140. Interview Theory and Application 29
+137. Interview Theory and Application 29
 
 Interview Theory and Application
 
@@ -22626,11 +22509,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above are types of questions -- CORRECT.
 
-141. Interview Theory and Application 32
+138. Interview Theory and Application 32
 
 Interview Theory and Application
 
@@ -22655,7 +22538,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Interview Theory and Application
 sensitive: 12
 questions: 154
@@ -22697,7 +22580,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) At the very end of the interview -- INCORRECT. (Correct answer:  b) Well into the interview)
 
-142. Interview Theory and Application 34
+139. Interview Theory and Application 34
 
 Interview Theory and Application
 
@@ -22722,7 +22605,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): in interview situations, the process of observing behavior at the beginning of an interview 
 
 Doc results for stem: in interview situations, the process of observing behavior at the beginning of an interview 
@@ -22759,7 +22642,7 @@ Options doc with best match: Norming or Calibrating(103)
 Algorithm selected: Composite Match V3
 Agent response:  c) Calibrating -- CORRECT.
 
-143. Interview Theory and Application 35
+140. Interview Theory and Application 35
 
 Interview Theory and Application
 
@@ -22784,7 +22667,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22804,7 +22687,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Review the key points discussed during the interview to ensure he has understood everything Alfred has said -- CORRECT.
 
-144. Interview Theory and Application 62
+141. Interview Theory and Application 62
 
 Interview Theory and Application
 
@@ -22829,7 +22712,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22849,7 +22732,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Verbal statements which illustrate a point -- INCORRECT. (Correct answer:  b) Motions made primarily with the hands to demonstrate a point)
 
-145. Interview Theory and Application 7
+142. Interview Theory and Application 7
 
 Interview Theory and Application
 
@@ -22874,7 +22757,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): in interview situations, certain socio-psychological forces make conversations, including interviews, easier to accomplish. these forces are known also as
 
 Doc results for stem: in interview situations, certain socio-psychological forces make conversations, including interviews, easier to accomplish. these forces are known also as
@@ -22908,7 +22791,7 @@ Search successful for option whose matching doc is first stem doc: c) Inhibitors
 Algorithm selected: Composite Match V3
 Agent response:  c) Inhibitors of communication -- INCORRECT. (Correct answer:  d) None of the above)
 
-146. Interview Theory and Application 71
+143. Interview Theory and Application 71
 
 Interview Theory and Application
 
@@ -22933,7 +22816,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -22953,7 +22836,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Gain time to frame his answer -- CORRECT.
 
-147. Interview Theory and Application 81
+144. Interview Theory and Application 81
 
 Interview Theory and Application
 
@@ -22978,7 +22861,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): in interview situations, certain inhibitors to communication exist. the terms "induction" and "deduction" are most often associated with which inhibitor to communication
 
 Doc results for stem: in interview situations, certain inhibitors to communication exist. the terms "induction" and "deduction" are most often associated with which inhibitor to communication
@@ -23013,7 +22896,7 @@ Options doc with best match: Inferential Confusion(32)
 Algorithm selected: Composite Match V3
 Agent response:  b) Inferential confusion -- CORRECT.
 
-148. Interview Theory and Application 84
+145. Interview Theory and Application 84
 
 Interview Theory and Application
 
@@ -23038,11 +22921,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above will affect the symptoms -- CORRECT.
 
-149. Interview Theory and Application 90
+146. Interview Theory and Application 90
 
 Interview Theory and Application
 
@@ -23065,11 +22948,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-150. Interviewing Suspects and Signed Statements 1
+147. Interviewing Suspects and Signed Statements 1
 
 Interviewing Suspects and Signed Statements
 
@@ -23094,7 +22977,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -23114,7 +22997,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) "Did you spend everything?" -- INCORRECT. (Correct answer:  b) "What do you have left?")
 
-151. Interviewing Suspects and Signed Statements 12
+148. Interviewing Suspects and Signed Statements 12
 
 Interviewing Suspects and Signed Statements
 
@@ -23137,11 +23020,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-152. Interviewing Suspects and Signed Statements 20
+149. Interviewing Suspects and Signed Statements 20
 
 Interviewing Suspects and Signed Statements
 
@@ -23166,7 +23049,7 @@ Question profile index: 33
             Composite Match V3:      0.094
        Composite Match V3 NOTA:      0.094
         Composite Match V3 NOT:      0.469
-                        Random:      0.188
+                        Random:      0.313
 Stem (lower case): blue, a fraud suspect, has decided to confess to red, a certified fraud examiner. in obtaining a verbal confession from blue, red should obtain the following items of information except
 
 Doc results for stem: blue, a fraud suspect, has decided to confess to red, a certified fraud examiner. in obtaining a verbal confession from blue, red should obtain the following items of information except
@@ -23209,7 +23092,7 @@ missing option selected: 0
 Algorithm selected: Composite Match V3 NOT
 Agent response:  a) The location of any assets -- INCORRECT. (Correct answer:  d) That Blue's conduct was an accident)
 
-153. Interviewing Suspects and Signed Statements 32
+150. Interviewing Suspects and Signed Statements 32
 
 Interviewing Suspects and Signed Statements
 
@@ -23234,7 +23117,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): black, a certified fraud examiner, has obtained an oral confession from green, a fraud suspect. black wants to examine green's bank accounts. how should black obtain green's permission
 
 Doc results for stem: black, a certified fraud examiner, has obtained an oral confession from green, a fraud suspect. black wants to examine green's bank accounts. how should black obtain green's permission
@@ -23311,7 +23194,7 @@ Search successful for option whose matching doc is first stem doc: b) By written
 Algorithm selected: Composite Match V3
 Agent response:  b) By written consent -- CORRECT.
 
-154. Interviewing Suspects and Signed Statements 40
+151. Interviewing Suspects and Signed Statements 40
 
 Interviewing Suspects and Signed Statements
 
@@ -23336,7 +23219,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Interviewing Suspects and Signed Statements
 was: 47
 it: 210
@@ -23378,7 +23261,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) "Of course you know. How much was it?" -- INCORRECT. (Correct answer:  a) "Was it as much as $600,000?)
 
-155. Sources of Information 10
+152. Sources of Information 10
 
 Sources of Information
 
@@ -23403,7 +23286,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): the first three digits of a social security number (with the exception of the 700 series) reflectprevious1x,å©web camerab00
 
 Doc results for stem: the first three digits of a social security number (with the exception of the 700 series) reflectprevious1x,å©web camerab00
@@ -23491,7 +23374,7 @@ Search successful for option whose matching doc is first stem doc: a) State of i
 Algorithm selected: Composite Match V3
 Agent response:  a) State of issue -- CORRECT.
 
-156. Sources of Information 15
+153. Sources of Information 15
 
 Sources of Information
 
@@ -23516,7 +23399,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): a credit reporting agency that develops information from credit files and public records  a(n)
 
 Doc results for stem: a credit reporting agency that develops information from credit files and public records  a(n)
@@ -23570,7 +23453,7 @@ Options doc with best match: Credit Records(126)
 Algorithm selected: Composite Match V3
 Agent response:  a) Business credit reporting association -- INCORRECT. (Correct answer:  b) File-based credit reporting agency)
 
-157. Sources of Information 17
+154. Sources of Information 17
 
 Sources of Information
 
@@ -23593,11 +23476,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-158. Sources of Information 25
+155. Sources of Information 25
 
 Sources of Information
 
@@ -23622,7 +23505,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -23642,7 +23525,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  b) Probate court -- INCORRECT. (Correct answer:  d) None of the above)
 
-159. Sources of Information 42
+156. Sources of Information 42
 
 Sources of Information
 
@@ -23665,11 +23548,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-160. Written Reports 1
+157. Written Reports 1
 
 Written Reports
 
@@ -23694,7 +23577,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): in the reporting of fraud examination matters, ______________________ should be based on observation of the evidence.
 
 Doc results for stem: in the reporting of fraud examination matters, ______________________ should be based on observation of the evidence.
@@ -23728,7 +23611,7 @@ Options doc with best match: Conclusions and Opinions(7)
 Algorithm selected: Composite Match V3
 Agent response:  a) Conclusions -- CORRECT.
 
-161. Written Reports 12
+158. Written Reports 12
 
 Written Reports
 
@@ -23751,11 +23634,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-162. Written Reports 20
+159. Written Reports 20
 
 Written Reports
 
@@ -23780,7 +23663,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): reporting the results of fraud examinations is often facilitated through the use of visual aids. a _________________ shows relationships between people, organizations, and events.
 
 Doc results for stem: reporting the results of fraud examinations is often facilitated through the use of visual aids. a _________________ shows relationships between people, organizations, and events.
@@ -23844,7 +23727,7 @@ Options doc with best match: LinkNetwork Diagrams(73)
 Algorithm selected: Composite Match V3
 Agent response:  b) Link network diagram -- CORRECT.
 
-163. Civil Justice System 1
+160. Civil Justice System 1
 
 Civil Justice System
 
@@ -23869,7 +23752,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): a civil lawsuit begins with the following action
 
 Doc results for stem: a civil lawsuit begins with the following action
@@ -23911,7 +23794,7 @@ Options doc with best match: The Discovery Stage(3)
 Algorithm selected: Composite Match V3
 Agent response:  b) Filing a discovery motion -- INCORRECT. (Correct answer:  a) Filing of a complaint)
 
-164. Civil Justice System 16
+161. Civil Justice System 16
 
 Civil Justice System
 
@@ -23936,7 +23819,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): black, a certified fraud examiner, discovers a potential fraud at the abc company while auditing abc's procedures. she immediately notifies in-house counsel. as a result. black's work up until that point is protected by
 
 Doc results for stem: black, a certified fraud examiner, discovers a potential fraud at the abc company while auditing abc's procedures. she immediately notifies in-house counsel. as a result. black's work up until that point is protected by
@@ -23991,7 +23874,7 @@ Options doc with best match: Trial of a Civil Case(37)
 Algorithm selected: Composite Match V3
 Agent response:  c) The investigator/client privilege -- INCORRECT. (Correct answer:  d) None of the above)
 
-165. Civil Justice System 22
+162. Civil Justice System 22
 
 Civil Justice System
 
@@ -24016,7 +23899,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Civil Justice System
 enter: 4
 a: 205
@@ -24059,7 +23942,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Order a certain portion of the damages be remitted -- INCORRECT. (Correct answer:  c) Hear new evidence and render a verdict)
 
-166. Civil Justice System 28
+163. Civil Justice System 28
 
 Civil Justice System
 
@@ -24084,7 +23967,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): under the federal system, documents in civil cases are obtained from the opposing party by which mechanism
 
 Doc results for stem: under the federal system, documents in civil cases are obtained from the opposing party by which mechanism
@@ -24121,7 +24004,7 @@ Options doc with best match: Requests to Produce Documents(8)
 Algorithm selected: Composite Match V3
 Agent response:  a) Requests to produce documents -- CORRECT.
 
-167. Civil Justice System 7
+164. Civil Justice System 7
 
 Civil Justice System
 
@@ -24146,7 +24029,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): the commencement of a civil action begins with the filing of a(n)
 
 Doc results for stem: the commencement of a civil action begins with the filing of a(n)
@@ -24225,7 +24108,7 @@ Options doc with best match: Beginning the Civil Action(2)
 Algorithm selected: Composite Match V3
 Agent response:  a) Complaint -- CORRECT.
 
-168. Criminal Prosecutions for Fraud 23
+165. Criminal Prosecutions for Fraud 23
 
 Criminal Prosecutions for Fraud
 
@@ -24250,7 +24133,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): the procedure by which the prosecution or defense dismisses a prospective juror without giving a reason 
 
 Doc results for stem: the procedure by which the prosecution or defense dismisses a prospective juror without giving a reason 
@@ -24303,7 +24186,7 @@ Search successful for option whose matching doc is first stem doc: c) A perempto
 Algorithm selected: Composite Match V3
 Agent response:  c) A peremptory challenge -- CORRECT.
 
-169. Criminal Prosecutions for Fraud 28
+166. Criminal Prosecutions for Fraud 28
 
 Criminal Prosecutions for Fraud
 
@@ -24326,11 +24209,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-170. Criminal Prosecutions for Fraud 31
+167. Criminal Prosecutions for Fraud 31
 
 Criminal Prosecutions for Fraud
 
@@ -24353,11 +24236,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-171. Criminal Prosecutions for Fraud 36
+168. Criminal Prosecutions for Fraud 36
 
 Criminal Prosecutions for Fraud
 
@@ -24382,7 +24265,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -24402,7 +24285,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) All statements of witnesses made against him/her -- INCORRECT. (Correct answer:  c) All relevant statements made by him/her)
 
-172. Criminal Prosecutions for Fraud 39
+169. Criminal Prosecutions for Fraud 39
 
 Criminal Prosecutions for Fraud
 
@@ -24427,7 +24310,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): in certain circumstances, the defendant may be allowed to plead guilty, although continuing to assert his or her innocence. this procedure 
 
 Doc results for stem: in certain circumstances, the defendant may be allowed to plead guilty, although continuing to assert his or her innocence. this procedure 
@@ -24489,7 +24372,7 @@ Search successful for option whose matching doc is first stem doc: b) The Alford
 Algorithm selected: Composite Match V3
 Agent response:  b) The Alford plea -- CORRECT.
 
-173. Criminal Prosecutions for Fraud 58
+170. Criminal Prosecutions for Fraud 58
 
 Criminal Prosecutions for Fraud
 
@@ -24512,11 +24395,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-174. Criminal Prosecutions for Fraud 66
+171. Criminal Prosecutions for Fraud 66
 
 Criminal Prosecutions for Fraud
 
@@ -24541,7 +24424,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): the process by which counsel or the court asks questions of potential jurors 
 
 Doc results for stem: the process by which counsel or the court asks questions of potential jurors 
@@ -24594,7 +24477,7 @@ Options doc with best match: Jury Selection(34)
 Algorithm selected: Composite Match V3
 Agent response:  c) Peremptory challenge -- INCORRECT. (Correct answer:  b) Voir dire)
 
-175. Criminal Prosecutions for Fraud 73
+172. Criminal Prosecutions for Fraud 73
 
 Criminal Prosecutions for Fraud
 
@@ -24619,7 +24502,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): as a general proposition, the government must disclose information helpful to the defense prior to trial. this information 
 
 Doc results for stem: as a general proposition, the government must disclose information helpful to the defense prior to trial. this information 
@@ -24652,7 +24535,7 @@ Options doc with best match: Exculpatory Information (Brady Material)(31)
 Algorithm selected: Composite Match V3
 Agent response:  b) Brady material -- CORRECT.
 
-176. Criminal Prosecutions for Fraud 77
+173. Criminal Prosecutions for Fraud 77
 
 Criminal Prosecutions for Fraud
 
@@ -24677,7 +24560,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Criminal Prosecutions for Fraud
 motion: 18
 for: 137
@@ -24708,7 +24591,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Motion to dismiss -- INCORRECT. (Correct answer:  b) Motion to suppress evidence)
 
-177. Evidence 21
+174. Evidence 21
 
 Evidence
 
@@ -24733,7 +24616,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): a statement, other than that made by the declarant while testifying at a trial or hearing, offered in evidence to prove the truth of the matter asserted  ____________________________.
 
 Doc results for stem: a statement, other than that made by the declarant while testifying at a trial or hearing, offered in evidence to prove the truth of the matter asserted  ____________________________.
@@ -24793,7 +24676,7 @@ Search successful for option whose matching doc is first stem doc: b) Hearsay ev
 Algorithm selected: Composite Match V3
 Agent response:  b) Hearsay evidence -- CORRECT.
 
-178. Evidence 34
+175. Evidence 34
 
 Evidence
 
@@ -24818,7 +24701,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): blue is a certified fraud examiner. he has concluded through an evaluation of the abc company's internal controls and balances that no one but white could have embezzled funds from the company. if this evidence is allowed it would be called
 
 Doc results for stem: blue is a certified fraud examiner. he has concluded through an evaluation of the abc company's internal controls and balances that no one but white could have embezzled funds from the company. if this evidence is allowed it would be called
@@ -24869,7 +24752,7 @@ Options doc with best match: Character Evidence(7)
 Algorithm selected: Composite Match V3
 Agent response:  a) Circumstantial evidence -- CORRECT.
 
-179. Evidence 36
+176. Evidence 36
 
 Evidence
 
@@ -24892,11 +24775,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-180. Evidence 39
+177. Evidence 39
 
 Evidence
 
@@ -24919,11 +24802,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- INCORRECT. (Correct answer:  a) True)
 
-181. Evidence 7
+178. Evidence 7
 
 Evidence
 
@@ -24948,7 +24831,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): the rule that governs when a party seeks to prove the contents of a writing is
 
 Doc results for stem: the rule that governs when a party seeks to prove the contents of a writing is
@@ -24994,7 +24877,7 @@ Search successful for option whose matching doc is first stem doc: a) The best e
 Algorithm selected: Composite Match V3
 Agent response:  a) The best evidence rule -- CORRECT.
 
-182. Law Related to Fraud 20
+179. Law Related to Fraud 20
 
 Law Related to Fraud
 
@@ -25019,7 +24902,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): to be actionable under rule 10b-5 of the federal securities law, the misstatement (false statement) generally must be
 
 Doc results for stem: to be actionable under rule 10b-5 of the federal securities law, the misstatement (false statement) generally must be
@@ -25086,7 +24969,7 @@ Search for option whose matching doc is first stem doc failed
 Algorithm selected: Composite Match V3
 Agent response:  no response submitted by this algorithm. (Value returned = -1.) -- INCORRECT. (Correct answer:  a) Material)
 
-183. Law Related to Fraud 24
+180. Law Related to Fraud 24
 
 Law Related to Fraud
 
@@ -25109,11 +24992,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-184. Law Related to Fraud 35
+181. Law Related to Fraud 35
 
 Law Related to Fraud
 
@@ -25138,7 +25021,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Law Related to Fraud
 negligence: 7
 Total Frequency for Option: 7.0
@@ -25170,7 +25053,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  b) Knowledge of the statement's falsity -- INCORRECT. (Correct answer:  a) Negligence)
 
-185. Law Related to Fraud 45
+182. Law Related to Fraud 45
 
 Law Related to Fraud
 
@@ -25195,7 +25078,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Law Related to Fraud
 at: 36
 least: 9
@@ -25232,7 +25115,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  d) The defendant knew the purpose of the agreement -- INCORRECT. (Correct answer:  c) The overt act was criminal in nature)
 
-186. Law Related to Fraud 47
+183. Law Related to Fraud 47
 
 Law Related to Fraud
 
@@ -25257,7 +25140,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Law Related to Fraud
 an: 161
 intentional: 10
@@ -25286,7 +25169,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  a) An intentional false statement -- INCORRECT. (Correct answer:  c) Uttered in a court of law)
 
-187. Law Related to Fraud 54
+184. Law Related to Fraud 54
 
 Law Related to Fraud
 
@@ -25311,7 +25194,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): delta, a fraud suspect, has been charged criminally. before her trial she contacted witnesses against her and tried to get them to change their stories. delta could be further charged with
 
 Doc results for stem: delta, a fraud suspect, has been charged criminally. before her trial she contacted witnesses against her and tried to get them to change their stories. delta could be further charged with
@@ -25393,7 +25276,7 @@ Options doc with best match: False Claims and Statements(89)
 Algorithm selected: Composite Match V3
 Agent response:  b) Misprision of a felony -- INCORRECT. (Correct answer:  a) Obstruction of justice)
 
-188. Law Related to Fraud 6
+185. Law Related to Fraud 6
 
 Law Related to Fraud
 
@@ -25418,7 +25301,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): green, a certified fraud examiner was hired to testify in the bankruptcy trial of white. white knowingly purchased inventory on credit, sold off the inventory below cost, and absconded with the proceeds. later he was placed in bankruptcy. green will probably testify this scheme is commonly called a ________________.
 
 Doc results for stem: green, a certified fraud examiner was hired to testify in the bankruptcy trial of white. white knowingly purchased inventory on credit, sold off the inventory below cost, and absconded with the proceeds. later he was placed in bankruptcy. green will probably testify this scheme is commonly called a ________________.
@@ -25475,7 +25358,7 @@ Search successful for option whose matching doc is first stem doc: c) Bustout
 Algorithm selected: Composite Match V3
 Agent response:  c) Bustout -- CORRECT.
 
-189. Legal Rights of Employees 2
+186. Legal Rights of Employees 2
 
 Legal Rights of Employees
 
@@ -25500,7 +25383,7 @@ Question profile index: 65
             Composite Match V3:      0.352
        Composite Match V3 NOTA:      0.352
         Composite Match V3 NOT:      0.352
-                        Random:      0.253
+                        Random:      0.352
 Executing max frequency algo...
 Testing whether this is a TrueFalse question...
 This is not a true false question.
@@ -25520,7 +25403,7 @@ Algorithm selected: MaxFrequency
 
 Agent response:  a) Cannot be given to prospective employees -- CORRECT.
 
-190. Legal Rights of Employees 21
+187. Legal Rights of Employees 21
 
 Legal Rights of Employees
 
@@ -25543,11 +25426,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-191. Legal Rights of Employees 23
+188. Legal Rights of Employees 23
 
 Legal Rights of Employees
 
@@ -25572,7 +25455,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): as a general rule, both private and public employers may interview employees in settings without giving miranda warnings.
 
 Doc results for stem: as a general rule, both private and public employers may interview employees in settings without giving miranda warnings.
@@ -25621,7 +25504,7 @@ Search successful for option whose matching doc is first stem doc: a) Noncustodi
 Algorithm selected: Composite Match V3
 Agent response:  a) Noncustodial -- CORRECT.
 
-192. Legal Rights of Employees 39
+189. Legal Rights of Employees 39
 
 Legal Rights of Employees
 
@@ -25644,11 +25527,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-193. Legal Rights of Employees 43
+190. Legal Rights of Employees 43
 
 Legal Rights of Employees
 
@@ -25673,7 +25556,7 @@ Question profile index: 4
             Composite Match V3:      0.617
        Composite Match V3 NOTA:      0.617
         Composite Match V3 NOT:      0.143
-                        Random:      0.224
+                        Random:      0.270
 Stem (lower case): which amendment to the u.s. constitution covers the right not to testify against oneself
 
 Doc results for stem: which amendment to the u.s. constitution covers the right not to testify against oneself
@@ -25706,7 +25589,7 @@ Options doc with best match: Employee Rights Under the Fourth Amendment(40)
 Algorithm selected: Composite Match V3
 Agent response:  b) Fourth Amendment -- INCORRECT. (Correct answer:  d) Fifth Amendment)
 
-194. Legal Rights of Employees 7
+191. Legal Rights of Employees 7
 
 Legal Rights of Employees
 
@@ -25731,11 +25614,11 @@ Question profile index: 129
             Composite Match V3:      0.124
        Composite Match V3 NOTA:      0.124
         Composite Match V3 NOT:      0.124
-                        Random:      0.157
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-195. Overview of the Legal System 19
+192. Overview of the Legal System 19
 
 Overview of the Legal System
 
@@ -25760,7 +25643,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): in criminal cases, the burden of proof is
 
 Doc results for stem: in criminal cases, the burden of proof is
@@ -25828,7 +25711,7 @@ Options doc with best match: Criminal Versus Civil Actions for Fraud(13)
 Algorithm selected: Composite Match V3
 Agent response:  c) Beyond a legal doubt -- INCORRECT. (Correct answer:  a) Beyond a reasonable doubt)
 
-196. Overview of the Legal System 7
+193. Overview of the Legal System 7
 
 Overview of the Legal System
 
@@ -25851,11 +25734,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- CORRECT.
 
-197. Overview of the Legal System 8
+194. Overview of the Legal System 8
 
 Overview of the Legal System
 
@@ -25880,11 +25763,11 @@ Question profile index: 132
             Composite Match V3:      0.203
        Composite Match V3 NOTA:      0.203
         Composite Match V3 NOT:      0.141
-                        Random:      0.266
+                        Random:      0.281
 Algorithm selected: All of the Above
 Agent response:  d) All of the above -- CORRECT.
 
-198. Testifying as an Expert Witness 13
+195. Testifying as an Expert Witness 13
 
 Testifying as an Expert Witness
 
@@ -25909,7 +25792,7 @@ Question profile index: 68
             Composite Match V3:      0.633
        Composite Match V3 NOTA:      0.633
         Composite Match V3 NOT:      0.219
-                        Random:      0.243
+                        Random:      0.195
 Stem (lower case): according to rule 702 of the federal rules of evidence, expert testimony is intended to "assist the trier of fact to understand the evidence or to determine the ___________________ in issue."
 
 Doc results for stem: according to rule 702 of the federal rules of evidence, expert testimony is intended to "assist the trier of fact to understand the evidence or to determine the ___________________ in issue."
@@ -25942,7 +25825,7 @@ Options doc with best match: Expressing an Opinion on Guilt(40)
 Algorithm selected: Composite Match V3
 Agent response:  b) Guilt -- INCORRECT. (Correct answer:  a) Fact)
 
-199. Testifying as an Expert Witness 14
+196. Testifying as an Expert Witness 14
 
 Testifying as an Expert Witness
 
@@ -25965,11 +25848,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-200. Testifying as an Expert Witness 22
+197. Testifying as an Expert Witness 22
 
 Testifying as an Expert Witness
 
@@ -25992,11 +25875,11 @@ Question profile index: 16
             Composite Match V3:      0.165
        Composite Match V3 NOTA:      0.165
         Composite Match V3 NOT:      0.581
-                        Random:      0.461
+                        Random:      0.507
 Algorithm selected: True Select
 Agent response:  a) True -- INCORRECT. (Correct answer:  b) False)
 
-201. Testifying as an Expert Witness 4
+198. Testifying as an Expert Witness 4
 
 Testifying as an Expert Witness
 
@@ -26019,11 +25902,11 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-202. Testifying as an Expert Witness 6
+199. Testifying as an Expert Witness 6
 
 Testifying as an Expert Witness
 
@@ -26048,7 +25931,7 @@ Question profile index: 1
             Composite Match V3:      0.305
        Composite Match V3 NOTA:      0.305
         Composite Match V3 NOT:      0.282
-                        Random:      0.203
+                        Random:      0.271
 Question section: Testifying as an Expert Witness
 testifying: 44
 that: 141
@@ -26094,7 +25977,7 @@ Algorithm selected: Bag Of Words
 
 Agent response:  c) Testifying that the defendant is guilty -- CORRECT.
 
-203. Testifying as an Expert Witness 9
+200. Testifying as an Expert Witness 9
 
 Testifying as an Expert Witness
 
@@ -26117,10 +26000,10 @@ Question profile index: 24
             Composite Match V3:      0.263
        Composite Match V3 NOTA:      0.263
         Composite Match V3 NOT:      0.228
-                        Random:      0.333
+                        Random:      0.439
 Algorithm selected: False Select
 Agent response:  b) False -- CORRECT.
 
-EXAM COMPLETE. Score:  120 out of 203
+EXAM COMPLETE. Score:  118 out of 200
 
 

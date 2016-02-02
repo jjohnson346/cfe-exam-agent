@@ -1,9 +1,0 @@
-Section=Manager's and Auditor's Responsibilities
-
-Stem=The Private Securities Litigation Reform Act requires that each audit of a public company include procedures designed to provide reasonable assurance of detecting _that would have a direct and material effect on the financial statements.
-
-Options=Illegal acts | Corruption | Fraud | None of the above
-
-CorrectResponse=0
-
-Explanation=The Private Securities Litigation Reform Act (PSLRA), passed in 1995. sets forth several responsibilities for independent auditors of public companies. One of the requirements is that each audit of the financial statements of a public company include procedures designed to provide reasonable assurance of detecting illegal acts that v/ould have a direct and material effect on the determination of financial statement amounts.

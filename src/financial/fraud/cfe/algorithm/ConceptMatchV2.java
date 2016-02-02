@@ -235,6 +235,11 @@ public class ConceptMatchV2 extends AbstractConceptMatch {
 		questionSectionName = "Financial Statement Fraud";
 		questionName = "Financial Statement Fraud 9.txt";
 
+		// Bribery and Corruption 17.txt - INCORRECT - t
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Bribery and Corruption";
+		// questionName = "Bribery and Corruption 17.txt";
+
 		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName

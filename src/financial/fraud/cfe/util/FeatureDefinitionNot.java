@@ -22,7 +22,7 @@ public class FeatureDefinitionNot extends FeatureDefinition implements IFeature 
 	}
 
 	/**
-	 * return true if the stem contains "EXCEPT" (must be upper-case).
+	 * return true if the stem contains "which of the following is not".
 	 */
 	@Override
 	public boolean exists() {

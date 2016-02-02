@@ -1,9 +1,0 @@
-Section=Inventory and Other Assets
-
-Stem=Black's Law Dictionary defines which of the following as "felonious stealing, taking and carrying... away another's personal property with intent to convert it or deprive the owner thereof?
-
-Options=Stealing | Theft | Skimming | Larceny
-
-CorrectResponse=3
-
-Explanation=The Black's Law Dictionary definition of larceny is: ‰??Felonious stealing, taking and carrying, leading, riding, or driving away another‰??s personal property, with intent to convert it or to deprive the owner thereof. The unlawful taking and carrying away of property of another with intent to appropriate it to use inconsistent with latter‰??s rights."See page(s) 1.602 in the Fraud Examiner's Manual

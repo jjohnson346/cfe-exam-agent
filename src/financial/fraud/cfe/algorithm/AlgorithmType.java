@@ -21,8 +21,8 @@ public enum AlgorithmType {
 	CM_V1,
 	CM_V2,
 	CM_V3,
-	CM_V3_NOTA,
-	CM_V3_NOT,
+	CM_NOT,
+	CM_NOTA,
 	RANDOM;
 
 }

@@ -395,13 +395,13 @@ public abstract class AbstractCFEManual implements CFEManual {
 		Pattern pagePattern = Pattern.compile(PAGE_LINE_REGEX, Pattern.MULTILINE);
 		Matcher pageMatcher = pagePattern.matcher(manualText);
 
-		logger.println("Searching for page " + section.pageNumber + "...", DetailLevel.FULL);
+		// logger.println("Searching for page " + section.pageNumber + "...", DetailLevel.FULL);
 
 		if (pageMatcher.find(prevPagePos)) {
 			pagePos = pageMatcher.start();
-			logger.println("page " + section.pageNumber + " found at " + pagePos, DetailLevel.FULL);
+			// logger.println("page " + section.pageNumber + " found at " + pagePos, DetailLevel.FULL);
 		} else {
-			logger.println("page " + section.pageNumber + " NOT FOUND.", DetailLevel.FULL);
+			// logger.println("page " + section.pageNumber + " NOT FOUND.", DetailLevel.FULL);
 		}
 
 		int begPos = pagePos < prevBegPos ? prevBegPos : pagePos;
@@ -409,7 +409,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 		// find the name of section immediately after begPos.
 		// section.begPosition = manualText.indexOf(section.name, begPos);
 		section.begPosition = getSectionBegPosition(section, manualText, begPos);
-		
+
 		if (section.begPosition == -1) {
 			errors.add(section);
 		}
