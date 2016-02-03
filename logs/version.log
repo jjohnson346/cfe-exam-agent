@@ -1,5 +1,12 @@
 version log
 
+2.0.1
+
+- developed ConceptMatchV1,V2,V3,NOT,NOTA algorithms.  Modified Profiler and CFEExamAgent
+for the introduction of these new algorithm classes.
+
+- developed AlgorithmTester.
+
 2.0.0
 
 - developed the ConceptMatch algorithm.  This is based on a lucene-search-based approach

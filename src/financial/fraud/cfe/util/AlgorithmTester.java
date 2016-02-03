@@ -3,8 +3,8 @@ package financial.fraud.cfe.util;
 import java.util.Scanner;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.algorithm.ConceptMatchV2;
 import financial.fraud.cfe.algorithm.IAlgorithm;
-import financial.fraud.cfe.algorithm.NoneOfTheAbove;
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 import financial.fraud.cfe.manual.CFEManual;
@@ -101,7 +101,7 @@ public class AlgorithmTester {
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV2());
 
 		// conceptmatchV2 on profile 4 (def) on training set: accuracy: 118 out of 196 (60.2%)
-		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV2());
+		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV2());
 
 		// conceptmatchV3 on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3());
@@ -132,7 +132,7 @@ public class AlgorithmTester {
 		// ConceptMatchV3NOT());
 
 		// NoneOfTheAbove on profile 68 (def/not) on training set: accuracy:
-		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new NoneOfTheAbove());
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new NoneOfTheAbove());
 
 		algoTester.start(false);
 	}
