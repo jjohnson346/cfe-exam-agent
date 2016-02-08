@@ -1,6 +1,6 @@
 Section=Check and Credit Card Fraud
 
-Stem=Able, a Certified Fraud Examiner, is looking at a check that he suspects is forged. It appears that the forger may have used correction fluid to white out the name of the payee. Able decides that he needs to call in a forensic document specialist. The tool that the specialist v/ill most likely use to reveal the use of correction fluid is a(n):
+Stem=Able, a Certified Fraud Examiner, is looking at a check that he suspects is forged. It appears that the forger may have used correction fluid to white out the name of the payee. Able decides that he needs to call in a forensic document specialist. The tool that the specialist will most likely use to reveal the use of correction fluid is a(n):
 
 Options=Biometric fingerprint identifier | Electrostatic detection apparatus | Video spectral comparator | Correction fluid analyzer
 

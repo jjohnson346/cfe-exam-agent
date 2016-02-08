@@ -207,7 +207,7 @@ public class CFEExamQuestion {
 	}
 
 	public String getSourcePage() {
-		Pattern p = Pattern.compile("\\d\\.\\d{3}");
+		Pattern p = Pattern.compile("\\d\\.\\d{3,}");
 		Matcher m = p.matcher(explanation);
 		if (m.find())
 			return m.group();

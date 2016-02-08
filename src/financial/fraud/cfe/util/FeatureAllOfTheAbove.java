@@ -38,6 +38,9 @@ public class FeatureAllOfTheAbove implements IFeature {
 	public int getOptionIndex() {
 		int optionIndex = getIndex("all of the above", question);
 		if(optionIndex == -1) {
+			optionIndex = getIndex("any of the above", question);
+		}
+		if(optionIndex == -1) {
 			optionIndex = getIndex("I, II, III, and IV", question);
 		}
 		return optionIndex;

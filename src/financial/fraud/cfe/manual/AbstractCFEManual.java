@@ -3,6 +3,7 @@ package financial.fraud.cfe.manual;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
@@ -757,7 +758,7 @@ public abstract class AbstractCFEManual implements CFEManual {
 	public CFEManualSection getManualSection(String manualSectionId) {
 		return manualSectionMap.get(manualSectionId);
 	}
-
+	
 	/**
 	 * retrieves manual section for a given question section name
 	 * 

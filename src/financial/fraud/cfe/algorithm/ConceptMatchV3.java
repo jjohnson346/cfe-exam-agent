@@ -170,7 +170,7 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 					DetailLevel.FULL,
 					"%s\n",
 					"Search successful for option whose matching doc is first stem doc: "
-							+ (char) (matchingOption + 97) + ") " +  question.options.get(matchingOption));
+							+ (char) (matchingOption + 97) + ") " + question.options.get(matchingOption));
 			return optionsDocs.get(premierStemDoc);
 		} else {
 			Logger.getInstance().printf(DetailLevel.FULL, "%s\n",
@@ -186,7 +186,7 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 						DetailLevel.FULL,
 						"%s\n",
 						"Search successful for option whose matching doc is first stem doc: "
-								+ (char) (matchingOption + 97) +  ") " + question.options.get(matchingOption));
+								+ (char) (matchingOption + 97) + ") " + question.options.get(matchingOption));
 				return optionsDocs.get(premierStemDoc);
 			} else {
 				Logger.getInstance().printf(DetailLevel.FULL, "%s\n",
@@ -298,7 +298,6 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 		return optionDocs;
 	}
 
-
 	public static void main(String[] args) {
 		String examSectionName;
 		String questionSectionName;
@@ -309,10 +308,14 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 		// questionSectionName = "Interview Theory and Application";
 		// questionName = "Interview Theory and Application 34.txt";
 
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Money Laundering";
+		// questionName = "Money Laundering 26.txt";
+
 		examSectionName = "Financial Transactions and Fraud Schemes";
-		questionSectionName = "Money Laundering";
-		questionName = "Money Laundering 26.txt";
-		
+		questionSectionName = "Check and Credit Card Fraud";
+		questionName = "Check and Credit Card Fraud 11.txt";
+
 		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 
 		CFEExamQuestion question = new CFEExamQuestion("exam questions - all" + File.separator + examSectionName
@@ -324,7 +327,7 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 
 		int result = cm.solve(question, null);
 		Logger.getInstance().printf(DetailLevel.FULL, "%s\n",
-				"Option selected: " + (char) (result + 97) +  ") " + question.options.get(result));
+				"Option selected: " + (char) (result + 97) + ") " + question.options.get(result));
 		if (result == question.correctResponse) {
 			Logger.getInstance().printf(DetailLevel.FULL, "%s\n", "Correct!");
 		} else {
@@ -334,7 +337,7 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 			Logger.getInstance().printf(DetailLevel.FULL, "%s\n", "Manual page: " + question.getSourcePage());
 		}
 	}
-	
+
 	@Override
 	public String toString() {
 		return "Composite Match V3";

@@ -29,7 +29,9 @@ public class FeatureDefinitionNot extends FeatureDefinition implements IFeature 
 		// first, test whether this is a definition question.
 		if (!super.exists())
 			return false;
-
-		return question.stem.toLowerCase().indexOf("which of the following is not") != -1;
+		
+		boolean hasAllBut = question.stem.toLowerCase().indexOf("all but which of the following") != -1;
+		boolean hasNot = question.stem.toLowerCase().indexOf("which of the following is not") != -1;
+		return hasAllBut || hasNot;
 	}
 }

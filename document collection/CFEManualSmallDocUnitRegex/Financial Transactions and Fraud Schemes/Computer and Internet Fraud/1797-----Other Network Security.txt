@@ -35,7 +35,7 @@ Digital signatures are becoming more common, in part because Congress and many s
 have passed legislation to legitimize the electronic “signing” of documents. In 2000 the 
 Electronic Signatures in Global and National Commerce Act (E-SIGN Act) became 
 effective. This federal statute basically provides a mechanism whereby any document that is 
-required to be signed, can be signed “electr onically.” The E-SIGN Act does not require a 
+required to be signed, can be signed “electronically.” The E-SIGN Act does not require a 
 party to use or accept electronic signatures, electronic contracts or electronic records, but 
 rather seeks to facilitate the use of electronic signatures and documents by upholding their 
 legal effect regardless of the type or method selected by the parties. The E-SIGN Act is also 

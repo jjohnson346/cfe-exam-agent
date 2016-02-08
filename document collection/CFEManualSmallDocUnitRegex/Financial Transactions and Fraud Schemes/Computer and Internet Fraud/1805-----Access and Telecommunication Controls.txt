@@ -21,7 +21,7 @@ In the 1960s and 1970s, access controls meant ensuring that there was a lock on 
 computer room door. As online systems were implemented, the definition of access evolved 
 to include logical access in addition to physical access. Logical access refers to any location 
 where someone can sign on to the system. That sign-on access can be a direct connection or 
-a dial-up. In today’s, online, real-time, and in terconnected world, it is easy to forget physical 
+a dial-up. In today’s, online, real-time, and interconnected world, it is easy to forget physical 
 guards over computer equipment. Computer equipment must be physically secured. This 
 should include network servers, telephone system computers, communications controllers, 
 and personal computers with sensitive data. 

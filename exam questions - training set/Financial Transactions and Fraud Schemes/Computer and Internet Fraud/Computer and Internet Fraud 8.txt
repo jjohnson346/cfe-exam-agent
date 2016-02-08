@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=If you were responsible for investigating an alleged fraud in the design and installation of a new software application at your company, which of the following internal control systems would you review to determine whether the company's internal controls appeared adequate at the time of the alleged offense?r
+Stem=If you were responsible for investigating an alleged fraud in the design and installation of a new software application at your company, which of the following internal control systems would you review to determine whether the company's internal controls appeared adequate at the time of the alleged offense?
 
 Options=System maintenance | Implementation controls | Computer operations | System software controls
 

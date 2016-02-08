@@ -19,7 +19,7 @@ Check and Credit Card Fraud
 Check Kiting 
 Check kiting is one of the original white-collar crimes. It continues to survive even with a 
 financial institution’s ability to detect kiting. In a kiting scheme, multiple bank accounts are 
-opened and money is “deposited” from acco unt to account, although the money  
+opened and money is “deposited” from account to account, although the money  
 never exists.  
  
 Floating makes check kiting possible. Floating is the additional value of funds generated in 

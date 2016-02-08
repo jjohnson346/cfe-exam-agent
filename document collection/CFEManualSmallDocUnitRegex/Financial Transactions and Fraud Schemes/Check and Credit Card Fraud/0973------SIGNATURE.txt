@@ -24,7 +24,7 @@ signature with one hundred percent accuracy;  minute identifying characteristics
 people’s writing and are not reproducible. 
  
 The eBank ™ Discovery System, developed by ASV Technologies, employs signature 
-verification software. Using “multiple feat ure set extraction” technology drawn from 
+verification software. Using “multiple feature set extraction” technology drawn from 
 forensic science, the state and quality of a signature’s two-dimensional characteristics are 
 analyzed and verified against samples. The program identifies flourishes, arcs, distances 
 between letters, and up to 100 other features. Rejected signatures, along with the reason for 

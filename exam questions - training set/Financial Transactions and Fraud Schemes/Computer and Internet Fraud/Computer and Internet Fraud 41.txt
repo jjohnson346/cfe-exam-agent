@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=If you are responsible for the backup computer system, which of the following general internal control categories should you find in your company's detailed procedures?UL
+Stem=If you are responsible for the backup computer system, which of the following general internal control categories should you find in your company's detailed procedures?
 
 Options=Data file controls | Implementation controls | System software controls | Computer operations
 

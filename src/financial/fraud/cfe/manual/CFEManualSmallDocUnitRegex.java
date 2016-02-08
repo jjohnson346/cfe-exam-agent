@@ -1,6 +1,8 @@
 package financial.fraud.cfe.manual;
 
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -8,11 +10,11 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * CFEManualSmallDocUnitRegex implements the CFEManual interface, sectioning the manual using regular expressions instead of
- * direct string searches, as is the case for CFEManualSmallDocUnit.
+ * CFEManualSmallDocUnitRegex implements the CFEManual interface, sectioning the manual using regular expressions
+ * instead of direct string searches, as is the case for CFEManualSmallDocUnit.
  * 
- * As of 1.9.0, this is the preferred way to decompose the manual into small documents, 
- * (as opposed to CFEManualSmallDocUnitFind).
+ * As of 1.9.0, this is the preferred way to decompose the manual into small documents, (as opposed to
+ * CFEManualSmallDocUnitFind).
  * 
  * @author jjohnson346
  * 
@@ -20,8 +22,8 @@ import financial.fraud.cfe.logging.Logger;
 public class CFEManualSmallDocUnitRegex extends AbstractCFEManual {
 
 	/**
-	 * implements the functionality for finding the section's name in the manual text starting
-	 * at begPos.  Uses a straight up text search to do this.
+	 * implements the functionality for finding the section's name in the manual text starting at begPos. Uses a
+	 * straight up text search to do this.
 	 */
 	@Override
 	protected int getSectionBegPosition(CFEManualSection section, String manualText, int begPos) {
@@ -129,6 +131,35 @@ public class CFEManualSmallDocUnitRegex extends AbstractCFEManual {
 		Logger.getInstance().println("Section details load for section, " + section.name + " complete.",
 				DetailLevel.FULL);
 
+	}
+
+	public List<CFEManualSection> getManualSectionForPage(String pageNumber) {
+		return getManualSectionForPageUtil(root, pageNumber);
+	}
+
+	private List<CFEManualSection> getManualSectionForPageUtil(CFEManualSection section, String pageNumber) {
+		if (section.subSections.isEmpty())
+			return null;
+
+		List<CFEManualSection> sectionsForPage = new ArrayList<CFEManualSection>();
+
+		for (CFEManualSection subSection : section.subSections.values()) {
+			if (subSection.pageNumber.equals(pageNumber))
+				sectionsForPage.add(subSection);
+			List<CFEManualSection> subSectionsForPage = getManualSectionForPageUtil(subSection, pageNumber);
+			if (subSectionsForPage != null)
+				sectionsForPage.addAll(getManualSectionForPageUtil(subSection, pageNumber));
+		}
+		return sectionsForPage;
+
+	}
+
+	public static void main(String[] args) {
+		CFEManualSmallDocUnitRegex manual = new CFEManualSmallDocUnitRegex();
+		
+		List<CFEManualSection> sections = manual.getManualSectionForPage("1.201");
+		for(CFEManualSection section : sections)
+			System.out.println(section.name);
 	}
 
 }

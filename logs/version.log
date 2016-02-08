@@ -1,8 +1,24 @@
 version log
 
+3.0.1
+
+- incorporated a new profile type for I,II,III,IV questions.  This changed 
+
+
+
+
+
+3.0.0
+
+- modified FeatureAllOfTheAbove class to include those questions which have an option that says,
+"Any of the above".  This reduced the number of questions in the definition category from 196 to 190 
+and increased the number of questions in the all of the above/definition category from 64 to 70.
+Profile data is stored in profile.data.training.set.3.0.0.summarized.txt.
+
+
 2.0.1
 
-- developed ConceptMatchV1,V2,V3,NOT,NOTA algorithms.  Modified Profiler and CFEExamAgent
+- developed ConceptMatchV1,V2,V3,NOT,NOTA algorithms.  Modified Profiler, ProfileData, and CFEExamAgent
 for the introduction of these new algorithm classes.
 
 - developed AlgorithmTester.
