@@ -13,7 +13,7 @@ public enum FeatureType {
 	// make sure to adjust the methods in the Profile class, hasFeature() and
 	// getDescription(), which are tightly coupled with the structure and values
 	// of the FeatureType enum.
-//	CF_HANDBOOK,
+	CF_HANDBOOK,
 	I_II_III_IV,
 	ALL_OF_THE_ABOVE, 
 	NONE_OF_THE_ABOVE, 
