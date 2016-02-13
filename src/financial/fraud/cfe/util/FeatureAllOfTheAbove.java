@@ -18,6 +18,8 @@ public class FeatureAllOfTheAbove implements IFeature {
 	public FeatureAllOfTheAbove(CFEExamQuestion question) {
 		this.question = question;
 	}
+	
+	public FeatureAllOfTheAbove() {}
 
 	/**
 	 * returns true if an all of the above question.
@@ -62,6 +64,12 @@ public class FeatureAllOfTheAbove implements IFeature {
 			}
 		}
 		return -1;
+	}
+
+	@Override
+	public boolean hasFeature(CFEExamQuestion question) {
+		this.question = question;
+		return exists();
 	}
 
 

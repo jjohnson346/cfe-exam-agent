@@ -9,26 +9,32 @@ import financial.fraud.cfe.agent.CFEExamQuestion;
  * @author jjohnson346
  *
  */
-public class FeatureTrueFalse implements IFeature {
+public class FeatureIII implements IFeature {
 
 	protected CFEExamQuestion question;
 	
-	public FeatureTrueFalse(CFEExamQuestion question) {
+	public FeatureIII(CFEExamQuestion question) {
 		this.question = question;
 	}
 	
-	public FeatureTrueFalse() {}
-
+	public FeatureIII() {}
+	
 	/**
 	 * return true if a true/false question
 	 */
 	@Override
 	public boolean exists() {
-		if(question.options.size() != 2)
-			return false;
-		if(question.options.get(0).equals("True") && question.options.get(1).equals("False"))
-			return true;
+		for(String option : question.options) {
+			if(option.indexOf("III") != -1)
+				return true;
+		}
 		return false;
+	}
+	
+	public static void main(String[] args) {
+		CFEExamQuestion question = new CFEExamQuestion("exam questions - all/Financial Transactions and Fraud Schemes/Computer and Internet Fraud/Computer and Internet Fraud 9.txt");
+		FeatureIII f = new FeatureIII(question);
+		System.out.println(f.exists());
 	}
 
 	@Override

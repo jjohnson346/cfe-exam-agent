@@ -2,7 +2,7 @@ Section=Financial Statement Fraud
 
 Stem=The three common methods for concealing liabilities and expenses are:	 \r\rI.	Liability/expense omissions \rII.	Capitalized expenses \rIII.	Early revenue recognition \rIV.	Failure to disclose warranty costs and liabilities.
 
-Options=II, III, and IV | III and IV | I, II, and IV	| I,II, and III
+Options=II, III, and IV | III and IV | I, II, and IV | I,II, and III
 
 CorrectResponse=2
 

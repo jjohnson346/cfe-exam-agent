@@ -27,6 +27,8 @@ public class FeatureHasLongOptions implements IFeature {
 	public FeatureHasLongOptions(CFEExamQuestion question) {
 		this.question = question;
 	}
+	
+	public FeatureHasLongOptions() {}
 
 	@Override
 	public boolean exists() {
@@ -45,6 +47,12 @@ public class FeatureHasLongOptions implements IFeature {
 			}
 		}
 		return isLong;
+	}
+
+	@Override
+	public boolean hasFeature(CFEExamQuestion question) {
+		this.question = question;
+		return exists();
 	}
 
 }

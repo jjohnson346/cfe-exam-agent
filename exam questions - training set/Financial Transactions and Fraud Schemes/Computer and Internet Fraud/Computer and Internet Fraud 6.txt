@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=Which of the following are computer hacking detection measures? I.	Review the file log for successful access attempts II.	Review the file log for unsuccessful access attempts III.	Provide sufficient resources and staff to administer the data security function IV.	Periodically review telecommunications security
+Stem=Which of the following are computer hacking detection measures? \r\rI.	Review the file log for successful access attempts \rII.	Review the file log for unsuccessful access attempts \rIII.	Provide sufficient resources and staff to administer the data security function \rIV.	Periodically review telecommunications security
 
 Options=I, II, III, and IV | Ill only | II and IV only | Ill and IV only
 

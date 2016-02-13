@@ -1,6 +1,6 @@
 Section=Public Sector Fraud
 
-Stem=According to the Fraud Examiners Manual which of the following are the best detection methods for government beneficiary fraud: I.	Interviews II.	Examination of source documents III.	Development of computer programs to identify fraudulent patterns IV.	Hypotheticals
+Stem=According to the Fraud Examiners Manual which of the following are the best detection methods for government beneficiary fraud: \r\rI.	Interviews \rII.	Examination of source documents \rIII.	Development of computer programs to identify fraudulent patterns \rIV.	Hypotheticals
 
 Options=III and IV | II and III | I and III | I and IV
 

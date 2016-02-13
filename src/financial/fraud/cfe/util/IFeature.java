@@ -1,5 +1,7 @@
 package financial.fraud.cfe.util;
 
+import financial.fraud.cfe.agent.CFEExamQuestion;
+
 
 /**
  * an interface for a feature.  All classes representing a question
@@ -11,4 +13,6 @@ package financial.fraud.cfe.util;
  */
 public interface IFeature {
 	public boolean exists();
+	
+	public boolean hasFeature(CFEExamQuestion question);
 }

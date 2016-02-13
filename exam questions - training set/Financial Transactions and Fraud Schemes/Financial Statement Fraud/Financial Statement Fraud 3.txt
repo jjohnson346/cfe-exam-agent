@@ -1,6 +1,6 @@
 Section=Financial Statement Fraud
 
-Stem=Which of the following must be disclosed in an organization's financial statements?	 I. Changes in estimates	 II. Changes in accounting principles	 III. Changes in reporting entities
+Stem=Which of the following must be disclosed in an organization's financial statements?	 \r\rI. Changes in estimates	 \rII. Changes in accounting principles	 \rIII. Changes in reporting entities
 
 Options=I and III | I and II | I, II, and III | II and III
 

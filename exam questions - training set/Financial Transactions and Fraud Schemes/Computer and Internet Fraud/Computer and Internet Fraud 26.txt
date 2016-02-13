@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=Aside from lack of segregation of duties in the data center, which of the following are considered red flags of insider computer fraud? I.	Access privileges equal to those required to perform assigned tasks II.	Access logs not reviewed III.	Production reports run at usual hours IV.	Exception reports not reviewed and resolved
+Stem=Aside from lack of segregation of duties in the data center, which of the following are considered red flags of insider computer fraud? \r\rI.	Access privileges equal to those required to perform assigned tasks \rII.	Access logs not reviewed \rIII.	Production reports run at usual hours \rIV.	Exception reports not reviewed and resolved
 
 Options=II and IV only | I, II, III, and IV | Ill and IV only | I and III only
 

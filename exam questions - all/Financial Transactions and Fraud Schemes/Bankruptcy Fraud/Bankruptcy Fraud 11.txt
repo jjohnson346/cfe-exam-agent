@@ -2,7 +2,7 @@ Section=Bankruptcy Fraud
 
 Stem=A bustout is a planned bankruptcy. In order to perpetrate this type of scheme, in which order must the following steps be taken by the business?
 
-Options=III then II then I then IV | II then III then IV then I  | I then IV then III then II | III then II then IV then I
+Options=III then II then I then IV | II then III then IV then I | I then IV then III then II | III then II then IV then I
 
 CorrectResponse=3
 

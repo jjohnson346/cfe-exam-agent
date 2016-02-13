@@ -2,10 +2,6 @@ Section=Introduction to Fraud Examination
 
 Stem=Proof in a fraud case usually proceeds through three basic stages. These stages are listed below. In what order does the examiner proceed through these stages?   
 
-I. Sealing the case through examination of the subject
-II. Obtaining direct evidence
-III. Building circumstantial evidence  
-
 Options=II, III, I | I, III, II | I, II, III | III, II, I
 
 CorrectResponse=3

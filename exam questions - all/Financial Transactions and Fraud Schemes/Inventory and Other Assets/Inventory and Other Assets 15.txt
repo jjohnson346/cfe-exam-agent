@@ -1,9 +1,9 @@
 Section=Inventory and Other Assets
 
-Stem=There are traditionally two methods of percentage analysis of financial statements. They are: \r\rI.	Directional analysis \rII.	Horizontal analysis \rIII.	Vertical analysis \rIV.	Diagonal analysisr
+Stem=There are traditionally two methods of percentage analysis of financial statements. They are: \r\rI.	Directional analysis \rII.	Horizontal analysis \rIII.	Vertical analysis \rIV.	Diagonal analysis
 
 Options=II and III | I and IV | Ill and IV | I and II
 
 CorrectResponse=0
 
-Explanation=There are traditionally two methods of percentage analysis of financial statements. Vertical analysis is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressing components as percentages. This method is often referred to as â€œcommon sizing" financial statements. In the vertical analysis of an income statement, net sales is assigned 100 percent; for a balance sheet, total assets is assigned 100 percent on the asset side; and total liabilities and equity is expressed as 100 percent. All other items in each of the sections are expressed as a percentage of these numbers. Horizontal analysis is a technique for analyzing the percentage change in individual financial statement items from one year to the next. The first period in the analysis is considered the base, andSee page(s) 390-392 in the Corporate Fraud Handbook
+Explanation=There are traditionally two methods of percentage analysis of financial statements. Vertical analysis is a technique for analyzing the relationships between the items on an income statement, balance sheet, or statement of cash flows by expressing components as percentages. This method is often referred to as ‰??common sizing" financial statements. In the vertical analysis of an income statement, net sales is assigned 100 percent; for a balance sheet, total assets is assigned 100 percent on the asset side; and total liabilities and equity is expressed as 100 percent. All other items in each of the sections are expressed as a percentage of these numbers. Horizontal analysis is a technique for analyzing the percentage change in individual financial statement items from one year to the next. The first period in the analysis is considered the base, andSee page(s) 390-392 in the Corporate Fraud Handbook

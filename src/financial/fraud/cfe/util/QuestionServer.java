@@ -65,6 +65,21 @@ public class QuestionServer {
 	}
 
 	/**
+	 * initializes the questions reference to a list of CFEExamQuestions objects, created by traversing the files in the
+	 * exam questions directory and selecting those questions which have the feature passed in as an argument.
+	 */
+	public QuestionServer(String directory, IFeature feature) {
+
+		Logger.getInstance().println("Initializing question server...", DetailLevel.MEDIUM);
+
+		questionFileNames = getQuestionFileNames(directory);
+		questions = getQuestions(feature);
+		iter = questions.iterator();
+
+		Logger.getInstance().println("Question server initialization complete.", DetailLevel.MEDIUM);
+	}
+
+	/**
 	 * returns the number of questions to be served by this object, given the directory, and, if specified, the question
 	 * profile specified to the constructor
 	 * 
@@ -170,6 +185,28 @@ public class QuestionServer {
 	}
 
 	/**
+	 * returns the linked hash set of questions compiled by traversing the question files in each exam section directory
+	 * in the the exam questions directory, but unlike the no-arg implementation of this function, selects only those
+	 * questions for which feature exists.
+	 * 
+	 * @param profile
+	 *            the profile of the questions to be added to the collection
+	 * 
+	 * @return a list of CFEExamQuestion objects whose profile matches the profile argument
+	 */
+	private LinkedHashSet<CFEExamQuestion> getQuestions(IFeature feature) {
+		LinkedHashSet<CFEExamQuestion> questions = new LinkedHashSet<CFEExamQuestion>();
+		for (String fileName : questionFileNames) {
+			CFEExamQuestion q = new CFEExamQuestion(fileName);
+			// add only those questions for which the feature exists.
+			if (feature.hasFeature(q))
+				if (!questions.add(q))
+					System.out.println("duplicate question: \n" + q);
+		}
+		return questions;
+	}
+
+	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
@@ -196,7 +233,10 @@ public class QuestionServer {
 		// QuestionServer qs = new QuestionServer("exam questions - test set",68);
 
 		// definition/not questions:
-		QuestionServer qs = new QuestionServer("exam questions - training set", 4);
+		// QuestionServer qs = new QuestionServer("exam questions - training set", 257);
+
+		// questions with corporate fraud handbook:
+		QuestionServer qs = new QuestionServer("exam questions - training set", new FeatureCorporateFraudHandbook());
 
 		Scanner input = new Scanner(System.in);
 
@@ -206,7 +246,9 @@ public class QuestionServer {
 			// System.out.println(q.section);
 			System.out.println("Question " + ++count + " of " + qs.size() + ":");
 			System.out.println(q);
-			System.out.println(q.getFormattedCorrectResponse());
+			System.out.println("Correct Reponse: " + q.getFormattedCorrectResponse());
+			System.out.println();
+			System.out.println("Explanation: " + q.explanation);
 			System.out.println();
 			// input.nextLine();
 		}

@@ -1,6 +1,6 @@
 Section=Inventory and Other Assets
 
-Stem=There are traditionally two methods of percentage analysis of financial statements. They are: I.	Directional analysis II.	Horizontal analysis III.	Vertical analysis IV.	Diagonal analysisr
+Stem=There are traditionally two methods of percentage analysis of financial statements. They are: \r\rI.	Directional analysis \rII.	Horizontal analysis \rIII.	Vertical analysis \rIV.	Diagonal analysis
 
 Options=II and III | I and IV | Ill and IV | I and II
 

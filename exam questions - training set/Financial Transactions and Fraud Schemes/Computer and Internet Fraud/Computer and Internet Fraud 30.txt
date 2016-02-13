@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=Detecting a computer virus may be as simple as reading a message on the screen. However, not all viruses announce their presence. Which of the following may be symptoms of a viral infection? I.	Increase in size of some files II.	Unexplained changes in memory III.	Inability to access files IV.	An Error 459 messager
+Stem=Detecting a computer virus may be as simple as reading a message on the screen. However, not all viruses announce their presence. Which of the following may be symptoms of a viral infection? \r\rI.	Increase in size of some files \rII.	Unexplained changes in memory \rIII.	Inability to access files \rIV.	An Error 459 messager
 
 Options=I, III, and IV | I, II, and III | I, II, III, and IV | I,	II, and IV
 

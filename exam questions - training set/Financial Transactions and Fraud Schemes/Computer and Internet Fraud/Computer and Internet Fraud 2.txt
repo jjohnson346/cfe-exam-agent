@@ -1,6 +1,6 @@
 Section=Computer and Internet Fraud
 
-Stem=Which of the following are elements of computer fraud? I.	A defalcation or embezzlement II.	Tampering with computer programs, data files, operations or media III.	Access with the intent to execute a fraudulent scheme IV.	Losses to the owner of the manipulated computer
+Stem=Which of the following are elements of computer fraud? \r\rI.	A defalcation or embezzlement \rII.	Tampering with computer programs, data files, operations or media \rIII.	Access with the intent to execute a fraudulent scheme \rIV.	Losses to the owner of the manipulated computer
 
 Options=I, II, and IV only | I, II, III, and IV | II, III, and IV only | II and III only
 

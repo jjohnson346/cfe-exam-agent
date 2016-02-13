@@ -19,6 +19,8 @@ public class FeatureNoneOfTheAbove implements IFeature {
 		this.question = question;
 	}
 
+	public FeatureNoneOfTheAbove() {}
+
 	/**
 	 * return true if none of the above option exists.
 	 */
@@ -47,6 +49,12 @@ public class FeatureNoneOfTheAbove implements IFeature {
 			}
 		}
 		return -1;
+	}
+
+	@Override
+	public boolean hasFeature(CFEExamQuestion question) {
+		this.question = question;
+		return exists();
 	}
 
 }

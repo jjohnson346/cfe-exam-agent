@@ -2,7 +2,8 @@ version log
 
 3.0.1
 
-- incorporated a new profile type for I,II,III,IV questions.  This changed 
+- incorporated a new profile type for I,II,III,IV questions.  This reduced the number of questions in the 
+definition category from 190 to 181. 
 
 
 

@@ -35,6 +35,8 @@ public class FeatureDefinition implements IFeature {
 		this.question = question;
 	}
 	
+	public FeatureDefinition() {}
+	
 	/**
 	 * returns true if the question is considered a definition question,
 	 * one which asks about the correct definition for a term or concept.
@@ -60,5 +62,11 @@ public class FeatureDefinition implements IFeature {
 		if(!new FeatureHasLongOptions(question).exists())
 			return true;
 		return false;
+	}
+
+	@Override
+	public boolean hasFeature(CFEExamQuestion question) {
+		this.question = question;
+		return exists();
 	}
 }

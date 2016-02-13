@@ -1,11 +1,6 @@
 Section=Manager's and Auditor's Responsibilities
 
-Stem=When identifying risks that may result in material misstatements due to fraud, auditors should consider the information needed to identify such risks in the context of the three conditions present when fraud occurs, and they should also consider: 
-
-I. The type of risk that may exist 
-II. The significance of the risk 
-III. The likelihood of the risk 
-IV. The pervasiveness of the risk
+Stem=When identifying risks that may result in material misstatements due to fraud, auditors should consider the information needed to identify such risks in the context of the three conditions present when fraud occurs, and they should also consider: \r\rI. The type of risk that may exist \rII. The significance of the risk \rIII. The likelihood of the risk \rIV. The pervasiveness of the risk
 
 Options=I, II, III, and IV | I, and III only | I, II, and III only r | II, and IV only
 

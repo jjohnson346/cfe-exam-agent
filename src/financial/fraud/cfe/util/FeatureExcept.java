@@ -17,6 +17,8 @@ public class FeatureExcept implements IFeature {
 	public FeatureExcept(CFEExamQuestion question) {
 		this.question = question;
 	}
+	
+	public FeatureExcept() {}
 
 	/**
 	 * return true if the stem contains "EXCEPT" (must be upper-case).
@@ -24,5 +26,11 @@ public class FeatureExcept implements IFeature {
 	@Override
 	public boolean exists() {
 		return question.stem.indexOf("EXCEPT") != -1;
+	}
+
+	@Override
+	public boolean hasFeature(CFEExamQuestion question) {
+		this.question = question;
+		return exists();
 	}
 }

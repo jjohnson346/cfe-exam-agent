@@ -31,6 +31,8 @@ public class Profile {
 	public Profile(CFEExamQuestion question) {
 		features = new boolean[FeatureType.values().length];
 
+//		features[FeatureType.CF_HANDBOOK.ordinal()] = new FeatureCorporateFraudHandbook(question).exists();
+		features[FeatureType.I_II_III_IV.ordinal()] = new FeatureIII(question).exists();
 		features[FeatureType.ALL_OF_THE_ABOVE.ordinal()] = new FeatureAllOfTheAbove(question).exists();
 		features[FeatureType.NONE_OF_THE_ABOVE.ordinal()] = new FeatureNoneOfTheAbove(question).exists();
 		features[FeatureType.EXCEPT.ordinal()] = new FeatureExcept(question).exists();
@@ -64,6 +66,7 @@ public class Profile {
 	/**
 	 * return the profile value for the question object with which this Profile
 	 * object is associated.  Use the power of 2 formula shown below
+	 * I,II,III,IV * 2^8 +
 	 * AllOfTheAbove * 2^7 +
 	 * NoneOfTheAbove * 2^6 +
 	 * Except * 2^5 +
@@ -80,6 +83,7 @@ public class Profile {
 		
 		// set profile index to:
 		//
+		// I,II,III,IV * 2^8
 		// AllOfTheAbove * 2^7 +
 		// NoneOfTheAbove * 2^6 +
 		// Except * 2^5 +
@@ -109,6 +113,14 @@ public class Profile {
 		final int MAX_EXPONENT = FeatureType.values().length - 1;
 		
 		description.append(" ");		// add an introductory space for formatting
+//		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.CF_HANDBOOK.ordinal())) {
+//			description.append(description.length() == 1 ? "" : "/").append("fraud-handbook");
+//			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.CF_HANDBOOK.ordinal());
+//		}
+		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.I_II_III_IV.ordinal())) {
+			description.append(description.length() == 1 ? "" : "/").append("I_II_III_IV");
+			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.I_II_III_IV.ordinal());
+		}
 		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.ALL_OF_THE_ABOVE.ordinal())) {
 			description.append(description.length() == 1 ? "" : "/").append("all-above");
 			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.ALL_OF_THE_ABOVE.ordinal());
@@ -147,6 +159,16 @@ public class Profile {
 	public static boolean hasFeature(int profileIndex, int feature) {
 		final int MAX_EXPONENT = FeatureType.values().length - 1;
 		
+//		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.CF_HANDBOOK.ordinal())) {
+//			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.CF_HANDBOOK.ordinal());
+//			if(feature == FeatureType.CF_HANDBOOK.ordinal())
+//				return true;
+//		}
+		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.I_II_III_IV.ordinal())) {
+			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.I_II_III_IV.ordinal());
+			if(feature == FeatureType.I_II_III_IV.ordinal())
+				return true;
+		}
 		if(profileIndex >= Math.pow(2, MAX_EXPONENT-FeatureType.ALL_OF_THE_ABOVE.ordinal())) {
 			profileIndex -= Math.pow(2, MAX_EXPONENT-FeatureType.ALL_OF_THE_ABOVE.ordinal());
 			if(feature == FeatureType.ALL_OF_THE_ABOVE.ordinal())

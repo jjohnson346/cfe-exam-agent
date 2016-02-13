@@ -2,8 +2,8 @@ Section=Health Care Fraud
 
 Stem=In order to detect provider fraud, an examiner should be alert for which of the following red flags?
 
-Options=III and IV only  | I and II only  | II and III only | I, II, III, and IV
+Options=III and IV only | I and II only | II and III only | I, II, III, and IV
 
 CorrectResponse=3
 
-Explanation=Some of the red flags of provider fraud include:â€¢	Pressure for rapid processing of claimsâ€¢	Threats of legal action for delay in making paymentsâ€¢	Frequent telephone inquiries on claim statusSee page(s) 1.1222 in the Fraud Examinerâ€™s Manual
+Explanation=Some of the red flags of provider fraud include:‰?¢	Pressure for rapid processing of claims‰?¢	Threats of legal action for delay in making payments‰?¢	Frequent telephone inquiries on claim statusSee page(s) 1.1222 in the Fraud Examiner‰??s Manual

@@ -1,6 +1,6 @@
 Section=Introduction to Fraud Examination
 
-Stem=In what order should the following parties be interviewed? I. Co-conspirators II. Corroborative witnesses III. Neutral third party witnesses IV. Subject
+Stem=In what order should the following parties be interviewed? \r\rI. Co-conspirators \rII. Corroborative witnesses \rIII. Neutral third party witnesses \rIV. Subject
 
 Options=I, II, III, IV | III, II, I, IV | II, IV, III, I | I, III, IV, II
 
