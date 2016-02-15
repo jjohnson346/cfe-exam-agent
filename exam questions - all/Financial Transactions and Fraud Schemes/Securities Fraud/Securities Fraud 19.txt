@@ -1,9 +1,9 @@
 Section=Securities Fraud
 
-Stem=Under Section 302 of the Sarbanes-Oxley Act, the CEO and CFO are required to personally certify that they have evaluated the company's days.within the past ninety
+Stem=Under Section 302 of the Sarbanes-Oxley Act, the CEO and CFO are required to personally certify that they have evaluated the company's _______________ within the past ninety days.
 
 Options=Internal controls | Audit committee | Material misstatements | Personal loans
 
 CorrectResponse=0
 
-Explanation=Under Sarbanes-Oxley, the CEO and CFO not only have to certify that they are responsible for their companyâ€™s internal controls, but also that they have evaluated the controls within 90 days prior to their quarterly or annual report. Essentially, this certification requirement mandates that companies actively and continually re-evaluate their control structures to prevent fraud.See page(s) 1.1505 in the Fraud Examinerâ€™s Manual
+Explanation=Under Sarbanes-Oxley, the CEO and CFO not only have to certify that they are responsible for their company‰??s internal controls, but also that they have evaluated the controls within 90 days prior to their quarterly or annual report. Essentially, this certification requirement mandates that companies actively and continually re-evaluate their control structures to prevent fraud.See page(s) 1.1505 in the Fraud Examiner‰??s Manual

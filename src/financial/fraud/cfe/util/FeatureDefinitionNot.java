@@ -31,7 +31,8 @@ public class FeatureDefinitionNot extends FeatureDefinition implements IFeature 
 			return false;
 		
 		boolean hasAllBut = question.stem.toLowerCase().indexOf("all but which of the following") != -1;
-		boolean hasNot = question.stem.toLowerCase().indexOf("which of the following is not") != -1;
+		boolean hasNot = question.stem.toLowerCase().indexOf("which of the following is not") != -1
+				|| question.stem.toLowerCase().indexOf("which of the following are not") != -1;
 		return hasAllBut || hasNot;
 	}
 }

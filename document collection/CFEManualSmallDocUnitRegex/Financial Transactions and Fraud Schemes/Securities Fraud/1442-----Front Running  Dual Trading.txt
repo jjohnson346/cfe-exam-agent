@@ -32,8 +32,8 @@ Consider the following scenario: an order is received from a hedger to sell 500 
 cattle futures contracts at the market. If the order filler knows that current market conditions 
 are such that this order will move the market significantly lower, it would be very tempting 
 to sell a few contracts for himself and profit from the market decline when he executes the 
-customer order. Order fillers are required to ope rate in the best interest of the customer and 
-“work” the order to get the best price. Howev er, once the trader has established his short 
+customer order. Order fillers are required to operate in the best interest of the customer and 
+“work” the order to get the best price. However, once the trader has established his short 
 position, it is really in his own interest to drive the market as far down as possible when 
 executing the 500 contract sell order. In this situation, the order filler may not give his best 
 efforts and could hurt the customer. 

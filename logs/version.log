@@ -3,16 +3,16 @@ version log
 3.0.2
 
 - added a feature that detects whether the question is from the corporate fraud handbook.  This reduced the
-number of questions in the defintion category from 181 to 155 (26 def questions were re-allocated as corporate
-fraud handbook/def questions).
+number of questions in the definition category from 181 to 155 (26 def questions were re-allocated as corporate
+fraud handbook/def questions). Profile data is stored in profile.data.training.set.3.0.2.summarized.txt.
+
+- created MLInputFileCreator that extracts definition questions (profile 4, (not corporate fraud handbook)).
+
 
 3.0.1
 
 - incorporated a new feature for I,II,III,IV questions.  This reduced the number of questions in the 
-definition category from 190 to 181. 
-
-
-
+definition category from 190 to 181. Profile data is stored in profile.data.training.set.3.0.1.summarized.txt.
 
 
 3.0.0

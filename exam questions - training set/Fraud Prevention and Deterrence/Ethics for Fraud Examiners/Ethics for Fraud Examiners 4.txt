@@ -1,6 +1,6 @@
 Section=Ethics for Fraud Examiners
 
-Stem=Under the ACFE Code of Professional Ethics, evidence and conclusions are considered __________________ if knowledge of them would affect clients' decisions based on a CertifiedFraud Examiner's report.
+Stem=Under the ACFE Code of Professional Ethics, evidence and conclusions are considered __________________ if knowledge of them would affect clients' decisions based on a Certified Fraud Examiner's report.
 
 Options=Extraneous | Material | Confidential | Opinions
 
