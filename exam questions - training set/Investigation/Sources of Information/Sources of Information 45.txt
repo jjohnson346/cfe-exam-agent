@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Which of the following databases would be the best to consult if one were looking for business and financial news articles?
+
+Options=Legal Information Institute | Factiva | Global Internet News Agency | KnowX
+
+CorrectResponse=1
+
+Explanation=Factiva, from Dow Jones, is tailored for business and financial nev/s searches, maintaining a catalog of over 14,000 of the world‰??s leading news and business sources from 159 countries, 350 geographic regions, and in 22 languages. Factiva allows users to pay only for the articles downloaded and does not require an annual subscription.See page(s) 3.513 in the Fraud Examiner's Manual

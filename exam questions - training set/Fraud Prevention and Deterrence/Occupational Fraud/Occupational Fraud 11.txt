@@ -1,6 +1,6 @@
 Section=Occupational Fraud
 
-Stem=According to the 2010 Report to the Nations, Certified Fraud Examiners estimate organizations lose_percent of revenues to fraud and abuse each year.
+Stem=According to the 2010 Report to the Nations, Certified Fraud Examiners estimate organizations lose _______ percent of revenues to fraud and abuse each year.
 
 Options=4 | 5 | 10 | 2
 

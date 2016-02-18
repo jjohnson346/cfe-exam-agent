@@ -12,8 +12,12 @@ corporate fraud handbook)).
 - modified DefinitionNot feature to exist for questions with the phrase, "which of the following are not".  This 
 adds to those questions fitting in this category which include the phrase "which of the following is not".
 This reduces the number from 155 to 154 in the definition category (profile 4), and increases by one those in the
-definition not category (profile 6) from 22 to 23 in the training set. Profile data is stored in 
-profile.data.training.set.3.0.2.summarized.txt.
+definition not category (profile 6) from 22 to 23 in the training set. 
+
+- modified DefinitionNot feature to exist for questions whose stems include the word "NOT" (note, capitalized).
+This further reduces the number from 154 to 150 for definition category (profile 4). and increases those in the
+definition not category (profile 6) from 23 to 27 in the training set. Profile data is stored in 
+profile.data.training.set.3.0.2.summarized.txt. 
 
 3.0.1
 

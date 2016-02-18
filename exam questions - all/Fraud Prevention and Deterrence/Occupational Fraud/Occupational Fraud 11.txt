@@ -1,10 +1,9 @@
 Section=Occupational Fraud
 
-Stem=According to the 2010 Report to the Nations, Certified Fraud Examiners estimate organizations lose_percent of revenues to fraud and abuse each year.
+Stem=According to the 2010 Report to the Nations, Certified Fraud Examiners estimate organizations lose _______ percent of revenues to fraud and abuse each year.
 
 Options=4 | 5 | 10 | 2
 
 CorrectResponse=1
 
 Explanation=We asked each survey participant to provide his or her best estimate of the percentage of annual revenues lost by the typical U.S. organization to fraud each year. The median response indicated that the typical U.S. organization loses 5 percent of its annual revenues to fraudulent activity. If this percentage were applied to the estimated 2009 gross world product of $58.07 trillion, we could project that roughly $2.9 trillion would be lost to fraud in 2009.  See page(s) 4.621 in the Fraud Examiner's Manual
-

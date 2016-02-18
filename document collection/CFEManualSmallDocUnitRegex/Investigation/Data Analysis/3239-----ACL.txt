@@ -19,8 +19,8 @@ Data Analysis
 ACL 
 ACL is a generalized audit software program; it  is one of the preferred software tools of 
 audit and financial professionals for data extraction, data analysis, fraud detection, and 
-continuous monitoring. ACL provides a combinat ion of data access, analysis, and integrated 
-reporting. It reads and compares enterprise data—flat or relational databases, spreadsheets, 
+continuous monitoring. ACL provides a combination of data access, analysis, and integrated 
+reporting. It reads and compares enterprise data— flat or relational databases, spreadsheets, 
 or report files on PCs or servers — allowing the source data to remain intact. ACL employs a 
 single, consistent client interface and provides easy, immediate access to data.  
  

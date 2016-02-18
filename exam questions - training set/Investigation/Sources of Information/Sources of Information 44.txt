@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Google is an example of which of the following?
+
+Options=A public records service | A data analysis system | A credit reporting bureau | An Internet search engine
+
+CorrectResponse=3
+
+Explanation=Search engines are website tools that allow you to type in keywords describing the subject in which you are interested. The search engine will then scour the pages of the Internet and attempt to locate pages that may have pertinent information. Google is an increasingly popular search engine because of its speed and ranking technology. Individual Web pages are ranked by the engine s software according to how often the page is linked to by others, determining the page‰??s ‰??importance" by the number of links and the identity of the linking page.See page(s) 3.502 in the Fraud Examiner's Manual
