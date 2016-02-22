@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=LexisNexis is a computer program that performs horizontal and vertical analysis on financial statements.
+
+Options=True | False
+
+CorrectResponse=1
+
+Explanation=LexisNexis is a legal and business information database that provides its subscribers with daily newspapers for either a flat fee or a per-use fee. LexisNexis maintains a cavernous database of U.S. and international media sources, including daily newspapers, magazines, and television transcripts. In addition, LexisNexis offers a service in which the user can request immediate information on difficult-to-find topics. LexisNexis will research the topic and give the user the information as quickly as possible.See page(s) 3.530 in the Fraud Examiner's Manual

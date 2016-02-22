@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Bob wants to search the Internet for sites with information on both Ponzi schemes and pyramid schemes. Which of the following searches will yield the best result using Google's search engine?
+
+Options=Ponzi not pyramid | Ponzi or pyramid | Ponzi and pyramid and scheme | Ponzi + pyramid
+
+CorrectResponse=2
+
+Explanation=Adding the word "or‰?? between two terms will yield sites in which either word appears, which in this case could include sites on Egyptian pyramids in addition to pyramid schemes. Adding the word "not" between terms will produce sites that contain the first term, but not the second, which would give Bob sites with the word "Ponzi" but would eliminate any site containing the word "pyramid." Placing a plus (+) sign between terms will yield sites in which those words appear next to each other, again, not an efficient search. Using the word "and" and adding the word "scheme‰?? will yield sites in which all three of those terms appear on the page. Obviously, in Bob‰??s case, this search would yield the best results.See page(s) 3.512 in the Fraud Examiner's Manual

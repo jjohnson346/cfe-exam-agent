@@ -19,6 +19,11 @@ This further reduces the number from 154 to 150 for definition category (profile
 definition not category (profile 6) from 23 to 27 in the training set. Profile data is stored in 
 profile.data.training.set.3.0.2.summarized.txt. 
 
+- modified 13 questions in Covert Examinations category to Sources of Information category as these questions had
+been incorrectly categorized, originally.  This did not change the number of questions in each profile, but it did
+improve the accuracy.  For example, on definition questions, accuracy increased from 0.693 to 0.700.  Overall,
+accuracy increased on multiple choice from 0.575 to 0.580 with no change for true/false.  
+
 3.0.1
 
 - incorporated a new feature for I,II,III,IV questions.  This reduced the number of questions in the 

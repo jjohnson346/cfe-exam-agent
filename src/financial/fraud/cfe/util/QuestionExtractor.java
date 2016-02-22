@@ -10,15 +10,17 @@ import financial.fraud.cfe.ir.lucene.LuceneUtil;
 import financial.fraud.cfe.manual.CFEManualSection;
 import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
 
-public class MLInputFileCreator {
-	
+public class QuestionExtractor {
+
 	public static final int QUESTION_PROFILE = 4;
-	public static final String QUESTION_SET_DIR = "exam questions - test set";
-	public static final String OUTPUT_FILE_NAME = "ml.test.1.txt";
+	public static final String QUESTION_SET_DIR = "exam questions - training set" + File.separator
+			+ "Investigation" + File.separator + "Covert Examinations";
+	public static final String OUTPUT_FILE_NAME = "covert_examinations.txt";
 
 	public static void main(String[] args) {
-		QuestionServer qs = new QuestionServer(QUESTION_SET_DIR, QUESTION_PROFILE);
-		CFEManualSmallDocUnitRegex manual = new CFEManualSmallDocUnitRegex();
+		System.out.println(QUESTION_SET_DIR);
+		QuestionServer qs = new QuestionServer(QUESTION_SET_DIR);
+		// CFEManualSmallDocUnitRegex manual = new CFEManualSmallDocUnitRegex();
 
 		int count = 0;
 		StringBuilder sb = new StringBuilder();
@@ -26,7 +28,7 @@ public class MLInputFileCreator {
 		while (qs.hasNext()) {
 			CFEExamQuestion q = qs.next();
 
-			if (q.getSourcePage().toLowerCase().equals("no source page found in explanation."))
+			if (q.getSourcePage().toLowerCase().matches("3.5[0-9]{2}"))
 				continue;
 
 			sb.append(count++ + " | ");
@@ -40,16 +42,16 @@ public class MLInputFileCreator {
 
 			String beginPage = q.getSourcePage();
 			sb.append(beginPage + " | ");
-			
+
 			String examSection = LuceneUtil.getExamSection(q.section);
 			sb.append(examSection + " | ");
 			sb.append(q.section + " | ");
 
-			List<CFEManualSection> subSections = manual.getManualSectionForPage(beginPage);
-			for (int i = 0; i < subSections.size(); i++) {
-				sb.append(subSections.get(i).name);
-				sb.append((i == subSections.size() - 1) ? " | " : "; ");
-			}
+			// List<CFEManualSection> subSections = manual.getManualSectionForPage(beginPage);
+			// for (int i = 0; i < subSections.size(); i++) {
+			// sb.append(subSections.get(i).name);
+			// sb.append((i == subSections.size() - 1) ? " | " : "; ");
+			// }
 
 			sb.append("\n");
 

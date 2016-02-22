@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Green wants to check to see if Able, a fraud suspect, has ever been convicted of a felony. Which of the following services would NOT be very helpful to Green?
+
+Options=US Datalink | KnowX | EnCase | LexisNexis
+
+CorrectResponse=2
+
+Explanation=The best source for Green to use to locate this information would be an online public record service, such as US Datalink, LexisNexis, and KnowX. EnCase is a computer forensics program.See page(s) 3.525-3.527 in the Fraud Examiner's Manual

@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=When trying to locate a subject through a database search, the first step is to:
+
+Options=Search DMV records | Access a professional license database | Discover a past address | None of the above
+
+CorrectResponse=2
+
+Explanation=The first step to maximize search results is to discover a past address of the suspect; search activities should begin from that point. Second, the user should know the most powerful and useful types of searches (e.g., credit header searches, current occupant/new address searches, last name searches, voter registration record searches, business filing searches, etc.). Third, it is important to keep in mind the cost effectiveness of the search activity and avoid ordering online searches that yield unnecessary or impractical information.See page(s) 3.518 in the Fraud Examiner's Manual

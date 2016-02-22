@@ -1,9 +1,9 @@
 Section=Legal Rights of Employees
 
-Stem=As a general rule, both private and public employers may interview employees in settings without giving Miranda warnings.
+Stem=As a general rule, both private and public employers may interview employees in _____________ settings without giving Miranda warnings.
 
 Options=Noncustodial | Nonjudgmental | Nongovernment | Nonaccusatory
 
 CorrectResponse=0
 
-Explanation=Generally, both private and public employers may interview employees in noncustodial settings without giving Miranda v/arnings. â€œCustodial setting' refers to questioning initiated by law enforcement officers after a person has been taken into custody, or otherwise deprived of his freedom or action in any significant way.See page(s) 2.408 in the Fraud Examiner's Manual
+Explanation=Generally, both private and public employers may interview employees in noncustodial settings without giving Miranda warnings. ‰??Custodial setting' refers to questioning initiated by law enforcement officers after a person has been taken into custody, or otherwise deprived of his freedom or action in any significant way.See page(s) 2.408 in the Fraud Examiner's Manual

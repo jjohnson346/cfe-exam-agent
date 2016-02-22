@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Bob wants to search the Internet for information on Charles Ponzi. Which of the following searches will yield the best result using Google's search engine?
+
+Options="Charles Ponzi" | Charles or Ponzi | Charles not Ponzi | Charles - Ponzi
+
+CorrectResponse=0
+
+Explanation=Adding a minus sign in a search phrase designates words that should not appear on the web page. Adding the word "or‰?? between two terms will yield sites in which either word appear. Adding the word "not" between terms will produce sites that contain the first term, but not the second. Placing terms in quotation marks (such as "Charles Ponzi") will yield sites that contain that exact phrase. Obviously, in Bob's case, this search would yield the best results.See page(s) 3.512 in the Fraud Examiner's Manual

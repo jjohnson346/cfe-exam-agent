@@ -28,7 +28,7 @@ package financial.fraud.cfe.ml;
  *  6.  Data Analysis 4 (#85) - could not find the right document
  *  
  * 5.  Note: check test questions in Covert Examinations section.  These appear to be better placed in the 
- * Sources of Information category. 
+ * Sources of Information category.  Done 02/22/2016. 
  * 
  * 6.  Model of Fraud Examples:
  * Civil Justice System 4 : 
@@ -44,6 +44,10 @@ package financial.fraud.cfe.ml;
  * 
  * 8.  Algorithm:  create a document collection in which the document unit is a paragraph, or passage, and then
  * use lucene on this collection.
+ * 
+ * 9.  Example of question in which none of options appear in correct passage, and in which passage must be linked
+ * to another document of which it is a child:  Consumer Fraud 29 (this is in test set, not training set).
+ * 
  * 
  * 
  * @author joejohnson

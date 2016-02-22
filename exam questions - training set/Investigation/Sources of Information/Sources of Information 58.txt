@@ -1,0 +1,9 @@
+Section=Sources of Information
+
+Stem=Why would a fraud examiner contact US Datalink?
+
+Options=To analyze handwriting samples | To conduct an employee background check | To perform computer backup services | To conduct data analysis of computer records
+
+CorrectResponse=1
+
+Explanation=US Datalink is an employee background check service. Although it cannot retrieve information as quickly as some other vendors, US Datalink is the only company that relies entirely on manual searches for its information. US Datalink exclusively sends its researchers to the county courthouse to look up the requested information, as opposed to the electronic and possibly faulty information that other online investigative databases use. Therefore, if a fraud examiner has the time to wait for his inquiry, US Datalink might be the most reliable option.See page(s) 3.526 in the Fraud Examiner's Manual

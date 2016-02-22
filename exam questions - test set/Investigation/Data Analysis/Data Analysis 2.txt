@@ -1,6 +1,6 @@
 Section=Data Analysis
 
-Stem=If you _________________ data, you arranqe the data in a meaningful order.
+Stem=If you _________________ data, you arrange the data in a meaningful order.
 
 Options=Duplicate | Verify | Sort | Join
 
