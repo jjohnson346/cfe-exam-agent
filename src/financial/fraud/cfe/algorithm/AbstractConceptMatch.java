@@ -27,8 +27,7 @@ public class AbstractConceptMatch implements IAlgorithm {
 
 	protected String indexQuestionSectionName;
 
-	protected String indexDirectory = "lucene index collection" + File.separator + CFE_MANUAL_CLASS_NAME
-			+ File.separator + examSectionName + File.separator + indexQuestionSectionName;
+	protected String indexDirectory;
 
 	protected String[] elimPhrases = { "is referred to as", "are referred to as", "which of the following", "?",
 			"are known as", "is known as", "are sometimes called", "is called", "would be described as" };

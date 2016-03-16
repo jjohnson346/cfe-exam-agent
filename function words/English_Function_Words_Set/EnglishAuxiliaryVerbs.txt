@@ -1,0 +1,42 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File:
+//    EnglishAuxiliaryVerbs.txt
+//
+//  Description:
+//    English auxiliary verbs organized alphabetically.
+//    The list is meant to be exhaustive. Contributions are welcome.
+//
+//  Origin:
+//    Original compilation by Leah Gilner and Franc Morales.
+//
+//  Comments:
+//    This document has been made by Leah Gilner and Franc Morales.
+//    URL:  http://www.sequencepublishing.com
+//    Direct corrections, omissions, questions to: info@sequencepublishing.com
+//
+//  History:
+//    5 October 2005
+//    Produced this machine-ready file.
+//
+//    26 September 2006
+//    Implemented a parseable header format consistent across files.
+//
+////////////////////////////////////////////////////////////////////////////////
+be able to
+can
+could
+dare
+had better
+have to
+may
+might
+must
+need to
+ought
+ought to
+shall
+should
+used to
+will
+would

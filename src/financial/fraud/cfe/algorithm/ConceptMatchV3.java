@@ -312,9 +312,13 @@ public class ConceptMatchV3 extends AbstractConceptMatch {
 		// questionSectionName = "Money Laundering";
 		// questionName = "Money Laundering 26.txt";
 
+		// examSectionName = "Financial Transactions and Fraud Schemes";
+		// questionSectionName = "Check and Credit Card Fraud";
+		// questionName = "Check and Credit Card Fraud 11.txt";
+
 		examSectionName = "Financial Transactions and Fraud Schemes";
-		questionSectionName = "Check and Credit Card Fraud";
-		questionName = "Check and Credit Card Fraud 11.txt";
+		questionSectionName = "Inventory and Other Assets";
+		questionName = "Inventory and Other Assets 29.txt";
 
 		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 

@@ -1,4 +1,4 @@
-package financial.fraud.cfe.util;
+package financial.fraud.cfe.ml;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,8 +9,41 @@ import financial.fraud.cfe.agent.CFEExamQuestion;
 import financial.fraud.cfe.ir.lucene.LuceneUtil;
 import financial.fraud.cfe.manual.CFEManualSection;
 import financial.fraud.cfe.manual.CFEManualSmallDocUnitRegex;
+import financial.fraud.cfe.util.QuestionServer;
 
-public class MLInputFileCreator {
+/**
+ * MLTraining1FileBuilder creates a file, ml.training.1.txt (or ml.test.1.txt) containing training (or test) 
+ * questions with question profile of 4,
+ * including question id, stem, correct option, other options, set of possible documents (based on the question
+ * page number contained in the question explanation).  
+ * 
+ * This information is then used to manually create a new file, ml.training.2.txt, (or ml.test.2.txt) 
+ * which contains the fields, correct document and correct passage, which were determined manually.
+ * 
+ * The ultimate goal is to create a file that has the following fields:  (note: the fields with arrows are
+ * the fields we'll need for machine learning).
+ * 
+ * 1. question number
+ * 2. question id <----
+ * 3. question stem
+ * 4. correct option
+ * 5. option2
+ * 6. option3
+ * 7. option4
+ * 8. correct document
+ * 9. correct document rank 
+ * 10. correct passage
+ * 11. current document
+ * 12. current document rank <---
+ * 13. current passage
+ * 14. number of words in common  between question stem and passage <---
+ * 15. length of maximum common word sequence <---
+ * 16. is correct passage (y/n) <----
+ * 
+ * @author joejohnson
+ *
+ */
+public class MLTraining1FileBuilder {
 	
 	public static final int QUESTION_PROFILE = 4;
 	public static final String QUESTION_SET_DIR = "exam questions - test set";

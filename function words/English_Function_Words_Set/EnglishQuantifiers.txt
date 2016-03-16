@@ -1,0 +1,85 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File:
+//    EnglishQuantifiers.txt
+//
+//  Description:
+//    English quantifiers organized alphabetically.
+//    The list is meant to be exhaustive. Contributions are welcome.
+//
+//  Origin:
+//    Original compilation by Leah Gilner and Franc Morales.
+//
+//  Comments:
+//    This document has been made by Leah Gilner and Franc Morales.
+//    URL:  http://www.sequencepublishing.com
+//    Direct corrections, omissions, questions to: info@sequencepublishing.com
+//
+//  History:
+//    5 October 2005
+//    Produced this machine-ready file.
+//
+//    26 September 2006
+//    Implemented a parseable header format consistent across files.
+//
+////////////////////////////////////////////////////////////////////////////////
+0%, 10%, 50%, 100%, etc.
+1, 2, 3, 4, etc.
+½, ¼, etc.
+a bit of
+a couple of
+a few
+a good deal of
+a good many
+a great deal of
+a great many
+a lack of
+a little
+a little bit of
+a majority of
+a minority of
+a number of
+a plethora of
+a quantity of
+all
+an amount of
+another
+any
+both
+certain
+each
+either
+enough
+few
+fewer
+heaps of
+less
+little
+loads
+lots
+many
+masses of
+more
+most
+much
+neither
+no
+none
+numbers of
+one half, one third, one fourth, one quarter, one fifth, etc.
+one, two, three, four, etc.
+part
+plenty of
+quantities of
+several
+some
+the lack of
+the majority of
+the minority of
+the number of
+the plethora of
+the remainder of
+the rest of
+the whole
+tons of
+various

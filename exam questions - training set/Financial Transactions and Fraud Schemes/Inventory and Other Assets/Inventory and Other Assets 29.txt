@@ -1,6 +1,6 @@
 Section=Inventory and Other Assets
 
-Stem=Black's Law Dictionary defines which of the following as "felonious stealing, taking and carrying... away another's personal property with intent to convert it or deprive the owner thereof?
+Stem=Black's Law Dictionary defines which of the following as \"felonious stealing, taking and carrying... away another's personal property with intent to convert it or deprive the owner thereof"?
 
 Options=Stealing | Theft | Skimming | Larceny
 

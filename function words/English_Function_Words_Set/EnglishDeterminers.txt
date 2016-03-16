@@ -1,0 +1,53 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File:
+//    EnglishDeterminers.txt
+//
+//  Description:
+//    English determiners organized alphabetically.
+//    The list is meant to be exhaustive. Contributions are welcome.
+//
+//  Origin:
+//    Original compilation by Leah Gilner and Franc Morales.
+//
+//  Comments:
+//    This document has been made by Leah Gilner and Franc Morales.
+//    URL:  http://www.sequencepublishing.com
+//    Direct corrections, omissions, questions to: info@sequencepublishing.com
+//
+//  History:
+//    5 October 2005
+//    Produced this machine-ready file.
+//
+//    26 September 2006
+//    Implemented a parseable header format consistent across files.
+//
+////////////////////////////////////////////////////////////////////////////////
+a
+all
+an
+another
+any
+both
+each
+either
+every
+her
+his
+its
+my
+neither
+no
+other
+our
+per
+some
+that
+the
+their
+these
+this
+those
+whatever
+whichever
+your
