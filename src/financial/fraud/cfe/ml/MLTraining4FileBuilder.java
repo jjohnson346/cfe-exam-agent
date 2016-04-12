@@ -3,10 +3,14 @@ package financial.fraud.cfe.ml;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.HashSet;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Map;
 import java.util.Scanner;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.queryParser.ParseException;
@@ -24,11 +28,11 @@ import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 
 /**
- * MLTraining4FileBuilder creates a machine learning input file with the following field layout:
+ * MLTraining4FileBuilder creates a machine learning input file, ml.training.4.txt, with the following field layout
+ * given below.
  * 
- * 1. question number 2. question id <---- 3. question stem 4. correct option 5. option2 6. option3 7. option4 8.
- * document name 8. document id 9. document rank <--- 10. passage id 11. passage 12. number of words in common between
- * question stem and passage <--- 13. length of maximum common word sequence <--- 14. is correct passage (y/n) <----
+ * Note this class is also used to create the test input file, as well, ml.test.4.txt.
+ * 
  *
  * @author joejohnson
  *
@@ -49,16 +53,30 @@ import financial.fraud.cfe.logging.Logger;
 // * 13. length of maximum common word sequence <---
 // * 14. is correct passage (y/n) <----
 
+// Manual edits to output files:
+// For ml.training.4.txt:
+// none
+//
+// Note that for file counts for ml.training.4.txt, there are 8 questions for which no correct passage is found.
+// This is consistent with the training set from file 3, where there are 8 such files with no matching passage.
+//
+// ml.test.4.txt:
+// Digital forensics 7: doc id: EXAMINE AND DOCUMENT THE MACHINE’S SURROUNDINGS
+// passage id: Additionally, becaus
+// change isCorrectPassage to 1 (true), from 0 (false).
+//
+// Note that for
+
 public class MLTraining4FileBuilder {
 
 	private final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
 
-	private final String INPUT_FILE = "ml.training.3.txt";
-	private final String OUTPUT_FILE = "ml.training.4.txt";
-	private final int PASSAGE_ID_LENGTH = 20;
+	// private final String INPUT_FILE = "ml.training.3.txt";
+	// private final String OUTPUT_FILE = "ml.training.4.txt";
+	private final String INPUT_FILE = "ml.test.3.txt";
+	private final String OUTPUT_FILE = "ml.test.4.txt";
 
-	// private final String INPUT_FILE = "ml.test.3.txt";
-	// private final String OUTPUT_FILE = "ml.test.4.txt";
+	private final int PASSAGE_ID_LENGTH = 25;
 
 	protected String examSectionName;
 
@@ -70,22 +88,24 @@ public class MLTraining4FileBuilder {
 			"are known as", "is known as", "are sometimes called", "is called", "would be described as" };
 
 	public void createFile() {
+		CommonWordSequencer commWordSequencer = new CommonWordSequencer();
+
 		// Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 		try {
-			// Scanner fileScanner = new Scanner(new File("machine learning" + File.separator + "ml.training.2.txt"));
 			Scanner fileScanner = new Scanner(new File("machine learning" + File.separator + INPUT_FILE));
 			PrintWriter output = new PrintWriter(new File("machine learning" + File.separator + OUTPUT_FILE));
-			int totalCount = 0;
-			int rank1Count = 0;
-			int rankTop3Count = 0;
-			int fileNotFoundCount = 0;
-			int correctPassageFoundCount = 0;
-			int correctPassageNotFoundCount = 0;
+			// int totalCount = 0;
+			// int correctPassageFoundCount = 0;
+			// int correctPassageNotFoundCount = 0;
 			int newFileCount = 0;
-			// fileScanner.useDelimiter("\\Z");
+			HashMap<String, Integer> correctPassageCounts = new HashMap<String, Integer>();
 
-			// while (fileScanner.hasNextLine()) {
-			for (int i = 0; i <= 0; i++) {
+			// Process each line of the ml.training.3.txt file.
+			// Parse each record (using the bar | as the delimiter)
+			// and load the fields into variables.
+
+			while (fileScanner.hasNextLine()) {
+				// for (int i = 0; i <= 0; i++) {
 				String contents = fileScanner.nextLine();
 
 				Scanner line = new Scanner(contents);
@@ -105,22 +125,15 @@ public class MLTraining4FileBuilder {
 				String correctPassageID = line.next();
 				String correctPassage = line.next();
 
-				// System.out.println(contents);
+				// insert an entry in the correct passage counts map.
+				correctPassageCounts.put(questionID, 0);
 
-				// System.out.println("question ID: " + questionID);
-				// System.out.println("exam section: " + examSection);
-				// System.out.println("question section: " + questionSection);
-				// System.out.println("correct doc id: " + correctDocID);
-				// System.out.println("correct doc rank: " + correctDocRank);
-				// System.out.println("correct doc: " + correctDocName);
-				// System.out.println("stem: " + questionStem);
-				// System.out.println("correctOption: " + correctOption);
-				// System.out.println("option2: " + option2);
-				// System.out.println("option3: " + option3);
-				// System.out.println("option4: " + option4);
-				// System.out.println("correct passage id: " + correctPassageID);
-				// System.out.println("correct passage: " + correctPassage);
-
+				// execute a lucene search based on question stem.
+				// Get the docs that return from the lucene search and process
+				// each document. That is, conduct a search for the correct passage
+				// among the passages of all the docs returned. (We conduct the search
+				// by comparing the first few characters of each passage to those of the
+				// correct passage as given in the ml.training.3.txt file.)
 				setIndexDirectory(questionSection);
 				Directory dir = FSDirectory.open(new File(indexDirectory));
 				IndexSearcher is = new IndexSearcher(dir);
@@ -130,11 +143,16 @@ public class MLTraining4FileBuilder {
 
 				boolean correctPassageFound = false;
 
+				// determine the number of docs returned from lucene search -
+				// should be min of actual number returned and 20 (an arbitrary number).
 				int returnDocsCount = Math.min(hits.scoreDocs.length, 20);
-				// for (int j = 0; j < returnDocsCount; j++) {
-				for (int j = 0; j <= 0; j++) {
+
+				// process each of the return docs.
+				for (int j = 0; j < returnDocsCount; j++) {
 					Document doc = is.doc(hits.scoreDocs[j].doc);
 
+					// get the contents from the return doc and then
+					// parse it into separate passages (using the \n \n delimiter).
 					String docContents = doc.get("contents");
 					Scanner docScanner = new Scanner(docContents);
 					docScanner.useDelimiter("\n \n");
@@ -142,27 +160,47 @@ public class MLTraining4FileBuilder {
 					String docID = String.valueOf(hits.scoreDocs[j].doc);
 					String docRank = String.valueOf(j + 1);
 
-					int passageCount = 0;
+					// process each passage in the return doc.
+					while (docScanner.hasNext()) {
+						// for (int k = 0; k <= 0; k++) {
+						// remove the line feeds in the passage.
 
-					// while (docScanner.hasNext()) {
-					for (int k = 0; k <= 0; k++) {
-						String passage = docScanner.next().replaceAll("\n", "");
+						String passage = docScanner.next().replaceAll("\n", "").replaceAll("\r", "").trim();
+
+						// need to remove some wierd non-word characters here, whose character codes are
+						// 147 and 133. Not sure what these are - the eclipse editor does not render them
+						// as visible characters. However, the ascii table includes foreign characters for
+						// these encodings as part of its extended set. Whatever the case, the following
+						// two statements gets rid of them.
+						passage = StringUtils.remove(passage, (char) 147);
+						passage = StringUtils.remove(passage, (char) 133);
+
+						// if passage not even as long as the length of id, just skip it...
 						if (passage.length() <= PASSAGE_ID_LENGTH)
 							continue;
-						String passageID = passage.substring(0, PASSAGE_ID_LENGTH);
+
+						String passageID = passage.substring(0, PASSAGE_ID_LENGTH).trim();
+
+						// determine if this is the correct passage by testing whether
+						// the return doc has the correct id and whether the passage has a matching
+						// id to the correct passage.
 						int isCorrectPassage = (docID.equals(correctDocID) && passageID.equals(correctPassageID)) ? 1
 								: 0;
-						System.out.println("passageID: " + passageID);
-						// System.out.println("correctPassageID: " + correctPassageID);
-						// System.out.println("passage " + passageCount++ + ":");
-						System.out.println(passage + "\n");
-						
-						int numWordsInCommon = getNumWordsInCommon(questionStem, passage);
-						
 						if (isCorrectPassage == 1) {
 							correctPassageFound = true;
+							int correctPassageCount = correctPassageCounts.get(questionID);
+							correctPassageCounts.put(questionID, ++correctPassageCount);
 						}
 
+						// get number of words in common between question stem and passage.
+						int numWordsInCommon = commWordSequencer.getCommonWords(questionStem, passage).size();
+
+						// get length of longest common word sequence between stem and passage.
+						int lengthLongestCommonSequence = commWordSequencer.getLongestCommonWordSequence(questionStem,
+								passage).size();
+
+						// write out the data for the current passage and current
+						// question to the output file.
 						StringBuilder sb = new StringBuilder();
 						String delimiter = " | ";
 						sb.append(++newFileCount + delimiter);
@@ -176,48 +214,40 @@ public class MLTraining4FileBuilder {
 						sb.append(docID + delimiter);
 						sb.append(docRank + delimiter);
 						sb.append(passageID + delimiter);
-						sb.append(passage + delimiter);
+
+						// extract only the first few characters of the passage.
+						// extracting the whole passage proved problematic as there
+						// are some passage with funky characters, etc.
+						int passageExtractLength = Math.min(passage.length(), 60);
+
+						sb.append(passage.substring(0, passageExtractLength) + delimiter);
 						sb.append(numWordsInCommon + delimiter);
+						sb.append(lengthLongestCommonSequence + delimiter);
 						sb.append(isCorrectPassage + delimiter);
 						sb.append("\n");
 						output.write(new String(sb));
 						output.flush();
-
-						// * 1. question number
-						// * 2. question id <----
-						// * 3. question stem
-						// * 4. correct option
-						// * 5. option2
-						// * 6. option3
-						// * 7. option4
-						// * 8. document name
-						// * 8. document id
-						// * 9. document rank <---
-						// * 10. passage id
-						// * 11. passage
-						// * 12. number of words in common between question stem and passage <---
-						// * 13. length of maximum common word sequence <---
-						// * 14. is correct passage (y/n) <----
 					}
-
 				}
 
-				System.out.println(questionID + ": correct passage found?: " + correctPassageFound);
-				if (correctPassageFound)
-					correctPassageFoundCount++;
-				else
-					correctPassageNotFoundCount++;
-				totalCount++;
+				// if (correctPassageFound) {
+				// correctPassageFoundCount++;
+				// } else {
+				// System.out.println(questionID + ": correct passage not found. correct doc rank: " + correctDocRank);
+				// correctPassageNotFoundCount++;
+				// }
+				// totalCount++;
 			}
 
 			fileScanner.close();
 			output.close();
 
-			System.out.println();
-			System.out.println("passage found count: " + correctPassageFoundCount);
-			System.out.println("passage not found count: " + correctPassageNotFoundCount);
-			System.out.println("total count: " + totalCount);
+			printCorrectPassageSummary(correctPassageCounts);
 
+			// System.out.println();
+			// System.out.println("passage found count: " + correctPassageFoundCount);
+			// System.out.println("passage not found count: " + correctPassageNotFoundCount);
+			// System.out.println("total count: " + totalCount);
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (ParseException e) {
@@ -225,53 +255,41 @@ public class MLTraining4FileBuilder {
 		}
 
 	}
-	
+
 	/**
-	 * returns the number of words in common between a question stem and a passage (both of which are input
-	 * arguments).
+	 * outputs questions with no correct passage found and those questions with multiple correct passages found, if they
+	 * exist.
 	 * 
-	 * @param questionStem
-	 * @param passage
-	 * @return the number of words in common between questionStem and passage
-	 * @throws IOException
+	 * @param passageCounts
 	 */
-	private int getNumWordsInCommon(String questionStem, String passage) throws IOException {
-		
-		// extract words from the passage and load into a hash set.
-		HashSet<String> commonWords = getWordSetFromText(passage.toLowerCase());
-		System.out.println("passage words: " + commonWords);
-		
-		// extract words from question stem and load into a hash set.
-		HashSet<String> stemWords = getWordSetFromText(questionStem.toLowerCase());
-		System.out.println("stem words: " + stemWords);
-		
-		// remove those words in passage that are not in the question stem.
-		commonWords.retainAll(stemWords);
-		System.out.println("common words: " + commonWords);
-		
-		// remove function words.
-		Scanner functionWordsFileScanner = new Scanner(new File("function words//function.words.txt"));
-		functionWordsFileScanner.useDelimiter("\\Z");
-		String fw = functionWordsFileScanner.next();
-		String[] fwords = fw.split("[ \n]");
-		HashSet<String> functionWords = new HashSet(Arrays.asList(fwords));
-		System.out.println("function words: " + functionWords);
-		commonWords.removeAll(functionWords);
-		
-		// remove the zero-length string from the common words collection.
-		commonWords.remove("");
-		
-		System.out.println("common words without function words: " + commonWords);
-			
-		// return the size of the collection as the number of words in common.
-		return commonWords.size();
-	}
-	
-	private HashSet<String> getWordSetFromText(String passage) {
-		String[] words = passage.split("[ \n\t\r.,;:!?(){}<>\"]");
-		
-		// adding words to TreeSet removes duplicates and sorts them alphabetically.
-		return new HashSet<String>(Arrays.asList(words));
+	private void printCorrectPassageSummary(Map<String, Integer> passageCounts) {
+		// determine number of questions for which no correct passage found.
+		int noCorrectPassageCount = 0;
+		int multiCorrectPassageCount = 0;
+		List<String> noPassageQuestions = new LinkedList<String>();
+		List<String> multiCorrectPassageQuestions = new LinkedList<String>();
+
+		for (Map.Entry<String, Integer> e : passageCounts.entrySet()) {
+			if (e.getValue() == 0) {
+				noCorrectPassageCount++;
+				noPassageQuestions.add(e.getKey());
+			} else if (e.getValue() > 1) {
+				multiCorrectPassageCount++;
+				multiCorrectPassageQuestions.add(e.getKey());
+			}
+		}
+
+		System.out.println("Number of questions with no correct passage found: " + noCorrectPassageCount);
+		if (!noPassageQuestions.isEmpty()) {
+			for (String q : noPassageQuestions)
+				System.out.println("\t" + q);
+		}
+
+		System.out.println("Number of questions with >1 correct passage found: " + multiCorrectPassageCount);
+		if (!multiCorrectPassageQuestions.isEmpty()) {
+			for (String q : multiCorrectPassageQuestions)
+				System.out.println("\t" + q);
+		}
 	}
 
 	protected void setIndexDirectory(String questionSection) throws IOException {
@@ -329,42 +347,9 @@ public class MLTraining4FileBuilder {
 					"%s\n",
 					(i + 1) + ". " + doc.get("title") + "(" + matches[i].doc + ")" + "  " + matches[i].score + " "
 							+ doc.get("title").length());
-			// String title = doc.get("title");
-			// for(int j = 0; j < title.length(); j++) {
-			// System.out.print(j+1 + ": " + title.charAt(j) + " ");
-			// }
-			// System.out.println();
-			// String skeletonTitle = title.replaceAll("\\s", "");
-			// System.out.println(skeletonTitle + skeletonTitle.length());
-			// System.out.println();
 		}
 
 		Logger.getInstance().printf(DetailLevel.FULL, "%s", "\n");
-	}
-
-	private int getMatchingDocRank(IndexSearcher is, TopDocs hits, String correctDocument) throws IOException {
-		ScoreDoc[] matches = hits.scoreDocs;
-		String modCorrectDoc = correctDocument.trim().toLowerCase().replaceAll(":", " ");
-		modCorrectDoc = modCorrectDoc.replaceAll("-", "");
-		// System.out.println("\n" + modCorrectDoc + " " + modCorrectDoc.length() + "\n");
-		// String skeletonModCorrectDoc = modCorrectDoc.replaceAll("\\s", "");
-		// System.out.println(skeletonModCorrectDoc + " " + skeletonModCorrectDoc.length());
-
-		for (int i = 0; i < matches.length; i++) {
-			Document doc = is.doc(matches[i].doc);
-
-			// modCorrectDoc replaces the colon character, ":", in correctDocument with a space character
-			// " " because
-			// Lucene removes colons from doc titles, (since : has special meaning in the Lucene
-			// query language, presumably. Also, do this for the dash character, "-".
-			if (doc.get("title").trim().toLowerCase().equals(modCorrectDoc)) {
-				// current document is the correct document.
-				// return its rank.
-				return i + 1;
-			}
-		}
-		// no matching doc found
-		return -1;
 	}
 
 	public static void main(String[] args) {

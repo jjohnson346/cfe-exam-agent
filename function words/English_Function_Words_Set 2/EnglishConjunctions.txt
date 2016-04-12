@@ -1,0 +1,72 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File:
+//    EnglishConjunctions.txt
+//
+//  Description:
+//    English conjunctions organized alphabetically.
+//    The list is meant to be exhaustive. Contributions are welcome.
+//
+//  Origin:
+//    Original compilation by Leah Gilner and Franc Morales.
+//
+//  Comments:
+//    This document has been made by Leah Gilner and Franc Morales.
+//    URL:  http://www.sequencepublishing.com
+//    Direct corrections, omissions, questions to: info@sequencepublishing.com
+//
+//  History:
+//    5 October 2005
+//    Produced this machine-ready file.
+//
+//    26 September 2006
+//    Implemented a parseable header format consistent across files.
+//
+//    4 August 2014
+//    Added "whence"
+//
+////////////////////////////////////////////////////////////////////////////////
+accordingly
+after
+albeit
+although
+and
+as
+because
+before
+both
+but
+consequently
+either
+for
+hence
+however
+if
+neither
+nevertheless
+nor
+once
+or
+since
+so
+than
+that
+then
+thence
+therefore
+tho'
+though
+thus
+till
+unless
+until
+when
+whence
+whenever
+where
+whereas
+wherever
+whether
+while
+whilst
+yet

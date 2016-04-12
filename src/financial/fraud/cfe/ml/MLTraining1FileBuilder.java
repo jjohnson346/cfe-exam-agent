@@ -40,6 +40,11 @@ import financial.fraud.cfe.util.QuestionServer;
  * 15. length of maximum common word sequence <---
  * 16. is correct passage (y/n) <----
  * 
+ * Note that the number of question used for the machine learning file is considerably smaller (133?) than the number
+ * of questions that meet the profile criterion (about 150).  The reason (if I recall correctly) is that for some questions
+ * the correct page number for the document could not be easily retrieved using the regular expression for retrieving the
+ * page number from the explanation field for the question.
+ * 
  * @author joejohnson
  *
  */

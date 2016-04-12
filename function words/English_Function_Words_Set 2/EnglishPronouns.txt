@@ -1,0 +1,94 @@
+////////////////////////////////////////////////////////////////////////////////
+//
+//  File:
+//    EnglishPronouns.txt
+//
+//  Description:
+//    English pronouns organized alphabetically.
+//    The list is meant to be exhaustive. Contributions are welcome.
+//
+//  Origin:
+//    Original compilation by Leah Gilner and Franc Morales.
+//
+//  Comments:
+//    This document has been made by Leah Gilner and Franc Morales.
+//    URL:  http://www.sequencepublishing.com
+//    Direct corrections, omissions, questions to: info@sequencepublishing.com
+//
+//  History:
+//    5 October 2005
+//    Produced this machine-ready file.
+//
+//    26 September 2006
+//    Implemented a parseable header format consistent across files.
+//
+////////////////////////////////////////////////////////////////////////////////
+all
+another
+any
+anybody
+anyone
+anything
+both
+each
+each other
+either
+everybody
+everyone
+everything
+few
+he
+her
+hers
+herself
+him
+himself
+his
+I
+it
+its
+itself
+many
+me
+mine
+myself
+neither
+no_one
+nobody
+none
+nothing
+one
+one another
+other
+ours
+ourselves
+several
+she
+some
+somebody
+someone
+something
+such
+that
+theirs
+them
+themselves
+these
+they
+this
+those
+us
+we
+what
+whatever
+which
+whichever
+who
+whoever
+whom
+whomever
+whose
+you
+yours
+yourself
+yourselves

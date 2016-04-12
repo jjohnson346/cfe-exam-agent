@@ -1,0 +1,972 @@
+rid|qid|dr|nwic|llcs|icp
+1|Bribery and Corruption 17|1|3|2|0
+2|Bribery and Corruption 17|2|4|2|0
+3|Bribery and Corruption 17|3|3|3|0
+4|Bribery and Corruption 17|4|3|1|0
+5|Bribery and Corruption 17|4|1|2|0
+6|Bribery and Corruption 17|4|0|2|0
+7|Bribery and Corruption 17|5|5|2|0
+8|Bribery and Corruption 17|6|2|1|1
+9|Bribery and Corruption 17|6|0|2|0
+10|Bribery and Corruption 17|7|3|1|0
+11|Bribery and Corruption 17|8|3|1|0
+12|Bribery and Corruption 17|9|1|2|0
+13|Bribery and Corruption 17|9|1|2|0
+14|Bribery and Corruption 17|9|1|1|0
+15|Bribery and Corruption 17|9|2|2|0
+16|Bribery and Corruption 17|9|1|1|0
+17|Bribery and Corruption 17|9|3|1|0
+18|Bribery and Corruption 17|10|2|2|0
+19|Bribery and Corruption 17|10|1|1|0
+20|Bribery and Corruption 17|11|2|2|0
+21|Bribery and Corruption 17|12|2|1|0
+22|Bribery and Corruption 17|13|1|1|0
+23|Bribery and Corruption 17|13|2|2|0
+24|Bribery and Corruption 17|13|1|1|0
+25|Bribery and Corruption 17|14|0|1|0
+26|Bribery and Corruption 17|14|2|1|0
+27|Bribery and Corruption 17|14|2|2|0
+28|Bribery and Corruption 17|15|1|2|0
+29|Bribery and Corruption 17|15|2|1|0
+30|Bribery and Corruption 17|15|0|2|0
+31|Bribery and Corruption 17|16|1|1|0
+32|Bribery and Corruption 17|16|1|2|0
+33|Bribery and Corruption 17|16|1|1|0
+34|Bribery and Corruption 17|17|1|2|0
+35|Bribery and Corruption 17|17|1|1|0
+36|Bribery and Corruption 17|18|1|1|0
+37|Bribery and Corruption 17|18|1|1|0
+38|Bribery and Corruption 17|19|0|1|0
+39|Bribery and Corruption 17|19|3|2|0
+40|Bribery and Corruption 17|20|0|1|0
+41|Bribery and Corruption 17|20|0|1|0
+42|Bribery and Corruption 17|20|1|2|0
+43|Bribery and Corruption 17|20|0|1|0
+44|Bribery and Corruption 17|20|1|1|0
+45|Bribery and Corruption 17|20|1|1|0
+46|Consumer Fraud 29|1|4|1|1
+47|Consumer Fraud 29|2|2|1|0
+48|Consumer Fraud 29|3|2|2|0
+49|Consumer Fraud 29|3|3|2|0
+50|Consumer Fraud 29|3|0|2|0
+51|Consumer Fraud 29|3|0|0|0
+52|Consumer Fraud 29|4|3|2|0
+53|Consumer Fraud 29|5|0|2|0
+54|Consumer Fraud 29|5|2|2|0
+55|Consumer Fraud 29|5|0|0|0
+56|Consumer Fraud 29|6|2|2|0
+57|Consumer Fraud 29|6|0|1|0
+58|Consumer Fraud 29|6|1|1|0
+59|Consumer Fraud 29|7|1|2|0
+60|Consumer Fraud 29|8|1|1|0
+61|Consumer Fraud 29|9|1|1|0
+62|Consumer Fraud 29|10|0|1|0
+63|Consumer Fraud 29|10|0|2|0
+64|Consumer Fraud 29|10|1|1|0
+65|Consumer Fraud 29|10|0|0|0
+66|Consumer Fraud 29|11|1|1|0
+67|Consumer Fraud 29|12|0|2|0
+68|Consumer Fraud 29|13|1|1|0
+69|Consumer Fraud 29|14|1|1|0
+70|Consumer Fraud 29|15|0|2|0
+71|Consumer Fraud 29|15|1|1|0
+72|Consumer Fraud 29|15|0|2|0
+73|Consumer Fraud 29|16|0|1|0
+74|Consumer Fraud 29|17|0|2|0
+75|Consumer Fraud 29|17|0|2|0
+76|Consumer Fraud 29|17|1|1|0
+77|Consumer Fraud 29|17|0|1|0
+78|Consumer Fraud 29|18|0|1|0
+79|Consumer Fraud 29|19|0|1|0
+80|Consumer Fraud 29|19|0|2|0
+81|Consumer Fraud 29|19|1|1|0
+82|Consumer Fraud 29|20|0|1|0
+83|Contract and Procurement Fraud 14|1|16|6|1
+84|Contract and Procurement Fraud 14|1|3|2|0
+85|Contract and Procurement Fraud 14|2|3|2|0
+86|Contract and Procurement Fraud 14|3|3|2|0
+87|Contract and Procurement Fraud 14|4|2|2|0
+88|Contract and Procurement Fraud 14|4|0|1|0
+89|Contract and Procurement Fraud 14|5|2|1|0
+90|Contract and Procurement Fraud 14|6|1|1|0
+91|Contract and Procurement Fraud 14|7|1|1|0
+92|Contract and Procurement Fraud 14|7|1|1|0
+93|Contract and Procurement Fraud 14|8|0|1|0
+94|Contract and Procurement Fraud 14|8|0|1|0
+95|Contract and Procurement Fraud 14|8|1|2|0
+96|Contract and Procurement Fraud 14|9|1|1|0
+97|Contract and Procurement Fraud 14|9|1|1|0
+98|Contract and Procurement Fraud 14|10|1|1|0
+99|Contract and Procurement Fraud 14|11|1|1|0
+100|Contract and Procurement Fraud 14|12|0|1|0
+101|Contract and Procurement Fraud 14|12|0|1|0
+102|Contract and Procurement Fraud 14|13|1|1|0
+103|Contract and Procurement Fraud 14|13|1|2|0
+104|Contract and Procurement Fraud 14|14|0|1|0
+105|Contract and Procurement Fraud 14|14|1|1|0
+106|Contract and Procurement Fraud 14|15|1|1|0
+107|Contract and Procurement Fraud 14|16|0|1|0
+108|Contract and Procurement Fraud 14|16|1|1|0
+109|Contract and Procurement Fraud 14|17|0|1|0
+110|Contract and Procurement Fraud 14|17|1|1|0
+111|Contract and Procurement Fraud 14|17|1|1|0
+112|Contract and Procurement Fraud 14|18|1|1|0
+113|Contract and Procurement Fraud 14|19|1|1|0
+114|Contract and Procurement Fraud 14|20|1|1|0
+115|Financial Statement Fraud 9|1|4|3|1
+116|Financial Statement Fraud 9|2|0|1|0
+117|Financial Statement Fraud 9|2|1|1|0
+118|Financial Statement Fraud 9|2|0|2|0
+119|Financial Statement Fraud 9|2|0|3|0
+120|Financial Statement Fraud 9|3|2|2|0
+121|Financial Statement Fraud 9|4|0|2|0
+122|Financial Statement Fraud 9|4|0|2|0
+123|Financial Statement Fraud 9|4|0|2|0
+124|Financial Statement Fraud 9|4|1|2|0
+125|Financial Statement Fraud 9|4|0|0|0
+126|Financial Statement Fraud 9|4|1|2|0
+127|Financial Statement Fraud 9|4|0|2|0
+128|Financial Statement Fraud 9|4|2|2|0
+129|Financial Statement Fraud 9|4|0|2|0
+130|Financial Statement Fraud 9|4|2|2|0
+131|Financial Statement Fraud 9|5|2|2|0
+132|Financial Statement Fraud 9|5|1|1|0
+133|Financial Statement Fraud 9|6|0|1|0
+134|Financial Statement Fraud 9|6|2|2|0
+135|Financial Statement Fraud 9|6|0|1|0
+136|Financial Statement Fraud 9|6|0|1|0
+137|Financial Statement Fraud 9|6|0|2|0
+138|Financial Statement Fraud 9|6|0|2|0
+139|Financial Statement Fraud 9|7|2|2|0
+140|Financial Statement Fraud 9|7|1|3|0
+141|Financial Statement Fraud 9|8|1|1|0
+142|Financial Statement Fraud 9|8|1|2|0
+143|Financial Statement Fraud 9|8|1|1|0
+144|Financial Statement Fraud 9|8|0|1|0
+145|Financial Statement Fraud 9|8|2|2|0
+146|Financial Statement Fraud 9|8|0|0|0
+147|Financial Statement Fraud 9|9|0|2|0
+148|Financial Statement Fraud 9|9|0|0|0
+149|Financial Statement Fraud 9|9|0|0|0
+150|Financial Statement Fraud 9|10|1|2|0
+151|Financial Statement Fraud 9|11|0|3|0
+152|Financial Statement Fraud 9|11|0|1|0
+153|Financial Statement Fraud 9|11|0|1|0
+154|Financial Statement Fraud 9|11|0|1|0
+155|Financial Statement Fraud 9|11|0|2|0
+156|Financial Statement Fraud 9|11|0|1|0
+157|Financial Statement Fraud 9|11|0|1|0
+158|Financial Statement Fraud 9|11|0|1|0
+159|Financial Statement Fraud 9|11|0|2|0
+160|Financial Statement Fraud 9|11|0|2|0
+161|Financial Statement Fraud 9|12|1|1|0
+162|Financial Statement Fraud 9|12|1|2|0
+163|Financial Statement Fraud 9|13|0|3|0
+164|Financial Statement Fraud 9|13|1|1|0
+165|Financial Statement Fraud 9|14|1|1|0
+166|Financial Statement Fraud 9|15|1|1|0
+167|Financial Statement Fraud 9|15|0|1|0
+168|Financial Statement Fraud 9|15|0|2|0
+169|Financial Statement Fraud 9|15|0|2|0
+170|Financial Statement Fraud 9|16|2|2|0
+171|Financial Statement Fraud 9|17|0|2|0
+172|Financial Statement Fraud 9|17|0|1|0
+173|Financial Statement Fraud 9|17|0|0|0
+174|Financial Statement Fraud 9|17|0|0|0
+175|Financial Statement Fraud 9|17|1|2|0
+176|Financial Statement Fraud 9|17|0|1|0
+177|Financial Statement Fraud 9|17|0|1|0
+178|Financial Statement Fraud 9|17|0|1|0
+179|Financial Statement Fraud 9|17|1|1|0
+180|Financial Statement Fraud 9|18|1|2|0
+181|Financial Statement Fraud 9|18|2|3|0
+182|Financial Statement Fraud 9|19|1|1|0
+183|Financial Statement Fraud 9|20|0|1|0
+184|Financial Statement Fraud 9|20|0|2|0
+185|Financial Statement Fraud 9|20|1|1|0
+186|Money Laundering 26|1|2|1|0
+187|Money Laundering 26|1|11|9|1
+188|Money Laundering 26|1|2|2|0
+189|Money Laundering 26|1|3|4|0
+190|Money Laundering 26|1|3|1|0
+191|Money Laundering 26|2|4|2|0
+192|Money Laundering 26|3|2|2|0
+193|Money Laundering 26|3|1|1|0
+194|Money Laundering 26|3|3|2|0
+195|Money Laundering 26|3|2|3|0
+196|Money Laundering 26|4|4|2|0
+197|Money Laundering 26|4|1|1|0
+198|Money Laundering 26|5|4|2|0
+199|Money Laundering 26|5|2|2|0
+200|Money Laundering 26|6|0|1|0
+201|Money Laundering 26|6|2|2|0
+202|Money Laundering 26|6|2|1|0
+203|Money Laundering 26|6|0|1|0
+204|Money Laundering 26|6|4|1|0
+205|Money Laundering 26|6|4|2|0
+206|Money Laundering 26|7|2|2|0
+207|Money Laundering 26|8|3|2|0
+208|Money Laundering 26|9|2|2|0
+209|Money Laundering 26|9|0|1|0
+210|Money Laundering 26|9|1|1|0
+211|Money Laundering 26|9|1|1|0
+212|Money Laundering 26|10|2|2|0
+213|Money Laundering 26|10|0|1|0
+214|Money Laundering 26|10|1|1|0
+215|Money Laundering 26|10|2|1|0
+216|Money Laundering 26|11|2|2|0
+217|Money Laundering 26|11|2|2|0
+218|Money Laundering 26|11|3|2|0
+219|Money Laundering 26|11|2|2|0
+220|Money Laundering 26|12|4|2|0
+221|Money Laundering 26|12|0|1|0
+222|Money Laundering 26|13|3|2|0
+223|Money Laundering 26|13|2|1|0
+224|Money Laundering 26|14|2|2|0
+225|Money Laundering 26|14|3|2|0
+226|Money Laundering 26|15|2|2|0
+227|Money Laundering 26|16|2|2|0
+228|Money Laundering 26|17|1|1|0
+229|Money Laundering 26|17|3|2|0
+230|Money Laundering 26|18|2|1|0
+231|Money Laundering 26|19|3|3|0
+232|Money Laundering 26|20|1|1|0
+233|Money Laundering 26|20|2|2|0
+234|Money Laundering 26|20|2|2|0
+235|Covert Examinations 39|1|3|2|0
+236|Covert Examinations 39|1|1|1|0
+237|Covert Examinations 39|1|1|2|0
+238|Covert Examinations 39|1|0|0|0
+239|Covert Examinations 39|2|1|1|0
+240|Covert Examinations 39|2|4|5|1
+241|Covert Examinations 39|2|1|2|0
+242|Covert Examinations 39|2|1|1|0
+243|Covert Examinations 39|3|2|2|0
+244|Covert Examinations 39|4|3|2|0
+245|Covert Examinations 39|4|0|1|0
+246|Covert Examinations 39|5|2|1|0
+247|Covert Examinations 39|5|2|2|0
+248|Covert Examinations 39|5|0|1|0
+249|Covert Examinations 39|5|0|1|0
+250|Covert Examinations 39|5|0|2|0
+251|Covert Examinations 39|5|0|2|0
+252|Covert Examinations 39|6|2|2|0
+253|Covert Examinations 39|7|2|2|0
+254|Covert Examinations 39|8|0|3|0
+255|Covert Examinations 39|8|2|2|0
+256|Covert Examinations 39|9|1|2|0
+257|Covert Examinations 39|9|1|1|0
+258|Covert Examinations 39|10|1|2|0
+259|Covert Examinations 39|11|0|2|0
+260|Covert Examinations 39|11|0|1|0
+261|Covert Examinations 39|11|0|1|0
+262|Covert Examinations 39|11|0|2|0
+263|Covert Examinations 39|11|0|1|0
+264|Covert Examinations 39|12|1|1|0
+265|Covert Examinations 39|13|1|2|0
+266|Covert Examinations 39|13|1|1|0
+267|Covert Examinations 39|14|1|2|0
+268|Covert Examinations 39|14|1|2|0
+269|Covert Examinations 39|15|0|1|0
+270|Covert Examinations 39|15|0|2|0
+271|Covert Examinations 39|15|0|2|0
+272|Covert Examinations 39|16|1|2|0
+273|Covert Examinations 39|17|1|2|0
+274|Covert Examinations 39|18|1|1|0
+275|Covert Examinations 39|19|1|1|0
+276|Covert Examinations 39|20|1|1|0
+277|Covert Examinations 39|20|0|2|0
+278|Covert Examinations 39|20|2|2|0
+279|Covert Examinations 39|20|0|2|0
+280|Covert Examinations 39|20|0|2|0
+281|Covert Examinations 39|20|0|2|0
+282|Data Analysis 2|1|4|5|1
+283|Data Analysis 2|1|1|1|0
+284|Data Analysis 2|1|0|0|0
+285|Data Analysis 2|1|1|1|0
+286|Data Analysis 2|1|0|0|0
+287|Data Analysis 2|1|0|0|0
+288|Data Analysis 2|1|1|1|0
+289|Data Analysis 2|2|1|2|0
+290|Data Analysis 2|2|0|1|0
+291|Data Analysis 2|3|0|2|0
+292|Data Analysis 2|3|1|1|0
+293|Data Analysis 2|4|1|1|0
+294|Data Analysis 2|5|1|1|0
+295|Data Analysis 2|6|1|1|0
+296|Data Analysis 2|6|1|1|0
+297|Data Analysis 2|7|1|1|0
+298|Data Analysis 2|7|1|1|0
+299|Data Analysis 2|7|1|2|0
+300|Data Analysis 2|7|0|0|0
+301|Data Analysis 2|8|1|2|0
+302|Data Analysis 2|9|1|1|0
+303|Data Analysis 2|9|0|0|0
+304|Data Analysis 2|10|1|3|0
+305|Data Analysis 2|10|0|0|0
+306|Data Analysis 2|10|0|0|0
+307|Data Analysis 2|10|0|1|0
+308|Data Analysis 2|11|1|1|0
+309|Data Analysis 2|11|0|0|0
+310|Data Analysis 2|11|1|2|0
+311|Data Analysis 2|11|0|1|0
+312|Data Analysis 2|12|1|1|0
+313|Data Analysis 2|12|0|0|0
+314|Data Analysis 2|12|1|1|0
+315|Data Analysis 2|13|1|1|0
+316|Data Analysis 2|13|0|0|0
+317|Data Analysis 2|13|1|1|0
+318|Data Analysis 2|14|1|1|0
+319|Data Analysis 2|14|1|1|0
+320|Data Analysis 2|14|1|1|0
+321|Data Analysis 2|14|1|1|0
+322|Data Analysis 2|14|1|1|0
+323|Data Analysis 2|14|2|1|0
+324|Data Analysis 2|14|1|2|0
+325|Data Analysis 2|14|1|1|0
+326|Data Analysis 2|14|1|2|0
+327|Data Analysis 2|14|1|3|0
+328|Data Analysis 2|14|1|1|0
+329|Data Analysis 2|14|1|2|0
+330|Data Analysis 2|14|1|2|0
+331|Data Analysis 2|14|1|1|0
+332|Data Analysis 2|15|2|1|0
+333|Data Analysis 2|16|1|2|0
+334|Data Analysis 2|16|1|2|0
+335|Data Analysis 2|16|1|1|0
+336|Data Analysis 2|16|1|1|0
+337|Data Analysis 2|16|1|2|0
+338|Data Analysis 2|16|1|1|0
+339|Data Analysis 2|16|0|0|0
+340|Data Analysis 2|17|2|2|0
+341|Data Analysis 2|18|1|1|0
+342|Data Analysis 2|19|0|1|0
+343|Data Analysis 2|19|0|1|0
+344|Data Analysis 2|20|1|1|0
+345|Data Analysis 8|1|5|2|1
+346|Data Analysis 8|2|3|1|0
+347|Data Analysis 8|2|2|2|0
+348|Data Analysis 8|3|3|2|0
+349|Data Analysis 8|3|6|2|0
+350|Data Analysis 8|4|1|2|0
+351|Data Analysis 8|4|4|2|0
+352|Data Analysis 8|5|5|2|0
+353|Data Analysis 8|6|3|2|0
+354|Data Analysis 8|6|0|0|0
+355|Data Analysis 8|6|3|2|0
+356|Data Analysis 8|7|1|1|0
+357|Data Analysis 8|7|3|2|0
+358|Data Analysis 8|8|2|2|0
+359|Data Analysis 8|8|1|2|0
+360|Data Analysis 8|8|2|2|0
+361|Data Analysis 8|9|3|2|0
+362|Data Analysis 8|10|3|2|0
+363|Data Analysis 8|10|1|2|0
+364|Data Analysis 8|11|5|3|0
+365|Data Analysis 8|11|4|2|0
+366|Data Analysis 8|12|2|2|0
+367|Data Analysis 8|12|2|2|0
+368|Data Analysis 8|12|3|2|0
+369|Data Analysis 8|12|3|2|0
+370|Data Analysis 8|12|2|1|0
+371|Data Analysis 8|12|2|2|0
+372|Data Analysis 8|12|2|1|0
+373|Data Analysis 8|12|2|2|0
+374|Data Analysis 8|12|3|3|0
+375|Data Analysis 8|12|3|1|0
+376|Data Analysis 8|12|1|1|0
+377|Data Analysis 8|12|2|1|0
+378|Data Analysis 8|12|2|2|0
+379|Data Analysis 8|12|3|2|0
+380|Data Analysis 8|13|2|1|0
+381|Data Analysis 8|13|0|0|0
+382|Data Analysis 8|13|5|2|0
+383|Data Analysis 8|13|1|2|0
+384|Data Analysis 8|14|5|3|0
+385|Data Analysis 8|15|4|1|0
+386|Data Analysis 8|15|5|2|0
+387|Data Analysis 8|16|4|2|0
+388|Data Analysis 8|17|3|1|0
+389|Data Analysis 8|18|3|2|0
+390|Data Analysis 8|18|1|1|0
+391|Data Analysis 8|19|4|2|0
+392|Data Analysis 8|19|4|3|0
+393|Data Analysis 8|19|4|2|0
+394|Data Analysis 8|19|4|3|0
+395|Data Analysis 8|19|4|2|0
+396|Data Analysis 8|20|4|2|0
+397|Data Analysis 8|20|3|2|0
+398|Digital Forensics 7|1|0|1|0
+399|Digital Forensics 7|1|0|1|0
+400|Digital Forensics 7|1|5|6|1
+401|Digital Forensics 7|1|1|1|0
+402|Digital Forensics 7|1|0|1|0
+403|Digital Forensics 7|2|1|2|0
+404|Digital Forensics 7|2|0|1|0
+405|Digital Forensics 7|2|2|2|0
+406|Digital Forensics 7|2|0|1|0
+407|Digital Forensics 7|2|2|3|0
+408|Digital Forensics 7|2|2|1|0
+409|Digital Forensics 7|2|0|1|0
+410|Digital Forensics 7|2|1|2|0
+411|Digital Forensics 7|3|2|2|0
+412|Digital Forensics 7|3|0|1|0
+413|Digital Forensics 7|3|2|1|0
+414|Digital Forensics 7|3|0|1|0
+415|Digital Forensics 7|3|1|1|0
+416|Digital Forensics 7|3|1|1|0
+417|Digital Forensics 7|3|0|2|0
+418|Digital Forensics 7|3|0|1|0
+419|Digital Forensics 7|3|1|2|0
+420|Digital Forensics 7|3|1|1|0
+421|Digital Forensics 7|3|0|1|0
+422|Digital Forensics 7|3|0|1|0
+423|Digital Forensics 7|3|1|1|0
+424|Digital Forensics 7|3|2|1|0
+425|Digital Forensics 7|3|0|2|0
+426|Digital Forensics 7|4|2|1|0
+427|Digital Forensics 7|4|1|1|0
+428|Digital Forensics 7|4|0|1|0
+429|Digital Forensics 7|4|4|2|0
+430|Digital Forensics 7|4|1|1|0
+431|Digital Forensics 7|4|2|1|0
+432|Digital Forensics 7|4|3|2|0
+433|Digital Forensics 7|4|2|1|0
+434|Digital Forensics 7|4|1|1|0
+435|Digital Forensics 7|5|0|1|0
+436|Digital Forensics 7|5|1|1|0
+437|Digital Forensics 7|5|0|1|0
+438|Digital Forensics 7|5|0|1|0
+439|Digital Forensics 7|5|2|1|0
+440|Digital Forensics 7|5|0|1|0
+441|Digital Forensics 7|5|1|1|0
+442|Digital Forensics 7|5|4|1|0
+443|Digital Forensics 7|6|1|1|0
+444|Digital Forensics 7|6|2|1|0
+445|Digital Forensics 7|6|2|1|0
+446|Digital Forensics 7|6|2|1|0
+447|Digital Forensics 7|6|2|1|0
+448|Digital Forensics 7|6|1|1|0
+449|Digital Forensics 7|7|3|2|0
+450|Digital Forensics 7|7|2|2|0
+451|Digital Forensics 7|7|0|1|0
+452|Digital Forensics 7|7|1|1|0
+453|Digital Forensics 7|7|0|1|0
+454|Digital Forensics 7|7|0|1|0
+455|Digital Forensics 7|8|1|1|0
+456|Digital Forensics 7|8|1|2|0
+457|Digital Forensics 7|8|2|1|0
+458|Digital Forensics 7|8|0|1|0
+459|Digital Forensics 7|8|0|1|0
+460|Digital Forensics 7|9|2|1|0
+461|Digital Forensics 7|9|1|1|0
+462|Digital Forensics 7|9|0|0|0
+463|Digital Forensics 7|9|1|1|0
+464|Digital Forensics 7|10|2|2|0
+465|Digital Forensics 7|11|2|1|0
+466|Digital Forensics 7|12|0|1|0
+467|Digital Forensics 7|12|1|1|0
+468|Digital Forensics 7|12|0|1|0
+469|Digital Forensics 7|12|0|1|0
+470|Digital Forensics 7|12|0|0|0
+471|Digital Forensics 7|13|0|1|0
+472|Digital Forensics 7|13|2|1|0
+473|Digital Forensics 7|14|1|2|0
+474|Digital Forensics 7|15|0|1|0
+475|Digital Forensics 7|15|0|1|0
+476|Digital Forensics 7|15|1|1|0
+477|Digital Forensics 7|15|0|0|0
+478|Digital Forensics 7|16|1|2|0
+479|Digital Forensics 7|16|1|1|0
+480|Digital Forensics 7|16|2|1|0
+481|Digital Forensics 7|16|0|1|0
+482|Digital Forensics 7|16|0|0|0
+483|Digital Forensics 7|16|0|0|0
+484|Digital Forensics 7|16|0|1|0
+485|Digital Forensics 7|17|1|1|0
+486|Digital Forensics 7|18|0|1|0
+487|Digital Forensics 7|18|0|1|0
+488|Digital Forensics 7|18|0|1|0
+489|Digital Forensics 7|19|0|1|0
+490|Digital Forensics 7|19|0|1|0
+491|Digital Forensics 7|19|0|1|0
+492|Digital Forensics 7|19|1|1|0
+493|Digital Forensics 7|19|0|1|0
+494|Digital Forensics 7|19|0|0|0
+495|Digital Forensics 7|20|0|2|0
+496|Illicit Transactions 40|1|8|18|1
+497|Illicit Transactions 40|1|1|2|0
+498|Illicit Transactions 40|2|1|1|0
+499|Illicit Transactions 40|2|3|2|0
+500|Illicit Transactions 40|2|3|2|0
+501|Illicit Transactions 40|2|3|2|0
+502|Illicit Transactions 40|2|3|1|0
+503|Illicit Transactions 40|3|1|2|0
+504|Illicit Transactions 40|3|4|2|0
+505|Illicit Transactions 40|3|0|0|0
+506|Illicit Transactions 40|4|3|2|0
+507|Illicit Transactions 40|5|0|1|0
+508|Illicit Transactions 40|5|0|1|0
+509|Illicit Transactions 40|5|1|1|0
+510|Illicit Transactions 40|5|0|1|0
+511|Illicit Transactions 40|5|0|1|0
+512|Illicit Transactions 40|5|2|2|0
+513|Illicit Transactions 40|5|0|2|0
+514|Illicit Transactions 40|5|1|1|0
+515|Illicit Transactions 40|5|0|1|0
+516|Illicit Transactions 40|5|0|1|0
+517|Illicit Transactions 40|5|1|1|0
+518|Illicit Transactions 40|5|0|0|0
+519|Illicit Transactions 40|5|1|1|0
+520|Illicit Transactions 40|5|0|1|0
+521|Illicit Transactions 40|5|0|0|0
+522|Illicit Transactions 40|5|0|1|0
+523|Illicit Transactions 40|6|2|1|0
+524|Illicit Transactions 40|6|2|1|0
+525|Illicit Transactions 40|6|2|1|0
+526|Illicit Transactions 40|6|0|1|0
+527|Illicit Transactions 40|6|3|1|0
+528|Illicit Transactions 40|6|1|1|0
+529|Illicit Transactions 40|7|0|1|0
+530|Illicit Transactions 40|7|0|1|0
+531|Illicit Transactions 40|7|0|1|0
+532|Illicit Transactions 40|7|0|1|0
+533|Illicit Transactions 40|7|2|1|0
+534|Illicit Transactions 40|7|3|2|0
+535|Illicit Transactions 40|7|0|1|0
+536|Illicit Transactions 40|7|1|1|0
+537|Illicit Transactions 40|7|1|1|0
+538|Illicit Transactions 40|7|1|1|0
+539|Illicit Transactions 40|7|0|0|0
+540|Illicit Transactions 40|8|2|1|0
+541|Illicit Transactions 40|8|3|2|0
+542|Illicit Transactions 40|8|0|0|0
+543|Illicit Transactions 40|9|3|1|0
+544|Illicit Transactions 40|9|1|1|0
+545|Illicit Transactions 40|9|1|1|0
+546|Illicit Transactions 40|9|0|1|0
+547|Illicit Transactions 40|10|3|2|0
+548|Illicit Transactions 40|10|2|1|0
+549|Illicit Transactions 40|11|3|1|0
+550|Illicit Transactions 40|12|1|1|0
+551|Illicit Transactions 40|12|4|1|0
+552|Illicit Transactions 40|13|2|1|0
+553|Illicit Transactions 40|13|1|1|0
+554|Illicit Transactions 40|14|1|2|0
+555|Illicit Transactions 40|14|2|1|0
+556|Illicit Transactions 40|14|2|1|0
+557|Illicit Transactions 40|14|2|1|0
+558|Illicit Transactions 40|14|1|1|0
+559|Illicit Transactions 40|15|2|1|0
+560|Illicit Transactions 40|15|1|1|0
+561|Illicit Transactions 40|15|2|1|0
+562|Illicit Transactions 40|16|2|2|0
+563|Illicit Transactions 40|17|0|1|0
+564|Illicit Transactions 40|17|2|2|0
+565|Illicit Transactions 40|17|2|2|0
+566|Illicit Transactions 40|17|2|1|0
+567|Illicit Transactions 40|18|1|1|0
+568|Illicit Transactions 40|18|0|2|0
+569|Illicit Transactions 40|18|1|1|0
+570|Illicit Transactions 40|18|2|1|0
+571|Illicit Transactions 40|18|1|1|0
+572|Illicit Transactions 40|18|2|1|0
+573|Illicit Transactions 40|18|1|1|0
+574|Illicit Transactions 40|19|1|1|0
+575|Illicit Transactions 40|19|0|1|0
+576|Illicit Transactions 40|19|0|0|0
+577|Illicit Transactions 40|19|2|1|0
+578|Illicit Transactions 40|19|0|1|0
+579|Illicit Transactions 40|19|1|1|0
+580|Illicit Transactions 40|19|1|1|0
+581|Illicit Transactions 40|19|0|1|0
+582|Illicit Transactions 40|19|0|0|0
+583|Illicit Transactions 40|20|1|2|0
+584|Illicit Transactions 40|20|1|1|0
+585|Criminal Prosecutions for Fraud 23|1|1|1|0
+586|Criminal Prosecutions for Fraud 23|1|2|1|0
+587|Criminal Prosecutions for Fraud 23|1|2|2|0
+588|Criminal Prosecutions for Fraud 23|1|3|3|0
+589|Criminal Prosecutions for Fraud 23|1|2|1|1
+590|Criminal Prosecutions for Fraud 23|1|1|1|0
+591|Criminal Prosecutions for Fraud 23|1|0|1|0
+592|Criminal Prosecutions for Fraud 23|2|3|2|0
+593|Criminal Prosecutions for Fraud 23|3|2|2|0
+594|Criminal Prosecutions for Fraud 23|3|1|1|0
+595|Criminal Prosecutions for Fraud 23|3|1|1|0
+596|Criminal Prosecutions for Fraud 23|3|1|1|0
+597|Criminal Prosecutions for Fraud 23|3|2|2|0
+598|Criminal Prosecutions for Fraud 23|3|1|1|0
+599|Criminal Prosecutions for Fraud 23|3|3|2|0
+600|Criminal Prosecutions for Fraud 23|3|0|1|0
+601|Criminal Prosecutions for Fraud 23|4|3|2|0
+602|Criminal Prosecutions for Fraud 23|4|1|2|0
+603|Criminal Prosecutions for Fraud 23|5|1|2|0
+604|Criminal Prosecutions for Fraud 23|6|1|2|0
+605|Criminal Prosecutions for Fraud 23|6|1|1|0
+606|Criminal Prosecutions for Fraud 23|6|1|1|0
+607|Criminal Prosecutions for Fraud 23|6|2|2|0
+608|Criminal Prosecutions for Fraud 23|7|0|1|0
+609|Criminal Prosecutions for Fraud 23|7|0|1|0
+610|Criminal Prosecutions for Fraud 23|7|0|1|0
+611|Criminal Prosecutions for Fraud 23|7|0|1|0
+612|Criminal Prosecutions for Fraud 23|7|2|1|0
+613|Criminal Prosecutions for Fraud 23|7|0|1|0
+614|Criminal Prosecutions for Fraud 23|8|0|1|0
+615|Criminal Prosecutions for Fraud 23|8|0|1|0
+616|Criminal Prosecutions for Fraud 23|8|2|1|0
+617|Criminal Prosecutions for Fraud 23|8|0|1|0
+618|Criminal Prosecutions for Fraud 23|8|0|1|0
+619|Criminal Prosecutions for Fraud 23|9|2|2|0
+620|Criminal Prosecutions for Fraud 23|10|1|1|0
+621|Criminal Prosecutions for Fraud 23|11|2|1|0
+622|Criminal Prosecutions for Fraud 23|11|1|1|0
+623|Criminal Prosecutions for Fraud 23|11|1|1|0
+624|Criminal Prosecutions for Fraud 23|12|2|2|0
+625|Criminal Prosecutions for Fraud 23|13|1|1|0
+626|Criminal Prosecutions for Fraud 23|14|2|2|0
+627|Criminal Prosecutions for Fraud 23|15|1|1|0
+628|Criminal Prosecutions for Fraud 23|15|0|1|0
+629|Criminal Prosecutions for Fraud 23|15|0|1|0
+630|Criminal Prosecutions for Fraud 23|16|0|1|0
+631|Criminal Prosecutions for Fraud 23|16|0|1|0
+632|Criminal Prosecutions for Fraud 23|16|0|1|0
+633|Criminal Prosecutions for Fraud 23|16|0|1|0
+634|Criminal Prosecutions for Fraud 23|16|1|1|0
+635|Criminal Prosecutions for Fraud 23|16|0|1|0
+636|Criminal Prosecutions for Fraud 23|17|0|1|0
+637|Criminal Prosecutions for Fraud 23|17|1|1|0
+638|Criminal Prosecutions for Fraud 23|18|1|1|0
+639|Criminal Prosecutions for Fraud 23|18|1|1|0
+640|Criminal Prosecutions for Fraud 23|18|0|1|0
+641|Criminal Prosecutions for Fraud 23|18|1|1|0
+642|Criminal Prosecutions for Fraud 23|18|0|1|0
+643|Criminal Prosecutions for Fraud 23|18|1|1|0
+644|Criminal Prosecutions for Fraud 23|19|2|2|0
+645|Criminal Prosecutions for Fraud 23|19|0|1|0
+646|Criminal Prosecutions for Fraud 23|19|0|1|0
+647|Criminal Prosecutions for Fraud 23|19|0|1|0
+648|Criminal Prosecutions for Fraud 23|20|1|1|0
+649|Criminal Prosecutions for Fraud 23|20|1|1|0
+650|Criminal Prosecutions for Fraud 39|1|2|2|0
+651|Criminal Prosecutions for Fraud 39|1|3|3|0
+652|Criminal Prosecutions for Fraud 39|1|7|5|1
+653|Criminal Prosecutions for Fraud 39|2|4|2|0
+654|Criminal Prosecutions for Fraud 39|2|3|2|0
+655|Criminal Prosecutions for Fraud 39|2|1|3|0
+656|Criminal Prosecutions for Fraud 39|3|3|2|0
+657|Criminal Prosecutions for Fraud 39|4|3|2|0
+658|Criminal Prosecutions for Fraud 39|5|2|2|0
+659|Criminal Prosecutions for Fraud 39|5|1|1|0
+660|Criminal Prosecutions for Fraud 39|5|2|2|0
+661|Criminal Prosecutions for Fraud 39|5|2|4|0
+662|Criminal Prosecutions for Fraud 39|5|1|2|0
+663|Criminal Prosecutions for Fraud 39|5|0|1|0
+664|Criminal Prosecutions for Fraud 39|6|3|2|0
+665|Criminal Prosecutions for Fraud 39|6|1|1|0
+666|Criminal Prosecutions for Fraud 39|7|1|2|0
+667|Criminal Prosecutions for Fraud 39|7|3|2|0
+668|Criminal Prosecutions for Fraud 39|8|0|1|0
+669|Criminal Prosecutions for Fraud 39|8|1|1|0
+670|Criminal Prosecutions for Fraud 39|8|1|1|0
+671|Criminal Prosecutions for Fraud 39|8|0|1|0
+672|Criminal Prosecutions for Fraud 39|8|0|1|0
+673|Criminal Prosecutions for Fraud 39|9|1|1|0
+674|Criminal Prosecutions for Fraud 39|9|0|2|0
+675|Criminal Prosecutions for Fraud 39|9|0|1|0
+676|Criminal Prosecutions for Fraud 39|9|1|2|0
+677|Criminal Prosecutions for Fraud 39|9|0|1|0
+678|Criminal Prosecutions for Fraud 39|9|2|1|0
+679|Criminal Prosecutions for Fraud 39|10|1|2|0
+680|Criminal Prosecutions for Fraud 39|10|1|2|0
+681|Criminal Prosecutions for Fraud 39|10|1|2|0
+682|Criminal Prosecutions for Fraud 39|10|1|2|0
+683|Criminal Prosecutions for Fraud 39|11|1|2|0
+684|Criminal Prosecutions for Fraud 39|12|0|1|0
+685|Criminal Prosecutions for Fraud 39|12|0|1|0
+686|Criminal Prosecutions for Fraud 39|12|0|1|0
+687|Criminal Prosecutions for Fraud 39|12|0|1|0
+688|Criminal Prosecutions for Fraud 39|12|1|1|0
+689|Criminal Prosecutions for Fraud 39|12|1|2|0
+690|Criminal Prosecutions for Fraud 39|12|0|1|0
+691|Criminal Prosecutions for Fraud 39|12|1|1|0
+692|Criminal Prosecutions for Fraud 39|12|0|1|0
+693|Criminal Prosecutions for Fraud 39|13|1|3|0
+694|Criminal Prosecutions for Fraud 39|13|1|1|0
+695|Criminal Prosecutions for Fraud 39|13|0|1|0
+696|Criminal Prosecutions for Fraud 39|13|0|1|0
+697|Criminal Prosecutions for Fraud 39|13|0|1|0
+698|Criminal Prosecutions for Fraud 39|13|3|3|0
+699|Criminal Prosecutions for Fraud 39|13|1|2|0
+700|Criminal Prosecutions for Fraud 39|14|2|2|0
+701|Criminal Prosecutions for Fraud 39|14|1|2|0
+702|Criminal Prosecutions for Fraud 39|14|1|2|0
+703|Criminal Prosecutions for Fraud 39|15|1|2|0
+704|Criminal Prosecutions for Fraud 39|16|2|2|0
+705|Criminal Prosecutions for Fraud 39|16|2|2|0
+706|Criminal Prosecutions for Fraud 39|17|2|3|0
+707|Criminal Prosecutions for Fraud 39|18|1|1|0
+708|Criminal Prosecutions for Fraud 39|19|1|2|0
+709|Criminal Prosecutions for Fraud 39|20|1|2|0
+710|Criminal Prosecutions for Fraud 66|1|1|2|0
+711|Criminal Prosecutions for Fraud 66|1|5|3|1
+712|Criminal Prosecutions for Fraud 66|1|2|2|0
+713|Criminal Prosecutions for Fraud 66|1|1|1|0
+714|Criminal Prosecutions for Fraud 66|1|1|2|0
+715|Criminal Prosecutions for Fraud 66|1|1|1|0
+716|Criminal Prosecutions for Fraud 66|1|0|1|0
+717|Criminal Prosecutions for Fraud 66|2|1|1|0
+718|Criminal Prosecutions for Fraud 66|2|1|1|0
+719|Criminal Prosecutions for Fraud 66|2|1|1|0
+720|Criminal Prosecutions for Fraud 66|2|0|2|0
+721|Criminal Prosecutions for Fraud 66|2|2|1|0
+722|Criminal Prosecutions for Fraud 66|3|2|1|0
+723|Criminal Prosecutions for Fraud 66|3|0|1|0
+724|Criminal Prosecutions for Fraud 66|3|0|1|0
+725|Criminal Prosecutions for Fraud 66|4|1|1|0
+726|Criminal Prosecutions for Fraud 66|4|2|1|0
+727|Criminal Prosecutions for Fraud 66|5|2|1|0
+728|Criminal Prosecutions for Fraud 66|6|2|2|0
+729|Criminal Prosecutions for Fraud 66|6|0|1|0
+730|Criminal Prosecutions for Fraud 66|6|1|1|0
+731|Criminal Prosecutions for Fraud 66|6|2|1|0
+732|Criminal Prosecutions for Fraud 66|6|1|1|0
+733|Criminal Prosecutions for Fraud 66|6|0|1|0
+734|Criminal Prosecutions for Fraud 66|7|2|1|0
+735|Criminal Prosecutions for Fraud 66|7|2|3|0
+736|Criminal Prosecutions for Fraud 66|7|0|1|0
+737|Criminal Prosecutions for Fraud 66|7|1|1|0
+738|Criminal Prosecutions for Fraud 66|7|0|1|0
+739|Criminal Prosecutions for Fraud 66|7|1|1|0
+740|Criminal Prosecutions for Fraud 66|8|1|1|0
+741|Criminal Prosecutions for Fraud 66|8|0|1|0
+742|Criminal Prosecutions for Fraud 66|8|1|1|0
+743|Criminal Prosecutions for Fraud 66|8|1|1|0
+744|Criminal Prosecutions for Fraud 66|9|1|1|0
+745|Criminal Prosecutions for Fraud 66|10|3|2|0
+746|Criminal Prosecutions for Fraud 66|10|2|2|0
+747|Criminal Prosecutions for Fraud 66|10|1|2|0
+748|Criminal Prosecutions for Fraud 66|11|1|1|0
+749|Criminal Prosecutions for Fraud 66|11|1|1|0
+750|Criminal Prosecutions for Fraud 66|12|2|1|0
+751|Criminal Prosecutions for Fraud 66|12|0|1|0
+752|Criminal Prosecutions for Fraud 66|13|0|1|0
+753|Criminal Prosecutions for Fraud 66|13|2|1|0
+754|Criminal Prosecutions for Fraud 66|13|2|2|0
+755|Criminal Prosecutions for Fraud 66|13|1|1|0
+756|Criminal Prosecutions for Fraud 66|13|0|1|0
+757|Criminal Prosecutions for Fraud 66|13|0|1|0
+758|Criminal Prosecutions for Fraud 66|13|0|1|0
+759|Criminal Prosecutions for Fraud 66|13|0|1|0
+760|Criminal Prosecutions for Fraud 66|14|2|2|0
+761|Criminal Prosecutions for Fraud 66|15|0|1|0
+762|Criminal Prosecutions for Fraud 66|15|0|1|0
+763|Criminal Prosecutions for Fraud 66|15|0|1|0
+764|Criminal Prosecutions for Fraud 66|15|1|1|0
+765|Criminal Prosecutions for Fraud 66|15|0|1|0
+766|Criminal Prosecutions for Fraud 66|15|1|1|0
+767|Criminal Prosecutions for Fraud 66|15|1|2|0
+768|Criminal Prosecutions for Fraud 66|15|0|1|0
+769|Criminal Prosecutions for Fraud 66|15|0|1|0
+770|Criminal Prosecutions for Fraud 66|16|1|1|0
+771|Criminal Prosecutions for Fraud 66|16|0|1|0
+772|Criminal Prosecutions for Fraud 66|16|0|1|0
+773|Criminal Prosecutions for Fraud 66|16|2|2|0
+774|Criminal Prosecutions for Fraud 66|17|1|1|0
+775|Criminal Prosecutions for Fraud 66|17|1|1|0
+776|Criminal Prosecutions for Fraud 66|18|2|1|0
+777|Criminal Prosecutions for Fraud 66|18|0|0|0
+778|Criminal Prosecutions for Fraud 66|19|1|1|0
+779|Criminal Prosecutions for Fraud 66|20|2|2|0
+780|Criminal Prosecutions for Fraud 73|1|4|2|0
+781|Criminal Prosecutions for Fraud 73|1|3|2|0
+782|Criminal Prosecutions for Fraud 73|1|2|2|0
+783|Criminal Prosecutions for Fraud 73|2|5|4|0
+784|Criminal Prosecutions for Fraud 73|2|4|3|0
+785|Criminal Prosecutions for Fraud 73|3|3|2|1
+786|Criminal Prosecutions for Fraud 73|4|3|3|0
+787|Criminal Prosecutions for Fraud 73|4|1|1|0
+788|Criminal Prosecutions for Fraud 73|4|1|2|0
+789|Criminal Prosecutions for Fraud 73|4|1|2|0
+790|Criminal Prosecutions for Fraud 73|4|2|2|0
+791|Criminal Prosecutions for Fraud 73|4|1|1|0
+792|Criminal Prosecutions for Fraud 73|5|3|2|0
+793|Criminal Prosecutions for Fraud 73|5|1|2|0
+794|Criminal Prosecutions for Fraud 73|5|2|3|0
+795|Criminal Prosecutions for Fraud 73|5|1|1|0
+796|Criminal Prosecutions for Fraud 73|5|1|2|0
+797|Criminal Prosecutions for Fraud 73|5|2|2|0
+798|Criminal Prosecutions for Fraud 73|5|2|3|0
+799|Criminal Prosecutions for Fraud 73|5|2|2|0
+800|Criminal Prosecutions for Fraud 73|6|4|3|0
+801|Criminal Prosecutions for Fraud 73|7|1|2|0
+802|Criminal Prosecutions for Fraud 73|8|1|1|0
+803|Criminal Prosecutions for Fraud 73|8|2|2|0
+804|Criminal Prosecutions for Fraud 73|8|1|1|0
+805|Criminal Prosecutions for Fraud 73|8|2|2|0
+806|Criminal Prosecutions for Fraud 73|8|0|2|0
+807|Criminal Prosecutions for Fraud 73|8|1|3|0
+808|Criminal Prosecutions for Fraud 73|8|0|2|0
+809|Criminal Prosecutions for Fraud 73|8|0|1|0
+810|Criminal Prosecutions for Fraud 73|8|1|2|0
+811|Criminal Prosecutions for Fraud 73|9|2|2|0
+812|Criminal Prosecutions for Fraud 73|10|2|2|0
+813|Criminal Prosecutions for Fraud 73|10|0|2|0
+814|Criminal Prosecutions for Fraud 73|10|0|2|0
+815|Criminal Prosecutions for Fraud 73|11|3|2|0
+816|Criminal Prosecutions for Fraud 73|12|0|1|0
+817|Criminal Prosecutions for Fraud 73|12|1|2|0
+818|Criminal Prosecutions for Fraud 73|12|1|1|0
+819|Criminal Prosecutions for Fraud 73|13|1|1|0
+820|Criminal Prosecutions for Fraud 73|13|1|2|0
+821|Criminal Prosecutions for Fraud 73|13|0|1|0
+822|Criminal Prosecutions for Fraud 73|13|2|2|0
+823|Criminal Prosecutions for Fraud 73|13|0|1|0
+824|Criminal Prosecutions for Fraud 73|13|2|1|0
+825|Criminal Prosecutions for Fraud 73|14|1|1|0
+826|Criminal Prosecutions for Fraud 73|14|1|1|0
+827|Criminal Prosecutions for Fraud 73|14|2|1|0
+828|Criminal Prosecutions for Fraud 73|14|1|1|0
+829|Criminal Prosecutions for Fraud 73|15|1|2|0
+830|Criminal Prosecutions for Fraud 73|15|1|2|0
+831|Criminal Prosecutions for Fraud 73|15|0|2|0
+832|Criminal Prosecutions for Fraud 73|15|1|2|0
+833|Criminal Prosecutions for Fraud 73|16|0|1|0
+834|Criminal Prosecutions for Fraud 73|16|0|1|0
+835|Criminal Prosecutions for Fraud 73|16|2|1|0
+836|Criminal Prosecutions for Fraud 73|16|0|1|0
+837|Criminal Prosecutions for Fraud 73|16|1|2|0
+838|Criminal Prosecutions for Fraud 73|17|2|2|0
+839|Criminal Prosecutions for Fraud 73|17|1|3|0
+840|Criminal Prosecutions for Fraud 73|17|0|1|0
+841|Criminal Prosecutions for Fraud 73|18|2|2|0
+842|Criminal Prosecutions for Fraud 73|19|1|1|0
+843|Criminal Prosecutions for Fraud 73|19|0|1|0
+844|Criminal Prosecutions for Fraud 73|20|0|1|0
+845|Criminal Prosecutions for Fraud 73|20|0|2|0
+846|Criminal Prosecutions for Fraud 73|20|1|1|0
+847|Legal Rights of Employees 23|1|9|5|1
+848|Legal Rights of Employees 23|1|0|1|0
+849|Legal Rights of Employees 23|2|3|2|0
+850|Legal Rights of Employees 23|2|1|1|0
+851|Legal Rights of Employees 23|2|2|1|0
+852|Legal Rights of Employees 23|2|2|1|0
+853|Legal Rights of Employees 23|2|2|2|0
+854|Legal Rights of Employees 23|2|4|2|0
+855|Legal Rights of Employees 23|3|1|1|0
+856|Legal Rights of Employees 23|3|0|1|0
+857|Legal Rights of Employees 23|3|4|4|0
+858|Legal Rights of Employees 23|3|0|0|0
+859|Legal Rights of Employees 23|3|2|1|0
+860|Legal Rights of Employees 23|3|3|1|0
+861|Legal Rights of Employees 23|3|0|1|0
+862|Legal Rights of Employees 23|3|1|1|0
+863|Legal Rights of Employees 23|4|2|1|0
+864|Legal Rights of Employees 23|4|3|2|0
+865|Legal Rights of Employees 23|5|1|2|0
+866|Legal Rights of Employees 23|5|4|1|0
+867|Legal Rights of Employees 23|5|1|1|0
+868|Legal Rights of Employees 23|5|3|2|0
+869|Legal Rights of Employees 23|6|3|1|0
+870|Legal Rights of Employees 23|7|4|2|0
+871|Legal Rights of Employees 23|7|1|1|0
+872|Legal Rights of Employees 23|7|0|1|0
+873|Legal Rights of Employees 23|8|3|1|0
+874|Legal Rights of Employees 23|8|1|1|0
+875|Legal Rights of Employees 23|8|2|1|0
+876|Legal Rights of Employees 23|8|2|2|0
+877|Legal Rights of Employees 23|8|1|1|0
+878|Legal Rights of Employees 23|8|1|1|0
+879|Legal Rights of Employees 23|9|3|1|0
+880|Legal Rights of Employees 23|9|3|2|0
+881|Legal Rights of Employees 23|9|2|1|0
+882|Legal Rights of Employees 23|10|4|4|0
+883|Legal Rights of Employees 23|10|2|1|0
+884|Legal Rights of Employees 23|10|1|1|0
+885|Legal Rights of Employees 23|11|3|1|0
+886|Legal Rights of Employees 23|11|1|1|0
+887|Legal Rights of Employees 23|11|0|0|0
+888|Legal Rights of Employees 23|12|0|1|0
+889|Legal Rights of Employees 23|12|4|2|0
+890|Legal Rights of Employees 23|13|3|1|0
+891|Legal Rights of Employees 23|14|3|1|0
+892|Legal Rights of Employees 23|14|2|1|0
+893|Legal Rights of Employees 23|15|0|1|0
+894|Legal Rights of Employees 23|15|1|1|0
+895|Legal Rights of Employees 23|15|3|1|0
+896|Legal Rights of Employees 23|15|0|1|0
+897|Legal Rights of Employees 23|15|0|0|0
+898|Legal Rights of Employees 23|16|0|1|0
+899|Legal Rights of Employees 23|16|1|1|0
+900|Legal Rights of Employees 23|16|2|2|0
+901|Legal Rights of Employees 23|16|0|1|0
+902|Legal Rights of Employees 23|16|0|1|0
+903|Legal Rights of Employees 23|16|0|1|0
+904|Legal Rights of Employees 23|16|2|1|0
+905|Legal Rights of Employees 23|17|3|2|0
+906|Legal Rights of Employees 23|18|3|1|0
+907|Legal Rights of Employees 23|18|1|1|0
+908|Legal Rights of Employees 23|19|0|0|0
+909|Legal Rights of Employees 23|19|0|1|0
+910|Legal Rights of Employees 23|19|3|1|0
+911|Legal Rights of Employees 23|19|2|1|0
+912|Legal Rights of Employees 23|20|3|2|0
+913|Legal Rights of Employees 23|20|0|1|0
+914|Legal Rights of Employees 43|1|5|5|0
+915|Legal Rights of Employees 43|1|2|1|0
+916|Legal Rights of Employees 43|2|4|2|0
+917|Legal Rights of Employees 43|2|2|1|0
+918|Legal Rights of Employees 43|2|2|2|0
+919|Legal Rights of Employees 43|3|3|1|1
+920|Legal Rights of Employees 43|3|0|1|0
+921|Legal Rights of Employees 43|3|1|1|0
+922|Legal Rights of Employees 43|4|4|3|0
+923|Legal Rights of Employees 43|5|3|2|0
+924|Legal Rights of Employees 43|6|2|2|0
+925|Legal Rights of Employees 43|6|1|2|0
+926|Legal Rights of Employees 43|7|3|3|0
+927|Legal Rights of Employees 43|8|4|3|0
+928|Legal Rights of Employees 43|8|1|1|0
+929|Legal Rights of Employees 43|8|1|1|0
+930|Legal Rights of Employees 43|8|2|2|0
+931|Legal Rights of Employees 43|8|1|2|0
+932|Legal Rights of Employees 43|8|3|1|0
+933|Legal Rights of Employees 43|9|2|2|0
+934|Legal Rights of Employees 43|9|4|2|0
+935|Legal Rights of Employees 43|9|4|2|0
+936|Legal Rights of Employees 43|9|1|1|0
+937|Legal Rights of Employees 43|9|1|1|0
+938|Legal Rights of Employees 43|9|1|2|0
+939|Legal Rights of Employees 43|9|0|2|0
+940|Legal Rights of Employees 43|10|1|1|0
+941|Legal Rights of Employees 43|10|2|2|0
+942|Legal Rights of Employees 43|10|1|1|0
+943|Legal Rights of Employees 43|11|3|4|0
+944|Legal Rights of Employees 43|11|0|1|0
+945|Legal Rights of Employees 43|12|3|2|0
+946|Legal Rights of Employees 43|13|2|1|0
+947|Legal Rights of Employees 43|13|2|1|0
+948|Legal Rights of Employees 43|13|1|1|0
+949|Legal Rights of Employees 43|13|1|1|0
+950|Legal Rights of Employees 43|14|2|2|0
+951|Legal Rights of Employees 43|14|0|2|0
+952|Legal Rights of Employees 43|14|2|2|0
+953|Legal Rights of Employees 43|14|0|1|0
+954|Legal Rights of Employees 43|15|3|2|0
+955|Legal Rights of Employees 43|15|0|1|0
+956|Legal Rights of Employees 43|16|3|2|0
+957|Legal Rights of Employees 43|16|1|1|0
+958|Legal Rights of Employees 43|17|2|3|0
+959|Legal Rights of Employees 43|18|1|1|0
+960|Legal Rights of Employees 43|18|1|2|0
+961|Legal Rights of Employees 43|19|2|1|0
+962|Legal Rights of Employees 43|19|0|1|0
+963|Legal Rights of Employees 43|19|1|1|0
+964|Legal Rights of Employees 43|19|2|1|0
+965|Legal Rights of Employees 43|19|0|0|0
+966|Legal Rights of Employees 43|20|2|2|0
+967|Legal Rights of Employees 43|20|0|1|0
+968|Legal Rights of Employees 43|20|1|1|0
+969|Legal Rights of Employees 43|20|2|2|0
+970|Legal Rights of Employees 43|20|1|1|0
+971|Legal Rights of Employees 43|20|0|1|0

@@ -31,40 +31,53 @@ import financial.fraud.cfe.logging.Logger;
  * "Employees Right Against Self-Incrimination" is stored as "Employee s Right Against SelfIncrimination" even though
  * when printed out, the title shows "Employees Right Against SelfIncrimination" (no space between the e and s in
  * Employees).
- * 
- * field layout for file3: ----------------------- 1. question number 2. question id 3. exam section 4. question section
- * 5. correct doc id 6. correct doc rank 7. correct doc name 8. question stem 9. correct option 10. option2 11. option3
- * 12. option4 13. correct passage id 14. correct passage
- * 
- * 
- * For Test set questions: Question 9 Correct document: On-Us Items Question 15 Correct Document: Employees Right
- * Against Self-Incrimination
- * 
- * Manual overrides of rank: 
- * ------------------------- 
- * Training set: 
- * 1. Financial Institution Fraud 31 - change rank to 1, doc id to 8. 
- * 2. Illicit Transactions 29 - change rank to 2, doc id to 21.
- *
- * Test set: 
- * 1. Legal Rights of Employees 43 - change rank to 3, doc id to 13 
- * 2. Illicit Transactions 40 - change rank to 1, doc id to 36
- * 
- * 
- * @author joejohnson
- *
  */
+// field layout for file3:
+// -----------------------
+// 1. question number
+// 2. question id
+// 3. exam section
+// 4. question section
+// 5. correct doc id
+// 6. correct doc rank
+// 7. correct doc name
+// 8. question stem
+// 9. correct option
+// 10. option2
+// 11. option3
+// 12. option4
+// 13. correct passage id
+// 14. correct passage
+//
+//
+// For Test set questions: 
+// Question 9 Correct document: On-Us Items 
+// Question 15 Correct Document: Employees Right Against Self-Incrimination
+//
+// Manual overrides of rank:
+// -------------------------
+// Training set:
+// 1. Financial Institution Fraud 31 - change rank to 1, doc id to 8.
+// 2. Illicit Transactions 29 - change rank to 2, doc id to 21.
+//
+// Note that with these edits above, we have only 8 questions for which lucene does not find the matching document.
+// (i.e., where the correct doc id = -1, correct doc rank = -1.
+//
+// Test set:
+// 1. Digital Forensics 7 - change rank to 1, doc id to 47
+// 2. Illicit Transactions 40 - change rank to 1, doc id to 36
+// 3. Legal Rights of Employees 43 - change rank to 3, doc id to 13
 
 public class MLTraining3FileBuilder {
 
 	private final String CFE_MANUAL_CLASS_NAME = "CFEManualSmallDocUnitRegex";
 
-	private final String INPUT_FILE = "ml.training.2.txt";
-	private final String OUTPUT_FILE = "ml.training.3.txt";
+//	private final String INPUT_FILE = "ml.training.2.txt";
+//	private final String OUTPUT_FILE = "ml.training.3.txt";
 
-	// private final String INPUT_FILE = "ml.test.2.txt";
-	// private final String OUTPUT_FILE = "ml.test.3.txt";
-	private final int PASSAGE_ID_LENGTH = 20;
+	private final String INPUT_FILE = "ml.test.2.txt";
+	private final String OUTPUT_FILE = "ml.test.3.txt";
+	private final int PASSAGE_ID_LENGTH = 25;
 
 	protected String examSectionName;
 
@@ -129,7 +142,7 @@ public class MLTraining3FileBuilder {
 
 				int rank = getMatchingDocRank(is, hits, correctDocName);
 				int correctDocID = (rank != -1) ? hits.scoreDocs[rank - 1].doc : -1;
-				String correctPassageID = correctPassage.substring(0, PASSAGE_ID_LENGTH);
+				String correctPassageID = correctPassage.substring(0, PASSAGE_ID_LENGTH).trim();
 
 				if (rank == -1)
 					fileNotFoundCount++;
