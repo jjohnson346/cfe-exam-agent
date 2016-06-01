@@ -4,7 +4,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -77,6 +76,7 @@ public class MLTraining4FileBuilder {
 	private final String OUTPUT_FILE = "ml.test.4.txt";
 
 	private final int PASSAGE_ID_LENGTH = 25;
+	private final int MIN_PASSAGE_LENGTH = 9999;
 
 	protected String examSectionName;
 
@@ -218,7 +218,7 @@ public class MLTraining4FileBuilder {
 						// extract only the first few characters of the passage.
 						// extracting the whole passage proved problematic as there
 						// are some passage with funky characters, etc.
-						int passageExtractLength = Math.min(passage.length(), 60);
+						int passageExtractLength = Math.min(passage.length(), MIN_PASSAGE_LENGTH);
 
 						sb.append(passage.substring(0, passageExtractLength) + delimiter);
 						sb.append(numWordsInCommon + delimiter);

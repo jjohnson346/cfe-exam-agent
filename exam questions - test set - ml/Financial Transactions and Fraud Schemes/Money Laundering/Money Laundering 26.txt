@@ -1,0 +1,9 @@
+Section=Money Laundering
+
+Stem=A money laundering scheme cannot be successful until the _______________ is eliminated or made so complex that individual steps cannot be easily traced.
+
+Options=Placement | Paper trail | Integration | Reporting
+
+CorrectResponse=1
+
+Explanation=A money laundering scheme cannot be successful until the paper trail is eliminated or made so complex that individual steps cannot be easily traced. The number of steps used depends on how much distance the money launderer wishes to put between the illegally earned cash and the laundered asset into which it is converted. A greater number of steps increases the complexity of tracing the funds, but it also increases the length of the paper trail and the chance that the transaction will be reported.See page(s) 1.1602 in the Fraud Examiner‰??s Manual

@@ -1,0 +1,9 @@
+Section=Legal Rights of Employees
+
+Stem=Which Amendment to the U.S. Constitution covers the right not to testify against oneself?
+
+Options=Fourteenth Amendment | Fourth Amendment | Sixth Amendment | Fifth Amendment
+
+CorrectResponse=3
+
+Explanation=The Fifth Amendment covers the rights against self-incrimination. It states: "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment of indictment of a Grand Jury, except in cases arising in the land or naval forces, or in the Militia, when in actual service in time of war or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall he be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation."See page(s) 2.403, 2.406 in the Fraud Examiner's Manual

@@ -70,33 +70,49 @@ table(glm.pred, icp.test)
 # probabilities.  Create a data frame with the top 3 passages for each question
 # and then write that data to a file.
 
-qids.unique = unique(passages.test$qid)
-
-pass.qid1 = passages.test[passages.test$qid==qids.unique[1],]
-arrange(pass.qid1, -prob)
-
 passages.best=data.frame(rid=integer(),
                          qid=character(),
                          dr=integer(),
                          nwic=integer(),
                          llcs=integer(),
                          icp=integer(),
+                         opt1=character(),
+                         opt2=character(),
+                         opt3=character(),
+                         opt4=character(),
+                         pid=character(),
+                         passage=character(),
                          prob=double())
+
+qids.unique = unique(passages.test$qid)
 
 for(qid in qids.unique) {
   passages.curr.qid = passages.test[passages.test$qid==qid,]
   passages.curr.qid = arrange(passages.curr.qid, -prob)
-  print(passages.curr.qid)
+  # print(passages.curr.qid)
   passages.best=rbind(passages.best, passages.curr.qid[1:7,])
-  print(passages.best)
 }
+
+print(passages.best[c("rid","qid","dr","nwic","llcs","icp","prob")])
 
 # print out the number of records for which we have icp (is correct passage) = 1.
 # in this case, if we have all of them, the number should be 16.  With a limit 
-# on the number of top passages of 7, we get 15 (thus, one is missing).
+# on the number of top passages of 7, we get 15 (thus, one is missing).  With
+# a limit of 5, on the other hand, we get 13.  See table below.
+# 
+# limit     number correct passages captured
+# -----     --------------------------------
+#   9                    16
+#   7                    15
+#   6                    13 
+#   5                    13
+#   4                    12
+#   3                    12
+
 sum(passages.best$icp)
 
 # write passages.best data frame to file.
-write.table(passages.best, file="ml.test.7.txt", append=FALSE, sep="|", quote=FALSE)
+write.table(passages.best[c("qid","dr","nwic","llcs","icp","opt1","opt2","opt3","opt4","pid","pass","prob")],
+            file="ml.test.7.txt", append=FALSE, sep="|", quote=FALSE)
 ################################################################################
 

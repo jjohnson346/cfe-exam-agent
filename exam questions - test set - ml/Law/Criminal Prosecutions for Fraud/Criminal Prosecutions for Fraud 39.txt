@@ -1,0 +1,9 @@
+Section=Criminal Prosecutions for Fraud
+
+Stem=In certain circumstances, the defendant may be allowed to plead guilty, although continuing to assert his or her innocence. This procedure is called:
+
+Options=The Brady plea | The Alford plea | The Johnson plea | The Katz plea
+
+CorrectResponse=1
+
+Explanation=In some circumstances, a defendant may be allowed to enter an Alford plea (named after the Supreme Court case which upheld the practice) under which he or she pleads guilty although continuing to assert his or her innocence. Such a plea may be made to obtain the benefits of a plea agreement and to avoid more dire consequences, such as the death penalty, if the defendant is convicted after the trial. Before the court accepts the Alford plea, it must satisfy itself that there is strong evidence of guilt and that the defendant understands the consequences.See page(s) 2.508-2.509 in the Fraud Examiner's Manual

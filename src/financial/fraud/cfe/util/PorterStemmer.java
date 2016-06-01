@@ -630,5 +630,6 @@ public class PorterStemmer {
 				System.out.println("file " + args[i] + " not found");
 				break;
 			}
+		
 	}
 }
