@@ -1,5 +1,11 @@
 version log
 
+3.0.3
+
+- added algorithms that utilize the passage data generated from the machine learning algorithms created in 
+version 3.0.2.  These algorithms are MLPassage1.java, MLPassage2.java, MLPassage2Old.java, and MLPassage4.java.
+
+
 3.0.2
 
 - added a feature that detects whether the question is from the corporate fraud handbook.  This reduced the
@@ -28,7 +34,7 @@ accuracy increased on multiple choice from 0.575 to 0.580 with no change for tru
 files in the financial.fraud.cfe.ml
 package, including MLTraining1FileBuilder.java, MLTraining2FileBuilder.java, and so on.  
 This also includes the R script file(s) in the r folder, including passages.log.reg.R.  
-These source code files support the develpment of the training/test files in the machine learning directory, including
+These source code files support the development of the training/test files in the machine learning directory, including
 ml.test.1.txt, ml.test.2.txt, ml.training.1.txt, ml.training.2.txt, etc.  For further documentation, see the source
 code files mentioned above.
 
