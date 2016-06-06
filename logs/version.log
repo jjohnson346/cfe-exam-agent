@@ -2,9 +2,17 @@ version log
 
 3.0.4
 
-- ran AlgorithmTester with various algorithms of chapter 4, namely ConceptMatchV1, ConceptMatchV2, etc., altering 
+- modified testing code in main function in AglorithmTester class. ran AlgorithmTester with various algorithms 
+of chapter 4, namely ConceptMatchV1, ConceptMatchV2, etc., altering 
 the data in the AlgorithmTester source code file for the results of these tests, accordingly (hence, the need
 for this separate version).
+  
+- modified profile.data.txt by running the Profiler after having altered some of the questions/features as enumerated
+in the comments below for versions 3.0.0, 3.0.1, and 3.0.2.  This run resulted in the creation of the files,
+profile.data.3.0.4.txt and profile.data.summarized.3.0.4.txt.
+
+- ran CFEAgent on test set (200 questions) using latest profile.data.txt file (see above).  resulted in score of
+119 out of 200 (59.5%) (so close to 60%!!!! - ugh!!!).  See cfe.exam.agent.test.set.3.0.4.log for details.
 
 3.0.3
 

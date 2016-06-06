@@ -3,8 +3,9 @@ package financial.fraud.cfe.util;
 import java.util.Scanner;
 
 import financial.fraud.cfe.agent.CFEExamQuestion;
+import financial.fraud.cfe.algorithm.ConceptMatchV3NOTA;
 import financial.fraud.cfe.algorithm.IAlgorithm;
-import financial.fraud.cfe.algorithm.MLPassage2;
+import financial.fraud.cfe.algorithm.NoneOfTheAbove;
 import financial.fraud.cfe.logging.DetailLevel;
 import financial.fraud.cfe.logging.Logger;
 import financial.fraud.cfe.manual.CFEManual;
@@ -49,7 +50,7 @@ public class AlgorithmTester {
 		int correctCount = 0;
 		int negativeOneCount = 0;
 		try {
-//			for(int i = 0; i < 1; i++) {
+			// for(int i = 0; i < 1; i++) {
 			while (qs.hasNext()) {
 				CFEExamQuestion question = qs.next();
 				System.out.println("\n\nQuestion " + ++count + " of " + qs.size() + ":");
@@ -97,53 +98,57 @@ public class AlgorithmTester {
 	}
 
 	public static void main(String[] args) {
-		 Logger.getInstance().setDetailLevel(DetailLevel.FULL);
+		Logger.getInstance().setDetailLevel(DetailLevel.FULL);
 
-		// conceptmatchV1 on profile 4 (def) on test set: accuracy: 10 out of 26 (38%)
+		// conceptmatchV1 on profile 4 (def) on test set: accuracy: 7 out of 20 (35%) (from 38% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV1());
 
-		// conceptmatchV1 on profile 4 (def) on training set: accuracy: 71 out of 196 (36.2%)
+		// conceptmatchV1 on profile 4 (def) on training set: accuracy: 56 out of 150 (37.3%) (from 36.2% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV1());
 
-		// conceptmatchV2 on profile 4 (def) on test set: accuracy: 18 out of 26 (69.2%)
+		// conceptmatchV2 on profile 4 (def) on test set: accuracy: 14 out of 20 (70%) (from 69.2% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV2());
 
-		// conceptmatchV2 on profile 4 (def) on training set: accuracy: 118 out of 196 (60.2%)
+		// conceptmatchV2 on profile 4 (def) on training set: accuracy: 101 out of 150 (67.3%) (from 60.2% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV2());
 
-		// conceptmatchV3 on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
+		// conceptmatchV3 on profile 4 (def) on test set: accuracy: 15 out of 20 (75%) (from 76.9% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3());
 
-		// conceptmatchV3 on profile 4 (def) on training set: accuracy: 121 out of 196 (61.7%)
+		// conceptmatchV3 on profile 4 (def) on training set: accuracy: 105 out of 150 (70%) (from 61.7% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new ConceptMatchV3());
 
-		// ConceptMatchV3NOTA on profile 4 (def) on test set: accuracy: 20 out of 26 (76.9%)
+		// ConceptMatchV3NOTA on profile 4 (def) on test set: accuracy: 15 out of 20 (75%) (from 76.9% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 4, new ConceptMatchV3NOTA());
 
-		// ConceptMatchV3NOTA on profile 4 (def) on training set: accuracy: 121 out of 196 (61.7%)
+		// ConceptMatchV3NOTA on profile 4 (def) on training set: accuracy: 105 out of 150 (70%) (from 61.7% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 4, new
 		// ConceptMatchV3NOTA());
 
-		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on test set: accuracy: 24 out of 33 (72.7%)
+		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on test set: accuracy: 24 out of 33 (72.7%) (same as
+		// v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set", 68, new ConceptMatchV3NOTA());
 
-		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on training set: accuracy: 107 out of 169 (63.3%)
+		// ConceptMatchV3NOTA on profile 68 (def/none of the above) on training set: accuracy: 106 out of 162 (65.4%)
+		// (from 63.3% in v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new
 		// ConceptMatchV3NOTA());
 
-		// ConceptMatchV3NOT on profile 6 (def/not) on training set: accuracy: 12 out of 27 (44.4%)
+		// ConceptMatchV3NOT on profile 6 (def/not) on training set: accuracy: 8 out of 27 (29.6%) (from 44.4% in
+		// v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 6, new
 		// ConceptMatchV3NOT());
 
-		// ConceptMatchV3NOT on profile 36 (def/not) on training set: accuracy: 1 out of 12 (8.3%)
+		// ConceptMatchV3NOT on profile 36 (def/except) on training set: accuracy: 1 out of 11 (9%) (from 8.3% in
+		// v.2.0.1)
 		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 36, new
 		// ConceptMatchV3NOT());
 
-		// NoneOfTheAbove on profile 68 (def/not) on training set: accuracy:
-		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new NoneOfTheAbove());
+		// NoneOfTheAbove on profile 68 (def/none-above) on training set: accuracy: 12 out of 162 (7%)
+		AlgorithmTester algoTester = new AlgorithmTester("exam questions - training set", 68, new NoneOfTheAbove());
 
 		// MLPassage algorithm
-		AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set - ml", new MLPassage2());
+		// AlgorithmTester algoTester = new AlgorithmTester("exam questions - test set - ml", new MLPassage2());
 
 		algoTester.start(false);
 	}
